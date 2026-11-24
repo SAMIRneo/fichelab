@@ -29,7 +29,7 @@ Le référentiel du 6 mai 2013 organise la certification en unités générales 
 | `Comptabilité et gestion` | CP1. Bilan · CP2. Compte de résultat · CP3. PCG · CP4. TVA · CP10. Fiscalité · CP11. Paie |
 | `Maths / stats` | MS1. Calcul et pourcentages · MS2. Statistiques descriptives · MS3. Probabilités · MS4. Fonctions et modélisation |
 | `Droit` | DR1. Formes juridiques · DR2. Contrat commercial · DR3. Concurrence · DR4. Consommation |
-| `Économie` | EC1. Offre et demande · EC2. Structures de marché · EC3. Croissance et conjoncture · EC4. Inflation et taux |
+| `Économie` | EC1. Offre et demande · EC2. Structures de marché |
 | `Management` | MA1. Organisation · MA2. Décision opérationnelle · MA3. Animation d'équipe |
 | `Français` | PF1. Synthèse de documents · PF2. Analyse et argumentation |
 | `Anglais professionnel` | AN1. Documents comptables et financiers · AN2. Lexique comptable et financier |
@@ -37,7 +37,7 @@ Le référentiel du 6 mai 2013 organise la certification en unités générales 
 | `Informatique` | IN1. Systèmes d'information de gestion · IN2. Outils numériques comptables et tableurs |
 | `Méthodologie` | ME1. Analyse de situation · ME2. Conduite de projet |
 
-**Total BTS1 : 32 fiches.**
+**Total BTS1 : 29 fiches.**
 
 ## 3. Carte BTS2
 
@@ -46,7 +46,7 @@ Le référentiel du 6 mai 2013 organise la certification en unités générales 
 | `Comptabilité et gestion` | CP5. Comptabilité analytique · CP6. Coûts · CP7. Marges · CP8. Budgets · CP9. Analyse financière · CP12. Contrôle de gestion |
 | `Maths / stats` | MS5. Séries et indices · MS6. Mathématiques financières · MS7. Échantillonnage · MS8. Corrélation et régression |
 | `Droit` | DR5. Droit social · DR6. Droit fiscal · DR7. Sûretés et recouvrement |
-| `Économie` | EC5. Emploi et chômage · EC6. Finances publiques · EC7. Environnement économique international |
+| `Économie` | EC3. Croissance et conjoncture · EC4. Inflation et taux · EC5. Emploi et chômage · EC6. Finances publiques · EC7. Environnement économique international |
 | `Management` | MA4. RH et motivation · MA5. Qualité et risques · MA6. Changement et stratégie |
 | `Français` | PF3. Expression écrite professionnelle · PF4. Culture générale et expression orale |
 | `Anglais professionnel` | AN3. Expression écrite en anglais · AN4. Expression orale et entretien |
@@ -54,7 +54,7 @@ Le référentiel du 6 mai 2013 organise la certification en unités générales 
 | `Informatique` | IN3. Données, bases de données et RGPD · IN4. Cybersécurité et usages responsables |
 | `Méthodologie` | ME3. Recherche et veille · ME4. Soutenance et parcours de professionnalisation |
 
-**Total BTS2 : 28 fiches.**
+**Total BTS2 : 31 fiches.**
 
 > La matière `Marketing` fait partie du vocabulaire exact du questionnaire et du programme E3 (démarche marketing, politique de produit et de prix) ; le plan de production ci-dessous (20 + 20 + 20) ne lui attribue pas de chapitre dédié : ses notions sont traitées dans les chapitres `MA`, `EC` et `CP` concernés.
 

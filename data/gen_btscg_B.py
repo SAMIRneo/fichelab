@@ -321,7 +321,7 @@ F.append(fiche(
 # ========================================================== DR4
 F.append(fiche(
     FIL, BTS1, "Droit",
-    "DR4. · Droit de la consommation : information et protection du client",
+    "DR4. · Droit de la consommation : information, rétractation et garanties",
     SRC_DROIT + " · notions : consommateur, pratique trompeuse, rétractation, garantie",
     [
         "Le Code de la consommation protège le consommateur, défini comme toute personne physique qui agit à des fins étrangères à son activité professionnelle. Cette qualité déclenche un régime protecteur spécifique.",
