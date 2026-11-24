@@ -1,0 +1,3708 @@
+{
+  "fiches": [
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Culture générale et expression",
+      "titre": "Construire une problématique et un plan d'argumentation",
+      "source": "Arrêté du 13 juillet 2023 relatif aux objectifs, contenus et compétences de l'enseignement de Culture générale et expression en BTS (JORF n° 177 du 2 août 2023), complété par la note de service annuelle publiant le thème de 2ᵉ année",
+      "points": [
+        "L'enseignement de culture générale et expression vise à nourrir une culture humaniste et à consolider les compétences de lecture, d'écriture et d'oral (arrêté du 13 juillet 2023).",
+        "Traiter un sujet consiste à définir les termes, repérer la tension ou le paradoxe, puis formuler une problématique qui ouvre un débat plutôt qu'une question fermée.",
+        "Le plan dialectique (thèse, antithèse, synthèse) ou le plan thématique organise une argumentation où chaque idée est appuyée par un argument et un exemple.",
+        "Une copie réussie comporte une introduction (accroche, définition, problématique, annonce du plan), des parties équilibrées et une conclusion qui répond et ouvre."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel texte régit aujourd'hui l'épreuve de culture générale et expression en BTS ?",
+          "options": [
+            "L'arrêté du 13 juillet 2023",
+            "L'arrêté du 17 janvier 2005",
+            "L'arrêté du 15 février 2018",
+            "L'arrêté du 4 juin 2013"
+          ],
+          "correct": 0,
+          "correction": "L'arrêté du 13 juillet 2023 (JORF du 2 août 2023) a remplacé les arrêtés de 2005 et 2006 à la rentrée 2024."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce qu'une problématique ?",
+          "reponse": "C'est la question centrale, formulée après analyse du sujet, qui met en tension les termes et guide toute l'argumentation.",
+          "correction": "Elle ne se limite pas à reformuler le sujet : elle ouvre un débat et détermine le plan suivi."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Maths",
+      "titre": "Pourcentages, ratios et indices en mathématiques commerciales",
+      "source": "Arrêté du 4 juin 2013 fixant les objectifs, contenus et le référentiel de capacités du domaine des mathématiques pour le BTS (BO n° 29 du 18 juillet 2013)",
+      "points": [
+        "Une variation relative se calcule par (valeur finale - valeur initiale) / valeur initiale × 100 ; une hausse de 20 % suivie d'une baisse de 20 % ne ramène pas à la valeur de départ.",
+        "Un indice rapporte une grandeur à une valeur de base fixée à 100 ; l'évolution entre deux indices est (indice final - indice initial) / indice initial × 100.",
+        "Une moyenne pondérée vaut Σ(valeur × coefficient) / Σ(coefficients) : elle est indispensable pour calculer une note ou un coût moyen.",
+        "Taux de marge, taux de marque et remise s'expriment par rapport à une base (achat ou vente) qu'il faut toujours préciser sous peine d'erreur."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Un prix passe de 50 € à 60 €. Quelle est la variation en pourcentage ?",
+          "options": [
+            "+ 10 %",
+            "+ 20 %",
+            "+ 16,7 %",
+            "+ 50 %"
+          ],
+          "correct": 1,
+          "correction": "(60 - 50) / 50 × 100 = 20 % : on divise toujours par la valeur initiale."
+        },
+        {
+          "type": "texte",
+          "q": "Comment calculer l'évolution entre deux indices ?",
+          "reponse": "On calcule (indice final - indice initial) / indice initial × 100.",
+          "correction": "Le dénominateur est l'indice de départ, jamais l'indice d'arrivée."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Anglais professionnel",
+      "titre": "Rédiger un e-mail professionnel et conduire un échange en anglais",
+      "source": "Programme officiel d'anglais professionnel du BTS (arrêté de création de la spécialité, Bulletin officiel) ; niveau B1/B2 du Cadre européen commun de référence pour les langues",
+      "points": [
+        "Un e-mail professionnel anglais suit une structure codifiée : objet précis (subject), salutation (Dear Ms Smith), corps, formule de clôture (Kind regards) et signature.",
+        "Le style anglais professionnel est plus direct qu'en français : on énonce l'objet du message dès la première phrase et on évite les formules superflues.",
+        "Les modaux adoucissent les demandes : could you, would you mind, I would appreciate it if... marquent la politesse et la distance hiérarchique.",
+        "Le niveau visé est B1/B2 du CECRL : comprendre des documents courants, rédiger un message clair et participer à un échange professionnel."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle clôture convient à un e-mail professionnel formel en anglais ?",
+          "options": [
+            "See you soon",
+            "Kind regards",
+            "Cheers mate",
+            "Bye"
+          ],
+          "correct": 1,
+          "correction": "Kind regards est la formule standard et neutre ; les autres sont trop familières."
+        },
+        {
+          "type": "texte",
+          "q": "Comment formuler poliment une demande en anglais ?",
+          "reponse": "En employant un modal atténuatif, par exemple : Could you send me the quotation?",
+          "correction": "Could ou Would + verbe à la base transforment un ordre en demande polie."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Méthodologie",
+      "titre": "Préparer et présenter son dossier professionnel (CCF)",
+      "source": "Référentiel officiel de la spécialité BTS (arrêté de création, BO) — modalités de contrôle en cours de formation (CCF) et dossier professionnel",
+      "points": [
+        "Le dossier professionnel rassemble les traces des compétences acquises en stage et en situations professionnelles : documents de travail, comptes rendus, évaluations de tuteurs.",
+        "Le contrôle en cours de formation (CCF) s'appuie sur ce dossier : l'étudiant présente une situation, justifie ses choix puis répond aux questions du jury.",
+        "Une situation se raconte selon une structure stable : contexte, objectif, actions menées, résultats obtenus, analyse critique et pistes d'amélioration.",
+        "La préparation orale exige des fiches synthétiques, la maîtrise du vocabulaire technique et une gestion rigoureuse du temps de parole."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que signifie le sigle CCF dans le BTS ?",
+          "options": [
+            "Contrôle Continu et Final",
+            "Contrôle en Cours de Formation",
+            "Certification Commune Française",
+            "Centre de Formation Continue"
+          ],
+          "correct": 1,
+          "correction": "Le CCF est le Contrôle en Cours de Formation, évaluation régulière par le jury."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles parties structurent la présentation d'une situation professionnelle ?",
+          "reponse": "Contexte, objectif, actions, résultats, analyse critique et amélioration.",
+          "correction": "Cette trame montre la démarche et le recul de l'étudiant, pas seulement le résultat."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ndrc"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Culture générale et expression",
+      "titre": "Lire et commenter un texte argumentatif",
+      "source": "Arrêté du 13 juillet 2023 relatif aux objectifs, contenus et compétences de l'enseignement de Culture générale et expression en BTS (JORF n° 177 du 2 août 2023), complété par la note de service annuelle publiant le thème de 2ᵉ année",
+      "points": [
+        "Le commentaire de texte repose sur une lecture méthodique : identifier le genre, le thèse défendue, les registres et les procédés rhétoriques employés.",
+        "Un argument est une raison avancée pour soutenir une thèse ; il se distingue de l'exemple, qui l'illustre et le rend concret.",
+        "Les connecteurs logiques (en effet, or, donc, cependant) révèlent l'architecture du raisonnement et doivent être repérés.",
+        "L'épreuve rénovée de 2025 privilégie la compréhension, l'expression écrite et créative, et un thème étudié en deuxième année (arrêté du 13 juillet 2023)."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est le rôle d'un exemple dans un texte argumentatif ?",
+          "options": [
+            "Il remplace la thèse",
+            "Il illustre et concrétise l'argument",
+            "Il conclut le texte",
+            "Il introduit le thème"
+          ],
+          "correct": 1,
+          "correction": "L'exemple sert à rendre l'argument tangible et crédible."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle différence y a-t-il entre thèse et argument ?",
+          "reponse": "La thèse est l'idée défendue ; l'argument est la raison qui la justifie.",
+          "correction": "L'exemple, lui, illustre l'argument sans le remplacer."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ndrc"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Maths",
+      "titre": "Mathématiques de la vente : marges, escomptes et prix",
+      "source": "Arrêté du 4 juin 2013 fixant les objectifs, contenus et le référentiel de capacités du domaine des mathématiques pour le BTS (BO n° 29 du 18 juillet 2013)",
+      "points": [
+        "La marge commerciale égale prix de vente HT - coût d'achat HT ; le taux de marge se rapporte au coût d'achat, le taux de marque au prix de vente.",
+        "Une remise commerciale est un pourcentage déduit du prix ; des remises successives de 10 % et 20 % équivalent à un coefficient multiplicateur de 0,9 × 0,8 = 0,72, soit 28 % de remise globale.",
+        "L'escompte pour paiement anticipé (par exemple 2 % à 10 jours, net 30 jours) est calculé sur le montant TTC de la facture.",
+        "La TVA s'ajoute au prix HT : prix TTC = prix HT × (1 + taux) ; le calcul inverse permet d'extraire la TVA d'un prix TTC."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Un article acheté 80 € est vendu 100 € HT. Quel est le taux de marge ?",
+          "options": [
+            "20 %",
+            "25 %",
+            "80 %",
+            "125 %"
+          ],
+          "correct": 1,
+          "correction": "Taux de marge = (100 - 80) / 80 = 25 % ; le taux de marque serait 20 %."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi deux remises successives de 10 % et 20 % ne font-elles pas 30 % ?",
+          "reponse": "Parce que la seconde remise s'applique au prix déjà réduit : le coefficient est 0,9 × 0,8 = 0,72.",
+          "correction": "La remise globale est donc de 28 %, les pourcentages ne s'additionnant pas."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ndrc"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Anglais professionnel",
+      "titre": "Anglais de la négociation : expressions et tournures utiles",
+      "source": "Programme officiel d'anglais professionnel du BTS (arrêté de création de la spécialité, Bulletin officiel) ; niveau B1/B2 du Cadre européen commun de référence pour les langues",
+      "points": [
+        "L'ouverture d'une négociation en anglais utilise des formules de cadrage : Let me outline our proposal, What are your priorities?, Could we discuss the terms?",
+        "Les modaux et le conditionnel (we could, we would be able to) permettent de formuler des propositions sans s'engager immédiatement.",
+        "Savoir reformuler (So, if I understand correctly...) et confirmer (That's right) sécurise la compréhension et montre l'écoute active.",
+        "Le vocabulaire clé du commerce international comprend quotation, lead time, discount, payment terms, after-sales service."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle expression sert à reformuler ce que l'interlocuteur a dit ?",
+          "options": [
+            "Let me outline our proposal",
+            "So, if I understand correctly...",
+            "It's not my problem",
+            "See you later"
+          ],
+          "correct": 1,
+          "correction": "So, if I understand correctly... est une technique de reformulation et d'écoute active."
+        },
+        {
+          "type": "texte",
+          "q": "Comment atténuer une proposition en anglais ?",
+          "reponse": "En utilisant le conditionnel ou un modal : We could offer a 5% discount.",
+          "correction": "Le conditionnel présente l'offre comme une possibilité, ce qui facilite la discussion."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ndrc"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Économie",
+      "titre": "Les structures de marché et la concurrence",
+      "source": "Arrêté du 15 février 2018 portant définition du programme et de l'épreuve de Culture économique, juridique et managériale (CEJM), BO",
+      "points": [
+        "Une structure de marché se caractérise par le nombre d'offreurs, le degré d'homogénéité des produits et les barrières à l'entrée.",
+        "En concurrence parfaite, de nombreux offreurs vendent un produit homogène : chacun est price taker, le prix s'impose par le marché.",
+        "En monopole, un seul offreur fait face à de nombreux acheteurs ; il dispose d'un pouvoir de prix mais reste contraint par la demande et la régulation.",
+        "L'oligopole, avec peu d'entreprises, conduit à des stratégies interdépendantes ; l'État surveille les pratiques anticoncurrentielles (article L. 420-1 du Code de commerce)."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Dans quel marché l'entreprise est-elle « price taker » ?",
+          "options": [
+            "Le monopole",
+            "L'oligopole",
+            "La concurrence parfaite",
+            "Le monopole naturel"
+          ],
+          "correct": 2,
+          "correction": "En concurrence parfaite, l'entreprise subit le prix du marché car elle est trop petite pour l'influencer."
+        },
+        {
+          "type": "texte",
+          "q": "Quels critères caractérisent une structure de marché ?",
+          "reponse": "Le nombre d'offreurs, l'homogénéité des produits et les barrières à l'entrée.",
+          "correction": "Ces critères déterminent le pouvoir de prix dont dispose l'entreprise."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ci"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Culture générale et expression",
+      "titre": "L'argumentation écrite sur un sujet de société",
+      "source": "Arrêté du 13 juillet 2023 relatif aux objectifs, contenus et compétences de l'enseignement de Culture générale et expression en BTS (JORF n° 177 du 2 août 2023), complété par la note de service annuelle publiant le thème de 2ᵉ année",
+      "points": [
+        "Un sujet de société appelle une argumentation problématisée : on part d'un constat, on identifie un enjeu puis on construit une thèse nuancée.",
+        "La définition des mots-clés est une étape indispensable : elle évite les contresens et permet de délimiter le champ du sujet.",
+        "Un bon argument est pertinent, démontré et illustré ; la qualité d'une copie tient davantage à la rigueur du raisonnement qu'au nombre d'exemples.",
+        "Depuis la réforme de 2023, l'épreuve de BTS évalue aussi la capacité à diversifier les formes d'écriture et à mobiliser une culture ouverte sur le monde contemporain."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle qualité est attendue d'un bon argument ?",
+          "options": [
+            "Il doit être long",
+            "Il doit être pertinent et démontré",
+            "Il doit être humoristique",
+            "Il doit être unique"
+          ],
+          "correct": 1,
+          "correction": "Un argument convainc par sa pertinence et sa démonstration, non par sa longueur."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi définir les termes d'un sujet avant d'argumenter ?",
+          "reponse": "Pour fixer le sens des mots et délimiter précisément le champ de la réflexion.",
+          "correction": "Cela évite le hors-sujet et rend la problématique plus rigoureuse."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ci"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Maths",
+      "titre": "Mathématiques du commerce international : changes et conversions",
+      "source": "Arrêté du 4 juin 2013 fixant les objectifs, contenus et le référentiel de capacités du domaine des mathématiques pour le BTS (BO n° 29 du 18 juillet 2013)",
+      "points": [
+        "Un taux de change exprime le prix d'une devise en une autre ; on distingue le change direct (prix de la devise étrangère en monnaie nationale) et le change indirect.",
+        "Pour convertir 10 000 USD en euros avec un taux de 1 EUR = 1,10 USD, on divise par 1,10, soit environ 9 090,91 EUR.",
+        "Une variation de change se calcule en pourcentage ; une devise qui s'apprécie rend les importations moins chères et les exportations plus chères.",
+        "Les opérateurs utilisent des taux acheteur et vendeur : l'écart (spread) représente la marge du changeur et un coût pour l'entreprise."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Avec 1 EUR = 1,10 USD, combien valent 11 000 USD en euros ?",
+          "options": [
+            "10 000 EUR",
+            "12 100 EUR",
+            "9 090 EUR",
+            "11 000 EUR"
+          ],
+          "correct": 0,
+          "correction": "11 000 / 1,10 = 10 000 EUR : on divise par le taux quand il est exprimé en USD par EUR."
+        },
+        {
+          "type": "texte",
+          "q": "Quel effet a l'appréciation de l'euro sur les importations ?",
+          "reponse": "Elle rend les importations moins chères en euros.",
+          "correction": "Inversement, elle renchérit les exportations libellées en euros."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ci"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Anglais professionnel",
+      "titre": "Rédiger un e-mail et un compte rendu de réunion en anglais",
+      "source": "Programme officiel d'anglais professionnel du BTS (arrêté de création de la spécialité, Bulletin officiel) ; niveau B1/B2 du Cadre européen commun de référence pour les langues",
+      "points": [
+        "La correspondance commerciale anglaise utilise des formules établies : Please find attached, We look forward to hearing from you, For your information (FYI).",
+        "Un compte rendu de réunion (minutes) consigne la date, les participants, les points discutés, les décisions et les actions à suivre avec des échéances et des responsables.",
+        "La voix passive et le style nominal sont fréquents dans les documents professionnels anglais : The decision was taken, The delivery has been confirmed.",
+        "La clarté prime : phrases courtes, titres explicites et listes à puces facilitent la lecture par des interlocuteurs non francophones."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle formule introduit un document joint à un e-mail ?",
+          "options": [
+            "Please find attached",
+            "As soon as possible",
+            "By the way",
+            "Nice to meet you"
+          ],
+          "correct": 0,
+          "correction": "Please find attached est la formule standard pour annoncer une pièce jointe."
+        },
+        {
+          "type": "texte",
+          "q": "Que doit contenir un compte rendu de réunion ?",
+          "reponse": "La date, les participants, les points abordés, les décisions et les actions à suivre avec responsables et échéances.",
+          "correction": "Ces éléments rendent le compte rendu opérationnel et traçable."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ci"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Droit",
+      "titre": "Les obligations contractuelles dans les affaires",
+      "source": "Arrêté du 15 février 2018 portant définition du programme et de l'épreuve de Culture économique, juridique et managériale (CEJM), BO",
+      "points": [
+        "Le contrat est une convention par laquelle une ou plusieurs personnes s'obligent envers une ou plusieurs autres à donner, faire ou ne pas faire quelque chose (article 1101 du Code civil).",
+        "L'article 1103 du Code civil pose que les contrats légalement formés tiennent lieu de loi à ceux qui les ont faits : la force obligatoire du contrat.",
+        "L'article 1104 impose aux parties d'agir de bonne foi dans la négociation, la formation et l'exécution du contrat.",
+        "Une obligation peut être de moyens (l'entreprise s'engage à mettre en œuvre les moyens) ou de résultat (elle garantit un résultat déterminé), distinction déterminante en responsabilité."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel article du Code civil énonce la force obligatoire du contrat ?",
+          "options": [
+            "L'article 1101",
+            "L'article 1103",
+            "L'article 1104",
+            "L'article 1382"
+          ],
+          "correct": 1,
+          "correction": "L'article 1103 dispose que les contrats légalement formés tiennent lieu de loi aux parties."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la différence entre obligation de moyens et obligation de résultat ?",
+          "reponse": "L'obligation de moyens porte sur les actions engagées ; l'obligation de résultat garantit un résultat déterminé.",
+          "correction": "En obligation de résultat, le débiteur est responsable dès que le résultat n'est pas atteint."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-cg"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Maths",
+      "titre": "Mathématiques financières : intérêts et annuités",
+      "source": "Arrêté du 4 juin 2013 fixant les objectifs, contenus et le référentiel de capacités du domaine des mathématiques pour le BTS (BO n° 29 du 18 juillet 2013)",
+      "points": [
+        "L'intérêt simple vaut I = C × t × n, où C est le capital, t le taux annuel et n la durée en années.",
+        "L'intérêt composé capitalise les intérêts : la valeur acquise après n périodes est C × (1 + t)^n ; la valeur actuelle est C / (1 + t)^n.",
+        "Une annuité est un versement régulier ; la valeur actuelle d'une série d'annuités s'obtient en actualisant chaque versement puis en les additionnant.",
+        "L'actualisation permet de comparer des flux à des dates différentes : un euro aujourd'hui vaut plus qu'un euro demain en raison du coût de l'argent et de l'inflation."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la valeur acquise de 1 000 € placés 2 ans à 5 % en intérêts composés ?",
+          "options": [
+            "1 100 €",
+            "1 102,50 €",
+            "1 050 €",
+            "1 200 €"
+          ],
+          "correct": 1,
+          "correction": "1 000 × 1,05² = 1 102,50 € ; en intérêt simple on obtiendrait 1 100 €."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi actualise-t-on des flux futurs ?",
+          "reponse": "Pour les ramener à une même date et les rendre comparables, en tenant compte du coût de l'argent.",
+          "correction": "L'actualisation donne la valeur actuelle d'un flux futur."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-cg"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Culture générale et expression",
+      "titre": "Expression écrite : lettre administrative et compte rendu",
+      "source": "Arrêté du 13 juillet 2023 relatif aux objectifs, contenus et compétences de l'enseignement de Culture générale et expression en BTS (JORF n° 177 du 2 août 2023), complété par la note de service annuelle publiant le thème de 2ᵉ année",
+      "points": [
+        "La lettre administrative française obéit à un formalisme : en-tête, objet, formule de politesse et signature ; elle distingue le destinataire et la référence.",
+        "Le compte rendu restitue fidèlement et objectivement une réunion : il sépare les faits, les décisions et les actions, sans jugement personnel.",
+        "La synthèse de documents (encore présente dans de nombreuses épreuves professionnelles) exige de sélectionner les idées essentielles et de les organiser, non de juxtaposer des résumés.",
+        "La maîtrise de la langue — orthographe, syntaxe, ponctuation — conditionne la crédibilité de tout écrit professionnel."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle qualité est indispensable à un compte rendu ?",
+          "options": [
+            "La subjectivité",
+            "L'objectivité",
+            "L'humour",
+            "La brièveté extrême"
+          ],
+          "correct": 1,
+          "correction": "Un compte rendu doit restituer fidèlement les faits et les décisions sans interprétation personnelle."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles sont les parties essentielles d'une lettre administrative ?",
+          "reponse": "L'en-tête, l'objet, le corps, la formule de politesse et la signature.",
+          "correction": "Ces éléments garantissent la clarté et le caractère officiel du courrier."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-cg"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Anglais professionnel",
+      "titre": "Anglais comptable et financier : vocabulaire et documents",
+      "source": "Programme officiel d'anglais professionnel du BTS (arrêté de création de la spécialité, Bulletin officiel) ; niveau B1/B2 du Cadre européen commun de référence pour les langues",
+      "points": [
+        "Le bilan anglais se décline en assets (actif) et liabilities & equity (passif) ; le compte de résultat est le profit and loss account ou income statement.",
+        "Le vocabulaire courant comprend revenue (chiffre d'affaires), expenses (charges), profit (résultat), cash flow (flux de trésorerie) et depreciation (amortissement).",
+        "Les états financiers anglophones suivent des normes internationales : IFRS (International Financial Reporting Standards), adoptées dans l'Union européenne pour les comptes consolidés.",
+        "La lecture d'un document financier anglais exige de maîtriser les abréviations courantes : VAT (TVA), P&L, EBITDA, ROI."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que signifie l'abréviation EBITDA ?",
+          "options": [
+            "Earnings Before Interest, Taxes, Depreciation and Amortization",
+            "European Business Income Tax",
+            "Extra Budgetary Income",
+            "Equity Based Investment"
+          ],
+          "correct": 0,
+          "correction": "L'EBITDA est le résultat avant intérêts, impôts, amortissements et provisions."
+        },
+        {
+          "type": "texte",
+          "q": "Comment se nomme le compte de résultat en anglais ?",
+          "reponse": "Profit and loss account (P&L) ou income statement.",
+          "correction": "Les deux termes sont utilisés selon les pays et les pratiques comptables."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-cg"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Droit",
+      "titre": "Droit des sociétés et formes juridiques d'entreprise",
+      "source": "Arrêté du 15 février 2018 portant définition du programme et de l'épreuve de Culture économique, juridique et managériale (CEJM), BO",
+      "points": [
+        "Le Code de commerce distingue les sociétés à responsabilité limitée : SARL (article L. 223-1) et SAS (article L. 227-1), cette dernière offrant une grande souplesse statutaire.",
+        "Dans la SARL, les associés ne sont tenus aux dettes que dans la limite de leurs apports ; le capital minimum est de 1 euro depuis la loi de 2003.",
+        "La SA (société anonyme, article L. 225-1) est dirigée par un conseil d'administration ou un directoire ; ses actions peuvent être cotées en bourse.",
+        "L'entreprise individuelle n'a pas de personnalité juridique distincte de celle de l'entrepreneur, sauf option pour l'EURL : la responsabilité peut donc engager son patrimoine personnel."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel article du Code de commerce régit la SAS ?",
+          "options": [
+            "L. 223-1",
+            "L. 225-1",
+            "L. 227-1",
+            "L. 210-1"
+          ],
+          "correct": 2,
+          "correction": "L'article L. 227-1 du Code de commerce définit la société par actions simplifiée."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la principale différence entre SARL et SAS ?",
+          "reponse": "La SAS offre une souplesse statutaire plus grande ; la SARL obéit à des règles légales plus strictes.",
+          "correction": "Les deux confèrent une responsabilité limitée aux apports, mais la SAS est souvent choisie pour son flexibility."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Culture générale et expression",
+      "titre": "Argumenter sur un thème de société en BTS",
+      "source": "Arrêté du 13 juillet 2023 relatif aux objectifs, contenus et compétences de l'enseignement de Culture générale et expression en BTS (JORF n° 177 du 2 août 2023), complété par la note de service annuelle publiant le thème de 2ᵉ année",
+      "points": [
+        "Le thème de deuxième année de BTS est publié chaque année au Bulletin officiel avec une problématique et des indications bibliographiques qui délimitent le sujet.",
+        "Une argumentation écrite doit articuler une thèse, des arguments hiérarchisés et des exemples précis, tout en restant ouverte aux objections.",
+        "L'esprit critique suppose de distinguer fait, opinion et valeur, et de vérifier la fiabilité des sources mobilisées.",
+        "La réforme de 2023 a supprimé la synthèse de documents au profit d'épreuves centrées sur la compréhension, l'écriture et l'ouverture culturelle."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Où est publié chaque année le thème de culture générale de deuxième année de BTS ?",
+          "options": [
+            "Au Journal officiel",
+            "Au Bulletin officiel",
+            "Au Code du travail",
+            "Au registre du commerce"
+          ],
+          "correct": 1,
+          "correction": "Le thème, avec problématique et bibliographie, fait l'objet d'une publication au Bulletin officiel."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la différence entre un fait et une opinion ?",
+          "reponse": "Un fait est vérifiable ; une opinion est un jugement personnel.",
+          "correction": "Distinguer les deux est essentiel pour construire une argumentation critique."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Comptabilité et gestion",
+      "titre": "Lire le bilan et le compte de résultat d'une PME",
+      "source": "Référentiel officiel BTS Gestion de la PME (BO) — enseignement de gestion comptable et financière ; Plan comptable général",
+      "points": [
+        "Le bilan est un document photographique du patrimoine à la clôture : à l'actif les emplois, au passif les ressources (capitaux propres et dettes).",
+        "Le compte de résultat est un document cinématique qui relie les produits et les charges de l'exercice pour dégager le résultat.",
+        "Le Plan comptable général (arrêté du 4 avril 1986) définit la nomenclature des comptes : classe 1 (capitaux), 2 (immobilisations), 3 (stocks), 4 (tiers), 6 (charges), 7 (produits).",
+        "L'équivalence comptable fondamentale est : actif = passif, chaque opération touchant au moins deux comptes pour un montant égal (partie double)."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Dans quelle classe du Plan comptable général se range un compte de charges ?",
+          "options": [
+            "Classe 2",
+            "Classe 4",
+            "Classe 6",
+            "Classe 7"
+          ],
+          "correct": 2,
+          "correction": "La classe 6 regroupe les comptes de charges ; la classe 7 les comptes de produits."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est l'équation comptable fondamentale ?",
+          "reponse": "Actif = Passif (capitaux propres + dettes).",
+          "correction": "Toute opération modifie au moins deux comptes tout en préservant cette égalité."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Anglais professionnel",
+      "titre": "Communiquer avec des partenaires étrangers",
+      "source": "Programme officiel d'anglais professionnel du BTS (arrêté de création de la spécialité, Bulletin officiel) ; niveau B1/B2 du Cadre européen commun de référence pour les langues",
+      "points": [
+        "Un échange professionnel avec un partenaire étranger exige de vérifier la compréhension : Could you confirm...?, Just to make sure I understood correctly...",
+        "Les expressions idiomatiques et le jargon doivent être évités avec des interlocuteurs non natifs : on privilégie des phrases courtes et un vocabulaire standard.",
+        "La ponctualité, la clarification des délais (deadline, lead time) et la confirmation écrite des accords réduisent les malentendus interculturels.",
+        "Le niveau B1/B2 du CECRL permet de comprendre l'essentiel d'un échange professionnel et de s'exprimer de façon claire et structurée."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle phrase permet de vérifier la compréhension d'un accord ?",
+          "options": [
+            "It's obvious",
+            "Just to make sure I understood correctly...",
+            "Whatever",
+            "Call me later"
+          ],
+          "correct": 1,
+          "correction": "Cette formule de reformulation confirme les éléments de l'accord sans présumer de la compréhension."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi éviter les expressions idiomatiques avec un partenaire étranger ?",
+          "reponse": "Parce qu'elles sont rarement comprises et peuvent créer des malentendus.",
+          "correction": "Un anglais simple et standard facilite la compréhension internationale."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Économie",
+      "titre": "L'environnement économique de la PME",
+      "source": "Arrêté du 15 février 2018 portant définition du programme et de l'épreuve de Culture économique, juridique et managériale (CEJM), BO",
+      "points": [
+        "La PME est définie par l'INSEE selon des critères de salariés (moins de 250) et de chiffre d'affaires ou de total de bilan.",
+        "L'activité de l'entreprise s'inscrit dans un environnement qui comprend les clients, les fournisseurs, les concurrents, les partenaires financiers et les pouvoirs publics.",
+        "Le cycle économique alternes phases de croissance et de récession ; il influence la demande, les prix et les décisions d'investissement.",
+        "L'inflation, mesurée par l'indice des prix à la consommation (INSEE), érode le pouvoir d'achat et complique la fixation des prix et des salaires."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel seuil de salariés caractérise une PME selon l'INSEE ?",
+          "options": [
+            "Moins de 10",
+            "Moins de 50",
+            "Moins de 250",
+            "Moins de 1 000"
+          ],
+          "correct": 2,
+          "correction": "La PME compte moins de 250 salariés, avec des critères complémentaires de chiffre d'affaires ou de bilan."
+        },
+        {
+          "type": "texte",
+          "q": "Quels acteurs composent l'environnement d'une PME ?",
+          "reponse": "Clients, fournisseurs, concurrents, partenaires financiers et pouvoirs publics.",
+          "correction": "Ces acteurs déterminent les opportunités et les contraintes de l'entreprise."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-sio"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Maths",
+      "titre": "Algèbre booléenne et logique pour l'informatique",
+      "source": "Arrêté du 4 juin 2013 fixant les objectifs, contenus et le référentiel de capacités du domaine des mathématiques pour le BTS (BO n° 29 du 18 juillet 2013)",
+      "points": [
+        "Une variable booléenne ne prend que deux valeurs : 0 (faux) et 1 (vrai) ; elle est le fondement de l'algèbre de Boole.",
+        "Les opérateurs de base sont ET (∧, produit logique), OU (∨, somme logique) et NON (¬, complément) ; leurs tables de vérité définissent complètement leur comportement.",
+        "Les lois de Morgan permettent de transformer ¬(A ∧ B) en ¬A ∨ ¬B et ¬(A ∨ B) en ¬A ∧ ¬B : elles sont essentielles à la simplification d'expressions.",
+        "Un circuit combinatoire réalisant une fonction logique peut être simplifié par une table de vérité ou par un diagramme de Karnaugh, puisque toute fonction s'écrit en forme normale disjonctive."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la forme simplifiée de ¬(A ∧ B) selon les lois de Morgan ?",
+          "options": [
+            "¬A ∧ ¬B",
+            "¬A ∨ ¬B",
+            "A ∨ B",
+            "A ∧ B"
+          ],
+          "correct": 1,
+          "correction": "La négation d'une conjonction est la disjonction des négations : ¬(A ∧ B) = ¬A ∨ ¬B."
+        },
+        {
+          "type": "texte",
+          "q": "Combien de lignes comporte la table de vérité d'une fonction de 3 variables booléennes ?",
+          "reponse": "8 lignes (2³).",
+          "correction": "Une table de vérité épuise toutes les combinaisons possibles des variables."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-sio"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Culture générale et expression",
+      "titre": "Compréhension de documents et expression écrite",
+      "source": "Arrêté du 13 juillet 2023 relatif aux objectifs, contenus et compétences de l'enseignement de Culture générale et expression en BTS (JORF n° 177 du 2 août 2023), complété par la note de service annuelle publiant le thème de 2ᵉ année",
+      "points": [
+        "La compréhension d'un document repose sur l'identification de la question traitée, des idées principales et des connecteurs qui structurent le texte.",
+        "Une reformulation fidèle restitue le sens avec d'autres mots sans ajouter d'interprétation ni omettre une nuance essentielle.",
+        "Le vocabulaire et la syntaxe doivent être maîtrisés : accord sujet-verbe, homophones et ponctuation sont évalués dans l'épreuve de culture générale.",
+        "La culture générale en BTS s'appuie sur une ouverture aux enjeux contemporains, notamment numériques et scientifiques."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce qu'une reformulation fidèle ?",
+          "options": [
+            "Une traduction mot à mot",
+            "Une restitution du sens avec d'autres mots",
+            "Un résumé critique",
+            "Une citation longue"
+          ],
+          "correct": 1,
+          "correction": "Reformuler, c'est exprimer le même sens avec une autre formulation, sans le modifier."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce qui structure la compréhension d'un texte argumentatif ?",
+          "reponse": "L'identification de la question, des idées principales et des connecteurs logiques.",
+          "correction": "Les connecteurs révèlent les relations de cause, d'opposition et de conclusion."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-sio"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Anglais professionnel",
+      "titre": "Lire une documentation technique anglophone",
+      "source": "Programme officiel d'anglais professionnel du BTS (arrêté de création de la spécialité, Bulletin officiel) ; niveau B1/B2 du Cadre européen commun de référence pour les langues",
+      "points": [
+        "La documentation technique anglaise privilégie la voix passive et le présent : The file is saved..., The system requires...",
+        "Le vocabulaire des systèmes et réseaux comprend server, database, bandwidth, latency, backup, firewall et deployment.",
+        "Les modes d'emploi et messages d'erreur s'appuient sur des structures impératives et des avertissements : Make sure to..., Warning:...",
+        "La lecture efficace d'un manuel consiste à repérer les titres, les listes et les mots-clés avant de lire le détail."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est le sens du mot « latency » en informatique ?",
+          "options": [
+            "La bande passante",
+            "Le délai de réponse",
+            "La sauvegarde",
+            "Le pare-feu"
+          ],
+          "correct": 1,
+          "correction": "La latence est le temps écoulé entre une requête et sa réponse."
+        },
+        {
+          "type": "texte",
+          "q": "Quel style est fréquent dans la documentation technique anglaise ?",
+          "reponse": "La voix passive et le présent de l'indicatif.",
+          "correction": "Ce style donne un ton neutre et objectif aux descriptions techniques."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-sio"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Méthodologie",
+      "titre": "Conduite de projet et travail en équipe en BTS SIO",
+      "source": "Référentiel officiel de la spécialité BTS (arrêté de création, BO) — modalités de contrôle en cours de formation (CCF) et dossier professionnel",
+      "points": [
+        "Un projet informatique se décompose en phases : analyse des besoins, conception, développement, tests, déploiement et maintenance.",
+        "Le cahier des charges formalise les besoins fonctionnels et techniques, les contraintes, les livrables et les critères d'acceptation.",
+        "Les méthodes agiles (Scrum, Kanban) organisent le travail en itérations courtes, avec des cérémonies comme le daily stand-up et la revue de sprint.",
+        "Le travail en équipe repose sur une répartition claire des rôles, un outil de gestion de versions et une traçabilité des décisions."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel livrable formalise les besoins d'un projet informatique ?",
+          "options": [
+            "Le planning",
+            "Le cahier des charges",
+            "Le contrat de maintenance",
+            "La facture"
+          ],
+          "correct": 1,
+          "correction": "Le cahier des charges décrit les besoins, contraintes et critères d'acceptation du projet."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles sont les grandes phases d'un projet informatique ?",
+          "reponse": "Analyse des besoins, conception, développement, tests, déploiement et maintenance.",
+          "correction": "Cette decomposition correspond au cycle de vie classique d'un logiciel."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ciel"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Maths",
+      "titre": "Mathématiques de l'électronique : nombres complexes et impédances",
+      "source": "Arrêté du 4 juin 2013 fixant les objectifs, contenus et le référentiel de capacités du domaine des mathématiques pour le BTS (BO n° 29 du 18 juillet 2013)",
+      "points": [
+        "Un nombre complexe s'écrit z = a + jb, où j² = -1 ; il se représente aussi en forme exponentielle z = r·e^(jθ), avec r le module et θ l'argument.",
+        "En régime sinusoïdal, une impédance est un nombre complexe : Z = R + jX, où R est la résistance et X la réactance (inductive + ou capacitive -).",
+        "La loi d'Ohm généralisée s'écrit U = Z·I avec des grandeurs complexes : le module donne l'amplitude et l'argument le déphasage.",
+        "Pour une self, Z_L = jLω ; pour un condensateur, Z_C = 1/(jCω) = -j/(Cω), où ω = 2πf est la pulsation."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est l'impédance d'un condensateur de capacité C à la pulsation ω ?",
+          "options": [
+            "jCω",
+            "1/(jCω)",
+            "Cω",
+            "1/(jLω)"
+          ],
+          "correct": 1,
+          "correction": "Z_C = 1/(jCω) = -j/(Cω) : la réactance capacitive est négative."
+        },
+        {
+          "type": "texte",
+          "q": "Que représentent le module et l'argument d'une impédance ?",
+          "reponse": "Le module donne le rapport amplitudes tension/intensité ; l'argument donne le déphasage.",
+          "correction": "La notation complexe synthétise amplitude et phase en une seule grandeur."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ciel"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Culture générale et expression",
+      "titre": "Le commentaire de document en BTS",
+      "source": "Arrêté du 13 juillet 2023 relatif aux objectifs, contenus et compétences de l'enseignement de Culture générale et expression en BTS (JORF n° 177 du 2 août 2023), complété par la note de service annuelle publiant le thème de 2ᵉ année",
+      "points": [
+        "Le commentaire de document consiste à présenter le document, dégager les idées essentielles puis analyser les procédés employés.",
+        "La distinction entre le niveau de lecture littéral (que dit le texte ?) et le niveau d'interprétation (que veut dire l'auteur ?) est fondamentale.",
+        "Une analyse rigoureuse s'appuie sur des citations courtes et précises, never sur des paraphrases approximatives.",
+        "L'épreuve de culture générale évalue également la capacité à produire un écrit personnel et argumenté à partir d'un document."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que faut-il éviter dans un commentaire de document ?",
+          "options": [
+            "Les citations courtes",
+            "Les paraphrases approximatives",
+            "L'analyse des procédés",
+            "La présentation du document"
+          ],
+          "correct": 1,
+          "correction": "Les paraphrases imprécises trahissent le texte ; on privilégie des citations exactes."
+        },
+        {
+          "type": "texte",
+          "q": "Quels sont les deux niveaux de lecture d'un document ?",
+          "reponse": "Le niveau littéral (sens explicite) et le niveau interprétatif (sens implicite, intentions de l'auteur).",
+          "correction": "Le commentaire doit articuler ces deux niveaux."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ciel"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Anglais professionnel",
+      "titre": "Documentation et normes réseau en anglais",
+      "source": "Programme officiel d'anglais professionnel du BTS (arrêté de création de la spécialité, Bulletin officiel) ; niveau B1/B2 du Cadre européen commun de référence pour les langues",
+      "points": [
+        "Les normes réseau sont désignées par des acronymes anglais : IEEE 802.3 (Ethernet), IEEE 802.11 (Wi-Fi), IEEE 802.1Q (VLAN).",
+        "La documentation réseau utilise des termes précis : subnet mask, default gateway, routing table, packet loss, throughput.",
+        "Les RFC (Request for Comments) publiés par l'IETF constituent la référence officielle des protocoles TCP/IP et sont rédigés en anglais.",
+        "Savoir lire un extrait de RFC ou une fiche technique anglaise est nécessaire pour configurer et dépanner un équipement."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel organisme publie les RFC des protocoles TCP/IP ?",
+          "options": [
+            "L'IEEE",
+            "L'IETF",
+            "L'ISO",
+            "L'ITU"
+          ],
+          "correct": 1,
+          "correction": "L'Internet Engineering Task Force (IETF) publie les Request for Comments."
+        },
+        {
+          "type": "texte",
+          "q": "Que désigne la norme IEEE 802.1Q ?",
+          "reponse": "La norme de marquage des trames VLAN sur une liaison trunk.",
+          "correction": "Elle définit l'insertion d'une étiquette VLAN dans l'en-tête Ethernet."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ciel"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Communication",
+      "titre": "Rédiger un rapport d'intervention technique",
+      "source": "Référentiel officiel BTS CIEL (BO spécial) — bloc de communication professionnelle et gestion de projet",
+      "points": [
+        "Un rapport d'intervention retrace de façon structurée : identification du site, date, personnel intervenu, motif, travaux réalisés, résultats et recommandations.",
+        "La rédaction technique privilégie des phrases courtes, un vocabulaire exact et une présentation avec des titres et des tableaux.",
+        "Le rapport doit être factuel et traçable : les mesures, les réglages et les pièces remplacées sont consignés avec précision.",
+        "Une conclusion opérationnelle propose des suites à donner : maintenance préventive, recommandations de sécurité ou améliorations."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle qualité est primordiale dans un rapport d'intervention ?",
+          "options": [
+            "La créativité",
+            "La factualité et la traçabilité",
+            "L'humour",
+            "La longueur"
+          ],
+          "correct": 1,
+          "correction": "Le rapport doit consigner des faits vérifiables et permettre de reconstituer l'intervention."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles informations figurent en tête d'un rapport d'intervention ?",
+          "reponse": "L'identification du site, la date, les intervenants et le motif de l'intervention.",
+          "correction": "Ces éléments identifient et contextualisent l'intervention."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-tc"
+      ],
+      "annees": [
+        "BUT1"
+      ],
+      "matiere": "Français",
+      "titre": "Expression, communication et culture 1 : l'écrit professionnel",
+      "source": "Programme national du BUT Techniques de commercialisation (arrêté du 24 novembre 2020, annexe 25, MESR) — ressources R1.4 Expression, communication et culture, R1.5/R2.11/R3.10 Langue A Anglais du commerce, R1.3 Environnement juridique",
+      "points": [
+        "La ressource R1.4 « Expression, communication et culture » vise à maîtriser les registres de la langue française dans des situations professionnelles variées.",
+        "Les genres professionnels courants ont des contraintes propres : la note de synthèse hiérarchise l'information, le compte rendu restitue faits et décisions, la lettre commerciale suit un formalisme.",
+        "Une argumentation écrite s'appuie sur une problématique claire, des arguments démontrés et des exemples issus du contexte économique et commercial.",
+        "L'évaluation porte aussi sur l'orthographe, la syntaxe et la ponctuation : la qualité de la forme conditionne la crédibilité du message."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel genre professionnel hiérarchise l'information à partir de plusieurs documents ?",
+          "options": [
+            "Le compte rendu",
+            "La note de synthèse",
+            "Le courriel",
+            "L'ordre du jour"
+          ],
+          "correct": 1,
+          "correction": "La note de synthèse sélectionne et organise les idées essentielles de plusieurs sources."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles qualités attend-on d'un écrit professionnel ?",
+          "reponse": "Clarté, concision, correction de la langue et adaptation au destinataire.",
+          "correction": "Ces qualités garantissent l'efficacité et la crédibilité du message."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-tc"
+      ],
+      "annees": [
+        "BUT1"
+      ],
+      "matiere": "Anglais professionnel",
+      "titre": "Anglais du commerce 1 : se présenter et présenter une entreprise",
+      "source": "Programme national du BUT Techniques de commercialisation (arrêté du 24 novembre 2020, annexe 25, MESR) — ressources R1.4 Expression, communication et culture, R1.5/R2.11/R3.10 Langue A Anglais du commerce, R1.3 Environnement juridique",
+      "points": [
+        "La ressource R1.5 « Langue A — Anglais du commerce 1 » développe la compréhension et l'expression orale et écrite en situation professionnelle internationale.",
+        "Une présentation personnelle (self-introduction) suit une structure : nom, fonction, expérience, compétences et centre d'intérêt en lien avec le poste.",
+        "Présenter une entreprise suppose de maîtriser le vocabulaire de l'activité : turnover, market share, product range, customers, subsidiaries.",
+        "Le niveau visé en première année se situe autour de B1 du CECRL : se faire comprendre dans des situations professionnelles courantes."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel mot désigne le chiffre d'affaires en anglais ?",
+          "options": [
+            "Turnover",
+            "Benefit",
+            "Salary",
+            "Invoice"
+          ],
+          "correct": 0,
+          "correction": "Turnover est le chiffre d'affaires ; benefit désigne un avantage ou un bénéfice."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles informations contient une présentation personnelle professionnelle ?",
+          "reponse": "Le nom, la fonction, l'expérience, les compétences et des centres d'intérêt pertinents.",
+          "correction": "Elle doit être adaptée au contexte et à l'interlocuteur."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-tc"
+      ],
+      "annees": [
+        "BUT2"
+      ],
+      "matiere": "Anglais professionnel",
+      "titre": "Anglais du commerce 2 : réunions et argumentation",
+      "source": "Programme national du BUT Techniques de commercialisation (arrêté du 24 novembre 2020, annexe 25, MESR) — ressources R1.4 Expression, communication et culture, R1.5/R2.11/R3.10 Langue A Anglais du commerce, R1.3 Environnement juridique",
+      "points": [
+        "La ressource R2.11 « Anglais du commerce 2 » renforce la participation active à une réunion de projet marketing et les échanges téléphoniques professionnels.",
+        "Les tournures de réunion incluent : Let's move on to..., I'd like to add..., Could you clarify...? et That's a good point.",
+        "Le phoning professionnel (prise de rendez-vous, enquête) demande de confirmer l'identité, l'objet de l'appel et les coordonnées.",
+        "Argumenter en anglais implique de relier idées et preuves avec des connecteurs : however, therefore, as a result, on the other hand."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle expression permet de passer à un autre point d'une réunion ?",
+          "options": [
+            "Let's move on to...",
+            "It's raining",
+            "I'm fine",
+            "See you tomorrow"
+          ],
+          "correct": 0,
+          "correction": "Let's move on to... est la formule standard pour changer de point de l'ordre du jour."
+        },
+        {
+          "type": "texte",
+          "q": "Comment confirmer un rendez-vous téléphonique en anglais ?",
+          "reponse": "En répétant la date, l'heure et le lieu : So, that's Tuesday at 10 a.m., correct?",
+          "correction": "La confirmation évite les malentendus sur les détails pratiques."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-tc"
+      ],
+      "annees": [
+        "BUT2"
+      ],
+      "matiere": "Droit",
+      "titre": "Droit des affaires : contrats et responsabilité",
+      "source": "Programme national du BUT Techniques de commercialisation (arrêté du 24 novembre 2020, annexe 25, MESR) — ressources R1.4 Expression, communication et culture, R1.5/R2.11/R3.10 Langue A Anglais du commerce, R1.3 Environnement juridique",
+      "points": [
+        "La ressource R1.3 « Environnement juridique de l'entreprise » introduit les règles applicables à l'activité commerciale et à la conclusion des contrats.",
+        "Selon l'article 1101 du Code civil, le contrat est une convention par laquelle une ou plusieurs personnes s'obligent à donner, faire ou ne pas faire quelque chose.",
+        "L'article 1103 consacre la force obligatoire du contrat : les conventions légalement formées tiennent lieu de loi aux parties.",
+        "La responsabilité contractuelle (article 1217 C. civ.) ouvre droit à réparation en cas d'inexécution : exécution forcée, réduction du prix ou dommages-intérêts."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est l'effet de la force obligatoire du contrat ?",
+          "options": [
+            "Le contrat peut être modifié librement",
+            "Le contrat tient lieu de loi aux parties",
+            "Le contrat est toujours gratuit",
+            "Le contrat n'engage que le vendeur"
+          ],
+          "correct": 1,
+          "correction": "L'article 1103 du Code civil fait du contrat la loi des parties."
+        },
+        {
+          "type": "texte",
+          "q": "Quels sont les remèdes à l'inexécution d'un contrat ?",
+          "reponse": "L'exécution forcée, la réduction du prix et les dommages-intérêts (art. 1217 C. civ.).",
+          "correction": "Ces remèdes sont prévus par le Code civil depuis la réforme de 2016."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-tc"
+      ],
+      "annees": [
+        "BUT3"
+      ],
+      "matiere": "Anglais professionnel",
+      "titre": "Anglais appliqué au commerce 3 : négociation et projet",
+      "source": "Programme national du BUT Techniques de commercialisation (arrêté du 24 novembre 2020, annexe 25, MESR) — ressources R1.4 Expression, communication et culture, R1.5/R2.11/R3.10 Langue A Anglais du commerce, R1.3 Environnement juridique",
+      "points": [
+        "La ressource R3.10 « Anglais appliqué au commerce 3 » vise l'autonomie dans des situations professionnelles internationales complexes.",
+        "Une négociation en anglais suit des étapes repérables : ouverture, exploration des besoins, proposition, traitement des objections et conclusion.",
+        "Les techniques de conclusion incluent le récapitulatif (Let me summarize what we've agreed) et la proposition d'action (Shall we draw up a contract?).",
+        "La présentation de projet (pitch) s'appuie sur une structure claire : problème, solution, bénéfices, preuves et appel à l'action."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle expression conclut une négociation en récapitulant les accords ?",
+          "options": [
+            "Let me summarize what we've agreed",
+            "Once upon a time",
+            "I don't know",
+            "It's too late"
+          ],
+          "correct": 0,
+          "correction": "Le récapitulatif des accords sécurise la fin de négociation."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles étapes structurent une négociation commerciale ?",
+          "reponse": "Ouverture, exploration des besoins, proposition, objections et conclusion.",
+          "correction": "Cette trame est commune aux négociations en français et en anglais."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-tc"
+      ],
+      "annees": [
+        "BUT3"
+      ],
+      "matiere": "Méthodologie",
+      "titre": "Conduite de projet et SAÉ en BUT",
+      "source": "Référentiel de compétences du BUT (arrêté du 24 novembre 2020, MESR) — compétences transversales : s'exprimer et communiquer à l'écrit et à l'oral, exploiter les données, agir en responsabilité",
+      "points": [
+        "Les SAÉ (Situations d'Apprentissage et d'Évaluation) évaluent la mise en œuvre de compétences dans des situations professionnelles significatives, souvent en équipe.",
+        "Une démarche de projet suit les étapes : analyser le besoin, planifier les tâches, mobiliser les ressources, réaliser, contrôler et capitaliser.",
+        "Le portfolio rassemble les productions de l'étudiant et les preuves de compétences ; il est un outil de suivi et d'évaluation.",
+        "La compétence transversale « agir en responsabilité » implique de respecter l'éthique, la déontologie et la responsabilité environnementale."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que signifie le sigle SAÉ dans le BUT ?",
+          "options": [
+            "Situation d'Apprentissage et d'Évaluation",
+            "Stage d'Application en Entreprise",
+            "Séance d'Auto-Évaluation",
+            "Système d'Aide à l'Étudiant"
+          ],
+          "correct": 0,
+          "correction": "La SAÉ est une Situation d'Apprentissage et d'Évaluation au cœur du BUT."
+        },
+        {
+          "type": "texte",
+          "q": "À quoi sert le portfolio en BUT ?",
+          "reponse": "Il rassemble les productions et les preuves de compétences de l'étudiant pour le suivi et l'évaluation.",
+          "correction": "Il valorise la progression et les acquis tout au long du cursus."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-gea"
+      ],
+      "annees": [
+        "BUT1"
+      ],
+      "matiere": "Français",
+      "titre": "Expression et communication : compte rendu et note de service",
+      "source": "Programme national du BUT Gestion des entreprises et des administrations (arrêté du 24 novembre 2020, MESR) — ressources R1.07 Comptabilité, R1.08 Outils mathématiques, R1.03/R1.04 Management et RH",
+      "points": [
+        "La communication écrite interne en GEA utilise des genres codifiés : note de service, compte rendu, procès-verbal et note interne.",
+        "Une note de service est structurée : en-tête (auteur, destinataire, date, objet), corps et mention d'éventuelles pièces jointes.",
+        "Le procès-verbal consigne les délibérations d'une réunion de façon synthétique et officielle ; le compte rendu est plus libre dans sa forme.",
+        "La clarté de l'expression et le respect des règles de la langue française sont des compétences transversales évaluées dans toutes les SAÉ."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel genre consigne officiellement les délibérations d'une réunion ?",
+          "options": [
+            "La note de service",
+            "Le procès-verbal",
+            "La lettre commerciale",
+            "Le devis"
+          ],
+          "correct": 1,
+          "correction": "Le procès-verbal est le compte officiel des délibérations d'une assemblée ou d'une réunion."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles mentions figurent dans l'en-tête d'une note de service ?",
+          "reponse": "L'auteur, le destinataire, la date et l'objet.",
+          "correction": "Ces mentions identifient et contextualisent le document."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-gea"
+      ],
+      "annees": [
+        "BUT1"
+      ],
+      "matiere": "Maths",
+      "titre": "Statistiques descriptives appliquées à la gestion",
+      "source": "Programme national du BUT Gestion des entreprises et des administrations (arrêté du 24 novembre 2020, MESR) — ressources R1.07 Comptabilité, R1.08 Outils mathématiques, R1.03/R1.04 Management et RH",
+      "points": [
+        "Une série statistique se résume par des paramètres de position (moyenne, médiane, mode) et de dispersion (variance, écart-type, amplitude).",
+        "La moyenne est sensible aux valeurs extrêmes ; la médiane, qui partage la série en deux moitiés, est plus robuste.",
+        "La variance vaut la moyenne des carrés des écarts à la moyenne ; l'écart-type en est la racine carrée et s'exprime dans la même unité que la variable.",
+        "Un histogramme représente les effectifs par classe ; le choix de la taille des classes influence la lecture de la distribution."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel indicateur est le moins sensible aux valeurs extrêmes ?",
+          "options": [
+            "La moyenne",
+            "La médiane",
+            "L'écart-type",
+            "L'amplitude"
+          ],
+          "correct": 1,
+          "correction": "La médiane dépend du rang des valeurs, non de leur amplitude : elle résiste aux outliers."
+        },
+        {
+          "type": "texte",
+          "q": "Comment calcule-t-on l'écart-type d'une série ?",
+          "reponse": "On prend la racine carrée de la variance (moyenne des carrés des écarts à la moyenne).",
+          "correction": "L'écart-type mesure la dispersion autour de la moyenne."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-gea"
+      ],
+      "annees": [
+        "BUT2"
+      ],
+      "matiere": "Anglais professionnel",
+      "titre": "Anglais des affaires : correspondance commerciale",
+      "source": "Programme national du BUT Gestion des entreprises et des administrations (arrêté du 24 novembre 2020, MESR) — ressources R1.07 Comptabilité, R1.08 Outils mathématiques, R1.03/R1.04 Management et RH",
+      "points": [
+        "La correspondance commerciale anglaise privilégie des formules standard : Dear Sir or Madam, Please find enclosed, We look forward to your reply.",
+        "Un devis ou une offre commerciale en anglais précise la description des biens, les quantités, les prix, les conditions de paiement et la durée de validité.",
+        "Les conditions de vente courantes s'expriment par des termes techniques : payment terms, delivery time, warranty, incoterms.",
+        "La clarté et la concision sont recherchées : un message professionnel anglais va droit à l'information essentielle."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle formule annonce un document joint à une lettre anglaise ?",
+          "options": [
+            "Please find enclosed",
+            "Yours faithfully only",
+            "How are you?",
+            "Best wishes"
+          ],
+          "correct": 0,
+          "correction": "Please find enclosed (ou attached) introduit une pièce jointe."
+        },
+        {
+          "type": "texte",
+          "q": "Que doit préciser un devis commercial en anglais ?",
+          "reponse": "La description, les quantités, les prix, les conditions de paiement et la durée de validité.",
+          "correction": "Ces éléments rendent l'offre exploitable et opposable."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-gea"
+      ],
+      "annees": [
+        "BUT2"
+      ],
+      "matiere": "Droit",
+      "titre": "Droit des obligations et des contrats",
+      "source": "Programme national du BUT Gestion des entreprises et des administrations (arrêté du 24 novembre 2020, MESR) — ressources R1.07 Comptabilité, R1.08 Outils mathématiques, R1.03/R1.04 Management et RH",
+      "points": [
+        "L'article 1101 du Code civil définit le contrat comme une convention par laquelle une ou plusieurs personnes s'obligent à donner, faire ou ne pas faire quelque chose.",
+        "Les contrats doivent être négociés, formés et exécutés de bonne foi (article 1104 C. civ.) : ce principe irrigue tout le droit des obligations.",
+        "Le consentement doit être libre et éclairé ; il peut être vicié par l'erreur, le dol (manœuvre frauduleuse) ou la violence (articles 1130 et suivants).",
+        "La responsabilité contractuelle répare les dommages résultant de l'inexécution, tandis que la responsabilité délictuelle (art. 1240 C. civ.) repose sur la faute extracontractuelle."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel vice du consentement correspond à une manœuvre frauduleuse ?",
+          "options": [
+            "L'erreur",
+            "Le dol",
+            "La violence",
+            "La lésion"
+          ],
+          "correct": 1,
+          "correction": "Le dol est une manœuvre frauduleuse destinée à obtenir un consentement."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la différence entre responsabilité contractuelle et délictuelle ?",
+          "reponse": "La première répare l'inexécution d'un contrat ; la seconde répare un dommage causé sans contrat (art. 1240 C. civ.).",
+          "correction": "Le fondement juridique et les règles de réparation diffèrent."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-gea"
+      ],
+      "annees": [
+        "BUT3"
+      ],
+      "matiere": "Méthodologie",
+      "titre": "Élaborer un plan de financement et un tableau de bord",
+      "source": "Programme national du BUT Gestion des entreprises et des administrations (arrêté du 24 novembre 2020, MESR) — ressources R1.07 Comptabilité, R1.08 Outils mathématiques, R1.03/R1.04 Management et RH",
+      "points": [
+        "Le plan de financement compare les emplois (investissements, besoins en fonds de roulement) et les ressources (capitaux propres, emprunts) sur une période donnée.",
+        "Le fonds de roulement égale capitaux propres + dettes à long terme - actif immobilisé ; il mesure la capacité de l'entreprise à financer son activité courante.",
+        "Un tableau de bord regroupe des indicateurs clés (KPI) : chiffre d'affaires, marge, délai de recouvrement, taux d'endettement.",
+        "Un indicateur pertinent est chiffré, daté, comparé dans le temps et relié à une décision de gestion."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que mesure le fonds de roulement ?",
+          "options": [
+            "La trésorerie disponible",
+            "La capacité à financer l'activité courante",
+            "Le résultat de l'exercice",
+            "Le chiffre d'affaires"
+          ],
+          "correct": 1,
+          "correction": "Le fonds de roulement est l'excédent de ressources durables sur les emplois durables."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles qualités doit avoir un indicateur de tableau de bord ?",
+          "reponse": "Il doit être chiffré, daté, comparé dans le temps et utile à la décision.",
+          "correction": "Un indicateur sans référence temporelle ni décision associée est peu opérationnel."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-gea"
+      ],
+      "annees": [
+        "BUT3"
+      ],
+      "matiere": "Économie",
+      "titre": "Conjoncture et indicateurs macroéconomiques",
+      "source": "Programme national du BUT Gestion des entreprises et des administrations (arrêté du 24 novembre 2020, MESR) — ressources R1.07 Comptabilité, R1.08 Outils mathématiques, R1.03/R1.04 Management et RH",
+      "points": [
+        "La conjoncture désigne la situation économique à court terme d'un pays, appréciée notamment par la croissance du PIB et l'inflation.",
+        "Le PIB (produit intérieur brut) mesure la valeur ajoutée créée sur le territoire national ; sa variation trimestrielle est publiée par l'INSEE.",
+        "L'inflation est la hausse générale et durable des prix, mesurée par l'indice des prix à la consommation (IPC) ; la Banque centrale européenne vise 2 % à moyen terme.",
+        "Le taux de chômage, la balance commerciale et la dette publique complètent le diagnostic macroéconomique d'un pays."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel objectif d'inflation la BCE vise-t-elle à moyen terme ?",
+          "options": [
+            "0 %",
+            "1 %",
+            "2 %",
+            "5 %"
+          ],
+          "correct": 2,
+          "correction": "La Banque centrale européenne vise un taux d'inflation de 2 % à moyen terme."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce que le PIB ?",
+          "reponse": "La valeur ajoutée totale créée sur le territoire national au cours d'une période.",
+          "correction": "Il mesure l'activité économique d'un pays, et non le bien-être."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-info"
+      ],
+      "annees": [
+        "BUT1"
+      ],
+      "matiere": "Français",
+      "titre": "Rédiger un cahier des charges",
+      "source": "Programme national du BUT Informatique (arrêté du 24 novembre 2020, MESR) — compétences transversales : s'exprimer et communiquer, se servir du numérique, exploiter les données",
+      "points": [
+        "Le cahier des charges formalise le besoin : il décrit le contexte, les objectifs, les fonctionnalités attendues, les contraintes techniques et les critères d'acceptation.",
+        "On distingue les besoins fonctionnels (ce que le système doit faire) des besoins non fonctionnels (performance, sécurité, ergonomie, maintenabilité).",
+        "Les user stories ou scénarios d'usage décrivent une situation concrète : en tant que..., je veux..., afin de...",
+        "Un cahier des charges de qualité est testable : chaque exigence doit pouvoir être vérifiée objectivement lors de la recette."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle phase du projet produit le cahier des charges ?",
+          "options": [
+            "Le déploiement",
+            "L'analyse des besoins",
+            "La maintenance",
+            "Les tests de performance"
+          ],
+          "correct": 1,
+          "correction": "Le cahier des charges est établi lors de l'analyse et de la spécification des besoins."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la différence entre besoin fonctionnel et non fonctionnel ?",
+          "reponse": "Le besoin fonctionnel décrit une action attendue ; le besoin non fonctionnel porte sur la qualité du système.",
+          "correction": "Exemple : « générer une facture » est fonctionnel ; « répondre en moins d'une seconde » est non fonctionnel."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-info"
+      ],
+      "annees": [
+        "BUT1"
+      ],
+      "matiere": "Anglais professionnel",
+      "titre": "Anglais technique : lire une documentation logicielle",
+      "source": "Programme national du BUT Informatique (arrêté du 24 novembre 2020, MESR) — compétences transversales : s'exprimer et communiquer, se servir du numérique, exploiter les données",
+      "points": [
+        "La documentation logicielle anglaise utilise un vocabulaire spécialisé : input, output, compile, debug, deploy, repository, dependency.",
+        "Les messages d'erreur suivent des structures standard : Error: file not found, Warning: deprecated method, Failed to connect.",
+        "Les verbes à l'impératif et au présent sont fréquents dans les guides : Install the package, Run the command, The function returns a value.",
+        "La lecture efficace consistes à repérer les mots-clés et la structure du document (installation, configuration, utilisation, dépannage)."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que signifie le verbe « to deploy » en anglais technique ?",
+          "options": [
+            "Déboguer",
+            "Déployer une application",
+            "Compiler",
+            "Supprimer un fichier"
+          ],
+          "correct": 1,
+          "correction": "To deploy signifie mettre une application en production ou la déployer."
+        },
+        {
+          "type": "texte",
+          "q": "Quel est le sens de « deprecated method » ?",
+          "reponse": "Une méthode obsolète, encore disponible mais déconseillée et appelée à disparaître.",
+          "correction": "Les API signalent ainsi les éléments à ne plus utiliser."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-info"
+      ],
+      "annees": [
+        "BUT2"
+      ],
+      "matiere": "Méthodologie",
+      "titre": "Cycle de vie du logiciel et méthodes agiles",
+      "source": "Programme national du BUT Informatique (arrêté du 24 novembre 2020, MESR) — compétences transversales : s'exprimer et communiquer, se servir du numérique, exploiter les données",
+      "points": [
+        "Le cycle de vie classique (modèle en cascade) enchaîne analyse, conception, réalisation, tests et maintenance, chaque phase validée avant la suivante.",
+        "Les méthodes agiles privilégient des itérations courtes, la collaboration avec le client et l'adaptation au changement, comme le formalise le Manifeste agile (2001).",
+        "Scrum organise le travail en sprints avec trois rôles : Product Owner, Scrum Master et équipe de développement, et des cérémonies (daily, revue, rétrospective).",
+        "Le versionnement avec Git permet de suivre les modifications, de travailler sur des branches et de fusionner les contributions de façon tracée."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel rôle Scrum est responsable de la priorisation du backlog ?",
+          "options": [
+            "Le Scrum Master",
+            "Le Product Owner",
+            "L'équipe de développement",
+            "Le chef de projet fonctionnel"
+          ],
+          "correct": 1,
+          "correction": "Le Product Owner définit et priorise les éléments du backlog produit."
+        },
+        {
+          "type": "texte",
+          "q": "Quels sont les principes du Manifeste agile ?",
+          "reponse": "Privilégier les individus et interactions, les logiciels fonctionnels, la collaboration client et l'adaptation au changement.",
+          "correction": "Ces quatre valeurs sont énoncées dans le Manifeste pour le développement agile de logiciels (2001)."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-info"
+      ],
+      "annees": [
+        "BUT2"
+      ],
+      "matiere": "Droit",
+      "titre": "Protection des données et propriété intellectuelle",
+      "source": "Programme national du BUT Informatique (arrêté du 24 novembre 2020, MESR) — compétences transversales : s'exprimer et communiquer, se servir du numérique, exploiter les données",
+      "points": [
+        "Le Règlement général sur la protection des données (RGPD, règlement UE 2016/679) encadre la collecte et le traitement des données personnelles depuis le 25 mai 2018.",
+        "Les principes clés du RGPD sont la licéité, la minimisation des données, la limitation des finalités, l'exactitude et la sécurité des traitements.",
+        "La propriété intellectuelle comprend le droit d'auteur (protégé depuis la création, code source inclus) et les brevets, qui protègent les inventions techniques sous conditions de nouveauté.",
+        "Les licences logicielles (GPL, MIT, Apache 2.0) définissent les droits d'utilisation, de modification et de redistribution du code."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la date d'application du RGPD ?",
+          "options": [
+            "1er janvier 2016",
+            "25 mai 2018",
+            "1er janvier 2020",
+            "13 juillet 2023"
+          ],
+          "correct": 1,
+          "correction": "Le RGPD est applicable depuis le 25 mai 2018 dans l'Union européenne."
+        },
+        {
+          "type": "texte",
+          "q": "Quel principe du RGPD limite la collecte aux données nécessaires ?",
+          "reponse": "Le principe de minimisation des données.",
+          "correction": "Il impose de ne traiter que les données adéquates et nécessaires à la finalité poursuivie."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-info"
+      ],
+      "annees": [
+        "BUT3"
+      ],
+      "matiere": "Anglais professionnel",
+      "titre": "Présenter un projet technique à l'écrit et à l'oral",
+      "source": "Programme national du BUT Informatique (arrêté du 24 novembre 2020, MESR) — compétences transversales : s'exprimer et communiquer, se servir du numérique, exploiter les données",
+      "points": [
+        "Une présentation technique en anglais suit une trame : contexte, problème, solution retenue, résultats et perspectives.",
+        "Les supports de présentation doivent être lisibles : un titre par diapositive, peu de texte, des visuels et des chiffres clés.",
+        "La maîtrise des verbes de présentation (I'll show you..., This slide illustrates..., As you can see...) fluidifie l'oral.",
+        "La capacité à répondre aux questions (Q&A) exige de maîtriser le vocabulaire technique et de savoir clarifier une réponse."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle structure suit une présentation technique en anglais ?",
+          "options": [
+            "Contexte, problème, solution, résultats, perspectives",
+            "Blague, musique, conclusion",
+            "Introduction interminable et sans plan",
+            "Liste de code source"
+          ],
+          "correct": 0,
+          "correction": "Cette trame est la plus efficace pour un pitch ou une présentation de projet."
+        },
+        {
+          "type": "texte",
+          "q": "Comment rendre une diapositive lisible ?",
+          "reponse": "Un titre clair, peu de texte, des visuels et quelques chiffres clés.",
+          "correction": "Une diapositive surchargée nuit à la compréhension de l'auditoire."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-info"
+      ],
+      "annees": [
+        "BUT3"
+      ],
+      "matiere": "Statistiques",
+      "titre": "Statistiques et probabilités pour l'analyse de données",
+      "source": "Programme national du BUT Informatique (arrêté du 24 novembre 2020, MESR) — compétences transversales : s'exprimer et communiquer, se servir du numérique, exploiter les données",
+      "points": [
+        "Une variable aléatoire associe une valeur numérique à chaqueissue d'une expérience ; elle est discrète (dénombrable) ou continue.",
+        "L'espérance mathématique E(X) est la moyenne pondérée des valeurs par leurs probabilités ; la variance mesure la dispersion autour de cette espérance.",
+        "La loi binomiale modélise le nombre de succès lors de n épreuves indépendantes de probabilité p : P(X=k) = C(n,k) p^k (1-p)^(n-k).",
+        "Le théorème central limite justifie l'usage de la loi normale pour la moyenne d'un grand échantillon, fondement des intervalles de confiance et des tests."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle loi modélise le nombre de succès sur n épreuves indépendantes ?",
+          "options": [
+            "La loi normale",
+            "La loi de Poisson",
+            "La loi binomiale",
+            "La loi uniforme"
+          ],
+          "correct": 2,
+          "correction": "La loi binomiale B(n, p) compte les succès dans n épreuves de Bernoulli indépendantes."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce que l'espérance mathématique ?",
+          "reponse": "La moyenne pondérée des valeurs d'une variable aléatoire par leurs probabilités.",
+          "correction": "Elle représente la valeur moyenne attendue à long terme."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-droit"
+      ],
+      "annees": [
+        "L1"
+      ],
+      "matiere": "Méthodologie universitaire",
+      "titre": "Méthodologie du droit : la fiche d'arrêt et le commentaire",
+      "source": "Programme de licence de droit (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; méthodologie juridique",
+      "points": [
+        "La fiche d'arrêt restitue de façon structurée : la juridiction, la date, les faits, la procédure, les moyens des parties, la solution et la motivation.",
+        "Le commentaire d'arrêt dégage la portée de la décision : il identifie la question de droit, la solution retenue et sa contribution à la construction de la règle.",
+        "La dissertation juridique répond à un sujet par une problématique, un plan en deux ou trois parties et une argumentation appuyée sur des textes et des arrêts.",
+        "La citation des références (articles du Code civil, arrêts de la Cour de cassation) doit être exacte : numéro d'article, chambre, date et numéro de pourvoi."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que ne contient pas une fiche d'arrêt ?",
+          "options": [
+            "Les faits",
+            "La solution",
+            "Une opinion personnelle sur l'arrêt",
+            "La motivation"
+          ],
+          "correct": 2,
+          "correction": "La fiche d'arrêt est objective : elle restitue les éléments de la décision sans porter de jugement."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce que la portée d'un arrêt ?",
+          "reponse": "C'est l'enseignement juridique que l'on retire de la décision, au-delà de sa solution concrète.",
+          "correction": "Le commentaire vise précisément à dégager cette portée générale."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-droit"
+      ],
+      "annees": [
+        "L1"
+      ],
+      "matiere": "Anglais",
+      "titre": "Anglais juridique : lire un texte de common law",
+      "source": "Programme de licence de droit (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; anglais juridique (Legal English)",
+      "points": [
+        "Le vocabulaire juridique anglais repose sur des termes issus du latin et du français : tort, contract, estoppel, habeas corpus, force majeure.",
+        "La common law (droit jurisprudentiel) s'oppose au droit civil codifié : la règle s'y dégage de la décision du juge et du précédent (stare decisis).",
+        "Un contrat anglais distingue offer, acceptance, consideration et intention to create legal relations comme éléments constitutifs.",
+        "La lecture d'un arrêt anglais exige de repérer la ratio decidendi (motif de la décision) et les obiter dicta (remarks incidentes)."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel terme désigne la force obligatoire du précédent en common law ?",
+          "options": [
+            "Stare decisis",
+            "Habeas corpus",
+            "Force majeure",
+            "Consideration"
+          ],
+          "correct": 0,
+          "correction": "Stare decisis impose au juge de suivre les décisions antérieures sur une question identique."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce que la « consideration » dans le contrat anglais ?",
+          "reponse": "C'est l'échange de valeur entre les parties, condition de validité du contrat en common law.",
+          "correction": "Sans consideration, une promesse est en principe non exécutable en common law."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-droit"
+      ],
+      "annees": [
+        "L2"
+      ],
+      "matiere": "Statistiques",
+      "titre": "Statistiques appliquées au droit et à la criminologie",
+      "source": "Programme de licence de droit (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; méthodes quantitatives",
+      "points": [
+        "Une statistique criminelle mesure des phénomènes (interpellations, condamnations) mais ne reflète qu'imparfaitement la réalité : une partie des infractions n'est pas signalée (chiffre noir).",
+        "Un taux rapporte un nombre d'événements à une population de référence, par exemple le nombre de condamnations pour 100 000 habitants.",
+        "La comparaison dans le temps suppose une homogénéité des définitions et des modes de comptage ; un changement de législation peut créer une rupture de série.",
+        "Une corrélation entre deux séries statistiques n'établit pas de lien de causalité : l'analyse doit rester prudente dans l'interprétation."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel phénomène désigne la partie non observée de la criminalité ?",
+          "options": [
+            "Le taux de récidive",
+            "Le chiffre noir",
+            "La délinquance juvénile",
+            "La prescription"
+          ],
+          "correct": 1,
+          "correction": "Le chiffre noir désigne les infractions non signalées ou non enregistrées."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi comparer des taux plutôt que des effectifs bruts ?",
+          "reponse": "Parce que les taux tiennent compte de la taille des populations comparées.",
+          "correction": "Un effectif brut peut être trompeux si les populations diffèrent."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-droit"
+      ],
+      "annees": [
+        "L2"
+      ],
+      "matiere": "Informatique",
+      "titre": "Outils numériques pour le juriste : bases de données et veille",
+      "source": "Programme de licence de droit (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; outils numériques",
+      "points": [
+        "Les bases de données juridiques (Légifrance, Dalloz, LexisNexis) donnent accès aux textes, à la jurisprudence et à la doctrine.",
+        "Une recherche juridique efficace combine des mots-clés, des filtres (juridiction, date) et le suivi des références citées dans les arrêts.",
+        "L'identifiant unique d'un texte (numéro NOR, numéro de pourvoi) garantit de citer la bonne version d'une décision ou d'un article.",
+        "La veille juridique s'appuie sur des alertes automatisées et nécessite une vérification de la date de mise à jour des sources."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel identifiant permet de retrouver un texte réglementaire sur Légifrance ?",
+          "options": [
+            "Le numéro NOR",
+            "Le code postal",
+            "Le numéro SIRET",
+            "L'ISBN"
+          ],
+          "correct": 0,
+          "correction": "Le numéro NOR identifie de façon unique les textes publiés au Journal officiel."
+        },
+        {
+          "type": "texte",
+          "q": "Quel risque présente l'usage d'une vieille version d'un texte ?",
+          "reponse": "Citer une règle abrogée ou modifiée et aboutir à une conclusion erronée.",
+          "correction": "Il faut toujours vérifier la date de version et les modifications successives."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-droit"
+      ],
+      "annees": [
+        "L3"
+      ],
+      "matiere": "Anglais",
+      "titre": "Anglais des affaires et contrats internationaux",
+      "source": "Programme de licence de droit (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; anglais des affaires",
+      "points": [
+        "Les contrats commerciaux anglais comportent des clauses standard : termination, indemnity, confidentiality, governing law et dispute resolution.",
+        "La clause de « governing law » désigne le droit applicable au contrat ; la clause compromissoire (arbitration clause) soustrait le litige aux tribunaux étatiques.",
+        "Les Incoterms 2020 de la Chambre de commerce internationale répartissent entre vendeur et acheteur les frais, les risques et les formalités douanières.",
+        "La traduction juridique exige une equivalence fonctionnelle : un terme du droit français n'a pas toujours de correspondant exact en common law."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle clause désigne le droit applicable à un contrat international ?",
+          "options": [
+            "Confidentiality clause",
+            "Governing law clause",
+            "Force majeure clause",
+            "Entire agreement clause"
+          ],
+          "correct": 1,
+          "correction": "La governing law clause détermine le droit qui régit le contrat."
+        },
+        {
+          "type": "texte",
+          "q": "Que font les Incoterms 2020 ?",
+          "reponse": "Ils répartissent entre vendeur et acheteur les coûts, les risques et les formalités liés au transport.",
+          "correction": "Ils ne déterminent ni le prix ni le droit applicable au contrat."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-droit"
+      ],
+      "annees": [
+        "L3"
+      ],
+      "matiere": "Méthodologie universitaire",
+      "titre": "Mémoire de licence de droit : méthode et citation",
+      "source": "Programme de licence de droit (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; mémoire et Norme ISO 690 :2021 — règles de rédaction des références bibliographiques et des citations",
+      "points": [
+        "Un mémoire de licence organise une question de droit en deux parties, chacune articulée autour d'une idée directrice et de sous-parties équilibrées.",
+        "La bibliographie distingue les ouvrages, les articles de doctrine, les textes et la jurisprudence ; elle obéit à une norme de citation (ISO 690).",
+        "Toute citation doit être entre guillemets et assortie d'une référence précise ; une citation sans source constitue un plagiat.",
+        "La conclusion répond à la problématique, dresse un bilan critique et ouvre sur une question plus large, sans introduire d'argument nouveau."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle norme régit la présentation des références bibliographiques ?",
+          "options": [
+            "ISO 9001",
+            "ISO 690",
+            "ISO 27001",
+            "ISO 14001"
+          ],
+          "correct": 1,
+          "correction": "L'ISO 690 définit les règles de rédaction des références et des citations bibliographiques."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi une citation doit-elle toujours être sourcée ?",
+          "reponse": "Pour garantir la traçabilité et éviter le plagiat.",
+          "correction": "La référence permet au lecteur de vérifier le propos dans le texte original."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-psycho"
+      ],
+      "annees": [
+        "L1"
+      ],
+      "matiere": "Méthodologie universitaire",
+      "titre": "Lire un article scientifique en psychologie",
+      "source": "Programme de licence de psychologie (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; lecture critique et Norme ISO 690 :2021 — règles de rédaction des références bibliographiques et des citations",
+      "points": [
+        "Un article scientifique suit le plan IMRAD : Introduction, Methods, Results, and Discussion — il faut le lire dans cet ordre pour en saisir la logique.",
+        "La partie méthode précise l'échantillon, les variables, les outils de mesure et le plan expérimental : ces éléments conditionnent la validité des résultats.",
+        "Une corrélation ne démontre pas une causalité : seule une expérimentation avec contrôle des variables permet d'inférer un lien de cause à effet.",
+        "La lecture critique examine la taille de l'effet, les limites de l'étude et la reproductibilité, au-delà de la seule significativité statistique."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que signifie le sigle IMRAD ?",
+          "options": [
+            "Introduction, Methods, Results, and Discussion",
+            "International Medical Research",
+            "Individual Mental Research",
+            "Index of Mental disorders"
+          ],
+          "correct": 0,
+          "correction": "IMRAD est la structure standard d'un article de recherche : Introduction, Methods, Results, and Discussion."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi une corrélation n'implique-t-elle pas la causalité ?",
+          "reponse": "Parce qu'une variable tierce peut expliquer les deux variables observées.",
+          "correction": "L'expérimentation contrôlée est nécessaire pour tester une hypothèse causale."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-psycho"
+      ],
+      "annees": [
+        "L1"
+      ],
+      "matiere": "Anglais",
+      "titre": "Anglais de la psychologie : vocabulaires et échelles",
+      "source": "Programme de licence de psychologie (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; anglais scientifique",
+      "points": [
+        "Le vocabulaire de la psychologie anglaise comprend cognition, perception, memory, attention, emotion, motivation et behavior (comportement).",
+        "Les grandes écoles se nomment behaviorism, psychoanalysis, cognitive psychology, humanistic psychology et cognitive neuroscience.",
+        "Les échelles cliniques courantes sont publiées en anglais : par exemple le Big Five (Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism).",
+        "La lecture d'articles en anglais suppose de maîtriser les termes de méthodologie : sample, hypothesis, significant, p-value, effect size."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel modèle de personnalité est désigné par l'acronyme OCEAN ?",
+          "options": [
+            "Le modèle des 16 facteurs",
+            "Le Big Five",
+            "Le modèle de Eysenck",
+            "Le Rorschach"
+          ],
+          "correct": 1,
+          "correction": "OCEAN correspond aux cinq dimensions du Big Five."
+        },
+        {
+          "type": "texte",
+          "q": "Que signifie « effect size » en anglais scientifique ?",
+          "reponse": "La taille de l'effet, c'est-à-dire l'ampleur de la différence ou de la relation observée.",
+          "correction": "Elle complète la p-value en indiquant l'importance pratique du résultat."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-psycho"
+      ],
+      "annees": [
+        "L2"
+      ],
+      "matiere": "Statistiques",
+      "titre": "Tests d'hypothèses en psychologie : p-value et erreurs",
+      "source": "Programme de licence de psychologie (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; statistiques inférentielles",
+      "points": [
+        "Un test d'hypothèse compare l'hypothèse nulle H0 (pas d'effet) à l'hypothèse alternative H1 ; le risque de première espèce α est généralement fixé à 0,05.",
+        "La p-value est la probabilité d'observer un résultat au moins aussi extrême si H0 est vraie ; elle n'est pas la probabilité que H0 soit vraie.",
+        "Une erreur de première espèce rejette à tort une H0 vraie ; une erreur de deuxième espèce ne rejette pas une H0 fausse (puissance = 1 - β).",
+        "Le test t de Student compare deux moyennes ; l'ANOVA compare les moyennes de trois groupes ou plus en décomposant la variance."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que représente une p-value de 0,03 ?",
+          "options": [
+            "La probabilité que H0 soit vraie",
+            "La probabilité d'un résultat aussi extrême sous H0",
+            "La taille de l'effet",
+            "Le nombre de participants"
+          ],
+          "correct": 1,
+          "correction": "La p-value se calcule en supposant H0 vraie : elle mesure la surprise face aux données observées."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la différence entre erreur de première et de deuxième espèce ?",
+          "reponse": "La première rejette une H0 vraie ; la deuxième ne rejette pas une H0 fausse.",
+          "correction": "Le risque α et la puissance 1-β permettent de les contrôler."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-psycho"
+      ],
+      "annees": [
+        "L2"
+      ],
+      "matiere": "Informatique",
+      "titre": "Outils numériques pour la recherche en psychologie",
+      "source": "Programme de licence de psychologie (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; outils numériques de recherche",
+      "points": [
+        "Les logiciels de statistique (R, SPSS, JAMOVI) permettent de gérer les données, de réaliser des tests et de produire des graphiques reproductibles.",
+        "Un tableau de données est organisé en observations (lignes) et variables (colonnes) ; chaque variable reçoit un nom, un type et un codage documenté.",
+        "Le logiciel de formulation d'expériences (PsychoPy, E-Prime) contrôle la présentation des stimuli et l'enregistrement des réponses avec précision temporelle.",
+        "L'anonymisation des données et le stockage sécurisé sont imposés par le RGPD dès la phase de collecte."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Dans un tableau de données, que représente une ligne ?",
+          "options": [
+            "Une variable",
+            "Une observation (un participant)",
+            "Un test statistique",
+            "Une référence"
+          ],
+          "correct": 1,
+          "correction": "Chaque ligne correspond à une unité d'observation, chaque colonne à une variable."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi documenter le codage des variables ?",
+          "reponse": "Pour garantir la reproductibilité et éviter les erreurs d'interprétation.",
+          "correction": "Un code sans dictionary rend impossible la relecture des données."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-psycho"
+      ],
+      "annees": [
+        "L3"
+      ],
+      "matiere": "Anglais",
+      "titre": "Communiquer sa recherche en anglais",
+      "source": "Programme de licence de psychologie (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; communication scientifique",
+      "points": [
+        "La communication scientifique en anglais suit une structure rigide : abstract, introduction, methods, results, discussion, references.",
+        "L'abstract (résumé) condense en 150-250 mots l'objectif, la méthode, les principaux résultats et la conclusion de l'étude.",
+        "Les verbes au passé décrivent les actions réalisées (We measured...), le présent sert aux faits établis (The results suggest...).",
+        "Une présentation orale (conference talk) s'appuie sur des diapositives visuelles et un discours chronométré, suivi d'une session de questions."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que contient un abstract scientifique ?",
+          "options": [
+            "Uniquement la bibliographie",
+            "Objectif, méthode, résultats et conclusion",
+            "Les données brutes",
+            "Les remerciements"
+          ],
+          "correct": 1,
+          "correction": "L'abstract est un résumé structuré de l'ensemble de l'étude."
+        },
+        {
+          "type": "texte",
+          "q": "Quel temps utiliser pour décrire une action de recherche déjà réalisée ?",
+          "reponse": "Le prétérit (passé simple ou prétérit en anglais) : We measured the response times.",
+          "correction": "Le présent est réservé aux faits généraux et aux conclusions."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-psycho"
+      ],
+      "annees": [
+        "L3"
+      ],
+      "matiere": "Méthodologie universitaire",
+      "titre": "Concevoir un plan expérimental et rédiger son mémoire",
+      "source": "Programme de licence de psychologie (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; méthodologie expérimentale",
+      "points": [
+        "Un plan expérimental définit la variable indépendante manipulée, la variable dépendante mesurée et les variables de contrôle à neutraliser.",
+        "La randomisation (affectation aléatoire des participants aux conditions) limite les biais de sélection et renforce la validité interne.",
+        "Un protocole expérimental doit préciser la population cible, les critères d'inclusion, le nombre de participants et les conditions de passation.",
+        "Le mémoire de licence expose la question, la revue de littérature, l'hypothèse, la méthode, les résultats et une discussion critique des limites."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que désigne la variable indépendante ?",
+          "options": [
+            "La variable mesurée",
+            "La variable manipulée par le chercheur",
+            "La variable contrôlée",
+            "Le résultat de l'étude"
+          ],
+          "correct": 1,
+          "correction": "La variable indépendante est celle que l'expérimentateur fait varier pour en observer l'effet."
+        },
+        {
+          "type": "texte",
+          "q": "Quel est le rôle de la randomisation ?",
+          "reponse": "Répartir aléatoirement les participants entre les conditions pour limiter les biais.",
+          "correction": "Elle augmente la validité interne de l'expérience."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-eco"
+      ],
+      "annees": [
+        "L1"
+      ],
+      "matiere": "Méthodologie universitaire",
+      "titre": "Méthodologie économique : modèles et formalisation",
+      "source": "Programme de licence d'économie (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; méthodologie des sciences économiques",
+      "points": [
+        "Un modèle économique est une simplification de la réalité destinée à isoler un mécanisme ; il repose sur des hypothèses explicites (ceteris paribus).",
+        "La modélisation distingue les variables endogènes, expliquées dans le modèle, des variables exogènes, déterminées hors du modèle.",
+        "Une hypothesis économique doit être réfutable : elle peut être testée à l'aide de données et d'outils statistiques.",
+        "Un raisonnement économique articule une question, un modèle, une demonstration et une discussion des limites du modèle."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que signifie l'expression latine « ceteris paribus » ?",
+          "options": [
+            "Toutes choses égales par ailleurs",
+            "Après coup",
+            "En moyenne",
+            "À long terme"
+          ],
+          "correct": 0,
+          "correction": "Ceteris paribus signifie que l'on fait abstraction des autres facteurs pour isoler un effet."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce qu'une variable endogène ?",
+          "reponse": "Une variable dont la valeur est déterminée à l'intérieur du modèle.",
+          "correction": "Elle s'oppose à la variable exogène, fixée de l'extérieur."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-eco"
+      ],
+      "annees": [
+        "L1"
+      ],
+      "matiere": "Anglais",
+      "titre": "Anglais économique : lire la presse et les rapports",
+      "source": "Programme de licence d'économie (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; anglais économique",
+      "points": [
+        "Le vocabulaire macroéconomique anglais comprend GDP, inflation, unemployment, interest rate, fiscal policy et monetary policy.",
+        "La presse économique anglophone (Financial Times, The Economist) emploie des tournures imagées : soft landing, hard landing, rate cut, rate hike.",
+        "Un rapport annuel (annual report) présente la situation de l'entreprise, ses comptes, sa stratégie et ses perspectives.",
+        "La lecture de documents économiques en anglais exige de distinguer les faits chiffrés des commentaires et prévisions."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel sigle désigne le produit intérieur brut en anglais ?",
+          "options": [
+            "GDP",
+            "GNP",
+            "CPI",
+            "PPI"
+          ],
+          "correct": 0,
+          "correction": "GDP signifie Gross Domestic Product, soit produit intérieur brut."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce qu'un « rate cut » ?",
+          "reponse": "Une baisse des taux d'intérêt décidée par une banque centrale.",
+          "correction": "Un « rate hike » désigne à l'inverse une hausse des taux."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-eco"
+      ],
+      "annees": [
+        "L2"
+      ],
+      "matiere": "Statistiques",
+      "titre": "Statistique inférentielle appliquée à l'économie",
+      "source": "Programme de licence d'économie (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; statistique inférentielle",
+      "points": [
+        "L'estimation ponctuelle fournit une valeur unique (moyenne empirique), tandis que l'intervalle de confiance donne une plage d'erreur autour de cette valeur.",
+        "Un intervalle de confiance à 95 % signifie que, sur des échantillons répétés, 95 % des intervalles construits contiendraient la vraie valeur du paramètre.",
+        "La régression linéaire estime une relation y = a + bx ; le coefficient b mesure la variation moyenne de y pour une unité supplémentaire de x.",
+        "Le coefficient de détermination R² mesure la part de la variance de y expliquée par le modèle, comprise entre 0 et 1."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que signifie un R² de 0,80 ?",
+          "options": [
+            "La pente est de 0,80",
+            "80 % de la variance de y est expliquée par le modèle",
+            "L'erreur est de 80 %",
+            "La corrélation est négative"
+          ],
+          "correct": 1,
+          "correction": "Le R² indique la proportion de variance expliquée par la régression."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est l'interprétation correcte d'un intervalle de confiance à 95 % ?",
+          "reponse": "Sur des échantillons répétés, 95 % des intervalles contiendraient le paramètre vrai.",
+          "correction": "L'intervalle calculé contient ou non la vraie valeur ; la probabilité porte sur la méthode, non sur le paramètre."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-eco"
+      ],
+      "annees": [
+        "L2"
+      ],
+      "matiere": "Informatique",
+      "titre": "Tableurs et traitement des données économiques",
+      "source": "Programme de licence d'économie (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; outils numériques",
+      "points": [
+        "Un tableur organise les données en lignes et colonnes ; les références absolues ($A$1) et relatives (A1) déterminent la copie des formules.",
+        "Les fonctions courantes SUM, AVERAGE, IF et VLOOKUP (ou RECHERCHEV) permettent d'agréger, de trier et de croiser des données.",
+        "Un tableau croisé dynamique (PivotTable) synthétise rapidement de grands volumes de données selon plusieurs dimensions.",
+        "La qualité d'une analyse dépend de la propreté des données : valeurs manquantes, doublons et formats hétérogènes doivent être traités en amont."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle référence reste fixe lorsqu'on copie une formule ?",
+          "options": [
+            "A1",
+            "$A$1",
+            "A$1 seul",
+            "1:A"
+          ],
+          "correct": 1,
+          "correction": "Les dollars figent la ligne et la colonne : $A$1 est une référence absolue."
+        },
+        {
+          "type": "texte",
+          "q": "À quoi sert un tableau croisé dynamique ?",
+          "reponse": "À synthétiser et recouper rapidement un grand volume de données.",
+          "correction": "Il permet de changer les dimensions d'analyse sans recalculer manuellement."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-eco"
+      ],
+      "annees": [
+        "L3"
+      ],
+      "matiere": "Anglais",
+      "titre": "Présenter une analyse économique en anglais",
+      "source": "Programme de licence d'économie (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; expression économique",
+      "points": [
+        "Une présentation économique en anglais s'appuie sur des verbes de tendance : increase, rise, fall, decline, remain stable, fluctuate.",
+        "Les adverbes et adjectifs nuancent l'analyse : slightly, significantly, sharply, gradually, marginally.",
+        "La description d'un graphique suit une progression : introduire l'axe, décrire la tendance générale, puis les points remarquables.",
+        "Un executive summary (résumé directionnel) expose en quelques lignes le contexte, la méthode, les résultats et les recommandations."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel verbe décrit une forte hausse en anglais ?",
+          "options": [
+            "To fluctuate",
+            "To surge",
+            "To remain stable",
+            "To decline"
+          ],
+          "correct": 1,
+          "correction": "To surge signifie augmenter fortement et brutalement."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce qu'un executive summary ?",
+          "reponse": "Un résumé concis destiné aux décideurs, présentant l'essentiel d'un rapport.",
+          "correction": "Il remplace la lecture intégrale du document pour un public pressé."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-eco"
+      ],
+      "annees": [
+        "L3"
+      ],
+      "matiere": "Méthodologie universitaire",
+      "titre": "Rédiger un mémoire d'économie et une analyse de données",
+      "source": "Programme de licence d'économie (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; mémoire et Norme ISO 690 :2021 — règles de rédaction des références bibliographiques et des citations",
+      "points": [
+        "Un mémoire d'économie articule une revue de littérature, une question de recherche, une stratégie empirique et l'interprétation des résultats.",
+        "La revue de littérature ne doit pas être une simple énumération : elle construit une problématique en mettant en dialogue les auteurs et leurs désaccords.",
+        "La partie empirique précise la source des données, la période, les variables et la méthode d'estimation pour garantir la reproductibilité.",
+        "Les références bibliographiques suivent une norme (ISO 690) et toute donnée empruntée doit être citée avec sa source et sa date."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel rôle joue la revue de littérature ?",
+          "options": [
+            "Elle remplace les résultats",
+            "Elle construit la problématique en situant la recherche",
+            "Elle contient les données brutes",
+            "Elle est facultative"
+          ],
+          "correct": 1,
+          "correction": "La revue de littérature situe le travail dans le débat scientifique et justifie la question posée."
+        },
+        {
+          "type": "texte",
+          "q": "Que doit préciser la partie empirique d'un mémoire ?",
+          "reponse": "La source des données, la période, les variables et la méthode utilisée.",
+          "correction": "Ces informations rendent l'analyse reproductible et vérifiable."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-maths"
+      ],
+      "annees": [
+        "L1"
+      ],
+      "matiere": "Méthodologie universitaire",
+      "titre": "Raisonner en mathématiques : définitions, énoncés et démonstrations",
+      "source": "Programme de licence de mathématiques (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; méthodologie mathématique",
+      "points": [
+        "Une démonstration mathématique enchaîne des implications logiques à partir d'hypothèses et de résultats déjà établis (théorèmes, propositions).",
+        "La réciproque d'une implication A ⇒ B est B ⇒ A : elle n'est pas automatiquement vraie et doit être démontrée séparément.",
+        "Un contre-exemple suffit à réfuter une affirmation universelle ; il doit être explicite et vérifiable.",
+        "La rigueur impose de distinguer un résultat observé sur quelques cas d'une propriété démontrée dans toute sa généralité."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que faut-il pour réfuter une affirmation de la forme « pour tout x, P(x) » ?",
+          "options": [
+            "Une démonstration",
+            "Un contre-exemple",
+            "Une définition",
+            "Une hypothèse"
+          ],
+          "correct": 1,
+          "correction": "Un seul contre-exemple suffit à invalider une propriété universelle."
+        },
+        {
+          "type": "texte",
+          "q": "La réciproque d'un théorème est-elle toujours vraie ?",
+          "reponse": "Non, elle doit être démontrée séparément.",
+          "correction": "A ⇒ B n'implique pas B ⇒ A : par exemple, « si Carré alors parallélogramme » a une réciproque fausse."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-maths"
+      ],
+      "annees": [
+        "L1"
+      ],
+      "matiere": "Anglais",
+      "titre": "Anglais mathématique : lire un article et écrire une preuve",
+      "source": "Programme de licence de mathématiques (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; anglais mathématique",
+      "points": [
+        "Le vocabulaire des mathématiques en anglais comprend theorem, lemma, corollary, proof, definition, conjecture et counterexample.",
+        "Les connecteurs logiques sont essentiels : suppose that, hence, therefore, it follows that, conversely, if and only if.",
+        "La notation mathématique est internationale, mais la lecture des articles exige de comprendre les termes « well-defined », « injective », « surjective ».",
+        "Une preuve en anglais s'écrit avec des phrases courtes et des symboles : Let x be..., Then..., which proves the claim."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel mot désigne un résultat auxiliaire servant à démontrer un théorème ?",
+          "options": [
+            "Corollary",
+            "Lemma",
+            "Axiom",
+            "Conjecture"
+          ],
+          "correct": 1,
+          "correction": "Un lemma (lemme) est un résultat intermédiaire utilisé dans la démonstration d'un théorème."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle différence entre un théorème et une conjecture ?",
+          "reponse": "Un théorème est démontré ; une conjecture est une hypothèse non encore prouvée.",
+          "correction": "Une conjecture devient théorème dès qu'une démonstration est publiée et validée."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-maths"
+      ],
+      "annees": [
+        "L2"
+      ],
+      "matiere": "Statistiques",
+      "titre": "Lois de probabilité et théorèmes limites",
+      "source": "Programme de licence de mathématiques (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; probabilités et statistiques",
+      "points": [
+        "Une variable aléatoire est une fonction mesurable d'un espace probabilisé vers un espace mesurable ; sa loi décrit la répartition de ses valeurs.",
+        "L'espérance est linéaire : E(aX + b) = aE(X) + b ; la variance vérifie Var(aX + b) = a²Var(X).",
+        "La loi des grands nombres affirme que la moyenne empirique converge vers l'espérance lorsque la taille de l'échantillon augmente.",
+        "Le théorème central limite établit que la moyenne d'un échantillon, convenablement normalisée, converge en loi vers une gaussienne."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que dit le théorème central limite ?",
+          "options": [
+            "La moyenne converge presque sûrement",
+            "La moyenne normalisée converge en loi vers une gaussienne",
+            "Toute loi est gaussienne",
+            "La variance est nulle"
+          ],
+          "correct": 1,
+          "correction": "Le TCL porte sur la convergence en distribution vers la loi normale, sous des conditions d'indépendance et de variance finie."
+        },
+        {
+          "type": "texte",
+          "q": "Comment Var(aX + b) se déduit-elle de Var(X) ?",
+          "reponse": "Var(aX + b) = a² Var(X) : la translation ne change pas la variance, la dilatation la multiplie par a².",
+          "correction": "C'est une conséquence directe de la définition de la variance."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-maths"
+      ],
+      "annees": [
+        "L2"
+      ],
+      "matiere": "Informatique",
+      "titre": "Calcul scientifique et reproductibilité des résultats",
+      "source": "Programme de licence de mathématiques (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; outils de calcul scientifique",
+      "points": [
+        "Les logiciels de calcul formel (Python avec SymPy, SageMath, Mathematica) permettent de manipuler des expressions symboliques exactes.",
+        "Le calcul en virgule flottante introduit des erreurs d'arrondi : la précision machine (epsilon) limite la fiabilité des comparaisons d'égalité.",
+        "Un résultat numérique reproductible requiert le code, les données, les versions des bibliothèques et les paramètres utilisés.",
+        "Les algorithmes numériques (méthode de Newton, intégration de Gauss) doivent être accompagnés d'une analyse de stabilité et de convergence."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel problème pose la comparaison de deux flottants par « == » ?",
+          "options": [
+            "Elle est toujours vraie",
+            "Les erreurs d'arrondi peuvent la fausser",
+            "Elle est interdite en Python",
+            "Elle ralentit le calcul"
+          ],
+          "correct": 1,
+          "correction": "On compare plutôt la valeur absolue de leur différence à une tolérance (math.isclose)."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce qui rend un calcul reproductible ?",
+          "reponse": "La conservation du code, des données, des versions logicielles et des paramètres.",
+          "correction": "Sans ces éléments, un tiers ne peut pas vérifier ni refaire le calcul."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-maths"
+      ],
+      "annees": [
+        "L3"
+      ],
+      "matiere": "Anglais",
+      "titre": "Lire et présenter un séminaire de mathématiques",
+      "source": "Programme de licence de mathématiques (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; communication mathématique",
+      "points": [
+        "Un séminaire mathématique commence par l'énoncé du problème, le contexte et les principaux résultats avant d'entrer dans la démonstration.",
+        "Les anglicismes mathématiques courants sont « iff » (if and only if), « wlog » (without loss of generality), « rhs/lhs » (right/left hand side).",
+        "Une présentation au tableau exige d'annoncer le plan et de vérifier que l'auditoire suit les notations employées.",
+        "La session de questions (Q&A) est un moment d'évaluation scientifique : il faut savoir répondre sur les hypothèses et les limites du résultat."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que signifie l'abréviation « wlog » ?",
+          "options": [
+            "Without loss of generality",
+            "With lots of graphs",
+            "Wrong logic",
+            "Without large numbers"
+          ],
+          "correct": 0,
+          "correction": "Wlog signifie « sans perte de généralité » et justifie une simplification de l'énoncé."
+        },
+        {
+          "type": "texte",
+          "q": "Quel est le rôle de la session de questions après un exposé ?",
+          "reponse": "Vérifier la compréhension, tester la solidité des hypothèses et discuter les limites.",
+          "correction": "C'est un moment scientifique à part entière, pas une simple formalité."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-maths"
+      ],
+      "annees": [
+        "L3"
+      ],
+      "matiere": "Méthodologie universitaire",
+      "titre": "Rédiger un mémoire de mathématiques",
+      "source": "Programme de licence de mathématiques (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; rédaction mathématique et Norme ISO 690 :2021 — règles de rédaction des références bibliographiques et des citations",
+      "points": [
+        "Un mémoire de mathématiques suit le plan : introduction, notations et définitions, énoncé des résultats, démonstrations, exemples et conclusion.",
+        "Chaque théorème, lemme et proposition est numéroté ; les références croisées facilitent la lecture de l'argumentation.",
+        "La rédaction mathématique alterne texte et formules ; chaque formule introduite par « en effet » ou « donc » doit s'enchaîner logiquement.",
+        "Les références bibliographiques (ISO 690) et la mention des sources historiques sont exigées comme dans toute publication scientifique."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel élément facilite la lecture d'un long mémoire de mathématiques ?",
+          "options": [
+            "L'absence de numérotation",
+            "La numérotation des théorèmes et les références croisées",
+            "Des formules sans explication",
+            "Une bibliographie facultative"
+          ],
+          "correct": 1,
+          "correction": "La numérotation et les renvois permettent de suivre l'architecture logique du texte."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle structure suit un mémoire de mathématiques ?",
+          "reponse": "Introduction, définitions et notations, résultats, démonstrations, exemples, conclusion.",
+          "correction": "Cette structure rend la démonstration lisible et vérifiable."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-info"
+      ],
+      "annees": [
+        "L1"
+      ],
+      "matiere": "Méthodologie universitaire",
+      "titre": "Méthodologie de la programmation : lire et écrire du code",
+      "source": "Programme de licence d'informatique (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; méthodologie de programmation",
+      "points": [
+        "Un programme correct est décomposé en fonctions ou méthodes courtes, chacune avec une responsabilité claire et une interface documentée.",
+        "La lisibilité du code prime : noms explicites, indentation cohérente et commentaires expliquant le pourquoi plutôt que le comment.",
+        "Les tests unitaires vérifient chaque fonction isolément ; ils constituent une documentation exécutable et détectent les régressions.",
+        "Le débogage méthodique consistes à reproduire le bug, isoler la cause par réduction du cas, corriger puis ajouter un test de non-régression."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est le premier réflexe face à un bug ?",
+          "options": [
+            "Réécrire tout le programme",
+            "Reproduire le bug de façon fiable",
+            "Supprimer les tests",
+            "Changer de langage"
+          ],
+          "correct": 1,
+          "correction": "Sans reproduction fiable, on ne peut ni isoler la cause ni vérifier la correction."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la différence entre un test unitaire et un test d'intégration ?",
+          "reponse": "Le test unitaire isole une fonction ; le test d'intégration vérifie la collaboration entre modules.",
+          "correction": "Les deux niveaux sont complémentaires."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-info"
+      ],
+      "annees": [
+        "L1"
+      ],
+      "matiere": "Anglais",
+      "titre": "Anglais de la programmation : syntaxe et vocabulaire",
+      "source": "Programme de licence d'informatique (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; anglais technique",
+      "points": [
+        "La quasi-totalité des langages et API utilisent des mots-clés anglais : if, else, while, return, class, import, try, catch.",
+        "Le vocabulaire courant comprend variable, function, array, loop, pointer, compile, run, debug, commit, branch, merge.",
+        "Les messages d'erreur et la documentation des bibliothèques sont en anglais : savoir les lire est indispensable pour progresser.",
+        "Les noms de variables et de fonctions suivent des conventions (camelCase, snake_case) qui améliorent la lisibilité du code."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel mot-clé introduit une boucle « tant que » dans la plupart des langages ?",
+          "options": [
+            "while",
+            "foreach",
+            "switch",
+            "break"
+          ],
+          "correct": 0,
+          "correction": "Le mot-clé while répète un bloc tant que sa condition est vraie."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi les conventions de nommage sont-elles importantes ?",
+          "reponse": "Elles rendent le code lisible et homogène pour toute l'équipe.",
+          "correction": "Un code cohérent est plus facile à relire et à maintenir."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-info"
+      ],
+      "annees": [
+        "L2"
+      ],
+      "matiere": "Statistiques",
+      "titre": "Probabilités et statistiques pour l'apprentissage automatique",
+      "source": "Programme de licence d'informatique (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; probabilités et statistiques",
+      "points": [
+        "Une fonction de perte (loss) mesure l'écart entre prédiction et réalité ; l'apprentissage consiste à la minimiser, souvent par descente de gradient.",
+        "La vraisemblance (likelihood) mesure la probabilité des données observées sous un jeu de paramètres ; le maximum de vraisemblance estime ces paramètres.",
+        "Le surapprentissage (overfitting) survient lorsque le modèle mémorise les données d'entraînement ; la régularisation et la validation croisée le limitent.",
+        "La précision, le rappel et la F-mesure évaluent un classifieur ; la matrice de confusion détaille les erreurs par classe."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel phénomène désigne un modèle qui mémorise les données d'entraînement ?",
+          "options": [
+            "Le sous-apprentissage",
+            "Le surapprentissage",
+            "La convergence",
+            "La régularisation"
+          ],
+          "correct": 1,
+          "correction": "Le surapprentissage donne d'excellents résultats en entraînement mais de mauvais résultats sur de nouvelles données."
+        },
+        {
+          "type": "texte",
+          "q": "Comment limiter le surapprentissage ?",
+          "reponse": "Par la régularisation, la validation croisée et l'augmentation des données d'entraînement.",
+          "correction": "Ces techniques améliorent la capacité de généralisation du modèle."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-info"
+      ],
+      "annees": [
+        "L2"
+      ],
+      "matiere": "Informatique",
+      "titre": "Bases de données et modélisation des données",
+      "source": "Programme de licence d'informatique (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; bases de données",
+      "points": [
+        "Le modèle relationnel organise les données en tables (relations) ; une clé primaire identifie de façon unique chaque tuple.",
+        "Une clé étrangère référence la clé primaire d'une autre table et garantit l'intégrité référentielle.",
+        "La normalisation (formes normales 1FN, 2FN, 3FN) réduit les redondances et les anomalies de mise à jour.",
+        "Le langage SQL permet d'interroger les données avec SELECT, de les filtrer avec WHERE et de les agréger avec GROUP BY."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel concept garantit qu'une référence pointe vers une ligne existante ?",
+          "options": [
+            "La clé primaire",
+            "La clé étrangère",
+            "L'index",
+            "La vue"
+          ],
+          "correct": 1,
+          "correction": "La contrainte de clé étrangère impose que la valeur référencée existe dans la table cible."
+        },
+        {
+          "type": "texte",
+          "q": "Quel est l'objectif de la normalisation ?",
+          "reponse": "Réduire les redondances et éviter les anomalies d'insertion, de modification et de suppression.",
+          "correction": "La 3FN élimine les dépendances transitives par rapport à la clé."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-info"
+      ],
+      "annees": [
+        "L3"
+      ],
+      "matiere": "Anglais",
+      "titre": "Écrire la documentation technique et un rapport en anglais",
+      "source": "Programme de licence d'informatique (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; documentation technique",
+      "points": [
+        "Une documentation API en anglais décrit les endpoints, les paramètres, les formats de requête et de réponse, ainsi que les codes d'erreur.",
+        "La documentation suit des générateurs standard : Javadoc, Sphinx, Doxygen ou MkDocs, qui produisent des pages à partir d'annotations dans le code.",
+        "Un rapport technique expose le contexte, les choix d'architecture, les résultats des tests et les limites de la solution.",
+        "La voix passive et le présent sont privilégiés : The data is stored in..., The function returns..."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel outil génère une documentation à partir d'annotations Java ?",
+          "options": [
+            "Sphinx",
+            "Javadoc",
+            "MkDocs",
+            "Doxygen uniquement"
+          ],
+          "correct": 1,
+          "correction": "Javadoc produit une documentation HTML à partir des commentaires spéciaux du code Java."
+        },
+        {
+          "type": "texte",
+          "q": "Que doit contenir la documentation d'un endpoint API ?",
+          "reponse": "L'URL, la méthode HTTP, les paramètres, le format de réponse et les codes d'erreur.",
+          "correction": "Ces éléments permettent à un développeur tiers d'utiliser l'API sans lire le code."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-info"
+      ],
+      "annees": [
+        "L3"
+      ],
+      "matiere": "Méthodologie universitaire",
+      "titre": "Méthodologie de recherche en informatique et éthique",
+      "source": "Programme de licence d'informatique (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; méthodologie de recherche et Norme ISO 690 :2021 — règles de rédaction des références bibliographiques et des citations",
+      "points": [
+        "Une recherche en informatique évalue une contribution par rapport à l'état de l'art : elle doit être comparée à des solutions existantes sur des critères mesurables.",
+        "Une expérience reproductible précise le jeu de données, le matériel, les paramètres et le code source, idéalement déposés dans un dépôt ouvert.",
+        "L'éthique de la recherche impose le consentement pour les données humaines, l'anonymisation et le respect du RGPD.",
+        "Les références bibliographiques (ISO 690) citent les articles de conférence et de revue avec auteurs, titre, conférence, année et pages."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel critère évalue la qualité d'une contribution scientifique en informatique ?",
+          "options": [
+            "Le nombre de lignes de code",
+            "La comparaison avec l'état de l'art sur des critères mesurables",
+            "Le langage utilisé",
+            "La taille de l'équipe"
+          ],
+          "correct": 1,
+          "correction": "Une contribution est jugée par sa nouveauté et son évaluation expérimentale par rapport aux travaux antérieurs."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce qu'une expérience reproductible ?",
+          "reponse": "Une expérience dont un tiers peut refaire les mesures grâce au code, aux données et aux paramètres fournis.",
+          "correction": "La reproductibilité est un critère de qualité scientifique."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-staps"
+      ],
+      "annees": [
+        "L1"
+      ],
+      "matiere": "Méthodologie universitaire",
+      "titre": "Méthodologie de l'entraînement et analyse de la performance",
+      "source": "Programme de licence STAPS (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; méthodologie de l'entraînement",
+      "points": [
+        "Un programme d'entraînement s'appuie sur les principes de charge : surcharge progressive, spécificité, individualisation et récupération.",
+        "La planification distingue la période préparatoire, la période compétitive et la période de transition (désentrainement actif).",
+        "L'évaluation de la performance utilise des tests standardisés dont la fiabilité (reproductibilité) et la validité doivent être connues.",
+        "Un suivi d'entraînement consigne la charge (volume, intensité), les résultats et les sensations pour ajuster la progression."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel principe impose d'augmenter graduellement la charge d'entraînement ?",
+          "options": [
+            "La spécificité",
+            "La surcharge progressive",
+            "La récupération",
+            "L'individualisation"
+          ],
+          "correct": 1,
+          "correction": "La surcharge progressive est le moteur de l'adaptation de l'organisme à l'effort."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce qu'un test fiable en STAPS ?",
+          "reponse": "Un test qui donne des résultats stables lorsqu'il est répété dans les mêmes conditions.",
+          "correction": "La fiabilité est distincte de la validité, qui mesure ce que le test est censé mesurer."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-staps"
+      ],
+      "annees": [
+        "L2"
+      ],
+      "matiere": "Anglais",
+      "titre": "Anglais du sport et des sciences du mouvement",
+      "source": "Programme de licence STAPS (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; anglais scientifique du sport",
+      "points": [
+        "Le vocabulaire des sciences du sport en anglais comprend endurance, strength, flexibility, coordination, recovery et performance.",
+        "Les termes de physiologie de l'effort incluent VO2 max, lactate threshold, heart rate, oxygen uptake et muscle fatigue.",
+        "La littérature scientifique sportive utilise des expressions comme randomized controlled trial et meta-analysis.",
+        "Lire un article en anglais suppose de maîtriser les unités de mesure : VO2 en ml/kg/min, fréquence cardiaque en bpm."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que mesure la VO2 max ?",
+          "options": [
+            "La force maximale",
+            "La consommation maximale d'oxygène",
+            "La souplesse",
+            "La fréquence cardiaque maximale"
+          ],
+          "correct": 1,
+          "correction": "La VO2 max est la quantité maximale d'oxygène que l'organisme peut consommer par minute et par kilogramme."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce qu'un « randomized controlled trial » ?",
+          "reponse": "Un essai contrôlé randomisé où les participants sont répartis aléatoirement entre groupes.",
+          "correction": "C'est le plan expérimental de référence pour évaluer une intervention."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-staps"
+      ],
+      "annees": [
+        "L3"
+      ],
+      "matiere": "Statistiques",
+      "titre": "Statistiques appliquées aux sciences du sport",
+      "source": "Programme de licence STAPS (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; statistiques appliquées",
+      "points": [
+        "La comparaison de deux moyennes (avant/après entraînement) utilise le test t de Student apparié lorsque les mesures portent sur les mêmes sujets.",
+        "L'analyse de variance (ANOVA) compare plusieurs groupes ou plusieurs conditions de mesure ; un effet significatif est suivi de comparaisons post-hoc.",
+        "La taille d'effet (par exemple le d de Cohen) quantifie l'ampleur d'une différence indépendamment de la taille de l'échantillon.",
+        "Un résultat statistically significant ne l'est pas nécessairement sur le plan pratique : l'interprétation sportive reste indispensable."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel test compare deux mesures sur les mêmes sujets ?",
+          "options": [
+            "Le test t indépendant",
+            "Le test t apparié",
+            "Le test du chi-deux",
+            "L'ANOVA à mesures indépendantes"
+          ],
+          "correct": 1,
+          "correction": "Le test t apparié tient compte du lien entre les deux mesures du même individu."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi calculer une taille d'effet en plus de la p-value ?",
+          "reponse": "Parce que la significativité dépend de la taille de l'échantillon, alors que la taille d'effet mesure l'ampleur réelle du phénomène.",
+          "correction": "Une différence significative peut être trop faible pour avoir un intérêt sportif."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-staps"
+      ],
+      "annees": [
+        "L2",
+        "L3"
+      ],
+      "matiere": "Informatique",
+      "titre": "Outils numériques d'analyse de la performance sportive",
+      "source": "Programme de licence STAPS (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; outils numériques",
+      "points": [
+        "Les capteurs (GPS, accéléromètres, cardiofréquencemètres) produisent des séries temporelles de données de charge et de mouvement.",
+        "Un tableur ou un langage comme R permet de nettoyer, synchroniser et agréger ces données avant analyse.",
+        "La vitesse, la distance parcourue, les accélérations et le nombre de sprints sont des indicateurs courants de la charge externe.",
+        "La visualisation graphique (courbes de charge, diagrammes) facilite la communication des résultats à l'entraîneur et à l'athlète."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel capteur mesure la position et la vitesse d'un athlète sur le terrain ?",
+          "options": [
+            "Le cardiofréquencemètre",
+            "Le GPS",
+            "Le dynamomètre",
+            "Le spiromètre"
+          ],
+          "correct": 1,
+          "correction": "Le GPS permet de suivre les déplacements et de calculer distance et vitesse."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la différence entre charge interne et charge externe ?",
+          "reponse": "La charge externe est le travail réalisé (distance, vitesse) ; la charge interne est la réponse de l'organisme (fréquence cardiaque, perception de l'effort).",
+          "correction": "Les deux sont complémentaires pour suivre un athlète."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-svt"
+      ],
+      "annees": [
+        "L1"
+      ],
+      "matiere": "Méthodologie universitaire",
+      "titre": "Démarche expérimentale en biologie et analyse de résultats",
+      "source": "Programme de licence de sciences de la vie (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; démarche expérimentale",
+      "points": [
+        "Une démarche expérimentale part d'une hypothèse testable, puis met en place un protocole avec un témoin et des répétitions.",
+        "Les variables sont contrôlées : seule la variable testée varie, les autres facteurs sont maintenus constants.",
+        "Un résultat biologique s'exprime avec des unités, des incertitudes de mesure et un effectif d'échantillon précisé.",
+        "La reproductibilité exige de documenter le protocole, les réactifs, les souches utilisées et les conditions expérimentales."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel rôle joue le témoin dans une expérience biologique ?",
+          "options": [
+            "Il reçoit le traitement testé",
+            "Il sert de référence sans traitement",
+            "Il augmente l'échantillon",
+            "Il remplace les répétitions"
+          ],
+          "correct": 1,
+          "correction": "Le témoin permet d'attribuer la différence observée au traitement et non à des facteurs externes."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi répéter une expérience ?",
+          "reponse": "Pour estimer la variabilité et réduire l'influence du hasard sur les résultats.",
+          "correction": "Les répétitions permettent de calculer une moyenne et une dispersion."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-svt"
+      ],
+      "annees": [
+        "L2"
+      ],
+      "matiere": "Anglais",
+      "titre": "Anglais scientifique : lire la littérature en biologie",
+      "source": "Programme de licence de sciences de la vie (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; anglais scientifique",
+      "points": [
+        "La biologie moléculaire utilise un vocabulaire international : gene, protein, DNA, RNA, transcription, translation, mutation, expression.",
+        "Les modèles animaux et cellulaires courants se nomment cell line, knockout mouse, transgenic organism, in vitro et in vivo.",
+        "Un article de biologie décrit les matériels et méthodes (materials and methods) puis les résultats, souvent accompagnés de figures commentées.",
+        "La lecture critique porte sur la pertinence des contrôles, la taille des échantillons et la portée des conclusions."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que signifie « in vitro » ?",
+          "options": [
+            "Dans un organisme vivant",
+            "En éprouvette, hors de l'organisme",
+            "Dans une cellule animale",
+            "Après la naissance"
+          ],
+          "correct": 1,
+          "correction": "In vitro désigne une expérience réalisée hors d'un organisme vivant, par exemple en culture cellulaire."
+        },
+        {
+          "type": "texte",
+          "q": "Quel est le rôle de la section « materials and methods » ?",
+          "reponse": "Décrire précisément le protocole pour permettre la reproductibilité.",
+          "correction": "C'est la partie qui garantit que l'expérience peut être refaite."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-svt"
+      ],
+      "annees": [
+        "L3"
+      ],
+      "matiere": "Statistiques",
+      "titre": "Biostatistiques : tester une différence entre deux populations",
+      "source": "Programme de licence de sciences de la vie (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; biostatistiques",
+      "points": [
+        "Le choix du test dépend du type de variable et de la distribution : test t pour des moyennes, test du chi-deux pour des proportions.",
+        "Les hypothèses du test t (normalité, homogénéité des variances) doivent être vérifiées ; à défaut, on recourt à des tests non paramétriques.",
+        "Une p-value inférieure à 0,05 conduit à rejeter l'hypothèse nulle, mais elle ne mesure ni l'ampleur de l'effet ni sa pertinence biologique.",
+        "Les comparaisons multiples augmentent le risque de faux positifs : des corrections comme celle de Bonferroni sont nécessaires."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel test compare deux proportions dans un tableau de contingence ?",
+          "options": [
+            "Le test t de Student",
+            "Le test du chi-deux",
+            "L'ANOVA",
+            "Le test de Pearson sur moyennes"
+          ],
+          "correct": 1,
+          "correction": "Le test du chi-deux d'indépendance analyse les effectifs d'un tableau de contingence."
+        },
+        {
+          "type": "texte",
+          "q": "Quel risque présente la réalisation de nombreux tests statistiques ?",
+          "reponse": "L'augmentation du nombre de faux positifs (erreurs de première espèce).",
+          "correction": "Des corrections du seuil de significativité, comme Bonferroni, limitent ce risque."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-svt"
+      ],
+      "annees": [
+        "L2",
+        "L3"
+      ],
+      "matiere": "Informatique",
+      "titre": "Bioinformatique : traiter des séquences biologiques",
+      "source": "Programme de licence de sciences de la vie (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; bioinformatique",
+      "points": [
+        "Une séquence biologique est représentée par une chaîne de caractères (A, T, G, C pour l'ADN) stockée dans des formats comme FASTA ou FASTQ.",
+        "L'alignement de séquences (Needleman-Wunsch global, Smith-Waterman local) mesure la similarité entre deux séquences.",
+        "BLAST (Basic Local Alignment Search Tool) recherche des similarités locales dans des bases de données comme GenBank.",
+        "Les outils de séquençage à haut débit produisent des millions de lectures qui nécessitent des pipelines de traitement et de contrôle qualité."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel outil recherche des similarités locales de séquences dans une base de données ?",
+          "options": [
+            "BLAST",
+            "Excel",
+            "Photoshop",
+            "Git"
+          ],
+          "correct": 0,
+          "correction": "BLAST est l'outil de référence pour la recherche d'alignements locaux."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle différence entre alignement global et alignement local ?",
+          "reponse": "L'alignement global compare toute la longueur des séquences ; l'alignement local ne compare que les régions similaires.",
+          "correction": "Needleman-Wunsch est global, Smith-Waterman est local."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-lea"
+      ],
+      "annees": [
+        "L1"
+      ],
+      "matiere": "Méthodologie universitaire",
+      "titre": "Méthodologie de la traduction et du commentaire",
+      "source": "Programme de licence LEA (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; méthodologie de la traduction",
+      "points": [
+        "La traduction ne consiste pas à remplacer mot à mot : elle vise à produire un texte équivalent dans la langue cible et la situation de communication donnée.",
+        "Les procédures de Vinay et Darbelnet comprennent l'emprunt, le calque, la traduction littérale, la transposition, la modulation, l'équivalence et l'adaptation.",
+        "Le commentaire de traduction compare le texte d'origine et la traduction pour identifier les choix effectués et en évaluer la pertinence.",
+        "Un traducteur doit identifier la fonction du texte (informer, convaincre, vendre) avant de choisir son registre."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle procédure de Vinay et Darbelnet change de catégorie grammaticale sans changer le sens ?",
+          "options": [
+            "Le calque",
+            "La transposition",
+            "L'emprunt",
+            "L'adaptation"
+          ],
+          "correct": 1,
+          "correction": "La transposition remplace une catégorie grammaticale par une autre (ex. : un nom par un verbe)."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce qu'une modulation ?",
+          "reponse": "Un changement de point de vue ou de formulation qui conserve le sens.",
+          "correction": "Exemple : traduire « il n'est pas difficile » par « it is easy »."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-lea"
+      ],
+      "annees": [
+        "L2"
+      ],
+      "matiere": "Anglais",
+      "titre": "Anglais LEA : compréhension de documents économiques",
+      "source": "Programme de licence LEA (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; compréhension économique en anglais",
+      "points": [
+        "Les documents économiques anglais emploient un vocabulaire précis : supply, demand, equilibrium, inflation, GDP, unemployment rate.",
+        "La lecture efficace repère d'abord la structure du texte : titre, sous-titres, paragraphes, chiffres et connecteurs logiques.",
+        "Les expressions idiomatiques financières (bull market, bear market, bottom line) exigent une connaissance du contexte culturel.",
+        "Le résumé de texte (summary) doit restituer les idées essentielles dans l'ordre, sans commentaire personnel."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel terme désigne un marché en hausse en anglais financier ?",
+          "options": [
+            "Bear market",
+            "Bull market",
+            "Flat market",
+            "Grey market"
+          ],
+          "correct": 1,
+          "correction": "Un bull market est un marché haussier ; un bear market est baissier."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la règle d'or d'un résumé de texte ?",
+          "reponse": "Restituer les idées essentielles dans l'ordre, fidèlement et sans ajout personnel.",
+          "correction": "Le résumé ne doit ni interpréter ni critiquer le texte source."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-lea"
+      ],
+      "annees": [
+        "L3"
+      ],
+      "matiere": "Statistiques",
+      "titre": "Statistiques pour les métiers de la traduction et de l'édition",
+      "source": "Programme de licence LEA (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; statistiques appliquées",
+      "points": [
+        "Les statistiques descriptives permettent de décrire un corpus : fréquence des mots, longueur moyenne des phrases, répartition des genres textuels.",
+        "Un échantillon représentatif est nécessaire pour généraliser les observations d'un corpus à une langue ou à un genre de texte.",
+        "Les enquêtes sur les pratiques professionnelles utilisent des questionnaires dont la formulation influence les réponses (biais de question).",
+        "La fiabilité d'une mesure se teste par la répétition : deux codeurs doivent classer les mêmes occurrences de façon cohérente."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel biais survient lorsqu'une question suggère la réponse attendue ?",
+          "options": [
+            "Le biais d'échantillonnage",
+            "Le biais de formulation",
+            "Le biais de confirmation",
+            "Le biais de sélection"
+          ],
+          "correct": 1,
+          "correction": "Un libellé orienté influence les réponses : c'est un biais de formulation (ou de question)."
+        },
+        {
+          "type": "texte",
+          "q": "Comment vérifier la fiabilité d'un codage manuel de données textuelles ?",
+          "reponse": "En faisant coder le même texte par deux personnes et en mesurant leur accord (accord inter-codeurs).",
+          "correction": "Un accord faible signale une consigne de codage ambiguë."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-lea"
+      ],
+      "annees": [
+        "L1",
+        "L2"
+      ],
+      "matiere": "Informatique",
+      "titre": "Outils numériques pour le traducteur et le documentaliste",
+      "source": "Programme de licence LEA (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; outils numériques",
+      "points": [
+        "Les outils de traduction assistée par ordinateur (TAO) comme SDL Trados ou memoQ gèrent des mémoires de traduction et des glossaires.",
+        "Une mémoires de traduction stocke les couples source/cible déjà validés et propose des correspondances (fuzzy match) pour les nouvelles phrases.",
+        "Les bases terminologiques et les concordanciers permettent de vérifier l'usage réel d'un terme dans un corpus.",
+        "La relecture et le contrôle qualité restent indispensables : l'outil propose, le traducteur décide."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Qu'appelle-t-on « mémoire de traduction » ?",
+          "options": [
+            "Un logiciel de correction orthographique",
+            "Une base de segments déjà traduits",
+            "Un moteur de recherche web",
+            "Un dictionnaire en ligne"
+          ],
+          "correct": 1,
+          "correction": "La mémoire de traduction réutilise les traductions validées pour proposer des correspondances."
+        },
+        {
+          "type": "texte",
+          "q": "Quel est le rôle d'un concordancier ?",
+          "reponse": "Montrer toutes les occurrences d'un mot dans leur contexte afin d'observer son emploi réel.",
+          "correction": "Il aide à choisir un terme adapté au contexte."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-histoire"
+      ],
+      "annees": [
+        "L1"
+      ],
+      "matiere": "Méthodologie universitaire",
+      "titre": "Méthodologie historienne : sources, critiques et citation",
+      "source": "Programme de licence d'histoire (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; méthodologie historienne et Norme ISO 690 :2021 — règles de rédaction des références bibliographiques et des citations",
+      "points": [
+        "Le travail de l'historien repose sur des sources primaires (documents contemporains des faits) et secondaires (travaux ultérieurs).",
+        "La critique externe vérifie l'authenticité d'un document (auteur, date, origine), la critique interne en analyse le contenu et les intentions.",
+        "Une source est toujours située : son auteur, son public et son contexte déterminent ce qu'elle permet d'affirmer.",
+        "Toute citation doit être sourcée selon une norme (ISO 690) : auteur, titre, éditeur, année et pages."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que vérifie la critique externe d'un document ?",
+          "options": [
+            "Son interprétation",
+            "Son authenticité et son origine",
+            "Sa valeur esthétique",
+            "Sa longueur"
+          ],
+          "correct": 1,
+          "correction": "La critique externe établit l'authenticité, la datation et la provenance du document."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la différence entre source primaire et source secondaire ?",
+          "reponse": "La source primaire est contemporaine des faits ; la source secondaire est une analyse postérieure.",
+          "correction": "Un même document peut changer de statut selon la question posée."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-histoire"
+      ],
+      "annees": [
+        "L2"
+      ],
+      "matiere": "Anglais",
+      "titre": "Anglais pour l'historien : lire la recherche anglophone",
+      "source": "Programme de licence d'histoire (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; anglais historique",
+      "points": [
+        "L'historiographie anglophone utilise des termes comme source, evidence, archive, periodization, causality et interpretation.",
+        "Les courants historiographiques se nomment : Annales school, Marxist historiography, postmodernism, global history, microhistory.",
+        "La lecture d'un article anglais exige de repérer la thèse de l'auteur, ses sources et le débat historiographique dans lequel il s'inscrit.",
+        "Les références suivent des normes propres (Chicago, MLA, Harvard) : auteur, année, titre et pages."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel courant historiographique est associé à l'école des Annales ?",
+          "options": [
+            "Le marxisme",
+            "L'école des Annales (économie, société, longue durée)",
+            "Le positivisme",
+            "Le structuralisme linguistique"
+          ],
+          "correct": 1,
+          "correction": "L'école des Annales, fondée en 1929, privilégie l'histoire économique et sociale et la longue durée."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce que l'historiographie ?",
+          "reponse": "L'étude de la manière dont l'histoire a été écrite et interprétée au fil du temps.",
+          "correction": "Elle analyse les écoles, les auteurs et les débats historiques."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-histoire"
+      ],
+      "annees": [
+        "L3"
+      ],
+      "matiere": "Statistiques",
+      "titre": "Statistiques et histoire : séries longues et quantification",
+      "source": "Programme de licence d'histoire (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; histoire quantitative",
+      "points": [
+        "L'histoire quantitative utilise des séries longues (prix, salaires, populations) pour dégager des tendances sur plusieurs décennies.",
+        "Une série statistique historique peut comporter des ruptures dues à des changements de définition, de monnaie ou de mode de collecte.",
+        "Les indices (par exemple un indice des prix à base 100) permettent de comparer des grandeurs à des époques différentes.",
+        "La quantification ne remplace pas la critique des sources : elle donne une mesure qui doit rester interprétée dans son contexte."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel problème peut affecter une série longue de prix historiques ?",
+          "options": [
+            "Une rupture de série due à un changement de monnaie",
+            "L'absence de graphiques",
+            "Un excès de sources",
+            "La précision des dates"
+          ],
+          "correct": 0,
+          "correction": "Un changement de définition ou de monnaie crée une discontinuité qu'il faut traiter avant comparaison."
+        },
+        {
+          "type": "texte",
+          "q": "À quoi sert un indice à base 100 en histoire économique ?",
+          "reponse": "À comparer l'évolution de grandeurs dans le temps en les rapportant à une année de référence.",
+          "correction": "Il neutralise les changements d'unité ou de niveau de prix."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "lic-histoire"
+      ],
+      "annees": [
+        "L2",
+        "L3"
+      ],
+      "matiere": "Informatique",
+      "titre": "Humanités numériques : traiter et visualiser des sources",
+      "source": "Programme de licence d'histoire (arrêté du 30 juillet 2018 relatif au diplôme national de licence, BO) — enseignements transversaux et préparation à l'emploi ; humanités numériques",
+      "points": [
+        "La numérisation transforme les documents en images ou en texte ; l'OCR (reconnaissance optique de caractères) rend le texte interrogeable mais introduit des erreurs à corriger.",
+        "Les bases de données documentaires permettent de décrire les sources avec des champs structurés : auteur, date, lieu, type, cote d'archives.",
+        "Les outils de fouille de texte (text mining) et de visualisation (réseaux, cartes, courbes) révèlent des motifs dans de grands corpus.",
+        "La pérennisation des données numériques impose des formats ouverts et des dépôts archivistiques (HAL, Zenodo, portails d'archives)."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle limite présente l'OCR sur un document ancien ?",
+          "options": [
+            "Il ne fonctionne qu'en couleur",
+            "Il peut introduire des erreurs de lecture à corriger",
+            "Il détruit le document",
+            "Il interdit la recherche"
+          ],
+          "correct": 1,
+          "correction": "L'OCR est imparfait sur les écritures anciennes : une relecture est nécessaire."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi privilégier des formats ouverts pour archiver des données ?",
+          "reponse": "Pour garantir leur lisibilité et leur réutilisation à long terme, indépendamment d'un logiciel propriétaire.",
+          "correction": "Les formats ouverts favorisent la pérennité et l'accessibilité des données."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "pass"
+      ],
+      "annees": [
+        "PASS1"
+      ],
+      "matiere": "Éthique",
+      "titre": "Éthique médicale : principes et arbitrages",
+      "source": "Programme du Parcours d'Accès Spécifique Santé (PASS), arrêté du 4 novembre 2019 modifié relatif à l'accès aux formations de médecine, pharmacie, odontologie et maïeutique — enseignements de santé, société et humanité, droit de la santé et biostatistiques",
+      "points": [
+        "L'éthique médicale organise la réflexion sur les valeurs en jeu dans la pratique de soin : bienfaisance, non-malfaisance, respect de l'autonomie et justice.",
+        "Le principe d'autonomie s'appuie sur le consentement libre et éclairé de la personne, résultat de l'information reçue et de sa capacité de compréhension.",
+        "Le principe de précaution justifie des mesures de protection même lorsque le risque n'est pas scientifiquement établi avec certitude.",
+        "Un dilemme éthique survient lorsque deux exigences légitimes s'opposent : la délibération, la traçabilité de la décision et l'explicitation des motifs sont alors essentielles."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel principe implique d'informer la personne avant un acte de soin ?",
+          "options": [
+            "La bienfaisance",
+            "La non-malfaisance",
+            "Le respect de l'autonomie",
+            "La justice distributive"
+          ],
+          "correct": 2,
+          "correction": "Le respect de l'autonomie suppose une information comprise et un consentement libre."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce qu'un dilemme éthique en médecine ?",
+          "reponse": "Une situation où deux principes légitimes entrent en conflit et où aucun choix n'est parfaitement satisfaisant.",
+          "correction": "La délibération et la traçabilité de la décision permettent d'assumer le choix."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "pass"
+      ],
+      "annees": [
+        "PASS1"
+      ],
+      "matiere": "Statistiques médicales",
+      "titre": "Biostatistiques : décrire et comparer des données de santé",
+      "source": "Programme du Parcours d'Accès Spécifique Santé (PASS), arrêté du 4 novembre 2019 modifié relatif à l'accès aux formations de médecine, pharmacie, odontologie et maïeutique — enseignements de santé, société et humanité, droit de la santé et biostatistiques",
+      "points": [
+        "Une variable de santé est quantitative (âge, tension artérielle) ou qualitative (sexe, groupe sanguin, statut maladie) ; le type de variable détermine les paramètres et les tests utilisables.",
+        "La sensibilité d'un test est sa capacité à détecter les malades (vrais positifs / malades) ; la spécificité est sa capacité à exclure les non-malades.",
+        "La valeur prédictive positive dépend de la prévalence de la maladie : un test très spécifique peut produire beaucoup de faux positifs si la maladie est rare.",
+        "Un intervalle de confiance à 95 % encadre l'estimation d'un paramètre ; sa largeur dépend de la variabilité des données et de la taille de l'échantillon."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que mesure la sensibilité d'un test diagnostique ?",
+          "options": [
+            "Sa capacité à identifier les personnes non malades",
+            "Sa capacité à identifier les personnes malades",
+            "Sa rapidité d'exécution",
+            "Son coût"
+          ],
+          "correct": 1,
+          "correction": "La sensibilité est la proportion de malades correctement identifiés par le test."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi la valeur prédictive positive dépend-elle de la prévalence ?",
+          "reponse": "Parce que dans une population où la maladie est rare, le nombre de faux positifs peut dépasser celui des vrais positifs.",
+          "correction": "La prévalence influe directement sur l'interprétation d'un résultat positif."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "infirmier"
+      ],
+      "annees": [
+        "IFSI1"
+      ],
+      "matiere": "Éthique",
+      "titre": "Les principes éthiques fondateurs de la pratique soignante",
+      "source": "Arrêté du 31 juillet 2009 relatif au diplôme d'État d'infirmier, annexe III (référentiel de formation) — UE 1.3 Législation, éthique, déontologie ; compétence 8 « Rechercher et traiter des données professionnelles et scientifiques » — UE 1.3.S1 Législation, éthique, déontologie",
+      "points": [
+        "La bienfaisance impose d'agir dans l'intérêt de la personne soignée ; la non-malfaisance impose de ne pas lui causer de dommage évitable.",
+        "Le respect de l'autonomie passe par l'information, le consentement et l'accompagnement de la décision de la personne, même lorsqu'elle refute un soin.",
+        "Le principe de justice commande une répartition équitable des soins et des ressources, sans discrimination ni privilège arbitraire.",
+        "L'éthique du soin distingue l'éthique (réflexion sur les valeurs) de la déontologie (règles professionnelles) et de la loi (règles opposables)."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Sur quoi repose le respect de l'autonomie du patient ?",
+          "options": [
+            "Sur l'information et le consentement libre et éclairé",
+            "Sur l'obéissance aux consignes",
+            "Sur le refus de toute décision",
+            "Sur la seule bienfaisance"
+          ],
+          "correct": 1,
+          "correction": "L'autonomie suppose une information comprise et un consentement donné librement."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la différence entre éthique et déontologie ?",
+          "reponse": "L'éthique est une réflexion sur les valeurs ; la déontologie est l'ensemble des règles professionnelles.",
+          "correction": "La déontologie est codifiée, notamment dans le Code de déontologie infirmière."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "infirmier"
+      ],
+      "annees": [
+        "IFSI1"
+      ],
+      "matiere": "Droit de la santé",
+      "titre": "Secret professionnel et droits du patient",
+      "source": "Arrêté du 31 juillet 2009 relatif au diplôme d'État d'infirmier, annexe III (référentiel de formation) — UE 1.3 Législation, éthique, déontologie ; compétence 8 « Rechercher et traiter des données professionnelles et scientifiques » — UE 1.3.S1 Législation, éthique, déontologie ; Code de la santé publique et Code de déontologie infirmière",
+      "points": [
+        "L'article 226-13 du Code pénal punit la révélation d'une information à caractère secret par une personne tenue au secret professionnel ; l'infirmier y est soumis.",
+        "L'article L. 1111-2 du Code de la santé publique garantit le droit de toute personne à être informée sur son état de santé, les traitements et leurs risques.",
+        "Le secret professionnel est une obligation de moyens et de résultat : il s'étend aux informations recueillies dans l'exercice, y compris après la fin de la prise en charge.",
+        "Des exceptions légales existent : péril imminent pour autrui, signalement des maltraitances ou transmission dans le cadre d'une équipe pluriprofessionnelle autorisée."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel article du Code pénal réprime la violation du secret professionnel ?",
+          "options": [
+            "L'article 226-13",
+            "L'article L. 1111-2",
+            "L'article 223-6",
+            "L'article 1382"
+          ],
+          "correct": 0,
+          "correction": "L'article 226-13 du Code pénal punit la révélation d'informations couvertes par le secret professionnel."
+        },
+        {
+          "type": "texte",
+          "q": "Quel texte garantit le droit à l'information sur son état de santé ?",
+          "reponse": "L'article L. 1111-2 du Code de la santé publique.",
+          "correction": "Il impose une information claire, loyale et appropriée à la personne."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "infirmier"
+      ],
+      "annees": [
+        "IFSI2"
+      ],
+      "matiere": "Statistiques médicales",
+      "titre": "Mesurer la santé d'une population : taux et indicateurs",
+      "source": "Arrêté du 31 juillet 2009 relatif au diplôme d'État d'infirmier, annexe III (référentiel de formation) — UE 1.3 Législation, éthique, déontologie ; compétence 8 « Rechercher et traiter des données professionnelles et scientifiques » — UE 1.2 Santé publique et économie de la santé ; compétence 8",
+      "points": [
+        "Un taux de prévalence mesure la proportion de personnes atteintes d'une maladie dans une population à un instant donné ; l'incidence compte les nouveaux cas sur une période.",
+        "La mortalité et la morbidité sont des indicateurs de santé publique ; on les rapporte généralement à 100 000 habitants pour permettre les comparaisons.",
+        "L'espérance de vie à la naissance est un indicateur synthétique de l'état de santé d'une population, calculé à partir des tables de mortalité.",
+        "La comparaison de deux populations exige de prendre en compte leur structure par âge : la standardisation corrige les différences de composition."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel indicateur compte les NOUVEAUX cas d'une maladie sur une période ?",
+          "options": [
+            "La prévalence",
+            "L'incidence",
+            "La létalité",
+            "La séroprévalence"
+          ],
+          "correct": 1,
+          "correction": "L'incidence dénombre les nouveaux cas ; la prévalence compte l'ensemble des cas à un instant donné."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi standardiser les taux selon l'âge ?",
+          "reponse": "Pour comparer des populations dont la structure par âge diffère.",
+          "correction": "Sans standardisation, une population plus âgée paraîtrait artificiellement plus malade."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "infirmier"
+      ],
+      "annees": [
+        "IFSI2"
+      ],
+      "matiere": "Éthique",
+      "titre": "Éthique de la recherche et protection des données de santé",
+      "source": "Arrêté du 31 juillet 2009 relatif au diplôme d'État d'infirmier, annexe III (référentiel de formation) — UE 1.3 Législation, éthique, déontologie ; compétence 8 « Rechercher et traiter des données professionnelles et scientifiques » ; compétence 8 « Rechercher et traiter des données professionnelles et scientifiques » ; RGPD",
+      "points": [
+        "Toute recherche impliquant des personnes doit obtenir un consentement éclairé et être soumise à un comité d'éthique de la recherche (CER) ou à un CPP.",
+        "Les données de santé sont des données sensibles au sens du RGPD : leur traitement repose sur une base légale explicite et des garanties renforcées.",
+        "L'anonymisation rend les données non identifiantes ; la pseudonymisation conserve un lien avec l'identité via une clé détenue séparément.",
+        "La finalité de la recherche limite l'usage des données : elles ne peuvent être réutilisées à d'autres fins sans nouvelle autorisation."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel organisme examine les aspects éthiques d'un projet de recherche impliquant des personnes ?",
+          "options": [
+            "Le Comité de protection des personnes (CPP)",
+            "L'ANSM uniquement",
+            "La HAS seule",
+            "Le conseil de l'ordre"
+          ],
+          "correct": 0,
+          "correction": "Le CPP (comité de protection des personnes) est compétent pour les essais cliniques et la recherche impliquant la personne humaine."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la différence entre anonymisation et pseudonymisation ?",
+          "reponse": "L'anonymisation rend la personne non identifiable ; la pseudonymisation remplace les identifiants par un code réversible.",
+          "correction": "Les données pseudonymisées restent des données personnelles au sens du RGPD."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "infirmier"
+      ],
+      "annees": [
+        "IFSI3"
+      ],
+      "matiere": "Statistiques médicales",
+      "titre": "Épidémiologie et biostatistiques : interpréter les résultats d'étude",
+      "source": "Arrêté du 31 juillet 2009 relatif au diplôme d'État d'infirmier, annexe III (référentiel de formation) — UE 1.3 Législation, éthique, déontologie ; compétence 8 « Rechercher et traiter des données professionnelles et scientifiques » ; UE 3.4 Initiation à la démarche de recherche ; compétence 8",
+      "points": [
+        "Une étude de cohorte suit des personnes exposées et non exposées pour comparer l'incidence d'un événement ; elle convient à l'étude de facteurs de risque.",
+        "L'essai contrôlé randomisé compare un traitement à un placebo ou à un traitement de référence, avec répartition aléatoire et souvent en aveugle.",
+        "Le risque relatif (RR) compare les risques entre deux groupes ; un RR de 2 signifie un risque doublé dans le groupe exposé.",
+        "Un résultat significatif sur le plan statistique doit être interprété avec la taille de l'effet, les intervalles de confiance et les limites méthodologiques de l'étude."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Dans quel type d'étude les participants sont-ils répartis aléatoirement entre deux traitements ?",
+          "options": [
+            "L'étude de cohorte",
+            "L'essai contrôlé randomisé",
+            "L'étude cas-témoins",
+            "L'étude descriptive"
+          ],
+          "correct": 1,
+          "correction": "L'essai contrôlé randomisé (ECR) est le plan expérimental de référence pour évaluer un traitement."
+        },
+        {
+          "type": "texte",
+          "q": "Comment interpréter un risque relatif de 2 ?",
+          "reponse": "Le risque de survenue de l'événement est deux fois plus élevé dans le groupe exposé.",
+          "correction": "Le RR compare des risques, il ne dit rien de l'ampleur absolue du risque."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "infirmier"
+      ],
+      "annees": [
+        "IFSI3"
+      ],
+      "matiere": "Droit de la santé",
+      "titre": "Responsabilité professionnelle de l'infirmier",
+      "source": "Arrêté du 31 juillet 2009 relatif au diplôme d'État d'infirmier, annexe III (référentiel de formation) — UE 1.3 Législation, éthique, déontologie ; compétence 8 « Rechercher et traiter des données professionnelles et scientifiques » — UE 1.3.S4 Législation, éthique, déontologie ; Code de la santé publique",
+      "points": [
+        "L'infirmier exerce sous sa propre responsabilité pour les actes relevant de sa compétence : l'article R. 4311-1 du Code de la santé publique définit son rôle propre.",
+        "Les actes médicaux ne peuvent être accomplis que par un médecin, sauf délégation ou protocole prévu par les articles L. 4311-1 et suivants.",
+        "La responsabilité disciplinaire est prononcée par l'ordre des infirmiers ; la responsabilité civile répare le dommage et la responsabilité pénale sanctionne l'infraction.",
+        "La traçabilité des soins dans le dossier de soins et le respect des procédures sont des éléments essentiels de la preuve en cas de litige."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel article du Code de la santé publique définit le rôle propre de l'infirmier ?",
+          "options": [
+            "R. 4311-1",
+            "L. 1110-4",
+            "R. 4127-1",
+            "L. 4161-1"
+          ],
+          "correct": 0,
+          "correction": "L'article R. 4311-1 du Code de la santé publique précise les actes relevant du rôle propre infirmier."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles sont les trois formes de responsabilité de l'infirmier ?",
+          "reponse": "Disciplinaire, civile et pénale.",
+          "correction": "Elles relèvent d'instances distinctes : ordre, juridiction civile et juridiction pénale."
+        }
+      ]
+    }
+  ]
+}

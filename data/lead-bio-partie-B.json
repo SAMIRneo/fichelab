@@ -1,0 +1,1164 @@
+{
+ "fiches": [
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1"
+   ],
+   "matiere": "Microbiologie",
+   "titre": "Chapitre : observation microscopique et coloration de Gram",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.4.3 et T2.2 ; NF EN ISO 7218",
+   "points": [
+    "Le microscope optique à immersion (objectif ×100, huile à immersion) permet d'observer des bactéries de 0,5 à 5 µm ; la résolution dépend de l'ouverture numérique et de la longueur d'onde : d ≈ 0,61 λ/NA.",
+    "Préparation d'un frottis : étaler une goutte de suspension sur une lame propre, sécher à l'air, fixer par chauffage (passage rapide à la flamme) ou au méthanol ; une fixation excessive déforme les cellules.",
+    "Coloration de Gram (4 temps) : (1) cristal violet (colorant primaire, 1 min) ; (2) iode (mordant, formation du complexe cristal violet-iode) ; (3) décoloration à l'alcool ou à l'acétone-alcool (quelques secondes, étape critique) ; (4) contre-coloration à la fuchsine ou au safranine.",
+    "Résultat : les bactéries à Gram + (paroi épaisse en peptidoglycane, acides téichoïques) retiennent le complexe violet et apparaissent violettes ; les bactéries à Gram - (membrane externe lipopolysaccharidique, peptidoglycane fin) se décolorent et prennent la couleur rose/rouge du contre-colorant.",
+    "La décoloration est l'étape la plus délicate : trop courte, tous les germes paraissent Gram + ; trop longue, les Gram + deviennent Gram -. Elle doit être chronométrée et réalisée sur un frottis de même épaisseur.",
+    "Contrôles obligatoires : lame témoin avec une souche Gram + connue (Staphylococcus aureus) et une souche Gram - connue (Escherichia coli), incluses dans chaque série de coloration.",
+    "Morphologies à décrire : cocci (ronds) en grappes (Staphylococcus), en chaînes (Streptococcus), en diplocoques (Neisseria) ; bacilles (bâtonnets) seuls, en chaînes (Bacillus) ou coryniformes ; présence d'une capsule, de spores (coloration de Schaal-Fulton au vert malachite) ou de flagelles.",
+    "Colorations complémentaires : coloration de Ziehl-Neelsen pour les mycobactéries (acido-alcoolo-résistantes, rouges sur fond bleu), coloration de Shaeffer-Fulton pour les spores, bleu de méthylène pour un examen rapide.",
+    "Compte rendu d'examen microscopique : aspect (Gram, forme, groupement), taille approximative, présence de spores/capsules, estimation de la charge (rare, quelques-uns, nombreux, très nombreux par champ), numéro de lame et date.",
+    "Limites : la coloration n'identifie pas l'espèce, elle oriente vers un genre ; une culture est nécessaire pour l'identification et l'antibiogramme ; la microscopie directe sur prélèvement peut être perturbée par les débris de matrice."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle est la coloration finale d'une bactérie à Gram négatif ?",
+     "options": [
+      "Violette",
+      "Rose/rouge",
+      "Incolore",
+      "Bleue"
+     ],
+     "correct": 1,
+     "correction": "Les Gram - perdent le complexe cristal violet-iode lors de la décoloration alcoolique et prennent la couleur du contre-colorant (fuchsine ou safranine), donc rose/rouge."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle étape de la coloration de Gram est la plus critique ?",
+     "options": [
+      "Le cristal violet",
+      "Le mordant iode",
+      "La décoloration alcoolique",
+      "Le contre-colorant"
+     ],
+     "correct": 2,
+     "correction": "La décoloration doit être chronométrée : trop courte, les Gram - restent violets (faux positifs) ; trop longue, les Gram + se décolorent (faux négatifs)."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle structure explique la rétention du cristal violet par les bactéries à Gram positif ?",
+     "options": [
+      "Une membrane externe lipopolysaccharidique",
+      "Une paroi épaisse en peptidoglycane",
+      "Une capsule polysaccharidique",
+      "Des flagelles"
+     ],
+     "correct": 1,
+     "correction": "La paroi des Gram + est constituée d'une couche épaisse de peptidoglycane qui retient le complexe cristal violet-iode après décoloration ; les Gram - ont une paroi fine et une membrane externe."
+    },
+    {
+     "type": "qcm",
+     "q": "À quoi servent les lames témoins Gram + et Gram - ?",
+     "options": [
+      "À calibrer le microscope",
+      "À valider la coloration et les réactifs",
+      "À mesurer la taille des bactéries",
+      "À remplacer le comptage"
+     ],
+     "correct": 1,
+     "correction": "Elles vérifient que les réactifs et la technique (surtout la décoloration) donnent les résultats attendus ; sans témoin, un résultat ne peut pas être validé."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire la séquence complète d'une coloration de Gram et préciser le rôle de chaque réactif.",
+     "correction": "Frottis séché et fixé ; cristal violet (colorant primaire qui pénètre toutes les cellules) ; iode (mordant qui forme le complexe cristal violet-iode, peu soluble) ; alcool ou acétone-alcool (décoloration sélective : les Gram + retiennent le complexe grâce à leur paroi épaisse, les Gram - le perdent) ; fuchsine ou safranine (contre-colorant qui colore en rose les cellules décolorées). Lire à l'objectif ×100 à immersion, avec des témoins Gram + violet et Gram - rose."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment interpréter un frottis montrant des cocci violets en grappes et des bacilles roses ?",
+     "correction": "Les cocci violets en grappes évoquent des staphylocoques à Gram positif (Staphylococcus aureus ou coagulase-négatif) ; les bacilles roses évoquent des entérobactéries ou autres bacilles à Gram négatif. Il s'agit donc d'une flore mixte : il faut mener un isolement sur milieux sélectifs pour obtenir des colonies isolées, puis identifier chaque type de colonie séparément (catalase, coagulase, galerie biochimique ou MALDI-TOF) et compléter par un antibiogramme si le contexte clinique ou hygiénique l'impose."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1"
+   ],
+   "matiere": "Microbiologie",
+   "titre": "Chapitre : milieux de culture et contrôle qualité des milieux (ISO 11133)",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.4.1, S2.4.3, S2.7.3 ; NF EN ISO 11133 ; NF EN ISO 7218",
+   "points": [
+    "Un milieu de culture apporte aux microorganismes eau, sources de carbone et d'azote, sels minéraux, facteurs de croissance (vitamines, sang, sérum) et un pH adapté (généralement 7,0-7,4).",
+    "Classification : milieux simples (eau peptonée, gélose nutritive) pour la croissance ; milieux sélectifs contenant un inhibiteur (sels biliaires, antibiotique, colorant) qui inhibent les flores indésirables ; milieux différenciateurs révélant une activité biochimique par un indicateur coloré (lactose + rouge de phénol sur MacConkey).",
+    "Milieu solide gélosé (agar 15-20 g/L), semi-solide (agar 3-5 g/L pour la mobilité) ou liquide (bouillon) ; la gélose fond à 85-100 °C et se solidifie vers 40-45 °C : les milieux thermolabiles (sang, antibiotiques) sont ajoutés après refroidissement vers 45-50 °C.",
+    "Préparation : reconstitution à partir d'une poudre déshydratée ou de composants, ajustement du pH, dissolution à chaud, répartition, stérilisation à l'autoclave (121 °C, 15 min, 1 bar) sauf pour les milieux thermosensibles filtrés sur 0,22 µm ; respect du temps et de la température (stérilisation excessive = dégradation des nutriments et des indicateurs).",
+    "Contrôle qualité des milieux selon la norme NF EN ISO 11133 : stérilité (incubation d'un témoin non inoculé), croissance (capacité de croissance d'une souche de référence), sélectivité (inhibition d'une souche non cible) et réponse biochimique (caractère différenciateur).",
+    "Souches de référence : issues d'une collection (ATCC, CIP, NCTC), entretenues et conservées avec un numéro de passage connu ; la souche de contrôle doit être différente de la souche d'essai pour éviter les biais.",
+    "Critères d'acceptation : taux de croissance (ratio du nombre de colonies sur milieu évalué par rapport au milieu de référence, généralement 0,5 à 2), présence/absence des réactions attendues, absence de croissance du témoin de stérilité ; les limites sont définies dans le plan de contrôle du laboratoire.",
+    "Traçabilité : numéro de lot de la poudre, date de préparation, date de péremption, autoclave et cycle utilisé, opérateur, résultats des contrôles et date de mise en service ; étiquetage de chaque lot de boîtes ou de tubes.",
+    "Conservation et durée de vie : à l'abri de la lumière, entre 2 et 25 °C selon le milieu, en emballage fermé pour limiter la dessiccation ; vérifier l'absence de condensation excessive, de coloration anormale ou de contamination avant emploi.",
+    "Élimination : tout milieu utilisé est considéré comme DASRI (déchets d'activités de soins à risques infectieux) ; il est inactivé par autoclave puis trié selon la filière déchets du laboratoire."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle est la température et la durée d'une stérilisation autoclave classique des milieux ?",
+     "options": [
+      "100 °C pendant 5 min",
+      "121 °C pendant 15 min",
+      "160 °C pendant 2 h",
+      "80 °C pendant 30 min"
+     ],
+     "correct": 1,
+     "correction": "121 °C pendant 15 min à 1 bar (vapeur saturée) est le cycle de référence ; une stérilisation plus longue dégrade les nutriments et les indicateurs colorés."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel rôle joue un indicateur coloré comme le rouge de phénol dans un milieu ?",
+     "options": [
+      "Il inhibe les bactéries Gram +",
+      "Il révèle un changement de pH dû au métabolisme (fermentation du lactose par exemple)",
+      "Il sert de source d'azote",
+      "Il augmente la dureté du gel"
+     ],
+     "correct": 1,
+     "correction": "Le rouge de phénol vire au rouge en milieu acide et au jaune/orange selon le pH : il signale la fermentation d'un glucide, ce qui permet de différencier les espèces."
+    },
+    {
+     "type": "qcm",
+     "q": "Que vérifie le témoin de stérilité d'un lot de milieux ?",
+     "options": [
+      "La croissance d'une souche de référence",
+      "L'absence de contamination du lot pendant la préparation",
+      "La sélectivité du milieu",
+      "La réponse biochimique"
+     ],
+     "correct": 1,
+     "correction": "Le témoin non inoculé est incubé comme les autres : toute croissance montre que le milieu ou la manipulation a été contaminé, entraînant le rejet du lot."
+    },
+    {
+     "type": "qcm",
+     "q": "Pourquoi ajouter le sang ou un antibiotique après refroidissement vers 45-50 °C ?",
+     "options": [
+      "Pour éviter son évaporation",
+      "Parce que ces composés sont thermolabiles et seraient détruits à l'autoclave",
+      "Pour accélérer la solidification",
+      "Pour changer le pH"
+     ],
+     "correct": 1,
+     "correction": "Le sang (gélose au sang) et les antibiotiques sont sensibles à la chaleur : ils sont ajoutés aseptiquement après refroidissement du milieu autoclave, avant coulée."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire les quatre contrôles de qualité d'un milieu selon la norme ISO 11133 et leur finalité.",
+     "correction": "(1) Stérilité : incuber un échantillon non inoculé, aucune croissance attendue. (2) Capacité de croissance : inoculer une souche de référence et comparer le nombre de colonies (taux de croissance) à celui obtenu sur un milieu de référence non sélectif. (3) Sélectivité : inoculer une souche non cible et vérifier son inhibition partielle ou totale. (4) Réponse biochimique/différenciation : vérifier la réaction attendue (exemple lactose fermenteur → colonie rouge sur MacConkey) avec une souche positive et une souche négative. Chaque contrôle est réalisé avec des souches de collection tracées et des critères d'acceptation définis à l'avance."
+    },
+    {
+     "type": "rédaction",
+     "q": "Quelles informations doivent figurer sur l'étiquette d'un lot de milieux préparés au laboratoire ?",
+     "correction": "Le nom exact du milieu, le numéro de lot interne, la date de préparation et la date limite d'utilisation, les conditions de conservation, le nom ou le code de l'opérateur, éventuellement les contrôles qualité effectués et leur résultat. Ces informations assurent la traçabilité du milieu jusqu'aux boîtes utilisées et permettent de retrouver tous les résultats obtenus avec un lot en cas de défaillance."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1"
+   ],
+   "matiere": "Microbiologie",
+   "titre": "Chapitre : asepsie, bionettoyage et prévention du risque biologique",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.4.1, S2.4.2 et T1.2 ; NF EN ISO 7218 ; DUERP",
+   "points": [
+    "Distinguer nettoyage, désinfection et stérilisation : le nettoyage élimine les salissures (détergent + action mécanique), la désinfection réduit la charge microbienne (agent chimique ou physique), la stérilisation détruit toutes les formes viables y compris les spores.",
+    "Bionettoyage : procéder du plus propre au plus sale, du haut vers le bas, avec deux chiffons ou deux faces différentes du chiffon (un pour le nettoyage, un pour la désinfection), en respectant le temps de contact du désinfectant et en ne mélangeant jamais deux produits chimiques.",
+    "Désinfectants courants : alcool à 70 % (bactéries végétatives et virus enveloppés, pas d'action sur les spores), hypochlorite de sodium (large spectre, sensibles aux matières organiques, corrosif), ammoniums quaternaires (bactéries Gram +, peu actifs sur les virus non enveloppés), peroxyde d'hydrogène et acide peracétique (sporicides).",
+    "Classes de risque biologique (1 à 4) selon le pouvoir pathogène et les modes de transmission ; le laboratoire de sécurité biologique 2 (NSB2/L2) est adapté aux microorganismes de classe 2 : poste de sécurité microbiologique (PSM) de classe II, autoclave sur site, accès réglementé.",
+    "Équipements de protection collective (EPC) : PSM, hotte à flux laminaire, autoclave, conteneurs DASRI, armoires de stockage ; équipements de protection individuelle (EPI) : blouse, gants, masque, lunettes, charlotte ; l'EPC est prioritaire sur l'EPI dans la hiérarchie des mesures de prévention.",
+    "Gestuelle aseptique : travailler à proximité de la flamme d'un bec Bunsen ou sous PSM, ne pas parler au-dessus des cultures, ne jamais poser le bouchon d'un tube sur la paillasse, flamber les cols de tubes, utiliser du matériel stérile à usage unique ou stérilisé, changer de gants entre deux souches.",
+    "Marche en avant : organiser l'espace et le temps pour éviter la rencontre entre le propre et le sale (séparation des zones réception/préparation/incubation/lavage) ; flux des échantillons, du personnel et des déchets unidirectionnels.",
+    "Déchets : tri à la source en DASRI (souches, milieux contaminés, matériel piquant/ tranchant dans des conteneurs adaptés), déchets chimiques et déchets ménagers ; inactivation par autoclave avant élimination, avec enregistrement du cycle (date, température, durée, opérateur).",
+    "DUERP : document unique d'évaluation des risques professionnels, obligatoire, recense les dangers physiques, chimiques et biologiques par poste, évalue la fréquence et la gravité, propose des mesures de prévention et est révisé au moins annuellement et après tout accident ou changement.",
+    "Conduite en cas d'accident (piqûre, projection, cassure de culture) : laver immédiatement à l'eau et au savon, désinfecter, signaler à la hiérarchie, remplir la fiche d'accident, suivre la procédure médicale et analyser l'événement pour éviter la répétition."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle est la hiérarchie correcte des mesures de prévention ?",
+     "options": [
+      "EPI avant EPC",
+      "EPC avant EPI",
+      "Désinfection avant nettoyage",
+      "Stérilisation avant nettoyage"
+     ],
+     "correct": 1,
+     "correction": "La prévention collective (PSM, hotte, autoclave, organisation des flux) prime toujours sur la protection individuelle ; le nettoyage précède la désinfection."
+    },
+    {
+     "type": "qcm",
+     "q": "Pourquoi l'alcool à 70 % est-il plus efficace que l'alcool à 95 % ?",
+     "options": [
+      "Il est moins inflammable",
+      "L'eau permet la pénétration dans la cellule et la dénaturation des protéines",
+      "Il agit sur les spores",
+      "Il ne nécessite pas de temps de contact"
+     ],
+     "correct": 1,
+     "correction": "L'alcool à 70 % contient assez d'eau pour ouvrir la paroi et permettre la dénaturation des protéines ; l'alcool absolu coagule trop vite la surface et pénètre mal ; il est inactif sur les spores."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel document recense les danger par poste de travail et les mesures de prévention ?",
+     "options": [
+      "Le manuel qualité",
+      "Le DUERP",
+      "La fiche de vie d'un équipement",
+      "Le rapport d'audit"
+     ],
+     "correct": 1,
+     "correction": "Le document unique d'évaluation des risques professionnels (DUERP) est obligatoire : il évalue les risques par unité de travail et définit les actions de prévention."
+    },
+    {
+     "type": "qcm",
+     "q": "Dans une hotte à flux laminaire, le flux d'air doit être :",
+     "options": [
+      "Turbulent et descendant vers l'opérateur",
+      "Unidirectionnel et propre au niveau de la zone de travail",
+      "Orienté vers la paillasse",
+      "Interrompu pendant la manipulation"
+     ],
+     "correct": 1,
+     "correction": "Le flux laminaire unidirectionnel (horizontal ou vertical) balaie la zone de travail avec de l'air filtré HEPA et protège l'échantillon ou l'opérateur selon le type de poste."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire la séquence de bionettoyage d'un poste de travail après une manipulation de cultures bactériennes.",
+     "correction": "Retirer et conditionner les déchets DASRI, enlever le matériel sale ; nettoyer avec un détergent (action mécanique du haut vers le bas, du propre vers le sale) pour éliminer salissures et matières organiques ; rincer ; appliquer le désinfectant choisi en respectant sa dilution et son temps de contact ; laisser sécher à l'air ; ranger le matériel propre ; tracer l'opération sur la fiche de bionettoyage (date, heure, produit, lot, opérateur). Ne jamais mélanger Hypochlorite et acide ou ammoniac (dégagement de gaz toxiques)."
+    },
+    {
+     "type": "rédaction",
+     "q": "Quelle est la conduite à tenir en cas de cassure d'un tube contenant une culture de classe 2 ?",
+     "correction": "Ne pas manipuler à mains nues ; signaler l'incident, porter des gants et une protection adaptée ; couvrir la zone avec un papier absorbant imbibé de désinfectant (hypochlorite fraîchement dilué), laisser agir le temps de contact réglementaire, ramasser avec une pince ou des gants double épaisseur, placer les débris dans un conteneur DASRI/piquant étanche ; désinfecter la surface et le matériel utilisé, laver les mains, déclarer l'accident ou l'incident et consigner l'événement dans le registre avec analyse des causes et mesures correctives."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1"
+   ],
+   "matiere": "Microbiologie",
+   "titre": "Chapitre : isolement et orientation microbiologique d'un échantillon",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.4.3 et T2.2 ; NF EN ISO 7218 ; NF EN ISO 6579 (Salmonella)",
+   "points": [
+    "L'isolement vise à obtenir des colonies isolées issues d'une seule cellule ou d'un petit groupe, indispensables pour l'identification et l'antibiogramme ; il repose sur la dilution ou le quadrillage sur gélose.",
+    "Isolement par striation (quadrillage) : déposer une goutte de suspension sur une gélose non sélective, étaler en premier quadrant avec une anse stérile, puis étaler successivement à partir du quadrant précédent en stérilisant l'anse entre chaque passage ; incubation 18-24 h à 30-37 °C.",
+    "Choix des milieux : gélose nutritive ou au sang pour la flore totale ; gélose MacConkey (Gram - entériques, lactose) ; gélose au sang + colistine/nalidixique pour lesGram + ; milieux sélectifs spécifiques (Baird-Parker pour S. aureus, DCOC pour Listeria, XLD pour Salmonella).",
+    "Enrichissement : pour les faibles populations ou les cellules stressées, passer d'abord par un bouillon d'enrichissement non sélectif (eau peptonée tamponnée) puis sélectif avant repiquage sur gélose : cela augmente la sensibilité de la recherche.",
+    "Lecture des boîtes : examiner la taille, la forme, la couleur, le relief, la brillance, les bords et l'odeur des colonies ; noter la présence de plusieurs types morphologiques et effectuer un relevé photographique si besoin.",
+    "Critères de dénombrement : boîtes contenant de 30 à 300 colonies pour une gélose de 90 mm ; au-delà, les colonies confluent et le comptage est sous-estimé ; en deçà, l'incertitude statistique est trop grande.",
+    "Orientation microbiologique : examen microscopique (Gram, morphologie), test de catalase (bullage avec H2O2 : + chez Staphylococcus, - chez Streptococcus), test d'oxydase, recherche d'hémolyse sur gélose au sang (α, β, γ) : ces premiers tests orientent vers un genre.",
+    "Identification complémentaire : galeries biochimiques miniaturisées (API), automates (VITEK, Phoenix), MALDI-TOF (spectrométrie de masse, identification rapide par empreinte protéique) ou séquençage du gène 16S pour les cas difficiles.",
+    "Contrôles de la manipulation : témoin de stérilité du milieu, témoin positif de croissance, étalonnage des anses (1 µL ou 10 µL) et respect des dilutions ; toute anomalie est tracée sur la fiche d'analyse.",
+    "Rendu de résultat : exprimer la flore en UFC/g ou UFC/mL avec la limite de dénomination (par exemple < 10 UFC/g), indiquer les milieux et conditions d'incubation, et comparer aux critères microbiologiques applicables (hygiène des procédés ou sécurité des produits)."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle est la plage de comptage recommandée pour une boîte de 90 mm ?",
+     "options": [
+      "1 à 10 colonies",
+      "30 à 300 colonies",
+      "300 à 3000 colonies",
+      "N'importe quel nombre"
+     ],
+     "correct": 1,
+     "correction": "30 à 300 colonies : en dessous, l'incertitude statistique est trop élevée ; au-dessus, les colonies se chevauchent et le comptage est sous-estimé."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel est le rôle d'une étape d'enrichissement avant isolement ?",
+     "options": [
+      "Décontaminer l'échantillon",
+      "Augmenter le nombre de cellules cibles, notamment si elles sont peu nombreuses ou stressées",
+      "Réduire le temps d'incubation des boîtes",
+      "Changer le Gram des bactéries"
+     ],
+     "correct": 1,
+     "correction": "L'enrichissement (bouillon non sélectif puis sélectif) multiplie les cellules cibles et restaure leur viabilité, améliorant la sensibilité de la recherche avant repiquage sur gélose."
+    },
+    {
+     "type": "qcm",
+     "q": "Le test de catalase permet principalement de distinguer :",
+     "options": [
+      "Les bactéries à Gram + des Gram -",
+      "Les staphylocoques (catalase +) des streptocoques (catalase -)",
+      "Les aérobies des anaérobies",
+      "Les spores des non-sporulés"
+     ],
+     "correct": 1,
+     "correction": "La catalase décompose H2O2 en eau et O2 (bullage) : les staphylocoques sont positifs, les streptocoques et entérocoques négatifs."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle technique permet une identification rapide par empreinte protéique ?",
+     "options": [
+      "La galerie API",
+      "Le MALDI-TOF",
+      "La coloration de Gram",
+      "Le comptage direct"
+     ],
+     "correct": 1,
+     "correction": "Le MALDI-TOF MS analyse le spectre des protéines ribosomiques et compare à une base de données : identification en quelques minutes après culture."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire la technique d'isolement par striation en quadrant et ses points critiques.",
+     "correction": "Déposer une suspension ou une colonie sur la gélose, étaler sur le premier quadrant avec une anse stérile ; stériliser l'anse à la flamme, laisser refroidir, croiser le premier quadrant pour étaler vers le deuxième, et ainsi de suite pour quatre quadrants. Incuber 18-24 h à la température appropriée. Points critiques : anse réellement stérile et refroidie entre les quadrants (une anse chaude tue les cellules), pression légère pour ne pas entailler la gélose, dessiccation limitée (boîte retournée), temps d'incubation et température conformes au mode opératoire, témoins de stérilité et de croissance."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment interpréter des colonies de morphologies différentes sur une même boîte ?",
+     "correction": "Plusieurs morphologies indiquent une flore mixte : il ne faut pas identifier directement le prélèvement global. On décrit chaque type de colonie (taille, couleur, forme, relief, bords, hémolyse), on prélève chaque type séparément pour un nouvel isolement et un examen microscopique (Gram), puis on identifie chaque isolat. Le résultat final mentionne les différentes espèces présentes et leurs populations respectives ; une flore mixte peut signaler une contamination du prélèvement ou une défaillance d'hygiène selon le contexte."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Microbiologie",
+   "titre": "Chapitre : identification biochimique et moléculaire des bactéries",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.4.3 et T2.2 ; NF EN ISO 7218",
+   "points": [
+    "L'identification repose sur un arbre décisionnel : Gram et morphologie → catalase/oxydase → Tests biochimiques complémentaires (fermentation des sucres, enzymes, mobility) → genre et espèce.",
+    "Tests biochimiques classiques : catalase (H2O2), oxydase (cytochrome oxydase), coagulase (S. aureus), uréase (Proteus, Helicobacter), indole (E. coli), citrate (Enterobacter), rouge de méthyle et Voges-Proskauer (mode de fermentation du glucose), nitrate réductase, gélatinase, amylase, lécithinase.",
+    "Galeries miniaturisées (API, enterotube) : ensemble de micro-tubes ou de cupules contenant des substrats ; après inoculation et incubation, les réactions colorées donnent un profil numérique (code à 7-10 chiffres) comparé à une base de données pour identifier l'espèce.",
+    "Automates d'identification (VITEK, Phoenix, BD) : cartes ou plaques avec dizaines de tests, lecture automatique cinétique et base de données ; gain de temps et standardisation, mais nécessitent une maintenance et des contrôles de qualité rigoroureux.",
+    "MALDI-TOF MS : une colonie est déposée sur une plaque avec une matrice, un laser ionise les protéines, le spectre de masse (2-20 kDa) est comparé à une bibliothèque : identification en quelques minutes, très utilisée en laboratoire de contrôle et en clinique.",
+    "Méthodes moléculaires : PCR conventionnelle ou en temps réel ciblant le gène 16S rRNA (bactéries), ITS (levures) ou des gènes de virulence/toxines ; sonde d'hybridation ou puce ; elles permettent une identification directe dans l'échantillon sans culture dans certains cas.",
+    "Séquençage : gène 16S pour les bactéries, ITS ou D1/D2 pour les levures ; utilisé pour les isolats atypiques ou la description de nouvelles espèces ; base de données type EzBioCloud ou SILVA.",
+    "Critères de qualité de l'identification : score de confiance (MALDI-TOF ≥ 2,0 pour une identification au niveau de l'espèce), pourcentage d'identification et séparation entre les premiers taxons, cohérence avec le Gram et l'origine de l'échantillon, contrôle d'une souche de référence à chaque série.",
+    "Limites : certaines espèces sont biochimiquement indistinguables (E. coli et Shigella, Bacillus cereus group) ; une identification moléculaire ou un test de virulence complémentaire peut être nécessaire ; les résultats doivent toujours être confrontés au contexte.",
+    "Traçabilité et compte rendu : numéro d'isolat, date, milieu d'origine, méthode et numéro de lot de la galerie ou de la plaque, score/identification, nom de l'opérateur ; conserver l'isolat (cryotube ou gélose) pour une éventuelle confirmation."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quel test permet de différencier rapidement Staphylococcus de Streptococcus ?",
+     "options": [
+      "Le test d'oxydase",
+      "Le test de catalase",
+      "Le test d'uréase",
+      "La fermentation du lactose"
+     ],
+     "correct": 1,
+     "correction": "Les staphylocoques sont catalase positifs (dégagement d'O2 au contact de H2O2), les streptocoques sont catalase négatifs."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel est le principe du MALDI-TOF pour l'identification bactérienne ?",
+     "options": [
+      "La mesure de la croissance en milieu liquide",
+      "La comparaison d'un spectre de masse protéique à une base de données",
+      "La lecture d'une galerie de sucres",
+      "Le séquençage complet du génome"
+     ],
+     "correct": 1,
+     "correction": "Le MALDI-TOF ionise les protéines d'une colonie et compare le spectre de masse obtenu (empreinte) à des spectres de référence ; c'est rapide et fiable pour les espèces bien représentées dans la base."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel gène est couramment ciblé pour l'identification moléculaire des bactéries ?",
+     "options": [
+      "Le gène 16S rRNA",
+      "Le gène de laactase",
+      "Le gène de l'hémoglobine",
+      "Le gène ITS de levure"
+     ],
+     "correct": 0,
+     "correction": "Le gène codant l'ARN ribosomique 16S est universel chez les bactéries, avec des régions conservées et variables : il permet l'identification au genre et souvent à l'espèce."
+    },
+    {
+     "type": "qcm",
+     "q": "Que signifie un score MALDI-TOF inférieur à 1,7 ?",
+     "options": [
+      "Identification certaine au niveau de l'espèce",
+      "Identification fiable au genre uniquement",
+      "Absence d'identification fiable, confirmation nécessaire",
+      "Contamination par un champignon"
+     ],
+     "correct": 2,
+     "correction": "En dessous d'un score d'environ 1,7, l'identification n'est pas fiable : il faut reprendre l'isolement, vérifier la pureté de la colonie et recourir à une méthode complémentaire (biochimie, 16S)."
+    },
+    {
+     "type": "rédaction",
+     "q": "Construire un arbre décisionnel simple pour identifier un bacille à Gram négatif isolé d'un produit alimentaire.",
+     "correction": "Bacille Gram - → test oxydase : si positif, penser à Pseudomonas, Vibrio (selon milieu et contexte) ; si négatif, entérobactéries → fermentation du lactose sur MacConkey (rouge = lactose fermenteur : E. coli, Enterobacter, Klebsiella ; incolore = non fermenteur : Salmonella, Shigella, Proteus) → tests complémentaires (uréase pour Proteus, citrate, indole, H2S sur milieu KIA/TSI, mobilité) → galerie biochimique ou MALDI-TOF pour confirmation, complétée si besoin par PCR de gènes de virulence."
+    },
+    {
+     "type": "rédaction",
+     "q": "Pourquoi faut-il confronter une identification instrumentale au contexte de l'échantillon ?",
+     "correction": "Une base de données peut contenir des espèces proches mal différenciées, et un isolat peut être mal sélectionné (colonie non pure, vieillesse). Le contexte (matrice, température d'incubation, milieux utilisés, critères microbiologiques attendus) permet de détecter une incohérence : par exemple une bactérie psychrophile isolée après incubation à 37 °C ou une espèce non attendue dans ce type de produit doit faire reconsidérer l'identification, vérifier la pureté de la colonie et confirmer par une autre méthode."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1"
+   ],
+   "matiere": "Microbiologie",
+   "titre": "Chapitre : dénombrement des microorganismes par dilution et étalement",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.4.4 et T2.2 ; NF EN ISO 7218 ; NF EN ISO 4833-1",
+   "points": [
+    "Le dénombrement sur gélose donne une estimation de la charge viable en unités formant colonie (UFC) ; un résultat exprimé en UFC/g ou UFC/mL, jamais en nombre de cellules.",
+    "Principe : à partir d'une suspension mère, réaliser une série de dilutions décimales (1 mL dans 9 mL d'eau peptonée, soit 10⁻¹, puis 10⁻²...), puis ensemencer un volume connu (généralement 0,1 mL) en surface d'une gélose et incuber.",
+    "Le facteur de dilution total F est le produit des dilution intermédiaires ; le facteur de plaque (ensemencement de 0,1 mL) introduit un facteur ×10 supplémentaire : résultat (UFC/mL) = (nombre de colonies × F × 10) / volume ensemencé exprimé en mL divisé... en pratique N = Σ colonies / [(n1 + 0,1 n2) × d × V], formule ISO 7218.",
+    "Formule simplifiée pour une seule boîte comptable : N = C/(V × d), avec C nombre de colonies, V volume ensemencé en mL et d facteur de dilution de la suspension ensemencée (incluant l'ensemencement de 0,1 mL si celui-ci est dilué).",
+    "Formule ISO 7218 avec deux niveaux consécutifs : N = ΣC / [(n1 + 0,1 n2) × d × V], où ΣC est la somme des colonies des boîtes comptables des deux dilutions, n1 le nombre de boîtes à la première dilution, n2 à la suivante et d le facteur de dilution de la première dilution retenue.",
+    "Choisir les boîtes comptables (30-300 colonies) ; si deux niveaux sont comptables, utiliser la formule pondérée ; si aucun niveau n'est comptable, rendre « < limite de dénomination » ou « > limite » avec le détail des résultats.",
+    "Homogénéisation de l'échantillon solide : pétrissage ou broyage avec diluant (eau peptonée, solution de Ringer) dans un stomacher ; le rapport masse/diluant (généralement 1/10) définit la dilution initiale.",
+    "Points critiques : changement de pipette ou d'anse entre chaque dilution, homogénéisation de la suspension avant chaque prélèvement, volume exact ensemencé, respect du temps d'absorption avant retournement des boîtes, température et durée d'incubation conformes à la norme.",
+    "Contrôles : témoin de stérilité du diluant et des milieux, doublon de dilution ou de boîtes, vérification du volume des pipettes, étiquetage complet (dilution, date, échantillon, opérateur).",
+    "Expression du résultat : arrondi à deux chiffres significatifs, incertitude ou intervalle de confiance si exigé, comparaison aux critères microbiologiques (par exemple flore mésophile aérobie totale < 10^5 UFC/g) et conclusion de conformité."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle unité exprime un dénombrement sur gélose ?",
+     "options": [
+      "Cellules/mL",
+      "UFC/g ou UFC/mL",
+      "mg/L",
+      "UFC uniquement sans référence de masse"
+     ],
+     "correct": 1,
+     "correction": "On compte des unités formant colonie par gramme ou par millilitre d'échantillon, puisque plusieurs cellules agrégées peuvent donner une seule colonie."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle est la dilution d'une suspension obtenue en transférant 1 mL dans 9 mL de diluant ?",
+     "options": [
+      "10⁻¹",
+      "10⁻²",
+      "1/2",
+      "1/9"
+     ],
+     "correct": 0,
+     "correction": "Le volume final est 10 mL pour 1 mL d'échantillon : facteur 1/10 = 10⁻¹ ; une série de trois transferts donne 10⁻³."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle plage de colonies est considérée comme comptable sur une boîte de 90 mm ?",
+     "options": [
+      "10-100",
+      "30-300",
+      "100-1000",
+      "5-50"
+     ],
+     "correct": 1,
+     "correction": "30 à 300 colonies ; au-delà les colonies confluent, en deçà l'incertitude statistique devient trop importante."
+    },
+    {
+     "type": "qcm",
+     "q": "Pourquoi homogénéiser l'échantillon avant de prélever la prise d'essai ?",
+     "options": [
+      "Pour augmenter le nombre d'espèces",
+      "Pour que la prise d'essai soit représentative de l'échantillon",
+      "Pour tuer les bactéries indésirables",
+      "Pour changer le pH"
+     ],
+     "correct": 1,
+     "correction": "Sans homogénéisation, les microorganismes répartis de façon hétérogène (sédimentation, biofilm) conduisent à une sous-estimation ou une surestimation de la charge réelle."
+    },
+    {
+     "type": "rédaction",
+     "q": "Calculer la charge microbienne sachant qu'à la dilution 10⁻⁵, 0,1 mL ensemencé donne 148 colonies sur l'une des deux boîtes et 152 sur l'autre.",
+     "correction": "Moyenne = 150 colonies. La dilution effective ten compte de l'ensemencement de 0,1 mL : N = C/(V × d) = 150/(0,1 × 10⁻⁵) = 1,5 × 10⁸ UFC/mL. Avec deux boîtes à la même dilution, on peut utiliser la moyenne ; le résultat s'arrondit à 1,5 × 10⁸ UFC/mL (2 chiffres significatifs) et se compare au critère applicable."
+    },
+    {
+     "type": "rédaction",
+     "q": "Expliquer les conséquences d'une erreur de 0,02 mL sur le volume ensemencé (0,1 mL attendu).",
+     "correction": "Le volume réel devient 0,08 ou 0,12 mL, soit une erreur de -20 % ou +20 % directement répercutée sur le résultat calculé (N = C/(V·d)). Une telle erreur change une conclusion de conformité si la charge est proche de la limite. Il faut utiliser des pipettes calibrées, vérifier périodiquement leur volume délivré (contrôle gravimétrique), ensemencer avec la même technique pour les étalons et échantillons et enregistrer le volume dans la fiche de traçabilité."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Microbiologie",
+   "titre": "Chapitre : dénombrement par filtration, comptage direct et mesure d'absorbance",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.4.4 et T2.2 ; NF EN ISO 6222 ; NF EN ISO 4833",
+   "points": [
+    "Filtration sur membrane : un volume connu d'échantillon (ou de dilution) est filtré à travers une membrane de 0,45 µm qui retient les bactéries ; la membrane est ensuite déposée sur une gélose ou un disque de milieu absorbant, puis incubée.",
+    "La filtration est particulièrement adaptée aux échantillons liquides à faible charge (eaux, boissons, solutions de lavage) : elle permet de concentrer un grand volume (100 mL ou plus) et d'améliorer la limite de dénombrement, qui peut atteindre 1 UFC/100 mL.",
+    "Matériel : entonnoir de filtration stérilisable ou à usage unique, membrane avec gravure ou quadrillage, pince à membrane, système d'aspiration ou de pression, flacons et diluants stériles ; la membrane ne doit jamais être touchée avec les doigts.",
+    "Après incubation, les colonies se développent à la surface de la membrane : comptage à la loupe, expression en UFC pour le volume filtré puis rapporté à 100 mL ou au gramme, avec le facteur de dilution si une dilution a été filtrée.",
+    "Comptage direct (microscopie) : déposer un volume connu (par exemple 0,01 mL) sur une lame gravée ou dans une chambre de comptage (Petroff-Hausser, counting chamber), colorer et compter les cellules dans un nombre défini de carrés ; résultat en cellules/mL.",
+    "Limite du comptage direct : il ne distingue pas les cellules mortes des vivantes (sauf coloration de viabilité) et surestime la charge viable ; il est utile pour les suspensions pures et le suivi rapide de croissance.",
+    "Dénombrement par absorbance (turbidimétrie) : la densité optique à 600 nm (DO600) est proportionnelle à la concentration cellulaire dans une plage limitée (généralement 0,1 < DO < 0,8) ; au-delà, diluer la suspension pour rester dans la zone linéaire.",
+    "Conversion DO600 → concentration : établir une courbe d'étalonnage propre à chaque espèce en reliant DO600 et dénombrement sur gélose (UFC/mL) ou poids sec ; la relation dépend de la taille et de la forme des cellules.",
+    "Méthodes indirectes : mesure d'un paramètre du métabolisme (production d'ATP par luminescence, consommation d'oxygène, production de CO2, acidité, conductimétrie, temps de détection en conductimétrie impédancemétrique) corrélé au nombre de microorganismes.",
+    "Choix de la méthode selon la contrainte : filtration pour les faibles charges et les grands volumes, étalement pour les charges moyennes, turbidimétrie pour le suivi cinétique rapide, ATP-métrie pour un résultat en quelques minutes (hygiène de surface)."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quel est le principal avantage de la filtration sur membrane par rapport à l'étalement sur gélose ?",
+     "options": [
+      "Elle évite l'incubation",
+      "Elle permet de concentrer un grand volume et d'abaisser la limite de dénombrement",
+      "Elle identifie les espèces",
+      "Elle détruit les spores"
+     ],
+     "correct": 1,
+     "correction": "La filtration retient les bactéries d'un grand volume sur une petite membrane : la limite de dénombrement peut descendre à 1 UFC/100 mL, ce que l'étalement de 0,1 mL ne permet pas."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle est la porosité courante d'une membrane de filtration bactérienne ?",
+     "options": [
+      "0,02 µm",
+      "0,45 µm",
+      "5 µm",
+      "100 µm"
+     ],
+     "correct": 1,
+     "correction": "0,45 µm (ou 0,22 µm) retient les bactéries tout en laissant passer l'eau et les nutriments ; la membrane 0,22 µm est utilisée pour la stérilisation."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle est la plage de linéarité usuelle d'une mesure de DO600 ?",
+     "options": [
+      "0,01 à 0,05",
+      "0,1 à 0,8",
+      "1 à 5",
+      "10 à 100"
+     ],
+     "correct": 1,
+     "correction": "Au-delà d'environ 0,8, la relation entre absorbance et concentration s'incurve (diffusion multiple) : il faut diluer l'échantillon pour rester dans la zone linéaire."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel inconvénient majeur présente le comptage direct au microscope ?",
+     "options": [
+      "Il ne donne aucun résultat chiffré",
+      "Il confond cellules mortes et cellules vivantes",
+      "Il nécessite une incubation de 24 h",
+      "Il ne fonctionne que sur les milieux solides"
+     ],
+     "correct": 1,
+     "correction": "Sans marqueur de viabilité, le comptage direct compte toutes les cellules, y compris mortes : il surestime la charge viable par rapport à la culture."
+    },
+    {
+     "type": "rédaction",
+     "q": "Calculer la charge d'un échantillon d'eau sachant que la filtration de 100 mL (non dilués) a donné 37 colonies sur la membrane.",
+     "correction": "37 colonies pour 100 mL, donc 37 UFC/100 mL, soit 0,37 UFC/mL. Si lanorme exige l'absence de l'organisme cible dans 100 mL, ce résultat doit être confirmé par identification des colonies ; si la charge est proche de la limite de conformité, refaire l'analyse en double pour fiabiliser le résultat."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comparer les méthodes de dénombrement par culture, par DO600 et par ATP-métrie en termes de délai, de sensibilité et d'information apportée.",
+     "correction": "La culture (étalement ou filtration) donne une charge viable en UFC, est très sensible mais nécessite 18 à 72 h d'incubation et ne détecte pas les cellules non cultivables. La DO600 est immédiate, adaptée au suivi de croissance en suspension pure, mais peu sensible et non spécifique (elle inclut débris et cellules mortes) ; elle doit être étalonnée par espèce. L'ATP-métrie donne un résultat en quelques minutes, sensible et utilisable sur surfaces ou liquides, mais elle mesure un marqueur d'activité métabolique et doit être corrélée à la charge par une courbe propre à la matrice ; elle ne replace pas la culture pour l'identification et l'antibiogramme."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Microbiologie",
+   "titre": "Chapitre : critères microbiologiques et interprétation des résultats",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T2.1 et T3.1 ; règlement (CE) n° 2073/2005 « paquet hygiène »",
+   "points": [
+    "Un critère microbiologique est une exigence applicable à un produit ou à un procédé, définissant une limite de concentration ou l'absence d'un microorganisme dans une quantité donnée, à un stade précis de la chaîne.",
+    "Deux catégories (règlement 2073/2005) : critères de sécurité (toxines, pathogènes : Listeria monocytogenes, Salmonella, E. coli O157) et critères d'hygiène des procédés (indicateurs : flore mésophile, coliformes, E. coli) qui signalent une défaillance des bonnes pratiques d'hygiène.",
+    "Structure d'un critère : microorganismes concernés, stade d'application (matière première, produit fini, environnement), plan d'échantillonnage (n = nombre d'unités prélevées, c = nombre maximal d'unités acceptables entre m et M), limites m et M (UFC/g ou /mL) et méthode de référence.",
+    "Interprétation d'un plan à deux classes (n, c, m, M) : le lot est acceptable si toutes les unités sont ≤ m, acceptable avec réserve si au plus c unités sont comprises entre m et M, non conforme si une unité dépasse M ou si plus de c unités dépassent m.",
+    "Absence dans 25 g (ou 100 mL) : le résultat « non détecté/25 g » est une absence de l'organisme dans l'échantillon analysé et non une certitude absolue ; la sensibilité de la méthode et le plan d'échantillonnage déterminent la confiance.",
+    "Les indicateurs d'hygiène des procédés (coliformes, E. coli, flore aérobie mésophile) ne sont pas nécessairement pathogènes : leur présence révèle une contamination fécale, un nettoyage insuffisant ou une rupture de la chaîne du froid.",
+    "Critères pour l'environnement de production : surfaces de contact (Listeria spp., enterococci), air (flore aérobie), eau de lavage ; ils complètent le contrôle du produit et relèvent de l'autocontrôle HACCP.",
+    "Les limites dépendent de la matrice et de l'usage : par exemple Listeria monocytogenes ≤ 100 UFC/g dans un produit prêt à consommer favorable à sa croissance, absence/25 g dans un produit destiné aux nourrissons ; la fiche-produit et la réglementation font foi.",
+    "Résultat non conforme : bloquer le lot, alerter le service qualité et le client, identifier la cause par les 5M ou l'arbre d'Ishikawa, mettre en œuvre une action corrective, vérifier son efficacité par un nouveau contrôle et documenter l'ensemble.",
+    "Le laboratoire doit mentionner dans son rapport la méthode utilisée (norme), la limite de dénomination, les unités prélevées et l'interprétation réglementaire, sans se substituer à la décision officielle de l'autorité de contrôle."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle est la différence entre un critère de sécurité et un critère d'hygiène des procédés ?",
+     "options": [
+      "Le premier concerne les pathogènes/toxines, le second des indicateurs de maîtrise de l'hygiène",
+      "Le premier est facultatif, le second obligatoire",
+      "Ils sont identiques",
+      "Le premier s'applique à l'eau, le second aux surfaces"
+     ],
+     "correct": 0,
+     "correction": "Les critères de sécurité portent sur des organismes ou toxines dangereux pour le consommateur ; les critères d'hygiène des procédés portent sur des indicateurs qui signalent une défaillance des bonnes pratiques."
+    },
+    {
+     "type": "qcm",
+     "q": "Dans un plan (n, c, m, M), que représente c ?",
+     "options": [
+      "Le nombre total d'échantillons",
+      "Le nombre maximal d'échantillons pouvant dépasser m sans dépasser M",
+      "La limite de sécurité",
+      "La limite de dénomination"
+     ],
+     "correct": 1,
+     "correction": "n est le nombre d'unités, c le nombre toléré de résultats entre m et M, m la limite acceptable et M la limite au-delà de laquelle le lot est non conforme."
+    },
+    {
+     "type": "qcm",
+     "q": "Que signifie le résultat « absence/25 g » ?",
+     "options": [
+      "Le produit est stérile",
+      "L'organisme n'a pas été détecté dans les 25 g analysés avec la méthode utilisée",
+      "Le produit ne contient aucun microbe",
+      "La méthode était invalide"
+     ],
+     "correct": 1,
+     "correction": "C'est une absence détectée dans la prise d'essai et avec la sensibilité de la méthode, pas une garantie absolue d'absence dans tout le lot."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel microorganisme est un indicateur de contamination fécale ?",
+     "options": [
+      "Lactobacillus",
+      "Escherichia coli",
+      "Bacillus subtilis",
+      "Saccharomyces cerevisiae"
+     ],
+     "correct": 1,
+     "correction": "E. coli est un indicateur de contamination fécale : sa présence suggère une défaillance d'hygiène et la possible présence de pathogènes entériques."
+    },
+    {
+     "type": "rédaction",
+     "q": "Interpréter un lot de fromage : n=5, c=2, m=100, M=1000 UFC/g pour E. coli ; résultats : 40 ; 85 ; 120 ; 900 ; 25 UFC/g.",
+     "correction": "Deux résultats (120 et 900) sont compris entre m et M, les trois autres sont ≤ m ; aucun ne dépasse M et le nombre de dépassements de m (2) est égal à c (2) : le lot est acceptable avec réserve. Il faut tout de même analyser la cause de ces dépassements (hygiène de manipulation, température, matières premières), renforcer les contrôles et consigner l'interprétation dans le rapport."
+    },
+    {
+     "type": "rédaction",
+     "q": "Pourquoi un résultat microbiologique doit-il toujours être accompagné du stade de prélèvement et de la méthode utilisée ?",
+     "correction": "La conformité dépend du stade de la chaîne (matière première, produit en cours, produit fini) et de la matrice : une même valeur peut être acceptable à un stade et non conforme à un autre. La méthode (norme de référence, alternative ou rapide) influe sur la sensibilité, la spécificité et la limite de dénomination : comparer un résultat obtenu par une méthode non validée à une limite réglementaire définie pour une méthode de référence peut conduire à une décision erronée. Ces informations font partie des preuves attendues lors d'un audit."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Microbiologie",
+   "titre": "Chapitre : recherche et dénombrement des pathogènes en agroalimentaire",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.4.3 et T2.1 ; NF EN ISO 6579-1 (Salmonella), NF EN ISO 11290-1 (Listeria), NF EN ISO 16649 (E. coli O157)",
+   "points": [
+    "La recherche de pathogènes suit les étapes : prélèvement représentatif, pré-enrichissement (résurrection des cellules stressées), enrichissement sélectif,Repiquage sur milieux sélectifs et différenciateurs, confirmation biochimique et/ou moléculaire, sérotypage et éventuellement antibiogramme.",
+    "Salmonella spp. : pré-enrichissement dans l'eau peptonée tamponnée (37 °C, 16-20 h), enrichissement dans les bouillons de Rappaport-Vassiliadis et/ou tetrathionate, isolement sur XLD et gélose au vert brillant ; colonies noires à centre noir sur XLD (production d'H2S) ; confirmation par galerie biochimique et sérotypage (antisérum).",
+    "Listeria monocytogenes : enrichissement en demi-fraser puis fraser, isolement sur géloses PALCAM ou Oxford à 30 et 37 °C ; colonies grises avec halo noir (hydrolyse de l'esculine) ; confirmation par catalase +, mobilité à 25 °C, hémolyse β, fermentation du rhamnose et du xylose, ou PCR (gènes hlyA, iap).",
+    "E. coli O157:H7 : enrichissement dans un bouillon sélectif, isolement sur gélose tellurite-céfixime-sorbitol (SMAC) : les colonies sont incolores (non fermentantes du sorbitol) ; confirmation par latex agglutination pour l'antigène O157 et vérification du gène stx (shiga-toxine) par PCR.",
+    "Campylobacter jejuni : milieu sélectif à base de charbon (mCCDA), incubation à 41,5 °C sous micro-aérophilie (5 % O2, 10 % CO2) ; oxydase positive, aspect de « mouettes » au microscope ; exigences atmosphériques strictes.",
+    "Staphylococcus aureus entérotoxinogène : dénombrement sur Baird-Parker (colonies noires brillantes avec halo clair, coagulase +) puis recherche d'entérotoxines par méthode immunologique ou PCR ; la toxine est thermostable et peut rester après destruction des cellules.",
+    "Les milieux chromogènes (par exemple pour Listeria ou E. coli) simplifient la lecture grâce à des substrats chromos : la spécificité doit être validée par des souches cibles et non cibles (ISO 11133).",
+    "Confirmation : au moins deux critères indépendants (biochimie + sérologie ou PCR) ; une présomption sur gélose sélective n'est jamais une confirmation définitive et ne doit pas être communiquée comme telle au client.",
+    "Contrôles qualité : souche cible positive et souche non cible négative à chaque série, témoin de stérilité des milieux et des bouillons, traçabilité des lots de milieux et d'antisérums, enregistrement des températures d'incubation.",
+    "Rendu : « Présence de Salmonella spp. dans 25 g — confirmée le [date] » ou « Non détecté dans 25 g », avec numéro de méthode, limite de détection et nom du laboratoire ; en cas de présence, alerte immédiate au service qualité et aux autorités selon la réglementation."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle est la première étape d'une recherche de Salmonella dans un aliment ?",
+     "options": [
+      "L'étalement direct sur XLD",
+      "Le pré-enrichissement en eau peptonée tamponnée",
+      "La coloration de Gram",
+      "L'antibiogramme"
+     ],
+     "correct": 1,
+     "correction": "Le pré-enrichissement non sélectif permet de réparer les cellules stressées par la transformation ou le froid avant l'enrichissement sélectif et l'isolement."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel aspect caractéristique presentent les colonies de Salmonella sur gélose XLD ?",
+     "options": [
+      "Roses avec halo",
+      "Noires avec centre noir (H2S)",
+      "Bleues métalliques",
+      "Blanches en duplication"
+     ],
+     "correct": 1,
+     "correction": "Sur XLD, Salmonella produit du sulfure d'hydrogène qui forme une colonie noire à centre noir, avec souvent virage du milieu au rouge par fermentation du xylose."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelles conditions d'incubation sont nécessaires pour Campylobacter ?",
+     "options": [
+      "37 °C en aérobiose",
+      "41,5 °C en micro-aérophilie",
+      "30 °C en anaérobie stricte",
+      "25 °C sous lumière"
+     ],
+     "correct": 1,
+     "correction": "Campylobacter exige 41,5 °C et une atmosphère micro-aérophile (environ 5 % O2, 10 % CO2) ; ces conditions sont critiques pour sa croissance."
+    },
+    {
+     "type": "qcm",
+     "q": "Peut-on rendre un résultat de présomption sur gélose sélective comme un résultat confirmé ?",
+     "options": [
+      "Oui, toujours",
+      "Non, il faut une confirmation biochimique, sérologique ou moléculaire",
+      "Oui si la colonie est typique",
+      "Non, il faut refaire le prélèvement"
+     ],
+     "correct": 1,
+     "correction": "Une colonie typique sur milieu sélectif n'est qu'une présomption : la confirmation par des tests indépendants est obligatoire avant toute communication de présence d'un pathogène."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire le protocole de recherche de Listeria monocytogenes dans un produit laitier et les points critiques.",
+     "correction": "Prélever 25 g dans un sac stomacher, ajouter 225 mL de bouillon de demi-Fraser, homogénéiser, incuber 20-24 h à 30 °C ; transférer dans le bouillon de Fraser (avec acriflavine et cefotaxime) et incuber 24-48 h à 35-37 °C ; repiquer sur géloses Oxford et/ou PALCAM, incuber 24-48 h à 35-37 °C ; examiner les colonies grises/vertes avec halo noir ; confirmer par catalase, coloration de Gram (bâtonnets Gram +), mobilité à 25 °C (battement), hémolyse β sur gélose au sang, fermentation du rhamnose (+)/xylose (-) ou par PCR. Points critiques : températures d'incubation, durées, concentration en antibiotiques des bouillons, absence de contamination croisée, témoins positif et négatif."
+    },
+    {
+     "type": "rédaction",
+     "q": "Pourquoi l'enrichissement est-il indispensable dans la recherche de pathogènes dans les aliments ?",
+     "correction": "Les cellules présentes dans les aliments sont souvent peu nombreuses et stressées (froid, chaleur, acidité, séchage, conservateurs) : elles sont en état de viabilité mais non cultivable (VBNC) et ne formeraient pas de colonie si on les étalait directement. Le pré-enrichissement dans un milieu non sélectif nutritif permet de réparer les lésions cellulaires sans pression de sélection ; l'enrichissement sélectif ensuite augmente la proportion de l'espèce cible par rapport à la flore concurrentielle. Sans ces étapes, la sensibilité de la méthode serait insuffisante et des lots contaminés pourraient être déclarés conformes à tort."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Microbiologie",
+   "titre": "Chapitre : efficacité des antimicrobiens et désinfection",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.4.5 et T2.2 ; NF EN ISO 6579 ; EUCAST ; normes NF EN 1040, NF EN 1276",
+   "points": [
+    "Un antimicrobien chimique ou physique est évalué par son activité sur une souche cible dans des conditions définies (concentration, température, temps de contact, charge bactérienne, présence de matière organique).",
+    "CMI (concentration minimale inhibitrice) : plus faible concentration d'antibiotique qui empêche la croissance visible après 18-24 h ; CMB (concentration minimale bactéricide) : concentration qui tue 99,9 % des cellules ; rapport CMB/CMI > 4 suggère un effet bactériostatique.",
+    "Antibiogramme par diffusion sur gélose (méthode des disques, EUCAST/CLSI) : un disque imprégné d'antibiotique est déposé sur une gélose de Mueller-Hinton ensemencée en tapis ; après incubation, le diamètre de la zone d'inhibition est mesuré et interprété (S sensible, I intermédiaire, R résistant) à l'aide d'une grille.",
+    "Concentration critique (breakpoint) : valeur de CMI ou diamètre minimal séparant les catégories S/I/R ; elle dépend de l'espèce, du site d'infection et des recommandations EUCAST, et évolue avec la résistance.",
+    "Contrôle de l'antibiogramme : souches ATCC de référence (E. coli ATCC 25922, S. aureus ATCC 25923, P. aeruginosa ATCC 27853), gélose Mueller-Hinton de épaisseur normalisée (4 mm), pH 7,2-7,4, densité d'ensemencement 0,5 McFarland, incubation 35-37 °C 16-20 h.",
+    "Désinfectants : évaluer leur activité par la méthode de la suspension (NF EN 1040 bactéricide, NF EN 1276 en présence de matière organique) ; les facteurs influents sont la concentration, le temps de contact, la température, le pH et la charge organique.",
+    "Courbe de survie et réduction logarithmique : on exprime l'efficacité par la réduction du nombre de UFC (par exemple réduction de 5 log = destruction de 99,999 %) après un temps de contact donné ; une réduction de 4 à 5 log est généralement exigée pour une désinfection de surface.",
+    "Résistance et mécanismes : production de β-lactamases (pénicillinase, ESBL, carbapénémase), modification de la cible (MRSA avec PBP2a), efflux actif, imperméabilité de la membrane ; le suivi de la résistance est un enjeu de santé publique (One Health).",
+    "Tests de synergie, d'antagonisme et de combinaison : méthode du disque combiné ou checkerboard pour étudier l'association de deux antimicrobiens ; indice FICI < 0,5 = synergie, > 4 = antagonisme.",
+    "Interprétation et traçabilité : rendre l'antibiogramme avec la liste des antibiotiques testés, les diamètres mesurés et les catégories S/I/R, la méthode et la version des recommandations ; conserver les souches et les boîtes le temps nécessaire à un éventuel contrôle."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle est la définition de la CMI ?",
+     "options": [
+      "La concentration qui tue 99,9 % des bactéries",
+      "La plus faible concentration qui inhibe la croissance visible",
+      "Le diamètre de la zone d'inhibition",
+      "La concentration maximale utilisable chez l'animal"
+     ],
+     "correct": 1,
+     "correction": "La CMI est la plus faible concentration d'antimicrobien empêchant toute croissance visible après incubation ; la CMB tue 99,9 % de l'inoculum."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle est l'épaisseur normalisée de la gélose Mueller-Hinton pour un antibiogramme ?",
+     "options": [
+      "2 mm",
+      "4 mm",
+      "10 mm",
+      "20 mm"
+     ],
+     "correct": 1,
+     "correction": "4 mm : une gélose trop fine donne des zones d'inhibition trop grandes (diffusion plus rapide), trop épaisse des zones trop petites, conduisant à des erreurs d'interprétation."
+    },
+    {
+     "type": "qcm",
+     "q": "Que signifie la catégorie I dans l'interprétation d'un antibiogramme ?",
+     "options": [
+      "Inefficace",
+      "Intermédiaire",
+      "Inconnu",
+      "Intramusculaire"
+     ],
+     "correct": 1,
+     "correction": "Intermédiaire : l'organisme peut être sensible si la concentration locale de l'antibiotique est élevée ou si la posologie est adaptée ; zone entre S et R."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle souche sert de témoin qualité dans un antibiogramme ?",
+     "options": [
+      "Une souche de l'échantillon",
+      "Une souche de référence ATCC aux diamètres attendus connus",
+      "Une souche de moisissure",
+      "Aucune témoin n'est nécessaire"
+     ],
+     "correct": 1,
+     "correction": "Des souches ATCC (E. coli 25922, S. aureus 25923...) sont testées à chaque série : leurs diamètres doivent tomber dans les intervalles attendus pour valider la gélose, les disques et la technique."
+    },
+    {
+     "type": "rédaction",
+     "q": "Exposer les facteurs qui peuvent fausser le résultat d'un antibiogramme par diffusion.",
+     "correction": "Épaisseur et pH de la gélose Mueller-Hinton (4 mm, pH 7,2-7,4), densité d'ensemencement (0,5 McFarland), qualité et conservation des disques (date de péremption, stockage au froid, humidité), délai entre dépôt des disques et incubation (diffusion préalable), température et durée d'incubation, inoculum trop faible ou trop dense, présence de substrats ou d'inhibiteurs dans la souche, lecture et mesure incorrectes des diamètres. L'utilisation de souches témoins permet de détecter la plupart de ces dérives."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment démontrer l'efficacité d'un désinfectant sur une surface de laboratoire ?",
+     "correction": "Choisir des souches représentatives (bactéries Gram + et Gram -, levure, éventuellement spore), préparer une suspension à charge connue (par exemple 10^8 UFC/mL), déposer un volume sur la surface à tester en présence ou non de matière organique (sérum), appliquer le désinfectant à la concentration d'usage pendant le temps de contact recommandé, neutraliser l'action du produit (neutralisant adapté : thiosulfate pour le chlore, lécithine/Tween pour les ammoniums quaternaires), récupérer les survivants par écouvillon ou rinçage, dénombrer et calculer la réduction logarithmique par rapport au témoin non traité. Comparer à la réduction exigée (souvent ≥ 4-5 log) et tracer les résultats."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Microbiologie",
+   "titre": "Chapitre : traitements thermiques, barèmes et maîtrise de la charge microbienne",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.4.5 et T3.1 ; Pharmacopée européenne ; réglementation agroalimentaire",
+   "points": [
+    "Un traitement thermique vise à réduire la charge microbienne à un niveau acceptable : pasteurisation (destruction des formes végétatives pathogènes, généralement 63 °C/30 min ou 72 °C/15 s pour le lait), stérilisation (destruction des spores, 121 °C/15 min ou équivalent), appertisation pour les conserves.",
+    "Cinétique de destruction : la réduction du nombre de microorganismes suit une cinétique du premier ordre, N = N0 × 10^(-t/D) ; D est le temps de réduction décimale ( temps nécessaire pour diviser la population par 10) à une température donnée.",
+    "Valeur D dépend de l'espèce, de la matrice (pH, aw, matière grasse) et de la température ; la z-value est l'augmentation de température nécessaire pour réduire D d'un facteur 10.",
+    "Valeur F0 : temps équivalent à 121,1 °C pour une réduction de 12 log d'une souche de référence (Clostridium botulinum, z = 10 °C) ; une conserve doit atteindre F0 ≥ 3 minutes en pratique (objectif d'abcès commercial).",
+    "Barème de pasteurisation : temps/température définis pour obtenir une réduction logarithmique cible (par exemple 5 log de Listeria) ; la fraction critique est le point le plus froid du produit, souvent le centre géométrique.",
+    "Facteurs influençant la résistance thermique : pH acide (< 4,5) qui inhibe Clostridium botulinum, activité de l'eau (aw), teneur en graisse et en protéines (effet protecteur), taille et forme des récipients, mode de chauffage (conduction vs convection).",
+    "Validation d'un barème : mesurer la température au point critique avec une sonde étalonnée, connaître la cinétique de montée et de descente, calculer l'intégration du temps/température (F0), vérifier par des épreuves de challenge ou des données bibliographiques et confirmer par des contrôles microbiologiques du produit fini.",
+    "Contrôle de l'efficacité : absence de formes végétatives et de spores sur les milieux appropriés, tests de stabilité (incubation des conserves à 30 et 55 °C), suivi des paramètres d'enregistrement de l'autoclave (courbes, sondes, alarmes).",
+    "Stérilisation à froid : filtration sur membrane 0,22 µm pour les liquides thermolabiles (sérums, solutions d'enzymes, milieux avec antibiotiques) ; rayonnement UV ou ionisant, gaz (oxyde d'éthylène) pour certains matériels ; chacun a ses limites (pénétration, dommages aux matériaux).",
+    "Écarts et non-conformités : un cycle incomplet (température ou durée insuffisante) impose de bloquer le lot, d'évaluer le risque avec le responsable procédé et de décider d'un retraitement ou d'une destruction ; tout écart est enregistré et analysé."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Que représente la valeur D en cinétique thermique ?",
+     "options": [
+      "La température maximale de destruction",
+      "Le temps nécessaire pour diviser la population par 10 à une température donnée",
+      "La durée totale du traitement",
+      "Le nombre de spores initial"
+     ],
+     "correct": 1,
+     "correction": "D est le temps de réduction décimale à une température fixée : N = N0 × 10^(-t/D). Plus D est petit, plus le microorganisme est sensible à la chaleur."
+    },
+    {
+     "type": "qcm",
+     "q": "Que signifie la valeur z ?",
+     "options": [
+      "L'augmentation de température qui réduit D d'un facteur 10",
+      "Le nombre de log de réduction",
+      "Le temps à 121 °C",
+      "Le pH critique"
+     ],
+     "correct": 0,
+     "correction": "z est l'écart de température (en °C) qui divise la valeur D par 10 ; pour Clostridium botulinum on utilise classiquement z = 10 °C."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle est la définition de la valeur F0 ?",
+     "options": [
+      "Le temps équivalent à 121,1 °C pour une réduction de 12 log avec z = 10 °C",
+      "La température de pasteurisation du lait",
+      "Le temps de montée en température",
+      "La charge microbienne initiale"
+     ],
+     "correct": 0,
+     "correction": "F0 intègre l'effet thermique du cycle ramené à 121,1 °C ; F0 ≥ 3 min est le critère classique pour la stérilisation d'une conserve de produits peu acides."
+    },
+    {
+     "type": "qcm",
+     "q": "Pourquoi un pH inférieur à 4,5 facilite-t-il la stérilisation des conserves ?",
+     "options": [
+      "Parce que les acides accélèrent la corrosion",
+      "Parce que Clostridium botulinum ne peut pas se développer et former sa toxine en milieu acide",
+      "Parce que la gélose fond à basse température",
+      "Parce que le goût est meilleur"
+     ],
+     "correct": 1,
+     "correction": "En dessous de pH 4,5, les spores de C. botulinum ne germent pas et ne produisent pas de toxine : une pasteurisation peut suffire pour les aliments acides ou acidifiés."
+    },
+    {
+     "type": "rédaction",
+     "q": "Une suspension contient 10^7 UFC/mL avec D = 2 min à 121 °C. Combien de temps faut-il pour obtenir une réduction de 12 log ?",
+     "correction": "Réduction de 12 log = 12 × D = 12 × 2 = 24 min à 121 °C. Il s'agit du temps de traitement à la température de référence pour passer de 10^7 à 10^-5 UFC/mL, c'est-à-dire une probabilité de survie très faible (approche du concept d'abcès commercial)."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment valider un nouveau barème de pasteurisation dans une unité de production ?",
+     "correction": "Identifier le microorganisme cible et la réduction logarithmique requise (par exemple 5 log de Listeria), déterminer la valeur D et la valeur z dans la matrice réelle ou par bibliographie, mesurer la température au point le plus froid avec des sondes étalonnées lors d'essais, intégrer le temps/température pour calculer le F0 ou l'équivalent pasteurisation, vérifier que le barème atteint l'objectif avec une marge de sécurité, réaliser des essais de challenge avec une souche non pathogène ou des contrôles microbiologiques du produit après traitement, documenter les résultats, les incertitudes et les critères d'acceptation, puis inclure le barème dans le plan HACCP et former les opérateurs."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Microbiologie",
+   "titre": "Chapitre : contrôle et suivi des productions en bioréacteur",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.4.6 et T2.2 ; bonnes pratiques de fabrication",
+   "points": [
+    "Un bioréacteur est un récipient clos et stérilisable permettant la culture contrôlée de cellules ou de microorganismes ; les paramètres sont mesurés en ligne (capteurs) ou hors ligne (analyses de laboratoire).",
+    "Paramètres en ligne : température, pH, oxygène dissous (DO), agitation, aération (débit d'air), pression, mousse, débit d'alimentation ; ils sont régulés par des boucles de régulation (PID) autour de points de consigne.",
+    "Paramètres hors ligne : concentration en biomasse (DO600, poids sec, comptage), viabilité, concentration en substrats (glucose, glutamine), métabolites (lactate, acétate, ammonium), produits d'intérêt, contamination (contrôles microbiologiques).",
+    "Courbe de croissance en milieu fermé (batch) : phase de latence (adaptation), phase exponentielle (croissance maximale, μmax), phase stationnaire (épuisement du substrat ou accumulation de déchets), phase de déclin (mort cellulaire).",
+    "Vitesse spécifique de croissance μ : en phase exponentielle, ln(X) = ln(X0) + μt ; le temps de doublement td = ln2/μ ; le suivi du DO600 permet de calculer μ et de détecter un ralentissement.",
+    "Suivi de la consommation d'oxygène (OUR) et du taux de transfert d'oxygène (kLa) : l'OUR renseigne sur l'activité respiratoire, le kLa sur la capacité d'oxygénation du système ; une chute brutale de l'OUR signale une carence ou une contamination.",
+    "Le rapport lactate/glucose ou la présence d'acétate révèle un métabolisme de débordement (overflow metabolism) : il faut ajuster le débit d'alimentation (mode fed-batch) pour limiter la formation de sous-produits inhibiteurs.",
+    "Contrôle de la stérilité : prélèvements réguliers, examen microscopique, subculture sur milieux non sélectifs et sélectifs, test d'ATP ou méthode rapide ; toute contamination impose l'arrêt de la production et une investigation.",
+    "Qualification et maintenance : capteurs étalonnés (pH, O2, température) avant chaque cycle, contrôle de l'étanchéité et des joints, stérilisation en place (SIP), nettoyage en place (CIP), traçabilité des cycles et des lots de milieux.",
+    "Exploitation des données : tracer les courbes de DO, pH, DO600 et métabolites, comparer aux courbes de référence du procédé, détecter les dérives par cartes de contrôle et proposer des ajustements des points de consigne ou du plan d'alimentation."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Comment calcule-t-on le temps de doublement td en phase exponentielle ?",
+     "options": [
+      "td = μ/ln2",
+      "td = ln2/μ",
+      "td = 2 × μ",
+      "td = 1/μ"
+     ],
+     "correct": 1,
+     "correction": "En phase exponentielle X = X0·e^(μt) : le temps pour doubler vérifie 2 = e^(μ·td), donc td = ln2/μ."
+    },
+    {
+     "type": "qcm",
+     "q": "Que révèle une chute brutale de l'OUR (taux de consommation d'oxygène) ?",
+     "options": [
+      "Une augmentation de la biomasse",
+      "Une carence en substrat, une inhibition ou une contamination",
+      "Une hausse du kLa",
+      "Une amélioration du transfert d'oxygène"
+     ],
+     "correct": 1,
+     "correction": "L'OUR est proportionnel à l'activité respiratoire : une chute soudaine signale un arrêt du métabolisme (substrat épuisé, toxique, pH ou température hors limite, contamination par un phage par exemple)."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel paramètre est mesuré en ligne dans un bioréacteur ?",
+     "options": [
+      "La concentration en lactate par CLHP",
+      "L'oxygène dissous par sonde",
+      "Le nombre de colonies sur gélose",
+      "La viabilité par cytométrie"
+     ],
+     "correct": 1,
+     "correction": "La sonde à oxygène (galvanique ou optique) donne une mesure en continu ; les analyses de métabolites, de viabilité ou de souillure sont réalisées hors ligne au laboratoire."
+    },
+    {
+     "type": "qcm",
+     "q": "Que signifie un métabolisme de débordement avec production de lactate ?",
+     "options": [
+      "La cellule utilise le glucose plus vite que sa capacité respiratoire, produisant du lactate",
+      "La cellule consomme du lactate",
+      "Le pH devient alcalin",
+      "L'oxygène est en excès"
+     ],
+     "correct": 0,
+     "correction": "Lorsque l'apport de glucose dépasse la capacité de la chaîne respiratoire, la cellule recycle le NADH en lactate (fermentation) : ce sous-produit acidifie le milieu et inhibe la croissance, d'où l'intérêt du fed-batch."
+    },
+    {
+     "type": "rédaction",
+     "q": "Interpréter une courbe de croissance où la DO600 plafonne à 0,8 alors que le glucose résiduel est encore de 8 g/L et le lactate augmente.",
+     "correction": "L'arrêt de la croissance malgré la présence de glucose indique un métabolisme de débordement : le glucose est consommé trop rapidement, le pyruvate est converti en lactate pour régénérer le NAD+, ce qui acidifie le milieu et inhibe la croissance. Il faut réduire le débit d'alimentation (passer en fed-batch), contrôler le pH, vérifier l'oxygénation (DO, kLa, agitation) et doser les autres nutriments (azote, vitamines) pour identifier une éventuelle carence limitante."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire le plan de contrôle qualité d'une production en bioréacteur du prélèvement au rendu.",
+     "correction": "Avant le cycle : qualification des capteurs (pH, O2, T), contrôle de stérilité et des lots de milieu, étalonnage des balances et pompes. Pendant le cycle : relevé en continu des paramètres en ligne et prélèvements aseptiques à intervalles définis pour DO600, viabilité, substrats et métabolites ; contrôles de stérilité par subculture et examen microscopique. Après le cycle : dosage du produit d'intérêt, contrôle microbiologique final, bilan matière, analyse des courbes et comparaison aux valeurs de référence. Chaque résultat est tracé (numéro de cycle, heure de prélèvement, analyse, opérateur, appareils) et toute dérive fait l'objet d'une fiche d'écart et d'une action corrective."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Microbiologie",
+   "titre": "Chapitre : biofilms, toxines, conservation des souches et risques associés",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T3.3 et S2.4.5 ; NF EN ISO 11133 ; bonnes pratiques de laboratoire",
+   "points": [
+    "Un biofilm est une communauté de microorganismes adhérant à une surface et enveloppée d'une matrice polymérique (polysaccharides, protéines, ADN extracellulaire) ; il est beaucoup plus résistant aux désinfectants et aux antibiotiques que les cellules planctoniques.",
+    "Étapes de formation : adhésion réversible, adhésion irréversible, maturation (multiplication et production de la matrice), dispersion de cellules qui colonisent de nouvelles surfaces ; les surfaces rugueuses et les zones de stagnation favorisent le processus.",
+    "Impact en bioindustrie : biofilms dans les circuits CIP, les cuves et les conduites → contaminations récurrentes, altérations du produit, corrosion, obstruction ; dans le domaine médical, infections sur dispositifs implantés.",
+    "Contrôle des biofilms : bionettoyage mécanique (brossage, action d'écoulement) associé à des désinfectants, alternance des principes actifs, maîtrise du temps de contact et de température, surveillance par écouvillonnage ou prélèvement de surface et dénombrement ; le nettoyage mécanique est plus efficace que l'augmentation de la concentration chimique.",
+    "Toxines bactériennes : exotoxines sécrétées (toxine botulique, entérotoxine staphylococcique, toxine de Vibrio) et endotoxines (LPS des Gram -) ; elles peuvent être détectées par des méthodes immunologiques (ELISA, latex), fonctionnelles (test de cytotoxicité cellulaire) ou moléculaires (PCR des gènes de toxine).",
+    "La détection des toxines est complémentaire de la recherche de la bactérie : une toxine thermostable peut persister après la destruction des cellules (entérotoxine staphylococcique dans un aliment cuit), et une souche non toxinogène peut être présente sans risque.",
+    "Conservation des souches : lyophilisation (congélation-déshydratation sous vide, conservation longue à température ambiante ou +4 °C) ou congélation à -80 °C avec cryoprotecteur (glycérol 15-20 %, DMSO) ; éviter les cycles de congélation-décongélation.",
+    "Banque de souches : chaque souche reçoit un identifiant unique, une fiche d'origine (collection, numéro d'isolat, matrices, date), un numéro de passage et des résultats de contrôle (identité, pureté, viabilité) ; deux niveaux (souche mère et souche de travail) limitent la dérive génétique.",
+    "Méthodes de contrôle des souches conservées : examen microscopique, isolement et identification, contrôle de la pureté, vérification des caractères phénotypiques attendus, test de viabilité après décongélation (taux de survie).",
+    "Risques liés : dissémination accidentelle, contamination croisée entre souches, perte de viabilité ou modification des caractères ; la manipulation se fait sous PSM avec EPI et les déchets sont inactivés par autoclave avant élimination en DASRI."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle propriété distingue un biofilm des cellules planctoniques ?",
+     "options": [
+      "Une croissance plus rapide",
+      "Une résistance accrue aux désinfectants grâce à la matrice polymérique",
+      "L'absence de métabolisme",
+      "Une taille cellulaire plus petite"
+     ],
+     "correct": 1,
+     "correction": "La matrice extracellulaire limite la pénétration des agents antimicrobiens et les cellules du biofilm ont un métabolisme ralenti : leur résistance peut être 10 à 1000 fois supérieure à celle des cellules libres."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle méthode est la plus efficace pour éliminer un biofilm installé ?",
+     "options": [
+      "Augmenter seulement la concentration de désinfectant",
+      "L'action mécanique (brossage, flux) associée à un désinfectant",
+      "Laisser agir le temps double",
+      "Utiliser de l'alcool à 90 %"
+     ],
+     "correct": 1,
+     "correction": "L'action mécanique désorganise la matrice et permet au désinfectant d'atteindre les cellules ; l'augmentation de concentration seule est souvent inefficace et endommage les surfaces."
+    },
+    {
+     "type": "qcm",
+     "q": "Pourquoi la recherche de toxine peut-elle être nécessaire même si la bactérie n'est plus viable ?",
+     "options": [
+      "Parce que la toxine est toujours plus petite",
+      "Parce que certaines toxines sont thermostables et persistent après la mort des cellules",
+      "Parce que la bactérie est invisible",
+      "Parce que la toxine est un antibiotique"
+     ],
+     "correct": 1,
+     "correction": "L'entérotoxine staphylococcique, par exemple, résiste à la cuisson : le produit peut être dangereux même si S. aureus a été détruit, d'où la recherche directe de la toxine."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel cryoprotecteur est couramment utilisé pour la congélation des souches à -80 °C ?",
+     "options": [
+      "Le glycérol à 15-20 %",
+      "L'éthanol à 70 %",
+      "Le(formol) à 10 %",
+      "Le chlorure de sodium à 20 %"
+     ],
+     "correct": 0,
+     "correction": "Le glycérol (ou le DMSO) pénètre les cellules et empêche la formation de cristaux de glace intracellulaires ; la congélation est souvent précédée d'une congélation contrôlée à -1 °C/min."
+    },
+    {
+     "type": "rédaction",
+     "q": "Expliquer la démarche d'investigation d'une contamination récurrente par un biofilm dans un circuit de production.",
+     "correction": "Prélever à différents points du circuit (après cuve, coudes, zones de stagnation, buses de spray) par écouvillonnage ou prélèvement de liquide, dénombrer et identifier les microorganismes, comparer les profils (biochimie, MALDI-TOF, PFGE ou séquençage) pour confirmer qu'il s'agit de la même souche, examiner les procédures de CIP (concentration, température, temps de contact, débit, couverture mécanique), vérifier l'état des surfaces (rugosité, joints, soudures) et les plans de circulation. Mettre en place un plan d'action : nettoyage mécanique renforcé, alternance des désinfectants, modification du design si nécessaire, surveillance renforcée et vérification de l'efficacité par de nouveaux prélèvements."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire les bonnes pratiques de conservation d'une souche de référence au laboratoire.",
+     "correction": "Conserver une souche mère lyophilisée ou congelée à -80 °C en deux exemplaires dans des emplacements distincts, préparer des souches de travail à partir de la souche mère en limitant le nombre de passages (généralement ≤ 5), utiliser un cryoprotecteur adapté (glycérol 15-20 %) et des cryotubes étanches étiquetés (identifiant, date, passage, opérateur), éviter les cycles gel-dégel en aliquotant, vérifier périodiquement l'identité, la pureté et la viabilité par subculture sur milieux adaptés, garder une fiche de vie par souche et consigner tout prélèvement ou réensemencement."
+    }
+   ]
+  }
+ ],
+ "annales": [
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "titre": "Sujet type E6-U6 – Maîtrise microbiologique d'un produit laitier",
+   "matiere": "Microbiologie",
+   "type": "genere",
+   "contenu": "Énoncé. Un laboratoire de contrôle d'une laiterie analyse un lot de yaourt nature au lait entier. Documents : (1) Critères du cahier des charges : flore mésophile aérobie totale (FMAT) ≤ 10^6 UFC/g ; coliformes ≤ 10 UFC/g ; levures/moisissures ≤ 10 UFC/g ; absence de Listeria monocytogenes dans 25 g ; présence des ferments lactiques attendus ≥ 10^7 UFC/g. (2) Protocole FMAT : 10 g de produit + 90 mL d'eau peptonée (dilution 10⁻¹), dilutions décimales jusqu'à 10⁻⁶, étalement de 0,1 mL sur gélose nutritive, duplication, incubation 72 h à 30 °C. (3) Résultats : à 10⁻⁵, 168 et 182 colonies ; à 10⁻⁶, 21 et 17 colonies ; boîtes des autres dilutions non comptables. (4) Levures/moisissures sur gélose au chloramphénicol : 4 colonies à 10⁻¹ (0,1 mL), 0 à 10⁻². (5) Coliformes : 0 UFC/g sur gélose VRBL. (6) Recherche de Listeria : pré-enrichissement demi-Fraser, Fraser, isolement PALCAM : colonies grises avec halo noir ; confirmation biochimique en cours. (7) Ferments lactiques dénombrés sur MRS à 10⁻⁷ : 62 colonies pour 0,1 mL. Questions. Q1 : Calculer la FMAT selon la formule ISO 7218 avec les deux niveaux comptables. Q2 : La FMAT est-elle conforme ? Q3 : Calculer la charge en levures/moisissures et conclure. Q4 : Interpréter les résultats coliformes et ferments lactiques. Q5 : Que faire face aux colonies suspectes de Listeria ? Q6 : Décrire les points critiques du protocole de dénombrement. Q7 : Proposer une action si Listeria est confirmée. Q8 : Rédiger la conclusion du rapport d'analyse.",
+   "correction": "Q1. ΣC = 168+182+21+17 = 388 ; n1 = 2 boîtes à d = 10⁻⁵, n2 = 2 à 10⁻⁶ ; V = 0,1 mL. Formule ISO 7218 : N = ΣC / [(n1 + 0,1 n2) × d × V] = 388 / [(2 + 0,1×2) × 10⁻⁵ × 0,1] = 388 / (2,2 × 10⁻⁶) = 1,76 × 10⁸ UFC/g. Q2. 1,76 × 10⁸ > 10⁶ : NON CONFORME, la FMAT dépasse la spécification d'un facteur 100. Q3. Levures : 4 colonies à 10⁻¹ avec 0,1 mL → 4/(0,1 × 10⁻¹) = 400 UFC/g > 10 : NON CONFORME. Une contamination fongique est avérée. Q4. Coliformes absents : bon indicateur d'hygiène des procédés (pas de contamination fécale récente). Ferments lactiques : 62/(0,1 × 10⁻⁷) = 6,2 × 10⁹ UFC/g, supérieur à 10^7 :bonne présence des ferments ; mais la FMAT élevée montre une flore contaminante parallèle. Q5. Les colonies sur PALCAM ne sont qu'une présomption : il faut terminer la confirmation (catalase +, Gram +, mobilité à 25 °C, hémolyse β, rhamnose + / xylose -, ou PCR hlyA), inclure une souche témoin positive et une négative, et ne communiquer le résultat qu'après confirmation. Q6. Points critiques : homogénéisation du produit dans le diluant, exactitude des dilutions décimales et changement de pipette entre elles, volume de 0,1 mL ensemenci avec une pipette calibrée, témoins de stérilité du diluant et des milieux, température et durée d'incubation (30 °C, 72 h), choix des boîtes comptables (30-300), étiquetage et traçabilité des dilutions. Q7. Si Listeria est confirmée : bloquer et isoler le lot, alerter le service qualité et la direction, rechercher la source (matières premières, environnement, contamination croisée post-pasteurisation, circuit de conditionnement), réaliser des prélèvements d'environnement (zones de contact, air, eau), appliquer des actions correctives (bionettoyage renforcé, révision du plan HACCP, formation), vérifier l'efficacité par de nouveaux contrôles et déclarer aux autorités si le produit a été distribué. Q8. Conclusion : « Lot YA-2026-088 — FMAT 1,8 × 10⁸ UFC/g (non conforme, limite 10⁶), levures/moisissures 4 × 10² UFC/g (non conforme, limite 10), coliformes absents (conforme), ferments 6,2 × 10⁹ UFC/g (conforme). Recherche de Listeria en cours de confirmation sur colonie suspecte. Lot bloqué, enquête 5M engagée. Traçabilité : milieux lots ..., incubateur n°..., opérateur ..., date ... . »"
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "titre": "Sujet type E7-U7 – Recherche de Listeria monocytogenes dans un produit prêt à consommer",
+   "matiere": "Microbiologie",
+   "type": "genere",
+   "contenu": "Énoncé. Un lot de salade prête à consommer est contrôlé avant expédition. Documents : (1) Réglementation : absence de Listeria monocytogenes dans 25 g (produit prêt à consommer) ; critère d'hygiène Listeria spp. ≤ 100 UFC/g. (2) Protocole appliqué : 25 g dans 225 mL de demi-Fraser (24 h à 30 °C), 0,1 mL dans 10 mL de Fraser (24 h à 35 °C), repiquage sur PALCAM et Oxford (48 h à 37 °C). (3) Observations : PALCAM : colonies gris-vert avec halo noir, 3 boîtes sur 5 positives ; Oxford : colonies noires avec halo noir, 3/5 positives ; témoin positif L. monocytogenes ATCC 19115 : croissance conforme ; témoin négatif L. innocua : croissance avec halo plus faible. (4) Confirmation : catalase +, cocci-bâtonnets Gram +, mobilité à 25 °C positive, hémolyse β sur gélose au sang positive, rhamnose +, xylose -, PCR gène hlyA positive. (5) Complément : dénombrement de Listeria spp. sur gélose chromogène : 2,4 × 10^3 UFC/g. Questions. Q1 : Analyser la validité de la série au regard des témoins. Q2 : Que représente le résultat obtenu sur milieux sélectifs avant confirmation ? Q3 : Interpréter les tests de confirmation et conclure sur la présence de L. monocytogenes. Q4 : Comparer le dénombrement de Listeria spp. au critère d'hygiène. Q5 : Pourquoi le dénombrement et la recherche d'absence sont-ils deux critères distincts ? Q6 : Quels prélèvements d'environnement réaliser et pourquoi ? Q7 : Décrire la chaîne de décision en cas de confirmation. Q8 : Rédiger le rapport de non-conformité.",
+   "correction": "Q1. Le témoin positif croît conformément et le témoin négatif donne une réponse différente (halo plus faible) : les milieux, les bouillons et les conditions d'incubation fonctionnent ; la série est valide. Q2. Les colonies typiques sur PALCAM/Oxford ne sont qu'une présomption de Listeria : la morphologie et l'hydrolyse de l'esculine ne permettent pas de distinguer L. monocytogenes des autres espèces du genre. Q3. Catalase +, Gram +, mobilité à 25 °C, hémolyse β, rhamnose + et xylose - correspondent au profil de L. monocytogenes (L. innocua est non hémolytique et xylose -/rhamnose variable) ; la PCR du gène hlyA (listeriolysine O) confirme l'espèce pathogène : présence confirmée dans 25 g. Q4. 2,4 × 10³ UFC/g > 100 UFC/g : le critère d'hygiène des procédés pour Listeria spp. est également non conforme, ce qui révèle une maîtrise insuffisante de l'hygiène en plus du risque sanitaire. Q5. L'absence dans 25 g vise la sécurité immédiate du consommateur (pathogène) ; le dénombrement de Listeria spp. évalue la qualité de l'hygiène des procédés et la tendance à la contamination : un produit peut être conforme pour l'un et non pour l'autre, les actions correctives ne sont pas identiques. Q6. Prélever les surfaces de contact (convoyeur, couteaux, plans de travail), les eaux de lavage et de refroidissement, l'air (sédimentation ou impact), les mains des opérateurs et les matières premières (salades, eau d'irrigation) : ces prélèvements permettent de localiser la source et de vérifier si la contamination est introduite par la matière première ou post-process. Q7. Confirmer le résultat (déjà fait), bloquer et isoler le lot, alerter quality/direction et le client le cas échéant, engager une enquête 5M et des prélèvements environnementaux, mettre en place des actions correctives (bionettoyage, révision des températures et du délai avant conditionnement, formation du personnel), vérifier l'efficacité par des contrôles de vérification et documenter ; si le lot est distribué, information des autorités et retrait/rappel selon la procédure. Q8. Rapport : « Échantillon SAL-2026-112, salade prête à consommer. L. monocytogenes confirmée dans 25 g (PCR hlyA +, profil biochimique conforme). Listeria spp. 2,4 × 10³ UFC/g (critère ≤ 100 dépassé). Série valide (témoins conformes). Double non-conformité : sécurité et hygiène des procédés. Lot bloqué, enquête et actions correctives en cours, vérification prévue à J+7. Références : ISO 11290-1/-2, lots de milieux ..., opérateur ..., date ... . »"
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "titre": "Sujet type E7-U7 – Efficacité d'un désinfectant et maîtrise des biofilms",
+   "matiere": "Microbiologie",
+   "type": "genere",
+   "contenu": "Énoncé. Une usine cosmétique rencontre des contaminations récurrentes par Pseudomonas aeruginosa sur une ligne de remplissage. Le laboratoire doit évaluer l'efficacité de deux désinfectants et proposer un plan d'action. Documents : (1) Souche : P. aeruginosa CIP A22, suspension à 10^8 UFC/mL. (2) Protocole de suspension : 1 mL de suspension + 1 mL de désinfectant, temps de contact 5 et 15 min à 20 °C, neutralisation (lécithine/Tween + thiosulfate), dénombrement sur gélose nutritive. (3) Résultats (UFC/mL après neutralisation) : témoin non traité 1,2 × 10^8 ; désinfectant A (ammonium quaternaire) 5 min : 8 × 10^5, 15 min : 3 × 10^4 ; désinfectant B (peroxyde d'hydrogène/acide peracétique) 5 min : 2 × 10^3, 15 min : < 10. (4) Prélèvements de surface par écouvillon avant et après nettoyage mécanique + désinfection : avant 4,5 × 10^6 UFC/écouvillon, après brossage seul 3,1 × 10^4, après brossage + désinfectant B 1,2 × 10^2. (5) Exigence interne : réduction d'au moins 4 log et charge de surface < 10^2 UFC/écouvillon. Questions. Q1 : Calculer les réductions logarithmiques obtenues pour A et B à 5 et 15 min. Q2 : Quel désinfectant respecte l'exigence de 4 log ? Q3 : Commenter l'effet du temps de contact. Q4 : Interpréter les résultats de prélèvement de surface. Q5 : Expliquer pourquoi le brossage améliore l'efficacité. Q6 : Quels facteurs peuvent réduire l'efficacité d'un désinfectant sur site ? Q7 : Proposer un plan d'action et unplan de surveillance. Q8 : Rédiger la conclusion technique.",
+   "correction": "Q1. Réduction log = log10(N0/N). A 5 min : log(1,2×10^8 / 8×10^5) = log(150) ≈ 2,18 log. A 15 min : log(1,2×10^8 / 3×10^4) = log(4000) ≈ 3,60 log. B 5 min : log(1,2×10^8 / 2×10^3) = log(60000) ≈ 4,78 log. B 15 min : log(1,2×10^8 / 10) = 7,08 log. Q2. Seul le désinfectant B atteint ≥ 4 log dès 5 min (4,78) ; le désinfectant A reste insuffisant même à 15 min (3,60). Q3. L'augmentation du temps de contact de 5 à 15 min améliore la réduction de 1,4 log pour A et de 2,3 log pour B : l'efficacité dépend fortement du temps, ce qui justifie le respect strict du temps de contact sur site (et l'abandon de A contre P. aeruginosa). Q4. Avant nettoyage : 4,5 × 10^6 UFC/écouvillon. Brossage seul : 3,1 × 10^4 (réduction de 2,16 log) : l'action mécanique retire une partie du biofilm mais reste insuffisante. Brossage + B : 1,2 × 10^2 (réduction de 4,57 log par rapport à l'état initial) mais reste supérieur au seuil interne de 10^2 : le plan de maîtrise doit être renforcé (temps de contact, concentration, fréquence, zones critiques). Q5. Le brossage désorganise la matrice polymérique du biofilm, augmente la surface exposée et permet au désinfectant de pénétrer jusqu'aux cellules ; les cellules du biofilm sont sinon protégées par la matrice et leur métabolisme ralenti les rend beaucoup moins sensibles. Q6. Concentration incorrecte (dilution erreur), temps de contact trop court, température basse, charge organique élevée (résidus de produit), pH incompatible, présence de biofilm, mauvais état du matériel (joints, rugosité), neutralisation ou rinçage prématuré, souche plus résistante que la souche d'essai. Q7. Plan d'action : remplacer le désinfectant A par B ou un peroxyde validé, formaliser la concentration et le temps de contact (15 min), imposer le brossage mécanique avant application, démonter et nettoyer les zones critiques (joints, buses), vérifier la compatibilité des matériaux, former les opérateurs. Surveillance : écouvillonnages hebdomadaires sur 5 points dont 2 critiques, dénombrement et recherche de Pseudomonas, carte de contrôle des résultats, revue trimestrielle des tendances et réévaluation annuelle de l'efficacité du désinfectant par test de suspension. Q8. Conclusion : « P. aeruginosa CIP A22 : désinfectant B (peroxyde/acide peracétique) efficace dès 5 min (réduction 4,78 log) ; désinfectant A insuffisant (2,18 à 3,60 log). Sur site, le protocole brossage + B réduit la charge de 4,57 log mais n'atteint pas l'objectif < 10^2 UFC/écouvillon (résultat 1,2 × 10^2). Recommandation : généraliser B avec 15 min de contact, renforcer l'action mécanique et le démontage, mettre en place une surveillance par écouvillonnage hebdomadaire avec carte de contrôle. Traçabilité : lots de désinfectants, souche CIP A22, températures, opérateur, date. »"
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "titre": "Sujet type E7-U7 – Cinétique de croissance et pilotage d'un bioréacteur",
+   "matiere": "Microbiologie",
+   "type": "genere",
+   "contenu": "Énoncé. Une souche de Bacillus subtilis est cultivée en bioréacteur de 2 L pour produire une enzyme. Documents : (1) Relevés : t=0 h DO600 0,08 ; t=2 h 0,15 ; t=4 h 0,42 ; t=6 h 1,10 ; t=8 h 2,40 ; t=10 h 3,20 ; t=12 h 3,35 ; glucose résiduel : 20 ; 19 ; 15 ; 9 ; 3 ; 0,5 ; 0,2 g/L. (2) O2 dissous : 90 % de 0 à 6 h, 35 % à 8 h, 8 % à 10 h, 25 % à 12 h. (3) Paramètres : 37 °C, pH 7,0 régulé, agitation 300 tr/min, aération 1 vvm. (4) Corrélation établie au laboratoire : DO600 = 0,40 × (g/L de biomasse sèche). (5) Objectif : produire au moins 4 g/L de biomasse et éviter la limitation en oxygène. (6) Lien attendu : un DO > 0,8 doit être dilué avant lecture. Questions. Q1 : Repérer les phases de croissance et justifier. Q2 : Calculer μ en phase exponentielle (entre 4 et 8 h) et le temps de doublement. Q3 : Calculer la biomasse sèche à 8 h et à 12 h (tenir compte de la dilution pour la lecture à DO 2,4 et 3,2 si une dilution au 1/5 a été faite). Q4 : Interpréter l'évolution du glucose et de l'oxygène dissous. Q5 : L'objectif de biomasse est-il atteint ? Q6 : Proposer des ajustements de pilotage. Q7 : Quels contrôles complémentaires faut-il réaliser hors ligne ? Q8 : Rédiger le bilan de cycle.",
+   "correction": "Q1. 0-2 h : phase de latence (DO passe de 0,08 à 0,15, faible augmentation, adaptation). 2-10 h : phase exponentielle (DO multipliée environ par 2 toutes les 2 h jusqu'à 10 h). 10-12 h : phase stationnaire (DO 3,20 → 3,35, ralentissement lié à l'épuisement du glucose). Q2. Entre 4 h (0,42) et 8 h (2,40) : μ = ln(2,40/0,42)/(8-4) = ln(5,71)/4 = 1,742/4 = 0,436 h⁻¹ ; td = ln2/μ = 0,693/0,436 = 1,59 h (environ 95 min). Q3. DO réelle à 8 h = 2,40 × 5 = 12,0 ; biomasse = 12,0/0,40 = 30 g/L ? Incohérent avec l'objectif : en fait la corrélation DO = 0,40 × biomasse n'est valable que dans la zone linéaire (DO < 0,8). Après dilution 1/5, la DO lue 2,40 doit d'abord être ramenée dans la plage linéaire par une dilution supplémentaire (par exemple 1/20 au total) : DO corrigée = 2,40 × 20 = 48, lecture hors gamme → il faut refaire la mesure avec une dilution plus forte. L'exercice met en évidence que le point 6 impose de diluer jusqu'à DO < 0,8 : à 8 h, dilution minimale ≈ 1/4 (2,40/4 = 0,60) → DO corrigée ≈ 9,6 ; biomasse ≈ 24 g/L, largement au-dessus de l'objectif de 4 g/L. À 12 h, DO lue 3,2 après 1/5 → 16 corrigée, dilution supplémentaire nécessaire (1/25) → DO ≈ 80, biomasse ≈ 200 g/L : value irréaliste, il faut vérifier la linéarité de la corrélation et refaire les mesures avec des dilutions adaptées. Q4. Le glucose chute de 20 à 0,2 g/L : il est consommé et devient limitant en fin de cycle, ce qui explique le ralentissement. L'O2 dissous passe de 90 % à 8 % à 10 h puis remonte à 25 % à 12 h : la consommation respiratoire a dépassé la capacité de transfert (kLa) vers 8-10 h, puis a diminué avec l'épuisement du substrat. Q5. Oui, la biomasse estimée dépasse largement 4 g/L, mais la limitation en O2 (8 %) n'a pas été évitée : l'objectif n'est que partiellement atteint. Q6. Augmenter l'agitation (300 → 500-700 tr/min) et/ou l'aération (1 → 1,5-2 vvm), envisager un enrichissement en oxygène, réduire le débit d'alimentation en glucose (fed-batch) pour limiter l'OUR, contrôler la mousse et la pression, suivre en continu le DO avec alarme à 20-30 %. Q7. Dosages hors ligne du glucose, lactate/acétate/ammonium (metabolites), protéines ou activité enzymatique cible, viabilité et pureté de la souche (étalement, Gram), comptage cellulaire et poids sec pour confirmer la corrélation DO/biomasse, contrôle de la stérilité du milieu. Q8. Bilan : « Cycle BR-2026-07, B. subtilis, 12 h. Phase exponentielle μ ≈ 0,44 h⁻¹, td ≈ 1,6 h. Biomasse estimée > 4 g/L (objectif atteint) mais DO descendue à 8 % à 10 h : limitation en oxygène avérée. Glucose épuisé en fin de cycle. Actions : montée en agitation/aération, passage en fed-batch, ajout d'une alarme DO à 25 %, renforcement des contrôles hors ligne. Traçabilité : sondes pH/O2 calibrées le ..., lots de milieu ..., opérateur ... . »"
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "titre": "Sujet type E6-U6 – Antibiogramme et maîtrise de la résistance",
+   "matiere": "Microbiologie",
+   "type": "genere",
+   "contenu": "Énoncé. Un isolat de Staphylococcus aureus provient d'un prélèvement de surface dans un atelier de production cosmétique. Le laboratoire réalise un antibiogramme par diffusion selon EUCAST. Documents : (1) Ensemencement à 0,5 McFarland sur Mueller-Hinton (4 mm), disques déposés, incubation 18 h à 35 °C. (2) Diamètres mesurés (mm) : pénicilline 6 ; oxacilline 13 ; céfoxitine 22 ; gentamicine 18 ; érythromycine 6 ; vancomycine 18 ; acide fusidique 22. (3) Grille EUCAST (simplifiée) : pénicilline S ≥ 28 / R < 28 ; oxacilline (cefoxitine) S ≥ 25 / R < 25 ; gentamicine S ≥ 15 / R < 15 ; érythromycine S ≥ 21 / R < 21 ; vancomycine S ≥ 17 / R < 17. (4) Témoin S. aureus ATCC 25923 : diamètres conformes aux intervalles attendus pour tous les disques. (5) Test du latex pour la protéine PBP2a : positif. Questions. Q1 : Valider la série à partir du témoin. Q2 : Interpréter chaque diamètre en S/I/R. Q3 : Quel est le phénotype de résistance de cette souche ? Q4 : Commenter la cohérence entre le test PBP2a et le diamètre de céfoxitine. Q5 : Quelles vérifications complémentaires sont nécessaires ? Q6 : Expliquer le mécanisme de résistance à la méticilline. Q7 : Quelles mesures de maîtrise mettre en place dans l'atelier ? Q8 : Rédiger le rendu de résultat.",
+   "correction": "Q1. Le témoin ATCC 25923 donne des diamètres dans les intervalles EUCAST attendus : la gélose (épaisseur, pH), les disques (conservation) et la technique (inoculum 0,5 McFarland, incubation) sont conformes : la série est valide. Q2. Pénicilline 6 mm < 28 : R ; oxacilline/cefoxitine 22 mm < 25 : R ; gentamicine 18 ≥ 15 : S ; érythromycine 6 < 21 : R ; vancomycine 18 ≥ 17 : S. Q3. Souche résistante aux bêta-lactamines (pénicilline, oxacilline) et à l'érythromycine, sensible à la gentamicine et à la vancomycine : phénotype MRSA (Staphylococcus aureus résistant à la méticilline) avec résistance Macrolide supplémentaire. Q4. Le test latex PBP2a positif confirme la résistance à la méticilline : le diamètre de céfoxitine (22 mm < 25) est cohérent, les deux méthodes concordent ; la céfoxitine est un bon marqueur de dépistage des MRSA. Q5. Vérifier la pureté de l'isolat (coloration de Gram, isolement), confirmer l'identification (MALDI-TOF ou galerie + coagulase +), contrôler la densité d'ensemencement et relire les diamètres à la règle, compléter par une CMI en microdilution pour les antibiotiques critiques et un test d'induction de la résistance aux macrolides (D-test) si une résistance à la clindamycine est envisagée. Q6. La résistance à la méticilline est portée par le gène mecA (ou mecC) situé sur l'îlot SCCmec : il code la protéine PBP2a, une protéine de liaison à la pénicilline de faible affinité pour les bêta-lactamines, qui permet la synthèse de la paroi même en présence d'antibiotique. Le gène est souvent associé à d'autres déterminants de résistance. Q7. Renforcer le bionettoyage et la désinfection des surfaces de contact, vérifier les circuits de lavage et la qualité de l'eau, rechercher la source (porteur humain, matières premières), revoir les procédures d'hygiène et la formation du personnel, limiter l'usage des antibiotiques (principe One Health), conserver l'isolat et le transmettre au laboratoire de référence pour typage si nécessaire, mettre en place une surveillance environnementale renforcée et documenter les actions. Q8. Rendu : « Isolat STA-2026-045 identifié comme Staphylococcus aureus (coagulase +, MALDI-TOF). Antibiogramme EUCAST 2026 : pénicilline R, oxacilline/cefoxitine R, érythromycine R, gentamicine S, vancomycine S. PBP2a positif : souche MRSA. Série valide (témoin ATCC 25923 conforme). Sensibilité aux disques conformes aux recommandations en vigueur. Prélever et identifier la source, renforcer les mesures d'hygiène. La sélection de tout antibiotique reste de la responsabilité du prescripteur. »"
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "titre": "Sujet type E7-U7 – Comparaison de deux méthodes de dénombrement et non-conformité",
+   "matiere": "Microbiologie",
+   "type": "genere",
+   "contenu": "Énoncé. Un laboratoire doit comparer la méthode de référence ISO 4833-1 (étalement sur gélose après 72 h à 30 °C) à une méthode rapide par ATP-métrie pour le suivi de la propreté des surfaces d'une ligne agroalimentaire. Documents : (1) 20 prélèvements appariés donnant, pour la méthode référence (log UFC/cm²) et l'ATP (log RLU/cm²), une droite de régression y = 0,92x + 0,35 avec R² = 0,86. (2) Écart moyen entre méthodes : 0,55 log avec un écart-type de 0,42 log ; limite d'acceptabilité définie à ± 0,5 log. (3) Résultats sur trois surfaces : surface A : référence 2,1 log UFC/cm², ATP 2,6 log ; surface B : référence 3,4 log, ATP 3,2 log ; surface C : référence 4,2 log, ATP 3,5 log. (4) Spécification interne : surface de contact < 2,0 log UFC/cm². Questions. Q1 : Commenter la qualité de la corrélation entre les deux méthodes. Q2 : La méthode rapide est-elle équivalente à la méthode de référence ? Justifier. Q3 : Analyser les résultats des trois surfaces. Q4 : Pourquoi les écarts sont-ils plus importants en charge élevée ? Q5 : Quels essais complémentaires faut-il conduire avant d'adopter la méthode rapide ? Q6 : Décrire la démarche de non-conformité pour la surface C. Q7 : Quelle place donner à l'ATP-métrie dans le plan de contrôle ? Q8 : Rédiger la synthèse de comparaison.",
+   "correction": "Q1. R² = 0,86 : corrélation correcte mais insuffisante pour une méthode de routine quantitative (on attend généralement R² ≥ 0,95) ; la pente 0,92 proche de 1 est encourageante mais l'ordonnée 0,35 montre un biais systématique. Q2. Non : l'écart moyen de 0,55 log dépasse la limite d'acceptabilité fixée à ± 0,5 log et l'écart-type de 0,42 log est élevé : les deux méthodes ne sont pas interchangeables en l'état ; l'ATP-métrie ne peut pas remplacer la méthode normée pour la décision de conformité. Q3. Surface A : référence 2,1 > 2,0 (non conforme), ATP 2,6 (non conforme) : les deux méthodes concordent sur la non-conformité. Surface B : 3,4 et 3,2 (non conformes), concordance. Surface C : 4,2 et 3,5 (non conformes), mais l'ATP sous-estime la charge de 0,7 log, au-delà de l'écart toléré : la méthode rapide minimise le risque dans ce cas. Q4. En charge élevée, l'ATP-métrie peut être saturée (épuisement du réactif luciférase/luciférine, quenching) et la relation entre ATP et nombre de cellules change avec l'état physiologique des cellules et la matrice (résidus de produit, cellules mortes libérant de l'ATP) : la linéarité et la corrélation se dégradent. Q5. Essais complémentaires : élargir le nombre de paires et la gamme de charges, étudier la répétabilité et la reproductibilité de l'ATP-métrie, vérifier la linéarité du signal ATP sur la plage concernée, évaluer les effets de la matrice et du prélèvement (type d'écouvillon, neutralisant), déterminer LD/LQ, établir une courbe de calibration propre à chaque surface/produit et conduire un essai inter-laboratoires si la méthode doit être normée. Q6. Surface C non conforme (4,2 log > 2,0) : bloquer la ligne ou le lot concerné, alerter le service qualité, prélever à nouveau pour confirmer et identifier les microorganismes, rechercher la cause (5M : nettoyage insuffisant, temps de contact, produit, opérateur, conception de la surface), renforcer le nettoyage et la désinfection, vérifier l'efficacité par de nouveaux prélèvements, documenter la non-conformité, l'action corrective et la vérification. Q7. L'ATP-métrie est utile comme outil de surveillance rapide et de tendance (décision immédiate de reprise de nettoyage, suivi de l'efficacité du bionettoyage, Formation des opérateurs) mais les résultats limites ou non conformes doivent être confirmés par la méthode normée avant toute décision de libération ou de rejet de lot ; elle complète mais ne remplace pas la culture. Q8. Synthèse : « Comparaison ATP-métrie vs ISO 4833-1 sur 20 prélèvements : corrélation R² = 0,86 (insuffisante), biais moyen +0,55 log (ATP) avec écart-type 0,42 log, dépassant le critère ± 0,5 log. La méthode rapide n'est pas équivalente en l'état : elle est conservée comme outil de surveillance tendancielle, avec confirmation systématique par la méthode de référence en cas de résultat proche ou supérieur à la limite. Un plan d'étude complémentaire est proposé (gamme élargie, répétabilité, effets matrice, calibration par surface). La surface C (4,2 log UFC/cm²) est non conforme et fait l'objet d'une action corrective. »"
+  }
+ ]
+}

@@ -1,0 +1,1430 @@
+{
+  "fiches": [
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Culture générale et expression",
+      "titre": "Analyse et commentaire de texte scientifique",
+      "source": "Arrêté du 12 mars 2024 modifié par l’arrêté du 24 juin 2025 (BTS BIOALC, U1 — culture générale et expression, RNCP38884) · Référentiel de culture générale et expression : analyse de texte, commentaire, note de synthèse · Documents d’accompagnement académiques · Grille d’évaluation de l’épreuve D1/E1.",
+      "points": [
+        "L’analyse de texte porte le plus souvent sur un texte argumentatif, explicatif ou narratif en lien avec les sciences, la technique ou la société : elle exige une lecture méthodique et une reformulation personnelle, jamais une simple paraphrase.",
+        "Première lecture : identifier la nature du texte (genre, auteur, date, destinataire, intention, contexte de publication) et dégager le thème général en une seule phrase.",
+        "Deuxième lecture : repérer la THÈSE (idée directrice défendue par l’auteur) et la distinguer des ARGUMENTS (raisons qui la justifient) et des EXEMPLES (illustrations concrètes qui les rendent tangibles).",
+        "Un argument répond à la question « pourquoi ? », un exemple à « par exemple ? » ; confondre ces deux niveaux est l’erreur la plus fréquente dans les copies.",
+        "Repérer les registres : argumentatif/démonstratif (logos = raison), pathétique (pathos = émotion), ironique, polémique, narratif, descriptif, explicatif, lyrique ; nommer le registre dominant puis expliquer son effet sur le lecteur.",
+        "Le lexique est un indice majeur : champs lexicaux, connotations (sens associé, chargé de valeurs) opposées aux dénotations (sens littéral), et modalisation (« peut-être », « il semble », « il faut ») qui trahit le degré de certitude et l’attitude de l’auteur.",
+        "Les connecteurs logiques charpentent le raisonnement : cause (« parce que », « donc »), opposition (« mais », « or », « cependant »), concession (« certes », « bien que »), énumération (« d’abord », « ensuite », « enfin »).",
+        "Figures de style (métaphore, comparaison, antithèse, énumération, question rhétorique, hyperboles) : il faut nommer la figure, citer le segment concerné et expliquer l’effet visé, sans se contenter de la repérer.",
+        "Reformuler, c’est exprimer la même idée avec ses propres mots, sans ajouter de jugement ni perdre de sens : c’est l’exercice de base de la note de synthèse et la preuve d’une lecture comprise.",
+        "Le commentaire structuré suit un plan : introduction (amorce, présentation du document, problématique, annonce du plan), développement en 2 ou 3 axes équilibrés, conclusion (bilan et ouverture).",
+        "Chaque axe du développement = une affirmation + une citation courte (une ligne suffit) + une analyse du procédé et de l’effet ; une citation « plaquée » sans commentaire n’apporte aucun point.",
+        "Pièges : paraphraser au lieu d’analyser, répondre à côté de la consigne, déséquilibrer les axes, confondre l’opinion de l’auteur et la sienne, oublier la contextualisation et négliger la forme (orthographe, ponctuation, paragraphes)."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la différence entre la thèse et un argument ?",
+          "options": [
+            "La thèse est un exemple, l’argument est la conclusion",
+            "La thèse est l’idée directrice, l’argument est la raison qui la soutient",
+            "La thèse est le titre, l’argument est la date",
+            "Les deux mots désignent la même chose"
+          ],
+          "correct": 1,
+          "correction": "La thèse est l’idée centrale défendue par l’auteur ; les arguments sont les raisons avancées pour la démontrer, et les exemples les illustrent."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel connecteur signale une opposition ou une nuance ?",
+          "options": [
+            "Parce que",
+            "Cependant",
+            "Ainsi",
+            "D’abord"
+          ],
+          "correct": 1,
+          "correction": "« Cependant », « mais », « or », « pourtant » marquent l’opposition ou la concession ; « parce que » marque la cause, « ainsi » la conséquence."
+        },
+        {
+          "type": "qcm",
+          "q": "À quoi sert un exemple dans un texte argumentatif ?",
+          "options": [
+            "À remplacer l’argument",
+            "À illustrer concrètement un argument",
+            "À conclure le texte",
+            "À donner la date de publication"
+          ],
+          "correct": 1,
+          "correction": "L’exemple rend l’argument concret et crédible ; il répond à la question « par exemple ? » et reste subordonné à l’argument."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel registre vise principalement à émouvoir le lecteur ?",
+          "options": [
+            "Le registre pathétique",
+            "Le registre démonstratif",
+            "Le registre explicatif",
+            "Le registre technique"
+          ],
+          "correct": 0,
+          "correction": "Le registre pathétique (pathos) suscite l’émotion et la compassion ; le registre démonstratif (logos) vise à convaincre par la raison."
+        },
+        {
+          "type": "qcm",
+          "q": "La modalisation (« il semble », « peut-être ») révèle surtout…",
+          "options": [
+            "La date du texte",
+            "Le degré de certitude et la posture de l’auteur",
+            "Le nombre de paragraphes",
+            "La longueur des phrases"
+          ],
+          "correct": 1,
+          "correction": "Les modalisateurs expriment le degré d’adhésion de l’auteur à son propos : prudence, doute, certitude, obligation — un indice clé de son intention."
+        },
+        {
+          "type": "qcm",
+          "q": "Bien reformuler un passage, c’est…",
+          "options": [
+            "Le recopier en changeant deux mots",
+            "Le traduire en langage familier",
+            "Dire la même idée avec ses propres mots, sans jugement",
+            "Ajouter son opinion personnelle"
+          ],
+          "correct": 2,
+          "correction": "La reformulation conserve le sens et le niveau de langue, mais change la formulation : elle prouve que le texte a été compris."
+        },
+        {
+          "type": "qcm",
+          "q": "Dans un commentaire, l’introduction doit obligatoirement…",
+          "options": [
+            "Développer le premier argument",
+            "Présenter le texte, dégager la problématique et annoncer le plan",
+            "Donner la biographie complète de l’auteur",
+            "Conclure le sujet"
+          ],
+          "correct": 1,
+          "correction": "L’introduction amorce, situe le document, formule la problématique (la question auquel le texte répond) et annonce le plan en 2 ou 3 axes."
+        },
+        {
+          "type": "qcm",
+          "q": "Une citation réussie dans un commentaire est…",
+          "options": [
+            "Longue et recopiée telle quelle",
+            "Courte, introduite puis analysée",
+            "Placée en conclusion uniquement",
+            "Sans guillemets"
+          ],
+          "correct": 1,
+          "correction": "On cite un segment bref, on l’introduit (« l’auteur affirme que… ») puis on explique le procédé et l’effet produits."
+        },
+        {
+          "type": "texte",
+          "q": "Comment distinguer dénotation et connotation, et pourquoi cette distinction est-elle utile à l’analyse ?",
+          "reponse": "La dénotation est le sens littéral, objectif d’un mot (par exemple « froid : basse température ») ; la connotation est le sens associé, chargé d’impressions ou de valeurs (« froid : distant, hostile »). L’analyse doit repérer les connotations car elles révèlent l’intention de l’auteur et l’effet recherché sur le lecteur.",
+          "correction": "On gagne des points en citant le mot exact du texte, en donnant son sens dénotatif puis sa connotation, et en expliquant pourquoi l’auteur l’a choisi plutôt qu’un synonyme neutre."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi ne faut-il pas paraphraser dans un commentaire de texte ?",
+          "reponse": "Paraphraser revient à redire le texte avec d’autres mots sans expliquer comment il fonctionne : le correcteur n’y voit aucune analyse des procédés, des registres ni de l’intention. Le commentaire doit au contraire nommer le procédé, le citer brièvement et expliquer son effet, ce qui suppose une distance critique.",
+          "correction": "La différence est celle du « quoi » (reformuler pour comprendre, dans le résumé) et du « comment » (analyser les choix de l’auteur, dans le commentaire). Une copie uniquement paraphrastique est sanctionnée comme hors-sujet."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L’idée en une phrase",
+          "texte": "Un texte scientifique ne se résume pas, il s’explique : l’analyse identifie comment l’auteur construit son propos, le commentaire en restitue la logique avec des mots personnels."
+        },
+        {
+          "type": "formule",
+          "titre": "La chaîne argumentative à repérer",
+          "eq": "Texte = thèse + arguments + exemples + registres + intention",
+          "leg": "Commentaire = introduire + (citer court + analyser) × 2 ou 3 axes + conclure"
+        },
+        {
+          "type": "grille",
+          "titre": "Thèse, argument, exemple, registre",
+          "items": [
+            [
+              "Thèse",
+              "Idée directrice que l’auteur défend",
+              "« Il faut… »"
+            ],
+            [
+              "Argument",
+              "Raison qui justifie la thèse",
+              "« parce que… »"
+            ],
+            [
+              "Exemple",
+              "Illustration concrète de l’argument",
+              "« par exemple… »"
+            ],
+            [
+              "Registre",
+              "Ton dominant et effet visé",
+              "logos, pathos, ironie"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Les 6 réflexes de la lecture",
+          "items": [
+            "Lire une première fois sans crayon : sens global et thème",
+            "Situer le document : genre, auteur, date, destinataire, intention",
+            "Surligner la thèse puis numéroter arguments et exemples",
+            "Identifier le registre dominant et les champs lexicaux",
+            "Observer connecteurs et modalisateurs : logique et positionnement",
+            "Reformuler chaque paragraphe en une phrase personnelle"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Rédiger le commentaire en 5 étapes",
+          "items": [
+            "Amorce + présentation du texte + problématique + annonce du plan",
+            "Axe 1 : affirmation, citation courte, analyse du procédé et de l’effet",
+            "Axe 2 : même structure, en approfondissant ou en nuançant",
+            "Axe 3 (si besoin) : mise en perspective ou regard critique",
+            "Conclusion : bilan de la démonstration puis ouverture large"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges à éviter",
+          "items": [
+            "Paraphraser : recopier en changeant quelques mots n’est pas analyser",
+            "Confondre thèse, argument et exemple dans le plan",
+            "Citer plus de trois lignes : la citation doit rester brève et analysée",
+            "Oublier la consigne : résumé, commentaire et note de synthèse sont trois exercices distincts",
+            "Mélanger l’opinion de l’auteur et la vôtre : « l’auteur affirme… » ≠ « je considère… »"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En pratique (à repérer dans le texte)",
+          "items": [
+            "<span class=\"cle\">Thèse</span> : « La science doit être expliquée au public » → idée directrice",
+            "<span class=\"cle\">Connecteur</span> : « Mais cette diffusion reste inégale » → opposition, nuance apportée",
+            "<span class=\"cle\">Modalisation</span> : « il semble », « peut-être » → prudence, distance critique",
+            "<span class=\"cle\">Citation</span> : « un savoir ne vit que s’il est partagé » → à introduire puis à expliquer"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · La chaîne argumentative",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"De la these aux exemples et au registre\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">De la thèse au registre : la chaîne argumentative</text><rect x=\"16\" y=\"46\" width=\"140\" height=\"62\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"86\" y=\"71\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">Thèse</text><text x=\"86\" y=\"91\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">idée directrice</text><line x1=\"156\" y1=\"77\" x2=\"174\" y2=\"77\" stroke=\"var(--ac)\" stroke-width=\"2\"/><rect x=\"176\" y=\"46\" width=\"140\" height=\"62\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"246\" y=\"71\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">Arguments</text><text x=\"246\" y=\"91\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">« parce que… »</text><line x1=\"316\" y1=\"77\" x2=\"334\" y2=\"77\" stroke=\"var(--ac)\" stroke-width=\"2\"/><rect x=\"336\" y=\"46\" width=\"140\" height=\"62\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"406\" y=\"71\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">Exemples</text><text x=\"406\" y=\"91\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">« par exemple… »</text><line x1=\"476\" y1=\"77\" x2=\"494\" y2=\"77\" stroke=\"var(--ac)\" stroke-width=\"2\"/><rect x=\"496\" y=\"46\" width=\"148\" height=\"62\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/><text x=\"570\" y=\"71\" text-anchor=\"middle\" fill=\"var(--warn)\" font-size=\"12\" font-weight=\"bold\">Registres</text><text x=\"570\" y=\"91\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">effet sur le lecteur</text><text x=\"16\" y=\"138\" fill=\"var(--fg)\" font-size=\"11\">Les connecteurs relient les maillons ; les modalisateurs révèlent l’attitude de l’auteur.</text><text x=\"16\" y=\"162\" fill=\"var(--dim)\" font-size=\"10\">Méthode : repérer → nommer le procédé → citer → expliquer l’effet produit.</text></svg>"
+        },
+        {
+          "titre": "2 · Le plan du commentaire en trois temps",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Plan du commentaire\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Le commentaire structuré en trois temps</text><rect x=\"16\" y=\"44\" width=\"180\" height=\"76\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"106\" y=\"66\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">Introduction</text><text x=\"106\" y=\"86\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">amorce + contexte</text><text x=\"106\" y=\"104\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">problématique + plan</text><line x1=\"196\" y1=\"82\" x2=\"214\" y2=\"82\" stroke=\"var(--ac)\" stroke-width=\"2\"/><rect x=\"216\" y=\"44\" width=\"228\" height=\"76\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"330\" y=\"66\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">Développement : 2 ou 3 axes</text><text x=\"330\" y=\"86\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">affirmation + citation courte</text><text x=\"330\" y=\"104\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">+ analyse de l’effet</text><line x1=\"444\" y1=\"82\" x2=\"462\" y2=\"82\" stroke=\"var(--ac)\" stroke-width=\"2\"/><rect x=\"464\" y=\"44\" width=\"180\" height=\"76\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"554\" y=\"66\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">Conclusion</text><text x=\"554\" y=\"86\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">bilan de la démonstration</text><text x=\"554\" y=\"104\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">+ ouverture</text><text x=\"16\" y=\"146\" fill=\"var(--fg)\" font-size=\"11\">Un axe = une idée + une citation + une analyse. Aucune citation sans commentaire.</text><text x=\"16\" y=\"168\" fill=\"var(--dim)\" font-size=\"10\">Les transitions assurent la progression ; les axes doivent rester équilibrés.</text></svg>"
+        },
+        {
+          "titre": "3 · Vocabulaire de l’analyse",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Vocabulaire de l analyse de texte\"><text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Six mots à maîtriser</text><rect x=\"16\" y=\"32\" width=\"140\" height=\"24\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"86\" y=\"49\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Terme</text><rect x=\"156\" y=\"32\" width=\"488\" height=\"24\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"400\" y=\"49\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Ce qu’on cherche dans le texte</text><g font-size=\"10\" fill=\"var(--fg)\"><rect x=\"16\" y=\"58\" width=\"140\" height=\"20\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"24\" y=\"72\">Thèse</text><text x=\"164\" y=\"72\">idée directrice défendue par l’auteur</text><rect x=\"16\" y=\"80\" width=\"140\" height=\"20\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"24\" y=\"94\">Argument</text><text x=\"164\" y=\"94\">raison qui justifie la thèse (« parce que »)</text><rect x=\"16\" y=\"102\" width=\"140\" height=\"20\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"24\" y=\"116\">Exemple</text><text x=\"164\" y=\"116\">illustration concrète (« par exemple »)</text><rect x=\"16\" y=\"124\" width=\"140\" height=\"20\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"24\" y=\"138\">Registre</text><text x=\"164\" y=\"138\">ton dominant et effet recherché (logos, pathos)</text><rect x=\"16\" y=\"146\" width=\"140\" height=\"20\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"24\" y=\"160\">Connotation</text><text x=\"164\" y=\"160\">sens associé d’un mot, au-delà du sens littéral</text><rect x=\"16\" y=\"168\" width=\"140\" height=\"20\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"24\" y=\"182\">Modalisation</text><text x=\"164\" y=\"182\">degré de certitude : « sans doute », « il faut »</text></g></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Culture générale et expression",
+      "titre": "Expression orale professionnelle et soutenance",
+      "source": "Arrêté du 12 mars 2024 modifié par l’arrêté du 24 juin 2025 (BTS BIOALC, U1 — expression orale et soutenance, RNCP38884) · Référentiel de culture générale et expression · Grille d’évaluation de l’épreuve orale · Bonnes pratiques de communication scientifique.",
+      "points": [
+        "L’oral professionnel (soutenance, compte-rendu, présentation de résultats) est évalué sur cinq critères : clarté et structure du propos, maîtrise du sujet, qualité de la voix, regard et posture, capacité à répondre aux questions du jury.",
+        "Structure recommandée : accroche (une phrase qui capte l’attention), annonce du plan (2 à 3 parties), développement, bilan, ouverture. Le plan est TOUJOURS annoncé au début : le jury doit savoir où il va.",
+        "Règle des 6/6 pour le diaporama : au maximum 6 lignes par diapo et 6 mots par ligne ; une seule idée par diapo ; police d’au moins 24 points ; contraste élevé ; pas de paragraphe dense.",
+        "Le diaporama est un appui visuel, pas un script : on regarde l’auditoire et non l’écran, on ne lit pas les diapos mot pour mot, et on distribue éventuellement un support papier plutôt que de le projeté intégralement.",
+        "Voix : débit de 120 à 140 mots par minute, articulation nette, volume suffisant pour la salle, pauses marquées après les idées importantes et intonation qui hiérarchise l’information.",
+        "Supprimer les tics de langage (« euh », « en fait », « genre », « bon ») : une pause silencieuse d’une seconde est préférable à un remplissage et donne le temps au jury d’assimiler.",
+        "Regard : balayer l’assemblée de gauche à droite, regarder chaque membre du jury 2 à 3 secondes ; posture droite, épaules ouvertes, mains visibles et gestes d’accompagnement sobres, sans agitation.",
+        "Gestion du stress : respiration lente (inspiration 4 s, expiration 6 s) avant d’entrer, répétition à voix haute avec chronométrage, et mémorisation des trois premières phrases — les plus stressantes — pour démarrer sans hésiter.",
+        "Questions du jury : écouter jusqu’au bout, reformuler la question (« Si je comprends bien, vous souhaitez connaître… »), répondre en une phrase courte, puis argumenter et illustrer ; compter 1 à 2 minutes par réponse.",
+        "Si l’on ne sait pas, le dire honnêtement (« Je ne dispose pas de cette donnée, mais je vérifierais dans le registre de calibration ») et proposer une piste vérifiable plutôt que d’improviser une affirmation inexacte.",
+        "Compte-rendu oral de laboratoire : contexte et objectif → matériel et méthode (protocole, norme, appareil) → résultats (chiffres, graphique) → interprétation → limites et amélioration → conclusion.",
+        "Rigueur terminologique : employer les termes exacts (justesse, fidélité, incertitude, limite de détection), citer la norme appliquée, annoncer les unités et distinguer clairement le fait constaté de son interprétation."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel débit de parole est conseillé pour une soutenance ?",
+          "options": [
+            "60 à 80 mots/min",
+            "120 à 140 mots/min",
+            "200 à 220 mots/min",
+            "Le plus rapide possible"
+          ],
+          "correct": 1,
+          "correction": "120 à 140 mots/min reste compréhensible et naturel : plus lent on perd l’attention, plus rapide on perd la clarté."
+        },
+        {
+          "type": "qcm",
+          "q": "Que recommande la règle des 6/6 pour une diapo ?",
+          "options": [
+            "6 diapos maximum au total",
+            "6 lignes et 6 mots par ligne au maximum",
+            "6 couleurs différentes",
+            "6 minutes par diapo"
+          ],
+          "correct": 1,
+          "correction": "Une diapo lisible tient en 6 lignes de 6 mots au plus : une seule idée, une police d’au moins 24 pt et un fort contraste."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le rôle principal du diaporama ?",
+          "options": [
+            "Remplacer totalement la parole",
+            "Servir d’appui visuel, pas de script à lire",
+            "Afficher le texte intégral de la soutenance",
+            "Cacher le stress du candidat"
+          ],
+          "correct": 1,
+          "correction": "On regarde l’auditoire, on commente la diapo en une phrase ; le support visuel ne doit jamais être lu mot pour mot."
+        },
+        {
+          "type": "qcm",
+          "q": "Face à une question du jury, que faire en premier ?",
+          "options": [
+            "Répondre immédiatement sans écouter",
+            "Écouter puis reformuler la question",
+            "Consulter ses notes longuement",
+            "Demander à changer de question"
+          ],
+          "correct": 1,
+          "correction": "Écouter jusqu’au bout puis reformuler évite les hors-sujet et montre au jury que la question a été comprise."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment gérer le regard pendant une soutenance ?",
+          "options": [
+            "Regarder uniquement ses diapos",
+            "Fixer un seul membre du jury",
+            "Balayer l’assemblée et regarder chaque membre 2-3 s",
+            "Regarder le sol"
+          ],
+          "correct": 2,
+          "correction": "Le balayage régulier et un contact visuel bref avec chaque membre du jury créent une présence et répartissent l’attention."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle technique de respiration aide avant de parler ?",
+          "options": [
+            "Inspiration 4 s, expiration 6 s",
+            "Respiration rapide 1 s / 1 s",
+            "Bloquer sa respiration",
+            "Souffler bruyamment"
+          ],
+          "correct": 0,
+          "correction": "Une expiration plus longue que l’inspiration active le système parasympathique et fait baisser le rythme cardiaque."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel ordre suit un compte-rendu oral de laboratoire ?",
+          "options": [
+            "Résultats → conclusion → méthode",
+            "Contexte → méthode → résultats → interprétation → conclusion",
+            "Conclusion → résultats → objectif",
+            "Méthode → blague → résultats"
+          ],
+          "correct": 1,
+          "correction": "L’ordre logique est : objectif, méthode et norme, résultats chiffrés, interprétation, limites puis conclusion."
+        },
+        {
+          "type": "qcm",
+          "q": "Que faire si l’on ignore la réponse à une question technique ?",
+          "options": [
+            "Improviser une valeur plausible",
+            "Rester silencieux sans rien dire",
+            "Le dire et proposer une piste de vérification",
+            "Changer de sujet"
+          ],
+          "correct": 2,
+          "correction": "L’honnêteté et une piste méthodologique (« je vérifierais dans le registre… ») sont mieux valorisées qu’une affirmation inventée."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi annoncer son plan dès l’introduction d’une soutenance ?",
+          "reponse": "Annoncer le plan (2 ou 3 parties) donne au jury une carte de lecture : il sait ce qui va être dit et dans quel ordre. Cela permet de suivre le raisonnement, de repérer les transitions et de formuler des questions plus précises à la fin. C’est aussi un repère pour l’orateur, qui évite d’oublier une partie ou de répéter la même idée.",
+          "correction": "Une annonce de plan claire est un critère explicite de la grille d’évaluation : « propos structuré et cohérent ». Elle ne doit pas être confuse ni trop longue (une phrase suffit)."
+        },
+        {
+          "type": "texte",
+          "q": "Comment répondre en trois temps à une question technique du jury ?",
+          "reponse": "1) Reformuler brièvement la question pour confirmer la compréhension. 2) Donner une réponse courte et directe en une phrase (« La limite de détection est de 0,05 mg/L »). 3) Justifier en une ou deux phrases par un argument et un exemple issu du protocole ou de la norme appliquée, en restant dans le temps imparti (1 à 2 minutes).",
+          "correction": "La structure « réponse courte → argument → exemple » est la plus efficace : elle va à l’essentiel et démontre la maîtrise du sujet sans noyer le jury dans des détails."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L’idée en une phrase",
+          "texte": "À l’oral, la forme est le fond : un propos clair, une voix assurée et un regard présent valent autant que la justesse technique des résultats présentés."
+        },
+        {
+          "type": "formule",
+          "titre": "La recette d’une bonne prise de parole",
+          "eq": "Accroche + plan annoncé + 2-3 axes + bilan + ouverture = soutenance claire",
+          "leg": "Voix 120-140 mots/min · pauses · diapo 6/6 · regard balayé · réponses 1-2 min"
+        },
+        {
+          "type": "grille",
+          "titre": "Les 5 critères du jury",
+          "items": [
+            [
+              "Structure",
+              "Plan annoncé, axes équilibrés, transitions",
+              "« Je vous proposerai deux parties… »"
+            ],
+            [
+              "Voix",
+              "Débit, articulation, volume, pauses",
+              "120-140 mots/min"
+            ],
+            [
+              "Regard / posture",
+              "Balayage, contact visuel, gestes sobres",
+              "2-3 s par membre du jury"
+            ],
+            [
+              "Diaporama",
+              "6/6, une idée par diapo, ≥ 24 pt",
+              "pas de lecture mot pour mot"
+            ],
+            [
+              "Questions",
+              "Écoute, reformulation, réponse argumentée",
+              "1-2 min par réponse"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Avant d’entrer dans la salle",
+          "items": [
+            "Répéter à voix haute au moins trois fois et se chronométrer",
+            "Mémoriser les trois premières phrases (les plus stressantes)",
+            "Respirer lentement : inspiration 4 s, expiration 6 s",
+            "Vérifier le diaporama (police, contraste, numérotation) sur l’ordinateur de la salle",
+            "Préparer une phrase de transition pour chaque changement de partie"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Répondre à une question du jury en 4 temps",
+          "items": [
+            "Écouter la question jusqu’au bout sans interrompre",
+            "Reformuler : « Si je comprends bien, vous me demandez… »",
+            "Répondre en une phrase courte, puis argumenter et illustrer (1 à 2 min)",
+            "Vérifier la compréhension : « Est-ce que cela répond à votre question ? »"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges à éviter",
+          "items": [
+            "Lire ses diapos ou ses notes mot pour mot : le jury note le manque de contact",
+            "Dépasser le temps imparti : une réponse trop longue perd des points",
+            "Remplir les silences avec « euh » : préférez une pause d’une seconde",
+            "Improviser une donnée chiffrée que l’on ne connaît pas : dites-le franchement",
+            "Oublier d’annoncer le plan ou de faire la transition entre deux parties"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Formulations prêtes à l’emploi",
+          "items": [
+            "<span class=\"cle\">Accroche</span> : « Une erreur de 0,1 mg/L peut remettre en cause tout un lot : c’est ce que nous allons voir. »",
+            "<span class=\"cle\">Annonce</span> : « Je présenterai d’abord le protocole, puis les résultats, puis leur interprétation. »",
+            "<span class=\"cle\">Transition</span> : « Passons maintenant à l’interprétation de ces valeurs. »",
+            "<span class=\"cle\">Honnêteté</span> : « Je ne dispose pas de cette valeur ici, mais je la vérifierais dans le registre de calibration. »"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Structure d’une soutenance",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Structure d une soutenance\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Les temps d’une soutenance</text><rect x=\"16\" y=\"46\" width=\"118\" height=\"64\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"75\" y=\"70\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Accroche</text><text x=\"75\" y=\"90\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">~ 10 s</text><line x1=\"134\" y1=\"78\" x2=\"146\" y2=\"78\" stroke=\"var(--ac)\" stroke-width=\"2\"/><rect x=\"148\" y=\"46\" width=\"118\" height=\"64\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"207\" y=\"70\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Plan annoncé</text><text x=\"207\" y=\"90\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">~ 15 s</text><line x1=\"266\" y1=\"78\" x2=\"278\" y2=\"78\" stroke=\"var(--ac)\" stroke-width=\"2\"/><rect x=\"280\" y=\"46\" width=\"184\" height=\"64\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"372\" y=\"70\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">Développement</text><text x=\"372\" y=\"90\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">2-3 axes · ~ 70 % du temps</text><line x1=\"464\" y1=\"78\" x2=\"476\" y2=\"78\" stroke=\"var(--ac)\" stroke-width=\"2\"/><rect x=\"478\" y=\"46\" width=\"166\" height=\"64\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/><text x=\"561\" y=\"70\" text-anchor=\"middle\" fill=\"var(--warn)\" font-size=\"11\" font-weight=\"bold\">Bilan + ouverture</text><text x=\"561\" y=\"90\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">~ 10 % du temps</text><text x=\"16\" y=\"140\" fill=\"var(--fg)\" font-size=\"11\">Chaque axe = une idée, un exemple chiffré, une transition vers le suivant.</text><text x=\"16\" y=\"164\" fill=\"var(--dim)\" font-size=\"10\">On ne lit jamais ses diapos : on regarde le jury et on commente l’essentiel.</text></svg>"
+        },
+        {
+          "titre": "2 · Une diapo lisible (règle 6/6)",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Regles de lisibilite d une diapo\"><text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">La diapo en 6/6</text><rect x=\"16\" y=\"34\" width=\"404\" height=\"146\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"36\" y=\"62\" fill=\"var(--ac)\" font-size=\"15\" font-weight=\"bold\">Résultats du dosage</text><line x1=\"36\" y1=\"72\" x2=\"400\" y2=\"72\" stroke=\"var(--ac)\" stroke-width=\"2\"/><g font-size=\"12\" fill=\"var(--fg)\"><text x=\"36\" y=\"96\">• Moyenne : 10,05 mg/L</text><text x=\"36\" y=\"122\">• Répétabilité : CV 1,6 %</text><text x=\"36\" y=\"148\">• Conformité : oui</text></g><rect x=\"436\" y=\"34\" width=\"208\" height=\"146\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/><text x=\"452\" y=\"60\" fill=\"var(--warn)\" font-size=\"12\" font-weight=\"bold\">À respecter</text><g font-size=\"11\" fill=\"var(--fg)\"><text x=\"452\" y=\"86\">≤ 6 lignes par diapo</text><text x=\"452\" y=\"110\">≤ 6 mots par ligne</text><text x=\"452\" y=\"134\">police ≥ 24 pt</text><text x=\"452\" y=\"158\">1 seule idée / diapo</text></g></svg>"
+        },
+        {
+          "titre": "3 · Répondre au jury en quatre temps",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Repondre au jury en quatre temps\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Répondre au jury en 4 temps</text><rect x=\"16\" y=\"48\" width=\"146\" height=\"64\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"89\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">1. Écouter</text><text x=\"89\" y=\"92\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">sans interrompre</text><line x1=\"162\" y1=\"80\" x2=\"176\" y2=\"80\" stroke=\"var(--ac)\" stroke-width=\"2\"/><rect x=\"178\" y=\"48\" width=\"146\" height=\"64\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"251\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">2. Reformuler</text><text x=\"251\" y=\"92\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">« si je comprends bien… »</text><line x1=\"324\" y1=\"80\" x2=\"338\" y2=\"80\" stroke=\"var(--ac)\" stroke-width=\"2\"/><rect x=\"340\" y=\"48\" width=\"146\" height=\"64\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"413\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">3. Répondre</text><text x=\"413\" y=\"92\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">court + argument + exemple</text><line x1=\"486\" y1=\"80\" x2=\"500\" y2=\"80\" stroke=\"var(--ac)\" stroke-width=\"2\"/><rect x=\"502\" y=\"48\" width=\"142\" height=\"64\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/><text x=\"573\" y=\"72\" text-anchor=\"middle\" fill=\"var(--warn)\" font-size=\"12\" font-weight=\"bold\">4. Vérifier</text><text x=\"573\" y=\"92\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">« cela répond-il ? »</text><text x=\"16\" y=\"144\" fill=\"var(--fg)\" font-size=\"11\">Réponse courte en premier, justification ensuite ; 1 à 2 minutes par question.</text><text x=\"16\" y=\"168\" fill=\"var(--dim)\" font-size=\"10\">Si l’information manque : le dire et proposer une piste de vérification.</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Anglais",
+      "titre": "Expression écrite professionnelle en anglais : e-mails et comptes-rendus",
+      "source": "Arrêté du 12 mars 2024 modifié par l’arrêté du 24 juin 2025 (BTS BIOALC, U2 — anglais professionnel, RNCP38884) · Référentiel d’anglais BTS, niveau B1/B2 du CECRL · ISO/IEC 17025:2017 et ISO 5725 (vocabulary: accuracy, precision, trueness) · Guides Eurachem de rédaction scientifique.",
+      "points": [
+        "Un e-mail professionnel en anglais comprend six parties : un objet précis, une salutation adaptée, une phrase d’ouverture qui énonce le but, un corps structuré, une formule de clôture et une signature.",
+        "L’objet (subject line) doit être informatif : « Results of batch A24 — HPLC assay » ; éviter « Hello », « Question » ou un objet vide, qui font perdre le message dans la boîte de réception.",
+        "Salutation : « Dear Dr Smith, » (nom connu, registre formel), « Dear Sir or Madam, » (destinataire inconnu), « Hi Anna, » (collègue, registre neutre) ; toujours suivie d’une virgule.",
+        "Phrase d’ouverture : « I am writing to… », « I would like to… », « Please find attached… », « Could you please… » : le destinataire doit connaître le but du message dès la première ligne.",
+        "Corps : paragraphes courts, une seule idée par paragraphe, phrases concises ; préférer la voix active (« We measured the absorbance ») à une tournure passive lourde, sauf quand l’action importe plus que l’acteur.",
+        "Politesse : « Could you please send me… », « Would you mind…? », « I would appreciate it if you could… », « Thank you for your prompt reply » ; clôture « Kind regards / Best regards / Yours sincerely » (nom connu) ou « Yours faithfully » (Sir or Madam).",
+        "Accuracy vs precision : accuracy = conformité à la valeur vraie (justesse / exactitude) ; precision = accord entre mesures répétées (fidélité) ; trueness = justesse, absence de biais systématique. Ne pas traduire « precision » par le français ambigu « précision » sans préciser.",
+        "Vocabulaire technique clé : assay (dosage), batch / lot (lot), sample (échantillon), reference material (matériau de référence), repeatability (répétabilité), reproducibility (reproductibilité), uncertainty (incertitude), LOD / LOQ, calibration (étalonnage), compliance (conformité).",
+        "Un compte-rendu en anglais suit le plan IMRaD : Introduction, Materials and Methods, Results, Discussion, Conclusion ; le « lab report » simplifié utilise Aim, Procedure, Observations, Calculations, Results, Conclusion.",
+        "Les résultats et la méthode se racontent au prétérit souvent au passif (« The absorbance was measured at 540 nm ») ; l’interprétation s’écrit au présent (« These results indicate that… ») ; éviter « I think » et écrire « The data suggest… ».",
+        "Chiffres et unités : la virgule décimale anglaise est un point (0.25 et non 0,25) ; un espace sépare le nombre de l’unité (25 mL) ; le symbole % s’écrit tel quel ; les unités ISO restent inchangées (mg/L, °C, µg/mL).",
+        "Exemple corrigé : « I am writing to report the results of the glucose assay (batch A24). The measured concentration was 0.25 g/L, with a repeatability CV of 1.8 %. Please find the full report attached. Could you please confirm the specification limit? »"
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel objet d’e-mail est le plus professionnel ?",
+          "options": [
+            "Hello",
+            "Results of batch A24 — HPLC assay",
+            "Question",
+            "Urgent!!!"
+          ],
+          "correct": 1,
+          "correction": "Un bon objet indique le contenu et la référence du lot : il permet de retrouver le message et de le classer."
+        },
+        {
+          "type": "qcm",
+          "q": "Quand utilise-t-on « Dear Sir or Madam, » ?",
+          "options": [
+            "Quand on connaît le nom du destinataire",
+            "Quand le destinataire est inconnu",
+            "Entre collègues proches",
+            "Pour un message interne court"
+          ],
+          "correct": 1,
+          "correction": "« Dear Sir or Madam, » s’emploie lorsque le nom du destinataire est inconnu ; il s’accompagne de « Yours faithfully, »."
+        },
+        {
+          "type": "qcm",
+          "q": "Dans un rapport de laboratoire, « accuracy » signifie…",
+          "options": [
+            "La répétabilité",
+            "La conformité à la valeur vraie (justesse)",
+            "L’incertitude",
+            "La limite de détection"
+          ],
+          "correct": 1,
+          "correction": "Accuracy = justesse / exactitude par rapport à la valeur de référence ; precision = fidélité entre mesures répétées."
+        },
+        {
+          "type": "qcm",
+          "q": "« Precision » désigne…",
+          "options": [
+            "L’accord entre mesures indépendantes répétées",
+            "Le biais par rapport à la valeur vraie",
+            "Le nombre de décimales affichées",
+            "La concentration moyenne"
+          ],
+          "correct": 0,
+          "correction": "Precision est la fidélité : plus les résultats répétés sont proches les uns des autres, plus la précision (au sens ISO) est bonne."
+        },
+        {
+          "type": "qcm",
+          "q": "À quoi sert « Please find attached… » ?",
+          "options": [
+            "À demander une réponse rapide",
+            "À annoncer une pièce jointe",
+            "À se excuser",
+            "À conclure le message"
+          ],
+          "correct": 1,
+          "correction": "C’est la formule standard pour signaler une pièce jointe : « Please find attached the report. »"
+        },
+        {
+          "type": "qcm",
+          "q": "Comment traduit-on « un lot de réactifs » ?",
+          "options": [
+            "A sample of reagents",
+            "A batch / lot of reagents",
+            "A calibration of reagents",
+            "A result of reagents"
+          ],
+          "correct": 1,
+          "correction": "Batch ou lot désigne un lot de fabrication ; sample désigne un échantillon prélevé pour analyse."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel temps emploie-t-on pour décrire les résultats mesurés ?",
+          "options": [
+            "Le présent simple",
+            "Le prétérit (souvent au passif)",
+            "Le futur",
+            "L’impératif"
+          ],
+          "correct": 1,
+          "correction": "Method and results : « The absorbance was measured at 540 nm » ; l’interprétation, elle, se met au présent (« These results show… »)."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment écrit-on 0,25 g/L en anglais ?",
+          "options": [
+            "0,25 g/L",
+            "0.25 g/L",
+            "0 25 g/L",
+            "25.0 g/L"
+          ],
+          "correct": 1,
+          "correction": "En anglais, le séparateur décimal est le point : 0.25 g/L ; l’espace reste entre la valeur et l’unité."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi faut-il distinguer « accuracy » et « precision » dans un e-mail de laboratoire ?",
+          "reponse": "Parce que ces deux mots décrivent deux propriétés différentes d’un résultat : « accuracy » (justesse) indique si la valeur est proche de la valeur de référence, tandis que « precision » (fidélité) indique si les répétitions sont cohérentes entre elles. Un résultat peut être très « precise » mais inexact (biais systématique). Les normes ISO 17025 et ISO 5725 utilisent ces termes avec un sens technique précis : les confondre conduit à une interprétation erronée de la qualité d’une méthode.",
+          "correction": "Une réponse complète cite la norme, donne la définition des deux termes et illustre par un cas : « repeatability CV = 1.6 % » relève de la precision, « recovery = 99 % » relève de l’accuracy."
+        },
+        {
+          "type": "texte",
+          "q": "Corrigez la phrase suivante : « Hi, I think the dosage was 0,25g/L, give me the limit. »",
+          "reponse": "Version corrigée : « Dear Dr Smith, The measured concentration was 0.25 g/L. Could you please confirm the specification limit? Kind regards, [Name] ». On remplace « Hi » par une salutation formelle, « I think » par une formulation factuelle, la virgule décimale par un point, on ajoute un espace avant l’unité et on transforme l’ordre (« give me ») en demande polie avec « Could you please… ».",
+          "correction": "Les points clés sont : registre formel, fait et non opinion, séparateur décimal anglais, espace avant l’unité et formule de politesse avec point d’interrogation."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L’idée en une phrase",
+          "texte": "En anglais de laboratoire, la clarté prime : un objet explicite, une demande polie, des chiffres au format anglais et une terminologie ISO exacte font la différence entre un e-mail professionnel et un brouillon."
+        },
+        {
+          "type": "formule",
+          "titre": "La structure d’un e-mail professionnel",
+          "eq": "Subject + Salutation + Purpose + Body + Closing + Signature",
+          "leg": "Purpose = « I am writing to… » · Closing = « Kind regards, » / « Yours faithfully, »"
+        },
+        {
+          "type": "grille",
+          "titre": "Vocabulaire clé FR → EN",
+          "items": [
+            [
+              "dosage",
+              "assay",
+              "« the glucose assay »"
+            ],
+            [
+              "échantillon / lot",
+              "sample / batch (lot)",
+              "« batch A24 »"
+            ],
+            [
+              "étalonnage",
+              "calibration",
+              "« calibration curve »"
+            ],
+            [
+              "fidélité / justesse",
+              "precision / accuracy (trueness)",
+              "ISO 5725 vocabulary"
+            ],
+            [
+              "incertitude",
+              "measurement uncertainty",
+              "ISO/IEC 17025 §7.6"
+            ],
+            [
+              "conformité",
+              "compliance",
+              "« compliant with the specification »"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Formules de politesse utiles",
+          "items": [
+            "I am writing to report / to request / to confirm…",
+            "Could you please send me the updated report by Friday?",
+            "I would appreciate it if you could clarify this point.",
+            "Please find attached the results of batch A24.",
+            "Thank you for your prompt reply. — Kind regards, / Best regards,"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Écrire un e-mail en 6 étapes",
+          "items": [
+            "Rédiger l’objet : mentionner le lot, l’analyse et l’action attendue",
+            "Choisir la salutation selon la relation avec le destinataire",
+            "Énoncer le but dès la première phrase (I am writing to…)",
+            "Développer en paragraphes courts, une idée chacun",
+            "Ajouter une demande polie et une formule de clôture adaptée",
+            "Relire : accord, temps, virgule décimale, unités et pièce jointe"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges à éviter",
+          "items": [
+            "0,25 au lieu de 0.25 : le séparateur décimal anglais est le point",
+            "« I think » pour un résultat mesuré : écrire « The result was… »",
+            "Confondre accuracy (justesse) et precision (fidélité)",
+            "Faux amis : « actually » = en fait (pas « actuellement »), « eventually » = finalement, « sensible » = raisonnable",
+            "Oublier de nommer la pièce jointe dans le message et d’annoncer l’action attendue"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples corrigés",
+          "items": [
+            "<span class=\"cle\">Objet</span> : « Results of batch A24 — HPLC assay »",
+            "<span class=\"cle\">Ouverture</span> : « I am writing to report the results of the glucose assay. »",
+            "<span class=\"cle\">Résultat</span> : « The measured concentration was 0.25 g/L (CV = 1.8 %) »",
+            "<span class=\"cle\">Clôture</span> : « Could you please confirm the specification limit? Kind regards, »"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Anatomie d’un e-mail professionnel",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Anatomie d un email professionnel\"><text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Les 6 parties d’un e-mail professionnel</text><rect x=\"16\" y=\"32\" width=\"628\" height=\"24\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"24\" y=\"49\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Subject : Results of batch A24 — HPLC assay</text><rect x=\"16\" y=\"60\" width=\"628\" height=\"22\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"24\" y=\"76\" fill=\"var(--fg)\" font-size=\"10\">Salutation : Dear Dr Smith, / Dear Sir or Madam, / Hi Anna,</text><rect x=\"16\" y=\"86\" width=\"628\" height=\"22\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"24\" y=\"102\" fill=\"var(--fg)\" font-size=\"10\">Purpose : I am writing to report the results of batch A24.</text><rect x=\"16\" y=\"112\" width=\"628\" height=\"22\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"24\" y=\"128\" fill=\"var(--fg)\" font-size=\"10\">Body : concentration 0.25 g/L · repeatability CV 1.8 % · report attached</text><rect x=\"16\" y=\"138\" width=\"628\" height=\"22\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"24\" y=\"154\" fill=\"var(--fg)\" font-size=\"10\">Closing : Could you please confirm the limit? Kind regards,</text><rect x=\"16\" y=\"164\" width=\"628\" height=\"22\" fill=\"var(--warn)\" opacity=\"0.16\"/><text x=\"24\" y=\"180\" fill=\"var(--warn)\" font-size=\"10\">Signature : prénom, nom, fonction, laboratoire, coordonnées</text></svg>"
+        },
+        {
+          "titre": "2 · IMRaD : la structure d’un compte-rendu",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Structure IMRaD d un compte rendu\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Le plan IMRaD d’un compte-rendu</text><rect x=\"16\" y=\"48\" width=\"118\" height=\"68\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"75\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Introduction</text><text x=\"75\" y=\"92\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">objectif, contexte</text><line x1=\"134\" y1=\"82\" x2=\"144\" y2=\"82\" stroke=\"var(--ac)\" stroke-width=\"2\"/><rect x=\"146\" y=\"48\" width=\"130\" height=\"68\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"211\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Materials &amp; Methods</text><text x=\"211\" y=\"92\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">protocole, norme</text><line x1=\"276\" y1=\"82\" x2=\"286\" y2=\"82\" stroke=\"var(--ac)\" stroke-width=\"2\"/><rect x=\"288\" y=\"48\" width=\"100\" height=\"68\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"338\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Results</text><text x=\"338\" y=\"92\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">chiffres, tableaux</text><line x1=\"388\" y1=\"82\" x2=\"398\" y2=\"82\" stroke=\"var(--ac)\" stroke-width=\"2\"/><rect x=\"400\" y=\"48\" width=\"110\" height=\"68\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"455\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Discussion</text><text x=\"455\" y=\"92\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">interprétation</text><line x1=\"510\" y1=\"82\" x2=\"520\" y2=\"82\" stroke=\"var(--ac)\" stroke-width=\"2\"/><rect x=\"522\" y=\"48\" width=\"122\" height=\"68\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/><text x=\"583\" y=\"72\" text-anchor=\"middle\" fill=\"var(--warn)\" font-size=\"11\" font-weight=\"bold\">Conclusion</text><text x=\"583\" y=\"92\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">bilan, limites</text><text x=\"16\" y=\"148\" fill=\"var(--fg)\" font-size=\"11\">Méthode et résultats : prétérit / passif. Interprétation : présent (« the data suggest… »).</text><text x=\"16\" y=\"172\" fill=\"var(--dim)\" font-size=\"10\">Chaque tableau et figure porte un titre en anglais : « Table 1. Results of… ».</text></svg>"
+        },
+        {
+          "titre": "3 · Accuracy et precision : deux qualités distinctes",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Difference entre accuracy et precision\"><text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Accuracy ≠ Precision</text><rect x=\"16\" y=\"38\" width=\"306\" height=\"142\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"169\" y=\"62\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">Accuracy = justesse</text><circle cx=\"169\" cy=\"110\" r=\"34\" fill=\"none\" stroke=\"var(--dim)\"/><circle cx=\"169\" cy=\"110\" r=\"3\" fill=\"var(--warn)\"/><g fill=\"var(--ac)\"><circle cx=\"165\" cy=\"106\" r=\"3\"/><circle cx=\"171\" cy=\"113\" r=\"3\"/><circle cx=\"168\" cy=\"109\" r=\"3\"/></g><text x=\"169\" y=\"166\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">proche de la valeur vraie (cible)</text><rect x=\"338\" y=\"38\" width=\"306\" height=\"142\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/><text x=\"491\" y=\"62\" text-anchor=\"middle\" fill=\"var(--warn)\" font-size=\"12\" font-weight=\"bold\">Precision = fidélité</text><circle cx=\"491\" cy=\"110\" r=\"34\" fill=\"none\" stroke=\"var(--dim)\"/><circle cx=\"491\" cy=\"110\" r=\"3\" fill=\"var(--warn)\"/><g fill=\"var(--ac)\"><circle cx=\"515\" cy=\"88\" r=\"3\"/><circle cx=\"518\" cy=\"91\" r=\"3\"/><circle cx=\"516\" cy=\"89\" r=\"3\"/></g><text x=\"491\" y=\"166\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">messages serrés, mais biaisés</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Anglais",
+      "titre": "Rédaction de rapports et communication avec des partenaires internationaux",
+      "source": "Arrêté du 12 mars 2024 modifié par l’arrêté du 24 juin 2025 (BTS BIOALC, U2 — anglais et communication professionnelle, RNCP38884) · CECRL niveau B2 · ISO/IEC 17025:2017 (§7.5 documentation, §7.8 reporting of results) · ISO 5725 · Guides Eurachem / IUPAC de rédaction de rapports d’analyse.",
+      "points": [
+        "Un rapport d’analyse destiné à un partenaire international doit être structuré, concis et traçable : référence, titre, destinataire, date, objet, méthode, résultats, conclusion et signature.",
+        "Le plan IMRaD reste la référence : Introduction (contexte, objectif), Materials and Methods (matériel, réactifs, norme appliquée), Results (données brutes et traitées, tableaux), Discussion (interprétation, limites), Conclusion.",
+        "Le résumé (abstract) fait 150 à 250 mots et se lit de façon autonome : contexte, objectif, méthode, principaux résultats chiffrés, conclusion ; il n’inclut ni citation bibliographique ni tableau.",
+        "Citer la norme et sa version : « Analyses were performed in accordance with ISO 17025:2017 » ; l’année fait partie de la référence et doit être reportée exactement.",
+        "Terminologie ISO à maîtriser : conformity assessment (évaluation de la conformité), proficiency testing (essai d’aptitude), measurement uncertainty (incertitude de mesure), traceability (traçabilité), accredited laboratory (laboratoire accrédité), reference material (matériau de référence), repeatability limit r, reproducibility limit R.",
+        "Distinguer fait et interprétation : « The result was 4.8 mg/L » (fait) puis « This value exceeds the specification of 4.0 mg/L » (interprétation) ; employer « comply with », « exceed », « within the specified range ».",
+        "Tableaux et figures portent un titre et une légende en anglais : « Table 1. Results of the interlaboratory study » ; « Figure 2. Calibration curve for glucose » ; chaque colonne a son unité.",
+        "Courriels internationaux : objet explicite, une seule demande par message, délai de réponse précis (« by Friday 5 pm CET »), pièces jointes nommées de façon stable (« Report_A24_v2.pdf ») et annoncées dans le corps.",
+        "Réunions internationales : préparer un agenda, désigner un chairperson et un note-taker, puis diffuser les minutes (compte-rendu) avec décisions, action owners (responsables) et deadlines (échéances).",
+        "Expressions utiles : « Please find attached… », « Could you clarify…? », « I confirm receipt of… », « Following our meeting on… », « Action point: X to deliver Y by Z ».",
+        "Éviter les ambiguïtés : dates au format ISO 2025-06-24 plutôt que 06/24/2025 (lu 24 juin en Europe) ; unités SI ; acronymes définis à la première occurrence (CQI = internal quality control).",
+        "Exemple corrigé : « The measured concentration (4.8 mg/L) exceeds the specification limit (4.0 mg/L). The result is therefore non-compliant; an investigation has been initiated in accordance with our quality procedure. »"
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la longueur recommandée d’un abstract ?",
+          "options": [
+            "50 mots",
+            "150 à 250 mots",
+            "500 mots",
+            "1 page"
+          ],
+          "correct": 1,
+          "correction": "L’abstract tient en 150 à 250 mots : il donne le contexte, l’objectif, la méthode, les résultats et la conclusion de façon autonome."
+        },
+        {
+          "type": "qcm",
+          "q": "« In accordance with ISO 17025:2017 » signifie…",
+          "options": [
+            "Malgré la norme",
+            "Conformément à la norme",
+            "Sans rapport avec la norme",
+            "Avant la norme"
+          ],
+          "correct": 1,
+          "correction": "« In accordance with » = conformément à ; c’est la formule standard pour citer la norme appliquée, année incluse."
+        },
+        {
+          "type": "qcm",
+          "q": "« Proficiency testing » désigne…",
+          "options": [
+            "L’étalonnage",
+            "Les essais d’aptitude (comparaison interlaboratoires)",
+            "La maintenance",
+            "Le stock de réactifs"
+          ],
+          "correct": 1,
+          "correction": "Le proficiency testing est un essai d’aptitude : plusieurs laboratoires analysent le même échantillon et leurs résultats sont comparés."
+        },
+        {
+          "type": "qcm",
+          "q": "« Measurement uncertainty » se traduit par…",
+          "options": [
+            "La incertitude de mesure",
+            "L’incertitude de mesure",
+            "La mesure certaine",
+            "Le biais de mesure"
+          ],
+          "correct": 1,
+          "correction": "Measurement uncertainty = incertitude de mesure ; « uncertainty » est invariablement précédé de « measurement » dans le vocabulaire ISO."
+        },
+        {
+          "type": "qcm",
+          "q": "Dans des minutes de réunion, que trouve-t-on ?",
+          "options": [
+            "Uniquement la liste des participants",
+            "Les décisions, responsables et échéances",
+            "Les résultats d’analyses",
+            "Le budget du laboratoire"
+          ],
+          "correct": 1,
+          "correction": "Les minutes consignent les décisions prises, les action owners et les deadlines, en plus de l’agenda et des participants."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel format de date est non ambigu à l’international ?",
+          "options": [
+            "06/24/2025",
+            "24/06/2025",
+            "2025-06-24",
+            "June 24th"
+          ],
+          "correct": 2,
+          "correction": "Le format ISO 8601 « 2025-06-24 » (AAAA-MM-JJ) est compris partout sans ambiguïté."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment titrer correctement un tableau ?",
+          "options": [
+            "Table 1. Results of the interlaboratory study",
+            "tableau 1 resultats",
+            "The table number one",
+            "Tab.1 : study"
+          ],
+          "correct": 0,
+          "correction": "La légende anglaise est « Table 1. Results of the interlaboratory study » : mot-clé, numéro, point, description."
+        },
+        {
+          "type": "qcm",
+          "q": "« The result exceeds the specification limit » signifie que…",
+          "options": [
+            "Le résultat est conforme",
+            "Le résultat dépasse la limite spécifiée",
+            "Le résultat est exact",
+            "La limite a changé"
+          ],
+          "correct": 1,
+          "correction": "« Exceed » = dépasser ; le résultat est donc hors spécification et doit être signalé et investigué."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi définir un acronyme dès sa première occurrence dans un rapport ?",
+          "reponse": "Parce qu’un partenaire international ne connaît pas forcément les sigles internes du laboratoire : « CQI » peut être lu différemment selon les pays. Écrire « internal quality control (CQI) » puis utiliser « CQI » ensuite garantit une lecture correcte et évite les malentendus. C’est aussi une exigence de clarté des rapports selon l’ISO/IEC 17025 §7.8.",
+          "correction": "La bonne pratique est : nom complet, sigle entre parenthèses à la première occurrence, puis sigle seul ; vérifier que le sigle n’existe pas déjà avec un autre sens chez le destinataire."
+        },
+        {
+          "type": "texte",
+          "q": "Rédigez trois lignes de compte-rendu de réunion avec des action points.",
+          "reponse": "« Following our meeting on 2025-06-24, the participants agreed to update the analytical procedure. Action point: S. Martin (action owner) to deliver the revised SOP by 2025-07-02 (deadline). The next meeting is scheduled for 2025-07-10. » On y trouve la date ISO, une décision, un responsable nommé, une échéance et la suite prévue.",
+          "correction": "Un bon compte-rendu est daté, signé, distribué rapidement et structuré : décisions d’abord, actions avec responsable et échéance ensuite, puis date de la prochaine réunion."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L’idée en une phrase",
+          "texte": "Un rapport international ne doit jamais laisser deviner : on cite la norme avec son année, on date au format ISO, on définit les sigles et on sépare le résultat mesuré de son interprétation."
+        },
+        {
+          "type": "formule",
+          "titre": "La phrase de conformité",
+          "eq": "Fait : « The result was 4.8 mg/L » + Interprétation : « It exceeds the 4.0 mg/L specification »",
+          "leg": "Verbes utiles : comply with · exceed · be within the specified range · be non-compliant"
+        },
+        {
+          "type": "grille",
+          "titre": "Terminologie ISO / anglais",
+          "items": [
+            [
+              "essai d’aptitude",
+              "proficiency testing",
+              "interlaboratory comparison"
+            ],
+            [
+              "incertitude de mesure",
+              "measurement uncertainty",
+              "ISO/IEC 17025 §7.6"
+            ],
+            [
+              "traçabilité",
+              "traceability",
+              "to the reference material"
+            ],
+            [
+              "matériau de référence",
+              "reference material (CRM)",
+              "certified value + uncertainty"
+            ],
+            [
+              "évaluation de la conformité",
+              "conformity assessment",
+              "statement of conformity"
+            ],
+            [
+              "limite de répétabilité",
+              "repeatability limit r",
+              "ISO 5725"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Le kit du courriel international",
+          "items": [
+            "Subject: Q3 proficiency testing results — Lab 12",
+            "Following our meeting on 2025-06-24, …",
+            "Please find attached the final report (Report_A24_v2.pdf).",
+            "Could you please confirm the deadline by Friday 5 pm CET?",
+            "Action point: S. Martin to deliver the revised SOP by 2025-07-02."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Rédiger un rapport en 6 étapes",
+          "items": [
+            "Renseigner l’en-tête : référence, titre, destinataire, date, objet",
+            "Rédiger l’abstract (150-250 mots) en dernier, une fois le rapport fini",
+            "Introduction : contexte, objectif, normes citées avec leur année",
+            "Materials and Methods puis Results avec tableaux titrés et unités",
+            "Discussion : interprétation, limites, comparaison aux spécifications",
+            "Conclusion + signature ; relire dates ISO, sigles définis et unités"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges à éviter",
+          "items": [
+            "Dates ambiguës : 06/24/2025 n’est pas lu de la même façon de part et d’autre de l’Atlantique",
+            "Oublier l’année dans la référence d’une norme : ISO 17025:2017",
+            "Employer un sigle sans l’avoir défini (CQI, CQE, LOD, LOQ)",
+            "Confondre « compliant » (conforme) et « compliant with » suivi du mauvais référentiel",
+            "Rédiger un abstract avec des citations ou des tableaux : il doit être autonome"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemple corrigé (déclaration de conformité)",
+          "items": [
+            "<span class=\"cle\">Mesure</span> : « The measured concentration was 4.8 mg/L. »",
+            "<span class=\"cle\">Comparaison</span> : « It exceeds the specification limit of 4.0 mg/L. »",
+            "<span class=\"cle\">Décision</span> : « The result is therefore non-compliant. »",
+            "<span class=\"cle\">Action</span> : « An investigation has been initiated in accordance with our quality procedure. »"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Le rapport IMRaD en cinq blocs",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Rapport IMRaD en cinq blocs\"><text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">IMRaD : le squelette du rapport</text><rect x=\"16\" y=\"38\" width=\"628\" height=\"22\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"24\" y=\"54\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">En-tête : référence · titre · destinataire · date (AAAA-MM-JJ) · objet</text><rect x=\"16\" y=\"66\" width=\"122\" height=\"72\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"77\" y=\"90\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Introduction</text><text x=\"77\" y=\"110\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">contexte, objectif</text><rect x=\"146\" y=\"66\" width=\"122\" height=\"72\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"207\" y=\"90\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Materials &amp; Methods</text><text x=\"207\" y=\"110\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">norme, protocole</text><rect x=\"276\" y=\"66\" width=\"122\" height=\"72\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"337\" y=\"90\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Results</text><text x=\"337\" y=\"110\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">chiffres, tableaux</text><rect x=\"406\" y=\"66\" width=\"122\" height=\"72\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"467\" y=\"90\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Discussion</text><text x=\"467\" y=\"110\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">interprétation, limites</text><rect x=\"536\" y=\"66\" width=\"108\" height=\"72\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/><text x=\"590\" y=\"90\" text-anchor=\"middle\" fill=\"var(--warn)\" font-size=\"11\" font-weight=\"bold\">Conclusion</text><text x=\"590\" y=\"110\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">bilan + signature</text><text x=\"16\" y=\"160\" fill=\"var(--fg)\" font-size=\"11\">Abstract (150-250 mots) : contexte → objectif → méthode → résultats → conclusion.</text><text x=\"16\" y=\"184\" fill=\"var(--dim)\" font-size=\"10\">Citer la norme avec son année : « in accordance with ISO 17025:2017 ».</text></svg>"
+        },
+        {
+          "titre": "2 · Anatomie d’un abstract",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Anatomie d un abstract\"><text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">L’abstract en 5 phrases-clés</text><rect x=\"16\" y=\"40\" width=\"628\" height=\"26\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"24\" y=\"58\" fill=\"var(--fg)\" font-size=\"11\">1. Context — why the study was performed</text><rect x=\"16\" y=\"70\" width=\"628\" height=\"26\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"24\" y=\"88\" fill=\"var(--fg)\" font-size=\"11\">2. Objective — what the study aimed to determine</text><rect x=\"16\" y=\"100\" width=\"628\" height=\"26\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"24\" y=\"118\" fill=\"var(--fg)\" font-size=\"11\">3. Methods — which standard, which technique</text><rect x=\"16\" y=\"130\" width=\"628\" height=\"26\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"24\" y=\"148\" fill=\"var(--fg)\" font-size=\"11\">4. Results — the main figures (with units)</text><rect x=\"16\" y=\"160\" width=\"628\" height=\"26\" fill=\"var(--warn)\" opacity=\"0.16\"/><text x=\"24\" y=\"178\" fill=\"var(--warn)\" font-size=\"11\">5. Conclusion — compliance, limits, follow-up</text></svg>"
+        },
+        {
+          "titre": "3 · Compte-rendu de réunion (minutes)",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Modele de compte rendu de reunion\"><text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Minutes : le modèle minimal</text><rect x=\"16\" y=\"36\" width=\"628\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"24\" y=\"54\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Meeting — 2025-06-24 — Chair: M. Dubois — Note-taker: S. Martin</text><rect x=\"16\" y=\"68\" width=\"628\" height=\"26\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"24\" y=\"86\" fill=\"var(--fg)\" font-size=\"11\">Attendees: list of participants and organisations</text><rect x=\"16\" y=\"98\" width=\"628\" height=\"26\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"24\" y=\"116\" fill=\"var(--fg)\" font-size=\"11\">Agenda: 1. results 2. non-conformity 3. next steps</text><rect x=\"16\" y=\"128\" width=\"628\" height=\"26\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"24\" y=\"146\" fill=\"var(--fg)\" font-size=\"11\">Decisions: the revised SOP is approved; version 2 applies from 2025-07-02</text><rect x=\"16\" y=\"158\" width=\"628\" height=\"28\" fill=\"var(--warn)\" opacity=\"0.16\"/><text x=\"24\" y=\"177\" fill=\"var(--warn)\" font-size=\"11\">Action: S. Martin to deliver the SOP by 2025-07-02 · Next meeting: 2025-07-10</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Sciences et technologies bioindustrielles",
+      "titre": "Contrôle qualité interne et externe, essais interlaboratoires",
+      "source": "Arrêté du 12 mars 2024 modifié par l’arrêté du 24 juin 2025 (BTS BIOALC, U5/U6 — sciences et technologies bioindustrielles, qualité, RNCP38884) · ISO/IEC 17025:2017 (§6.4 métrologie, §7.6 incertitude, §7.7 validité des résultats, §7.8 rapports) · ISO 5725-1:2023 (exactitude des résultats de mesure) · ISO 13528 (essais d’aptitude) · ISO 17034 (matériaux de référence) · Guides Eurachem/CITAC.",
+      "points": [
+        "Le contrôle qualité interne (CQI) est mis en œuvre par le laboratoire pour surveiller quotidiennement la validité de ses résultats ; le contrôle qualité externe (CQE) évalue sa performance par comparaison avec d’autres laboratoires, via des essais d’aptitude.",
+        "Le CQI comprend : blancs, étalons, échantillons de contrôle (témoins), doublons, dilutions, gamme d’étalonnage, cartes de contrôle et matériaux de référence ; il est tracé dans un plan de contrôle écrit.",
+        "Une carte de contrôle de Shewhart comporte une ligne centrale (moyenne μ), des limites de contrôle à μ ± 3σ et des limites d’alerte à μ ± 2σ ; on utilise couramment une carte de moyennes X̄ et une carte d’étendues R.",
+        "Règles d’alerte (Western Electric / Nelson) : 1 point hors de ±3σ, 2 points consécutifs au-delà de ±2σ, 7 points consécutifs du même côté de la moyenne (dérive), tendance régulière sur plusieurs points → investigation obligatoire.",
+        "La fidélité (precision) est l’accord entre mesures indépendantes : la répétabilité (repeatability) = même opérateur, même appareil, court intervalle ; la reproductibilité (reproducibility) = opérateurs, appareils ou laboratoires différents.",
+        "La justesse (trueness) est l’accord entre la moyenne des mesures et la valeur de référence, quantifié par le biais (bias) ; l’exactitude (accuracy) combine justesse et fidélité (ISO 5725).",
+        "Un matériau de référence certifié (MRC / CRM) possède une valeur certifiée, une incertitude et une traçabilité établies (ISO 17034) : il sert à l’étalonnage des appareils et à la vérification de la justesse.",
+        "L’essai d’aptitude (proficiency testing, ISO 13528) : un organisme envoie des échantillons identiques à plusieurs laboratoires, compare les résultats, détermine une valeur assignée (consensus ou certifiée) et calcule un indicateur de performance par laboratoire.",
+        "Le z-score = (x_laboratoire − x_référence) / s_pt, où s_pt est l’écart-type pour l’évaluation de l’aptitude ; interprétation : |z| ≤ 2 satisfaisant, 2 < |z| < 3 douteux (questionable), |z| ≥ 3 insatisfaisant.",
+        "Le biais relatif = (x_labo − x_réf) / x_réf × 100 (en %) ; d’autres indicateurs sont le z-score robuste (basé sur la médiane et l’écart absolu médian MAD) et le ratio de performance.",
+        "L’ISO/IEC 17025:2017 impose la surveillance de la validité des résultats (§7.7), la maîtrise et l’étalonnage des équipements (§6.4), l’estimation de l’incertitude de mesure (§7.6) et la conformité des rapports (§7.8).",
+        "En cas de résultat hors contrôle : arrêter l’analyse, ne pas rendre le résultat, rechercher la cause (5 Pourquoi, diagramme d’Ishikawa), corriger, vérifier l’efficacité de l’action, documenter et tracer ; le résultat non conforme est signalé au responsable qualité."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la différence entre CQI et CQE ?",
+          "options": [
+            "Le CQI est externe, le CQE interne",
+            "Le CQI est interne et quotidien, le CQE compare plusieurs laboratoires",
+            "Ce sont deux noms pour la même chose",
+            "Le CQE concerne uniquement les stocks"
+          ],
+          "correct": 1,
+          "correction": "Le CQI (interne) surveille la routine quotidienne ; le CQE (externe) compare la performance du laboratoire à celle de ses pairs via des essais d’aptitude."
+        },
+        {
+          "type": "qcm",
+          "q": "Où se situent les limites de contrôle d’une carte de Shewhart ?",
+          "options": [
+            "À μ ± 1σ",
+            "À μ ± 2σ",
+            "À μ ± 3σ",
+            "À la médiane seulement"
+          ],
+          "correct": 2,
+          "correction": "Ligne centrale μ, limites d’alerte à ±2σ et limites de contrôle (action) à ±3σ."
+        },
+        {
+          "type": "qcm",
+          "q": "Que signifient 7 points consécutifs du même côté de la moyenne ?",
+          "options": [
+            "Une excellente répétabilité",
+            "Une dérive du procédé à investiguer",
+            "Une erreur de saisie unique",
+            "Une fin de gamme"
+          ],
+          "correct": 1,
+          "correction": "C’est la règle de Nelson signalant une dérive : la moyenne du procédé s’est déplacée, il faut rechercher la cause."
+        },
+        {
+          "type": "qcm",
+          "q": "La répétabilité correspond à…",
+          "options": [
+            "Même opérateur, même appareil, court délai",
+            "Opérateurs et appareils différents",
+            "Comparaison entre laboratoires",
+            "Valeur certifiée du matériau"
+          ],
+          "correct": 0,
+          "correction": "Répétabilité = conditions les plus proches ; reproductibilité = conditions variées (opérateurs, appareils, laboratoires)."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment calcule-t-on un z-score ?",
+          "options": [
+            "(x − xréf) / s_pt",
+            "(xréf − x) × s_pt",
+            "x / (xréf + s_pt)",
+            "(x + xréf) / 2"
+          ],
+          "correct": 0,
+          "correction": "z = (x_labo − x_réf) / s_pt, avec s_pt l’écart-type cible de l’essai d’aptitude."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle interprétation pour |z| ≥ 3 ?",
+          "options": [
+            "Satisfaisant",
+            "Douteux",
+            "Insatisfaisant",
+            "Non calculable"
+          ],
+          "correct": 2,
+          "correction": "|z| ≤ 2 : satisfaisant ; 2 < |z| < 3 : douteux ; |z| ≥ 3 : insatisfaisant (action corrective requise)."
+        },
+        {
+          "type": "qcm",
+          "q": "Que traite le paragraphe 7.7 de l’ISO/IEC 17025:2017 ?",
+          "options": [
+            "Les locaux",
+            "La surveillance de la validité des résultats",
+            "Les ressources humaines",
+            "Les achats"
+          ],
+          "correct": 1,
+          "correction": "Le §7.7 exige la surveillance de la validité des résultats : CQI, cartes de contrôle, matériaux de référence et essais interlaboratoires."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu’est-ce qu’un matériau de référence certifié ?",
+          "options": [
+            "Un réactif périmé",
+            "Un matériau à valeur certifiée, incertitude et traçabilité",
+            "Un simple témoin interne",
+            "Un étalon fabriqué sur place sans documentation"
+          ],
+          "correct": 1,
+          "correction": "Le CRM (ISO 17034) possède une valeur certifiée avec incertitude et traçabilité, utilisable pour l’étalonnage et le contrôle de justesse."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi ne pas rendre un résultat situé hors des limites de contrôle ?",
+          "reponse": "Parce que la carte signale que le système de mesure n’est plus maîtrisé : le résultat peut être affecté d’un biais ou d’une dérive et n’est donc pas fiable. Le rendre exposerait le demandeur à une décision erronée et engagerait la responsabilité du laboratoire. La procédure impose d’arrêter l’analyse, d’identifier la cause, de corriger, de revérifier puis seulement de rendre le résultat, avec traçabilité des actions.",
+          "correction": "La démarche s’appuie sur l’ISO/IEC 17025 §7.7 : surveillance de la validité, action corrective, et §7.8 : les rapports ne doivent contenir que des résultats validés."
+        },
+        {
+          "type": "texte",
+          "q": "Calcul et interprétation : x_labo = 10,5 mg/L, x_réf = 10,0 mg/L, s_pt = 0,25 mg/L.",
+          "reponse": "z = (10,5 − 10,0) / 0,25 = 0,5 / 0,25 = +2,0. Comme 2 < |z| < 3, le résultat est« douteux » (questionable) : il ne déclenche pas nécessairement une action corrective immédiate, mais doit être examiné, notamment en vérifiant les témoins internes, l’étalonnage et le calcul de l’incertitude. Le biais relatif est (10,5 − 10,0)/10,0 × 100 = +5 %.",
+          "correction": "L’erreur fréquente est d’oublier le signe ou de diviser par la valeur de référence au lieu de s_pt ; le z-score est adimensionnel et s’interprète toujours en valeur absolue."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L’idée en une phrase",
+          "texte": "Le CQI vérifie que le laboratoire reste stable d’un jour à l’autre ; le CQE vérifie qu’il donne la même réponse que les autres : ensemble ils garantissent des résultats fiables et traçables."
+        },
+        {
+          "type": "formule",
+          "titre": "Le z-score et ses seuils",
+          "eq": "z = (x_labo − x_réf) / s_pt",
+          "leg": "|z| ≤ 2 : satisfaisant · 2 < |z| < 3 : douteux · |z| ≥ 3 : insatisfaisant"
+        },
+        {
+          "type": "grille",
+          "titre": "Les outils de la qualité",
+          "items": [
+            [
+              "CQI",
+              "Interne, quotidien : témoins, blancs, doublons, cartes",
+              "« suivi de la validité »"
+            ],
+            [
+              "CQE",
+              "Externe, périodique : essais d’aptitude",
+              "« comparaison interlaboratoires »"
+            ],
+            [
+              "MRC / CRM",
+              "Valeur certifiée + incertitude + traçabilité",
+              "ISO 17034"
+            ],
+            [
+              "Carte X̄ / R",
+              "Moyenne et étendue, limites ±2σ / ±3σ",
+              "Shewhart"
+            ],
+            [
+              "Répétabilité",
+              "Mêmes conditions, court délai",
+              "ISO 5725"
+            ],
+            [
+              "Reproductibilité",
+              "Conditions variées, autres labos",
+              "ISO 5725"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Les signaux d’alerte d’une carte",
+          "items": [
+            "1 point au-delà des limites de contrôle (±3σ)",
+            "2 points consécutifs au-delà d’une limite d’alerte (±2σ)",
+            "7 points consécutifs du même côté de la ligne centrale (dérive)",
+            "Tendance régulière : montée ou descente sur plusieurs points",
+            "Variation inhabituelle de l’étendue R (dispersion qui augmente)"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Conduite à tenir en cas d’alerte",
+          "items": [
+            "Arrêter l’analyse et ne pas valider ni rendre le résultat",
+            "Vérifier les témoins, le blanc, la gamme et le dernier étalonnage",
+            "Rechercher la cause avec les 5 Pourquoi ou l’Ishikawa",
+            "Corriger (réétalonner, remplacer un réactif, former l’opérateur)",
+            "Revérifier avec un matériau de référence puis reprendre les analyses",
+            "Documenter : registre des non-conformités et actions correctives"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges à éviter",
+          "items": [
+            "Confondre justesse (accuracy/trueness) et fidélité (precision)",
+            "Croire qu’un z-score entre 2 et 3 est satisfaisant : il est douteux",
+            "Utiliser la moyenne des participants au lieu de s_pt au dénominateur du z-score",
+            "Oublier de signaler une non-conformité au responsable qualité",
+            "Rendre un résultat « probablement bon » sans l’avoir reverifié"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">z-score</span> : (10,5 − 10,0) / 0,25 = +2,0 → douteux",
+            "<span class=\"cle\">Carte X̄</span> : μ = 50 mg/L, σ = 2 → alerte 46 / 54, action 44 / 56",
+            "<span class=\"cle\">CV</span> : s = 0,16 / moyenne 10,05 × 100 ≈ 1,6 % (très répétable)",
+            "<span class=\"cle\">Biais relatif</span> : (10,5 − 10,0)/10,0 × 100 = +5 %"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Carte de contrôle X̄ et limites",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Carte de controle avec limites\"><text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Carte de contrôle X̄ : limites et dérive</text><line x1=\"52\" y1=\"164\" x2=\"624\" y2=\"164\" stroke=\"var(--dim)\" stroke-width=\"1.5\"/><line x1=\"52\" y1=\"36\" x2=\"52\" y2=\"164\" stroke=\"var(--dim)\" stroke-width=\"1.5\"/><line x1=\"60\" y1=\"50\" x2=\"616\" y2=\"50\" stroke=\"var(--warn)\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/><line x1=\"60\" y1=\"78\" x2=\"616\" y2=\"78\" stroke=\"var(--warn)\" stroke-width=\"1.2\" stroke-dasharray=\"3 4\"/><line x1=\"60\" y1=\"112\" x2=\"616\" y2=\"112\" stroke=\"var(--ac)\" stroke-width=\"2\"/><line x1=\"60\" y1=\"140\" x2=\"616\" y2=\"140\" stroke=\"var(--warn)\" stroke-width=\"1.2\" stroke-dasharray=\"3 4\"/><line x1=\"60\" y1=\"158\" x2=\"616\" y2=\"158\" stroke=\"var(--warn)\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/><polyline points=\"84,112 138,108 192,115 246,110 300,118 354,122 408,126 462,130 516,136 570,154\" fill=\"none\" stroke=\"var(--ac)\" stroke-width=\"2.5\"/><g fill=\"var(--ac)\"><circle cx=\"84\" cy=\"112\" r=\"3\"/><circle cx=\"138\" cy=\"108\" r=\"3\"/><circle cx=\"192\" cy=\"115\" r=\"3\"/><circle cx=\"246\" cy=\"110\" r=\"3\"/><circle cx=\"300\" cy=\"118\" r=\"3\"/><circle cx=\"354\" cy=\"122\" r=\"3\"/><circle cx=\"408\" cy=\"126\" r=\"3\"/><circle cx=\"462\" cy=\"130\" r=\"3\"/><circle cx=\"516\" cy=\"136\" r=\"3\"/></g><circle cx=\"570\" cy=\"154\" r=\"4\" fill=\"var(--warn)\"/><g font-size=\"10\" fill=\"var(--fg)\"><text x=\"620\" y=\"47\" text-anchor=\"end\">+3σ (action)</text><text x=\"620\" y=\"75\" text-anchor=\"end\">+2σ (alerte)</text><text x=\"620\" y=\"109\" text-anchor=\"end\">μ (moyenne)</text><text x=\"620\" y=\"137\" text-anchor=\"end\">−2σ (alerte)</text><text x=\"620\" y=\"155\" text-anchor=\"end\">−3σ (action)</text></g><text x=\"60\" y=\"180\" fill=\"var(--dim)\" font-size=\"10\">7 points du même côté de μ (= dérive) et 1 point hors ±3σ déclenchent une investigation.</text></svg>"
+        },
+        {
+          "titre": "2 · CQI et CQE : deux niveaux complémentaires",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"CQI et CQE complementaires\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">CQI et CQE : deux niveaux complémentaires</text><rect x=\"16\" y=\"48\" width=\"270\" height=\"88\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"151\" y=\"74\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"13\" font-weight=\"bold\">CQI — interne</text><text x=\"151\" y=\"98\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"11\">quotidien : témoins, blancs, doublons</text><text x=\"151\" y=\"118\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"11\">cartes de contrôle, MRC</text><line x1=\"286\" y1=\"92\" x2=\"374\" y2=\"92\" stroke=\"var(--ac)\" stroke-width=\"2\"/><rect x=\"376\" y=\"48\" width=\"268\" height=\"88\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/><text x=\"510\" y=\"74\" text-anchor=\"middle\" fill=\"var(--warn)\" font-size=\"13\" font-weight=\"bold\">CQE — externe</text><text x=\"510\" y=\"98\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"11\">périodique : essais d’aptitude ISO 13528</text><text x=\"510\" y=\"118\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"11\">z-score, comparaison interlaboratoires</text><text x=\"16\" y=\"166\" fill=\"var(--fg)\" font-size=\"11\">Objectif commun : des résultats valides, justes et traçables (ISO/IEC 17025 §7.7).</text><text x=\"16\" y=\"188\" fill=\"var(--dim)\" font-size=\"10\">Le CQI détecte la dérive locale ; le CQE révèle un biais par rapport aux pairs.</text></svg>"
+        },
+        {
+          "titre": "3 · Interprétation du z-score",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Echelle d interpretation du z-score\"><text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Échelle du z-score</text><rect x=\"46\" y=\"76\" width=\"92\" height=\"34\" fill=\"var(--warn)\" opacity=\"0.55\"/><rect x=\"138\" y=\"76\" width=\"92\" height=\"34\" fill=\"var(--warn)\" opacity=\"0.3\"/><rect x=\"230\" y=\"76\" width=\"200\" height=\"34\" fill=\"var(--ac)\" opacity=\"0.22\"/><rect x=\"430\" y=\"76\" width=\"92\" height=\"34\" fill=\"var(--warn)\" opacity=\"0.3\"/><rect x=\"522\" y=\"76\" width=\"92\" height=\"34\" fill=\"var(--warn)\" opacity=\"0.55\"/><line x1=\"46\" y1=\"120\" x2=\"614\" y2=\"120\" stroke=\"var(--dim)\" stroke-width=\"1.5\"/><g font-size=\"10\" fill=\"var(--fg)\" text-anchor=\"middle\"><text x=\"46\" y=\"136\">−4</text><text x=\"138\" y=\"136\">−3</text><text x=\"230\" y=\"136\">−2</text><text x=\"330\" y=\"136\">0</text><text x=\"430\" y=\"136\">+2</text><text x=\"522\" y=\"136\">+3</text><text x=\"614\" y=\"136\">+4</text></g><g font-size=\"10\" fill=\"var(--fg)\" text-anchor=\"middle\"><text x=\"92\" y=\"68\">insatisfaisant</text><text x=\"184\" y=\"68\">douteux</text><text x=\"330\" y=\"68\">satisfaisant</text><text x=\"476\" y=\"68\">douteux</text><text x=\"568\" y=\"68\">insatisfaisant</text></g><text x=\"16\" y=\"166\" fill=\"var(--fg)\" font-size=\"11\">|z| ≤ 2 : satisfaisant · 2 &lt; |z| &lt; 3 : douteux · |z| ≥ 3 : insatisfaisant → action corrective.</text><text x=\"16\" y=\"188\" fill=\"var(--dim)\" font-size=\"10\">Exemple : x = 10,5 ; xréf = 10,0 ; s_pt = 0,25 → z = +2,0 (douteux).</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Qualité et gestion du laboratoire",
+      "titre": "Organisation du laboratoire, plan de charge, stocks et consommables",
+      "source": "Arrêté du 12 mars 2024 modifié par l’arrêté du 24 juin 2025 (BTS BIOALC, U6 — qualité et gestion du laboratoire, RNCP38884) · ISO/IEC 17025:2017 (§6.3 installations, §6.4 équipements, §7.1 ressources, §7.5 documentation) · Code du travail, art. R4121-1 à R4121-12 (DUERP) · Bonnes pratiques de gestion de laboratoire.",
+      "points": [
+        "Organiser un laboratoire, c’est garantir simultanément la qualité des résultats, la traçabilité, la sécurité du personnel et le respect des délais : flux d’échantillons, planification, ressources, stocks et documentation.",
+        "Flux d’un échantillon : réception → identification par un code unique → enregistrement → pré-traitement → analyse → validation → rendu du résultat → archivage et élimination des déchets.",
+        "La traçabilité associe à chaque échantillon : identifiant, date et heure, demandeur, type d’analyse, opérateur, appareil, lots de réactifs, protocole suivi, résultats et signature de validation.",
+        "Le plan de charge répartit les analyses entre opérateurs et équipements : charge = somme des temps nécessaires aux tâches ; capacité = temps disponible (effectif × heures × rendement).",
+        "La planification distingue les analyses urgentes (stat), prioritaires, de routine et les opérations de maintenance préventive ; elle s’appuie sur un séquencement et sur des créneaux réservés aux urgences.",
+        "Taux d’utilisation = charge / capacité : en dessous de 85 %, la marge absorbe les aléas ; au-delà de 85-90 %, files d’attente, retards et risques d’erreur augmentent fortement.",
+        "Pour les consommables, appliquer FIFO (First In, First Out) ; pour les réactifs périssables, appliquer FEFO (First Expired, First Out) : la date de péremption et les conditions de stockage (température, lumière) sont critiques.",
+        "Gestion des stocks : seuil de réapprovisionnement (point de commande), stock de sécurité, stock maximum, inventaire tournant ; le suivi des lots assure la traçabilité des réactifs utilisés.",
+        "Le DUERP (Document Unique d’Évaluation des Risques Professionnels) recense les risques chimiques, biologiques, mécaniques, électriques et ergonomiques ainsi que les actions de prévention ; il est mis à jour au moins une fois par an et à chaque changement de situation.",
+        "Sécurité au quotidien : port des EPI (blouse, gants, lunettes), consultation des FDS/SDS, codification et stockage des déchets (DASRI, solvants), affichage des consignes et formation du personnel.",
+        "Indicateurs de pilotage (KPI) : délai de rendu (TAT, turnaround time), taux de conformité, taux de reprise ou d’erreur, taux de service, rotation des stocks, nombre de non-conformités, taux de réalisation du plan de charge.",
+        "Toute action doit être documentée : registre de réception, cahier de laboratoire, fiches de paillasse, ordres de travail et rapports d’incident. « Ce qui n’est pas écrit n’a pas été fait » : c’est le principe de traçabilité de l’ISO/IEC 17025."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la première étape du flux d’un échantillon ?",
+          "options": [
+            "L’analyse",
+            "La réception et l’identification",
+            "Le rendu du résultat",
+            "L’archivage"
+          ],
+          "correct": 1,
+          "correction": "L’échantillon est d’abord réceptionné et identifié par un code unique avant tout enregistrement et traitement."
+        },
+        {
+          "type": "qcm",
+          "q": "Que signifie le principe FEFO ?",
+          "options": [
+            "Premier entré, premier sorti",
+            "Premier périmé, premier sorti",
+            "Dernier entré, premier sorti",
+            "Premier analysé, premier rendu"
+          ],
+          "correct": 1,
+          "correction": "FEFO (First Expired, First Out) s’applique aux réactifs périssables : on utilise d’abord le lot qui expire le plus tôt."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment calcule-t-on le taux d’utilisation d’un laboratoire ?",
+          "options": [
+            "Capacité / charge",
+            "Charge / capacité",
+            "Charge × capacité",
+            "Capacité − charge"
+          ],
+          "correct": 1,
+          "correction": "Taux d’utilisation = charge / capacité ; au-delà de 85-90 %, le système sature et les délais augmentent."
+        },
+        {
+          "type": "qcm",
+          "q": "À partir de quel taux d’utilisation parle-t-on de saturation ?",
+          "options": [
+            "50 %",
+            "70 %",
+            "85-90 %",
+            "100 % seulement"
+          ],
+          "correct": 2,
+          "correction": "Dès 85-90 %, les files d’attente et le risque d’erreur croissent : il faut renforcer les ressources ou étaler les analyses."
+        },
+        {
+          "type": "qcm",
+          "q": "À quelle fréquence le DUERP doit-il être mis à jour ?",
+          "options": [
+            "Tous les 5 ans",
+            "Une fois par an et à chaque changement",
+            "Uniquement après un accident",
+            "Jamais, une fois signé"
+          ],
+          "correct": 1,
+          "correction": "Le DUERP est révisé au moins annuellement et dès qu’un changement (poste, produit, organisation) modifie les risques."
+        },
+        {
+          "type": "qcm",
+          "q": "La traçabilité d’un échantillon n’implique pas de consigner…",
+          "options": [
+            "L’opérateur",
+            "Le lot de réactif",
+            "La couleur de la blouse",
+            "L’appareil utilisé"
+          ],
+          "correct": 2,
+          "correction": "Sont tracés : identifiant, opérateur, appareil, lots de réactifs, protocole et validation ; la tenue n’est pas un données de traçabilité de l’échantillon."
+        },
+        {
+          "type": "qcm",
+          "q": "Que mesure l’indicateur TAT (turnaround time) ?",
+          "options": [
+            "Le nombre d’erreurs",
+            "Le délai entre réception et rendu du résultat",
+            "Le stock de réactifs",
+            "La température de la pièce"
+          ],
+          "correct": 1,
+          "correction": "Le TAT est le délai de rendu : il se calcule en heures ou jours ouvrés entre la réception de l’échantillon et la validation du résultat."
+        },
+        {
+          "type": "qcm",
+          "q": "La maxime « ce qui n’est pas écrit n’a pas été fait » rappelle…",
+          "options": [
+            "Qu’il faut écrire lentement",
+            "Que la documentation est une preuve de traçabilité",
+            "Qu’il ne faut pas parler au laboratoire",
+            "Que les cahiers sont inutiles"
+          ],
+          "correct": 1,
+          "correction": "Dans un système qualité ISO/IEC 17025, l’absence de trace documentaire équivaut à une absence de preuve de l’action réalisée."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi séparer les analyses urgentes des analyses de routine dans le plan de charge ?",
+          "reponse": "Parce qu’une analyse urgente (stat) doit passer avant la routine sans bloquer tout le laboratoire : en réservant des créneaux et en identifiant clairement les priorités, on évite d’interrompre en permanence une série d’analyses en cours, ce qui génère des erreurs et des retards. La séparation permet aussi de mesurer le taux de service sur les urgences et de dimensionner les ressources nécessaires.",
+          "correction": "Une bonne réponse cite les notions de priorité, de créneaux réservés, de charge/capacité et de risque d’erreur lié aux interruptions fréquentes."
+        },
+        {
+          "type": "texte",
+          "q": "Que faire si un réactif est périmé ou si le stock passe sous le seuil de réapprovisionnement ?",
+          "reponse": "Réactif périmé : le retirer immédiatement du stock, le signaler, le détruire selon la procédure déchets et vérifier si des analyses ont été réalisées avec ce lot (impact sur les résultats, traçabilité). Stock sous le seuil : déclencher une commande (point de commande + stock de sécurité), vérifier les alternatives et les délais du fournisseur, et anticiper en appliquant FEFO pour les lots restants. Dans les deux cas, tracer l’action dans le registre et informer le responsable qualité.",
+          "correction": "Les mots-clés attendus sont : retrait/isolement, destruction conforme, revue d’impact, commande, stock de sécurité, FEFO et traçabilité documentaire."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L’idée en une phrase",
+          "texte": "Un laboratoire bien organisé sait où est chaque échantillon, quelles sont les priorités du jour, combien de réactifs restent et qui fait quoi — et il l’écrit."
+        },
+        {
+          "type": "formule",
+          "titre": "Les deux relations de gestion",
+          "eq": "Taux d’utilisation = charge / capacité   ·   Point de commande = consommation journalière × délai + stock de sécurité",
+          "leg": "Capacité = effectif × heures disponibles × rendement · seuil de saturation ≈ 85-90 %"
+        },
+        {
+          "type": "grille",
+          "titre": "Les 4 piliers de l’organisation",
+          "items": [
+            [
+              "Flux",
+              "Réception → analyse → validation → archivage",
+              "code unique à chaque étape"
+            ],
+            [
+              "Plan de charge",
+              "Répartir tâches et ressources",
+              "charge / capacité"
+            ],
+            [
+              "Stocks",
+              "FIFO / FEFO, seuil, stock de sécurité",
+              "lots et péremptions tracés"
+            ],
+            [
+              "Traçabilité",
+              "Qui, quoi, quand, avec quoi",
+              "« écrit = prouvé »"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Les données de traçabilité d’un échantillon",
+          "items": [
+            "Identifiant unique, date et heure de réception, demandeur",
+            "Type d’analyse et protocole appliqué (version du mode opératoire)",
+            "Nom de l’opérateur et référence de l’appareil utilisé",
+            "Lots de réactifs et de matériaux de référence",
+            "Résultats bruts et traités, signature de validation",
+            "Destination finale : archivage ou élimination des déchets"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Construire son plan de charge en 5 étapes",
+          "items": [
+            "Recenser les analyses à réaliser et leur temps unitaire",
+            "Estimer la capacité disponible (effectif × heures × rendement)",
+            "Classer par priorité : urgences, routine, maintenance",
+            "Affecter aux opérateurs et aux équipements en tenant compte des compétences",
+            "Suivre les écarts en cours de journée et réajuster ; tracer les changements"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges à éviter",
+          "items": [
+            "Appliquer FIFO à des réactifs périssables : c’est FEFO qui prime",
+            "Saturer le planning à 100 % : aucune marge pour les urgences ou pannes",
+            "Oublier de tracer un changement de lot de réactif en cours d’analyse",
+            "Laisser le DUERP sans mise à jour après un changement de poste ou de produit",
+            "Ranger un réactif périmé « encore un peu utilisable » dans le stock courant"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (gestion courante)",
+          "items": [
+            "<span class=\"cle\">Charge / capacité</span> : 36 h de travail / 40 h disponibles = 90 % → seuil de saturation",
+            "<span class=\"cle\">Point de commande</span> : 3 boîtes/jour × 5 j de délai + 4 boîtes de sécurité = 19 boîtes",
+            "<span class=\"cle\">TAT</span> : réception 08h00, validation 14h30 le même jour → 6,5 h",
+            "<span class=\"cle\">Rotation du stock</span> : consommation annuelle / stock moyen = 12 rotations/an"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Le flux d’un échantillon",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Flux d un echantillon au laboratoire\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Du réceptionnement à l’archivage : 7 étapes</text><g><rect x=\"16\" y=\"48\" width=\"80\" height=\"64\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"56\" y=\"74\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Réception</text><text x=\"56\" y=\"92\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">date, demandeur</text><rect x=\"104\" y=\"48\" width=\"80\" height=\"64\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"144\" y=\"74\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Identifica-</text><text x=\"144\" y=\"88\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">tion</text><text x=\"144\" y=\"103\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">code unique</text><rect x=\"192\" y=\"48\" width=\"80\" height=\"64\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"232\" y=\"74\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Enregistre-</text><text x=\"232\" y=\"88\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">ment</text><text x=\"232\" y=\"103\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">registre</text><rect x=\"280\" y=\"48\" width=\"80\" height=\"64\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"320\" y=\"74\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Pré-</text><text x=\"320\" y=\"88\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">traitement</text><text x=\"320\" y=\"103\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">aliquotage</text><rect x=\"368\" y=\"48\" width=\"80\" height=\"64\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"408\" y=\"74\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Analyse</text><text x=\"408\" y=\"92\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">protocole</text><rect x=\"456\" y=\"48\" width=\"80\" height=\"64\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"496\" y=\"74\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Validation</text><text x=\"496\" y=\"92\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">signature</text><rect x=\"544\" y=\"48\" width=\"100\" height=\"64\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/><text x=\"594\" y=\"74\" text-anchor=\"middle\" fill=\"var(--warn)\" font-size=\"10\" font-weight=\"bold\">Rendu +</text><text x=\"594\" y=\"88\" text-anchor=\"middle\" fill=\"var(--warn)\" font-size=\"10\" font-weight=\"bold\">archivage</text><text x=\"594\" y=\"103\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">déchets</text></g><g stroke=\"var(--ac)\" stroke-width=\"1.6\"><line x1=\"96\" y1=\"80\" x2=\"102\" y2=\"80\"/><line x1=\"184\" y1=\"80\" x2=\"190\" y2=\"80\"/><line x1=\"272\" y1=\"80\" x2=\"278\" y2=\"80\"/><line x1=\"360\" y1=\"80\" x2=\"366\" y2=\"80\"/><line x1=\"448\" y1=\"80\" x2=\"454\" y2=\"80\"/><line x1=\"536\" y1=\"80\" x2=\"542\" y2=\"80\"/></g><text x=\"16\" y=\"142\" fill=\"var(--fg)\" font-size=\"11\">À chaque étape : un identifiant, un opérateur, un appareil, des lots de réactifs tracés.</text><text x=\"16\" y=\"166\" fill=\"var(--dim)\" font-size=\"10\">Le code unique suit l’échantillon du réceptionnement jusqu’à l’archivage : c’est la traçabilité.</text></svg>"
+        },
+        {
+          "titre": "2 · Charge, capacité et taux d’utilisation",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Charge capacite et taux d utilisation\"><text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Charge / capacité : le bon dimensionnement</text><rect x=\"16\" y=\"38\" width=\"628\" height=\"30\" fill=\"var(--ac)\" opacity=\"0.16\"/><text x=\"24\" y=\"58\" fill=\"var(--fg)\" font-size=\"11\">Charge = Σ temps des analyses · Capacité = effectif × heures × rendement</text><rect x=\"16\" y=\"82\" width=\"628\" height=\"30\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"24\" y=\"102\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">Taux d’utilisation = charge / capacité</text><rect x=\"16\" y=\"128\" width=\"380\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.22\"/><text x=\"26\" y=\"146\" fill=\"var(--fg)\" font-size=\"10\">&lt; 85 % : marge pour les urgences</text><rect x=\"396\" y=\"128\" width=\"120\" height=\"26\" fill=\"var(--warn)\" opacity=\"0.3\"/><text x=\"406\" y=\"146\" fill=\"var(--fg)\" font-size=\"10\">85-90 %</text><rect x=\"516\" y=\"128\" width=\"128\" height=\"26\" fill=\"var(--warn)\" opacity=\"0.6\"/><text x=\"526\" y=\"146\" fill=\"var(--fg)\" font-size=\"10\">&gt; 90 % : saturation</text><text x=\"16\" y=\"176\" fill=\"var(--dim)\" font-size=\"10\">Exemple : 36 h de charge / 40 h de capacité = 90 % → il faut réorganiser ou renforcer.</text></svg>"
+        },
+        {
+          "titre": "3 · Stocks : seuil, sécurité et FEFO",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Gestion des stocks et du seuil de commande\"><text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Suivi du stock et point de commande</text><line x1=\"52\" y1=\"40\" x2=\"52\" y2=\"168\" stroke=\"var(--dim)\" stroke-width=\"1.5\"/><line x1=\"52\" y1=\"168\" x2=\"620\" y2=\"168\" stroke=\"var(--dim)\" stroke-width=\"1.5\"/><line x1=\"60\" y1=\"56\" x2=\"616\" y2=\"56\" stroke=\"var(--ac)\" stroke-width=\"1.2\" stroke-dasharray=\"5 4\"/><line x1=\"60\" y1=\"100\" x2=\"616\" y2=\"100\" stroke=\"var(--warn)\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/><line x1=\"60\" y1=\"142\" x2=\"616\" y2=\"142\" stroke=\"var(--warn)\" stroke-width=\"1.2\" stroke-dasharray=\"3 4\"/><polyline points=\"72,66 160,78 248,90 336,102 424,116 512,132 600,154\" fill=\"none\" stroke=\"var(--ac)\" stroke-width=\"2.5\"/><g fill=\"var(--ac)\"><circle cx=\"72\" cy=\"66\" r=\"3\"/><circle cx=\"160\" cy=\"78\" r=\"3\"/><circle cx=\"248\" cy=\"90\" r=\"3\"/><circle cx=\"336\" cy=\"102\" r=\"3\"/><circle cx=\"424\" cy=\"116\" r=\"3\"/><circle cx=\"512\" cy=\"132\" r=\"3\"/></g><circle cx=\"600\" cy=\"154\" r=\"4\" fill=\"var(--warn)\"/><g font-size=\"10\" fill=\"var(--fg)\"><text x=\"622\" y=\"52\" text-anchor=\"end\">stock maximum</text><text x=\"622\" y=\"96\" text-anchor=\"end\">seuil de commande</text><text x=\"622\" y=\"138\" text-anchor=\"end\">stock de sécurité</text></g><text x=\"60\" y=\"184\" fill=\"var(--dim)\" font-size=\"10\">Dès que la courbe croise le seuil : on commande. FEFO = on utilise d’abord le lot qui périme le plus tôt.</text></svg>"
+        }
+      ]
+    }
+  ]
+}

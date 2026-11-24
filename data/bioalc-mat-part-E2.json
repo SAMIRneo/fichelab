@@ -1,0 +1,704 @@
+{
+  "fiches": [
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Physique-chimie et instrumentation",
+      "titre": "Chapitre 19 · Viscosité dynamique et mesure par chute de bille",
+      "source": "Référentiel BTS BIOALC, U4 Physique-chimie et instrumentation (arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, RNCP38884) · Annale officielle de physique-chimie BTS BIOALC 2026 (académie d'Aix-Marseille) : conformité d'un lot de miel, mesure de la viscosité par chute de bille · IUPAC Gold Book (viscosity, Newtonian fluid) · VIM 3e éd. JCGM 200:2012 (grandleur, unité, condition de mesure)",
+      "points": [
+        "La viscosité dynamique η mesure la résistance d'un fluide à l'écoulement. Pour un fluide newtonien, la contrainte de cisaillement τ est proportionnelle au taux de cisaillement γ̇ = dv/dy : τ = η·γ̇. Unité SI : le pascal-seconde (1 Pa·s = 1 kg·m⁻¹·s⁻¹) ; 1 cP = 1 mPa·s = 10⁻³ Pa·s. L'eau vaut environ 1,0 mPa·s à 20 °C, le miel 1 à 10 Pa·s, soit mille à dix mille fois plus.",
+        "Le cisaillement se visualise entre deux plaques parallèles distantes de e : si la plaque supérieure se déplace à la vitesse v, le profil de vitesse est linéaire et la force à exercer vaut F = η·A·v/e (A = aire de la plaque). Plus η est grand, plus il faut de force pour entretenir le mouvement : c'est la « résistance » du miel à la cuillère.",
+        "Ne pas confondre viscosité dynamique η (Pa·s) et viscosité cinématique ν = η/ρ (m²·s⁻¹). C'est ν qui intervient dans le nombre de Reynolds ; c'est bien η que l'on déduit de l'expérience de chute de bille.",
+        "Loi de Stokes (1851) : une sphère rigide de rayon r animée d'une vitesse v dans un fluide de viscosité η subit une force de traînée opposée au mouvement, F_S = 6π·η·r·v = 3π·η·d·v (d = 2r). Elle suppose un écoulement rampant (Re ≪ 1), une sphère lisse, un fluide newtonien et un milieu infini.",
+        "Dans une chute de bille, trois forces agissent : le poids P = (4/3)π r³ ρ_bille g vers le bas, la poussée d'Archimède A = (4/3)π r³ ρ_liquide g vers le haut et la traînée de Stokes F_S = 6π η r v vers le haut. Après une courte phase transitoire, la vitesse se stabilise : c'est la vitesse limite v_lim (ou vitesse terminale).",
+        "À la vitesse limite, le bilan des forces s'écrit P = A + F_S, soit (4/3)π r³ (ρ_bille − ρ_liquide) g = 6π η r v_lim. On obtient la relation fondamentale η = 2(ρ_bille − ρ_liquide)·g·r²/(9·v_lim), ou avec le diamètre η = (ρ_bille − ρ_liquide)·g·d²/(18·v_lim). Mesurer v_lim = ΔL/Δt entre deux repères donne donc η.",
+        "Condition de validité n°1 — faible nombre de Reynolds : Re = ρ_liquide·v·d/η doit être très inférieur à 1 (en pratique Re < 0,1 à 1). Si Re est trop grand, l'écoulement devient inhomogène, la traînée croît plus vite que v et la formule de Stokes donne une viscosité fausse. On vérifie Re a posteriori et on recommence avec une bille plus petite si nécessaire.",
+        "Condition de validité n°2 — effet des parois : la loi suppose un milieu infini. Dans un tube de rayon R, les parois freinent la bille. Avec λ = r/R, la correction de Faxén donne v = v_inf·[1 − 2,104λ + 2,09λ³ − 0,95λ⁵] ; la viscosité brute est donc surestimée et l'on corrige par η_vrai = η_brut·[1 − 2,104λ + 2,09λ³ − 0,95λ⁵]. On choisit de préférence r/R < 0,1.",
+        "Condition de validité n°3 — température : la viscosité des liquides chute vite quand T augmente (le miel perd facilement la moitié de sa viscosité entre 20 et 30 °C). La mesure doit être thermostatisée, par exemple à 20,0 ± 0,1 °C, et la température doit accompagner le résultat. Teneur en eau et cristallisation influencent aussi la viscosité d'un miel.",
+        "Dispositif : le viscosimètre à bille tombante (type Höppler) utilise un tube thermostaté, souvent incliné, une bille de verre ou d'acier de diamètre connu et deux repères ; on chronomètre au moins trois chutes et on moyenne. Un rhéomètre (cisaillement imposé, mesure de la contrainte) est employé pour les fluides non newtoniens ou pour tracer η = f(γ̇). Une éprouvette graduée et un chronomètre suffisent pour une mesure simplifiée au TP.",
+        "Exploitation en contrôle qualité : comparer η du lot à la plage de conformité du cahier des charges (ou à une solution de contrôle de viscosité connue, matériau de référence). Un écart peut révéler un apport de sirop, une teneur en eau trop élevée (risque de fermentation) ou une cristallisation. On exprime η = (valeur ± U) Pa·s à T donnée, en précisant ρ_bille, r, Re et le nombre de répétitions.",
+        "Exemple chiffré à refaire : bille d'acier de rayon r = 1,50 mm (ρ_bille = 7850 kg·m⁻³), miel de masse volumique ρ = 1420 kg·m⁻³, distance ΔL = 100 mm parcourue en Δt = 12,4 s en régime permanent. v_lim = 0,100/12,4 = 8,06×10⁻³ m·s⁻¹ ; Δρ = 6430 kg·m⁻³ ; η = 2×6430×9,81×(1,50×10⁻³)²/(9×8,06×10⁻³) ≈ 3,9 Pa·s. Contrôle : Re = 1420×8,06×10⁻³×3,0×10⁻³/3,9 ≈ 0,009 ≪ 1 : la loi de Stokes est applicable."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est l'unité SI de la viscosité dynamique η ?",
+          "options": [
+            "Le pascal-seconde (Pa·s)",
+            "Le pascal par seconde (Pa/s)",
+            "Le mètre carré par seconde (m²/s)",
+            "Le newton-mètre (N·m)"
+          ],
+          "correct": 0,
+          "correction": "η s'exprime en Pa·s = kg·m⁻¹·s⁻¹. Le m²/s est l'unité de la viscosité cinématique ν = η/ρ, pas de η."
+        },
+        {
+          "type": "qcm",
+          "q": "La force de traînée de Stokes sur une sphère de rayon r se déplaçant à la vitesse v vaut :",
+          "options": [
+            "F = 6π η r v",
+            "F = 6π η r² v",
+            "F = 3π η r v / 2",
+            "F = 4π η r² v²"
+          ],
+          "correct": 0,
+          "correction": "F_S = 6π η r v = 3π η d v : elle est proportionnelle à v (régime rampant) et s'oppose au mouvement. Une dépendance en v² caractérise un régime de Reynolds élevé."
+        },
+        {
+          "type": "qcm",
+          "q": "En régime permanent, le bilan des forces sur la bille en chute est :",
+          "options": [
+            "P = A + F_S",
+            "P + A = F_S",
+            "P = F_S − A",
+            "P + F_S = 0"
+          ],
+          "correct": 0,
+          "correction": "Le poids tire vers le bas ; la poussée d'Archimède et la traînée s'y opposent. À vitesse limite, l'accélération est nulle donc P = A + F_S."
+        },
+        {
+          "type": "qcm",
+          "q": "Une bille parcourt 100 mm en 12,4 s entre deux repères, en régime permanent. Quelle est sa vitesse limite ?",
+          "options": [
+            "8,06 × 10⁻³ m/s",
+            "8,06 × 10⁻² m/s",
+            "1,24 × 10⁻³ m/s",
+            "0,806 m/s"
+          ],
+          "correct": 0,
+          "correction": "v_lim = ΔL/Δt = 0,100 m / 12,4 s = 8,06 × 10⁻³ m/s, soit environ 8,1 mm/s. On convertit d'abord les 100 mm en mètres.",
+          "contexte": "Chronométrage d'une bille dans un miel lors du contrôle d'un lot (annale 2026).",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Avec r = 1,50 mm, ρ_bille = 7850 kg/m³, ρ_miel = 1420 kg/m³ et v_lim = 8,06 × 10⁻³ m/s, la viscosité du miel vaut environ :",
+          "options": [
+            "3,9 Pa·s",
+            "0,39 Pa·s",
+            "39 Pa·s",
+            "0,039 Pa·s"
+          ],
+          "correct": 0,
+          "correction": "η = 2(ρ_b−ρ_l)g r²/(9 v) = 2 × 6430 × 9,81 × (1,50×10⁻³)² / (9 × 8,06×10⁻³) = 0,2839/0,0725 ≈ 3,9 Pa·s. La cohérence avec une valeur de miel (1 à 10 Pa·s) confirme l'ordre de grandeur.",
+          "contexte": "Exploitation numérique de la mesure par chute de bille (contrôle de conformité d'un lot de miel).",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle condition doit être vérifiée pour appliquer la loi de Stokes à la chute de bille ?",
+          "options": [
+            "Re ≪ 1",
+            "Re ≫ 1000",
+            "La bille doit être creuse",
+            "Le liquide doit être gazeux"
+          ],
+          "correct": 0,
+          "correction": "La loi de Stokes suppose un écoulement rampant : Re = ρ v d/η ≪ 1. On vérifie cette condition après le calcul, avec la valeur de η obtenue."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi thermostater la mesure de viscosité d'un miel ?",
+          "options": [
+            "Parce que η augmente avec la température",
+            "Parce que η diminue fortement quand la température augmente",
+            "Parce que η est indépendante de la température",
+            "Parce que seule la masse volumique change"
+          ],
+          "correct": 1,
+          "correction": "Pour un liquide, η diminue rapidement quand T augmente. Une différence de quelques degrés peut changer η de moitié : on travaille à 20,0 °C et on annonce la température avec le résultat."
+        },
+        {
+          "type": "qcm",
+          "q": "Si le tube est étroit (r/R non négligeable), l'application brute de la formule de Stokes :",
+          "options": [
+            "sous-estime η",
+            "surestime η",
+            "ne change rien",
+            "annule la poussée d'Archimède"
+          ],
+          "correct": 1,
+          "correction": "Les parois freinent la bille : v mesurée est plus petite que v en milieu infini, donc η = K/v en sort trop grand. On applique la correction de Faxén ou on choisit r/R < 0,1."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer pourquoi la bille atteint une vitesse limite et écrire le bilan des forces correspondant.",
+          "reponse": "Au départ, le poids est supérieur à la poussée d'Archimède : la bille accélère. Sa vitesse croissant, la traînée de Stokes F_S = 6π η r v croît aussi, jusqu'à équilibrer le solde P − A. L'accélération devient alors nulle et la vitesse se stabilise en v_lim. Le bilan est P = A + F_S, soit (4/3)π r³(ρ_bille − ρ_liquide)g = 6π η r v_lim, d'où η = 2(ρ_bille − ρ_liquide) g r²/(9 v_lim).",
+          "correction": "Il faut citer les trois forces et leur sens, préciser que la traînée dépend de v, et en déduire l'équilibre. Toute réponse qui omet la poussée d'Archimède conduit à une formule sans différence de densités."
+        },
+        {
+          "type": "texte",
+          "q": "Au laboratoire, un lot de miel donne η = 2,4 Pa·s à 20 °C alors que le cahier des charges exige 3,0 à 5,0 Pa·s. Que conclure et comment fiabiliser la mesure ?",
+          "reponse": "Le lot est hors spécification : il est trop fluide. Causes possibles : teneur en eau trop élevée (miel non mûr ou fermentation), ajout de sirop, ou température de mesure supérieure à 20 °C. Pour fiabiliser : thermostater à 20,0 ± 0,1 °C, vérifier r et les masses volumiques, contrôler Re ≪ 1 et r/R < 0,1, répéter la chute au moins trois fois, mesurer une solution de contrôle de viscosité connue et exprimer η avec son incertitude.",
+          "correction": "La conclusion doit rester prudente : on prononce une non-conformité seulement après avoir éliminé les causes instrumentales (température, parois, Reynolds, étalonnage). Le contrôle par une solution de référence est indispensable en laboratoire de contrôle."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Un liquide visqueux résiste au cisaillement ; en laissant tomber une bille à vitesse constante, on transforme un simple chronométrage en mesure de viscosité — c'est le cœur du contrôle d'un lot de miel."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître par cœur",
+          "eq": "η = 2 (ρ_bille − ρ_liquide) · g · r² / (9 · v_lim)",
+          "leg": "η en Pa·s · ρ en kg/m³ · r en m · g = 9,81 m/s² · v_lim en m/s — obtenue en écrivant P = A + F_S avec F_S = 6π η r v"
+        },
+        {
+          "type": "grille",
+          "titre": "Trois grandeurs à ne pas confondre",
+          "items": [
+            [
+              "η",
+              "Viscosité dynamique : résistance au cisaillement, τ = η·γ̇",
+              "Pa·s (kg·m⁻¹·s⁻¹)"
+            ],
+            [
+              "ν = η/ρ",
+              "Viscosité cinématique : intervient dans le nombre de Reynolds",
+              "m²/s"
+            ],
+            [
+              "Re = ρ·v·d/η",
+              "Nombre de Reynolds : doit être ≪ 1 pour la loi de Stokes",
+              "sans unité"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Les trois forces en présence",
+          "items": [
+            "Poids P = (4/3)π r³ ρ_bille g : vers le bas, c'est le moteur de la chute",
+            "Poussée d'Archimède A = (4/3)π r³ ρ_liquide g : vers le haut, elle tient compte du fluide déplacé",
+            "Traînée de Stokes F_S = 6π η r v : vers le haut, croissante avec la vitesse",
+            "À vitesse limite : P = A + F_S, l'accélération est nulle et F_S ne change plus"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Mesurer η par chute de bille, pas à pas",
+          "items": [
+            "Choisir une bille connue (r, ρ_bille) et un tube thermostaté ; vérifier que r/R < 0,1",
+            "Déposer la bille sans impulsion et attendre la fin du régime transitoire",
+            "Chronométrer le passage entre deux repères distants de ΔL, au moins 3 fois, puis moyenner Δt",
+            "Calculer v_lim = ΔL/Δt puis η = 2(ρ_bille − ρ_liquide) g r²/(9 v_lim)",
+            "Vérifier Re ≪ 1, corriger les parois si besoin, puis comparer à la plage de conformité et exprimer η avec sa température"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Les pièges classiques",
+          "items": [
+            "Oublier la poussée d'Archimède : sans différence de densités, le calcul est faux",
+            "Utiliser le diamètre à la place du rayon dans r² (facteur 4 d'erreur)",
+            "Chronométrer pendant le régime transitoire : la vitesse n'est pas encore limite",
+            "Ne pas vérifier Re : la loi de Stokes n'est valable qu'en écoulement rampant",
+            "Oublier la température : η d'un miel peut varier de moitié sur quelques degrés"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">ΔL = 100 mm, Δt = 12,4 s</span> → v_lim = 8,06 × 10⁻³ m/s",
+            "<span class=\"cle\">Δρ = 7850 − 1420 = 6430 kg/m³</span> ; r = 1,50 mm",
+            "<span class=\"cle\">η = 2×6430×9,81×(1,50×10⁻³)²/(9×8,06×10⁻³)</span> ≈ 3,9 Pa·s",
+            "<span class=\"cle\">Re = 1420×8,06×10⁻³×3,0×10⁻³/3,9</span> ≈ 0,009 ≪ 1 ✓",
+            "<span class=\"cle\">Eau à 20 °C ≈ 1 mPa·s</span> ; miel ≈ 1 à 10 Pa·s (10³ à 10⁴ fois plus visqueux)"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Les trois forces sur la bille en chute",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Bille en chute : poids vers le bas, poussée d'Archimède et traînée de Stokes vers le haut ; équilibre à vitesse limite\"><defs><marker id=\"E2F1a\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--warn)\"/></marker><marker id=\"E2F1b\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Les trois forces sur la bille en chute</text><text x=\"16\" y=\"52\" fill=\"var(--warn)\" font-size=\"12\">Poids P — vers le bas</text><text x=\"16\" y=\"70\" fill=\"var(--fg)\" font-size=\"11\">P = (4/3) π r³ ρ_bille g</text><text x=\"16\" y=\"104\" fill=\"var(--ac)\" font-size=\"12\">Poussée d'Archimède A — vers le haut</text><text x=\"16\" y=\"122\" fill=\"var(--fg)\" font-size=\"11\">A = (4/3) π r³ ρ_liquide g</text><text x=\"16\" y=\"156\" fill=\"var(--ac)\" font-size=\"12\">Traînée de Stokes — vers le haut</text><text x=\"16\" y=\"174\" fill=\"var(--fg)\" font-size=\"11\">F_S = 6 π η r v</text><rect x=\"300\" y=\"40\" width=\"96\" height=\"144\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-width=\"1.5\"/><circle cx=\"348\" cy=\"104\" r=\"16\" fill=\"var(--ac)\"/><line x1=\"348\" y1=\"124\" x2=\"348\" y2=\"168\" stroke=\"var(--warn)\" stroke-width=\"2.5\" marker-end=\"url(#E2F1a)\"/><line x1=\"334\" y1=\"88\" x2=\"334\" y2=\"50\" stroke=\"var(--ac)\" stroke-width=\"2.5\" marker-end=\"url(#E2F1b)\"/><line x1=\"362\" y1=\"88\" x2=\"362\" y2=\"50\" stroke=\"var(--ac)\" stroke-width=\"2.5\" marker-end=\"url(#E2F1b)\"/><text x=\"348\" y=\"196\" text-anchor=\"middle\" fill=\"var(--dim)\" font-size=\"10\">bille en régime permanent</text><text x=\"430\" y=\"56\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">À la vitesse limite :</text><text x=\"430\" y=\"82\" fill=\"var(--fg)\" font-size=\"13\">P = A + F_S</text><text x=\"430\" y=\"110\" fill=\"var(--fg)\" font-size=\"11.5\">η = 2(ρ_b − ρ_l) g r² / (9 v_lim)</text><text x=\"430\" y=\"138\" fill=\"var(--warn)\" font-size=\"11.5\">à vérifier ensuite : Re ≪ 1</text><text x=\"430\" y=\"166\" fill=\"var(--dim)\" font-size=\"10.5\">ρ_b : bille · ρ_l : liquide</text></svg>"
+        },
+        {
+          "titre": "2 · Vitesse limite : transitoire puis plateau",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Courbe vitesse temps : montée transitoire puis plateau à la vitesse limite, mesure de l'écart de temps entre deux repères\"><rect x=\"8\" y=\"5\" width=\"410\" height=\"25\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-width=\"1\"/><defs><marker id=\"E2F1c\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Vitesse limite : transitoire puis plateau</text><line x1=\"60\" y1=\"160\" x2=\"610\" y2=\"160\" stroke=\"var(--dim)\" stroke-width=\"1.5\" marker-end=\"url(#E2F1c)\"/><line x1=\"60\" y1=\"160\" x2=\"60\" y2=\"34\" stroke=\"var(--dim)\" stroke-width=\"1.5\" marker-end=\"url(#E2F1c)\"/><line x1=\"60\" y1=\"62\" x2=\"600\" y2=\"62\" stroke=\"var(--warn)\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><polyline points=\"62,158 92,120 132,96 182,80 242,70 312,65 382,62 452,61 522,60 592,60\" fill=\"none\" stroke=\"var(--ac)\" stroke-width=\"3\"/><text x=\"470\" y=\"52\" fill=\"var(--warn)\" font-size=\"11\">v_lim (plateau)</text><text x=\"16\" y=\"40\" fill=\"var(--fg)\" font-size=\"11\">vitesse v</text><text x=\"556\" y=\"178\" fill=\"var(--fg)\" font-size=\"11\">temps t</text><line x1=\"200\" y1=\"150\" x2=\"420\" y2=\"150\" stroke=\"var(--ac)\" stroke-width=\"1.5\"/><line x1=\"200\" y1=\"144\" x2=\"200\" y2=\"156\" stroke=\"var(--ac)\" stroke-width=\"1.5\"/><line x1=\"420\" y1=\"144\" x2=\"420\" y2=\"156\" stroke=\"var(--ac)\" stroke-width=\"1.5\"/><text x=\"310\" y=\"143\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\">Δt entre deux repères</text><text x=\"16\" y=\"192\" fill=\"var(--dim)\" font-size=\"10.5\">v_lim = ΔL / Δt, mesurée uniquement après stabilisation de la vitesse.</text></svg>"
+        },
+        {
+          "titre": "3 · Viscosimètre à bille : du chronomètre à η",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Viscosimètre à bille : tube thermostaté, deux repères, chronomètre et quatre étapes d'exploitation\"><defs><marker id=\"E2F1d\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker><marker id=\"E2F1e\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--warn)\"/></marker></defs><text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Viscosimètre à bille : du chronomètre à η</text><rect x=\"96\" y=\"38\" width=\"108\" height=\"136\" rx=\"12\" fill=\"none\" stroke=\"var(--dim)\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/><rect x=\"112\" y=\"44\" width=\"76\" height=\"124\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\" stroke-width=\"2\"/><line x1=\"120\" y1=\"82\" x2=\"180\" y2=\"82\" stroke=\"var(--dim)\" stroke-width=\"1.5\" stroke-dasharray=\"4 3\"/><line x1=\"120\" y1=\"136\" x2=\"180\" y2=\"136\" stroke=\"var(--dim)\" stroke-width=\"1.5\" stroke-dasharray=\"4 3\"/><text x=\"18\" y=\"84\" fill=\"var(--fg)\" font-size=\"11\">repère 1</text><text x=\"18\" y=\"138\" fill=\"var(--fg)\" font-size=\"11\">repère 2</text><line x1=\"74\" y1=\"80\" x2=\"118\" y2=\"82\" stroke=\"var(--dim)\" stroke-width=\"1\"/><line x1=\"74\" y1=\"136\" x2=\"118\" y2=\"136\" stroke=\"var(--dim)\" stroke-width=\"1\"/><circle cx=\"150\" cy=\"102\" r=\"10\" fill=\"var(--ac)\"/><line x1=\"150\" y1=\"114\" x2=\"150\" y2=\"130\" stroke=\"var(--warn)\" stroke-width=\"2.5\" marker-end=\"url(#E2F1e)\"/><text x=\"150\" y=\"186\" text-anchor=\"middle\" fill=\"var(--dim)\" font-size=\"10\">bain à 20,0 °C</text><line x1=\"194\" y1=\"106\" x2=\"268\" y2=\"106\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#E2F1d)\"/><circle cx=\"300\" cy=\"106\" r=\"27\" fill=\"var(--card2)\" stroke=\"var(--ac)\" stroke-width=\"2\"/><text x=\"300\" y=\"115\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"20\" font-weight=\"bold\">t</text><text x=\"300\" y=\"154\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"11\">Δt mesuré</text><rect x=\"410\" y=\"44\" width=\"234\" height=\"126\" rx=\"10\" fill=\"var(--card2)\" stroke=\"var(--ac)\" stroke-width=\"1.5\"/><text x=\"424\" y=\"72\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">1. v_lim = ΔL / Δt</text><text x=\"424\" y=\"98\" fill=\"var(--fg)\" font-size=\"11.5\">2. η = 2(ρ_b−ρ_l) g r² / (9 v_lim)</text><text x=\"424\" y=\"124\" fill=\"var(--fg)\" font-size=\"11.5\">3. Re = ρ_l v d / η ≪ 1</text><text x=\"424\" y=\"150\" fill=\"var(--warn)\" font-size=\"11.5\">4. η annoncé avec la température</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Mathématiques et statistiques",
+      "titre": "Fonctions et représentations : linéaire, affine, exponentielle, logarithmique",
+      "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025 (BTS BIOALC, U3 Mathématiques, RNCP38884) · Référentiel mathématiques BTS, volet « Fonctions et représentations » et « Dérivation » · Annale officielle 2026 (ac-aix-marseille) · VIM 3e éd. JCGM 200:2012 pour le vocabulaire de la mesure",
+      "points": [
+        "Une fonction f de D dans ℝ associe à chaque nombre x de son domaine de définition D un unique nombre y = f(x). x est la variable (temps, concentration, masse…), y l'image. Dans une gamme d'étalonnage, on étudie par exemple la fonction A : c ↦ A(c) qui donne l'absorbance en fonction de la concentration.",
+        "La représentation graphique est l'ensemble des points M(x ; f(x)) dans un repère orthonormal. Lecture graphique : pour trouver f(a), on part de a sur l'axe des abscisses, on rejoint la courbe puis on projette sur l'axe des ordonnées. Réciproquement, résoudre f(x) = b revient à chercher les abscisses des intersections de la courbe avec la droite horizontale y = b.",
+        "Fonction linéaire : f(x) = a·x, avec a réel. Sa courbe est une droite passant par l'origine. Elle est croissante si a > 0, décroissante si a < 0 ; a est le coefficient directeur (pente). En laboratoire : m = ρ·V, ou A = k·c pour une gamme dont le blanc a été soustrait.",
+        "Fonction affine : f(x) = a·x + b. Sa courbe est une droite de pente a qui coupe l'axe des ordonnées en (0 ; b) ; b est l'ordonnée à l'origine (signal de fond ou blanc). La pente se calcule avec deux points quelconques : a = (f(x₂) − f(x₁))/(x₂ − x₁) = Δy/Δx. Une droite est entièrement déterminée par sa pente et son ordonnée à l'origine.",
+        "Fonction exponentielle : f(x) = e^(k·x), avec k réel non nul. Définie sur ℝ, elle est strictement positive, passe par (0 ; 1), croissante si k > 0 et décroissante si k < 0 ; elle n'a jamais de zéro et se rapproche de 0 aux extrémités. Propriété clé : f(x₁ + x₂) = f(x₁)·f(x₂). Elle modélise la croissance bactérienne, la décroissance d'un réactif ou l'atténuation d'un signal.",
+        "Fonction logarithmique : f(x) = ln x (logarithme népérien) ou log x = log₁₀ x (décimal), définie seulement sur ]0 ; +∞[. Elle est croissante, concave, passe par (1 ; 0), et ln et exp sont réciproques : ln(eˣ) = x et e^(ln x) = x. Relations utiles : ln(ab) = ln a + ln b, ln(a/b) = ln a − ln b, ln(aⁿ) = n·ln a. Le pH = −log[H⁺] et A = −log T en sont des applications directes.",
+        "Passage tableau ↔ courbe ↔ équation : d'un tableau de valeurs on trace la courbe point par point ; de la courbe on reconnaît l'allure (droite, exponentielle, logarithmique) et on estime les paramètres ; de l'équation on calcule un tableau puis la courbe. Une gamme d'étalonnage sert exactement à ce va-et-vient entre mesures et modèle.",
+        "Variations et monotonie : f est croissante sur un intervalle I si x₁ < x₂ implique f(x₁) ≤ f(x₂) ; elle est strictement croissante si l'inégalité est stricte, décroissante si le sens s'inverse. Comparer les taux de variation sur des intervalles successifs révèle une accélération (phase exponentielle d'une cinétique) ou un ralentissement (approche d'un plateau).",
+        "Taux de variation moyen et pente : sur [x₁ ; x₂], le taux moyen vaut (f(x₂) − f(x₁))/(x₂ − x₁) : géométriquement, c'est la pente de la sécante. Plus l'intervalle est étroit, plus cette pente approche celle de la tangente, c'est-à-dire le nombre dérivé (fiche suivante). L'unité d'une pente est celle de f divisée par celle de x : un (mg/L)/min est une vitesse de réaction.",
+        "Lecture inverse et interpolation : pour une concentration inconnue, on lit l'ordonnée Aₓ sur la courbe puis on projette sur l'axe des concentrations. Si le point tombe entre deux étalons, on interpole linéairement : c = c₁ + (A − A₁)(c₂ − c₁)/(A₂ − A₁). On ne doit pas extrapoler hors de la gamme : la linéarité n'y est plus garantie.",
+        "Domaine et cohérence physique : ln x impose x > 0, 1/x impose x ≠ 0, √x impose x ≥ 0, une exponentielle est toujours strictement positive. Le domaine est aussi dicté par le contexte : une concentration, une masse ou un temps de réaction ne peuvent pas être négatifs, même si l'équation les accepte.",
+        "Exemples chiffrés : avec la gamme A = 0,250·c (c en mg/L), une absorbance A = 0,438 donne c = 0,438/0,250 = 1,75 mg/L. Pour une cinétique N(t) = 1000·e^(0,23 t) (t en heures), le temps de doublement vaut ln 2/0,23 ≈ 3,0 h. Enfin, un pH qui passe de 3 à 5 signifie [H⁺] divisé par 10² = 100."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est le domaine de définition de la fonction ln ?",
+          "options": [
+            "Tout ℝ",
+            "]0 ; +∞[",
+            "[0 ; +∞[",
+            "ℝ sans 0"
+          ],
+          "correct": 1,
+          "correction": "ln x n'est définie que pour x strictement positif : le logarithme de 0 ou d'un nombre négatif n'existe pas dans ℝ."
+        },
+        {
+          "type": "qcm",
+          "q": "Pour f(x) = 2x + 3, quelles sont la pente et l'ordonnée à l'origine ?",
+          "options": [
+            "Pente 3, origine 2",
+            "Pente 2, origine 3",
+            "Pente 2, origine −3",
+            "Pente −2, origine 3"
+          ],
+          "correct": 1,
+          "correction": "Dans f(x) = a x + b, a = 2 est le coefficient directeur et b = f(0) = 3 l'ordonnée à l'origine."
+        },
+        {
+          "type": "qcm",
+          "q": "Que vaut e^(ln 5) ?",
+          "options": [
+            "5",
+            "ln 5",
+            "e⁵",
+            "1"
+          ],
+          "correct": 0,
+          "correction": "exp et ln sont réciproques : e^(ln x) = x pour tout x > 0, et ln(eˣ) = x pour tout x réel."
+        },
+        {
+          "type": "qcm",
+          "q": "Une gamme d'étalonnage suit A = 0,250·c (c en mg/L). Quelle concentration correspond à A = 0,438 ?",
+          "options": [
+            "1,75 mg/L",
+            "0,175 mg/L",
+            "17,5 mg/L",
+            "0,114 mg/L"
+          ],
+          "correct": 0,
+          "correction": "On isole c : c = A/0,250 = 0,438/0,250 = 1,75 mg/L. Le résultat tombe bien dans la gamme d'étalons.",
+          "contexte": "Détermination de la concentration d'un échantillon par lecture sur une droite d'étalonnage.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Une population suit N(t) = 1000·e^(0,23 t), t en heures. Quel est son temps de doublement ?",
+          "options": [
+            "Environ 3,0 h",
+            "0,23 h",
+            "Environ 6,0 h",
+            "2,0 h"
+          ],
+          "correct": 0,
+          "correction": "e^(k·t₂) = 2 donne t₂ = ln 2/k = 0,693/0,23 ≈ 3,0 h. Après 3 h, la population est bien multipliée par 2.",
+          "contexte": "Modélisation exponentielle d'une croissance bactérienne ou d'une cinétique de réaction.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle propriété caractérise la courbe d'une exponentielle décroissante e^(kx) avec k négatif ?",
+          "options": [
+            "Elle passe par (0 ; 1) et reste strictement positive",
+            "Elle passe par (0 ; 0)",
+            "C'est une droite",
+            "Elle est définie uniquement pour x positif"
+          ],
+          "correct": 0,
+          "correction": "Toute exponentielle passe par (0 ; 1), est strictement positive sur tout ℝ et tend vers 0 sans l'atteindre."
+        },
+        {
+          "type": "qcm",
+          "q": "Le taux de variation moyen de f sur [x₁ ; x₂] s'écrit :",
+          "options": [
+            "(f(x₂) − f(x₁))/(x₂ − x₁)",
+            "f(x₂)/x₂",
+            "f(x₂) − f(x₁)",
+            "x₂ − x₁"
+          ],
+          "correct": 0,
+          "correction": "C'est le rapport de la variation de f sur la variation de x : géométriquement, la pente de la droite sécante passant par les deux points de la courbe."
+        },
+        {
+          "type": "qcm",
+          "q": "Le pH d'une solution passe de 3 à 5. La concentration en ions H⁺ est :",
+          "options": [
+            "Multipliée par 2",
+            "Divisée par 20",
+            "Divisée par 100",
+            "Multipliée par 100"
+          ],
+          "correct": 2,
+          "correction": "[H⁺] = 10⁻ᵖᴴ : passer de 10⁻³ à 10⁻⁵ mol/L, c'est diviser par 10² = 100. Une unité de pH correspond à un facteur 10."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi ne faut-il pas extrapoler une gamme d'étalonnage au-delà des concentrations étalonnées ?",
+          "reponse": "Parce que la relation A = a·c + b n'est vérifiée, et encore moins linéaire, que dans la zone de concentrations étalonnées. Au-delà, la loi de Beer-Lambert peut présenter des déviations, le détecteur peut saturer. Une valeur lue par extrapolation n'est donc pas validée : il faut diluer l'échantillon pour le ramener dans la gamme, puis multiplier par le facteur de dilution.",
+          "correction": "La réponse doit relier la limitation du domaine de validité du modèle à la pratique du laboratoire (dilution et révélation du facteur)."
+        },
+        {
+          "type": "texte",
+          "q": "Comment obtenir l'équation d'une droite d'étalonnage à partir d'un tableau de valeurs, puis doser un échantillon ?",
+          "reponse": "On trace les points (cᵢ ; Aᵢ), on vérifie leur alignement, puis on calcule la pente a = ΔA/Δc entre deux points éloignés de la droite et l'ordonnée à l'origine b = A − a·c (le blanc). L'équation est A = a·c + b. Pour l'échantillon, on mesure Aₓ puis on isole cₓ = (Aₓ − b)/a, en multiplier par le facteur de dilution si l'échantillon a été dilué.",
+          "correction": "Il faut citer le calcul de a et de b, l'équation, l'isolement de cₓ et la prise en compte du blanc et de la dilution."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Une fonction relie une grandeur à une autre ; savoir passer du tableau à la courbe puis à l'équation, c'est savoir lire une gamme d'étalonnage ou une cinétique."
+        },
+        {
+          "type": "formule",
+          "titre": "Les écritures à connaître",
+          "eq": "y = f(x)   ·   f(x) = a x + b   ·   a = Δy/Δx = (y₂ − y₁)/(x₂ − x₁)",
+          "leg": "a : pente (coefficient directeur) · b = f(0) : ordonnée à l'origine · Δy/Δx : taux de variation moyen"
+        },
+        {
+          "type": "grille",
+          "titre": "Quatre allures à reconnaître",
+          "items": [
+            [
+              "f(x) = a x",
+              "Droite passant par l'origine ; croissante si a positif",
+              "point (0 ; 0)"
+            ],
+            [
+              "f(x) = a x + b",
+              "Droite de pente a ; b est le signal de fond",
+              "point (0 ; b)"
+            ],
+            [
+              "f(x) = e^(kx)",
+              "Toujours positive, croissante si k positif, décroissante si k négatif",
+              "point (0 ; 1)"
+            ],
+            [
+              "f(x) = ln x",
+              "Définie pour x strictement positif, croissante et concave",
+              "point (1 ; 0)"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Variations et lecture graphique",
+          "items": [
+            "Croissante : x₁ < x₂ donne f(x₁) ≤ f(x₂) ; décroissante : l'inégalité s'inverse",
+            "Lire f(a) : monter depuis a jusqu'à la courbe, puis projeter horizontalement sur l'axe des y",
+            "Résoudre f(x) = b : chercher les abscisses des points d'intersection avec la droite y = b",
+            "Comparer les pentes sur des intervalles successifs pour repérer accélération ou plateau"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Du tableau des étalons à la concentration inconnue",
+          "items": [
+            "Tracer les points (cᵢ ; Aᵢ) dans un repère orthonormal et vérifier leur alignement",
+            "Calculer la pente a = ΔA/Δc avec deux points éloignés, puis b = A − a·c",
+            "Écrire l'équation A = a·c + b et la comparer à la gamme (blanc éventuel)",
+            "Mesurer Aₓ pour l'échantillon, puis isoler cₓ = (Aₓ − b)/a",
+            "Vérifier que cₓ est bien dans la gamme ; sinon diluer puis multiplier par le facteur de dilution"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Les pièges classiques",
+          "items": [
+            "Confondre pente a et ordonnée à l'origine b dans f(x) = a x + b",
+            "Oublier que ln x n'existe que pour x strictement positif",
+            "Extrapoler une droite d'étalonnage hors de la gamme validée",
+            "Oublier de révéler la dilution après lecture de la concentration",
+            "Croire qu'une exponentielle peut s'annuler : elle reste toujours strictement positive"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">A = 0,250 c</span> et A = 0,438 → c = 1,75 mg/L",
+            "<span class=\"cle\">N(t) = 1000 e^(0,23 t)</span> → doublement en ln 2/0,23 ≈ 3,0 h",
+            "<span class=\"cle\">pH 3 → 10⁻³ mol/L</span> ; pH 5 → 10⁻⁵ mol/L : division par 100",
+            "<span class=\"cle\">e^(ln 5) = 5</span> ; ln(eˣ) = x : fonctions réciproques",
+            "<span class=\"cle\">Pente entre (1 ; 2) et (3 ; 8)</span> : a = (8−2)/(3−1) = 3"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Quatre allures à reconnaître d'un coup d'œil",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Quatre graphiques côte à côte : linéaire, affine, exponentielle et logarithmique\"><rect x=\"8\" y=\"5\" width=\"410\" height=\"25\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-width=\"1\"/><rect x=\"8\" y=\"5\" width=\"4\" height=\"25\" rx=\"2\" fill=\"var(--warn)\"/><text x=\"16\" y=\"20\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Quatre allures à reconnaître d'un coup d'œil</text><text x=\"16\" y=\"44\" fill=\"var(--ac)\" font-size=\"11\">linéaire : y = a x</text><line x1=\"26\" y1=\"148\" x2=\"156\" y2=\"148\" stroke=\"var(--dim)\"/><line x1=\"26\" y1=\"148\" x2=\"26\" y2=\"56\" stroke=\"var(--dim)\"/><line x1=\"28\" y1=\"144\" x2=\"152\" y2=\"62\" stroke=\"var(--ac)\" stroke-width=\"2.5\"/><text x=\"16\" y=\"174\" fill=\"var(--fg)\" font-size=\"10.5\">droite par l'origine</text><text x=\"180\" y=\"44\" fill=\"var(--ac)\" font-size=\"11\">affine : y = a x + b</text><line x1=\"190\" y1=\"148\" x2=\"320\" y2=\"148\" stroke=\"var(--dim)\"/><line x1=\"190\" y1=\"148\" x2=\"190\" y2=\"56\" stroke=\"var(--dim)\"/><line x1=\"192\" y1=\"138\" x2=\"318\" y2=\"58\" stroke=\"var(--ac)\" stroke-width=\"2.5\"/><text x=\"180\" y=\"174\" fill=\"var(--fg)\" font-size=\"10.5\">pente a, origine b</text><text x=\"344\" y=\"44\" fill=\"var(--ac)\" font-size=\"11\">exponentielle : e^(k x)</text><line x1=\"354\" y1=\"148\" x2=\"484\" y2=\"148\" stroke=\"var(--dim)\"/><line x1=\"354\" y1=\"148\" x2=\"354\" y2=\"56\" stroke=\"var(--dim)\"/><polyline points=\"356,145 380,140 404,131 428,114 452,90 476,60\" fill=\"none\" stroke=\"var(--ac)\" stroke-width=\"2.5\"/><text x=\"344\" y=\"174\" fill=\"var(--fg)\" font-size=\"10.5\">positive, passe par (0 ; 1)</text><text x=\"508\" y=\"44\" fill=\"var(--ac)\" font-size=\"11\">logarithmique : ln x</text><line x1=\"518\" y1=\"148\" x2=\"648\" y2=\"148\" stroke=\"var(--dim)\"/><line x1=\"518\" y1=\"148\" x2=\"518\" y2=\"56\" stroke=\"var(--dim)\"/><polyline points=\"520,60 540,88 564,108 588,122 612,132 644,140\" fill=\"none\" stroke=\"var(--ac)\" stroke-width=\"2.5\"/><text x=\"508\" y=\"174\" fill=\"var(--fg)\" font-size=\"10.5\">domaine : x strictement positif</text></svg>"
+        },
+        {
+          "titre": "2 · Gamme d'étalonnage : lire cₓ par projection",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Droite d'étalonnage A en fonction de c avec projection de la concentration inconnue\"><rect x=\"8\" y=\"5\" width=\"410\" height=\"25\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-width=\"1\"/><defs><marker id=\"E2F2a\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--dim)\"/></marker></defs><text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Gamme d'étalonnage : lire cₓ par projection</text><line x1=\"70\" y1=\"160\" x2=\"580\" y2=\"160\" stroke=\"var(--dim)\" stroke-width=\"1.5\" marker-end=\"url(#E2F2a)\"/><line x1=\"70\" y1=\"160\" x2=\"70\" y2=\"34\" stroke=\"var(--dim)\" stroke-width=\"1.5\" marker-end=\"url(#E2F2a)\"/><line x1=\"70\" y1=\"160\" x2=\"470\" y2=\"70\" stroke=\"var(--ac)\" stroke-width=\"2.5\"/><g fill=\"var(--ac)\"><circle cx=\"170\" cy=\"137.5\" r=\"4\"/><circle cx=\"270\" cy=\"115\" r=\"4\"/><circle cx=\"370\" cy=\"92.5\" r=\"4\"/><circle cx=\"470\" cy=\"70\" r=\"4\"/></g><line x1=\"70\" y1=\"121\" x2=\"245\" y2=\"121\" stroke=\"var(--warn)\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/><line x1=\"245\" y1=\"121\" x2=\"245\" y2=\"160\" stroke=\"var(--warn)\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/><circle cx=\"245\" cy=\"121\" r=\"4.5\" fill=\"var(--warn)\"/><text x=\"78\" y=\"114\" fill=\"var(--warn)\" font-size=\"11\">Aₓ = 0,438</text><text x=\"198\" y=\"178\" fill=\"var(--warn)\" font-size=\"11\">cₓ = 1,75 mg/L</text><text x=\"300\" y=\"62\" fill=\"var(--ac)\" font-size=\"12\">droite A = 0,250 c</text><text x=\"16\" y=\"42\" fill=\"var(--fg)\" font-size=\"11\">A</text><text x=\"586\" y=\"176\" fill=\"var(--fg)\" font-size=\"11\">c (mg/L)</text><text x=\"16\" y=\"194\" fill=\"var(--dim)\" font-size=\"10.5\">On projette depuis Aₓ jusqu'à la droite, puis verticalement sur l'axe des concentrations.</text></svg>"
+        },
+        {
+          "titre": "3 · Échelle de pH : une unité = un facteur 10",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Échelle logarithmique de pH : pH 3, 4 et 5 correspondent à des concentrations en ions H+ divisées par dix à chaque pas\"><rect x=\"8\" y=\"5\" width=\"410\" height=\"25\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-width=\"1\"/><defs><marker id=\"E2F2b\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker><marker id=\"E2F2c\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--warn)\"/></marker></defs><text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Échelle de pH : une unité = un facteur 10</text><line x1=\"50\" y1=\"115\" x2=\"610\" y2=\"115\" stroke=\"var(--dim)\" stroke-width=\"1.5\" marker-end=\"url(#E2F2b)\"/><line x1=\"130\" y1=\"105\" x2=\"130\" y2=\"125\" stroke=\"var(--dim)\" stroke-width=\"1.5\"/><line x1=\"340\" y1=\"105\" x2=\"340\" y2=\"125\" stroke=\"var(--dim)\" stroke-width=\"1.5\"/><line x1=\"550\" y1=\"105\" x2=\"550\" y2=\"125\" stroke=\"var(--dim)\" stroke-width=\"1.5\"/><text x=\"130\" y=\"94\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">pH 3</text><text x=\"340\" y=\"94\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">pH 4</text><text x=\"550\" y=\"94\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">pH 5</text><text x=\"130\" y=\"144\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"11\">10⁻³ mol/L</text><text x=\"340\" y=\"144\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"11\">10⁻⁴ mol/L</text><text x=\"550\" y=\"144\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"11\">10⁻⁵ mol/L</text><line x1=\"190\" y1=\"70\" x2=\"280\" y2=\"70\" stroke=\"var(--warn)\" stroke-width=\"1.5\" marker-end=\"url(#E2F2c)\"/><text x=\"235\" y=\"62\" text-anchor=\"middle\" fill=\"var(--warn)\" font-size=\"11\">÷ 10</text><line x1=\"400\" y1=\"70\" x2=\"490\" y2=\"70\" stroke=\"var(--warn)\" stroke-width=\"1.5\" marker-end=\"url(#E2F2c)\"/><text x=\"445\" y=\"62\" text-anchor=\"middle\" fill=\"var(--warn)\" font-size=\"11\">÷ 10</text><text x=\"16\" y=\"182\" fill=\"var(--dim)\" font-size=\"10.5\">pH = − log[H⁺] : de pH 3 à pH 5, [H⁺] est divisée par 100 (10²). L'échelle est logarithmique.</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Mathématiques et statistiques",
+      "titre": "Dérivation : taux de variation, pente et optimisation",
+      "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025 (BTS BIOALC, U3 Mathématiques, RNCP38884) · Référentiel mathématiques BTS, volet « Fonctions et représentations » et « Dérivation » · Annale officielle 2026 (ac-aix-marseille) · VIM 3e éd. JCGM 200:2012 pour le vocabulaire de la mesure",
+      "points": [
+        "Le taux de variation moyen de f sur [a ; b] vaut (f(b) − f(a))/(b − a). C'est la pente de la droite sécante joignant les points A(a ; f(a)) et B(b ; f(b)). Son unité est celle de f divisée par celle de la variable : par exemple mg·L⁻¹·min⁻¹ pour une cinétique.",
+        "Le nombre dérivé de f en a est la limite du taux de variation quand h tend vers 0 : f'(a) = lim [f(a+h) − f(a)]/h. Il existe si la limite est finie : on dit alors que f est dérivable en a. Géométriquement, f'(a) est la pente de la tangente à la courbe en A(a ; f(a)).",
+        "L'équation de la tangente en a est y = f(a) + f'(a)(x − a). Elle donne une approximation locale (linéarisation) : pour un petit accroissement Δx, on a Δf ≈ f'(a)·Δx. C'est ainsi qu'on estime l'effet d'une petite erreur de concentration sur le signal mesuré.",
+        "Dérivées usuelles à mémoriser : (xⁿ)' = n·xⁿ⁻¹ ; (eˣ)' = eˣ ; (e^(kx))' = k·e^(kx) ; (ln x)' = 1/x (x > 0) ; (sin x)' = cos x ; (cos x)' = −sin x ; (constante)' = 0 ; (a x + b)' = a.",
+        "Règles de calcul : (u + v)' = u' + v' ; (λu)' = λu' ; (u·v)' = u'v + u v' ; (u/v)' = (u'v − u v')/v². Dérivée composée (règle de la chaîne) : (u ∘ v)' = v'·u'(v). Exemple : (e^(2t²))' = 4t·e^(2t²).",
+        "Interprétation physique : si s(t) est une position, alors s'(t) est la vitesse ; si C(t) est une concentration, C'(t) est une vitesse de réaction (avec un signe négatif si C diminue) ; si A(c) est le signal d'une gamme d'étalonnage, A'(c) est la sensibilité de la méthode, c'est-à-dire la pente de la droite.",
+        "Signe de la dérivée et variations : si f' est positif sur un intervalle, f y est strictement croissante ; si f' est négatif, f est strictement décroissante ; si f' s'annule, le point est stationnaire et la tangente est horizontale. La dérivée seconde f'' renseigne sur la concavité (f'' positif : courbe convexe).",
+        "Extremum local : f'(a) = 0 et f' change de signe en a. Si f' passe du positif au négatif, a est un maximum local ; du négatif au positif, c'est un minimum local. Test alternatif : si f'(a) = 0 et f''(a) > 0, c'est un minimum ; si f''(a) < 0, c'est un maximum.",
+        "Recherche d'un extremum global sur [a ; b] : on résout f'(x) = 0 pour obtenir les points critiques intérieurs, on étudie le signe de f' (tableau de variations), puis on compare les valeurs de f aux points critiques et aux bornes. Le plus grand valeur est le maximum global, le plus petit le minimum global.",
+        "Démarche d'optimisation en quatre temps : choisir la variable et son domaine physique ; exprimer la grandeur à optimiser en fonction de cette variable ; dériver et résoudre f'(x) = 0 ; vérifier la nature de l'extremum puis conclure avec l'unité et le contexte. Exemple : rendement d'extraction, température optimale ou rapport signal/bruit.",
+        "Petit accroissement et incertitudes : Δf ≈ f'(a)·Δa permet de propager une erreur de mesure. Sur une gamme A = a·c + b, une incertitude Δc sur la concentration produit ΔA ≈ a·Δc ; inversement Δc ≈ ΔA/a. La dérivée mesure donc la sensibilité d'une chaîne de mesure (à rapprocher du bilan d'incertitude de U3-BTS2).",
+        "Exemples chiffrés : C(t) = 2,0·e^(−0,15 t) (mg/L, t en min) donne C'(t) = −0,30·e^(−0,15 t), donc C'(0) = −0,30 mg·L⁻¹·min⁻¹ et C(10) ≈ 0,446 mg/L avec C'(10) ≈ −0,067 mg·L⁻¹·min⁻¹ : la réaction ralentit. Autre exemple : f(x) = x³ − 3x a pour dérivée 3x² − 3, nulle en x = ±1 ; f''(1) = 6 > 0 donne un minimum en x = 1 (f = −2) et f''(−1) = −6 < 0 un maximum en x = −1 (f = 2)."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la dérivée de e^(3x) ?",
+          "options": [
+            "3 e^(3x)",
+            "e^(3x)",
+            "3 e^(2x)",
+            "e^(3x)/3"
+          ],
+          "correct": 0,
+          "correction": "Par la règle de la chaîne : (e^(u))' = u'·e^(u) avec u = 3x, donc u' = 3 et (e^(3x))' = 3 e^(3x)."
+        },
+        {
+          "type": "qcm",
+          "q": "La dérivée de ln x (pour x strictement positif) vaut :",
+          "options": [
+            "1/x",
+            "x",
+            "−1/x²",
+            "ln x"
+          ],
+          "correct": 0,
+          "correction": "(ln x)' = 1/x. C'est une dérivée à connaître par cœur, utilisée notamment en cinétique et pour les pH."
+        },
+        {
+          "type": "qcm",
+          "q": "Le nombre dérivé f'(a) est la pente de :",
+          "options": [
+            "La sécante [AB]",
+            "La tangente en A",
+            "L'axe des abscisses",
+            "La normale en A"
+          ],
+          "correct": 1,
+          "correction": "Le taux de variation moyen donne la pente de la sécante ; en faisant tendre l'intervalle vers 0, on obtient la pente de la tangente, qui est le nombre dérivé."
+        },
+        {
+          "type": "qcm",
+          "q": "Pour C(t) = 2,0·e^(−0,15 t) (mg/L, t en min), que vaut C'(0) ?",
+          "options": [
+            "−0,30 mg·L⁻¹·min⁻¹",
+            "−0,15 mg·L⁻¹·min⁻¹",
+            "0,30 mg·L⁻¹·min⁻¹",
+            "−2,0 mg·L⁻¹·min⁻¹"
+          ],
+          "correct": 0,
+          "correction": "C'(t) = 2,0 × (−0,15) e^(−0,15 t) = −0,30 e^(−0,15 t), donc C'(0) = −0,30 mg·L⁻¹·min⁻¹. Le signe négatif traduit la diminution de la concentration.",
+          "contexte": "Vitesse initiale de disparition d'un réactif suivie par spectrophotométrie.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Pour f(x) = x³ − 3x, que peut-on dire du point d'abscisse x = 1 ?",
+          "options": [
+            "C'est un minimum local car f'(1)=0 et f''(1)=6 positif",
+            "C'est un maximum local car f''(1) positif",
+            "Ce n'est pas un extremum",
+            "C'est un point d'inflexion"
+          ],
+          "correct": 0,
+          "correction": "f'(x) = 3x² − 3 s'annule en x = 1 ; f''(x) = 6x donne f''(1) = 6 > 0 : la courbe est convexe, donc c'est un minimum local (f(1) = −2).",
+          "contexte": "Recherche d'un extremum par dérivation première et seconde.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "La formule de la dérivée d'un produit est :",
+          "options": [
+            "(uv)' = u'v + uv'",
+            "(uv)' = u'v'",
+            "(uv)' = u'v − uv'",
+            "(uv)' = u' + v'"
+          ],
+          "correct": 0,
+          "correction": "La dérivée d'un produit est u'v + uv'. Celle d'un quotient est (u'v − uv')/v² ; ce sont deux formules distinctes."
+        },
+        {
+          "type": "qcm",
+          "q": "L'équation de la tangente à la courbe y = f(x) au point d'abscisse a est :",
+          "options": [
+            "y = f(a) + f'(a)(x − a)",
+            "y = f'(a)(x − a)",
+            "y = f(a) + f'(a)",
+            "y = f'(a)·x"
+          ],
+          "correct": 0,
+          "correction": "La tangente passe par A(a ; f(a)) et a pour pente f'(a) : son équation est y − f(a) = f'(a)(x − a)."
+        },
+        {
+          "type": "qcm",
+          "q": "Si f'(x) est négatif sur tout un intervalle I, alors f est sur I :",
+          "options": [
+            "Strictement croissante",
+            "Strictement décroissante",
+            "Constante",
+            "Convexe"
+          ],
+          "correct": 1,
+          "correction": "Le signe de la dérivée donne les variations : f' négatif signifie que la fonction décroît. La convexité, elle, se lit sur le signe de la dérivée seconde."
+        },
+        {
+          "type": "texte",
+          "q": "Que représente la dérivée C'(t) d'une concentration C(t) en fonction du temps ? Préciser l'unité et le signe.",
+          "reponse": "C'(t) est la vitesse instantanée de variation de la concentration : c'est la pente de la tangente à la courbe C(t) au temps t. Elle s'exprime en (unité de concentration)/(unité de temps), par exemple mg·L⁻¹·min⁻¹. Si la concentration diminue (consommation d'un réactif), C'(t) est négatif ; la vitesse de réaction est alors −C'(t), qui est positive. Sa valeur absolue diminue au cours du temps pour une cinétique de décroissance exponentielle.",
+          "correction": "La réponse doit mentionner l'interprétation géométrique (pente de la tangente), l'unité composée et le lien entre le signe de la dérivée et le sens de variation."
+        },
+        {
+          "type": "texte",
+          "q": "Décrire la démarche d'optimisation puis l'appliquer à f(x) = x³ − 3x sur l'intervalle [−2 ; 2].",
+          "reponse": "Démarche : choisir la variable et son domaine, exprimer la grandeur à optimiser, dériver et résoudre f'(x)=0, étudier le signe de la dérivée puis comparer les valeurs aux points critiques et aux bornes. Ici f'(x)=3x²−3=0 donne x=−1 et x=1 ; f''(x)=6x, donc f''(−1)=−6 (maximum local) et f''(1)=6 (minimum local). Valeurs : f(−2)=−2, f(−1)=2, f(1)=−2, f(2)=2. Sur [−2 ; 2], le maximum global vaut 2, atteint en x=−1 et x=2 ; le minimum global vaut −2, atteint en x=1 et x=−2.",
+          "correction": "Il ne suffit pas de trouver les points critiques : il faut impérativement comparer avec les bornes de l'intervalle pour un extremum global, et vérifier la nature de chaque point critique (signe de f' ou de f'')."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "La dérivée mesure une pente locale : elle transforme une courbe en vitesse, en taux de réaction ou en sensibilité, et permet de trouver un optimum."
+        },
+        {
+          "type": "formule",
+          "titre": "Le nombre dérivé",
+          "eq": "f'(a) = lim(h→0) [f(a+h) − f(a)] / h",
+          "leg": "C'est la pente de la tangente en A(a ; f(a)) · tangente : y = f(a) + f'(a)(x − a)"
+        },
+        {
+          "type": "grille",
+          "titre": "Les dérivées à mémoriser",
+          "items": [
+            [
+              "xⁿ",
+              "n·xⁿ⁻¹",
+              "cas particulier : (ax+b)' = a"
+            ],
+            [
+              "e^(kx)",
+              "k·e^(kx)",
+              "la dérivée garde la même forme"
+            ],
+            [
+              "ln x",
+              "1/x",
+              "uniquement pour x strictement positif"
+            ],
+            [
+              "u·v",
+              "u'v + uv'",
+              "quotient : (u'v − uv')/v²"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Ce que la dérivée raconte au labo",
+          "items": [
+            "s'(t) : vitesse d'un mobile (m/s)",
+            "C'(t) : vitesse de réaction, négative si le réactif disparaît (mg·L⁻¹·min⁻¹)",
+            "A'(c) : sensibilité d'une gamme d'étalonnage, c'est-à-dire sa pente",
+            "f'(x) = 0 et changement de signe : maximum ou minimum, utile pour optimiser un rendement"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Optimiser une grandeur, pas à pas",
+          "items": [
+            "Choisir la variable x et préciser son domaine physique (bornes de l'intervalle)",
+            "Exprimer la grandeur à optimiser sous la forme d'une fonction f(x)",
+            "Calculer f'(x) et résoudre f'(x) = 0 pour obtenir les points critiques",
+            "Déterminer la nature des points critiques : signe de f' de part et d'autre ou signe de f''",
+            "Comparer les valeurs de f aux points critiques et aux bornes, puis conclure avec l'unité"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Les pièges classiques",
+          "items": [
+            "Oublier le facteur k dans (e^(kx))' = k·e^(kx)",
+            "Dériver un produit comme une somme : (uv)' n'est pas u'v'",
+            "Confondre f'(a), qui est un nombre, et f'(x), qui est une fonction",
+            "Oublier de comparer avec les bornes quand on cherche un extremum global",
+            "Appliquer (ln x)' = 1/x sans vérifier que x est strictement positif"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">C(t)=2,0 e^(−0,15 t)</span> → C'(t) = −0,30 e^(−0,15 t)",
+            "<span class=\"cle\">C'(0) = −0,30 mg·L⁻¹·min⁻¹</span> ; C'(10) ≈ −0,067 : la réaction ralentit",
+            "<span class=\"cle\">f(x)=x³−3x</span> → f'(x)=3x²−3, nulle en x = ±1",
+            "<span class=\"cle\">f''(1)=6 > 0</span> → minimum en x=1 ; f''(−1)=−6 → maximum en x=−1",
+            "<span class=\"cle\">e^(2t²)</span> → dérivée 4t·e^(2t²) (règle de la chaîne)"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Sécante et tangente : du taux moyen au nombre dérivé",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Courbe avec une sécante entre deux points A et B et la tangente en A dont la pente est le nombre dérivé\"><rect x=\"8\" y=\"5\" width=\"410\" height=\"25\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-width=\"1\"/><defs><marker id=\"E2F3a\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--dim)\"/></marker></defs><text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Du taux moyen au nombre dérivé</text><text x=\"16\" y=\"42\" fill=\"var(--warn)\" font-size=\"11\">sécante [AB] : taux moyen Δf/Δx</text><text x=\"455\" y=\"42\" fill=\"var(--ac)\" font-size=\"11\">tangente en A : pente f'(a)</text><line x1=\"60\" y1=\"162\" x2=\"612\" y2=\"162\" stroke=\"var(--dim)\" stroke-width=\"1.5\" marker-end=\"url(#E2F3a)\"/><line x1=\"60\" y1=\"162\" x2=\"60\" y2=\"54\" stroke=\"var(--dim)\" stroke-width=\"1.5\" marker-end=\"url(#E2F3a)\"/><polyline points=\"80,158 130,146 180,132 230,109 280,94 330,80 380,68 430,56 480,51 530,49 580,48\" fill=\"none\" stroke=\"var(--ac)\" stroke-width=\"3\"/><line x1=\"130\" y1=\"141\" x2=\"400\" y2=\"54\" stroke=\"var(--ac)\" stroke-width=\"2\"/><line x1=\"230\" y1=\"109\" x2=\"430\" y2=\"56\" stroke=\"var(--warn)\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><circle cx=\"230\" cy=\"109\" r=\"5\" fill=\"var(--ac)\"/><circle cx=\"430\" cy=\"56\" r=\"5\" fill=\"var(--warn)\"/><text x=\"188\" y=\"100\" fill=\"var(--fg)\" font-size=\"11\">A(a ; f(a))</text><text x=\"438\" y=\"72\" fill=\"var(--warn)\" font-size=\"11\">B</text><line x1=\"230\" y1=\"114\" x2=\"230\" y2=\"162\" stroke=\"var(--dim)\" stroke-dasharray=\"4 3\"/><text x=\"224\" y=\"180\" fill=\"var(--fg)\" font-size=\"11\">a</text><text x=\"16\" y=\"62\" fill=\"var(--fg)\" font-size=\"11\">f(x)</text><text x=\"566\" y=\"180\" fill=\"var(--fg)\" font-size=\"11\">x</text></svg>"
+        },
+        {
+          "titre": "2 · f(x) = x³ − 3x : f' nulle aux extrema",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Courbe de x cube moins 3x avec maximum en moins un et minimum en un, tangentes horizontales et signes de la dérivée seconde\"><rect x=\"8\" y=\"5\" width=\"410\" height=\"25\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-width=\"1\"/><defs><marker id=\"E2F3b\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--dim)\"/></marker></defs><text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">f(x) = x³ − 3x : f' nulle aux extrema</text><line x1=\"70\" y1=\"100\" x2=\"600\" y2=\"100\" stroke=\"var(--dim)\" stroke-width=\"1.5\" marker-end=\"url(#E2F3b)\"/><line x1=\"330\" y1=\"168\" x2=\"330\" y2=\"44\" stroke=\"var(--dim)\" stroke-width=\"1.5\" marker-end=\"url(#E2F3b)\"/><polyline points=\"210,150 222,111 240,72 258,53 270,50 294,60 330,100 366,140 390,150 402,147 420,128 438,89 450,50\" fill=\"none\" stroke=\"var(--ac)\" stroke-width=\"3\"/><line x1=\"250\" y1=\"50\" x2=\"290\" y2=\"50\" stroke=\"var(--dim)\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/><line x1=\"370\" y1=\"150\" x2=\"410\" y2=\"150\" stroke=\"var(--dim)\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/><circle cx=\"270\" cy=\"50\" r=\"5\" fill=\"var(--warn)\"/><circle cx=\"390\" cy=\"150\" r=\"5\" fill=\"var(--ac)\"/><text x=\"230\" y=\"38\" fill=\"var(--warn)\" font-size=\"11\">max (−1 ; 2)</text><text x=\"400\" y=\"172\" fill=\"var(--ac)\" font-size=\"11\">min (1 ; −2)</text><text x=\"264\" y=\"190\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">−1</text><text x=\"384\" y=\"190\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">1</text><text x=\"600\" y=\"118\" fill=\"var(--fg)\" font-size=\"11\">x</text><text x=\"304\" y=\"52\" fill=\"var(--fg)\" font-size=\"11\">f(x)</text><text x=\"490\" y=\"92\" fill=\"var(--ac)\" font-size=\"12\">f'(x) = 3x² − 3</text><text x=\"490\" y=\"116\" fill=\"var(--fg)\" font-size=\"11\">f''(x) = 6x</text><text x=\"490\" y=\"140\" fill=\"var(--fg)\" font-size=\"11\">f'' positif ⇒ minimum</text><text x=\"490\" y=\"164\" fill=\"var(--fg)\" font-size=\"11\">f'' négatif ⇒ maximum</text></svg>"
+        },
+        {
+          "titre": "3 · La dérivée : vitesse, taux, sensibilité",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Trois mini graphiques : pente d'une position donnant la vitesse, pente d'une concentration donnant la vitesse de réaction, pente d'une gamme d'étalonnage donnant la sensibilité\"><rect x=\"8\" y=\"5\" width=\"410\" height=\"25\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-width=\"1\"/><rect x=\"8\" y=\"5\" width=\"4\" height=\"25\" rx=\"2\" fill=\"var(--warn)\"/><text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">La dérivée donne une vitesse, un taux, une sensibilité</text><text x=\"16\" y=\"44\" fill=\"var(--ac)\" font-size=\"11\">Position s(t)</text><line x1=\"26\" y1=\"148\" x2=\"202\" y2=\"148\" stroke=\"var(--dim)\"/><line x1=\"26\" y1=\"148\" x2=\"26\" y2=\"56\" stroke=\"var(--dim)\"/><line x1=\"30\" y1=\"142\" x2=\"194\" y2=\"66\" stroke=\"var(--ac)\" stroke-width=\"2.5\"/><text x=\"86\" y=\"100\" fill=\"var(--ac)\" font-size=\"11\">pente = s'(t)</text><text x=\"16\" y=\"174\" fill=\"var(--fg)\" font-size=\"10.5\">s'(t) = vitesse (m/s)</text><text x=\"230\" y=\"44\" fill=\"var(--ac)\" font-size=\"11\">Concentration C(t)</text><line x1=\"240\" y1=\"148\" x2=\"416\" y2=\"148\" stroke=\"var(--dim)\"/><line x1=\"240\" y1=\"148\" x2=\"240\" y2=\"56\" stroke=\"var(--dim)\"/><polyline points=\"244,66 268,100 292,120 316,132 340,139 364,143 388,145 412,146\" fill=\"none\" stroke=\"var(--ac)\" stroke-width=\"2.5\"/><text x=\"292\" y=\"88\" fill=\"var(--ac)\" font-size=\"11\">C'(t) négatif</text><text x=\"230\" y=\"174\" fill=\"var(--fg)\" font-size=\"10.5\">vitesse de réaction = −C'(t)</text><text x=\"444\" y=\"44\" fill=\"var(--ac)\" font-size=\"11\">Gamme A(c)</text><line x1=\"454\" y1=\"148\" x2=\"640\" y2=\"148\" stroke=\"var(--dim)\"/><line x1=\"454\" y1=\"148\" x2=\"454\" y2=\"56\" stroke=\"var(--dim)\"/><line x1=\"458\" y1=\"144\" x2=\"628\" y2=\"60\" stroke=\"var(--ac)\" stroke-width=\"2.5\"/><text x=\"506\" y=\"100\" fill=\"var(--ac)\" font-size=\"11\">pente = A'(c)</text><text x=\"444\" y=\"174\" fill=\"var(--fg)\" font-size=\"10.5\">A'(c) = sensibilité de la méthode</text></svg>"
+        }
+      ]
+    }
+  ]
+}

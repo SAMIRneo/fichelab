@@ -1,0 +1,1233 @@
+{
+ "fiches": [
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1"
+   ],
+   "matiere": "Biologie moléculaire et cellulaire",
+   "titre": "Chapitre : structure et propriétés des acides nucléiques",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T3.3 ; programme BTS BioALC (2024/2025)",
+   "points": [
+    "L'ADN est un polymère de désoxyribonucléotides reliés par des liaisons phosphodiester 3'→5' entre le phosphate d'un nucléotide et le OH 3' du suivant ; la chaîne a une polarité 5'→3'.",
+    "Les quatre bases de l'ADN : adénine (A) et guanine (G) sont des purines, thymine (T) et cytosine (C) des pyrimidines ; la complémentarité de Watson-Crick impose A=T (2 liaisons hydrogène) et G≡C (3 liaisons hydrogène).",
+    "La structure en double hélice est antiparallèle (un brin 5'→3', l'autre 3'→5') et right-handed ; le diamètre est d'environ 2 nm et le pas de 3,4 nm soit 10 paires de bases par tour.",
+    "L'ARN est généralement monocaténaire, contient du ribose (OH en 2') et l'uracile (U) à la place de la thymine ; il est plus sensible à l'hydrolyse alcaline que l'ADN, d'où la nécessité de manipuler à froid et en milieu contrôlé.",
+    "Tm (température de fusion) : température à laquelle 50 % de l'ADN est dénaturé ; elle dépend du GC % et de la longueur : Tm ≈ 64,9 + 0,41(%GC) - 600/N pour un oligo ;plus le GC est élevé, plus l'hybride est stable (3 liaisons H contre 2).",
+    "Dénaturation (fusion des deux brins vers 90-95 °C) et renaturation/hybridation (réassociation par refroidissement lent) : ces propriétés sont le fondement de la PCR et des sondes d'hybridation.",
+    "La concentration en acide nucléique est déterminée par spectrophotométrie à 260 nm : pour l'ADN double brin, A260 = 1 correspond à 50 µg/mL (50 ng/µL) dans une cuve de 1 cm ; pour l'ARN, 40 µg/mL ; pour un oligo simple brin, ~33 µg/mL.",
+    "Pureté : le rapport A260/A280 doit être d'environ 1,8 pour l'ADN et 2,0 pour l'ARN (les protéines absorbent à 280 nm) ; le rapport A260/A230 (idéalement 2,0-2,2) révèle les contaminants organiques, phénol, sels ou guanidine.",
+    "Stabilité et stockage : l'ADN est conservé à +4 °C à court terme et -20/-80 °C à long terme dans un tampon Tris-EDTA (pH 8) ; l'ARN nécessite des conditions sans RNase (eau traitée DEPC, cônes avec filtre, gants, glace).",
+    "Applications au laboratoire : quantification avant PCR ou séquençage, contrôle de pureté des extraits, choix des amorces selon le GC % et le Tm, vérification de l'intégrité par électrophorèse (bande nette vs smear de dégradation)."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle association de bases est correcte dans l'ADN ?",
+     "options": [
+      "A-C et G-T",
+      "A-T et G-C",
+      "A-U et G-C",
+      "A-G et T-C"
+     ],
+     "correct": 1,
+     "correction": "Appariements de Watson-Crick : adénine-thymine (2 liaisons hydrogène) et guanine-cytosine (3 liaisons hydrogène) ; l'uracile remplace la thymine dans l'ARN."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle est la signification du rapport A260/A280 ≈ 1,8 ?",
+     "options": [
+      "L'échantillon est contaminé par des protéines",
+      "L'ADN est de pureté satisfaisante",
+      "L'échantillon contient du phénol",
+      "La concentration est de 1,8 ng/µL"
+     ],
+     "correct": 1,
+     "correction": "Les acides nucléiques absorbent à 260 nm, les protéines à 280 nm : un rapport proche de 1,8 indique un extrait d'ADN peu contaminé par les protéines (2,0 pour l'ARN)."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel paramètre augmente la température de fusion Tm d'un duplex d'ADN ?",
+     "options": [
+      "Une teneur plus élevée en A-T",
+      "Une teneur plus élevée en G-C",
+      "Une diminution de la force ionique",
+      "Une diminution de la longueur"
+     ],
+     "correct": 1,
+     "correction": "Les paires G-C ont trois liaisons hydrogène contre deux pour A-T : plus le GC % est élevé, plus Tm est élevée ; la force ionique et la longueur influencent également Tm."
+    },
+    {
+     "type": "qcm",
+     "q": "Pourquoi l'ARN est-il plus fragile que l'ADN ?",
+     "options": [
+      "Il est monocaténaire et possède un OH en 2' sur le ribose",
+      "Il contient de la thymine",
+      "Il est plus long",
+      "Il ne forme jamais de structures secondaires"
+     ],
+     "correct": 0,
+     "correction": "Le OH en 2' du ribose rend la liaison phosphodiester sensible à l'hydrolyse alcaline ; les RNases sont ubiquitaires et très résistantes, d'où les précautions spécifiques."
+    },
+    {
+     "type": "rédaction",
+     "q": "Une solution d'ADN donne A260 = 0,250 et A280 = 0,140 en cuve de 1 cm, après dilution au 1/50. Calculer la concentration et commenter la pureté.",
+     "correction": "A260 corrigée = 0,250 × 50 = 12,5 ; concentration = 12,5 × 50 µg/mL = 625 µg/mL = 625 ng/µL. Rapport A260/A280 = 0,250/0,140 = 1,79 : proche de 1,8, la pureté protéique est satisfaisante. Il faudrait aussi vérifier A260/A230 (~2,0-2,2) pour exclure sels, phénol ou guanidine."
+    },
+    {
+     "type": "rédaction",
+     "q": "Expliquer le lien entre GC %, Tm et choix des amorces pour une PCR.",
+     "correction": "La Tm d'une amorce augmente avec sa longueur et son GC % ; deux amorces d'une paire doivent avoir des Tm proches (écart ≤ 5 °C, idéalement 2-3 °C) pour pouvoir utiliser une même température d'hybridation. Une amorce trop pauvre en GC (Tm basse) hybride de façon non spécifique ; trop riche en GC (Tm élevée), elle forme des structures secondaires et peut s'hybrider de manière non spécifique. On vise généralement 18-25 nucléotides, 40-60 % de GC et une Tm de 55-65 °C, en évitant les dimères et les repetitions."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1"
+   ],
+   "matiere": "Biologie moléculaire et cellulaire",
+   "titre": "Chapitre : organisation d'un laboratoire d'acides nucléiques et marche en avant",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.5.1 et T2.2 ; bonnes pratiques de laboratoire",
+   "points": [
+    "Le risque majeur en biologie moléculaire est la contamination par des acides nucléiques : une trace d'amplicon d'une analyse précédente peut être amplifiée à nouveau et donner un faux positif, car la PCR est extrêmement sensible.",
+    "Organisation en zones (marche en avant) : zone 1 préparation des mélanges réactionnels (reagents propres, jamais d'ADN) → zone 2 ajout de l'ADN extrait (matrices) → zone 3 amplification (thermocycleur) → zone 4 analyse des produits (gel d'électrophorèse). Le flux va toujours du propre vers le sale.",
+    "Séparation physique : pièces dédiées ou, à défaut, postes distincts avec personnel, blouses, gants, pipettes, pointes avec filtre, réactifs et matériel spécifiques à chaque zone ; ne jamais faire circuler un objet de la zone 4 vers la zone 1.",
+    "Pipetage : utiliser des pointes à filtre (aérosol barrier), changer de pointes à chaque transfert, ne jamais toucher le tube avec la pointe, travailler sur une surface désinfectée, pipeter lentement pour éviter les aérosols.",
+    "Désinfection : alcool à 70 % pour les surfaces et le matériel, hypochlorite de sodium (0,5 à 1 %) pour détruire l'ADN résiduel, UV (254 nm) des hottes et des plans de travail en fin de séance ; l'UV crée des dimères de thymine qui bloquent l'amplification.",
+    "Réactifs : aliquoter l'eau, les amorces, les dNTP et le tampon en petites fractions pour limiter les cycles de congélation et les contaminations ; conserver les solutions mères à -20 °C et les dilutions de travail à +4 °C.",
+    "Témoins obligatoires : témoin négatif d'extraction (sans échantillon, pour détecter une contamination lors de l'extraction) et témoin négatif de PCR (eau à la place de l'ADN, pour détecter une contamination des réactifs ou du mélange) ; les deux doivent être négatifs.",
+    "Témoin positif : ADN de référence connu pour amplifier, traité en dernier et dans une zone séparée ; il valide le fonctionnement des réactifs et du thermocycleur mais ne doit jamais être manipulé en zone 1.",
+    "Gestion des déchets : pointes et tubes dans des conteneurs dédiés, gants changés entre les zones, déchets DASRI inactivés ; ne pas réutiliser de tubes ou de pointes.",
+    "Traçabilité : enregistrer les lots de coffrets, d'amorces et de polymérase, les dates de préparation des mélanges, les numéros de tubes, la température des congélateurs et les résultats des témoins dans la fiche de suivi de série."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quel est le risque principal d'une contamination par amplicons dans un laboratoire de PCR ?",
+     "options": [
+      "Une modification du pH",
+      "Un faux positif par amplification d'ADN étranger",
+      "Une dégradation de l'échantillon",
+      "Une panne du thermocycleur"
+     ],
+     "correct": 1,
+     "correction": "La PCR amplifie même des traces infimes : un amplicon ancien peut servir de matrice et conduire à un résultat positif alors que l'échantillon est négatif."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle est la bonne disposition des zones (marche en avant) ?",
+     "options": [
+      "Amplification → analyse → extraction → préparation",
+      "Préparation des mélanges → ajout d'ADN → amplification → analyse",
+      "Analyse → amplification → préparation → ajout d'ADN",
+      "Aucuneordre particulier"
+     ],
+     "correct": 1,
+     "correction": "On progresse du propre (mélanges sans ADN) vers le sale (produits d'amplification) : préparation, ajout de matrice, amplification, analyse, sans jamais revenir en arrière."
+    },
+    {
+     "type": "qcm",
+     "q": "À quoi sert un témoin négatif de PCR (eau à la place de l'ADN) ?",
+     "options": [
+      "À vérifier que la polymérase est active",
+      "À détecter une contamination des réactifs ou du mélange réactionnel",
+      "À mesurer la concentration de l'échantillon",
+      "À remplacer le marqueur de taille"
+     ],
+     "correct": 1,
+     "correction": "Le témoin négatif de PCR ne doit donner aucune amplification : une bande révèle une contamination des réactifs, des pointes ou de l'environnement de préparation."
+    },
+    {
+     "type": "qcm",
+     "q": "Pourquoi utiliser des pointes à filtre en biologie moléculaire ?",
+     "options": [
+      "Pour augmenter le volume pipeté",
+      "Pour empêcher les aérosols de contaminer le corps de la pipette et les échantillons suivants",
+      "Pour filtrer les cellules",
+      "Pour refroidir les réactifs"
+     ],
+     "correct": 1,
+     "correction": "Le filtre retient les aérosols et empêche la contamination croisée via la pipette, en particulier lors de la préparation des mélanges et des dilutions d'amorces."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire les mesures à mettre en œuvre pour prévenir une contamination croisée lors d'une série de PCR.",
+     "correction": "Séparer physiquement les zones (préparation des mélanges, ajout d'ADN, amplification, analyse) avec blouses, gants, pipettes et pointes dédiées ; utiliser des pointes à filtre et changer de gants entre les zones ; aliquoter les réactifs ; travailler sous hotte UV ou plan de travail décontaminé ; inclure un témoin négatif d'extraction et un témoin négatif de PCR à chaque série ; manipuler le témoin positif en dernier hors de la zone de préparation ; décontaminer les surfaces à l'hypochlorite puis à l'alcool et passer les UV en fin de séance ; tracer les lots de réactifs et les résultats des témoins."
+    },
+    {
+     "type": "rédaction",
+     "q": "Interpréter une série de PCR où le témoin négatif de PCR présente une bande d'amplicon de même taille que les échantillons.",
+     "correction": "La série est invalide : une bande dans le témoin négatif prouve une contamination des réactifs, du mélange, des pointes ou de l'environnement par un amplicon ou de l'ADN cible. Aucun résultat d'échantillon ne peut être rendu, y compris les négatifs. Il faut arrêter la série, identifier la source (vérifier les témoins d'extraction, les lots d'eau et d'amorces, les surfaces, les pipettes), décontaminer (hypochlorite, UV, remplacement des réactifs suspects), reprendre les extractions si nécessaire et relancer une série complète avec des témoins conformes. L'incident est documenté et fait l'objet d'une action corrective."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1"
+   ],
+   "matiere": "Biologie moléculaire et cellulaire",
+   "titre": "Chapitre : extraction et purification des acides nucléiques",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.5.2 et T2.2",
+   "points": [
+    "Objectifs de l'extraction : lyser les cellules ou les tissus, libérer les acides nucléiques, éliminer les protéines, lipides, sels et autres interférents, puis obtenir une solution concentrée et pure compatible avec la PCR, la digestion ou le séquençage.",
+    "Étapes classiques : (1) lyse mécanique (broyage, billes de verre) et/ou chimique (détergent SDS, Triton) et/ou enzymatique (protéinase K, lysozyme) ; (2) déprotéinisation au phénol/chloroforme ou par précipitation ; (3) précipitation de l'ADN à l'éthanol ou l'isopropanol en présence de sel ; (4) lavage à l'éthanol 70 % ; (5) résuspension dans de l'eau ou un tampon Tris-EDTA.",
+    "Méthode au phénol-chloroforme (méthode de référence) : après centrifugation, l'ADN se trouve dans la phase aqueuse supérieure, les protéines à l'interface et les lipides dans la phase organique inférieure ; le phénol est toxique et corrosif : manipulation sous hotte avec EPI.",
+    "Colonnes de silice (coffrets commerciaux) : en présence de sels chaotropiques (guanidine), l'ADN s'adsorbe sélectivement sur la silice ; après lavages, l'élution se fait avec de l'eau ou un tampon faiblement salin ; méthode rapide, sans phénol, très utilisée en routine.",
+    "Billess magnétiques : des particules superparamagnétiques recouvertes de silice ou d'oligos captent l'ADN ; un aimant permet de séparer, laver et éluer ; méthode facilement automatisable et adaptée aux faibles volumes.",
+    "Spécificité ARN vs ADN : pour extraire l'ARN, utiliser des réactifs à base de phénol acide (Trizol) ou des colonnes avec DNase ; pour isoler l'ADN d'un échantillon contenant de l'ARN, traiter par la RNase A ; le traitement DNase est indispensable avant RT-PCR si l'on veut doser uniquement l'ARN.",
+    "Contrôle de la concentration : spectrophotométrie (A260), fluorimétrie (Qubit, plus spécifique et sensible, peu perturbée par les sels ou l'ARN) ou PCR quantitative ; choisir la méthode selon la sensibilité requise.",
+    "Contrôle de la pureté : rapports A260/A280 (~1,8 pour l'ADN) et A260/A230 (2,0-2,2) ; un rapport faible signale protéines, phénol, guanidine ou sels, qui inhibent la polymérase et faussent la quantification.",
+    "Contrôle de l'intégrité : électrophorèse sur gel d'agarose — un ADN génomique intact donne une bande haute nette, un ADN dégradé un smear (traînée) vers les petites tailles ; un ARN intact montre deux bandes d'ARN ribosomiques 28S et 18S bien marquées.",
+    "Traçabilité et conservation : numéro d'échantillon, type de matrice, méthode et lot de coffret, date, opérateur, volume élué, concentration et rapports de pureté ; conserver l'extrait à -20 °C (ADN) ou -80 °C (ARN) en aliquotes."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Dans une extraction au phénol-chloroforme, où se trouve l'ADN après centrifugation ?",
+     "options": [
+      "Dans la phase organique inférieure",
+      "À l'interface",
+      "Dans la phase aqueuse supérieure",
+      "Dans le culot de lipides"
+     ],
+     "correct": 2,
+     "correction": "L'ADN, hydrophile, reste dans la phase aqueuse supérieure ; les protéines sont à l'interface et les lipides dans la phase organique."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel composé permet à l'ADN de s'adsorber sur une colonne de silice ?",
+     "options": [
+      "L'éthanol pur",
+      "Un sel chaotropique comme le chlorure de guanidinium",
+      "Le SDS",
+      "La protéinase K"
+     ],
+     "correct": 1,
+     "correction": "Les sels chaotropiques dénaturent les protéines et créent des conditions de forte ionicité qui permettent la liaison de l'ADN à la silice ; l'élution se fait ensuite en milieu peu salin."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel rapport spectrophotométrique signale une contamination par des sels ou du phénol ?",
+     "options": [
+      "A260/A280 = 1,8",
+      "A260/A230 = 1,2",
+      "A260/A280 = 2,0",
+      "A260/A230 = 2,1"
+     ],
+     "correct": 1,
+     "correction": "A260/A230 doit être voisin de 2,0-2,2 ; une valeur basse (1,2) indique des contaminants absorbant à 230 nm (phénol, guanidine, sels, acides humiques)."
+    },
+    {
+     "type": "qcm",
+     "q": "Pourquoi traiter un extrait d'ARN par une DNase avant une RT-PCR ?",
+     "options": [
+      "Pour concentrer l'ARN",
+      "Pour éliminer l'ADN génomique qui pourrait être amplifié et donner un faux positif",
+      "Pour casser l'ARN en fragments plus courts",
+      "Pour augmenter le rendement de lyse"
+     ],
+     "correct": 1,
+     "correction": "La DNase dégrade l'ADN génomique présent : sans ce traitement, les amorces peuvent amplifier l'ADN au lieu de l'ADN complémentaire issu de l'ARN, ce qui surestime l'expression."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comparer les méthodes d'extraction au phénol-chloroforme, sur colonne de silice et sur billes magnétiques.",
+     "correction": "Phénol-chloroforme : rendement élevé et adapté aux matrices difficiles, mais long, toxique (phénol sous hotte, EPI) et avec risque de contamination résiduelle. Colonne de silice : rapide, sans solvant toxique, bonne pureté, mais capacité limitée et coût par échantillon plus élevé ; nécessite des centrifugations. Billes magnétiques : très rapides, automatisables, faibles volumes, bonne reproductibilité, mais équipement magnétique nécessaire et sensibilité à la qualité des billes. Le choix dépend de la matrice, du nombre d'échantillons, du débit souhaité et de l'usage ultérieur (PCR, séquençage, quantification)."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment interpréter un extrait d'ADN présentant A260/A280 = 1,5 et un smear important sur gel ?",
+     "correction": "Le rapport 1,5 (au lieu de ~1,8) indique une contamination protéique résiduelle : la déprotéinisation a été insuffisante (phénol/chloroforme incomplet, colonne saturée ou protéinase K inefficace). Le smear sur gel révèle une dégradation de l'ADN (cisaillement mécanique, nucléases, conditions de stockage inadaptées, cycles de gel-dégel). Cet extrait est de mauvaise qualité : il inhibera probablement la PCR et donnera des résultats non reproductibles. Il faut reprendre l'extraction en optimisant la lyse et l'inactivation des nucléases, travailler à froid, utiliser des cônes avec filtre et des réactifs frais, puis recontrôler la concentration, la pureté et l'intégrité."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Biologie moléculaire et cellulaire",
+   "titre": "Chapitre : amplification génique (PCR) et programmation du thermocycleur",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.5.3 et T2.2",
+   "points": [
+    "La PCR (Polymerase Chain Reaction) amplifie de façon exponentielle une séquence d'ADN délimitée par deux amorces ; les trois étapes répétées sont dénaturation, hybridation (appariement) et élongation.",
+    "Mélange réactionnel : ADN matrice, deux amorces (sens et antisens), dNTP (désoxynucléoside triphosphates), MgCl2 (cofacteur de la polymérase), tampon, enzyme thermostable (Taq) et eau ; les volumes et concentrations sont définis par le mode opératoire.",
+    "Dénaturation : 94-95 °C pendant 15 s à 2 min selon l'enzyme, pour séparer les deux brins de l'ADN matrice ; une dénaturation insuffisante donne un faible rendement, excessive dégrade l'ADN et l'enzyme.",
+    "Hybridation : 50-65 °C pendant 20-40 s, température choisie selon la Tm des amorces (généralement Tm - 3 à 5 °C) ; trop basse, les amorces se lient de façon non spécifique ; trop haute, elles ne se fixent pas.",
+    "Élongation : 72 °C (température optimale de la Taq), durée environ 1 min pour 1 kb ; la polymérase synthétise le brin complémentaire à partir du 3'OH de l'amorce.",
+    "Programmation : dénaturation initiale longue (2-5 min à 95 °C, activation de la polymérase « hot start »), puis 25 à 40 cycles (dénaturation, hybridation, élongation), puis élongation finale (5-10 min à 72 °C) et maintien à 4 °C.",
+    "Nombre de copies théorique après n cycles : N = N0 × 2^n ; en pratique l'efficacité E < 100 % et N = N0 × (1+E)^n ; une efficacité de 100 % correspond à un doublement à chaque cycle (pente de la courbe de quantification = -3,32).",
+    "Contrôles : témoin négatif (eau à la place de la matrice), témoin positif (ADN connu), éventuellement témoin d'extraction ; un témoin négatif positif invalide la série (contamination), un témoin positif négatif signale un échec des réactifs ou du programme.",
+    "Optimisation : ajuster la concentration en Mg²⁺, la température d'hybridation (gradient), le nombre de cycles et la quantité de matrice ; ajouter un additif (DMSO, bétaïne) pour les régions riches en GC ; vérifier la spécificité sur gel d'agarose (une seule bande de la taille attendue).",
+    "Analyse des produits : migration sur gel d'agarose avec marqueur de taille, révélation par bromure d'éthidium ou GelRed ; la taille de la bande confirme l'amplicon attendu, son intensité donne une estimation semi-quantitative."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle enzyme est classiquement utilisée pour la PCR ?",
+     "options": [
+      "La reverse transcriptase",
+      "La Taq polymérase thermostable",
+      "La ligase T4",
+      "La restriction EcoRI"
+     ],
+     "correct": 1,
+     "correction": "La Taq polymérase, isolée de Thermus aquaticus, résiste aux cycles de 95 °C et possède une activité 5'→3' exonucléase ; son optimum est 72 °C."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel rôle joue le MgCl2 dans le mélange PCR ?",
+     "options": [
+      "Il stabilise les amorces",
+      "Il est le cofacteur indispensable de la polymérase",
+      "Il fixe l'ADN sur la colonne",
+      "Il révèle les bandes sur le gel"
+     ],
+     "correct": 1,
+     "correction": "Le magnésium est un cofacteur de la Taq : sa concentration (généralement 1,5-2,5 mmol/L) influence fortement le rendement et la spécificité ; trop peu d'ADN est amplifié, trop de bandes non spécifiques apparaissent."
+    },
+    {
+     "type": "qcm",
+     "q": "Que faire si le témoin négatif de PCR donne une bande ?",
+     "options": [
+      "Valider la série malgré tout",
+      "Refaire la série après décontamination et vérification des réactifs",
+      "Augmenter le nombre de cycles",
+      "Remplacer le marqueur de taille"
+     ],
+     "correct": 1,
+     "correction": "Une bande dans le témoin négatif signe une contamination : la série est invalide, aucun résultat ne peut être rendu ; il faut identifier et éliminer la source avant de reprendre."
+    },
+    {
+     "type": "qcm",
+     "q": "Comment choisir la température d'hybridation ?",
+     "options": [
+      "Toujours 72 °C",
+      "En fonction de la Tm des amorces, généralement Tm - 3 à 5 °C",
+      "Toujours 50 °C",
+      "En fonction de la taille du gel"
+     ],
+     "correct": 1,
+     "correction": "La température d'hybridation doit être légèrement inférieure à la Tm des amorces ; un gradient de température permet de déterminer expérimentalement la valeur optimale pour une nouvelle paire d'amorces."
+    },
+    {
+     "type": "rédaction",
+     "q": "Écrire un programme de PCR typique pour un amplicon de 500 pb avec des amorces de Tm 60 °C et expliquer chaque paramètre.",
+     "correction": "95 °C 3 min (dénaturation initiale et activation de la polymérase hot-start) ; puis 35 cycles : 95 °C 15 s (dénaturation des brins), 58-60 °C 20 s (hybridation des amorces, Tm - 2 à 5 °C), 72 °C 30 s (élongation : 500 pb à ~1 kb/min, donc 30 s suffisent) ; puis 72 °C 5 min (élongation finale des brins partiels) ; maintien à 4 °C. Le nombre de cycles dépend de la quantité initiale de matrice : trop de cycles augmentent les produits non spécifiques et les artefacts."
+    },
+    {
+     "type": "rédaction",
+     "q": "Une PCR donne plusieurs bandes de tailles différentes sur le gel. Quelles sont les causes possibles et les actions correctives ?",
+     "correction": "Causes : température d'hybridation trop basse (amorces se fixant sur des séquences partiellement complémentaires), concentration en Mg²⁺ trop élevée, excès d'amorces ou de matrice, trop grand nombre de cycles, ADN matrice dégradé ou contaminé, conception d'amorces défectueuse (dimères, séquences répétées). Actions : augmenter la température d'hybridation (gradient 55-65 °C), diminuer Mg²⁺ et/ou les amorces, réduire le nombre de cycles, reprendre l'extraction, vérifier les amorces (Tm, GC, dimères) et utiliser une polymérase hot-start ; contrôler à nouveau sur gel avec un marqueur de taille."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Biologie moléculaire et cellulaire",
+   "titre": "Chapitre : PCR en temps réel (qPCR) et quantification",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.5.3 et T2.3 ; norme NF EN ISO 21528/12890 (salmonelles, OGM)",
+   "points": [
+    "La qPCR (PCR en temps réel) mesure la quantité d'amplicon à chaque cycle grace à un marqueur fluorescent : courbe d'amplification fluorescence F = f(cycle) et cycle seuil Ct (cycle à partir duquel le signal dépasse significativement le bruit de fond).",
+    "Chimies de détection : SYBR Green (colorant intercalant dans l'ADN double brin, peu coûteux mais moins spécifique) et sondes à hydrolyse de type TaqMan (oligonucléotide avec fluorophore en 5' et extincteur en 3', clivé par l'activité 5' exonucléase de la Taq : spécificité renforcée).",
+    "Plus la quantité initiale d'ADN est grande, plus le Ct est petit ; la relation entre Ct et le logarithme de la concentration initiale est linéaire : Ct = -a·log(N0) + b.",
+    "Efficacité E déduite de la pente de la droite d'étalonnage : E = 10^(-1/pente) - 1 ; une pente de -3,32 correspond à E = 100 % ; une gamme de 5 à 6 concentrations en triple exemplaire doit donner R² ≥ 0,99 et une efficacité de 90-110 %.",
+    "Quantification absolue : comparer le Ct de l'échantillon à une gamme d'étalons de concentration connue (plasmides, ADN synthétique ou extraits quantifiés) ; exprimer en copies/µL, en ng d'ADN ou en unités par gramme d'échantillon.",
+    "Quantification relative (expression génique) : méthode 2^-ΔΔCt avec un gène de référence (housekeeping) pour normaliser ; ΔCt = Ct(gène cible) - Ct(gène de référence), ΔΔCt = ΔCt(échantillon) - ΔCt(témoin), le rapport d'expression vaut 2^-ΔΔCt.",
+    "Courbe de fusion (melting curve) après amplification avec SYBR Green : un pic de fusion unique indique un produit spécifique ; deux pics ou un pic large signalent des dimères d'amorces ou des produits non spécifiques ; avec une sonde TaqMan, la courbe de fusion n'est pas nécessaire.",
+    "Contrôles : témoin négatif (eau), témoin positif, témoins d'extraction, contrôle d'inhibition (ajout d'un étalon interne exogène : si son Ct est décalé, l'échantillon contient des inhibiteurs), duplication ou triplication de chaque point.",
+    "Limites : LD et LQ définies par le plus petit nombre de copies détecté dans au moins 95 % des réplicats ; la qPCR est très sensible mais sensible aux inhibiteurs (phénol, sels, hémoglobine, acides humiques) et à la qualité de l'extraction.",
+    "Applications : recherche de pathogènes ou d'OGM, quantification de l'expression génique, dosage de l'ADN résiduel (host cell DNA) en biopharmacie, contrôle de la charge virale, détection d'allergènes ou d'espèces dans les aliments."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Que représente le Ct en qPCR ?",
+     "options": [
+      "La concentration initiale d'ADN",
+      "Le cycle où la fluorescence dépasse le seuil défini",
+      "La température de fusion de l'amplicon",
+      "Le nombre total de cycles du programme"
+     ],
+     "correct": 1,
+     "correction": "Le Ct (cycle threshold) est le cycle auquel la fluorescence dépasse significativement le bruit de fond : plus l'ADN initial est abondant, plus le Ct est bas."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle pente de droite d'étalonnage correspond à une efficacité de 100 % ?",
+     "options": [
+      "-2,00",
+      "-3,32",
+      "-4,50",
+      "-1,00"
+     ],
+     "correct": 1,
+     "correction": "E = 10^(-1/pente) - 1 ; pour E = 1 (100 %), pente = -log(2)/log... = -3,32 environ."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel est l'avantage principal d'une sonde TaqMan par rapport au SYBR Green ?",
+     "options": [
+      "Elle est moins chère",
+      "Elle n'a pas besoin de thermocycleur",
+      "Elle apporte une spécificité supplémentaire grâce à l'hybridation d'une sonde",
+      "Elle supprime le besoin d'amorces"
+     ],
+     "correct": 2,
+     "correction": "La sonde s'hybride spécifiquement entre les deux amorces : seul le produit attendu émet un signal, contrairement au SYBR Green qui intercale dans tout ADN double brin, y compris les dimères d'amorces."
+    },
+    {
+     "type": "qcm",
+     "q": "À quoi sert un étalon interne exogène ajouté à l'échantillon ?",
+     "options": [
+      "À augmenter le rendement de la PCR",
+      "À détecter la présence d'inhibiteurs dans la matrice",
+      "À remplacer le témoin positif",
+      "À mesurer la taille de l'amplicon"
+     ],
+     "correct": 1,
+     "correction": "Si le Ct de l'étalon interne exogène est décalé par rapport à celui attendu, l'échantillon contient des inhibiteurs : le résultat d'amplification n'est pas fiable et l'extraction doit être purifiée ou diluée."
+    },
+    {
+     "type": "rédaction",
+     "q": "Interpréter une courbe d'étalonnage qPCR de pente -3,8 et R² = 0,995.",
+     "correction": "E = 10^(-1/(-3,8)) - 1 = 10^(0,263) - 1 ≈ 0,83, soit 83 % d'efficacité, en dessous de la plage acceptable 90-110 % : l'amplification est inefficace (amorces imparfaites, Mg²⁺ insuffisant, inhibiteurs, mauvaise qualité des étalons). Bien que R² = 0,995 indique une bonne linéarité, la quantification sera biaisée : il faut optimiser les conditions (concentration en amorces/Mg²⁺, température d'hybridation, dilution de la matrice) et refaire la gamme avant de valider la méthode."
+    },
+    {
+     "type": "rédaction",
+     "q": "Dans un essai d'expression, Ct(cible) = 24,0 et Ct(gène de référence) = 20,0 pour l'échantillon traité ; pour le témoin, Ct(cible) = 26,0 et Ct(référence) = 20,0. Calculer le rapport d'expression par la méthode 2^-ΔΔCt.",
+     "correction": "ΔCt(échantillon) = 24,0 - 20,0 = 4,0 ; ΔCt(témoin) = 26,0 - 20,0 = 6,0 ; ΔΔCt = 4,0 - 6,0 = -2,0 ; rapport = 2^-(-2) = 2^2 = 4 : le gène cible est exprimé 4 fois plus dans l'échantillon traité que dans le témoin (à condition que l'efficacité soit proche de 100 % et que le gène de référence soit stable)."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Biologie moléculaire et cellulaire",
+   "titre": "Chapitre : électrophorèse des acides nucléiques sur gel d'agarose",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.5.4 et S2.3.4 ; bonnes pratiques de biologie moléculaire",
+   "points": [
+    "L'agarose forme un gel poreux dont la concentration (0,7 à 2 %) détermine le pouvoir de séparation : 0,7 % pour les grands fragments (5-20 kb), 1,5-2 % pour les petits fragments (100-500 pb).",
+    "L'ADN est chargé négativement (groupements phosphate) : sous champ électrique, il migre vers l'anode (+) ; les petits fragments traversent plus facilement les pores et migrent plus vite que les grands.",
+    "Préparation du gel : dissoudre la poudre d'agarose dans le tampon TAE ou TBE par chauffage (micro-ondes), couler dans un moule avec peigne, laisser polymériser à température ambiante, retirer le peigne et placer le gel dans la cuve remplies de tampon.",
+    "Dépôt des échantillons : ajouter un colorant de charge (bleu de bromophénol, xylène cyanol, glycérol ou saccharose) qui alourdit l'échantillon et permet de suivre le front de migration ; déposer avec une micropipette dans les puits sans perforer le gel.",
+    "Marqueur de taille (ladder) : mélange de fragments de tailles connues déposé dans un puits ; une relation logarithmique entre la taille et la distance de migration permet d'estimer la taille des bandes de l'échantillon.",
+    "Révélation : bromure d'éthidium (agent intercalant, mutagène, à manipuler avec gants et protections) ou un colorant plus sûr (GelRed, SYBR Safe) ; visualisation sous lumière UV (254-302 nm) ou lumière bleue, photographie avec un système d'imagerie.",
+    "Migration typique : 90-120 V pendant 30-60 min ; une tension trop élevée chauffe le gel et déforme les bandes (« smiling »), une tension trop faible donne une diffusion et des bandes floues.",
+    "Lecture : nombre de bandes, taille estimée, intensité (semi-quantitative), présence de traînées (smear = ADN dégradé ou surcharge), puits vides ou non migrés (erreur de dépôt), dimères d'amorces (bandes très basses < 100 pb).",
+    "Interprétation d'une PCR : une bande unique à la taille attendue confirme l'amplicon spécifique ; plusieurs bandes imposent d'optimiser l'hybridation ; aucune bande peut signifier un échec d'amplification, un problème d'extraction ou une mauvaise concentration en agarose.",
+    "Traçabilité et sécurité : enregistrer la concentration du gel, le lot d'agarose et du colorant, la tension, la durée, le marqueur utilisé et l'image ; porter gants, blouse et protection des yeux, utiliser un écran UV et éliminer les gels contaminés selon la procédure déchets."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Pourquoi l'ADN migre-t-il vers l'anode en électrophorèse ?",
+     "options": [
+      "Parce qu'il est chargé positivement",
+      "Parce que les phosphates lui donnent une charge négative",
+      "Parce que le gel est chauffé",
+      "Parce que lecolorant est chargé"
+     ],
+     "correct": 1,
+     "correction": "Les groupements phosphate du squelette de l'ADN portent une charge négative : l'ADN migre vers l'électrode positive (anode)."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle concentration d'agarose convient pour séparer des fragments de 100 à 300 pb ?",
+     "options": [
+      "0,5 %",
+      "0,7 %",
+      "1,5 à 2 %",
+      "5 %"
+     ],
+     "correct": 2,
+     "correction": "Plus les fragments sont petits, plus la gel doit être concentré : 1,5-2 % d'agarose sépare les fragments de 100-500 pb, tandis que 0,7 % convient aux grands fragments."
+    },
+    {
+     "type": "qcm",
+     "q": "À quoi sert le colorant de charge ajouté à l'échantillon ?",
+     "options": [
+      "À colorer l'ADN de façon permanente",
+      "À alourdir l'échantillon et suivre le front de migration",
+      "À augmenter la charge de l'ADN",
+      "À empêcher la dégradation"
+     ],
+     "correct": 1,
+     "correction": "Le glycérol ou le saccharose alourdit l'échantillon pour qu'il tombe au fond du puits ; les colorants (bleu de bromophénol, xylène cyanol) permettent de suivre la migration à l'oeil nu."
+    },
+    {
+     "type": "qcm",
+     "q": "Qu'indique un aspect en « sourire » (smiling) des bandes sur un gel ?",
+     "options": [
+      "Une contamination par des nucléases",
+      "Un gel trop concentré",
+      "Un échauffement excessif dû à une tension trop élevée",
+      "Une migration trop longue"
+     ],
+     "correct": 2,
+     "correction": "Une tension trop élevée crée un gradient de température : les bandes des puits centraux migrent plus vite, d'où la courbure en sourire ; il faut réduire la tension ou refroidir la cuve."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire le protocole de préparation et de migration d'un gel d'agarose à 1,5 %.",
+     "correction": "Peser 1,5 g d'agarose pour 100 mL de tampon TAE ou TBE, chauffer au micro-ondes jusqu'à dissolution complète (ne pas laisser bouillir), couler dans le moule avec peigne et laisser solidifier 20-30 min. Retirer le peigne, placer le gel dans la cuve avec du tampon, déposer 5-10 µL d'échantillon mélangé au colorant de charge et un marqueur de taille dans un puits. Fermer la cuve,_brancher en respectant la polarité (puits côté cathode -), migrer à 90-100 V pendant 30-45 min, arrêter quand le front de colorant a parcouru les 2/3 du gel, révéler sous UV après incubation avec le colorant d'ADN et photographier."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment interpréter un gel présentant, pour un échantillon, une bande à la taille attendue et une bande fine vers 50-80 pb ?",
+     "correction": "La bande à la taille attendue correspond à l'amplicon spécifique. La bande fine de 50-80 pb correspond très probablement à des dimères d'amorces (amorces appariées et amplifiées), favorisés par un excès d'amorces, une température d'hybridation trop basse ou une faible quantité de matrice. Si l'objectif est une présence/absence, la bande spécifique suffit à conclure ; pour une quantification, les dimères faussent le signal SYBR Green en qPCR et doivent être éliminés en optimisant la concentration en amorces et la température d'hybridation."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Biologie moléculaire et cellulaire",
+   "titre": "Chapitre : enzymes de restriction et caractérisation de l'ADN",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.5.4 et T3.3",
+   "points": [
+    "Les enzymes de restriction (endonucléases) reconnaissent une séquence spécifique d'ADN double brin, le site de restriction, généralement palindromique (séquence identique sur les deux brins en sens opposé), et coupent les deux brins.",
+    "Exemples : EcoRI reconnaît GAATTC et coupe en G↓AATTC (extrémités cohésives 5' surplombantes), SmaI reconnaît CCCGGG et coupe en CCC↓GGG (extrémités franches), HindIII reconnaît AAGCTT.",
+    "Types : les enzymes de type II (les plus utilisées) coupent au site de reconnaissance en présence de Mg²⁺ ; les types I et III coupent à distance et nécessitent de l'ATP ; les enzymes sensibles à la méthylation (dam/dcm) sont inhibées si le site est méthylé.",
+    "Conditions réactionnelles : tampon adapté (Tris-HCl, MgCl2, DTT), température souvent 37 °C, durée 1 à 16 h, quantité d'enzyme exprimée en unités (1 U digère 1 µg d'ADN λ en 1 h à 37 °C) ; le glycérol du stock d'enzyme ne doit pas dépasser 5 % dans le mélange.",
+    "Digestion partielle vs complète : une digestion incomplète donne des bandes supplémentaires de haut poids correspondant à des formes non coupées ; une digestion trop longue ou trop d'enzyme peut provoquer une dégradation non spécifique (star activity) en présence de glycérol ou de pH extrême.",
+    "Carte de restriction : schéma qui positionne les sites de coupure sur une molécule d'ADN ; la taille des fragments obtenus après digestion est prédite à partir de la séquence, vérifiée par électrophorèse et utilisée pour identifier un plasmide ou un allèle.",
+    "RFLP (Restriction Fragment Length Polymorphism) : une variation de séquence crée ou supprime un site de restriction, modifiant le profil de fragments ; utilisé pour le génotypage, la détection de mutations et le contrôle d'identité.",
+    "Applications en contrôle qualité : vérification d'un plasmide recombinant (digestion de contrôle libérant l'insert), identification d'espèces ou de souches par profil de restriction (PCR-RFLP de l'ITS ou du gène 16S), détection de mutations ponctuelles, contrôle de l'intégrité d'un vecteur.",
+    "Analyse des profils : comparer les tailles de bandes observées aux tailles théoriques, vérifier la somme des fragments égale la taille totale de la molécule, interpréter les bandes supplémentaires (digestion partielle, contamination, polymorphisme).",
+    "Traçabilité : référence et lot de l'enzyme, tampon utilisé, quantité d'ADN, température et durée, numéro de gel et image ; conserver les enzymes à -20 °C et éviter les cycles de congélation-décongélation."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Qu'est-ce qu'un site de restriction palindromique ?",
+     "options": [
+      "Une séquence qui ne peut être coupée que par une enzyme",
+      "Une séquence lue identiquement sur les deux brins en sens 5'→3'",
+      "Une séquence située à l'extrémité d'un chromosome",
+      "Une séquence qui ne contient que des A et des T"
+     ],
+     "correct": 1,
+     "correction": "Un palindrome en biologie moléculaire est une séquence qui se lit de la même façon sur le brin complémentaire en sens inverse (exemple GAATTC / CTTAAG), ce qui correspond à la symétrie reconnue par les enzymes de type II."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel type d'extrémités produit l'enzyme SmaI ?",
+     "options": [
+      "Des extrémités cohésives 5'",
+      "Des extrémités cohésives 3'",
+      "Des extrémités franches",
+      "Aucune coupure"
+     ],
+     "correct": 2,
+     "correction": "SmaI coupe au milieu de sa séquence CCC↓GGG, sur les deux brins au même niveau : elle produit des extrémités franches (blunt ends), contrairement à EcoRI qui donne des surplombs cohésifs."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle unité mesure l'activité d'une enzyme de restriction ?",
+     "options": [
+      "Le nombre de paires de bases coupées par minute",
+      "La quantité d'enzyme qui digère 1 µg d'ADN λ en 1 h à 37 °C",
+      "La concentration en mg/mL",
+      "La température optimale"
+     ],
+     "correct": 1,
+     "correction": "1 unité (U) correspond à la quantité d'enzyme qui hydrolyse 1 µg d'ADN du phage λ en 1 h à 37 °C dans les conditions optimales."
+    },
+    {
+     "type": "qcm",
+     "q": "Qu'est-ce que l'activité « star » d'une enzyme de restriction ?",
+     "options": [
+      "Une activité optimale",
+      "Une coupure non spécifique à des sites similaires mais non canoniques",
+      "Une inhibition par la méthylation",
+      "Une activation par la chaleur"
+     ],
+     "correct": 1,
+     "correction": "Dans des conditions non optimales (excès de glycérol, pH élevé, faible force ionique, excès d'enzyme), l'enzyme perd sa spécificité et coupe des sites proches mais non exacts : on parle d'activité star."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment vérifier qu'un plasmide recombinant contient bien l'insert attendu par digestion de contrôle ?",
+     "correction": "Choisir une enzyme (ou un couple d'enzymes) dont les sites encadrent l'insert dans le vecteur et dont la carte théorique prédit des fragments de tailles connues (par exemple 300 pb + 4 000 pb pour un insert de 300 pb dans un vecteur de 4 kb). Digérer environ 1 µg de plasmide avec 1 à 2 U d'enzyme 1 h à 37 °C dans le tampon approprié, déposer sur un gel d'agarose 1-1,5 % avec un marqueur de taille, migrer et révéler. Comparer les bandes observées aux tailles attendues : présence d'une bande de 300 pb confirmant l'insert et d'une bande vectorielle de 4 kb ; une bande unique de 4,3 kb indique une digestion partielle ou un plasmide non recombinant, et une bande de 4 kb sans insert signale un vecteur vide."
+    },
+    {
+     "type": "rédaction",
+     "q": "Interpréter un profil de digestion montrant trois bandes alors que la carte théorique en prédit deux.",
+     "correction": "Trois bandes au lieu de deux peuvent provenir : d'une digestion partielle (une bande supplémentaire correspondant à une forme non coupée ou intermédiaire, généralement de haut poids), d'une contamination par un autre ADN, d'une enzyme mal choisie ou d'une activité star (bandes inattendues), ou d'un polymorphisme chez la souche analysée (site de restriction supplémentaire ou absent). Il faut vérifier la somme des tailles, refaire la digestion avec plus d'enzyme ou plus de temps, contrôler le tampon et la température, utiliser une enzyme fraîche, puis éventuellement séquencer la région pour confirmer l'existence d'un polymorphisme."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Biologie moléculaire et cellulaire",
+   "titre": "Chapitre : hybridation, séquençage et méthodes moléculaires alternatives",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.5.4 et T3.3 ; Pharmacopée européenne",
+   "points": [
+    "L'hybridation moléculaire est l'appariement complémentaire entre une sonde nucléique connue (marquée) et une séquence cible dans un échantillon ; la stringence (température, force ionique, concentration en formamide) contrôle la spécificité.",
+    "Southern blot : digestion de l'ADN, électrophorèse, transfert sur membrane, hybridation avec une sonde marquée et révélation ; utilisé pour détecter une séquence spécifique et estimer sa taille.",
+    "Northern blot : même principe appliqué à l'ARN, pour étudier l'expression d'un gène (taille et abondance du transcrit).",
+    "In situ hybridization (FISH) : sonde fluorescente hybridée sur des cellules ou des tissus fixes ; permet de localiser une séquence ou un chromosome dans son contexte morphologique.",
+    "Puces à ADN (microarrays) : des milliers de sondes fixées sur une lame ; l'échantillon marqué s'hybride et le signal lu au scanner donne un profil d'expression ou de génotypage simultané.",
+    "Méthodes alternatives aux sondes : les colorants intercalants (SYBR Green), les sondes à hydrolyse (TaqMan), les sondes à épingle (molecular beacons) et les amorces à verrouillage (LNA) améliorent la spécificité et permettent la détection en temps réel.",
+    "Séquençage Sanger (dideoxy) : incorporation de didéoxynucléotides terminateurs marqués, séparation des produits par électrophorèse capillaire, lecture de la séquence ; fiable pour un fragment de 500 à 1000 pb, limite de détection d'environ 15-20 % d'un variant.",
+    "Séquençage à haut débit (NGS) : séquençage de millions de fragments en parallèle (Illumina, Oxford Nanopore) ; applications : séquençage du génome complet, exome, métagénomique, détection de variants rares, contrôle d'identité et traçabilité des souches.",
+    "Bio-informatique : alignement de séquences (BLAST), assemblage, annotation et comparaison à des bases de données (GenBank, SILVA) ; la qualité des séquences (score Phred) et les paramètres d'alignement doivent être contrôlés.",
+    "Choix de la méthode : PCR pour une recherche ciblée rapide, qPCR pour la quantification, hybridation/FISH pour la localisation, Sanger pour valider une mutation connue, NGS pour une analyse globale ou la découverte de nouveaux variants ; le coût, le délai et la sensibilité guident le choix."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quel paramètre contrôle la stringence d'une hybridation ?",
+     "options": [
+      "La couleur du tampon",
+      "La température et la force ionique",
+      "La taille de la cuve",
+      "Le nombre de cycles de PCR"
+     ],
+     "correct": 1,
+     "correction": "Une température élevée et une faible force ionique augmentent la stringence : seules les séquences parfaitement complémentaires restent hybridées ; une stringence trop faible donne des hybridations non spécifiques."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle méthode permet de localiser une séquence sur une préparation cellulaire ?",
+     "options": [
+      "Southern blot",
+      "FISH (hybridation in situ en fluorescence)",
+      "Séquençage Sanger",
+      "PCR en gel"
+     ],
+     "correct": 1,
+     "correction": "La FISH utilise une sonde fluorescente hybridée directement sur des cellules ou tissus, ce qui donne une information de localisation spatiale que les méthodes sur extrait ne fournissent pas."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle est la limite de détection typique d'un séquençage Sanger pour un variant minoritaire ?",
+     "options": [
+      "0,1 %",
+      "15-20 %",
+      "50 %",
+      "100 %"
+     ],
+     "correct": 1,
+     "correction": "En Sanger, un variant présent à moins de 15-20 % est difficile à détecter sur le chromatogramme ; le NGS est nécessaire pour les variants plus rares."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel est le principal avantage du séquençage NGS par rapport au Sanger ?",
+     "options": [
+      "Une lecture plus longue pour un seul fragment",
+      "Le séquençage massif en parallèle de millions de fragments",
+      "L'absence de besoin en ADN",
+      "Une précision illimitée"
+     ],
+     "correct": 1,
+     "correction": "Le NGS séquence des millions de molécules simultanément : il permet le séquençage complet de génomes, la détection de variants rares et l'analyse de populations (métagénomique), avec un coût par base très réduit."
+    },
+    {
+     "type": "rédaction",
+     "q": "Choisir la méthode moléculaire adaptée à trois besoins : (1) recherche rapide d'un pathogène dans un aliment, (2) mesure de l'expression d'un gène, (3) identification d'une souche bactérienne inconnue.",
+     "correction": "(1) PCR conventionnelle ou qPCR avec amorces spécifiques : résultat en quelques heures, sensibilité et spécificité élevées, la qPCR permettant une quantification. (2) RT-qPCR (transcription inverse puis qPCR) avec un gène de référence et la méthode 2^-ΔΔCt, ou puces à ADN/RNA-seq pour un profil global. (3) Séquençage du gène 16S (bactéries) ou ITS (levures) puis alignement BLAST contre une base de données, complété si besoin par MALDI-TOF ou séquençage du génome complet pour les souches très proches."
+    },
+    {
+     "type": "rédaction",
+     "q": "Pourquoi faut-il contrôler la qualité des séquences obtenues et les paramètres d'alignement ?",
+     "correction": "Les séquences comportent des erreurs (score de qualité Phred décroissant en fin de lecture, pics chevauchés en Sanger, erreurs de séquençage ou de PCR). Un alignement avec des paramètres trop permissifs peut donner une identification fausse à cause de séquences partielles ou de régions conservées ; trop stricts, il rejette des variants réels. Il faut vérifier la longueur, le score de qualité, l'absence de vecteur ou d'amorces résiduelles, la couverture et l'identité maximum, utiliser des bases de données curatées et confirmer les identifications critiques par une seconde méthode."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1"
+   ],
+   "matiere": "Immunologie",
+   "titre": "Chapitre : antigènes, anticorps et réaction antigène-anticorps",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T2.2 (méthodes utilisant des anticorps et des antigènes) et T3.3",
+   "points": [
+    "Un antigène est une molécule (protéine, polysaccharide, glycopeptide) capable de déclencher une réponse immunitaire spécifique ; un épitope (déterminant antigénique) est la petite région reconnue par un anticorps ou un récepteur de lymphocyte.",
+    "Un anticorps (immunoglobuline) est une glycoprotéine en forme de Y composée de deux chaînes lourdes et deux chaînes légères reliées par des ponts disulfures ; les régions variables des bras forment le site de fixation à l'antigène (paratope), la région Fc est reconnue par les cellules immunitaires.",
+    "Classes d'immunoglobulines : IgG (majoritaires dans le sérum, passage transplacentaire, haute affinité), IgM (pentamériques, premières produites lors d'une réponse primaire), IgA (sécrétoires, muqueuses), IgE (allergie, parasites), IgD (récepteur des lymphocytes B naïfs).",
+    "La réaction antigène-anticorps est spécifique et réversible : Ag + Ac ⇌ Ag-Ac ; elle dépend de l'affinité (force d'une liaison) et de l'avidité (force globale de plusieurs liaisons, importante pour les IgM).",
+    "Réactions primaires : précipitation (antigènes solubles en proportions optimales, courbe de flocculation), agglutination (antigènes particulaires : bactéries, hématies), neutralisation (blocage d'une toxine ou d'un virus), fixation du complément.",
+    "Zones d'équivalence : la formation de complexes est maximale lorsque les proportions antigène/anticorps sont équimoléculaires ; en excès d'anticorps ou d'antigène, les complexes sont plus petits et moins visibles (prozone, postzone).",
+    "Anticorps polyclonaux : issus de plusieurs clones de lymphocytes B, ils reconnaissent plusieurs épitopes ; anticorps monoclonaux : produits par une lignée hybride (hybridome) ou par génie génétique, ils reconnaissent un seul épitope avec une grande spécificité et une reproductibilité élevée.",
+    "Les réactifs anticorps sont utilisés en diagnostic et contrôle : détection de pathogènes, dosage hormonal, typage sanguin, immunohistochimie, tests d'allergie, purification par affinité (colonnes d'anticorps).",
+    "Spécificité vs sélectivité : la spécificité est la capacité de ne réagir qu'avec l'antigène cible ; la sélectivité est la capacité du dosage à mesurer l'analyte malgré la présence d'autres composés dans la matrice ; des réactions croisées peuvent réduire l'une et l'autre.",
+    "Conditions de conservation : les anticorps sont conservés à +4 °C à court terme ou -20/-80 °C en aliquotes, sans cycles de gel-dégel, avec des traces d'azoture de sodium comme conservateur (attention à la toxicité) ; chaque lot est qualifié avant mise en service."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle partie de l'anticorps reconnaît l'épitope de l'antigène ?",
+     "options": [
+      "La région Fc",
+      "Le paratope (région variable des bras)",
+      "La chaîne lourde uniquement",
+      "Le pont disulfure"
+     ],
+     "correct": 1,
+     "correction": "Le paratope, situé dans les régions variables des bras Fab, se lie spécifiquement à l'épitope ; la région Fc interagit avec les cellules et le complément."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle classe d'anticorps est majoritaire dans le sérum et passe la barrière placentaire ?",
+     "options": [
+      "IgA",
+      "IgM",
+      "IgG",
+      "IgE"
+     ],
+     "correct": 2,
+     "correction": "Les IgG sont les plus abondantes dans le sérum (environ 75 % des immunoglobulines) et sont les seules à traverser le placenta, assurant l'immunité passive du nouveau-né."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel phénomène se produit en excès d'anticorps lors d'une réaction de précipitation ?",
+     "options": [
+      "Une précipitation maximale",
+      "Une diminution des complexes (prozone)",
+      "Une agglutination",
+      "Une dégradation de l'antigène"
+     ],
+     "correct": 1,
+     "correction": "En excès d'anticorps (prozone) ou en excès d'antigène (postzone), les complexes formés sont petits et peu visibles : la réaction est maximale à la zone d'équivalence."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel est l'avantage principal d'un anticorps monoclonal ?",
+     "options": [
+      "Il est moins cher à produire",
+      "Il reconnaît un seul épitope avec une grande spécificité et une reproductibilité élevée",
+      "Il est toujours d'origine animale",
+      "Il ne se conserve pas"
+     ],
+     "correct": 1,
+     "correction": "Les anticorps monoclonaux proviennent d'un seul clone : ils sont homogènes, très spécifiques et reproductibles d'un lot à l'autre, contrairement aux anticorps polyclonaux."
+    },
+    {
+     "type": "rédaction",
+     "q": "Distinguer affinité et avidité et expliquer leur importance dans un test immunologique.",
+     "correction": "L'affinité mesure la force d'interaction entre un paratope et un épitope (constante d'association) ; l'avidité est la force globale de la liaison entre un anticorps et un antigène portant plusieurs épitopes : elle dépend de l'affinité mais aussi de la valence (IgM pentamérique a une forte avidité malgré une affinité plus faible par site). Dans un test, une forte avidité rend le complexe plus stable lors des lavages, ce qui améliore la sensibilité et réduit les pertes de signal."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment prévenir les réactions non spécifiques dans un dosage immunologique ?",
+     "correction": "Utiliser des anticorps de haute spécificité (de préférence monoclonaux), ajouter un agent de blocage (albumine, lait, sérum) pour saturer les sites d'adsorption non spécifiques de la phase solide, optimiser la concentration en anticorps et le temps d'incubation, ajuster la force ionique et le pH du tampon de lavage, inclure des témoins négatifs et des blancs de matrice, et vérifier l'absence de réactivité croisée avec des analytes structurally proches."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Immunologie",
+   "titre": "Chapitre : dosages immunologiques — ELISA et méthodes apparentées",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.3.5 et T2.2 ; pharmacopée européenne",
+   "points": [
+    "L'ELISA (Enzyme-Linked Immunosorbent Assay) repose sur la fixation d'un antigène ou d'un anticorps sur une phase solide (plaque de microtitration) et sur la révélation du complexe par un anticorps couplé à une enzyme ; le substrat chromogène donne une coloration proportionnelle à la quantité de complexe.",
+    "Formats courants : ELISA direct (antigène adsorbé + anticorps marqué), ELISA indirect (anticorps primaire puis anticorps secondaire marqué, amplification du signal), ELISA « sandwich » (anticorps de capture + antigène + anticorps de détection marqué, très spécifique), ELISA compétitive (analyte et conjugué se disputent les sites : plus il y a d'analyte, moins il y a de signal).",
+    "Phase homogène : tout se passe en solution sans séparation (exemple : immunoturbidimétrie, agglutination latex) — rapide, automatisable ; phase hétérogène : une étape de séparation (lavage) élimine les réactifs libres — plus sensible et spécifique mais plus longue.",
+    "Étapes d'une ELISA sandwich : sensibilisation de la plaque (anticorps de capture), blocage des sites libres, ajout des étalons et échantillons, lavages, ajout de l'anticorps de détection (ou conjugué), lavages, ajout du substrat, arrêt de la réaction, lecture de l'absorbance à la longueur d'onde du chromogène (450 nm pour le TMB, 405 nm pour le pNPP).",
+    "Courbe d'étalonnage : absorbance en fonction de la concentration d'analyte (sandwich : croissante ; compétitive : décroissante), avec une gamme de 6 à 8 points en double ; régressionlinéaire ou à 4/5 paramètres (logistique) selon la relation dose-réponse.",
+    "Contrôles : blanc (sans analyte), témoin négatif et témoin positif, étalon de contrôle à concentration connue, contrôle de la plaque (homogénéité des puits, effet de bord), doublons ou triplons ; les critères d'acceptation sont définis avant l'analyse.",
+    "Sources d'erreur : adsorption insuffisante, blocage inadéquat, lavages trop rapides ou trop vigoureux, température et temps d'incubation non maîtrisés, effet de bord (évaporation sur les puits périphériques), hémolyse ou lipémie de l'échantillon, réactions croisées.",
+    "Variantes : West blot (transfert après électrophorèse), immunofluorescence, chimiluminescence (signal lumineux, très sensible), tests d'immunochromatographie sur bandelette (tests rapides),Immunoturbidimétrie pour les protéines sériques, dosages par radiommunoessai (RIA, moins utilisé pour des raisons de sécurité).",
+    "Validation d'un kit : spécificité, sensibilité (LQ), linéarité ou relation dose-réponse, exactitude par comparaison à une méthode de référence, répétabilité et reproductibilité, robustesse, stabilité des réactifs et des échantillons ; utiliser des matériaux de référence certifiés.",
+    "Applications en contrôle : recherche d'allergènes alimentaires ( gluten, arachide, lait), dosage de mycotoxines, dosage de résidus de médicaments vétérinaires, contrôle de vaccins (antigène, anticorps), dosage de protéines spécifiques et diagnostic de maladies."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Dans une ELISA sandwich, que révèle un signal d'absorbance élevé ?",
+     "options": [
+      "Une forte concentration en analyte",
+      "Une faible concentration en analyte",
+      "Une contamination par un détergent",
+      "Une absence d'anticorps de capture"
+     ],
+     "correct": 0,
+     "correction": "En format sandwich, le signal est proportionnel à la quantité d'analyte retenu entre les deux anticorps : plus l'absorbance est élevée, plus la concentration est grande (l'inverse pour une ELISA compétitive)."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel est le rôle de l'étape de blocage en ELISA ?",
+     "options": [
+      "Augmenter la coloration du substrat",
+      "Saturation les sites de fixation non occupés pour éviter les liaisons non spécifiques",
+      "Diluer l'échantillon",
+      "Détruire les anticorps libres"
+     ],
+     "correct": 1,
+     "correction": "Le blocage (albumine, lait, sérum) recouvre les zones de la plaque non saturées par l'anticorps de capture : l'échantillon et le conjugué ne peuvent pas s'y fixer de façon non spécifique."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle longueur d'onde est utilisée pour lire un substrat TMB après arrêt de la réaction ?",
+     "options": [
+      "260 nm",
+      "280 nm",
+      "450 nm",
+      "600 nm"
+     ],
+     "correct": 2,
+     "correction": "Le TMB (tétraméthylbenzidine) viré au jaune après ajout de l'acide d'arrêt se lit à 450 nm ; le pNPP se lit à 405 nm."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle différence existe-t-il entre une phase homogène et une phase hétérogène ?",
+     "options": [
+      "La première nécessite un lavage, la seconde non",
+      "La première ne nécessite pas de séparation/lavage, la seconde si",
+      "Elles sont identiques",
+      "La seconde ne peut pas être automatisée"
+     ],
+     "correct": 1,
+     "correction": "En phase homogène, le signal est mesuré directement dans le mélange ; en phase hétérogène, un lavage sépare le complexe lié des réactifs libres, ce qui améliore la spécificité mais allonge le protocole."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comparer les formats ELISA sandwich et compétitive et indiquer leurs domaines d'emploi.",
+     "correction": "Le format sandwich utilise deux anticorps reconnaissance des épitopes distincts de l'analyte : le signal augmente avec la concentration. Il exige une molécule possédant au moins deux épitopes et offre une grande spécificité ; il est utilisé pour les protéines, allergènes et antigènes de pathogènes. Le format compétitif fait concurrencer l'analyte de l'échantillon et un analyte marqué pour un nombre limité de sites anticorps : le signal diminue quand la concentration augmente. Il convient aux petites molécules (haptènes : médicaments vétérinaires, mycotoxines, hormones) qui ne peuvent pas être reconnues par deux anticorps simultanément."
+    },
+    {
+     "type": "rédaction",
+     "q": "Interpréter une plaque ELISA où les puits témoins négatifs presentent une absorbance proche de celle des échantillons positifs.",
+     "correction": "Cela signale une liaison non spécifique ou une contamination : les témoins négatifs doivent rester proches du blanc. Causes possibles : blocage insuffisant, lavages inefficaces, conjugué trop concentré, anticorps réagissant de façon croisée avec la matrice, contamination croisée entre puits lors du pipetage, effet de bord. La plaque est invalide : il faut refaire l'essai après optimisation (dilution du conjugué, blocage renforcé, plan de plaque revu, pointes neuves) et inclure un blanc de matrice. Aucun résultat d'échantillon ne peut être rendu tant que les témoins ne sont pas conformes."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Biologie cellulaire",
+   "titre": "Chapitre : culture de cellules eucaryotes — asepsie et entretien",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.6.1 à S2.6.3 et T2.2",
+   "points": [
+    "Les cellules eucaryotes (animales ou végétales) sont cultivées in vitro dans un milieu contenant sels, glucose, acides aminés, vitamines, sérum (facteurs de croissance) et antibiotiques éventuels, à pH 7,2-7,4 et 37 °C pour les cellules animales, en atmosphère à 5 % CO2.",
+    "Le CO2 maintient le pH avec le système tampon bicarbonate de sodium du milieu ; le changement de couleur de l'indicateur de pH (rouge de phénol) signale une dérive : milieu acide (jaune) ou alcalin (rouge/violet).",
+    "Niveau d'asepsie : travailler sous poste de sécurité microbiologique (PSM) de classe II ou hotte à flux laminaire, après bionettoyage, avec blouse, gants et matériel stérile ; le PSM protège à la fois l'opérateur, l'échantillon et l'environnement.",
+    "Critères d'une culture saine : cellules adhérentes et étalées (fibroblastes, épithéliales) ou en suspension (lymphocytes), aspect et granulosité normaux, absence de granulations anormales, de vacuoles ou de champignons, milieu limpide et couleur conforme.",
+    "Subculture (passage) : quand la confluence atteint 80-90 %, aspirer le milieu, rincer avec du PBS, ajouter de la trypsine-EDTA pour détacher les cellules adhérentes (ou gratter pour certaines lignées), neutraliser avec du milieu complet, comptage puis réensemencement à densité définie.",
+    "La trypsine est une protéase qui digère les protéines d'adhésion : une exposition trop longue endommage les cellules ; l'EDTA chélate le calcium et le magnésium nécessaires à l'adhésion ; la réaction est arrêtée par le sérum.",
+    "Confluence : pourcentage de la surface du récipient recouverte par les cellules ; un suivi régulier permet de déterminer la fréquence des passages (par exemple tous les 2 à 3 jours pour une lignée à croissance rapide) et d'éviter la surconfluence qui modifie le phénotype.",
+    "Comptage cellulaire sur cellule de Malassez ou compteur automatique : la suspension est diluée dans un colorant (bleu de trypan ou éosine) qui exclut les cellules mortes ; la viabilité se calcule = (cellules vivantes / cellules totales) × 100.",
+    "Déchets : les cultures et matériels contaminés sont des DASRI, inactivés par autoclave puis éliminés selon la filière ; les milieux avec antibiotiques ou sérum suivent la filière déchets biologiques.",
+    "Contrôle qualité : absence de contamination bactérienne, fongique ou par mycoplasmes (test PCR ou kit fluorescent), identification de la lignée (isoenzymes, STR), suivi du nombre de passages et congélation de stocks à -80 °C en azote liquide pour limiter la dérive."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "À quoi sert le CO2 dans une étuve à cellules animales ?",
+     "options": [
+      "À refroidir le milieu",
+      "À maintenir le pH avec le tampon bicarbonate",
+      "À stériliser le milieu",
+      "À augmenter l'oxygénation"
+     ],
+     "correct": 1,
+     "correction": "Le CO2 (généralement 5 %) s'équilibre avec le bicarbonate du milieu pour maintenir le pH vers 7,4 ; une déviation de CO2 modifie la couleur de l'indicateur de pH."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel est le rôle de la trypsine lors d'un passage ?",
+     "options": [
+      "Colorer les cellules",
+      "Détacher les cellules en digérant les protéines d'adhésion",
+      "Fournir des nutriments",
+      "Arrêter la croissance"
+     ],
+     "correct": 1,
+     "correction": "La trypsine digère les protéines de la matrice d'adhésion ; avec l'EDTA qui chélate les ions divalents, elle permet de détacher les cellules adhérentes ; le sérum neutralise ensuite son action."
+    },
+    {
+     "type": "qcm",
+     "q": "Que signifie une confluence de 80 % ?",
+     "options": [
+      "80 % des cellules sont mortes",
+      "80 % de la surface du support est couverte par des cellules",
+      "Le milieu a 80 % de sérum",
+      "La viabilité est de 80 %"
+     ],
+     "correct": 1,
+     "correction": "La confluence est la fraction de la surface occupée par les cellules ; 80-90 % est le stade habituel pour réaliser un passage avant surconfluence."
+    },
+    {
+     "type": "qcm",
+     "q": "Comment estime-t-on la viabilité cellulaire avec le bleu de trypan ?",
+     "options": [
+      "Les cellules vivantes sont colorées en bleu",
+      "Les cellules mortes sont colorées en bleu, les vivantes excluent le colorant",
+      "Toutes les cellules sont colorées",
+      "Le colorant mesure le pH"
+     ],
+     "correct": 1,
+     "correction": "Le bleu de trypan est exclu par les membranes intactes : seules les cellules mortes (ou à membrane perméable) sont colorées en bleu ; la viabilité = nombre de cellules incolores / nombre total."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire les étapes d'un passage de cellules adhérentes sous PSM et les points critiques.",
+     "correction": "Réchauffer le milieu et la trypsine à 37 °C, désinfecter le PSM et les flacons, aspirer le milieu usé, rincer deux fois au PBS, ajouter la trypsine-EDTA et incuber quelques minutes à 37 °C jusqu'à détachement (contrôle au microscope), neutraliser avec du milieu complet contenant du sérum, resuspendre doucement, prélever un échantillon pour comptage et viabilité, réensemencer à la densité voulue dans un flacon neuf, compléter avec du milieu frais et remettre en étuve à 37 °C / 5 % CO2. Points critiques : asepsie, temps de trypsine (trop long = dommages), neutralisation complète, densité d'ensemencement, absence de contamination."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment détecter une contamination de culture et quelles mesures prendre ?",
+     "correction": "Signes : trouble du milieu, changement de couleur rapide (acidification), granulations ou filaments visibles au microscope, cellules qui se détachent ou meurent, odeur. Réaliser un examen microscopique, un étalement sur milieux bactérien et fongique et un test de mycoplasmes (PCR ou fluorescence). En cas de contamination : isoler et jeter la culture (DASRI après autoclave), nettoyer et désinfecter l'étuve et le PSM, vérifier les réactifs et le matériel (lots de sérum, antibiotiques, pipettes), identifier la source (technique de manipulation, personnel, équipement) et reprendre une culture à partir d'un stock congelé non contaminé."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Biologie cellulaire",
+   "titre": "Chapitre : cycle cellulaire, mort cellulaire et conservation des cellules",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T3.3 et S2.6.4 ; bonnes pratiques de culture cellulaire",
+   "points": [
+    "Le cycle cellulaire comporte l'interphase (G1 : croissance, S : réplication de l'ADN, G2 : préparation à la mitose) et la phase M (mitose et cytocinèse) ; les cellules quiescentes sortent en G0.",
+    "La réplication de l'ADN a lieu en phase S : chaque chromosome passe d'une chromatide à deux chromatides sœurs ; les points de contrôle (checkpoints) G1/S, G2/M et du fuseau vérifient l'intégrité de l'ADN et la bonne ségrégation des chromosomes.",
+    "Les cellules animales normales possèdent une limite de divisions (limite de Hayflick, environ 50 passages) liée au raccourcissement des télomères ; les lignées immortalisées (HeLa) ont une télomérase active et peuvent être cultivées indéfiniment.",
+    "La mort cellulaire programmée (apoptose) se manifeste par rétraction, condensation de la chromatine, fragmentation du noyau et formation de corps apoptotiques sans inflammation ; la nécrose résulte d'une agression (toxique, hypoxie) avec rupture de la membrane et inflammation.",
+    "L'autophagie est un mécanisme de dégradation et de recyclage des organites via les lysosomes ; elle peut être cytoprotectrice ou conduire à une mort cellulaire.",
+    "Suivi du nombre de passages : chaque subculture augmente le numéro de passage ; au-delà d'un seuil défini, les caractéristiques phénotypiques et génétiques peuvent dériver, ce qui invalide les résultats d'un essai : il faut disposer d'une banque cellulaire (cellules mères, cellules de travail).",
+    "Congélation : mélanger les cellules avec un cryoprotecteur (DMSO 5-10 % ou glycérol) et du sérum, refroidir progressivement (environ -1 °C/min, boîte isotherme ou appareil à congélation contrôlée) puis stocker à -80 °C ou en azote liquide (-196 °C) ; une congélation rapide non contrôlée forme des cristaux de glace intracellulaires mortels.",
+    "Décongélation : réchauffer rapidement au bain-marie à 37 °C, diluer progressivement dans du milieu préchauffé pour éliminer le DMSO (toxique à température ambiante), centrifuger doucement, remettre en culture et vérifier la viabilité et l'adhésion après quelques heures.",
+    "Contrôle après décongélation : viabilité (bleu de trypan, ≥ 80-90 % attendu), pureté (absence de contamination), identité de la lignée et nombre de cellules viables suffisant ; enregistrer la date, le numéro de passage et le taux de survie.",
+    "Applications : essais de cytotoxicité et de viabilité, production de protéines recombinantes, criblage de médicaments, modèles tissulaires pour la recherche de alternatives à l'expérimentation animale."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "En quelle phase du cycle cellulaire l'ADN est-il répliqué ?",
+     "options": [
+      "G1",
+      "S",
+      "G2",
+      "M"
+     ],
+     "correct": 1,
+     "correction": "La phase S (Synthesis) est celle de la réplication de l'ADN : chaque chromosome passe de une à deux chromatides sœurs."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel est le rôle d'un cryoprotecteur comme le DMSO ?",
+     "options": [
+      "Augmenter la croissance cellulaire",
+      "Empêcher la formation de cristaux de glace intracellulaires",
+      "Changer le pH du milieu",
+      "Colorer les cellules"
+     ],
+     "correct": 1,
+     "correction": "Le DMSO pénètre les cellules et abaisse le point de congélation de l'eau intracellulaire, évitant la formation de cristaux qui déchireraient les membranes ; il est toxique à température ambiante et doit être éliminé après décongélation."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle différence majeure oppose apoptose et nécrose ?",
+     "options": [
+      "L'apoptose est une mort programmée sans inflammation, la nécrose résulte d'une agression avec inflammation",
+      "L'apoptose est toujours pathologique",
+      "La nécrose est programmée",
+      "Elles sont identiques"
+     ],
+     "correct": 0,
+     "correction": "L'apoptose est un processus actif et ordonné (condensation, fragmentation, phagocytose sans fuite de contenu) ; la nécrose est une mort accidentelle avec rupture membranaire et réaction inflammatoire."
+    },
+    {
+     "type": "qcm",
+     "q": "Pourquoi limiter le nombre de passages d'une lignée cellulaire ?",
+     "options": [
+      "Parce que les cellules deviennent plus petites",
+      "Parce que les caractéristiques génétiques et phénotypiques peuvent dériver après de nombreux passages",
+      "Parce que le milieu devient plus cher",
+      "Parce que les cellules arrêtent de respirer"
+     ],
+     "correct": 1,
+     "correction": "À chaque passage, des mutations et des modifications d'expression peuvent s'accumuler (dérive génétique, changement de morphologie ou de fonction) : les résultats expérimentaux deviennent non reproductibles ; d'où l'usage d'une banque de cellules à passages faibles."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire la procédure de congélation puis de décongélation d'une lignée cellulaire.",
+     "correction": "Congélation : récolter des cellules en phase de croissance exponentielle, vérifier viabilité et pureté, les resuspendre dans un milieu contenant 5-10 % de DMSO et du sérum, répartir en cryotubes étanches étiquetés (lignée, passage, date, opérateur), refroidir à environ -1 °C/min puis transférer à -80 °C ou en azote liquide. Décongélation : sortir un tube, réchauffer rapidement à 37 °C, transférer dans un tube avec du milieu préchauffé, éliminer progressivement le DMSO par dilution et centrifugation douce, remettre en culture dans un flacon avec milieu frais, placer en étuve et vérifier adhésion, viabilité et absence de contamination le lendemain."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment interpréter une viabilité de 60 % après décongélation ?",
+     "correction": "Une viabilité de 60 % est inférieure aux objectifs habituels (≥ 80-90 %) : elle suggère une congélation ou une décongélation mal conduite (vitesse de refroidissement incorrecte, concentration en DMSO inadaptée, séjour trop long à température ambiante avec DMSO, cycles gel-dégel, cellules trop confluentes ou trop âgées au moment de la congélation). Il faut vérifier le protocole et les enregistrements de température, contrôler le cryotube (pas de fuite, pas de cristallisation), utiliser un autre tube de la même banque et, si le problème se répète, réviser la procédure, former les opérateurs et Possibilité de remplacer le cryoprotecteur."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Biologie cellulaire",
+   "titre": "Chapitre : viabilité cellulaire, cytotoxicité et alternatives à l'expérimentation animale",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T2.2 (élément de toxicologie) et S2.6.5 ; directive 2010/63/UE ; principes des 3R",
+   "points": [
+    "Un essai de viabilité mesure la proportion de cellules vivantes après exposition à un composé ; les méthodes courantes sont l'exclusion du bleu de trypan, le test MTT/XTT (activité mitochondriale), la mesure d'ATP (luminescence), la cytométrie en flux et le comptage automatisé.",
+    "Le test MTT repose sur la réduction du sel de tétrazolium MTT en cristaux de formazan violet par les déshydrogénases mitochondriales des cellules vivantes ; les cristaux sont solubilisés et l'absorbance lue à 570-600 nm ; le signal est proportionnel au nombre de cellules métaboliquement actives.",
+    "Attention : un composé qui modifie l'activité mitochondriale sans tuer la cellule fausse le MTT : il faut confirmer avec une méthode indépendante (comptage, exclusion de colorant, ATP).",
+    "Cytotoxicité : capacité d'une substance à provoquer des dommages ou la mort cellulaire ; cytopathogénicité : ensemble des modifications morphologiques induites par un virus ou un toxique (arrondissement, syncytiums, vacuolisation, détachement).",
+    "Contrôle qualité d'un vaccin : vérification de l'absence de contamination, dosage de l'antigène, essais d'innocuité et d'efficacité (puissance), stabilité et conformité aux spécifications de la pharmacopée ; les méthodes in vitro remplacent progressivement les essais sur animaux.",
+    "Les 3R (Replace, Reduce, Refine) : remplacer les animaux par des méthodes alternatives lorsque c'est possible, réduire le nombre d'animaux nécessaires, raffiner les protocoles pour limiter la douleur et le stress ; principe repris dans la directive 2010/63/UE et les bonnes pratiques de laboratoire.",
+    "Méthodes alternatives : cultures cellulaires 2D et 3D (sphéroïdes), modèles tissulaires reconstruits (peau, cornée), organoïdes, organes sur puce (microfluidique), tests in silico (QSAR, modèles prédictifs), sang ou tissues humains issus de dons.",
+    "Pour un essai de cytotoxicité : préparer une gamme de concentrations du composé, incuber avec les cellules dans des conditions standardisées, inclure un témoin négatif (milieu seul), un témoin positif (composé cytotoxique connu) et un blanc, répéter en triple, mesurer la viabilité et calculer la concentration inhibitrice 50 % (IC50) par une courbe dose-réponse.",
+    "Interprétation : comparer la viabilité des échantillons au témoin négatif (100 %), vérifier la réponse du témoin positif (validation de l'essai), exprimer les résultats en pourcentage de viabilité et en IC50 avec intervalle de confiance ; une diminution de plus de 30 % de la viabilité est souvent considérée comme un effet cytotoxique significatif selon les lignes directrices.",
+    "Traçabilité : lignée cellulaire et numéro de passage, numéro de lot du composé, concentrations et dilutions, durée d'exposition, méthode de lecture, lots de réactifs, résultats bruts et courbes, opérateur et date ; les données sont conservées dans le dossier d'essai."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Sur quel principe repose le test MTT de viabilité cellulaire ?",
+     "options": [
+      "La mesure de la quantité d'ADN",
+      "La réduction d'un sel de tétrazolium par les mitochondries des cellules vivantes",
+      "Le comptage des noyaux",
+      "La mesure du pH du milieu"
+     ],
+     "correct": 1,
+     "correction": "Le MTT est réduit en formazan par les déshydrogénases mitochondriales ; l'absorbance du formazan est proportionnelle à l'activité métabolique des cellules vivantes."
+    },
+    {
+     "type": "qcm",
+     "q": "Que signifie le sigle 3R en expérimentation animale ?",
+     "options": [
+      "Réduire, Remplacer, Réutiliser",
+      "Remplacer, Réduire, Raffiner",
+      "Réparer, Réguler, Remplacer",
+      "Réduire, Recycler, Raffiner"
+     ],
+     "correct": 1,
+     "correction": "Les 3R : Replace (remplacer), Reduce (réduire le nombre d'animaux), Refine (raffiner les méthodes pour limiter la souffrance) — cadre de la directive européenne 2010/63/UE."
+    },
+    {
+     "type": "qcm",
+     "q": "À quoi sert un témoin positif dans un essai de cytotoxicité ?",
+     "options": [
+      "À vérifier que le système expérimental répond à un toxique connu",
+      "À remplacer le témoin négatif",
+      "À diluer le composé testé",
+      "À mesurer le pH"
+     ],
+     "correct": 0,
+     "correction": "Le témoin positif (composé cytotoxique de référence) doit diminuer la viabilité : il valide la sensibilité du test et les conditions expérimentales."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle limite du test MTT faut-il connaître ?",
+     "options": [
+      "Il ne fonctionne que sur les cellules végétales",
+      "Un composé qui modifie le métabolisme mitochondrial peut fausser le résultat",
+      "Il nécessite un animal",
+      "Il donne une mesure directe du nombre de cellules mortes"
+     ],
+     "correct": 1,
+     "correction": "Le MTT mesure une activité enzymatique et non le nombre de cellules : un composé qui stimule ou inhibe les mitochondries sans modifier la viabilité change le signal ; il faut confirmer par une autre méthode."
+    },
+    {
+     "type": "rédaction",
+     "q": "Concevoir un essai de cytotoxicité in vitro pour comparer deux substances et définir leur IC50.",
+     "correction": "Choisir une lignée cellulaire pertinente et la cultiver dans des conditions standardisées ; préparer des gammes de concentration croissantes (géométriques, par exemple 1 ; 3 ; 10 ; 30 ; 100 µg/mL) pour chaque substance, en triple exemplaire ; inclure un témoin négatif (milieu), un témoin positif (toxique de référence) et un blanc sans cellules ; exposer les cellules pendant une durée définie (24-48 h) ; mesurer la viabilité par MTT ou ATP ; exprimer les résultats en pourcentage par rapport au témoin négatif ; tracer la courbe viabilité = f(log concentration) et calculer l'IC50 par interpolation ou régression (modèle logistique à 4 paramètres) ; vérifier la réponse du témoin positif et la reproductibilité des triples ; documenter tous les paramètres."
+    },
+    {
+     "type": "rédaction",
+     "q": "Justifier l'intérêt des modèles tissulaires et organoïdes par rapport aux cultures 2D pour l'évaluation de la toxicité.",
+     "correction": "Les cultures 2D surexposent toutes les cellules au composé et ne reproduisent pas l'architecture, les gradients d'oxygène et de nutriments, ni les interactions cellule-cellule et cellule-matrice d'un tissu. Les modèles 3D (sphéroïdes, organoïdes, tissus reconstruits) présentent une différenciation et des réponses plus proches de l'in vivo : pénétration limitée des composés, zones hypoxiques, métabolisme plus réaliste. Ils améliorent la pertinence prédictive des essais de cytotoxicité et d'irritation, tout en s'inscrivant dans la démarche des 3R (remplacement ou réduction de l'expérimentation animale) et en réduisant les coûts et délais par rapport aux études animales."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Biologie cellulaire",
+   "titre": "Chapitre : culture végétale in vitro, virus et bactériophages",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T3.3 (biologie végétale, virus) et S2.6.3",
+   "points": [
+    "La totipotence est la capacité d'une cellule végétale différenciée à redonner une plante entière ; elle est exploitée en culture in vitro pour le microbouturage et la régénération à partir de méristèmes, de sections de tige ou de feuilles.",
+    "Les phytohormones contrôlent l'orientation de la culture : auxines (enracinement, croissance cellulaire) et cytokinines (prolifération des bourgeons) ; le rapport auxine/cytokinine élevé favorise les racines, un rapport faible favorise les bourgeons, un rapport intermédiaire le cal.",
+    "Conditions de culture : milieu de Murashige et Skoog (MS) avec saccharose, sels minéraux, vitamines et hormones, pH 5,6-5,8, agar, lumière (photopériode 16 h/8 h) et température 22-25 °C ; toutes les étapes sont réalisées en conditions aseptiques.",
+    "Étapes du microbouturage : prélèvement d'un explant (méristème apical), désinfection de surface (hypochlorite, alcool), mise en culture sur milieu d'initiation, multiplication sur milieu à cytokinines, enracinement sur milieu à auxines, acclimatation progressive en serre avant transfert en plein champ.",
+    "Applications : production de plants sains et identiques (clones), conservatoire de variétés, production de composés d'intérêt (métabolites secondaires), création de variétés par culture d'embryons ou de progénitures haploïdes.",
+    "Un virus est une particule infectieuse composée d'une capside protéique (icosaédrique ou hélicoïdale) entourant un génome ADN ou ARN, éventuellement d'une enveloppe lipidique ; il est obligatoirement parasite intracellulaire.",
+    "Cycle viral : adsorption sur des récepteurs cellulaires, pénétration, décapsidation, réplication du génome et synthèse des protéines, assemblage des virions, libération par lyse (cycle lytique) ou par bourgeonnement (cycle lysogène pour les phages tempérés).",
+    "Les bactériophages sont des virus infectant les bactéries : les phages lytiques sont utilisés pour le dénombrement par plages de lyse et pour le contrôle ou la lutte contre les biofilms et les contaminations bactériennes en bioindustrie (alternative aux antibiotiques).",
+    "Dénombrement viral : Test des Plages (PFU/mL) — une suspension de phage est mélangée à une suspension bactérienne en tapis, après incubation les plages de lyse sont comptées ; la densité optique ou la qPCR peuvent également suivre la charge virale.",
+    "Contrôle qualité des virus et vaccins : titre infectieux, pureté, absence de contamination bactérienne ou fongique, identification (séquençage ou sérologie), innocuité ; manipulation en laboratoire de sécurité biologique adapté au risque du virus étudié."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quel rapport hormonal favorise la formation de racines en culture végétale ?",
+     "options": [
+      "Un rapport auxines/cytokinines élevé",
+      "Un rapport auxines/cytokinines faible",
+      "Un rapport égal à 1",
+      "L'absence d'hormones"
+     ],
+     "correct": 0,
+     "correction": "Un excès d'auxines par rapport aux cytokinines induit la rhizogenèse (racines) ; l'inverse favorise la caulogenèse (bourgeons) et un rapport intermédiaire la formation de cal."
+    },
+    {
+     "type": "qcm",
+     "q": "Qu'est-ce que la totipotence ?",
+     "options": [
+      "La capacité d'une cellule à se diviser indéfiniment",
+      "La capacité d'une cellule végétale à redonner une plante entière",
+      "La résistance d'une graine à la sécheresse",
+      "L'absence de différenciation cellulaire"
+     ],
+     "correct": 1,
+     "correction": "La totipotence est la capacité d'une cellule déjà différenciée à se dédifférencier puis à se redifférencier pour former une plante complète, y compris les organes reproducteurs."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle est la structure de base d'un virus ?",
+     "options": [
+      "Une cellule avec une paroi",
+      "Une capside protéique contenant un génome nucléique, parfois une enveloppe",
+      "Une bactérie sans paroi",
+      "Un noyau avec des chromosomes"
+     ],
+     "correct": 1,
+     "correction": "Le virion comprend une capside (protéines) protégeant l'ADN ou l'ARN, éventuellement entourée d'une enveloppe lipidique issue de la membrane cellulaire ; il n'est pas une cellule et ne possède pas de métabolisme propre."
+    },
+    {
+     "type": "qcm",
+     "q": "Que mesure le titre en PFU/mL d'une suspension de bactériophages ?",
+     "options": [
+      "La masse de protéines virales",
+      "Le nombre de particules capables de former une plage de lyse par mL",
+      "La concentration en ADN viral",
+      "Le nombre de bactéries résistantes"
+     ],
+     "correct": 1,
+     "correction": "Le titre en PFU (Plaque Forming Units) est le nombre d'unités infectieuses capables de lyser une couche de bactéries sensibles et de former une plage de lyse visible ; il peut être inférieur au nombre total de particules."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire les grandes étapes du microbouturage d'une plante et les points critiques.",
+     "correction": "Prélever un explant (méristème ou bouture) sur une plante mère saine, le désinfecter en surface (alcool 70 %, hypochlorite de sodium, rinçages stériles), le déposer sur un milieu de culture adapté (MS + saccharose + hormones + agar, pH 5,6-5,8), cultiver sous lumière à 22-25 °C en atmosphère contrôlée ; multiplier les bourgeons sur milieu riche en cytokinines, puis transférer les pousses sur milieu à auxines pour l'enracinement ; acclimater progressivement les plantules à l'humidité et à la lumière extérieure avant mise en terre. Points critiques : asepsie stricte (champignons et bactéries concurrents), stérilité des milieux et du matériel, concentration et rapport des hormones, photopériode, et traçabilité des lots de milieu et des explants."
+    },
+    {
+     "type": "rédaction",
+     "q": "Expliquer l'intérêt des bactériophages pour le contrôle microbiologique en bioindustrie.",
+     "correction": "Les phages sont très spécifiques d'une espèce ou d'une souche bactérienne : ils peuvent cibler une bactérie pathogène ou d'altération (par exemple Listeria, Salmonella, Pseudomonas) sans perturber la flore utile du procédé ni laisser de résidus chimiques. Ils se multiplient sur la bactérie cible, y compris dans les biofilms, et peuvent être appliqués sur les surfaces ou les produits (phagothérapie, biocontrole). Ils complètent ou remplacent les désinfectants et antibiotiques dans une logique de réduction des intrants chimiques. Leur utilisation exige de connaître le spectre d'hôte, le titre infectieux (PFU/mL), les conditions d'application et le statut réglementaire du produit phagique."
+    }
+   ]
+  }
+ ],
+ "annales": [
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "titre": "Sujet type E6-U6 – Contrôle qualité d'un extrait d'ADN avant PCR",
+   "matiere": "Biologie moléculaire",
+   "type": "genere",
+   "contenu": "Énoncé. Un laboratoire de contrôle alimentaire reçoit un échantillon de soja transformé pour recherche d'OGM par PCR. Documents : (1) Protocole d'extraction (colonne de silice) : 100 mg d'échantillon, élution dans 100 µL ; extrait dilué au 1/20 pour la spectrophotométrie. (2) Lectures spectrophotométriques après dilution : A260 = 0,205 ; A280 = 0,125 ; A230 = 0,090. (3) Fluorimétrie Qubit : 12,5 ng/µL dans l'extrait non dilué. (4) Gel d'agarose 1 % : bande unique de haut poids, très peu de smear. (5) PCR avec amorces ciblant le gène de la protéine CP4 EPSPS : témoins — extrait eau (négatif d'extraction) : négatif ; mélange sans ADN (négatif de PCR) : bande faible ; témoin positif soja OGM 1 % : bande attendue de 225 pb ; échantillon : bande de 225 pb. Questions. Q1 : Calculer la concentration d'ADN par spectrophotométrie et commenter l'écart avec la fluorimétrie. Q2 : Calculer les rapports A260/A280 et A260/A230 et interpréter. Q3 : Que révèle le gel d'agarose ? Q4 : La série PCR est-elle valide ? Q5 : Quelle conclusion rendre sur l'échantillon ? Q6 : Quelles actions correctives engager ? Q7 : Décrire la traçabilité à assurer. Q8 : Rédiger la conclusion du rapport.",
+   "correction": "Q1. A260 corrigé = 0,205 × 20 = 4,10 ; concentration = 4,10 × 50 ng/µL = 205 ng/µL. La fluorimétrie donne 12,5 ng/µL : écart d'un facteur ~16. Le spectrophotomètre surestime car il mesure tout ce qui absorbe à 260 nm (ARN, fragments, nucleotides libres, substances interférentes de la matrice soja), alors que le colorant Qubit est spécifique de l'ADN double brin. Q2. A260/A280 = 0,205/0,125 = 1,64 (inférieur à 1,8 : contamination protéique résiduelle) ; A260/A230 = 0,205/0,090 = 2,28 (correct, > 2,0 : peu de sels ou phénol). Q3. La bande unique de haut poids avec peu de smear indique un ADN génomique globalement intact et peu dégradé, malgré la contamination protéique ; l'extrait est exploitable après purification ou dilution. Q4. Non : le témoin négatif de PCR présente une bande faible, ce qui prouve une contamination des réactifs ou du milieu : toute la série est invalide, y compris les résultats positifs de l'échantillon et du témoin positif. Q5. Aucune conclusion ne peut être rendue sur la présence d'OGM : la série doit être refaite. Une bande à 225 pb dans un témoin négatif ne peut pas être interprétée comme un signal d'échantillon. Q6. Arrêter la série ; décontaminer les plans de travail (hypochlorite puis alcool, UV), vérifier les lots d'eau, d'amorces et de polymérase, remplacer les réactifs suspects, utiliser des pointes à filtre et changer de gants, reprendre l'extraction et l'analyse avec des témoins conformes, vérifier le témoin d'extraction (négatif ici, donc la contamination est probablement en aval). Documenter l'incident et mener une action corrective. Q7. Numéro d'échantillon et de lot, date et heure d'extraction, méthode et lot de kit, masse de prise d'essai, volume d'élution, concentrations et rapports de pureté, gel et image, lots d'amorces et de polymérase, programme du thermocycleur, résultats des témoins, nom de l'opérateur, incidents et actions. Q8. Rapport : « Échantillon SOJ-2026-033 : ADN extrait (205 ng/µL par spectrophotométrie, 12,5 ng/µL par fluorimétrie), rapports 1,64 et 2,28, intégrité satisfaisante. Série PCR INVALIDÉE (bande dans le témoin négatif de PCR) : résultat OGM non rendu, analyse à reprendre après décontamination. Traçabilité complète enregistrée. »"
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "titre": "Sujet type E7-U7 – Quantification par qPCR d'un pathogène dans un aliment",
+   "matiere": "Biologie moléculaire",
+   "type": "genere",
+   "contenu": "Énoncé. Un laboratoire quantification Salmonella spp. dans un lot de poudre de lait par qPCR (sonde TaqMan, gène invA). Documents : (1) Gamme : 10^6 ; 10^5 ; 10^4 ; 10^3 ; 10^2 copies/µL, Ct respectifs 15,2 ; 18,5 ; 21,8 ; 25,1 ; 28,4 (triplicats). (2) Caractéristiques de la droite : pente -3,30, ordonnée 36,8, R² 0,998. (3) Échantillons (triplicats) : échantillon A Ct 24,3 ; 24,5 ; 24,4 ; échantillon B Ct 29,8 ; 30,1 ; 29,9 ; échantillon C : aucun Ct détecté. (4) Témoin négatif : aucun Ct ; témoin positif : Ct 20,0. (5) Ajout d'un étalon interne exogène à l'échantillon B : Ct décalé de +3,5 cycles par rapport au témoin. (6) Exigence : absence de Salmonella dans 25 g. Questions. Q1 : Calculer l'efficacité de la réaction et la commenter. Q2 : Déduire la relation Ct = f(log copies) et calculer la charge des échantillons A et B. Q3 : L'échantillon C est-il conforme ? Q4 : Commenter le résultat du témoin interne de l'échantillon B. Q5 : Comparer la sensibilité de la qPCR à un dénombrement classique (limite ~10 UFC/g après enrichissement). Q6 : Quelles vérifications complémentaires avant de rendre un résultat non conforme ? Q7 : Décrire la conduite à tenir en cas de résultat positif confirmé. Q8 : Rédiger la synthèse d'analyse.",
+   "correction": "Q1. E = 10^(-1/pente) - 1 = 10^(1/3,30) - 1 = 10^0,303 - 1 ≈ 1,01, soit 101 % : efficacité excellente (critère 90-110 %). Q2. Ct = -3,30 log(copies) + 36,8. Pour A : Ct moyen 24,4 → log(copies) = (36,8 - 24,4)/3,30 = 3,76 → 10^3,76 ≈ 5,7 × 10^3 copies/µL (soit ~5,7 × 10^5 copies dans 100 µL d'extrait). Pour B : Ct 29,93 → log = (36,8-29,93)/3,30 = 2,08 → ~120 copies/µL, mais résultat influencé par les inhibiteurs (voir Q4). Q3. L'échantillon C n'a pas d'amplification : en l'absence de inhibition démontrée (à vérifier avec l'étalon interne) et avec des témoins conformes, il est déclaré « non détecté » dans les conditions de la méthode ; compte tenu de l'exigence d'absence dans 25 g, il est conforme sous réserve de la limite de détection de la méthode. Q4. Le décalage de +3,5 cycles de l'étalon interne signale une inhibition de la matrice dans l'échantillon B : la réaction est moins efficace, la charge calculée (120 copies/µL) est sous-estimée et le résultat n'est pas fiable. Il faut purifier à nouveau l'extrait (colonnes, billes), diluer l'échantillon (1/10 ou 1/20) et refaire la qPCR, ou extraire à nouveau. Q5. La qPCR détecte l'ADN en quelques heures sans attendre la culture (18-48 h), avec une sensibilité théorique de quelques copies ; elle peut détecter des cellules mortes ou de l'ADN libre, ce qui la rend très sensible mais moins discriminante sur la viabilité. Le dénombrement après enrichissement donne des cellules viables (UFC) et reste la méthode de référence pour la décision réglementaire ; la qPCR est un outil de criblage rapide à confirmer par iso- lissement sur milieux sélectifs. Q6. Confirmer par une seconde cible génique (deux gènes différents), refaire l'extraction et l'amplification en double, vérifier les témoins et l'absence d'inhibition, comparer au seuil de la méthode (LQ), et isoler la souche sur milieux sélectifs pour confirmation et sérotypage selon la norme de référence. Q7. Bloquer le lot, alerter le service qualité, confirmer par la méthode normée, rechercher la source (matières premières, environnement, contamination croisée), appliquer des actions correctives et vérifier leur efficacité, documenter et, si le lot est distribué, déclencher la procédure de retrait/rappel et informer les autorités. Q8. Synthèse : « qPCR invA — gamme linéaire R² 0,998, efficacité 101 %. Échantillon A : ~5,7 × 10^5 copies/100 µL (présence d'ADN de Salmonella). Échantillon B : résultat non valide (inhibition, étalon interne décalé de 3,5 cycles) à reprendre après purification/dilution. Échantillon C : non détecté, sous réserve de validation de l'absence d'inhibition. Témoins conformes. Confirmation par isolement et seconde cible engagée pour l'échantillon A ; lot bloqué. »"
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "titre": "Sujet type E6-U6 – Dosage d'un allergène alimentaire par ELISA",
+   "matiere": "Immunologie",
+   "type": "genere",
+   "contenu": "Énoncé. Un laboratoire dose la protéine d'arachide Ara h 1 dans un lot de biscuits « sans arachide » par ELISA sandwich. Documents : (1) Gamme (ng/mL) : 0 ; 0,5 ; 1 ; 2 ; 5 ; 10 ; 20 ; DO (450 nm) : 0,035 ; 0,070 ; 0,105 ; 0,180 ; 0,410 ; 0,780 ; 1,450. (2) Régression linéaire sur 0-10 ng/mL : DO = 0,075 c + 0,034 ; R² = 0,999. (3) Échantillon : 2,00 g de biscuit extraits dans 20 mL de tampon, puis dilué au 1/10 ; DO = 0,235 (double : 0,241). (4) Contrôles : blanc 0,036 ; témoin négatif (matrice exempte) 0,041 ; témoin positif 5 ng/mL retrouvé à 5,2 ng/mL ; étalon de contrôle 2 ng/mL retrouvé à 1,9 ng/mL. (5) Seuil d'allergène déclarable : 2 mg/kg ; limite de quantification de la méthode : 0,5 mg/kg. Questions. Q1 : Valider la gamme et l'étalon de contrôle. Q2 : Calculer la concentration en Ara h 1 dans l'extrait puis dans le biscuit. Q3 : Comparer au seuil de 2 mg/kg et conclure. Q4 : Vérifier la répétabilité des doubles. Q5 : Que signifie le résultat du témoin négatif ? Q6 : Pourquoi utiliser un format sandwich pour ce dosage ? Q7 : Décrire les contrôles de spécificité nécessaires. Q8 : Rédiger l'alerte au service qualité.",
+   "correction": "Q1. Gamme : R² = 0,999 ≥ 0,995, linéarité correcte sur 0-10 ng/mL (au-delà la courbe s'incurve, on exclut le point 20 ng/mL). Étalon de contrôle : 1,9 ng/mL retrouvé pour 2 attendus, écart -5 %, dans la plage acceptée (± 10-15 %) : série valide. Q2. c(extrait dilué) = (0,235 - 0,034)/0,075 = 2,68 ng/mL (double 2,76 ; moyenne 2,72). Concentration dans l'extrait non dilué = 27,2 ng/mL = 27,2 µg/L. Masse d'allergène dans les 20 mL = 27,2 µg/L × 0,020 L = 0,544 µg, contenue dans 2,00 g de biscuit : 0,544 µg/2 g = 0,272 µg/g = 0,272 mg/kg. Q3. 0,272 mg/kg est inférieur au seuil de déclaration de 2 mg/kg et supérieur à la LQ (0,5 mg/kg) — attention : 0,272 < 0,5 mg/kg, donc le résultat est inférieur à la limite de quantification : il doit être rendu comme « < 0,5 mg/kg (non quantifiable) », ce qui est bien en dessous du seuil de 2 mg/kg : lot conforme à l'étiquetage « sans arachide » au sens de la méthode. Q4. Les deux DO 0,235 et 0,241 donnent 2,68 et 2,76 ng/mL : écart relatif = 0,08/2,72 = 2,9 %, acceptable (critère usuel ≤ 5-10 %). Q5. Le témoin négatif (matrice exempte d'allergène) donne 0,041, proche du blanc 0,036 : il n'y a pas de liaison non spécifique ni de contamination de la matrice ou des réactifs : le dosage est spécifique dans ces conditions. Q6. Le format sandwich utilise deux anticorps reconnaissant deux épitopes distincts d'Ara h 1 : il offre une meilleure spécificité que le format direct ou compétitif et s'adapte à une protéine de taille suffisante. Le signal augmente avec la concentration, ce qui facilite la lecture de la gamme et l'interprétation. Q7. Tester des matrices exemptes (blanc de matrice, autres allergènes : lait, soja, noix, gluten) pour vérifier l'absence de réactivité croisée ; analyser des échantillons enrichis (spike) à plusieurs niveaux pour mesurer le rendement d'extraction ; comparer avec une méthode de référence (LC-MS/MS ou Western blot) sur des échantillons positifs ; vérifier la stabilité de Ara h 1 dans les conditions d'extraction. Q8. Alerte : « Biscuits LOT BIS-2026-221, mention « sans arachide ». Dosage Ara h 1 par ELISA sandwich : résultat < 0,5 mg/kg (limite de quantification), seuil de déclaration 2 mg/kg — conforme. Série valide ( étalon 1,9/2 ng/mL, témoin négatif proche du blanc, doublons écart 2,9 %). Prélever un échantillon de retenue et conserver les extraits pour vérification ultérieure. Traçabilité : lots de kit ELISA, date, opérateur, numéro de plaque. »"
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "titre": "Sujet type E7-U7 – Essai de cytotoxicité sur une nouvelle molécule",
+   "matiere": "Biologie cellulaire",
+   "type": "genere",
+   "contenu": "Énoncé. Un laboratoire de biopharmacie évalue la cytotoxicité d'un nouvel excipient sur une lignée de kératinocytes (HaCaT) par test MTT. Documents : (1) Protocole : 5 000 cellules/puits en plaque 96 puits, 24 h d'adhésion, exposition 24 h, MTT 0,5 mg/mL 3 h, solubilisation, lecture à 570 nm ; témoins : milieu seul (blanc), milieu + cellules (témoin négatif), SDS 1 % (témoin positif). (2) Résultats (DO moyennes, n=3) : blanc 0,08 ; témoin négatif 1,20 ; témoin positif 0,18 ; excipient 0,1 mg/mL 1,18 ; 1 mg/mL 0,96 ; 10 mg/mL 0,52 ; 100 mg/mL 0,22. (3) Les puits traités à 100 mg/mL montrent des cellules arrondies et détachées à l'examen microscopique. (4) Objectif : la viabilité doit rester ≥ 80 % à 10 mg/mL. (5) Un test complémentaire au bleu de trypan à 10 mg/mL donne 82 % de viabilité, et à 100 mg/mL 25 %. Questions. Q1 : Calculer les viabilités en pourcentage par rapport au témoin négatif (blanc déduit). Q2 : La série est-elle valide ? Q3 : L'excipient respecte-t-il l'objectif à 10 mg/mL ? Q4 : Comparer les résultats MTT et bleu de trypan à 100 mg/mL et expliquer l'écart. Q5 : Calculer l'IC50 approximative. Q6 : Commenter l'aspect microscopique. Q7 : Proposer des essais complémentaires. Q8 : Rédiger le compte rendu de l'essai.",
+   "correction": "Q1. Viabilité = (DOéchantillon - DOblanc)/(DOtémoin - DOblanc) × 100 ; dénominateur = 1,20 - 0,08 = 1,12. 0,1 mg/mL : (1,18-0,08)/1,12 = 98,2 % ; 1 mg/mL : (0,96-0,08)/1,12 = 78,6 % ; 10 mg/mL : (0,52-0,08)/1,12 = 39,3 % ; 100 mg/mL : (0,22-0,08)/1,12 = 12,5 %. Témoin positif : (0,18-0,08)/1,12 = 8,9 %. Q2. Oui : le blanc est bas (0,08), le témoin négatif donne un signal fort (1,20) et le SDS abaisse la viabilité à 8,9 %, ce qui valide la sensibilité du test ; les triplicats sont cohérents. Q3. Non : à 10 mg/mL, la viabilité MTT est de 39,3 %, très inférieure à l'objectif de 80 % ; l'excipient est cytotoxique à cette concentration. Même à 1 mg/mL, la viabilité (78,6 %) est légèrement sous le seuil. Q4. À 100 mg/mL, le MTT donne 12,5 % et le bleu de trypan 25 % : le MTT sous-estime la viabilité car il mesure l'activité mitochondriale, qui peut être inhibée par le composé avant la mort cellulaire ; le bleu de trypan compte les cellules à membrane intacte. Ces deux méthodes mesurent des aspects différents : un composé peut réduire le métabolisme sans tuer immédiatement. Q5. IC50 = concentration qui réduit la viabilité de 50 % : entre 1 mg/mL (78,6 %) et 10 mg/mL (39,3 %) ; interpolation log-linéaire : log C = log 1 + (78,6-50)/(78,6-39,3) × (log10 - log1) = 0 + 0,729 × 1 = 0,729 → C ≈ 5,4 mg/mL. Q6. Les cellules arrondies et détachées à 100 mg/mL sont des signes de cytotoxicité sévère : perte d'adhésion, rétraction du cytosquelette, probable mort par nécrose ou apoptose tardive ; cela confirme l'effet observé par MTT et trypan. Q7. Essais complémentaires : mesure de l'ATP (luminescence), cytométrie en flux (apoptose vs nécrose avec annexine V / iodure de propidium), dosage de LDH relargée (dommage membranaire), marquage des mitochondries (potentiel de membrane), essai sur d'autres lignées (fibroblastes, hépatocytes), exposition plus longue (48-72 h), analyse de la dose-réponse avec plus de concentrations autour de l'IC50, et test sur modèle tissulaire 3D pour une meilleure pertinence. Q8. Compte rendu : « Essai MTT sur kératinocytes HaCaT, excipient EX-2026-03, 24 h d'exposition. Série valide (témoin positif SDS 8,9 %). Viabilités : 98 % à 0,1 ; 79 % à 1 ; 39 % à 10 ; 13 % à 100 mg/mL. IC50 estimée ~5,4 mg/mL. Objectif ≥ 80 % à 10 mg/mL NON ATTEINT. Confirmation par bleu de trypan (82 % à 10 mg/mL selon le protocole complémentaire — résultat à harmoniser avec le MTT) et examen microscopique montrant une cytotoxicité à forte dose. Recommandation : limiter la concentration d'excipient à ≤ 0,1 mg/mL ou reformuler ; poursuivre les essais sur modèles 3D. Traçabilité : lignée et passage, lots de réactifs, plaque, opérateur, date. »"
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "titre": "Sujet type E7-U7 – Identification d'une souche et comparaison de méthodes moléculaires",
+   "matiere": "Biologie moléculaire",
+   "type": "genere",
+   "contenu": "Énoncé. Un isolat bactérien Gram négatif est prélevé sur une surface d'atelier agroalimentaire. Le laboratoire doit l'identifier et choisir une méthode de suivi. Documents : (1) Tests biochimiques : oxydase -, catalase +, fermentation du lactose + sur MacConkey (colonies rouges), uréase -, indole +, citrate -, H2S -. (2) Galerie API 20E : code assimilé à Escherichia coli avec identification à 98,7 %. (3) MALDI-TOF : score 2,31, premier taxon E. coli, écart avec le deuxième taxon 0,45. (4) PCR classique ciblant le gène 16S puis séquençage Sanger : séquence de 1 400 pb, alignement BLAST : 99,8 % d'identité avec E. coli (couverture 99 %), 99,6 % avec Shigella flexneri. (5) qPCR ciblant le gène stx1 (shiga-toxine) : Ct 31,2 pour l'isolat, Ct 30,8 pour le témoin positif, aucun Ct pour le négatif. (6) Coût/délai : galerie 20 €/24 h ; MALDI-TOF 8 €/30 min ; séquençage 60 €/48 h. Questions. Q1 : Analyser la cohérence des résultats d'identification. Q2 : Que signifient le score MALDI-TOF et l'écart entre taxons ? Q3 : Comment interpréter l'alignement BLAST à 99,8 % / 99,6 % ? Q4 : Quelle conclusion rendre sur l'isolat au regard du gène stx1 ? Q5 : Quelle méthode recommander pour le suivi de routine et pourquoi ? Q6 : Quels contrôles qualité doivent accompagner chaque méthode ? Q7 : Quelles limites du séquençage Sanger faut-il rappeler ? Q8 : Rédiger la synthèse d'identification.",
+   "correction": "Q1. Les résultats sont cohérents : bacille Gram -, oxydase -, lactose +, indole +, uréase -, citrate -, H2S - correspondent au profil d'E. coli ; la galerie API (98,7 %), le MALDI-TOF (E. coli en premier) et le séquençage 16S (99,8 %) convergent vers Escherichia coli. Q2. Un score MALDI-TOF ≥ 2,0 valide une identification au niveau de l'espèce ; 2,31 est donc satisfaisant. L'écart de 0,45 avec le deuxième taxon est important (un écart faible, < 0,2, indiquerait une discrimination difficile entre espèces proches) : l'identification est fiable. Q3. E. coli et Shigella sont très proches génétiquement (gène 16S quasi identique) : 99,8 % contre 99,6 % ne permet pas une distinction robuste par le seul 16S. Pour différencier, il faut utiliser d'autres gènes (par exemple rpoB, gyrB), des caractères biochimiques (mobilité, fermentation du lactose, lysine décarboxylase) ou le séquençage du génome complet ; le contexte (surface d'atelier, profil lactose +) supporte E. coli. Q4. La qPCR stx1 est positive (Ct 31,2, proche du témoin positif à 30,8, témoin négatif sans Ct) : l'isolat porte le gène de la shiga-toxine 1. Il s'agit donc d'une souche potentiellement entérohémorragique (STEC/EHEC) : le résultat doit être confirmé (second gène stx2, eae, sérotypage O157) et signalé immédiatement car c'est un risque sanitaire majeur. Q5. Pour le suivi de routine, le MALDI-TOF est recommandé : identification en 30 min, coût modéré (8 €), excellente reproductibilité, à condition de maintenir la base de données et de valider les scores. La galerie API reste utile en dépannage ou pour les espèces mal couvertes ; le séquençage est réservé aux cas ambigus, aux souches atypiques ou à la caractérisation fine. Q6. Galerie : souche de référence, pureté de l'isolat, lecture des cupules et coding correct, date de péremption. MALDI-TOF : calibrage quotidien, souche témoin, contrôle de la qualité du spectre et du score, base de données à jour. Séquençage : contrôle de la qualité des chromatogrammes (Phred), amorces et mix adaptés, témoin d'amplification et de séquençage, alignement sur base curatée. qPCR : témoins positif/négatif, contrôle d'inhibition, duplication. Q7. Le Sanger donne une lecture fiable sur ~500-1000 pb avec une limite de détection de variants minoritaires d'environ 15-20 % ; il ne détecte pas les mélanges de souches à faible proportion, nécessite une amplification préalable et unisolat pur, et son coût/délai le réservent aux analyses ponctuelles ; la qualité décroît en fin de lecture. Q8. Synthèse : « Isolat ISO-2026-087 identifié comme Escherichia coli par méthodes phénotypiques (API 98,7 %), MALDI-TOF (score 2,31) et séquençage 16S (99,8 %). Port du gène stx1 mis en évidence par qPCR (Ct 31,2 ; témoin positif 30,8 ; négatif sans signal) : souche STEC présumée, à confirmer par stx2/eae et sérotypage. La distinction avec Shigella nécessiterait un marqueur plus discriminant que le 16S. MALDI-TOF recommandé pour le suivi de routine. Alerte sanitaire émise, lot de production bloqué et enquête environnementale engagée. Traçabilité : lots de galerie, de réactifs PCR, spectres et chromatogrammes archivés. »"
+  }
+ ]
+}

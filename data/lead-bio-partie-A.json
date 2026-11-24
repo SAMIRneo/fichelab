@@ -1,0 +1,1417 @@
+{
+ "fiches": [
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Biochimie analytique",
+   "titre": "Chapitre : spectrophotométrie UV-visible et loi de Beer-Lambert",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T2.2 et T2.3 ; VIM ; norme NF EN ISO 17025",
+   "points": [
+    "Principe : on mesure l'absorbance A = log10(I0/I) = -log10(T) d'une solution placée dans une cuve de trajet optique l (généralement 1 cm) à une longueur d'onde λ choisie au maximum d'absorption λmax du chromophore.",
+    "Loi de Beer-Lambert : A(λ) = ε(λ) × l × c, avec ε coefficient d'absorption molaire en L·mol⁻¹·cm⁻¹ et c concentration molaire en mol·L⁻¹ ; la grandeur mesurée est proportionnelle à la concentration dans le domaine de linéarité de l'instrument (en pratique 0,1 à 1,0 unité d'absorbance).",
+    "Transmission et absorbance : T = I/I0, %T = 100 × T, donc A = 2 - log10(%T) ; A = 1 correspond à 10 % de transmission et A = 2 à 1 % : au-delà, la mesure devient peu fiable et il faut diluer l'échantillon.",
+    "Détermination de λmax par balayage spectral (scan 200-800 nm) sur une solution étalon : travailler au λmax donne la meilleure sensibilité et limite l'influence des petites variations de longueur d'onde du monochromateur.",
+    "Blanc et référence : la cuve de référence contient le solvant et tous les réactifs sauf l'analyte ; elle annule l'absorption du solvant, de la cuve et des réactifs avant chaque série de mesures.",
+    "Gamme d'étalonnage : préparer 5 à 6 concentrations décroissantes par dilutions successives à partir d'une solution mère, plus un blanc à 0 ; tracer A = f(c), déterminer la régression linéaire A = a·c + b et exiger un coefficient de détermination R² ≥ 0,995 avant d'exploiter la droite.",
+    "Exploitation : pour un échantillon de absorbance Ae, c = (Ae - b)/a, puis appliquer le facteur de dilution ; le résultat est rendu avec son incertitude élargie U = k·u (k ≈ 2 pour un niveau de confiance d'environ 95 %), u = s/√n étant estimée à partir de n mesures répétées.",
+    "Sources d'erreur à maîtriser : cuve rayée ou mal orientée, gouttelettes ou bulles, échantillon trouble diffusant la lumière, dérive de la lampe, température non stabilisée, temps de réaction avant lecture non respecté, effet matrice ( inhibition ou renforcement ).",
+    "Contrôles de la chaîne : filtres certifiés ou solutions étalons pour la vérification de la longueur d'onde et de l'absorbance, étalon de contrôle inséré toutes les 10 mesures, carte de contrôle de suivi d'équipement et participation à des essais inter-laboratoires.",
+    "Exemple chiffré : dosage des protéines par la méthode de Bradford à 595 nm ; gamme 0 à 1,0 g·L⁻¹, droite A = 0,62·c + 0,01. Un échantillon dilué au 1/10 donne A = 0,630, soit c = 1,0 g·L⁻¹ dans la cuve et 10,0 g·L⁻¹ dans l'échantillon initial."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle expression donne l'absorbance A en fonction de la transmission T ?",
+     "options": [
+      "A = log10(T)",
+      "A = -log10(T)",
+      "A = 1 - T",
+      "A = 10 × T"
+     ],
+     "correct": 1,
+     "correction": "Par définition A = log10(I0/I) = log10(1/T) = -log10(T). A = 2 - log10(%T) lorsque la transmission est exprimée en pourcentage."
+    },
+    {
+     "type": "qcm",
+     "q": "Dans la loi de Beer-Lambert A = ε·l·c, que représente l ?",
+     "options": [
+      "La longueur d'onde d'excitation",
+      "La longueur du trajet optique dans la cuve",
+      "La largeur de bande spectrale",
+      "Le coefficient d'absorption molaire"
+     ],
+     "correct": 1,
+     "correction": "l est le trajet optique, usuellement 1 cm. ε est le coefficient d'absorption molaire, c la concentration et λ la longueur d'onde."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle est la conduite à tenir si l'absorbance mesurée est de 1,8 UA ?",
+     "options": [
+      "Rendre le résultat tel quel",
+      "Augmenter la tension de la lampe",
+      "Diluer l'échantillon et refaire la mesure",
+      "Changer la longueur d'onde au hasard"
+     ],
+     "correct": 2,
+     "correction": "Au-delà d'environ 1 UA, la relation de Beer-Lambert s'écarte de la linéarité (T < 10 %) : il faut diluer l'échantillon pour revenir dans le domaine de validité de la droite d'étalonnage, puis multiplier par le facteur de dilution."
+    },
+    {
+     "type": "qcm",
+     "q": "À quoi sert la cuve de référence (blanc) ?",
+     "options": [
+      "À vérifier la température de l'échantillon",
+      "À annuler l'absorption du solvant, de la cuve et des réactifs",
+      "À augmenter la sensibilité de la mesure",
+      "À remplacer l'étalon de contrôle"
+     ],
+     "correct": 1,
+     "correction": "Le blanc contient tous les composants sauf l'analyte ; il fixe le zéro d'absorbance et compense l'absorption propre du milieu et de la cuve."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel critère statistique minimal est généralement exigé pour valider une droite d'étalonnage ?",
+     "options": [
+      "R² ≥ 0,90",
+      "R² ≥ 0,95",
+      "R² ≥ 0,995",
+      "R² ≥ 0,9999"
+     ],
+     "correct": 2,
+     "correction": "En dosagequantitatif courant on exige R² ≥ 0,995 (0,999 en méthode normée sensible) ; la linéarité doit être vérifiée sur toute la gamme, pas seulement par le coefficient."
+    },
+    {
+     "type": "rédaction",
+     "q": "Expliquer pourquoi on travaille au maximum d'absorption λmax et comment on choisit la gamme de concentrations d'une méthode spectrophotométrique.",
+     "correction": "Au λmax, la pente ε de la droite est maximale : une faible variation de concentration donne une grande variation d'absorbance, donc une meilleure sensibilité et une moindre sensibilité aux erreurs de réglage λ. La gamme doit encadrer la concentration attendue de l'échantillon, comporter au moins 5 niveaux plus un blanc, rester dans le domaine de linéarité (A entre 0,1 et 1 UA environ) et être préparée par dilutions successives à partir d'une solution mère tracée (lot, date, opérateur)."
+    },
+    {
+     "type": "rédaction",
+     "q": "Un dosage donne A = 0,420 pour la droite A = 0,50·c + 0,020 (c en mg·L⁻¹). L'échantillon a été dilué au 1/25. Calculer la concentration initiale et citer trois sources d'erreur possibles.",
+     "correction": "c(cuve) = (0,420 - 0,020)/0,50 = 0,80 mg·L⁻¹ ; concentration initiale = 0,80 × 25 = 20,0 mg·L⁻¹. Sources d'erreur : erreur de pipetage lors de la dilution, lecture hors domaine de linéarité ou hors λmax, réaction colorée incomplète ou temps de lecture non respecté, cuve sale/rayée, dérive instrumentale, effet matrice."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1"
+   ],
+   "matiere": "Biochimie analytique",
+   "titre": "Chapitre : préparation des solutions, dilutions et étalonnage externe",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.2.5 et T2.3 ; VIM ; Pharmacopée européenne",
+   "points": [
+    "Une solution est préparée à partir d'une substance de référence (pureté connue, numéro de lot, date de péremption) ou d'une solution commerciale certifiée ; toute préparation fait l'objet d'un enregistrement : identité, masse ou volume, volumétrie, solvant, date, opérateur.",
+    "Calcul de masse : m = C × V × M, avec C concentration souhaitée en mol·L⁻¹, V volume final en L et M masse molaire en g·mol⁻¹ ; pour un soluté liquide de densité d et titre t (fraction massique), V_prélevé = m/(d × t).",
+    "Dilution simple : C1·V1 = C2·V2 ; la dilution est réalisée dans une fiole jaugée de volume exact, complétée au trait de jauge après dissolution complète et homogénéisation (retournement 10 fois).",
+    "Dilutions successives : facteur total = produit des facteurs intermédiaires (par exemple 1/10 puis 1/100 donne 1/1000) ; on évite les prélèvements inférieurs à 0,1 mL en raison de l'incertitude de pipetage relative trop grande.",
+    "Choix de la verrerie et des appareils : fioles jaugées classe A, pipettes volumétriques ou micropipettes calibrées (certification, contrôle gravimétrique régulier), balance de précision avec portée et d'échelon adaptés à la masse à peser.",
+    "Étalonnage externe : on mesure une gamme de solutions étalons préparées dans le même solvant et soumises exactement au même protocole que les échantillons ; la droite de régression A = a·c + b est ensuite utilisée pour déduire la concentration inconnue.",
+    "Gamme conforme : au moins 5 concentrations + blanc, concentrations réparties autour de la valeur attendue, préparation indépendante (pas uniquement des dilutions en cascade depuis le même tube pour les niveaux critiques), R² ≥ 0,995 et résidus aléatoires.",
+    "Étalons de contrôle : solutions de concentration connue, indépendantes de la gamme (autre lot ou autre préparateur), analysées comme échantillon en début, milieu et fin de série ; leur écart à la valeur de référence valide ou non la série.",
+    "Traçabilité des réactifs : à réception, relever le numéro de lot, la date de péremption et les conditions de stockage ; conserver la fiche technique et la FDS ; enregistrer la date d'ouverture et la date limite d'utilisation après ouverture.",
+    "Exemple chiffré : préparer 100,0 mL de CuSO4 0,100 mol·L⁻¹ (M = 159,6 g·mol⁻¹) : m = 0,100 × 0,100 × 159,6 = 1,596 g ; puis prélever 10,00 mL de cette solution et compléter à 100,0 mL pour obtenir 0,0100 mol·L⁻¹."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle relation permet de calculer une dilution simple ?",
+     "options": [
+      "C1/V1 = C2/V2",
+      "C1 × V1 = C2 × V2",
+      "C1 + V1 = C2 + V2",
+      "C1 × V2 = C2"
+     ],
+     "correct": 1,
+     "correction": "La conservation de la quantité de matière donne C1·V1 = C2·V2 ; le facteur de dilution est F = V2/V1 = C1/C2."
+    },
+    {
+     "type": "qcm",
+     "q": "Pourquoi compléter une fiole au trait de jauge seulement après dissolution complète ?",
+     "options": [
+      "Pour éviter que la solution ne se colorie",
+      "Parce que le volume final doit être exact et que la dissolution peut modifier le volume",
+      "Pour réduire le temps de préparation",
+      "Pour éviter la évaporation du solvant"
+     ],
+     "correct": 1,
+     "correction": "Le volume doit être ajusté après dissolution : ajouter le solvant au trait avant dissolution conduirait à un volume final incorrect et donc à une concentration erronée."
+    },
+    {
+     "type": "qcm",
+     "q": "Qu'est-ce qu'un étalon de contrôle ?",
+     "options": [
+      "Un étalon servant à construire la gamme",
+      "Une solution de concentration connue indépendante de la gamme, analysée comme un échantillon pour valider la série",
+      "Un réactif périmé encore utilisable",
+      "Le blanc de la série"
+     ],
+     "correct": 1,
+     "correction": "L'étalon de contrôle est indépendant de la gamme d'étalonnage ; il permet de vérifier l'exactitude de la série et de déclencher une alerte si sa valeur sort des limites définies."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle information n'est pas indispensable à la traçabilité d'un réactif à réception ?",
+     "options": [
+      "Le numéro de lot",
+      "La date de péremption",
+      "Le prix d'achat",
+      "Les conditions de stockage"
+     ],
+     "correct": 2,
+     "correction": "Le prix n'est pas une donnée de traçabilité analytique ; le numéro de lot, la date critique et les conditions de conservation sont en revanche exigés par le système qualité."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire les étapes de préparation de 250,0 mL d'une solution de glucose à 2,00 g·L⁻¹ à partir d'une solution mère à 10,0 g·L⁻¹.",
+     "correction": "V1 = C2·V2/C1 = 2,00 × 0,2500 / 10,0 = 0,0500 L = 50,0 mL. Prélever 50,0 mL de solution mère à la pipette volumétrique (ou micropipette vérifiée), introduire dans une fiole jaugée de 250,0 mL, compléter avec le solvant jusqu'au trait, boucher et homogénéiser par 10 retournements, étiqueter (produit, concentration, lot, date, opérateur), enregistrer sur la fiche de traçabilité."
+    },
+    {
+     "type": "rédaction",
+     "q": "Pourquoi reproche-t-on les dilutions en cascade pour construire une gamme d'étalonnage ? Comment y remédier ?",
+     "correction": "Une erreur de pipetage commise à un niveau se propage à tous les niveaux suivants : les erreurs sont corrélées et la gamme peut paraître linéaire tout en étant décalée. On remédie en préparant chaque niveau directement à partir de la solution mère (ou de deux solutions mères indépendantes) avec des volumes prélèvés suffisamment grands et en utilisant des matériels volumétriques vérifiés."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Biochimie analytique",
+   "titre": "Chapitre : pH-métrie et titrage acido-basique",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T2.2 et annexe III-2 programme de physique-chimie module 3 ; Pharmacopée européenne",
+   "points": [
+    "Définition : pH = -log10(aH+) ≈ -log10[H+] en solution diluée ; à 25 °C, le produit ionique de l'eau Kw = [H+][OH-] = 10⁻¹⁴, donc pH + pOH = 14.",
+    "Acide et base au sens de Brønsted : un acide cède un proton, une base en accepte ; un couple acide/base conjugué est relié par Ka × Kb = Kw et pKa + pKb = 14 à 25 °C.",
+    "Équation de Henderson-Hasselbalch pour un tampon : pH = pKa + log([A-]/[HA]) ; un tampon est d'autant plus efficace que pH ≈ pKa ± 1 et que ses concentrations sont élevées.",
+    "Chaîne de mesure pH-métrique : électrode de verre (membrane sensible aux H+) + électrode de référence (Ag/AgCl) + thermomètre + pH-mètre ; le potentiel mesuré suit la relation de Nernst E = E0 - (2,303·RT/F)·pH, soit environ -59,2 mV par unité pH à 25 °C.",
+    "Étalonnage en deux points (ou trois points) avec des solutions tampons certifiées encadrant le pH de l'échantillon, à la même température ; la pente doit être proche de 95-102 % et le décalage (offset) proche de 0 mV.",
+    "Bonne pratique : rincer l'électrode à l'eau distillée et l'essuyer entre deux solutions, ne pas frotter la membrane, maintenir le niveau de solution de remplissage de l'électrode de référence, contrôler la date de péremption des tampons.",
+    "Titrage acido-basique : ajout progressif d'une solution titrante de concentration connue à un volume connu d'échantillon jusqu'à l'équivalence ; la courbe pH = f(V_titrant) présente un saut de pH dont le point d'inflexion donne le volume équivalent.",
+    "Choix de l'indicateur coloré : sa zone de virage doit être incluse dans le saut de pH (par exemple phénolphtaléine 8,2-10 pour un acide faible titré par une base forte ; méthylorange 3,1-4,4 pour une base faible titrée par un acide fort), sinon utiliser un pH-mètre et la dérivée première.",
+    "Calcul à l'équivalence : n(acide) = n(base), donc Ca·Va = Cb·Veq pour un titrage 1:1 ; tenir compte des coefficients stœchiométriques pour les réactions 2:1 (par exemple H2SO4 + 2 NaOH).",
+    "Applications au laboratoire : contrôle de l'acidité d'un produit (indice d'acidité), suivi de fermentation, vérification de la concentration d'un réactif, contrôle de l'eau et des effluents, stabilité d'une formulation cosmétique."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "À 25 °C, quelle est la relation entre pH et pOH ?",
+     "options": [
+      "pH + pOH = 7",
+      "pH + pOH = 14",
+      "pH × pOH = 14",
+      "pH = pOH"
+     ],
+     "correct": 1,
+     "correction": "Kw = 10⁻¹⁴, donc pKw = 14 et pH + pOH = 14 à 25 °C (la valeur varie avec la température)."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle est la pente théorique d'une électrode de verre à 25 °C ?",
+     "options": [
+      "-59,2 mV par unité de pH",
+      "+59,2 mV par unité de pH",
+      "-29,6 mV par unité de pH",
+      "0 mV par unité de pH"
+     ],
+     "correct": 0,
+     "correction": "D'après Nernst, E = E0 - 2,303·RT/F × pH, soit environ -59,2 mV/pH à 25 °C ; la pente pratique acceptée est 95-102 % de cette valeur."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel indicateur coloré convient pour titrer un acide faible par une base forte ?",
+     "options": [
+      "Méthylorange (3,1-4,4)",
+      "Phénolphtaléine (8,2-10)",
+      "Bleu de bromothymol (6,0-7,6)",
+      "Aucun indicateur"
+     ],
+     "correct": 1,
+     "correction": "À l'équivalence d'un acide faible + base forte, le pH est supérieur à 7 (hydrolyse du sel) : la zone de virage de la phénolphtaléine se situe dans le saut de pH."
+    },
+    {
+     "type": "qcm",
+     "q": "Que faire si la pente mesurée lors de l'étalonnage du pH-mètre est de 80 % ?",
+     "options": [
+      "Utiliser la lecture brute sans correction",
+      "Vérifier l'électrode (membrane, remplissage, contamination) et recalibrer",
+      "Ajouter un peu d'acide à l'échantillon",
+      "Changer de cuve spectrophotométrique"
+     ],
+     "correct": 1,
+     "correction": "Une pente de 80 % signale une électrode dégradée, sale ou mal remplie : il faut la nettoyer/régénérer, contrôler la solution de remplissage, vérifier les tampons puis recalibrer ; une mesure non recalibrée serait inexacte."
+    },
+    {
+     "type": "rédaction",
+     "q": "Calculer le pH d'une solution de HCl 5,0 × 10⁻³ mol·L⁻¹, puis celui d'une solution de NaOH 2,0 × 10⁻² mol·L⁻¹.",
+     "correction": "HCl est un acide fort : [H+] = 5,0 × 10⁻³, pH = -log(5,0 × 10⁻³) = 2,30. NaOH est une base forte : [OH-] = 2,0 × 10⁻², pOH = 1,70, donc pH = 14 - 1,70 = 12,30 (à 25 °C)."
+    },
+    {
+     "type": "rédaction",
+     "q": "20,00 mL d'une solution d'acide lactique (monoacide, M = 90,1 g·mol⁻¹) sont titrés par NaOH 0,100 mol·L⁻¹ ; l'équivalence est obtenue pour 18,50 mL. Calculer la concentration molaire et la concentration massique de l'acide.",
+     "correction": "n(NaOH) = 0,100 × 0,01850 = 1,85 × 10⁻³ mol = n(acide) (réaction 1:1). C = 1,85 × 10⁻³ / 0,02000 = 0,0925 mol·L⁻¹. concentration massique = 0,0925 × 90,1 = 8,33 g·L⁻¹."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Biochimie analytique",
+   "titre": "Chapitre : titrimétrie, conductimétrie et dosage des ions",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T2.2 et T2.3 ; annexe III-2 programme de physique-chimie",
+   "points": [
+    "Conductimétrie : la conductance G d'une solution dépend des ions présents, de leur concentration, de leur charge et de leur mobilité ; la conductivité κ = G × K_cell (K_cell constante de cellule déterminée avec une solution de KCl certifiée) s'exprime en S·m⁻¹ ou mS·cm⁻¹.",
+    "Courbe de titrage conductimétrique : κ = f(V_titrant) est une succession de segments droits ; l'intersection des deux droites donne le volume équivalent, méthode utile pour les solutions colorées ou troubles où l'indicateur visuel est inutilisable.",
+    "Titrage par ajouts dosés : on ajoute des volumes croissants d'étalon à l'échantillon, on mesure la réponse après chaque ajout, puis on extrapolate les deux droites ; l'abscisse à l'origine donne la concentration initiale ; cette méthode compense les effets de matrice.",
+    "Étalonnage interne : on ajoute une quantité connue et identique d'un étalon interne à tous les étalons, blancs et échantillons ; on trace le rapport signal(analyte)/signal(étalon) en fonction du rapport des concentrations, ce qui corrige les variations de préparation et d'injection.",
+    "Titrage complexométrique (EDTA) : l'EDTA forme un complexe 1:1 avec de nombreux cations (Ca²⁺, Mg²⁺) ; le virage de l'indicateur (noir ériochrome T, bleu d'indicateur) ou un dosage conductimétrique signale l'équivalence ; utilisé pour la dureté de l'eau.",
+    "Titrage d'oxydoréduction : dosage du chlore libre ou de la DCO par permanganatométrie ou iodométrie ; le potentiel redox peut être suivi par une électrode platine ( courbe en S, équivalence au point d'inflexion ).",
+    "Iodométrie et indice d'iode : l'iode libéré par l'analyte est titré par le thiosulfate de sodium Na2S2O3 en présence d'amidon (virage bleu → incolore) ; l'indice d'iode (g I2/100 g de matière grasse) mesure le degré d'insaturation des acides gras.",
+    "Préparation du titrant : solutions de NaOH, HCl, Na2S2O3 à concentration nominale ; elles doivent être étalonnées contre un étalon primaire (par exemple acide oxalique pour NaOH, KIO3 pour Na2S2O3) et leur concentration exacte reportée sur le flacon et dans le registre.",
+    "Calculs de titrage : à l'équivalence, n_titrant = ν × n_analyte ; C_analyte = C_titrant × V_eq × (coefficient) / V_échantillon ; exprimer le résultat avec le nombre de chiffres significatifs cohérent avec les incertitudes des volumes et des concentrations.",
+    "Contrôle qualité : blanc de titrage pour corriger la consommation de réactif par la matrice, double détermination avec écart relatif acceptable (souvent ≤ 2 %), étalon de contrôle et enregistrement des volumes bruts dans la feuille de traçabilité."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Comment détermine-t-on le volume équivalent sur une courbe de titrage conductimétrique ?",
+     "options": [
+      "Au sommet de la courbe",
+      "À l'intersection des deux segments droits extrapolés",
+      "À la moitié du volume total ajouté",
+      "Au premier changement de couleur"
+     ],
+     "correct": 1,
+     "correction": "La conductivité varie linéairement de part et d'autre de l'équivalence : on prolonge les deux droites et leur intersection donne V_eq, sans indicator coloré."
+    },
+    {
+     "type": "qcm",
+     "q": "À quoi sert la constante de cellule K_cell en conductimétrie ?",
+     "options": [
+      "À convertir la conductance en conductivité",
+      "À convertir la conductivité en pH",
+      "À corriger la température de l'échantillon",
+      "À déterminer la masse molaire de l'analyte"
+     ],
+     "correct": 0,
+     "correction": "κ = G × K_cell ; K_cell dépend de la géométrie de la cellule et est déterminée par mesure d'une solution de KCl de conductivité certifiée."
+    },
+    {
+     "type": "qcm",
+     "q": "Dans la méthode des ajouts dosés, Comment obtient-on la concentration initiale de l'analyte ?",
+     "options": [
+      "En lisant directement la valeur du blanc",
+      "Par l'abscisse à l'origine de la droite extrapolée",
+      "En divisant la pente par l'ordonnée à l'origine",
+      "En additionnant les réponses mesurées"
+     ],
+     "correct": 1,
+     "correction": "On trace la réponse en fonction du volume (ou de la concentration) d'étalon ajouté ; la droite extrapolée coupe l'axe des abscisses à une valeur dont la valeur absolue correspond à la quantité initiale d'analyte, matrice incluse."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel réactif est utilisé pour titrer l'iode en iodométrie ?",
+     "options": [
+      "Le permanganate de potassium",
+      "Le thiosulfate de sodium",
+      "L'EDTA",
+      "Le nitrate d'argent"
+     ],
+     "correct": 1,
+     "correction": "I2 + 2 S2O3²⁻ → 2 I⁻ + S4O6²⁻ ; l'amidon sert d'indicateur (complexe bleu disparaissant à l'équivalence)."
+    },
+    {
+     "type": "rédaction",
+     "q": "Expliquer l'intérêt de la méthode des ajouts dosés par rapport à un étalonnage externe lorsqu'une matrice complexe est analysée.",
+     "correction": "En étalonnage externe, les étalons sont préparés dans un solvant simple et ne reproduisent pas les effets de la matrice (inhibition, suppression d'ionisation, absorption parasite) : le résultat peut être biaisé. Dans les ajouts dosés, l'analyte est dosé directement dans son environnement matriciel après ajouts successifs d'étalon : la matrice est identique pour tous les points, son effet est donc inclus dans la pente et la concentration initiale est obtenue par extrapolation, sans matrice appariée."
+    },
+    {
+     "type": "rédaction",
+     "q": "Une solution de HCl 0,100 mol·L⁻¹ est étalonnée par 20,00 mL de Na2CO3 0,0500 mol·L⁻¹ (réaction : Na2CO3 + 2 HCl → 2 NaCl + H2O + CO2). Quel volume de HCl faut-il ?",
+     "correction": "n(Na2CO3) = 0,0500 × 0,02000 = 1,00 × 10⁻³ mol ; n(HCl) = 2 × 1,00 × 10⁻³ = 2,00 × 10⁻³ mol ; V(HCl) = 2,00 × 10⁻³ / 0,100 = 0,0200 L = 20,0 mL."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Biochimie analytique",
+   "titre": "Chapitre : dosage des protides et des glucides",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T2.2 et T3.3 ; Pharmacopée européenne ; normes AFNOR agroalimentaires",
+   "points": [
+    "Les protides sont des polymères d'acides aminés reliés par des liaisons peptidiques ; leur dosage repose sur une propriété globale (teneur en azote, liaisons peptidiques, résidus aromatiques) ou sur une activité biologique spécifique.",
+    "Méthode de Kjeldahl (référence pour l'azote protéique) : minéralisation à l'acide sulfurique avec catalyseur → NH4+ ; alcalinisation et entraînement à la vapeur → NH3 ; titrage de l'ammoniac ; protéines = azote total × facteur 6,25 (5,7 pour le blé, 6,38 pour le lait).",
+    "Méthode du Biuret : en milieu alcalin, les ions cuivriques forment un complexe violet avec au moins deux liaisons peptidiques ; lecture à 540-560 nm, gamme typique 1 à 10 g·L⁻¹, sensible aux agents chélateurs (citrate, EDTA).",
+    "Méthode de Bradford : fixation du bleu de Coomassie sur les résidus basiques et aromatiques, déplacement du maximum d'absorption vers 595 nm ; très rapide et sensible (0,1 à 1 g·L⁻¹), mais réponse très dépendante de la protéine étalon (albumine bovine en général).",
+    "Méthode de Lowry : réaction du cuivre avec les liaisons peptidiques puis réduction du réactif de Folin-Ciocalteu par les résidus tyrosine/tryptophane ; lecture à 750 nm ; plus sensible que Biuret mais sensible aux interférents (phénols, détergents).",
+    "Les glucides réducteurs (glucose, fructose, lactose, maltose) possèdent un groupement carbonylique libre capable de réduire Cu²⁺ ou Fe³⁺ ; le saccharose et l'amidon ne le sont pas.",
+    "Dosage par le DNS (acide 3,5-dinitrosalicylique) : en milieu alcalin et à chaud, le glucide réduit le DNS en amino-DNS rouge orangé, dosé à 540 nm ; gamme 0,1 à 1,0 g·L⁻¹ de glucose, temps de incubation et température strictement normalisés.",
+    "Méthode enzymatique glucose oxydase/peroxydase (GOD-POD) : le glucose est oxydé en gluconate avec production de H2O2 qui oxyde un chromogène ; très spécifique du glucose, largement utilisée dans le contrôle des boissons et en bioindustrie.",
+    "Dosage de l'amidon par hydrolyse enzymatique (amyloglucosidase) puis dosage du glucose libéré : la différence avant/après hydrolyse donne la teneur en amidon ; la cellulose est dosée par la méthode Van Soest (fibres).",
+    "Choix de la méthode : Kjeldahl pour une valeur de référence normative, Biuret/Bradford pour un suivi rapide de procédé, enzymatique pour la spécificité ; toujours rapporter le résultat à l'étalon choisi et indiquer la méthode dans le rapport d'essai."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quel facteur convertit l'azote total en protéines dans la méthode de Kjeldahl usuelle ?",
+     "options": [
+      "4,25",
+      "5,00",
+      "6,25",
+      "10,0"
+     ],
+     "correct": 2,
+     "correction": "Le facteur général est 6,25 (les protéines contiennent environ 16 % d'azote) ; il est adapté selon la matrice (5,7 pour les céréales, 6,38 pour les produits laitiers)."
+    },
+    {
+     "type": "qcm",
+     "q": "À quelle longueur d'onde lit-on la coloration du complexe Biuret ?",
+     "options": [
+      "280 nm",
+      "420 nm",
+      "540-560 nm",
+      "595 nm exactement"
+     ],
+     "correct": 2,
+     "correction": "Le complexe cuivre-protéine en milieu alcalin absorbe vers 540-560 nm ; 595 nm est la longueur d'onde de la méthode Bradford."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel glucide est réducteur parmi les suivants ?",
+     "options": [
+      "Le saccharose",
+      "Le lactose",
+      "L'amidon",
+      "Le glycogène"
+     ],
+     "correct": 1,
+     "correction": "Le lactose possède une fonction aldéhyde libre sur son résidu galactose : c'est un sucre réducteur, contrairement au saccharose (liaison entre les deux functions anomériques) et aux polysaccharides."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel est le principe de la méthode GOD-POD ?",
+     "options": [
+      " hydrolyse acide puis dosage du fructose",
+      " oxydation enzymatique du glucose avec H2O2 révélé par un chromogène",
+      " complexation du cuivre par les liaisons peptidiques",
+      " précipitation des protéines par l'acide trichloracétique"
+     ],
+     "correct": 1,
+     "correction": "La glucose oxydase produit du peroxyde d'hydrogène en proportion du glucose ; la peroxydase oxyde un chromogène dont l'absorbance est mesurée : la méthode est très spécifique du glucose."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comparer les méthodes Biuret, Bradford et Kjeldahl pour le dosage des protéines : principe, sensibilité et limites.",
+     "correction": "Kjeldahl dose l'azote total après minéralisation, entraînement et titrage : c'est une méthode de référence, exacte mais longue, destructive et sensible aux azotes non protéiques (facteur de conversion). Biuret repose sur le complexe cuivre-liaisons peptidiques en milieu alcalin (540-560 nm) : rapide, gamme 1-10 g/L, peu sensible mais interféré par les chélateurs. Bradford fixe le bleu de Coomassie sur les résidus aromatiques/basiques (595 nm) : très sensible (0,1-1 g/L) et rapide, mais la réponse dépend fortement de la protéine étalon et est perturbée par les détergents."
+    },
+    {
+     "type": "rédaction",
+     "q": "Pourquoi faut-il normaliser strictement le temps et la température dans un dosage au DNS ?",
+     "correction": "La réaction de réduction du DNS par les sucres réducteurs est cinétique : la quantité de produit coloré dépend du temps d'incubation et de la température (réaction à chaud, généralement 5 min à 95-100 °C). Si ces paramètres varient entre les étalons et les échantillons, l'absorbance n'est plus proportionnelle à la même concentration et la gamme devient invalide ; on traite tous les tubes dans le même bain et on respecte un chronogramme."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Biochimie analytique",
+   "titre": "Chapitre : dosage des lipides, indice d'iode et contrôle des matières grasses",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T2.2/T3.3 ; pharmacopée et normes NF EN ISO 660, 3960",
+   "points": [
+    "Les lipides sont des esters d'acides gras et de glycérol (triglycérides) ; leurs propriétés analytiques dépendent de la longueur de la chaîne et du nombre de doubles liaisons (degré d'insaturation).",
+    "Indice d'acide (NF EN ISO 660) : nombre de mg de KOH nécessaires pour neutraliser les acides gras libres de 1 g de matière grasse ; il traduit l'hydrolyse et donc le vieillissement ou une mauvaise conservation ( rance hydrolytique ).",
+    "Indice de peroxyde (NF EN ISO 3960) : mesure des hydroperoxides formés lors de l'oxydation primaire ; exprimé en méq O2/kg, il augmente avant l'apparition des saveurs de rance et constitue un indicateur précoce d'oxydation.",
+    "Indice d'iode (Wijs) : nombre de grammes d'iode fixé par 100 g de matière grasse ; il mesure le nombre total de doubles liaisons. On fait réagir l'échantillon avec une solution de monochlorure d'iode (réactif de Wijs) dans l'obscurité, puis on titre l'iode non fixé par le thiosulfate de sodium en présence d'amidon.",
+    "Formule de l'indice d'iode : I.I. = [ (V_blanc - V_échantillon) × C_thio × 0,1269 × 100 ] / m, avec V en mL, C_thio en mol·L⁻¹, m masse d'échantillon en g et 0,1269 = masse d'iode correspondant à 1 mL de thiosulfate 0,1 mol·L⁻¹.",
+    "Indice de saponification : mg de KOH nécessaires pour saponifier 1 g de graisse ; inversement proportionnel à la longueur moyenne des chaînes d'acides gras ; utilisé pour détecter des adultérations.",
+    "Indice de réfraction et point de fusion : paramètres rapides de contrôle d'identité et de pureté des huiles ; l'indice de réfraction à 20 °C (nD20) augmente avec l'insaturation.",
+    "Extraction des lipides : selon la matrice, extraction à l'hexane (Soxhlet), au chloroforme/méthanol (Folch, Bligh & Dyer) ou par méthode à l'éther ; l'extrait est séché à masse constante puis pesé (matière grasse brute).",
+    "Dérivés et xénobiotiques : les acides gras trans, les solvants résiduels et les mycotoxines (aflatoxine B1) sont recherchés par chromatographie (CLHP, CG) après purification sur cartouche SPE ; limites réglementaires très basses (µg·kg⁻¹).",
+    "Exemple chiffré : pour 0,4000 g d'huile, V_blanc = 25,00 mL et V_éch = 12,50 mL de thiosulfate 0,100 mol·L⁻¹, I.I. = 12,50 × 0,100 × 0,1269 × 100 / 0,4000 ≈ 39,7 g I2/100 g, valeur cohérente avec une huile peu insaturée."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quel paramètre mesure l'indice d'iode ?",
+     "options": [
+      "Le nombre de doubles liaisons des acides gras",
+      "La quantité d'acides gras libres",
+      "La longueur moyenne des chaînes",
+      "La teneur en eau de la matière grasse"
+     ],
+     "correct": 0,
+     "correction": "L'indice d'iode est la masse d'iode fixée par 100 g de matière grasse : il est proportionnel au nombre de doubles liaisons, donc au degré d'insaturation."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel titrant est utilisé pour doser l'iode résiduel dans la méthode de Wijs ?",
+     "options": [
+      "NaOH 0,1 mol/L",
+      "HCl 0,1 mol/L",
+      "Thiosulfate de sodium",
+      "EDTA"
+     ],
+     "correct": 2,
+     "correction": "L'iode non fixé par les doubles liaisons est titré par Na2S2O3 ; l'amidon, ajouté en fin de titrage, révèle le virage bleu → incolore."
+    },
+    {
+     "type": "qcm",
+     "q": "Qu'indique un indice de peroxyde élevé ?",
+     "options": [
+      "Une hydrolyse récente des triglycérides",
+      "Une oxydation primaire débutante des acides gras",
+      "Une contamination bactérienne",
+      "Un excès de saponification"
+     ],
+     "correct": 1,
+     "correction": "Les hydroperoxides sont les premiers produits de l'oxydation : un indice de peroxyde élevé signale un début de rance oxydatif, avant même l'apparition des composés volatils responsables de l'odeur."
+    },
+    {
+     "type": "qcm",
+     "q": "Comment évolue l'indice de saponification quand la chaîne des acides gras s'allonge ?",
+     "options": [
+      "Il augmente",
+      "Il diminue",
+      "Il reste constant",
+      "Il devient nul"
+     ],
+     "correct": 1,
+     "correction": "Plus les chaînes sont longues, plus la masse molaire du triglycéride est élevée pour un nombre donné de fonctions ester : la quantité de KOH par gramme diminue."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire le protocole de détermination de l'indice d'iode d'une huile végétale en précisant les points critiques.",
+     "correction": "Peser environ 0,3-0,5 g d'huile dans un flacon sec, dissoudre dans un solvant (cyclohexane/acide acétique), ajouter un volume exact de réactif de Wijs, boucher et laisser réagir 30 min à l'obscurité (la lumière décompose l'iode). Ajouter de l'eau et du KI, titrer l'iode libéré par Na2S2O3 0,1 mol/L jusqu'à virage de l'amidon. Réaliser un blanc dans les mêmes conditions. Points critiques : obscurité, temps de contact, propreté et sécheresse de la verrerie, concentration exacte du thiosulfate étalonné, masse pesée avec précision, écart entre doubles déterminations."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment l'indice d'iode peut-il être utilisé pour le contrôle qualité d'une huile et la détection d'une fraude ?",
+     "correction": "Chaque huile a une plage d'indice d'iode caractéristique de sa composition en acides gras (par exemple tournesol 118-141, olive 75-94, palme 44-54). Une valeur hors spécification signale soit une altération (oxydation qui détruit les doubles liaisons et abaisse l'indice), soit un mélange ou une substitution par une huile moins insaturée. L'indice est comparé aux valeurs de la fiche technique et à la réglementation, complété si besoin par un profil d'acides gras en CG après transestérification."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Biochimie analytique",
+   "titre": "Chapitre : chromatographie — principes, paramètres et quantification",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.3.4, T2.2 ; pharmacopée européenne chapitre 2.2.29",
+   "points": [
+    "La chromatographie sépare les constituants d'un mélange par migration différentielle entre une phase fixe (stationnaire) et une phase mobile (éluant) ; les composés sont retenus plus ou moins longtemps selon leurs interactions avec les deux phases.",
+    "Chromatographie en phase liquide haute performance (CLHP/HPLC) : pompe haute pression, injecteur, colonne garnie de particules fines (C18 en phase inverse le plus souvent), détecteur UV-visible, fluorescence ou conductimétrique ; en phase inverse, la phase stationnaire est apolaire et la phase mobile polaire (eau/acétonitrile ou eau/méthanol).",
+    "Élution isocratique (composition constante) ou à gradient (augmentation programmée de la fraction de solvant organique) : le gradient permet d'éluer des composés de polarités très différentes en une seule analyse.",
+    "Paramètres d'un chromatogramme : temps mort tM (composé non retenu), temps de rétention tR, temps de rétention ajusté t'R = tR - tM, facteur de capacité k' = t'R/tM (idéal 1 à 10), facteur de sélectivité α = k'2/k'1 > 1.",
+    "Résolution Rs = 2(tR2 - tR1)/(w1 + w2) avec w largeur des pics à la base : Rs ≥ 1,5 signifie une séparation complète ; la résolution augmente avec la longueur de colonne, le choix du solvant, la température et une faible vitesse d'écoulement, mais au détriment du temps d'analyse.",
+    "Efficacité théorique N = 16(tR/w)² (ou N = 5,54(tR/w1/2)²) et hauteur de plateau théorique H = L/N ; une colonne performante donne un grand N et des pics fins.",
+    "Aspect du pic : la symétrie (facteur d'asymétrie As compris entre 0,8 et 1,5) renseigne sur l'état de la colonne ; un pic traînant signale des sites actifs, une surcharge ou une mauvaise compatibilité de l'échantillon avec la phase mobile.",
+    "Identification : par comparaison du temps de rétention avec un étalon injecté dans les mêmes conditions, renforcée par le spectre UV (barrette de diodes) ou un couplage masse ; la quantification se fait par hauteur ou, mieux, par aire de pic.",
+    "Quantification : étalonnage externe avec gamme injectée dans la même séquence, étalonnage interne (ajout d'un composé proche à concentration fixe) ou ajouts dosés pour les matrices complexes ; la linéarité, la limite de détection (LD = 3σ/pente) et la limite de quantification (LQ = 10σ/pente) doivent être établies.",
+    "Préparation d'échantillon : filtration sur membrane 0,45 µm, dilution dans la phase mobile, extraction sur cartouche SPE ou extraction liquide/liquide ; protéger la colonne par une pré-colonne et respecter le pH et la force ionique supportables (généralement pH 2-8 pour une colonne C18 silica)."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle est la définition du facteur de capacité k' ?",
+     "options": [
+      "tR/tM",
+      "(tR - tM)/tM",
+      "tM/tR",
+      "w/(tR - tM)"
+     ],
+     "correct": 1,
+     "correction": "k' = t'R/tM = (tR - tM)/tM ; une valeur comprise entre 1 et 10 est recherchée pour une rétention ni trop faible ni trop longue."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle valeur de résolution correspond à une séparation complète de deux pics ?",
+     "options": [
+      "Rs ≥ 0,5",
+      "Rs ≥ 1,0",
+      "Rs ≥ 1,5",
+      "Rs ≥ 5"
+     ],
+     "correct": 2,
+     "correction": "Rs = 1,5 correspond à une séparation d'environ 99,7 % des deux pics gaussiens de largeur comparable."
+    },
+    {
+     "type": "qcm",
+     "q": "En chromatographie en phase inverse, comment appelle-t-on la phase stationnaire ?",
+     "options": [
+      "Polaire (silice nue)",
+      "Apolaire (greffage C18)",
+      "Un gel d'agarose",
+      "Un gaz inerte"
+     ],
+     "correct": 1,
+     "correction": "En phase inverse, la phase stationnaire est apolaire (chaînes C18 greffées sur silice) et la phase mobile est polaire : les composés les plus apolaires sont les plus retenus."
+    },
+    {
+     "type": "qcm",
+     "q": "Comment calcule-t-on la limite de quantification (LQ) ?",
+     "options": [
+      "LQ = 3σ/pente",
+      "LQ = 10σ/pente",
+      "LQ = pente/σ",
+      "LQ = σ × pente"
+     ],
+     "correct": 1,
+     "correction": "LD = 3σ/pente et LQ = 10σ/pente, σ étant l'écart-type du bruit de la ligne de base (ou des mesures du blanc) et pente la sensibilité de la droite d'étalonnage."
+    },
+    {
+     "type": "rédaction",
+     "q": "Expliquer l'influence de la composition de la phase mobile sur la rétention en chromatographie en phase inverse.",
+     "correction": "En phase inverse, augmenter la proportion de solvant organique (acétonitrile, méthanol) rend la phase mobile moins polaire, donc plus proche de la phase stationnaire apolaire : les analytes y sont plus solubles et leur facteur de capacité k' diminue, ainsi que leurs temps de rétention. Le gradient permet d'éluer d'abord les composés polaires puis les plus apolaires en fin d'analyse, en améliorant la résolution globale et en réduisant la durée totale."
+    },
+    {
+     "type": "rédaction",
+     "q": "Un pic a tR = 6,40 min, tM = 1,20 min et une largeur à la base w = 0,40 min. Calculer k' et N.",
+     "correction": "t'R = 6,40 - 1,20 = 5,20 min ; k' = 5,20/1,20 = 4,33 (valeur acceptable). N = 16 × (6,40/0,40)² = 16 × 256 = 4096 plateaux théoriques, ce qui indique une colonne performante."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Biochimie analytique",
+   "titre": "Chapitre : enzymologie — dosage de substrat et mesure d'activité enzymatique",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T2.2 et T3.3",
+   "points": [
+    "Une enzyme est une protéine catalytique qui abaisse l'énergie d'activation d'une réaction sans en modifier l'équilibre ; elle est spécifique de son substrat et sensible à la température et au pH.",
+    "Cinétique de Michaelis-Menten : v = Vmax × [S]/(Km + [S]) ; Vmax est la vitesse maximale à saturation du substrat et Km la concentration de substrat pour laquelle v = Vmax/2 (affinité apparente, plus Km est petit plus l'affinité est forte).",
+    "Représentation de Lineweaver-Burk : 1/v = (Km/Vmax)·(1/[S]) + 1/Vmax ; le pente donne Km/Vmax et l'ordonnée à l'origine 1/Vmax ; permet de calculer Km et Vmax graphiquement et de distinguer inhibitions compétitives et non compétitives.",
+    "Dosage d'un substrat par une enzyme : on.place le substrat en excès d'enzyme (ou avec une enzyme en quantité connue et un temps fixe) et on mesure le produit formé ; la concentration du produit est proportionnelle à celle du substrat (exemple : glucose par GOD-POD, urée par uréase, cholestérol par cholestérol oxydase).",
+    "Mesure d'activité enzymatique : c'est la vitesse de transformation du substrat (et non la quantité de produit à un temps donné) qui est mesurée ; l'activité est définie en unités internationales (UI) : 1 UI = 1 µmole de substrat transformé par minute dans les conditions définies (température, pH, concentration de substrat).",
+    "Conditions de mesure : [S] ≫ Km (saturation), enzyme en quantité limitante, température généralement 30 ou 37 °C ± 0,1 °C, pH maintenu par un tampon, aucun produit d'inhibition ; la réaction doit être suivie pendant la phase linéaire (pente constante de la cinétique).",
+    "Cinétique en point final vs cinétique continue : en point final on arrête la réaction après un temps fixé (acide, chaleur) puis on lit l'absorbance ; en cinétique continue on enregistre l'absorbance toutes les quelques secondes et on utilise la pente ΔA/min, ce qui permet de vérifier la linéarité.",
+    "Calcul d'activité : activité (UI/L) = (ΔA/min × V_total × 10⁶) / (ε × l × V_échantillon), avec V en L, ε en L·mol⁻¹·cm⁻¹ et l en cm ; le facteur 10⁶ convertit les moles en micromoles.",
+    "Inhibiteurs et effecteurs : inhibition compétitive (augmente le Km apparent, Vmax inchangée, exemple malonate/succinate déshydrogénase), inhibition non compétitive (diminue Vmax, Km inchangé), inhibition irréversible (organophosphates sur acétylcholinestérase) ; cofacteurs et activateurs (Mg²⁺, Zn²⁺) à contrôler.",
+    "Applications en contrôle qualité : dosage d'activité d enzymes dans les détergents ou préparations alimentaires, mesure d'activité antimicrobienne, contrôle de la pureté d'une enzyme, dosage de substrats (lactose, glucose, ATP) par des kits enzymatiques normés."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle est la définition du Km en cinétique de Michaelis-Menten ?",
+     "options": [
+      "La vitesse maximale de la réaction",
+      "La concentration de substrat pour laquelle v = Vmax/2",
+      "La concentration d'enzyme",
+      "Le temps de demi-réaction"
+     ],
+     "correct": 1,
+     "correction": "Km est la concentration de substrat à laquelle la vitesse est la moitié de Vmax ; il reflète l'affinité apparente enzyme-substrat."
+    },
+    {
+     "type": "qcm",
+     "q": "Une unité internationale (UI) d'activité enzymatique correspond à :",
+     "options": [
+      "1 mg d'enzyme par minute",
+      "1 µmole de substrat transformé par minute dans des conditions définies",
+      "1 mole de produit formée par heure",
+      "1 mmol de substrat par seconde"
+     ],
+     "correct": 1,
+     "correction": "1 UI = 1 µmol de substrat converti par minute à la température, au pH et avec le substrat spécifiés ; l'activité spécifique s'exprime en UI par mg de protéine."
+    },
+    {
+     "type": "qcm",
+     "q": "Comment se manifeste une inhibition compétitive sur les paramètres cinétiques ?",
+     "options": [
+      "Vmax diminue, Km inchangé",
+      "Km augmente, Vmax inchangée",
+      "Km et Vmax diminuent",
+      "Km diminue, Vmax augmente"
+     ],
+     "correct": 1,
+     "correction": "L'inhibiteur compétitif se fixe au site actif : il faut plus de substrat pour atteindre la demi-vitesse (Km apparent augmente), mais à saturation l'inhibition est surmontable (Vmax identique)."
+    },
+    {
+     "type": "qcm",
+     "q": "Pourquoi faut-il se placer à [S] ≫ Km pour mesurer une activité enzymatique ?",
+     "options": [
+      "Pour que la vitesse soit indépendante du substrat et proportionnelle à la quantité d'enzyme",
+      "Pour que la réaction soit réversible",
+      "Pour augmenter la valeur du Km",
+      "Pour éviter l'usage d'un tampon"
+     ],
+     "correct": 0,
+     "correction": "À saturation, v ≈ Vmax et Vmax est proportionnelle à la concentration d'enzyme : la mesure reflète l'activité enzymatique seule, sans dépendre de petites variations de [S]."
+    },
+    {
+     "type": "rédaction",
+     "q": "Distinguer un dosage enzymatique de substrat d'une mesure d'activité enzymatique, avec un exemple pour chacun.",
+     "correction": "Dans le dosage de substrat, l'enzyme est un réactif ajouté en excès : on mesure la quantité de produit formée après un temps fixe, proportionnelle à la quantité initiale de substrat (exemple : glucose oxydase pour doser le glucose). Dans la mesure d'activité, c'est l'enzyme présente dans l'échantillon qui est à doser : on ajoute un excès de substrat et on mesure la vitesse initiale de formation du produit (pente ΔA/min), proportionnelle à l'activité enzymatique (exemple : activité amylasique ou protéasique d'une préparation industrielle)."
+    },
+    {
+     "type": "rédaction",
+     "q": "Pourquoi suivre la cinétique en continu plutôt qu'en point final pour une mesure d'activité ?",
+     "correction": "Le point final suppose que la réaction est parfaitement linéaire pendant toute la durée choisie, ce qui peut être faux (épuisement du substrat, inhibition par le produit, dénaturation). Le suivi continu donne la pente ΔA/min : on vérifie visuellement que la phase de mesure est linéaire, on élimine les dérives de blanc et on détecte les anomalies (lag phase, précipitation). Le calcul de l'activité est alors plus fiable et directement relié à la définition de l'UI."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Biochimie analytique",
+   "titre": "Chapitre : techniques électrophorétiques appliquées aux protéines",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.3.4 et T2.2 ; Pharmacopée européenne chapitre 2.2.31",
+   "points": [
+    "Principe général : sous l'effet d'un champ électrique, les macromolécules chargées migrent dans un milieu poreux à une vitesse dépendant de leur charge nette, de leur taille et de la friction du gel ; on sépare ainsi des espèces qui diffèrent par leur rapport charge/masse.",
+    "Électrophorèse sur gel de polyacrylamide en présence de SDS (SDS-PAGE) : le SDS dénature les protéines et leur confère une charge négative proportionnelle à leur masse ; les protéines migrent alors selon leur masse moléculaire uniquement , les plus petites migrant le plus vite.",
+    "Gel à gradient ou concentration en acrylamide adaptée : 8 % pour les grandes protéines, 12-15 % pour les petites ; un gel trop peu concentré donne des bandes floues, un gel trop concentré retient les grosses protéines.",
+    "Marqueur de poids moléculaire (échelle) déposé en parallèle : il permet d'estimer la masse des bandes par comparaison de leur distance de migration (ou de la mobilité relative Rf) avec une courbe logarithmique masse/distance.",
+    "Coloration et révélation : bleu de Coomassie (sensible, environ 0,1 µg par bande), nitrate d'argent (plus sensible, ~1 ng), ou transfert sur membrane et révélation immunologique (Western blot) pour une détection spécifique d'une protéine cible.",
+    "Électrophorèse capillaire : séparation dans un capillaire de silice de 50 à 100 µm de diamètre, sous une tension de 10 à 30 kV ; détection UV directe en ligne, faible consommation d'échantillon (quelques nL), haute efficacité (100 000 à 1 000 000 plateaux théoriques).",
+    "Électrophorèse capillaire de zone (CZE) : les espèces se séparent selon leur rapport charge/taille ; le pH du tampon est un paramètre critique car il modifie la charge nette des protéines (séparation optimale proche du pH isoélectrique pour certaines applications).",
+    "Isoélectrofocalisation : les protéines migrent dans un gradient de pH jusqu'à leur pH isoélectrique (pI), où leur charge nette est nulle ; temps de migration et courant stabilisé sont des points critiques.",
+    "Électrophorèse sur gel d'agarose : milieu plus poreux, utilisé pour les grosses molécules et les acides nucléiques (voir fiche dédiée) ; pour les protéines natives, la migration dépend à la fois de la charge et de la forme.",
+    "Interprétation et qualité : netteté et symétrie des bandes, absence de traînée (surcharge, dégradation), reproductibilité des temps de migration, gamme de masse couverte par le marqueur ; chaque gel est documenté (photo, numéro de lot de gel et de tampon, tension, durée, température)."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Dans une SDS-PAGE, sur quoi la migration des protéines dépend-elle principalement ?",
+     "options": [
+      "Leur charge native",
+      "Leur masse moléculaire",
+      "Leur point isoélectrique",
+      "Leur solubilité"
+     ],
+     "correct": 1,
+     "correction": "Le SDS dénature les protéines et leur donne une charge négative proportionnelle à leur masse : le rapport charge/masse devient quasi constant et la migration dépend de la taille (masse), les plus petites migrant le plus vite."
+    },
+    {
+     "type": "qcm",
+     "q": "À quoi sert le marqueur de poids moléculaire ?",
+     "options": [
+      "À colorer le gel",
+      "À étalonner la tension",
+      "À estimer la masse des protéines par comparaison des distances de migration",
+      "À stabiliser le pH"
+     ],
+     "correct": 2,
+     "correction": "Le marqueur contient des protéines de masses connues ; sa courbe masse/distance de migration permet d'estimer la masse des bandes de l'échantillon."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle est la sensibilité relative de la coloration à l'argent par rapport au bleu de Coomassie ?",
+     "options": [
+      "Moins sensible",
+      "Équivalente",
+      "Environ 100 fois plus sensible",
+      "Incompatible avec les protéines"
+     ],
+     "correct": 2,
+     "correction": "Le nitrate d'argent détecte l'ordre du nanogramme de protéine par bande, contre quelques centaines de nanogrammes pour le Coomassie ; il est plus sensible mais aussi plus sensible aux interférents."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel paramètre est critique en électrophorèse capillaire de zone ?",
+     "options": [
+      "La couleur du tampon",
+      "Le pH du tampon de séparation",
+      "La masse du capillaire",
+      "La température ambiante uniquement"
+     ],
+     "correct": 1,
+     "correction": "Le pH détermine la charge nette des analytes et donc leur mobilité électrophorétique ; il conditionne directement la sélectivité de la séparation."
+    },
+    {
+     "type": "rédaction",
+     "q": "Expliquer le rôle du SDS et du agent réducteur (β-mercaptéthanol ou DTT) dans une SDS-PAGE.",
+     "correction": "Le SDS est un détergent anionique qui dénature les protéines et se fixe le long des chaînes (~1,4 g de SDS par g de protéine), masquant la charge native et donnant une charge négative approximativement proportionnelle à la masse. Le β-mercaptéthanol ou le DTT réduit les ponts disulfures intramoléculaires et intermoléculaires, ce qui sépare les sous-unités : la protéine migre alors sous forme de chaînes polypeptideques individuelles, sans structure tertiaire."
+    },
+    {
+     "type": "rédaction",
+     "q": "Quels critères permettent de juger de la qualité d'un gel d'électrophorèse ?",
+     "correction": "Bandes fines et symétriques (pas de traînée ni de queue), résolution suffisante entre bandes proches, migration horizontale et homogène sur toute la largeur du gel, marqueur correctement résolu, absence de surcharge (dépôt trop concentré), absence de bulles ou de plis dans le gel, reproductibilité des distances de migration d'un gel à l'autre, et traçabilité complète (tension, durée, lots de tampon et de gel, date, opérateur)."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1"
+   ],
+   "matiere": "Biochimie analytique",
+   "titre": "Chapitre : prétraitement des échantillons — filtration, centrifugation et extraction",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.2.4, S2.3.1 et T2.2",
+   "points": [
+    "Le prétraitement (étape pré-analytique) comprend réception, identification, homogénéisation, prélèvement d'une prise d'essai, clarification et, si nécessaire, extraction de l'analyte ; il conditionne la qualité du résultat final.",
+    "Vérification à la réception : conformité du contenant, intégrité du scellé, température de transport, délai depuis le prélèvement, volume suffisant, absence de fuite ou de contamination ; toute anomalie fait l'objet d'une fiche d'anomalie et d'une alerte au client.",
+    "Homogénéisation : agiter ou mixer l'échantillon avant de prélever la prise d'essai ; un prélèvement sur la partie supérieure d'un surnageant ou d'un sédiment n'est pas représentatif du lot.",
+    "Filtration : élimination des particules sur membrane de 0,45 µm (clarification avant CLHP) ou 0,22 µm (stérilisation) ; choisir un matériau compatible (PTFE, nylon, cellulose) pour ne pas retenir l'analyte ni relarguer des interférents.",
+    "Centrifugation : séparation selon la densité ; la force relative de centrifugation RCF (en g) dépend du rayon et de la vitesse : RCF = 1,118 × 10⁻⁵ × r(cm) × (tr/min)² ; on indique toujours la durée, la température et le RCF dans le mode opératoire.",
+    "Extraction liquide/liquide (LLE) : l'analyte se répartit entre deux phases non miscibles selon son coefficient de partage ; le pH est ajusté pour neutraliser l'analyte (acides extraits en milieu acide, bases en milieu alcalin) ; plusieurs extractions sont plus efficaces qu'une seule.",
+    "Extraction sur phase solide (SPE) : faire passer l'échantillon à travers une cartouche (C18, échangeur d'ions) ; les étapes sont conditionnement, équilibrage, dépôt, lavage et élution ; elle permet à la fois concentration et purification et réduit la consommation de solvants.",
+    "Précipitation des protéines : acide trichloracétique, acide perchlorique, sulfate d'ammonium ou acétonitrile ; indispensable avant dosage d'un petit analyte dans une matrice protéique (sang, lait, jus), suivie d'une centrifugation et d'une filtration.",
+    "Dérivation : certains analytes peu détectables sont chimiquement modifiés avant analyse (exemple : dérivation des acides aminés avec la ninhydrine ou le OPA pour une détection fluorescence en CLHP) ; la réaction doit être quantitative et reproductible.",
+    "Contrôle du prétraitement : calcul d'un rendement d'extraction par ajout d'un étalon connu avant extraction ( spike ), comparaison avec un échantillon de référence, blanc de matrice et vérification de la stabilité de l'analyte dans les conditions de préparation (lumière, température, durée)."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle membrane est couramment utilisée pour clarifier un échantillon avant injection en CLHP ?",
+     "options": [
+      "0,22 µm en acétate de cellulose",
+      "0,45 µm compatible avec la phase mobile",
+      "5 µm en papier filtre",
+      "1 mm en verre fritté"
+     ],
+     "correct": 1,
+     "correction": "Une membrane 0,45 µm retient les particules susceptibles de boucher la colonne ; le matériau doit être choisi pour ne pas adsorber l'analyte ni dissoudre d'interférents."
+    },
+    {
+     "type": "qcm",
+     "q": "Pourquoi réaliser plusieurs extractions liquide/liquide avec de petits volumes plutôt qu'une seule avec un grand volume ?",
+     "options": [
+      "Cela réduit le temps de manipulation",
+      "Le rendement d'extraction est supérieur à quantité de solvant égale",
+      "Cela évite l'évaporation",
+      "Cela modifie le coefficient de partage"
+     ],
+     "correct": 1,
+     "correction": "Le rendement d'extraction après nextractions est 1 - (1 - E)^n : le fractionnement augmente le rendement pour un volume total de solvant identique."
+    },
+    {
+     "type": "qcm",
+     "q": "Dans une cartouche SPE, quelle est la séquence correcte ?",
+     "options": [
+      "Élution → lavage → dépôt → conditionnement",
+      "Conditionnement → équilibrage → dépôt → lavage → élution",
+      "Dépôt → conditionnement → élution → lavage",
+      "Lavage → dépôt → élution"
+     ],
+     "correct": 1,
+     "correction": "La séquence est conditionnement (activer le greffage), équilibrage (milieu adapté), dépôt de l'échantillon, lavage (éliminer les interférents), élution (récupérer l'analyte)."
+    },
+    {
+     "type": "qcm",
+     "q": "Que contrôle un ajout d'étalon ( spike ) réalisé avant l'extraction ?",
+     "options": [
+      "La pureté du solvant d'élution",
+      "Le rendement global de la préparation et les pertes d'analyte",
+      "La dérive du détecteur",
+      "La concentration du blanc"
+     ],
+     "correct": 1,
+     "correction": "L'ajout avant extraction permet de mesurer le rendement de l'ensemble du prétraitement (extraction, concentration, dérivation) en comparant la quantité retrouvée à la quantité ajoutée."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire les vérifications à effectuer lors de la réception d'un échantillon destiné à une bioanalyse et les actions en cas d'anomalie.",
+     "correction": "Vérifier l'identité et l'intégrité du contenant et de l'étiquette, la conformité du scellé, la température de transport (chaîne du froid), le délai entre prélèvement et réception, le volume disponible, l'absence de fuite, de bulles ou de contamination, et la concordance avec le bon de demande. En cas d'anomalie : ne pas jeter l'échantillon, le signaler immédiatement au responsable quality et au client, remplir une fiche d'anomalie/non-conformité, conserver l'échantillon dans les conditions appropriées, décider de la reprise ou du rejet et tracer la décision et les actions correctives."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment choisir le mode de prétraitement d'un analyte dans une matrice protéique ?",
+     "correction": "Selon la nature de l'analyte (petite molécule, peptide, protéine) et de la matrice. Pour une petite molécule dans du lait ou du sérum : précipitation des protéines (ACN, TCA) puis centrifugation/filtration ou SPE pour purifier et concentrer. Pour un analyte apolaire : LLE ou SPE C18 avec ajustement du pH. Pour une protéine cible : éviter la précipitation, utiliser une dilution tamponnée et éventuellement une immunocapture. Le choix doit être validé par un rendement d'extraction, un blanc de matrice et une étude de stabilité."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Biochimie analytique",
+   "titre": "Chapitre : contrôle physico-chimique de l'eau et des effluents",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T3.1 et T2.2 ; normes NF EN ISO 6060 (DCO), NF EN 1899-1 (DBO5), NF EN ISO 7027 (turbidité)",
+   "points": [
+    "Le contrôle de l'eau en bioindustrie porte sur l'eau d'alimentation des procédés, l'eau de lavage (CIP), les eaux de refroidissement et les rejets ; les paramètres sont définis par la réglementation et le plan de contrôle interne.",
+    "pH et conductivité : mesurés en ligne ou sur prélèvement ; la conductivité (µS·cm⁻¹ à 25 °C) reflète la minéralisation totale et permet de détecter une contamination ou une dérive de traitement.",
+    "Turbidité et matières en suspension (MES) : la turbidité (NTU) est mesurée par néphélométrie (diffusion de la lumière à 90°, norme ISO 7027) ; les MES sont déterminées par filtration, séchage à 105 °C et pesée.",
+    "Demande chimique en oxygène (DCO, ISO 6060) : oxydation chimique de la matière organique par le dichromate de potassium en milieu acide sulfurique à 150 °C ; après 2 h, le dichromate résiduel est titré ou dosé spectrophotométriquement ; résultat en mg O2·L⁻¹.",
+    "Demande biochimique en oxygène (DBO5, ISO 1899) : quantité d'oxygène consommée par les microorganismes en 5 jours à 20 °C à l'obscurité ; elle mesure la fraction biodégradable de la matière organique ; le rapport DBO5/DCO indique la biodégradabilité.",
+    "Oxygène dissous : mesuré par sonde galvanique ou optique (luminescence) ; la saturation dépend de la température et de la pression partielle ; un faible taux d'O2 signale une activité biologique intense ou un rejet polluant.",
+    "Chlore libre et total : dosage iodométrique ou colorimétrique au DPD (N,N-diéthyl-p-phénylènediamine) ; le suivi du chlore résiduel est indispensable pour maîtriser la désinfection et éviter les sous-produits chlorés.",
+    "Dureté et ions : le calcium et le magnésium sont dosés par complexométrie EDTA ou par chromatographie ionique ; les nitrates, nitrites, sulfates et chlorures sont dosés par chromatographie ionique ou spectrophotométrie.",
+    "Plan d'échantillonnage et prélèvement : point de prélèvement représentatif, volume et contenant adaptés (flacon lavé à l'acide pour les métaux), conservation au froid et à l'obscurité, délai maximal avant analyse, blanks de terrain et doubles de prélèvement.",
+    "Interprétation : comparaison aux limites de rejet (arrêtés préfectoraux, normes de rejet), aux valeurs de l'autosurveillance et aux objectifs internes ; dépassement → alerte, recherche de cause (méthode des 5M) et action corrective, traçabilité complète."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle méthode de référence dose la DCO ?",
+     "options": [
+      "Oxydation par le dichromate de potassium à chaud",
+      "Consommation d'oxygène par les bactéries en 5 jours",
+      "Néphélométrie à 90°",
+      "Titrage par l'EDTA"
+     ],
+     "correct": 0,
+     "correction": "La DCO (NF EN ISO 6060) repose sur l'oxydation par le dichromate en milieu sulfurique à 150 °C ; la DBO5 utilise des microorganismes pendant 5 jours."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle grandeur mesure la turbidité selon la norme ISO 7027 ?",
+     "options": [
+      "L'absorbance à 254 nm",
+      "La diffusion de la lumière à 90° (néphélométrie)",
+      "La masse de résidu sec après filtration",
+      "La conductivité"
+     ],
+     "correct": 1,
+     "correction": "La turbidité est mesurée par néphélométrie, en proportion de la lumière diffusée à 90° par les particules en suspension ; elle s'exprime en NTU (ou FNU)."
+    },
+    {
+     "type": "qcm",
+     "q": "Que représente le rapport DBO5/DCO d'un effluent ?",
+     "options": [
+      "Sa température",
+      "Sa biodégradabilité",
+      "Sa dureté",
+      "Sa salinité"
+     ],
+     "correct": 1,
+     "correction": "Un rapport élevé (proche de 1) indique une matière organique facilement biodégradable ; un rapport faible signale des composés réfractaires ou toxiques pour les boues biologiques."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel flacon utiliser pour un prélèvement destiné au dosage des métaux ?",
+     "options": [
+      "Un flacon en verre ordinaire non rincé",
+      "Un flacon lavé à l'acide (acide nitrique)",
+      "Un flacon en plastique à usage alimentaire",
+      "Une éprouvette graduée"
+     ],
+     "correct": 1,
+     "correction": "Les flacons destinés aux métaux sont lavés à l'acide nitrique pour éviter toute contamination par les parois ; le prélèvement est souvent acidifié pour maintenir les métaux en solution."
+    },
+    {
+     "type": "rédaction",
+     "q": "Distinguer la DCO de la DBO5 et expliquer pourquoi les deux paramètres sont complémentaires pour le suivi d'un rejet.",
+     "correction": "La DCO oxyde chimiquement presque toute la matière organique en 2 heures (résultat rapide, mg O2/L) ; la DBO5 mesure seulement la fraction biodégradable consommée par les bactéries en 5 jours à 20 °C. La DCO donne une estimation rapide de la charge polluante globale, la DBO5 renseigne sur l'impact réel sur le milieu récepteur et sur la compatibilité avec une station d'épuration biologique. Leur rapport indique la biodégradabilité et oriente le choix du traitement."
+    },
+    {
+     "type": "rédaction",
+     "q": "Un effluent présente une DCO de 800 mg/L et une DBO5 de 120 mg/L. Commenter ce résultat.",
+     "correction": "Le rapport DBO5/DCO = 0,15 est très faible : la majeure partie de la matière organique n'est pas biodégradable en 5 jours (composés réfractaires, éventuellement toxiques ou inhibiteurs pour les boues). Un traitement biologique classique sera peu efficace ; il faut rechercher la source (réactifs, solvants, produits de synthèse), compléter par une analyse spécifique (CG, CLHP, tests de toxicité) et envisager un prétraitement physico-chimique, tout en vérifiant la conformité aux valeurs limites de rejet."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Biochimie analytique",
+   "titre": "Chapitre : dosage de l'éthanol et contrôle qualité de la vinification",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 C2.1/C2.3/T3.1 ; sujet type session 2024 « La vinification : contrôles qualité » ; OIV",
+   "points": [
+    "La vinification est une biotransformation où les levures (Saccharomyces cerevisiae) convertissent les sucres du moût en éthanol et CO2 (C6H12O6 → 2 C2H5OH + 2 CO2) ; le suivi analytique porte sur le moût, la fermentation et le vin fini.",
+    "Paramètres de suivi courants : densité (ou sucre résiduel par réfractométrie ou DNS), pH et acidité totale, titre alcoométrique volumique, acidité volatile, SO2 libre et total, turbidité, sucres résiduels, glycérol.",
+    "Dosage de l'éthanol par oxydation chimique : le vin est distillé, puis l'éthanol du distillat est oxydé par le dichromate de potassium en acide acétique ; le dichromate résiduel est dosé iodométriquement ou par spectrophotométrie ; méthode de référence OIV.",
+    "Dosage enzymatique de l'éthanol : l'alcool oxydase (AOD) oxyde l'éthanol en acétaldéhyde avec production de H2O2, révélé par la peroxydase et un chromogène (snapshot à 510 nm) ; méthode rapide, adaptée au suivi de fermentation.",
+    "Chromatographie en phase gazeuse : injection du distillat ou headspace (espace de tête), colonne capillaire polaire, détecteur FID ; elle permet de doser l'éthanol, le méthanol et les congénères (esters, alcools supérieurs) en une seule analyse et de détecter une fraude.",
+    "Titre alcoométrique volumique (TAV) : volume d'éthanol pur à 20 °C contenu dans 100 volumes de vin à 20 °C ; il est déterminé par distillation puis mesurage densimétrique ou par méthode enzymatique calibrée.",
+    "Acidité totale : titration d'un volume de vin dégazé par NaOH 0,1 mol/L jusqu'à pH 8,2 (phénolphtaléine ou pH-mètre), exprimée en g/L d'acide tartrique ; acidité volatile (acide acétique) dosée après entraînement à la vapeur,signe de contamination bactérienne.",
+    "SO2 : le SO2 libre (antimicrobien et antioxydant actif) et le SO2 total (libre + combiné) sont dosés iodométriquement ou par la méthode de Monier-Williams ; un excès de SO2 libre est un défaut organoleptique et un risque allergène (étiquetage obligatoire).",
+    "Contrôle microbiologique : dénombrement des levures et bactéries lactiques sur milieux sélectifs (WL agar, MRS), recherche de Brettanomyces et d'Acetobacter ; suivi de la population pour éviter les arrêts de fermentation ou les piqûres acétiques.",
+    "Interprétation et traçabilité : comparaison des résultats aux spécifications de l'appellation et au cahier des charges, suivi de la cinétique de fermentation (densité et température quotidiennes), enregistrement des lots, des souches de levure et des traitements (SO2, nutrients) sur la fiche de suivi."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle est la production principale de la fermentation alcoolique du moût ?",
+     "options": [
+      "Acide lactique et CO2",
+      "Éthanol et CO2",
+      "Glycérol et O2",
+      "Acide acétique et eau"
+     ],
+     "correct": 1,
+     "correction": "Saccharomyces cerevisiae convertit un glucose en deux molécules d'éthanol et deux molécules de CO2 ; l'acide lactique provient de la fermentation malolactique."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel enzyme est utilisé dans la méthode enzymatique de dosage de l'éthanol ?",
+     "options": [
+      "La glucose oxydase",
+      "L'alcool oxydase (AOD)",
+      "La peroxydase seule",
+      "L'amyloglucosidase"
+     ],
+     "correct": 1,
+     "correction": "L'alcool oxydase oxyde l'éthanol en acétaldéhyde en générant H2O2 ; la peroxydase révèle ensuite le peroxyde avec un chromogène."
+    },
+    {
+     "type": "qcm",
+     "q": "Que mesure le titre alcoométrique volumique (TAV) ?",
+     "options": [
+      "La masse d'éthanol pour 100 g de vin",
+      "Le volume d'éthanol pur à 20 °C pour 100 volumes de vin à 20 °C",
+      "Le degré de sucre résiduel",
+      "La quantité de CO2 dissous"
+     ],
+     "correct": 1,
+     "correction": "Le TAV est défini à 20 °C : c'est un rapport de volumes (éthanol pur / vin), déterminé après distillation ou par méthode enzymatique étalonnée."
+    },
+    {
+     "type": "qcm",
+     "q": "Une acidité volatile élevée dans un vin signale principalement :",
+     "options": [
+      "Une fermentation trop lente",
+      "Une contamination bactérienne acétique (piqûre)",
+      "Un excès de SO2",
+      "Un manque de sucre"
+     ],
+     "correct": 1,
+     "correction": "L'acide acétique est produit par Acetobacter en présence d'oxygène : une acidité volatile élevée traduit une altération aérobie et doit déclencher une alerte."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire le protocole de dosage de l'acidité totale d'un vin et son expression.",
+     "correction": "Dégazer le vin (agitation ou ultrasons), prélever un volume connu (par exemple 10,00 mL), ajouter de l'eau distillée exempte de CO2, titrer sous agitation avec NaOH 0,100 mol/L jusqu'à pH 8,2 mesuré au pH-mètre (ou virage de la phénolphtaléine). Acidité totale (g/L d'acide tartrique) = V_NaOH(mL) × C_NaOH × 0,075 × 1000 / V_vin(mL), le facteur 0,075 correspondant à la masse équivalente d'acide tartrique pour 1 mL de NaOH 1 mol/L. Refaire en double et tracer les volumes bruts."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment organiser le suivi analytique d'une cuve en fermentation et quelles décisions en tirer ?",
+     "correction": "Relever quotidiennement la densité (ou le sucre résiduel), la température et le pH ; compléter par l'acidité volatile et le dénombrement des levures en cas de doute. Une densité qui stagnant pendant 48 h associée à un sucre résiduel élevé signale un arrêt de fermentation : vérifier la température, la nutrition azotée et la viabilité des levures, puis proposer un réensemencement ou un apport de nutriments. Une hausse de l'acidité volatile indique une contamination : prélever pour analyse microbiologique, limiter l'oxygénation et ajuster le SO2 selon la réglementation. Toutes les mesures et décisions sont consignées sur la fiche de suivi de cuve."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Biochimie analytique",
+   "titre": "Chapitre : contrôle qualité des réactifs, milieux et étalons",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.4.3, S2.7.3, S2.7.4 et T1.3",
+   "points": [
+    "La qualité d'un résultat dépend de la qualité des réactifs, milieux et étalons : leur réception, leur stockage et leur contrôle sont intégrés au système qualité du laboratoire (NF EN ISO 17025).",
+    "Contrôle à la réception : vérifier la conformité du bon de livraison avec la commande, l'intégrité de l'emballage, le numéro de lot, la date de péremption, les conditions de transport (chaîne du froid) et la présence de la fiche technique et de la FDS.",
+    "Référencement : enregistrer chaque lot dans le logiciel de gestion avec identifiant interne, date de réception, date d'ouverture, date limite d'utilisation après ouverture, conditions de stockage et responsable ; apposer une étiquette de lot sur le flacon.",
+    "Conservation : respecter les indications du fabricant (+2/+8 °C, -20 °C, à l'abri de la lumière, sous azote pour les solvants sensibles) ; éviter les cycles de congélation/décongélation en aliquotant les solutions sensibles.",
+    "Contrôle qualité des milieux de culture : stérilité (incubation d'un témoin non inoculé), croissance d'une souche de référence sur milieu non sélectif (contrôle de capacité de croissance), croissance attendue sur milieu sélectif et réponse biochimique conforme (norme ISO 11133).",
+    "Contrôle des souches bactériennes : identité (caractères biochimiques ou moléculaires), viabilité et pureté ; utiliser des souches de référence (ATCC, CIP) issues d'une banque avec numéro de passage maîtrisé.",
+    "Étalons : distinguer étalon primaire (substance de référence certifiée, par exemple NIST ou pharmacopée), étalon secondaire (solution mère de travail préparée à partir du primaire) et étalon de contrôle (indépendant, utilisé pour valider la série) ; leur traçabilité métrologique doit être documentée.",
+    "Cartes de contrôle : porter sur un graphique les valeurs obtenues pour un étalon de contrôle à chaque série, avec une valeur centrale (moyenne) et des limites d'alerte (± 2s) et d'action (± 3s) ; quatre points consécutifs hors limites d'alerte ou un point hors limite d'action imposent l'arrêt et l'investigation.",
+    "Alerte et non-conformité : si un contrôle échoue, ne pas rendre les résultats de la série, identifier la cause par la méthode des 5M (Main-d'oeuvre, Matériel, Matière, Méthode, Milieu), appliquer une action corrective, documenter et réanalyser si nécessaire.",
+    "Archivage : conserver les fiches de réception, certificats d'analyse, fiches de vie, relevés de température et cartes de contrôle pendant la durée définie par la procédure qualité ; ils constituent les preuves lors d'un audit."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quel document accompagne obligatoirement un réactif chimique et décrit ses dangers ?",
+     "options": [
+      "La fiche technique seule",
+      "La fiche de données de sécurité (FDS)",
+      "Le bon de commande",
+      "Le rapport d'audit"
+     ],
+     "correct": 1,
+     "correction": "La FDS (ou SDS) est obligatoire : elle contient la classification SGH, les mentions de danger, les mesures de prévention, les EPI et les conditions de stockage et d'élimination."
+    },
+    {
+     "type": "qcm",
+     "q": "Que contrôle un témoin non inoculé lors du contrôle qualité d'un milieu de culture ?",
+     "options": [
+      "La croissance d'une souche de référence",
+      "La stérilité du milieu",
+      "La concentration en agar",
+      "Le pH après autoclavage"
+     ],
+     "correct": 1,
+     "correction": "Le témoin de stérilité est incubé dans les mêmes conditions sans inoculation : toute croissance révèle une contamination du milieu ou de la manipulation."
+    },
+    {
+     "type": "qcm",
+     "q": "Sur une carte de contrôle, que faut-il faire si un point dépasse la limite d'action (± 3s) ?",
+     "options": [
+      "Continuer à rendre les résultats",
+      "Refaire uniquement le contrôle",
+      "Arrêter la série, rechercher la cause et appliquer une action corrective",
+      "Augmenter la limite d'action"
+     ],
+     "correct": 2,
+     "correction": "Une valeur hors limite d'action est un signal fort de dérive : la série est bloquée, les causes sont recherchées (5M), une action corrective est mise en oeuvre et la conformité doit être redémontrée avant de reprendre."
+    },
+    {
+     "type": "qcm",
+     "q": "Qu'est-ce qu'un étalon de contrôle ?",
+     "options": [
+      "Un étalon préparé à partir de la même solution mère que la gamme",
+      "Une solution indépendante de la gamme, analysée pour valider la série",
+      "Un réactif périmé",
+      "Le témoin de stérilité"
+     ],
+     "correct": 1,
+     "correction": "L'indépendance de l'étalon de contrôle (autre lot, autre préparation, valeur cible connue) est indispensable pour détecter un biais de la gamme ou de la préparation."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire la démarche à suivre lorsqu'un étalon de contrôle sort des limites acceptables.",
+     "correction": "Bloquer la série et ne pas rendre les résultats ; vérifier la date de péremption et les conditions de conservation de l'étalon, la date d'ouverture, la préparation (pipetage, dilution), l'état de l'appareil et les dernières maintenances/calibrations, les relevés de température et les cartes de contrôle. Analyser la cause selon les 5M, corriger (remplacer le réactif, recalibrer, reformer l'opérateur), documenter la non-conformité et les actions dans le système qualité, puis réanalyser l'étalon et, après validation, reprendre la série ou reprendre les échantillons concernés."
+    },
+    {
+     "type": "rédaction",
+     "q": "Pourquoi les dates d'ouverture et les conditions de stockage doivent-elles être enregistrées pour chaque réactif ?",
+     "correction": "La stabilité d'un réactif après ouverture est généralement plus courte que sa date de péremption (oxydation, absorption d'humidité, contamination, évaporation). La lumière, la température et les cycles de gel-dégel peuvent dégrader les étalons et enzymes. Sans enregistrement de la date d'ouverture et des conditions réelles de conservation, rien ne garantit que le réactif utilisé était encore conforme au moment de l'analyse : la traçabilité et la validité des résultats seraient compromises lors d'un audit."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Biochimie analytique",
+   "titre": "Chapitre : analyse des xénobiotiques et des résidus en bioindustrie",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T2.2, T3.3 et T3.1 ; règlement (CE) n° 396/2005 ; pharmacopée européenne",
+   "points": [
+    "Un xénobiotique est une molécule étrangère à l'organisme ou à l'environnement : pesticides, médicaments vétérinaires, solvants résiduels, mycotoxines, métaux lourds, bisphénols ou perturbateurs endocriniens.",
+    "Le contrôle porte sur les matières premières, les produits finis et l'environnement ; les limites maximales de résidus (LMR) et les limites de migration sont fixées par des règlements européens et les pharmacopées.",
+    "Étapes d'une analyse de résidus : échantillonnage représentatif, homogénéisation, extraction (SPE, QuEChERS pour les pesticides), purification (cartouches, gel de silice), concentration, dérivation éventuelle puis séparation et détection.",
+    "La méthode QuEChERS (Quick, Easy, Cheap, Effective, Rugged, Safe) : extraction à l'acétonitrile avec sels de magnésium et citrate, puis dispersion sur adsorbants (PSA, C18, GCB) pour éliminer lipides, pigments et acides organiques ; très utilisée en agroalimentaire.",
+    "Détection : CLHP-UV/fluorescence ou couplage à la spectrométrie de masse (LC-MS/MS) pour les composés polaires et thermolabiles ; CG-MS ou CG-FID pour les composés volatils et les solvants résiduels ; ICP-MS pour les métaux traces.",
+    "Limites de détection et de quantification : LD = 3σ/pente et LQ = 10σ/pente ; la LQ doit être inférieure à la limite réglementaire ; la linéarité est vérifiée de la LQ à environ 120 % de la limite.",
+    "Spécificité : en matrices complexes, la confirmation identifie l'analyte par le temps de rétention et au moins deux transitions d'ions (MRM) en MS/MS ou par le spectre complet ; un seul critère ne suffit pas à confirmer un résultat non conforme.",
+    "Étalonnage matriciel : préparer les étalons dans une matrice exempt d'analyte (blank matrix) ou utiliser des étalons internes isotopiquement marqués pour compenser les pertes d'extraction et les effets d'ionisation (matrix effect).",
+    "Rendement d'extraction : évalué par ajout d'étalon à trois niveaux (généralement 50, 100 et 150 % de la limite) ; les critères d'acceptance sont définis par la réglementation (par exemple 70-120 % avec RSD ≤ 20 %).",
+    "Traçabilité et rapport : enregistrer le numéro de lot de la colonne et des cartouches, les masses et volumes, les temps de rétention, les spectres, les blancs de matrice et de procédure ; tout résultat non conforme fait l'objet d'une fiche d'alerte et d'une confirmation avant communication au client."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle méthode d'extraction est couramment utilisée pour les pesticides multirésidus en agroalimentaire ?",
+     "options": [
+      "Kjeldahl",
+      "QuEChERS",
+      "Biuret",
+      "Wijs"
+     ],
+     "correct": 1,
+     "correction": "QuEChERS (extraction à l'acétonitrile avec sels, puis nettoyage par dispersion sur adsorbants) est la méthode de référence pour de nombreux pesticides multirésidus."
+    },
+    {
+     "type": "qcm",
+     "q": "Comment calcule-t-on la limite de détection LD ?",
+     "options": [
+      "LD = 3σ/pente",
+      "LD = 10σ/pente",
+      "LD = pente/3σ",
+      "LD = σ + pente"
+     ],
+     "correct": 0,
+     "correction": "LD = 3σ/pente (bruit trois fois supérieur à la ligne de base), LQ = 10σ/pente ; σ est l'écart-type du bruit ou des blancs."
+    },
+    {
+     "type": "qcm",
+     "q": "Pourquoi utiliser un étalon interne isotopiquement marqué en LC-MS/MS ?",
+     "options": [
+      "Pour rendre la solution colorée",
+      "Pour compenser les pertes d'extraction et les effets matrice sur l'ionisation",
+      "Pour augmenter la limite de détection",
+      "Pour éviter la chromatographie"
+     ],
+     "correct": 1,
+     "correction": "Un analogue isotopique a le même comportement chimique et chromatographique que l'analyte mais un autre rapport masse/charge : le rapport de leurs signaux corrige les pertes et les effets d'ionisation."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel critère est exigé pour confirmer un résulté non conforme en MS/MS ?",
+     "options": [
+      "Un seul temps de rétention",
+      "Au moins deux transitions d'ions spécifiques et leur rapport d'ions",
+      "La couleur de la solution",
+      "Le pH de l'échantillon"
+     ],
+     "correct": 1,
+     "correction": "La confirmation repose sur le temps de rétention et au moins deux transitions MRM avec des rapports d'ions conformes à ceux d'un étalon, afin d'éviter les faux positifs."
+    },
+    {
+     "type": "rédaction",
+     "q": "Expliquer la différence entre un blanc de procédure et un blanc de matrice.",
+     "correction": "Le blanc de procédure contient tous les réactifs et subit exactement le protocole d'extraction sans échantillon : il révèle les contaminations issues des réactifs, du matériel ou de l'environnement. Le blanc de matrice est un échantillon de même nature que ceux à analyser mais exempt d'analyte (ou considéré comme tel) : il subit la préparation et sert à préparer les étalons matriciels et à évaluer l'effet matrice et la spécificité de la méthode."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment démontrer qu'une méthode de dosage de résidus est adaptée à son objectif réglementaire ?",
+     "correction": "Il faut établir : la spécificité (.absence d'interférence au temps de rétention), la linéarité de la LQ à 120 % de la limite, la LD et la LQ inférieures à la limite réglementaire, l'exactitude par des essais de rendement à plusieurs niveaux et répétitions, la fidélité (répétabilité et reproductibilité intermédiaire), la robustesse (petites variations de pH, température, composition de phase mobile) et la stabilité des solutions et des analytes dans la matrice. Tous ces éléments sont consignés dans un rapport de validation avec les critères d'acceptation définis à l'avance."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Biochimie analytique",
+   "titre": "Chapitre : chromatographie en phase gazeuse et dosage des composés volatils",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T2.2 et T3.3 ; Pharmacopée européenne chapitre 2.2.28",
+   "points": [
+    "La chromatographie en phase gazeuse (CG) sépare des composés volatils et thermostables : la phase mobile est un gaz inerte (azote, hélium, hydrogène) et la phase stationnaire est un liquide greffé sur un support solide dans une colonne capillaire.",
+    "Schéma d'un chromatographe gazeux : bouteille de gaz vecteur avec détendeur et débitmètre, injecteur chauffé (split/splitless), four à température programmable, colonne capillaire (par exemple 30 m × 0,25 mm, greffage polarité variable), détecteur (FID, TCD, ECD, MS).",
+    "Le détecteur FID (ionisation de flamme) est sensible aux composés organiques carbonés ; la réponse est approximativement proportionnelle au nombre de carbones ; le TCD est universel mais moins sensible, l'ECD très sensible aux composés halogénés.",
+    "Injection : le mode split (division de l'échantillon) convient aux concentrations élevées ; le mode splitless (sans division) aux traces ; le volume injecté, la température de l'injecteur et le temps de purge sont des points critiques de la répétabilité.",
+    "Programmation de température : départ à basse température pour concentrer les composés en tête de colonne (effet de focalisation), puis montée en température (par exemple 5 à 10 °C/min) pour éluer les composés de plus en plus lourds ; un gradient trop rapide dégrade la résolution.",
+    "Indice de rétention de Kovats : temps de rétention normalisé par rapport aux alcanes linéaires injectés dans les mêmes conditions ; il permet d'identifier un composé de façon plus robuste que le seul temps de rétention.",
+    "Préparation pour l'analyse des acides gras : transestérification des triglycérides en esters méthyliques d'acides gras (FAME) au méthanol/HCl ou BF3, puis injection ; le profil obtenu permet de calculer les indices d'iode et de saponification et de détecter des fraudes.",
+    "Analyse des solvants résiduels (pharmacopée chapitre 2.2.28) : dissolution de l'échantillon, headspace ou injection directe, séparation sur colonne polaire, quantification par étalonnage externe ou interne ; classes 1, 2 et 3 selon le risque toxique.",
+    "Headspace (espace de tête) : l'échantillon est chauffé dans un flacon scellé et seul le gaz au-dessus de la phase liquide/solide est prélevé : cette technique évite d'injecter la matrice et convient aux composés volatils (éthanol, arômes, solvants).",
+    "Qualité et maintenance : contrôle de l'étanchéité, du débit de gaz, de la propreté du liner et du septum, conditionnement de la colonne, blanc d'injection et étalon de contrôle toutes les 10 analyses ; le rapport d'analyse indique les conditions complètes (four, débit, colonne, détecteur)."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quel détecteur de CG est spécifiquement très sensible aux composés halogénés ?",
+     "options": [
+      "FID",
+      "TCD",
+      "ECD",
+      "UV"
+     ],
+     "correct": 2,
+     "correction": "Le détecteur à capture d'électrons (ECD) réagit fortement aux molécules halogénées (pesticides chlorés, solvants) ; le FID répond aux composés organiques, le TCD est universel."
+    },
+    {
+     "type": "qcm",
+     "q": "À quoi sert la programmation de température du four en CG ?",
+     "options": [
+      "À réduire la durée d'analyse sans séparer les composés",
+      "À éluer successivement des composés de volatilités croissantes",
+      "À augmenter la durée de vie du détecteur",
+      "À changer la polarité de la colonne"
+     ],
+     "correct": 1,
+     "correction": "Le gradient de température permet d'éluer d'abord les composés légers puis les plus lourds avec une résolution acceptable et une durée d'analyse réduite."
+    },
+    {
+     "type": "qcm",
+     "q": "Qu'est-ce que l'indice de Kovats ?",
+     "options": [
+      "Une mesure de la température du four",
+      "Un temps de rétention normalisé par rapport aux alcanes",
+      "Un type de détecteur",
+      "Une limite de quantification"
+     ],
+     "correct": 1,
+     "correction": "L'indice de rétention de Kovats compare le temps de rétention de l'analyte à ceux des alcanes linéaires élués avant et après, ce qui rend l'identification plus reproductible d'un appareil à l'autre."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel intérêt présente l'injection en headspace ?",
+     "options": [
+      "Elle permet d'injecter des composés non volatils",
+      "Elle évite d'introduire la matrice dans l'injecteur et la colonne",
+      "Elle supprime le besoin de gaz vecteur",
+      "Elle augmente la masse molaire des analytes"
+     ],
+     "correct": 1,
+     "correction": "En headspace, seul le gaz en équilibre avec l'échantillon est injecté : les composés volatils sont analysés sans les sels, protéines ou pigments de la matrice, ce qui protège le système."
+    },
+    {
+     "type": "rédaction",
+     "q": "Expliquer comment le profil d'esters méthyliques d'acides gras obtenu en CG permet de vérifier la conformité d'une huile.",
+     "correction": "Après transestérification, chaque acide gras donne un pic identifié par son temps de rétention ou son indice de Kovats et quantifié par l'aire (avec facteurs de réponse). Le pourcentage de chaque acide (palmitique, stéarique, oléique, linoléique, linolénique...) constitue une empreinte caractéristique de l'huile, comparée aux limites des normes et à la fiche technique. Un écart (excès d'acide linolénique, présence d'acides trans,proportion anormale) révèle un mélange, une altération oxydative ou une fraude ; le profil permet aussi de calculer l'indice d'iode théorique."
+    },
+    {
+     "type": "rédaction",
+     "q": "Quels paramètres d'un chromatographe gazeux doivent être maîtrisés pour assurer la répétabilité des temps de rétention ?",
+     "correction": "Le débit et la pureté du gaz vecteur, la température du four (programmation et stabilité), la température de l'injecteur, le mode d'injection et le volume injecté, l'état du liner et du septum, l'étanchéité du circuit, la conditionnement et l'âge de la colonne, la température du détecteur et le gaz de combustion pour le FID. Un étalon de contrôle injecté régulièrement et une carte de contrôle des temps de rétention permettent de surveiller la dérive."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Biochimie analytique",
+   "titre": "Chapitre : capteurs électrochimiques, potentimétrie et dosage de l'oxygène dissous",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.3.3 et S2.6.5, annexe III-2 programme de physique-chimie",
+   "points": [
+    "La potentiométrie mesure la différence de potentiel entre une électrode indicatrice et une électrode de référence à courant nul ; la relation de Nernst relie le potentiel à l'activité de l'espèce mesurée : E = E0 + (RT/nF)·ln(a_ox/a_red).",
+    "Électrodes ioniques sélectives (ISE) : membrane sensible aux ions H+ (pH), Na+, K+, Cl-, Ca²+, NH4+ ; une électrode de référence interne et une solution de remplissage complètent la chaîne ; la réponse est logarithmique sur plusieurs décades de concentration.",
+    "Potentiel redox (Eh) : mesuré avec une électrode platine et une électrode de référence ; il renseigne sur l'état d'oxydation du milieu (exemple : suivi d'une fermentation, contrôle d'une solution de désinfectant oxydant).",
+    "Oxygène dissous : la sonde de Clark (galvanique) comprend une cathode en platine et une anode en argent séparées par une membrane perméable à l'O2 ; l'oxygène réduit à la cathode produit un courant proportionnel à sa concentration.",
+    "Sonde optique (luminescence) : une membrane contenant un fluorophore est excitée par une lumière bleue ; l'oxygène éteint la fluorescence (quenching) dont la durée de vie dépend de la concentration en O2 ; pas de consommation d'oxygène et peu de dérive.",
+    "Calibration des sondes O2 : deux points (zéro avec une solution sans oxygène, par exemple sulfite de sodium, et 100 % de saturation à l'air à température connue) ; la compensation de température et de pression est indispensable car la solubilité de l'O2 dépend de ces paramètres.",
+    "Capteurs conductimétriques pour la surveillance de la concentration en ions ou de la pureté de l'eau ; capteurs ampérométriques pour le glucose ou le chlore ; capteurs enzymatiques associant une enzyme et un transducteur électrochimique.",
+    "Paramètres de performance d'un capteur : sensibilité (pente), linéarité, temps de réponse (t90), limite de détection, sélectivité (coefficients d'interférence), dérive et durée de vie ; ces paramètres sont vérifiés lors de la qualification de l'équipement.",
+    "Bonne pratique : conditionner la sonde selon la notice, rincer à l'eau distillée, ne pas toucher la membrane, vérifier la solution de remplissage et l'état du diaphragme de l'électrode de référence, enregistrer les calibrations dans la fiche de vie.",
+    "Applications : suivi de la respiration cellulaire et de la croissance microbienne en bioréacteur, contrôle de l'oxygénation des procédés, mesure du chlore résiduel en désinfection, surveillance de la qualité de l'eau et des effluents."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle relation relie le potentiel d'une électrode à l'activité des espèces en mécanisme réversible ?",
+     "options": [
+      "La loi de Beer-Lambert",
+      "L'équation de Nernst",
+      "La loi de Fick",
+      "L'équation de Michaelis-Menten"
+     ],
+     "correct": 1,
+     "correction": "E = E0 + (RT/nF) ln(a_ox/a_red) : c'est l'équation de Nernst, qui relie le potentiel mesuré à l'activité des espèces oxydées et réduites."
+    },
+    {
+     "type": "qcm",
+     "q": "Dans une sonde de Clark, quel est le principe de la mesure de l'oxygène ?",
+     "options": [
+      "Une absorbance à 600 nm",
+      "Un courant électrique proportionnel à l'O2 réduit à la cathode",
+      "Une variation de masse de la membrane",
+      "Une fluorescence excitée par un laser"
+     ],
+     "correct": 1,
+     "correction": "L'oxygène traverse la membrane et est réduit à la cathode en platine ; le courant généré est proportionnel à la quantité d'oxygène présent."
+    },
+    {
+     "type": "qcm",
+     "q": "Pourquoi compenser la température lors d'une mesure d'oxygène dissous ?",
+     "options": [
+      "Parce que la solubilité de l'O2 dépend de la température",
+      "Parce que la couleur de l'eau change",
+      "Parce que la membrane se dilate",
+      "Parce que le pH de l'eau varie"
+     ],
+     "correct": 0,
+     "correction": "La solubilité de l'oxygène dans l'eau diminue quand la température augmente ; la lecture en pourcentage de saturation doit être corrigée de la température (et de la pression barométrique)."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel paramètre n'est pas un critère de performance d'un capteur ?",
+     "options": [
+      "La sensibilité",
+      "Le temps de réponse t90",
+      "La dérive",
+      "La couleur du boîtier"
+     ],
+     "correct": 3,
+     "correction": "Sensibilité, linéarité, temps de réponse, sélectivité, limite de détection et dérive sont des critères métrologiques pertinents ; l'apparence du boîtier n'en est pas un."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire la procédure de calibration d'une sonde à oxygène dissous et les précautions associées.",
+     "correction": "Nettoyer et inspecter la membrane, vérifier la solution de remplissage, laisser la sonde se stabiliser thermiquement. Réaliser le zéro dans une solution dépourvue d'oxygène (sulfite de sodium ou eau bouillie refroidie sous huile), puis le point haut dans de l'eau saturée en air à température connue (ou à l'air humide), en saisissant la température et la pression. Contrôler la pente et l'offset, valider avec une solution intermédiaire, rincer la sonde et consigner la date, les valeurs et l'opérateur dans la fiche de vie. Précautions : ne pas toucher la membrane, éviter les bulles sur la membrane, attendre la stabilisation complète de la lecture, recalibrer après remplacement de membrane ou d'électrolyte."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment l'oxygène dissous renseigne-t-il sur l'activité d'une culture en bioréacteur ?",
+     "correction": "La consommation d'oxygène est liée au métabolisme respiratoire des cellules : une chute de la concentration en O2 (ou une augmentation du taux de consommation OUR) signale une croissance active ou une surcharge metabolic. Une consommation qui s'arrête peut indiquer l'épuisement du substrat, l'inhibition ou la mort cellulaire. Le couplage avec le suivi de la biomasse (DO600) et des métabolites permet de piloter l'aération, l'agitation et l'alimentation du bioréacteur pour maintenir les points de consigne."
+    }
+   ]
+  }
+ ],
+ "annales": [
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "titre": "Sujet type E7-U7 – La vinification : contrôles qualité (inspiré de la session 2024)",
+   "matiere": "Biochimie analytique",
+   "type": "genere",
+   "contenu": "Énoncé. Le laboratoire d'un domaine viticole reçoit trois échantillons prélevés dans une cuve de fermentation (J2, J5, J9) et un échantillon de vin fini (V). Le responsable qualité demande de vérifier la conformité du lot avant mise en bouteille et d'expliquer une anomalie de fermentation observée à J5.\nDocument 1 — cinétique suivie : J2 densité 1,072 ; sucres réducteurs 168 g/L ; pH 3,35 ; éthanol 12 g/L. J5 densité 1,031 ; sucres 78 g/L ; pH 3,42 ; éthanol 58 g/L ; acidité volatile 0,28 g/L (acide acétique). J9 densité 0,998 ; sucres 4 g/L ; pH 3,48 ; éthanol 92 g/L ; acidité volatile 0,85 g/L. Vin V : éthanol 11,8 % vol ; SO2 libre 32 mg/L ; SO2 total 78 mg/L ; acidité totale 3,6 g/L (acide tartrique) ; turbidité 1,2 NTU.\nDocument 2 — extrait du cahier des charges : titre alcoométrique attendu 11,5-12,5 % vol ; acidité volatile maximale 0,70 g/L ; SO2 libre 25-40 mg/L ; sucres résiduels < 5 g/L ; absence de Brettanomyces ; acidité totale 3,0-4,5 g/L.\nDocument 3 — protocole de dosage de l'éthanol (méthode enzymatique AOD-POD) : gamme 0 à 2,0 g/L, droite A = 0,415 c + 0,008 (c en g/L), lecture à 510 nm ; échantillon dilué au 1/500, A = 0,372. Un étalon de contrôle à 1,00 g/L donne 0,419.\nDocument 4 — comptage sur milieu WL à J5 : levures Saccharomyces 2,4 × 10^7 UFC/mL ; bactéries lactiques 1,1 × 10^5 UFC/mL ; levures non Saccharomyces 8 × 10^3 UFC/mL.\nQuestions. Q1 : Écrire l'équation bilan de la fermentation alcoolique et calculer le rendement théorique en éthanol par gramme de glucose. Q2 : Calculer la concentration d'éthanol dans le prélèvement de J5 à partir du document 3 et commenter la cohérence avec le document 1. Q3 : Vérifier la conformité de l'étalon de contrôle (écart accepté ± 5 %) et en déduire la validité de la série. Q4 : Analyser la cinétique J2→J9 : que révèle la stagnation de J5 et l'évolution de l'acidité volatile ? Q5 : Interpréter les résultats microbiologiques du document 4 et proposer une action. Q6 : Vérifier la conformité du vin V au regard de tous les critères du document 2. Q7 : Expliquer le rôle du SO2 libre et justifier la limite réglementaire d'étiquetage. Q8 : Décrire les enregistrements de traçabilité à produire et la conduite à tenir en cas de non-conformité confirmée.",
+   "correction": "Q1. C6H12O6 → 2 C2H5OH + 2 CO2. Masse molaire glucose 180 g, éthanol 46 g : 180 g de glucose donnent 92 g d'éthanol, soit 0,511 g d'éthanol par gramme de glucose (rendement théorique massique ~51 %). Q2. c(cuve) = (0,372 - 0,008)/0,415 = 0,877 g/L ; concentration du prélèvement = 0,877 × 500 = 439 g/L. Ce résultat est incohérent avec les 58 g/L du document 1 : la dilution annoncée de 1/500 est vraisemblablement erronée (1/50 donnerait 43,9 g/L, du même ordre que 58 g/L compte tenu d'une cinétique en cours) ; il faut vérifier le registre de dilution et reprendre l'analyse avant de rendre un résultat. Q3. Valeur attendue 1,00 g/L, valeur retrouvée (0,419 - 0,008)/0,415 = 0,990 g/L, écart -1,0 %, inférieur à ± 5 % : la série est valide du point de vue de l'étalon de contrôle ; la recherche d'erreur porte donc sur la dilution de l'échantillon. Q4. De J2 à J5 puis J9, la densité et les sucres chutent tandis que l'éthanol augmente : la fermentation est active. À J5, l'acidité volatile (0,28 g/L) reste sous la limite mais passe à 0,85 g/L à J9, au-dessus du maximum 0,70 : une contamination bactérienne/acétique s'est développée en fin de fermentation, probablement par apport d'oxygène ou par population de bactéries lactiques trop précoce. Q5. Le dénombrement montre une dominance de Saccharomyces (2,4 × 10^7 UFC/mL) mais 8 × 10^3 UFC/mL de levures non Saccharomyces, dont Brettanomyces potentiel, et 1,1 × 10^5 UFC/mL de bactéries lactiques. Il faut identifier les levures non Saccharomyces (isolement sur milieu sélectif, identification biochimique ou moléculaire), limiter l'oxygénation, ajuster le SO2 dans la limite autorisée et renforcer le bionettoyage du circuit. Q6. Éthanol 11,8 % vol (conforme 11,5-12,5) ; acidité volatile 0,85 g/L (NON CONFORME, > 0,70) ; SO2 libre 32 mg/L (conforme) ; sucres résiduels 4 g/L (conforme < 5) ; acidité totale 3,6 g/L (conforme) ; turbidité 1,2 NTU (acceptable mais à surveiller). Le lot est non conforme sur l'acidité volatile : il doit être bloqué. Q7. Le SO2 libre est la forme active : antibactérien, antioxydant et inhibiteur des oxydases ; le SO2 total comprend le SO2 libre et le SO2 combiné (lié aux sucres, aldéhydes, anthocyanes), moins actif. Le SO2 est un allergène déclaré : au-delà d'un seuil réglementaire (10 mg/L en équivalent SO2), les vins doivent porter la mention « contient des sulfites ». Q8. Enregistrer : numéro de cuve et de lot, dates et heures de prélèvement, nom du préleveur, conditions de transport, numéros de lot des réactifs et milieux, dilutions et calculs bruts, résultats des contrôles (étalon, blanc, carte), identifiant de l'appareil et son état métrologique, nom de l'analyste. En cas de non-conformité confirmée : bloquer le lot, émettre une fiche d'anomalie, alerter le responsable qualité et le client, rechercher la cause (5M), proposer une action corrective (ajustement SO2, filtration, traitement ou réorientation du lot), documenter la décision et vérifier l'efficacité de l'action par une nouvelle analyse."
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1"
+   ],
+   "titre": "Sujet type E6-U6 – Dosage spectrophotométrique des protéines d'un extrait végétal",
+   "matiere": "Biochimie analytique",
+   "type": "genere",
+   "contenu": "Énoncé. Un laboratoire de contrôle reçoit un extrait protéique de pois destiné à une formulation alimentaire. Il doit doser la teneur en protéines par la méthode de Bradford et vérifier la conformité à la spécification (≥ 60 g/L). Documents : (1) Mode opératoire : solution mère d'albumine bovine 1,00 g/L ; gamme préparée dans des fioles de 10 mL en prélevant 0 ; 1,00 ; 2,00 ; 3,00 ; 4,00 ; 5,00 mL de mère et en complétant au trait ; ajout de 5,00 mL de réactif de Bradford, attente 10 min, lecture à 595 nm contre un blanc. (2) Résultats de gamme : absorbances 0,002 ; 0,124 ; 0,250 ; 0,372 ; 0,494 ; 0,620. (3) Échantillon : 2,00 mL d'extrait dilué au 1/20 puis traités comme les étalons ; A = 0,310 ; double détermination A = 0,304. (4) Exigence qualité : R² ≥ 0,995 ; écart entre doubles ≤ 2 % ; étalon de contrôle 0,50 g/L accepté entre 0,475 et 0,525 g/L, retrouvé à 0,512 g/L. Questions. Q1 : Calculer les concentrations de la gamme et tracer la droite d'étalonnage (pente, ordonnée à l'origine, R²). Q2 : La gamme est-elle valide ? Q3 : Calculer la concentration de l'extrait initial. Q4 : La répétabilité est-elle acceptable ? Q5 : Commenter le résultat de l'étalon de contrôle. Q6 : Le lot est-il conforme ? Q7 : Citer trois sources d'erreur propres à la méthode Bradford. Q8 : Rédiger la conclusion du rapport d'essai en précisant les mentions de traçabilité.",
+   "correction": "Q1. Concentrations : 0 ; 0,10 ; 0,20 ; 0,30 ; 0,40 ; 0,50 g/L. Régression : pente ≈ 1,235 (A par g/L), ordonnée ≈ -0,001, R² ≈ 0,9999. Q2. Oui : R² = 0,9999 > 0,995, linéarité vérifiée sur toute la gamme, blanc à 0,002 négligeable. Q3. c(cuve) = (0,310 + 0,001)/1,235 ≈ 0,252 g/L ; après dilution 1/20 : 5,04 g/L. Le double donne (0,304 + 0,001)/1,235 × 20 = 4,94 g/L ; moyenne 4,99 g/L. Q4. Écart relatif = |5,04 - 4,94|/4,99 = 2,0 %, soit à la limite du critère : acceptable mais il faut confirmer par une troisième détermination pour sécuriser le résultat. Q5. 0,512 g/L est dans [0,475 ; 0,525] : la série est exacte, l'étalon de contrôle valide le dosage. Q6. La spécification est ≥ 60 g/L alors que le dosage donne environ 5,0 g/L : le lot est très largement NON CONFORME ; cette différence doit d'abord faire vérifier le facteur de dilution (une erreur de dilution est probable) avant communication définitive, puis alerter le fournisseur. Q7. Réponse dépendante de la protéine étalon (albumine vs protéines de pois), sensibilité aux détergents et agents tampons, cinétique de coloration sensible au temps (10 min) et à la température, saturation du réactif pour les concentrations élevées, interférence des phénols et pigments de la matrice végétale. Q8. Conclusion type : « La teneur en protéines de l'échantillon EX-2024-118 est de 5,0 g/L (méthode Bradford à 595 nm, étalon albumine bovine), résultat non conforme à la spécification ≥ 60 g/L. Résultat rendu sous réserve de vérification du facteur de dilution. Traçabilité : numéro d'échantillon, lot de réactif Bradford, lot d'albumine, numéro de spectrophomètre, date, opérateur, gamme et contrôles archivés. »"
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "titre": "Sujet type E7-U7 – Contrôle d'une huile végétale : indice d'iode et oxydation",
+   "matiere": "Biochimie analytique",
+   "type": "genere",
+   "contenu": "Énoncé. Un laboratoire contrôle une huile de tournesol réceptionnée pour une production cosmétique. Documents : (1) Fiche technique : indice d'iode attendu 118-141 g I2/100 g ; indice de peroxyde ≤ 5 meq O2/kg ; indice d'acide ≤ 0,5 mg KOH/g ; acide linoléique 48-74 % ; absence de solvant résiduel > 1 mg/kg. (2) Dosage de l'indice d'iode (Wijs) : masse d'huile 0,4000 g ; blanc 25,00 mL de Na2S2O3 0,100 mol/L ; échantillon 13,20 mL ; facteur 0,1269 g I2 par mL de thiosulfate 0,1 M. (3) Indice de peroxyde obtenu : 8,4 meq O2/kg ; indice d'acide : 0,42 mg KOH/g. (4) Analyse CG après transestérification : pic à 14,32 min identifié comme ester linoléique, aire 57,8 % ; un pic inattendu à 11,90 min, aire 1,3 %, non identifié. (5) Recherche de solvants par headspace-GC : hexane 0,7 mg/kg. Questions. Q1 : Calculer l'indice d'iode et le comparer à la spécification. Q2 : Calculer l'erreur absolue et relative sur l'indice d'iode si la masse pesée est 0,4000 g ± 0,0002 g. Q3 : Interpréter l'indice de peroxyde et l'indice d'acide : quelle altération est en cause ? Q4 : Comment le profil CG (57,8 % de linoléique) conforte-t-il ou non le résultat de l'indice d'iode ? Q5 : Que faire du pic inattendu à 11,90 min ? Q6 : Le lot peut-il être accepté ? Q7 : Décrire les points critiques du dosage de l'indice d'iode. Q8 : Rédiger l'alerte qualité au fournisseur.",
+   "correction": "Q1. I.I. = (25,00 - 13,20) × 0,100 × 0,1269 × 100 / 0,4000 = 11,80 × 0,100 × 0,1269 × 100 / 0,4000 = 37,4 g I2/100 g. Valeur très inférieure à la plage 118-141 : NON CONFORME, l'huile est beaucoup moins insaturée qu'attendu (mélange avec une huile saturée ou oxydation avancée). Q2. Incertitude relative sur la masse = 0,0002/0,4000 = 0,05 %, donc erreur absolue sur l'indice ≈ 37,4 × 0,0005 = 0,019 g/100 g : négligeable devant l'écart à la spécification. Q3. Indice de peroxyde 8,4 > 5 : oxydation primaire débutante confirmée ; indice d'acide 0,42 ≤ 0,5 : pas d'hydrolyse significative. L'altération est donc oxydative, ce qui détruit une partie des doubles liaisons et contribue à abaisser l'indice d'iode. Q4. Le profil CG donne 57,8 % de linoléique (dans la plage 48-74 %), ce qui est cohérent avec une huile de tournesol et contredit l'indice d'iode très bas : l'écart ne s'explique pas par la composition mais par une erreur de dosage ou une dégradation des doubles liaisons non visible sur le profil quantifié ; il faut refaire l'indice d'iode et examiner le pic inconnu. Q5. Le pic à 11,90 min doit être identifié (indice de Kovats, co-injection avec un étalon, ou GC-MS) : il peut s'agir d'un acide gras trans, d'un autre corps gras révélant un mélange, ou d'un composé d'oxydation. Tant qu'il n'est pas identifié, le profil n'est pas validé. Q6. Non : le lot est recalé sur l'indice d'iode et l'indice de peroxyde ; hexanes 0,7 mg/kg reste sous la limite de 1 mg/kg mais doit être surveillé. Le lot est bloqué, une contre-analyse par un laboratoire indépendant peut être demandée. Q7. Points critiques : protéger le réactif de Wijs de la lumière et le conserver au froid, temps de contact de 30 min à l'obscurité strict, propreté et sécheresse de la verrerie (l'eau consomme le réactif), concentration exacte et étalonnage du thiosulfate, ajout de KI, titrage jusqu'au virage de l'amidon ajouté en fin, blanc réalisé dans les mêmes conditions, masse pesée avec précision. Q8. Alerte : « Lot HU-2026-0413 huile de tournesol — non-conformité confirmée : indice d'iode 37,4 g/100 g (spécification 118-141), indice de peroxyde 8,4 meq/kg (limite 5), pic inconnu 1,3 % en CG. Lot bloqué, demande d'analyses complémentaires et de justification. Références : rapports n°..., date, opérateur, appareils et lots de réactifs. »"
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "titre": "Sujet type E7-U7 – Validation d'une méthode CLHP de dosage d'un résidu",
+   "matiere": "Biochimie analytique",
+   "type": "genere",
+   "contenu": "Énoncé. Le laboratoire doit installer une méthode CLHP-UV pour le dosage d'un conservateur (parabène) dans une crème cosmétique, en remplacement d'une méthode spectrophotométrique non spécifique. Documents : (1) Gamme étalon préparée dans une matrice exempte : 0,05 ; 0,10 ; 0,25 ; 0,50 ; 1,00 ; 2,00 µg/mL ; aires 12 400 ; 24 900 ; 61 800 ; 124 500 ; 248 000 ; 494 000 unités. (2) Dix mesures du blanc : écart-type du bruit σ = 620 unités. (3) Essais de rendement à 0,1 ; 0,5 et 1,0 µg/mL (n = 3 par niveau) : rendements moyens 78 % ; 96 % ; 99 %, RSD respectifs 14 % ; 4 % ; 3 %. (4) Étude de robustesse : variation du pH de la phase mobile de 3,0 à 3,4 déplace le temps de rétention de 0,35 min et modifie l'aire de 6 %. (5) Spécification réglementaire : la limite est 0,4 µg/mL ; la méthode doit être linéaire de la LQ à 120 % de la limite, avec rendement 80-110 % et RSD ≤ 10 %. Questions. Q1 : Calculer la pente et le coefficient de détermination de la gamme. Q2 : Calculer LD et LQ ; la méthode est-elle suffisamment sensible ? Q3 : Commenter les rendements et la fidélité aux trois niveaux. Q4 : Analyser la robustesse et proposer une mesure de maîtrise. Q5 : Justifier l'usage d'un étalonnage matriciel. Q6 : Comparer la nouvelle méthode à l'ancienne méthode spectrophotométrique. Q7 : Quels essais complémentaires sont nécessaires avant de conclure à la validation ? Q8 : Rédiger la synthèse de validation en indiquant la décision.",
+   "correction": "Q1. Pente ≈ 247 000 unités par µg/mL, ordonnée ≈ -150, R² ≈ 0,99999 (linéarité excellente). Q2. LD = 3σ/pente = 3 × 620/247 000 = 0,0075 µg/mL ; LQ = 10 × 620/247 000 = 0,025 µg/mL. La LQ (0,025) est bien inférieure à la limite réglementaire (0,4) et à la borne basse de la gamme (0,05) : sensibilité conforme. Q3. À 0,1 µg/mL, rendement 78 % (< 80 %) et RSD 14 % (> 10 %) : le niveau bas ne satisfait pas les critères. À 0,5 et 1,0 µg/mL, rendements 96 et 99 % et RSD 4 et 3 % : conformes. Comme la limite est 0,4 µg/mL, le niveau 0,1 correspond à 25 % de la limite : il faut améliorer l'extraction à ce niveau (ou ajuster la gamme validée) avant de revendiquer la quantification à 0,1. Q4. Un déplacement de 0,35 min du temps de rétention et une variation de 6 % de l'aire pour 0,4 unité de pH montrent une sensibilité au pH : il faut contrôler le pH de la phase mobile avec un tampon, préparer la phase mobile de façon reproductible, spécifier une plage de pH étroite (3,0 ± 0,1) et suivre le temps de rétention sur une carte de contrôle. Q5. La crème contient des matières grasses, émulsifiants et pigments qui peuvent retenir l'analyte ou modifier sa réponse : l'étalonnage dans une matrice exempt reproduit ces effets et donne une Exactitude représentative, contrairement à un étalonnage en solvant pur. Q6. La spectrophotométrie mesure une absorption globale et peut surestimer le conservateur en présence d'autres absorbants à la même longueur d'onde ; la CLHP sépare le parabène des interférents et fournit une identification par temps de rétention : elle est plus spécifique et plus fiable pour une décision réglementaire. Q7. Essais complémentaires : spécificité (blank de matrice et pics d'interférents), reproductibilité intermédiaire (autre jour, autre opérateur, autre appareil), stabilité des solutions et de l'analyte dans la matrice, étude des effets de matrice, comparaison avec la méthode de référence sur échantillons réels, incertitude de mesure et vérification des critères d'acceptation. Q8. Synthèse : « Méthode CLHP-UV linéaire (R² ≈ 1), LQ 0,025 µg/mL, exactitude et fidélité conformes de 0,5 à 2,0 µg/mL, mais performances insuffisantes à 0,1 µg/mL (rendement 78 %, RSD 14 %) et sensibilité au pH de la phase mobile. Décision : validation acceptée pour un domaine d'application de 0,25 à 2,0 µg/mL (≥ LQ et jusqu'à 120 % de la limite = 0,48 µg/mL) sous réserve de mise sous contrôle du pH ; amélioration de l'extraction à engager pour étendre le domaine vers le bas. Rapport à approuver par le responsable qualité. »"
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "titre": "Sujet type E4-U4 – Contrôle physico-chimique d'un effluent de bioindustrie",
+   "matiere": "Physique-chimie",
+   "type": "genere",
+   "contenu": "Énoncé. Une usine agroalimentaire rejette ses eaux usées après traitement biologique. Le service qualité doit vérifier la conformité du rejet (valeurs limites : pH 5,5-8,5 ; DCO ≤ 125 mg O2/L ; DBO5 ≤ 25 mg O2/L ; MES ≤ 30 mg/L ; chlore libre ≤ 0,5 mg/L ; conductivité ≤ 2500 µS/cm à 25 °C). Documents : (1) Relevés sur 24 h : pH 7,8 ; DCO 148 mg/L ; DBO5 18 mg/L ; MES 24 mg/L ; chlore libre 0,8 mg/L ; conductivité 2310 µS/cm. (2) Protocole DCO : oxydation par dichromate 0,0167 mol/L, 20,00 mL d'échantillon, 10,00 mL de dichromate, reflux 2 h, dosage du dichromate résiduel par titrage avec le fer II ; blanc : 9,85 mL de Fe2+ ; échantillon : 6,20 mL. (3) Courbe d'étalonnage du titrant : 1 mL de Fe2+ correspond à 0,050 mg O2. (4) Note du responsable procédé : « la station biologique fonctionne normalement ; un apport de chlore de choc a été réalisé la veille pour désinfecter la ligne CIP. » Questions. Q1 : Calculer la DCO à partir des volumes de titrage et comparer au relevé. Q2 : Quels paramètres sont non conformes ? Q3 : Le rapport DBO5/DCO est-il cohérent avec un traitement biologique en fonctionnement normal ? Q4 : Expliquer l'origine probable du chlore libre et son impact sur le milieu récepteur. Q5 : Pourquoi le pH et la conductivité sont-ils mesurés dès le prélèvement ? Q6 : Décrire le plan d'échantillonnage et les précautions de conservation. Q7 : Proposer des actions correctives hiérarchisées. Q8 : Rédiger le compte rendu d'analyse au responsable qualité.",
+   "correction": "Q1. Dichromate consommé = (9,85 - 6,20) = 3,65 mL équivalent Fe2+ ; DCO = 3,65 × 0,050 mg O2 / 0,02000 L = 9,13 mg O2/L. Ce résultat est très inférieur au relevé de 148 mg/L : il existe une incohérence (facteur de conversion ou dilution erroné) ; il faut vérifier le protocole et l'étalonnage du titrant avant de conclure. [Si l'on retient le relevé de 148 mg/L, le dépassement reste à instruir]. Q2. DCO 148 > 125 (non conforme), DBO5 18 ≤ 25 (conforme), MES 24 ≤ 30 (conforme), chlore libre 0,8 > 0,5 (non conforme), pH 7,8 et conductivité 2310 conformes. Q3. DBO5/DCO = 18/148 = 0,12 : rapport très faible, inhabituel pour un effluent après traitement biologique (usuellement 0,2-0,4). Cela conforte l'hypothèse d'une erreur de DCO ou d'une présence de composés réfractaires/inhibiteurs ; le résultat de DCO doit être revérifié en priorité. Q4. Le chlore provient du traitement de choc CIP de la veille, dont les effluents ont été rejetés sans neutralisation (pas de déchloration au bisulfite de sodium ou au charbon actif). Le chlore libre est toxique pour les organismes aquatiques et peut former des sous-produits chlorés ; il doit être abaissé sous 0,5 mg/L avant rejet. Q5. Le pH et la conductivité peuvent évoluer rapidement après prélèvement (dégagement de CO2, évaporation, précipitation, activité biologique résiduelle) : ils sont mesurés sur site, en même temps que la température, avec une sonde étalonnée. Q6. Prélever en aval du point de rejet après homogénéisation, en respectant un plan d'échantillonnage (3 prélèvements sur 24 h ou échantillon moyen proportionnel au débit), utiliser des flacons propres adaptés, remplir sans bulles, conserver à +4 °C à l'obscurité, analyser dans les délais réglementaires (DCO < 24 h, DBO5 dès que possible), prévoir un blanc de terrain et un double d'échantillon, tracer heure, opérateur et conditions. Q7. Actions : (1) bloquer le rejet ou le mettre en retention ; (2) neutraliser le chlore (bisulfite de sodium) et vérifier avant dilution ; (3) vérifier le calcul et le mode opératoire DCO, refaire l'analyse avec un étalon de contrôle ; (4) examiner la charge organique entrante et le fonctionnement de la station (O2, boues, temps de séjour) ; (5) mettre à jour le plan d'autosurveillance et former les opérateurs CIP aux consignes de déchloration. Q8. Compte rendu : « Rejet du 14/03, point R2. Résultats : pH 7,8 (conforme), conductivité 2310 µS/cm (conforme), DBO5 18 mg/L (conforme), MES 24 mg/L (conforme), chlore libre 0,8 mg/L (NON CONFORME), DCO relevée 148 mg/L (NON CONFORME, résultat à confirmer après vérification du calcul). Origine probable du chlore : choc CIP. Actions : retention, déchloration, revérification DCO avec étalon de contrôle, enquête 5M. Traçabilité : prélèvement n°..., sondes n°..., lots de réactifs, analyste, date. »"
+  }
+ ]
+}

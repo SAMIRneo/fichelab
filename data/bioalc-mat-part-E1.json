@@ -1,0 +1,1200 @@
+{
+  "fiches": [
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Qualité et gestion du laboratoire",
+      "titre": "Chapitre 16 · Installer une nouvelle méthode et un nouvel appareil (BTS2)",
+      "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025 (BTS BIOALC, RNCP38884, U7) · NF EN ISO/IEC 17025:2017 (§6.4, §6.5, §7.2, §7.5, §8.3) · ISO/TS 23758:2021 (IDF/RM 251) : validation des méthodes qualitatives de dépistage des résidus de médicaments vétérinaires dans le lait · Guide de validation AFNOR · Cofrac LAB REF 02 rév.15 / GEN REF 10 · VIM3 JCGM 200:2012 · Notices fabricants (Delvotest® Accelerator Smart DAS, Delvo®Scan)",
+      "points": [
+        "Installer une nouvelle méthode est un processus structuré en quatre temps : choisir et qualifier l'équipement (IQ/OQ/PQ), valider la méthode, vérifier la conformité avant la mise en routine, puis maîtriser les documents, la formation et la traçabilité. Chaque étape produit un enregistrement (ISO/IEC 17025 §6.4 et §7.2).",
+        "L'analyse du besoin précède tout achat : matrices (lait cru, lait pasteurisé, lait UHT), substances à rechercher, LMR à respecter, débit quotidien, délai de rendu, budget, conformité CE, disponibilité des pièces et interface avec le LIMS. Elle donne le cahier des charges et les critères d'acceptation.",
+        "La qualification d'installation (IQ, Installation Qualification) vérifie que l'appareil est livré conforme et installé selon la notice du fabricant : alimentation, environnement et conditions ambiantes, niveaux, mise à niveau, accessoires, numéro de série. Les écarts constatés sont listés et résolus avant la phase suivante, dans un rapport IQ daté et signé.",
+        "La qualification opérationnelle (OQ, Operational Qualification) vérifie que l'appareil fonctionne dans la plage prévue : température d'incubation, durée du cycle, agitation, lecture optique, paramètres du logiciel. On teste les bornes, les alarmes, les dispositifs de sécurité et la reproductibilité des réglages.",
+        "La qualification de performance (PQ, Performance Qualification) démontre que l'appareil donne durablement des résultats conformes aux critères, avec des échantillons réels ou des matériaux de référence, sur plusieurs jours, plusieurs opérateurs et plusieurs lots de réactifs. Exemple : DAS (Delvotest® Accelerator Smart) testé avec un lait témoin négatif et des laits dopés à la concentration cible.",
+        "Le DAS (Delvotest® Accelerator Smart) est un automate d'incubation et de lecture des tests microbiologiques de dépistage d'inhibiteurs dans le lait. Il remplace l'interprétation visuelle par une lecture instrumentée et une traçabilité informatique : il réduit la subjectivité, augmente le débit et génère des résultats exploitables dans le LIMS.",
+        "La validation de la méthode (ISO/TS 23758:2021 pour le dépistage qualitatif) établit la spécificité, la sensibilité (CCβ), la fidélité en répétabilité et reproductibilité (ISO 5725), la justesse, la robustesse, la stabilité des réactifs et les taux de faux positifs et faux négatifs. Elle se conclut par un rapport de validation.",
+        "Les critères d'acceptation sont fixés À PRIORI et chiffrés : par exemple CCβ inférieur à la LMR (benzylpénicilline : LMR = 4 µg/kg dans le lait), taux de faux positifs ≤ 5 %, taux de faux négatifs ≤ 2 %, écart entre la lecture visuelle et la lecture DAS ≤ 1 niveau de couleur. Un résultat hors critère déclenche une action corrective avant mise en service.",
+        "Le mode opératoire est rédigé, validé et diffusé avant la mise en route : référence, version, domaine d'application, responsabilités, réactifs et lots, déroulé des opérations, paramètres critiques, critères de lecture, conduite à tenir en cas de résultat douteux, précautions de sécurité et élimination des déchets (ISO 17025 §7.5 et §8.2).",
+        "La formation et l'habilitation du personnel comprennent une partie théorique, une mise en pratique sur appareil, puis une évaluation par essais à l'aveugle. Le résultat est enregistré dans la matrice de compétences ; le responsable qualité délivre l'habilitation et programme un recyclage périodique ou après modification importante.",
+        "La traçabilité de l'installation rassemble : numéro de série et date de mise en service, rapports IQ/OQ/PQ, version du logiciel de lecture, lots de réactifs et de témoins, courbes et calibrations, registre de maintenance et d'étalonnage, historique des versions du mode opératoire et des actions correctives (§6.5, §7.5, §8.3).",
+        "La mise en routine est progressive : une phase de concordance avec l'ancienne méthode porte sur au moins 30 à 50 échantillons réels. Ensuite, des témoins et des contrôles internes de qualité accompagnent chaque série, des cartes de contrôle suivent la dérive, et toute modification (logiciel, lot majeur, déplacement) déclenche une requalification partielle et une révision documentaire."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle phase vérifie que l'appareil est installé conformément aux prescriptions du fabricant ?",
+          "options": [
+            "La qualification d'installation (IQ)",
+            "La qualification opérationnelle (OQ)",
+            "La qualification de performance (PQ)",
+            "La validation de la méthode"
+          ],
+          "correct": 0,
+          "correction": "L'IQ (Installation Qualification) contrôle la livraison, l'installation, l'environnement, les accessoires et le numéro de série ; l'OQ vérifie le fonctionnement et la PQ les performances dans la durée."
+        },
+        {
+          "type": "qcm",
+          "q": "Que signifie le sigle PQ ?",
+          "options": [
+            "Plan de qualification",
+            "Qualification de performance",
+            "Procédure qualité",
+            "Contrôle de production"
+          ],
+          "correct": 1,
+          "correction": "PQ = Performance Qualification : démonstration que l'appareil produit des résultats conformes aux critères d'acceptation en conditions réelles."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel document décrit pas à pas la réalisation d'un essai ?",
+          "options": [
+            "Le manuel qualité",
+            "La procédure d'audit",
+            "Le mode opératoire",
+            "La revue de direction"
+          ],
+          "correct": 2,
+          "correction": "Le mode opératoire décrit comment faire (réactifs, étapes, paramètres, critères de lecture) ; la procédure décrit qui fait quoi et quand."
+        },
+        {
+          "type": "qcm",
+          "q": "Sur 50 laits analysés lors de la phase de concordance, 3 donnent un faux positif. Quel est le taux de faux positifs ?",
+          "options": [
+            "3 %",
+            "5 %",
+            "6 %",
+            "10 %"
+          ],
+          "correct": 2,
+          "correction": "Taux de faux positifs = 3/50 × 100 = 6 %, à comparer au critère d'acceptation (≤ 5 % ici) : le critère n'est pas atteint et une action corrective est nécessaire.",
+          "contexte": "Rapport de validation d'un automate de lecture de tests de dépistage (ISO/TS 23758:2021).",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "La LMR de la benzylpénicilline dans le lait est de 4 µg/kg et le CCβ mesuré est de 3,2 µg/kg. Quelle est la marge relative ?",
+          "options": [
+            "8 %",
+            "16 %",
+            "20 %",
+            "80 %"
+          ],
+          "correct": 2,
+          "correction": "Marge = (4 − 3,2)/4 × 100 = 0,8/4 × 100 = 20 %. Le critère CCβ < LMR est respecté.",
+          "contexte": "Vérification de la conformité réglementaire d'une méthode de dépistage avant mise en service.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Le DAS traite 96 tests par cycle de 8 h ; le laboratoire reçoit 480 laits par jour. Combien de cycles sont nécessaires ?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "48"
+          ],
+          "correct": 1,
+          "correction": "480/96 = 5 cycles, soit 5 × 8 h : le dimensionnement du parc d'automates doit tenir compte de cette capacité.",
+          "contexte": "Dimensionnement du parc d'équipements lors de l'analyse du besoin.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "À quoi sert le lait témoin négatif introduit dans chaque série ?",
+          "options": [
+            "À étalonner le thermomètre",
+            "À vérifier l'absence de contamination ou de réaction non spécifique",
+            "À remplacer le mode opératoire",
+            "À augmenter le débit"
+          ],
+          "correct": 1,
+          "correction": "Le témoin négatif, traité comme un échantillon, doit rester négatif. S'il devient positif, la série est invalide (contamination, réactif périmé ou erreur de manipulation)."
+        },
+        {
+          "type": "qcm",
+          "q": "Que doit-on faire après une modification majeure du logiciel de lecture ?",
+          "options": [
+            "Rien, le mode opératoire suffit",
+            "Requalifier (OQ/PQ partielle) et mettre à jour les documents",
+            "Changer uniquement le fournisseur de réactifs",
+            "Supprimer les anciens enregistrements"
+          ],
+          "correct": 1,
+          "correction": "Toute modification susceptible d'influencer les résultats impose une requalification partielle, une révision du mode opératoire et la traçabilité de la nouvelle version (§7.2, §8.3)."
+        },
+        {
+          "type": "texte",
+          "q": "Distinguer la qualification opérationnelle (OQ) de la qualification de performance (PQ) en donnant un exemple pour le DAS.",
+          "reponse": "L'OQ vérifie que l'appareil fonctionne et que ses paramètres sont maîtrisés : plage de température de l'incubateur, durée du cycle, alarme de porte, lecture du scanner et version du logiciel. La PQ vérifie que, en usage réel, l'appareil atteint les critères d'acceptation sur lait témoin négatif et laits dopés, sur plusieurs jours, opérateurs et lots de réactifs.",
+          "correction": "OQ = « l'appareil fonctionne-t-il comme prévu ? » ; PQ = « produit-il durablement des bons résultats ? ». Les deux rapports sont datés, signés et archivés."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi prévoir une phase de concordance avec l'ancienne méthode avant la mise en routine ?",
+          "reponse": "Elle vérifie que la nouvelle méthode donne, par rapport à l'ancienne, des résultats comparables sur des échantillons réels, met en évidence un biais systématique et rassure les clients et l'organisme d'accréditation. Elle sécurise la continuité du service et permet de fixer des critères d'acceptation chiffrés avant bascule.",
+          "correction": "On analyse au moins 30 à 50 échantillons par les deux méthodes, on calcule le taux de concordance et les écarts ; toute dérive déclenche une action corrective avant la mise en routine."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Installer une nouvelle méthode, ce n'est pas seulement brancher l'appareil : c'est prouver, étape par étape et par écrit, qu'il fonctionne, que la méthode atteint les critères et que le personnel est habilité."
+        },
+        {
+          "type": "formule",
+          "titre": "Les repères chiffrés",
+          "eq": "CCβ < LMR   ·   taux de faux positifs = FP / nombre d'essais × 100",
+          "leg": "IQ → OQ → PQ → validation → mise en routine · critères d'acceptation fixés avant les essais"
+        },
+        {
+          "type": "grille",
+          "titre": "Les 4 phases de la qualification / validation",
+          "items": [
+            [
+              "IQ",
+              "Installation conforme à la notice",
+              "rapport IQ, numéro de série"
+            ],
+            [
+              "OQ",
+              "Paramètres et bornes maîtrisés",
+              "température, alarme, logiciel"
+            ],
+            [
+              "PQ",
+              "Performances en conditions réelles",
+              "témoins, dopages, plusieurs jours"
+            ],
+            [
+              "VAL",
+              "Méthode validée (ISO/TS 23758)",
+              "rapport de validation signé"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Ce que doit contenir le dossier d'installation",
+          "items": [
+            "Cahier des charges et analyse du besoin (matrices, LMR, débit, budget)",
+            "Rapports IQ / OQ / PQ avec écarts et actions correctives",
+            "Rapport de validation de la méthode et critères d'acceptation",
+            "Mode opératoire versionné, matrice de compétences et habilitations",
+            "Registre de maintenance, étalonnages et versions du logiciel"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Conduire l'installation",
+          "items": [
+            "Analyser le besoin et écrire le cahier des charges",
+            "Réceptionner l'appareil et réaliser l'IQ",
+            "Régler et tester les paramètres : OQ",
+            "Démontrer les performances sur échantillons réels : PQ",
+            "Valider la méthode, rédiger le mode opératoire, former le personnel",
+            "Mettre en routine avec concordance, témoins et surveillance"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Les pièges classiques",
+          "items": [
+            "Confondre IQ, OQ et PQ : l'IQ vérifie l'installation, pas les performances",
+            "Définir les critères d'acceptation après avoir vu les résultats",
+            "Oublier de tracer la version du logiciel de lecture",
+            "Mettre en service sans témoin négatif ni mode opératoire validé",
+            "Croire que la qualification de l'appareil dispense de valider la méthode"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">3/50</span> = 6 % de faux positifs",
+            "<span class=\"cle\">(4 − 3,2)/4</span> = 20 % de marge sur la LMR",
+            "<span class=\"cle\">480/96</span> = 5 cycles de lecture par jour",
+            "<span class=\"cle\">LMR benzylpénicilline</span> = 4 µg/kg dans le lait",
+            "<span class=\"cle\">≥ 30 à 50</span> échantillons pour la phase de concordance"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · De l'analyse du besoin à la mise en routine",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Six étapes de l'installation d'une nouvelle méthode et d'un nouvel appareil\">\n      <defs><marker id=\"bioE1f1s1\" markerWidth=\"7\" markerHeight=\"7\" refX=\"6\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L6 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs>\n      <text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"15\" font-weight=\"bold\">Installation : les 6 étapes à tracer</text>\n      <g font-size=\"10\" text-anchor=\"middle\">\n        <rect x=\"12\" y=\"40\" width=\"94\" height=\"52\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"59\" y=\"61\" fill=\"var(--ac)\" font-weight=\"bold\">1. Besoin</text><text x=\"59\" y=\"80\" fill=\"var(--fg)\">cahier des charges</text>\n        <rect x=\"118\" y=\"40\" width=\"94\" height=\"52\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"165\" y=\"61\" fill=\"var(--ac)\" font-weight=\"bold\">2. IQ</text><text x=\"165\" y=\"80\" fill=\"var(--fg)\">installation</text>\n        <rect x=\"224\" y=\"40\" width=\"94\" height=\"52\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"271\" y=\"61\" fill=\"var(--ac)\" font-weight=\"bold\">3. OQ</text><text x=\"271\" y=\"80\" fill=\"var(--fg)\">paramètres</text>\n        <rect x=\"330\" y=\"40\" width=\"94\" height=\"52\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"377\" y=\"61\" fill=\"var(--ac)\" font-weight=\"bold\">4. PQ</text><text x=\"377\" y=\"80\" fill=\"var(--fg)\">performances</text>\n        <rect x=\"436\" y=\"40\" width=\"94\" height=\"52\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/><text x=\"483\" y=\"61\" fill=\"var(--warn)\" font-weight=\"bold\">5. Validation</text><text x=\"483\" y=\"80\" fill=\"var(--fg)\">ISO/TS 23758</text>\n        <rect x=\"542\" y=\"40\" width=\"94\" height=\"52\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/><text x=\"589\" y=\"61\" fill=\"var(--warn)\" font-weight=\"bold\">6. Routine</text><text x=\"589\" y=\"80\" fill=\"var(--fg)\">concordance</text>\n      </g>\n      <g stroke=\"var(--ac)\" stroke-width=\"1.6\" marker-end=\"url(#bioE1f1s1)\">\n        <line x1=\"107\" y1=\"66\" x2=\"116\" y2=\"66\"/><line x1=\"213\" y1=\"66\" x2=\"222\" y2=\"66\"/><line x1=\"319\" y1=\"66\" x2=\"328\" y2=\"66\"/><line x1=\"425\" y1=\"66\" x2=\"434\" y2=\"66\"/><line x1=\"531\" y1=\"66\" x2=\"540\" y2=\"66\"/>\n      </g>\n      <rect x=\"12\" y=\"114\" width=\"310\" height=\"58\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n      <text x=\"26\" y=\"136\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Avant les essais</text>\n      <text x=\"26\" y=\"155\" fill=\"var(--fg)\" font-size=\"10\">critères d'acceptation chiffrés : CCβ &lt; LMR, FP ≤ 5 %</text>\n      <rect x=\"338\" y=\"114\" width=\"298\" height=\"58\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n      <text x=\"352\" y=\"136\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Après les essais</text>\n      <text x=\"352\" y=\"155\" fill=\"var(--fg)\" font-size=\"10\">mode opératoire, formation, habilitation, archivage</text>\n      <text x=\"330\" y=\"192\" text-anchor=\"middle\" fill=\"var(--dim)\" font-size=\"10\">Chaque étape produit un enregistrement daté et signé (ISO 17025 §7.5)</text>\n     </svg>"
+        },
+        {
+          "titre": "2 · IQ / OQ / PQ : ce que l'on vérifie",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Contenu respectif des qualifications IQ OQ et PQ\">\n      <text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"15\" font-weight=\"bold\">Trois qualifications, trois questions différentes</text>\n      <rect x=\"12\" y=\"38\" width=\"204\" height=\"140\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/>\n      <text x=\"24\" y=\"60\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">IQ · Installation</text>\n      <text x=\"24\" y=\"86\" fill=\"var(--fg)\" font-size=\"10\">Appareil conforme à la notice</text>\n      <text x=\"24\" y=\"108\" fill=\"var(--fg)\" font-size=\"10\">Alimentation, environnement</text>\n      <text x=\"24\" y=\"130\" fill=\"var(--fg)\" font-size=\"10\">Accessoires, n° de série</text>\n      <text x=\"24\" y=\"152\" fill=\"var(--fg)\" font-size=\"10\">Rapport IQ + écarts résolus</text>\n      <rect x=\"228\" y=\"38\" width=\"204\" height=\"140\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/>\n      <text x=\"240\" y=\"60\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">OQ · Opérationnelle</text>\n      <text x=\"240\" y=\"86\" fill=\"var(--fg)\" font-size=\"10\">Température, durée du cycle</text>\n      <text x=\"240\" y=\"108\" fill=\"var(--fg)\" font-size=\"10\">Lecture optique, logiciel</text>\n      <text x=\"240\" y=\"130\" fill=\"var(--fg)\" font-size=\"10\">Essais aux bornes, alarmes</text>\n      <text x=\"240\" y=\"152\" fill=\"var(--fg)\" font-size=\"10\">Reproductibilité des réglages</text>\n      <rect x=\"444\" y=\"38\" width=\"204\" height=\"140\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/>\n      <text x=\"456\" y=\"60\" fill=\"var(--warn)\" font-size=\"12\" font-weight=\"bold\">PQ · Performance</text>\n      <text x=\"456\" y=\"86\" fill=\"var(--fg)\" font-size=\"10\">Échantillons réels, dopages</text>\n      <text x=\"456\" y=\"108\" fill=\"var(--fg)\" font-size=\"10\">Plusieurs jours, opérateurs</text>\n      <text x=\"456\" y=\"130\" fill=\"var(--fg)\" font-size=\"10\">Plusieurs lots de réactifs</text>\n      <text x=\"456\" y=\"152\" fill=\"var(--fg)\" font-size=\"10\">Critères d'acceptation tenus</text>\n      <text x=\"330\" y=\"194\" text-anchor=\"middle\" fill=\"var(--dim)\" font-size=\"10\">La qualification de l'appareil ne remplace pas la validation de la méthode</text>\n     </svg>"
+        },
+        {
+          "titre": "3 · Critères d'acceptation et dossier de traçabilité",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Comparaison CCbeta et LMR et liste des enregistrements à tracer\">\n      <text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"15\" font-weight=\"bold\">Critères chiffrés et preuves conservées</text>\n      <text x=\"16\" y=\"42\" fill=\"var(--dim)\" font-size=\"10\">Échelle de concentration (µg/kg)</text>\n      <line x1=\"40\" y1=\"104\" x2=\"344\" y2=\"104\" stroke=\"var(--dim)\" stroke-width=\"2\"/>\n      <g stroke=\"var(--dim)\" stroke-width=\"1\">\n        <line x1=\"40\" y1=\"100\" x2=\"40\" y2=\"110\"/><line x1=\"104\" y1=\"100\" x2=\"104\" y2=\"110\"/><line x1=\"168\" y1=\"100\" x2=\"168\" y2=\"110\"/><line x1=\"232\" y1=\"100\" x2=\"232\" y2=\"110\"/><line x1=\"296\" y1=\"100\" x2=\"296\" y2=\"110\"/><line x1=\"360\" y1=\"100\" x2=\"360\" y2=\"110\"/>\n      </g>\n      <g fill=\"var(--fg)\" font-size=\"9\" text-anchor=\"middle\"><text x=\"40\" y=\"124\">0</text><text x=\"104\" y=\"124\">1</text><text x=\"168\" y=\"124\">2</text><text x=\"232\" y=\"124\">3</text><text x=\"296\" y=\"124\">4</text><text x=\"360\" y=\"124\">5</text></g>\n      <line x1=\"245\" y1=\"62\" x2=\"245\" y2=\"100\" stroke=\"var(--ac)\" stroke-width=\"2\"/>\n      <text x=\"245\" y=\"56\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\">CCβ 3,2</text>\n      <line x1=\"296\" y1=\"100\" x2=\"296\" y2=\"140\" stroke=\"var(--warn)\" stroke-width=\"2\"/>\n      <text x=\"296\" y=\"154\" text-anchor=\"middle\" fill=\"var(--warn)\" font-size=\"10\">LMR 4</text>\n      <text x=\"140\" y=\"166\" fill=\"var(--dim)\" font-size=\"10\">CCβ &lt; LMR : critère respecté</text>\n      <rect x=\"378\" y=\"40\" width=\"270\" height=\"146\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n      <text x=\"392\" y=\"62\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Dossier d'installation</text>\n      <text x=\"392\" y=\"86\" fill=\"var(--fg)\" font-size=\"10\">Rapports IQ / OQ / PQ signés</text>\n      <text x=\"392\" y=\"106\" fill=\"var(--fg)\" font-size=\"10\">Rapport de validation + critères</text>\n      <text x=\"392\" y=\"126\" fill=\"var(--fg)\" font-size=\"10\">Mode opératoire versionné</text>\n      <text x=\"392\" y=\"146\" fill=\"var(--fg)\" font-size=\"10\">Habilitations du personnel</text>\n      <text x=\"392\" y=\"166\" fill=\"var(--fg)\" font-size=\"10\">Maintenance, lots, logiciel</text>\n     </svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Qualité et gestion du laboratoire",
+      "titre": "Chapitre 17 · Concevoir une démarche expérimentale et un plan d'essais (BTS2)",
+      "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025 (BTS BIOALC, RNCP38884, U7) · NF EN ISO/IEC 17025:2017 (§7.2 validation des méthodes) · ISO/TS 23758:2021 · ISO 5725-1 à 6 (fidélité, répétabilité, reproductibilité) · VIM3 JCGM 200:2012 · Guide de validation AFNOR · Guide de planification d'expériences (DOE) · Cofrac LAB REF 02",
+      "points": [
+        "Une démarche expérimentale est une suite ordonnée : poser le problème, formuler une hypothèse, choisir les facteurs et les réponses, construire un plan d'essais, réaliser les essais, analyser les effets, conclure et optimiser. Elle s'applique par exemple à la validation d'un test de dépistage des résidus dans le lait.",
+        "Un facteur est une variable que l'on fait varier volontairement : température d'incubation, temps de contact, concentration en antibiotique, lot de réactifs, opérateur. Un niveau est une valeur prise par le facteur (par exemple 30 °C et 36 °C). La réponse est la grandeur mesurée (densité optique, diamètre d'inhibition, taux de détection, temps de lecture).",
+        "On distingue les facteurs contrôlables, que l'on fixe ou que l'on fait varier selon le plan, et les facteurs de bruit ou perturbateurs (température ambiante, heure, lot, fatigue de l'opérateur). Le plan doit permettre de séparer l'effet des facteurs étudiés de celui de ce bruit.",
+        "Le plan unifactoriel fait varier un seul facteur, les autres étant maintenus constants : il est simple à interpréter mais ne révèle pas les interactions. Le plan factoriel complet fait varier simultanément tous les facteurs ; pour k facteurs à 2 niveaux, le nombre d'essais est N = 2^k (8 essais pour 3 facteurs).",
+        "Dans un plan 2², les 4 combinaisons sont (−,−), (+,−), (−,+), (+,+), notées y−−, y+−, y−+, y++. L'effet principal d'un facteur A est la différence entre les moyennes aux niveaux + et − : effet A = [(y+− + y++)/2] − [(y−− + y−+)/2].",
+        "L'effet d'interaction mesure le fait que l'effet d'un facteur dépend du niveau d'un autre : effet A×B = [(y++ − y+−) − (y−+ − y−−)]/2. Une interaction significative interdit de conclure sur un facteur seul ; elle est fréquente entre température et lot de réactifs.",
+        "Les répétitions (plusieurs essais dans les mêmes conditions) estiment la variance expérimentale et la fidélité. L'écart-type de la moyenne diminue selon s_moy = s/√n : passer de 1 à 4 répétitions divise l'écart-type de la moyenne par 2, au prix de 4 fois plus d'essais.",
+        "La randomisation tire au sort l'ordre des essais : elle empêche qu'une dérive dans le temps (température, réactif, fatigue) soit attribuée à tort à un facteur. Le blocage regroupe les essais par lot de réactifs ou par journée ; on compare alors les traitements à l'intérieur de chaque bloc pour éliminer cette source de variation.",
+        "Chaque série comporte un témoin négatif (blanc, sans analyte) et un témoin positif (dopé à une concentration connue proche de la limite). Ils valident la série et servent au calcul des taux de faux positifs et de faux négatifs, donc à l'estimation de la sensibilité et de la spécificité.",
+        "L'analyse des effets combine le calcul des effets principaux et des interactions, un diagramme des effets, et une analyse de variance (ANOVA) qui compare la variance « entre traitements » à la variance « résiduelle ». Un effet est considéré comme significatif lorsque la probabilité associée est inférieure à 0,05 (seuil α = 5 %).",
+        "L'optimisation recherche le meilleur compromis entre plusieurs réponses souvent contradictoires : sensibilité, rapidité, coût, robustesse. On utilise des plans de surface de réponse (plan composite central) ou une méthode des marges, puis on réalise un essai de confirmation au point optimal retenu.",
+        "La traçabilité de la démarche est exigée par l'ISO 17025 §7.5 : plan d'essais, conditions et dates, identifiant de l'opérateur, lots de réactifs, valeurs brutes, calculs, graphiques et conclusion sont conservés dans le cahier de laboratoire, un tableur versionné ou le LIMS, sans suppression des données brutes."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Combien d'essais compte un plan factoriel complet à 3 facteurs à 2 niveaux ?",
+          "options": [
+            "3",
+            "6",
+            "8",
+            "9"
+          ],
+          "correct": 2,
+          "correction": "N = 2^k = 2³ = 8 combinaisons : (−,−,−), (+,−,−), (−,+,−), (−,−,+), (+,+,−), (+,−,+), (−,+,+), (+,+,+)."
+        },
+        {
+          "type": "qcm",
+          "q": "À quoi sert la randomisation de l'ordre des essais ?",
+          "options": [
+            "À augmenter le nombre de facteurs",
+            "À éviter qu'une dérive dans le temps biaise les effets",
+            "À supprimer les répétitions",
+            "À remplacer les témoins"
+          ],
+          "correct": 1,
+          "correction": "En tirant l'ordre au sort, on répartit l'influence de l'heure, de la dérive thermique ou de la fatigue entre tous les traitements : l'effet mesuré n'est pas confondu avec le bruit."
+        },
+        {
+          "type": "qcm",
+          "q": "Plan 2² : y−− = 10, y+− = 14, y−+ = 12, y++ = 20. Quel est l'effet principal du facteur A ?",
+          "options": [
+            "3",
+            "6",
+            "8",
+            "10"
+          ],
+          "correct": 1,
+          "correction": "Effet A = [(y+− + y++)/2] − [(y−− + y−+)/2] = [(14+20)/2] − [(10+12)/2] = 17 − 11 = 6.",
+          "contexte": "Analyse des effets d'un plan factoriel complet sur un test de dépistage.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Avec les mêmes résultats, quelle est l'interaction A×B ?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correct": 1,
+          "correction": "Interaction = [(y++ − y+−) − (y−+ − y−−)]/2 = [(20−14) − (12−10)]/2 = (6−2)/2 = 2.",
+          "contexte": "Calcul de l'interaction entre température et lot de réactifs.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Un écart-type de répétabilité vaut s = 0,4. Avec 4 répétitions, quel est l'écart-type de la moyenne ?",
+          "options": [
+            "0,1",
+            "0,2",
+            "0,4",
+            "1,6"
+          ],
+          "correct": 1,
+          "correction": "s_moy = s/√n = 0,4/√4 = 0,4/2 = 0,2.",
+          "contexte": "Estimation de la fidélité d'une série d'essais (ISO 5725).",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'appelle-t-on « niveau » d'un facteur ?",
+          "options": [
+            "Une valeur prise par ce facteur",
+            "Le nombre d'essais",
+            "La réponse mesurée",
+            "Le nombre de facteurs"
+          ],
+          "correct": 0,
+          "correction": "Un facteur est la variable étudiée (ex. température) ; un niveau est l'une de ses valeurs (ex. 30 °C et 36 °C)."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel plan permet de mettre en évidence une interaction entre deux facteurs ?",
+          "options": [
+            "Le plan unifactoriel",
+            "Le plan factoriel complet",
+            "Une série de témoins seuls",
+            "Le simple graphique de tendance"
+          ],
+          "correct": 1,
+          "correction": "Le plan factoriel teste toutes les combinaisons de niveaux ; le plan unifactoriel ne peut pas détecter d'interaction."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le rôle du témoin positif dans une série d'essais ?",
+          "options": [
+            "Vérifier que l'appareil est éteint",
+            "Confirmer que la méthode détecte l'analyte à une concentration connue",
+            "Remplacer la répétition",
+            "Servir de déchet"
+          ],
+          "correct": 1,
+          "correction": "Le témoin positif, dopé près de la limite réglementaire, doit être détecté : s'il ne l'est pas, la série est invalide (faux négatif)."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer pourquoi il faut à la fois répéter et randomiser les essais.",
+          "reponse": "Répéter permet d'estimer la variance expérimentale (fidélité) et de réduire l'écart-type de la moyenne selon s/√n. Randomiser l'ordre des essais répartit les effets du temps, de la température ambiante ou de la fatigue entre tous les traitements, ce qui évite d'attribuer au facteur étudié une variation due au bruit.",
+          "correction": "Sans répétitions, on ne peut pas juger de la significativité d'un effet ; sans randomisation, un effet peut être confondu avec une dérive systématique."
+        },
+        {
+          "type": "texte",
+          "q": "Distinguer effet principal et interaction, avec un exemple de laboratoire.",
+          "reponse": "L'effet principal est l'influence moyenne d'un facteur, toutes conditions des autres facteurs confondues (ex. passer de 30 °C à 36 °C augmente de 6 unités la réponse). L'interaction existe quand l'effet d'un facteur change selon le niveau d'un autre (ex. le gain de température n'apparaît qu'avec le lot de réactifs A, pas avec le lot B).",
+          "correction": "Une interaction significative impose d'interpréter les facteurs ensemble et peut conduire à choisir un couple de niveaux précis plutôt qu'un réglage isolé."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Un bon plan d'essais permet de répondre à la question posée avec le minimum d'essais, en séparant l'effet des facteurs du bruit expérimental."
+        },
+        {
+          "type": "formule",
+          "titre": "Effets et répétitions",
+          "eq": "effet A = moyenne(A+) − moyenne(A−)   ·   interaction A×B = [(y++−y+−)−(y−+−y−−)]/2",
+          "leg": "N = 2^k essais pour k facteurs à 2 niveaux · s_moy = s / √n"
+        },
+        {
+          "type": "grille",
+          "titre": "Vocabulaire indispensable",
+          "items": [
+            [
+              "Facteur",
+              "Variable que l'on fait varier",
+              "température, concentration"
+            ],
+            [
+              "Niveau",
+              "Valeur du facteur",
+              "30 °C / 36 °C"
+            ],
+            [
+              "Réponse",
+              "Grandeur mesurée",
+              "DO, taux de détection"
+            ],
+            [
+              "Bruit",
+              "Variation non contrôlée",
+              "heure, lot, opérateur"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Les principes d'un plan fiable",
+          "items": [
+            "Définir à l'avance la question, l'hypothèse et les critères de décision",
+            "Choisir les facteurs, leurs niveaux et les réponses mesurées",
+            "Répéter pour estimer la fidélité (ISO 5725)",
+            "Randomiser l'ordre et bloquer les sources de variation connues",
+            "Insérer témoins négatif et positif dans chaque série",
+            "Conserver toutes les données brutes et le plan versionné"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Conduire une démarche expérimentale",
+          "items": [
+            "Poser le problème et formuler l'hypothèse",
+            "Identifier facteurs, niveaux, réponses et facteurs de bruit",
+            "Choisir le plan : unifactoriel ou factoriel (2^k)",
+            "Réaliser les essais en ordre randomisé avec témoins",
+            "Calculer effets principaux, interactions et ANOVA",
+            "Optimiser puis confirmer le point retenu par un essai"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Les pièges classiques",
+          "items": [
+            "Faire varier plusieurs facteurs à la fois dans un plan unifactoriel",
+            "Oublier la randomisation : l'heure devient un facteur caché",
+            "Confondre écart-type s et écart-type de la moyenne s/√n",
+            "Conclure sur un effet principal alors qu'une interaction est significative",
+            "Ne garder que les « bons » résultats bruts"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">2³</span> = 8 essais pour 3 facteurs",
+            "<span class=\"cle\">[(14+20)/2]−[(10+12)/2]</span> = effet A = 6",
+            "<span class=\"cle\">[(20−14)−(12−10)]/2</span> = interaction = 2",
+            "<span class=\"cle\">0,4/√4</span> = 0,2 (écart-type de la moyenne)",
+            "<span class=\"cle\">p &lt; 0,05</span> = effet significatif"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · La démarche expérimentale en 6 étapes",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Les six étapes d'une démarche expérimentale de la question à l'optimisation\">\n      <defs><marker id=\"bioE1f2s1\" markerWidth=\"7\" markerHeight=\"7\" refX=\"6\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L6 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs>\n      <text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"15\" font-weight=\"bold\">De la question à la conclusion</text>\n      <g font-size=\"11\" text-anchor=\"middle\">\n        <rect x=\"12\" y=\"40\" width=\"200\" height=\"44\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"112\" y=\"67\" fill=\"var(--fg)\">1. Poser le problème</text>\n        <rect x=\"230\" y=\"40\" width=\"200\" height=\"44\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"330\" y=\"67\" fill=\"var(--fg)\">2. Formuler l'hypothèse</text>\n        <rect x=\"448\" y=\"40\" width=\"200\" height=\"44\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"548\" y=\"67\" fill=\"var(--fg)\">3. Choisir facteurs / réponses</text>\n        <rect x=\"448\" y=\"112\" width=\"200\" height=\"44\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"548\" y=\"139\" fill=\"var(--fg)\">4. Réaliser les essais</text>\n        <rect x=\"230\" y=\"112\" width=\"200\" height=\"44\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"330\" y=\"139\" fill=\"var(--fg)\">5. Analyser les effets</text>\n        <rect x=\"12\" y=\"112\" width=\"200\" height=\"44\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/><text x=\"112\" y=\"139\" fill=\"var(--fg)\">6. Conclure et optimiser</text>\n      </g>\n      <g stroke=\"var(--ac)\" stroke-width=\"1.6\" marker-end=\"url(#bioE1f2s1)\">\n        <line x1=\"213\" y1=\"62\" x2=\"228\" y2=\"62\"/><line x1=\"431\" y1=\"62\" x2=\"446\" y2=\"62\"/>\n        <line x1=\"548\" y1=\"86\" x2=\"548\" y2=\"110\"/><line x1=\"446\" y1=\"134\" x2=\"432\" y2=\"134\"/><line x1=\"228\" y1=\"134\" x2=\"214\" y2=\"134\"/>\n      </g>\n      <text x=\"330\" y=\"186\" text-anchor=\"middle\" fill=\"var(--dim)\" font-size=\"10\">Répétitions + randomisation + témoins à chaque série</text>\n     </svg>"
+        },
+        {
+          "titre": "2 · Plan factoriel 2² : les 4 combinaisons",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Plan factoriel deux facteurs deux niveaux avec les quatre réponses et le calcul des effets\">\n      <text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"15\" font-weight=\"bold\">Plan 2² : 4 combinaisons, 2 effets, 1 interaction</text>\n      <line x1=\"120\" y1=\"56\" x2=\"120\" y2=\"164\" stroke=\"var(--dim)\" stroke-width=\"1.5\"/>\n      <line x1=\"120\" y1=\"164\" x2=\"410\" y2=\"164\" stroke=\"var(--dim)\" stroke-width=\"1.5\"/>\n      <text x=\"96\" y=\"62\" fill=\"var(--fg)\" font-size=\"10\">B +</text><text x=\"96\" y=\"164\" fill=\"var(--fg)\" font-size=\"10\">B −</text>\n      <text x=\"122\" y=\"182\" fill=\"var(--fg)\" font-size=\"10\">A −</text><text x=\"392\" y=\"182\" fill=\"var(--fg)\" font-size=\"10\">A +</text>\n      <g>\n        <circle cx=\"160\" cy=\"140\" r=\"6\" fill=\"var(--ac)\"/><text x=\"172\" y=\"144\" fill=\"var(--fg)\" font-size=\"10\">y−− = 10</text>\n        <circle cx=\"370\" cy=\"140\" r=\"6\" fill=\"var(--ac)\"/><text x=\"266\" y=\"144\" fill=\"var(--fg)\" font-size=\"10\">y+− = 14</text>\n        <circle cx=\"160\" cy=\"76\" r=\"6\" fill=\"var(--warn)\"/><text x=\"172\" y=\"80\" fill=\"var(--fg)\" font-size=\"10\">y−+ = 12</text>\n        <circle cx=\"370\" cy=\"76\" r=\"6\" fill=\"var(--warn)\"/><text x=\"268\" y=\"80\" fill=\"var(--fg)\" font-size=\"10\">y++ = 20</text>\n      </g>\n      <rect x=\"430\" y=\"40\" width=\"218\" height=\"138\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n      <text x=\"444\" y=\"62\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Calcul des effets</text>\n      <text x=\"444\" y=\"86\" fill=\"var(--fg)\" font-size=\"10\">A = (14+20)/2 − (10+12)/2 = 6</text>\n      <text x=\"444\" y=\"110\" fill=\"var(--fg)\" font-size=\"10\">B = (12+20)/2 − (10+14)/2 = 4</text>\n      <text x=\"444\" y=\"134\" fill=\"var(--fg)\" font-size=\"10\">A×B = [(20−14)−(12−10)]/2 = 2</text>\n      <text x=\"444\" y=\"162\" fill=\"var(--dim)\" font-size=\"10\">N = 2² = 4 essais</text>\n     </svg>"
+        },
+        {
+          "titre": "3 · Effets, interactions et maîtrise du bruit",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Effet principal interaction et bruit expérimental avec les moyens de maîtrise\">\n      <text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"15\" font-weight=\"bold\">Séparer l'effet du bruit</text>\n      <rect x=\"12\" y=\"38\" width=\"204\" height=\"126\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/>\n      <text x=\"24\" y=\"60\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">Effet principal</text>\n      <text x=\"24\" y=\"86\" fill=\"var(--fg)\" font-size=\"10\">Différence de moyennes</text>\n      <text x=\"24\" y=\"108\" fill=\"var(--fg)\" font-size=\"10\">entre niveau + et −</text>\n      <text x=\"24\" y=\"134\" fill=\"var(--fg)\" font-size=\"10\">Ex. : +6 unités</text>\n      <rect x=\"228\" y=\"38\" width=\"204\" height=\"126\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/>\n      <text x=\"240\" y=\"60\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">Interaction</text>\n      <text x=\"240\" y=\"86\" fill=\"var(--fg)\" font-size=\"10\">L'effet d'un facteur</text>\n      <text x=\"240\" y=\"108\" fill=\"var(--fg)\" font-size=\"10\">dépend d'un autre</text>\n      <text x=\"240\" y=\"134\" fill=\"var(--fg)\" font-size=\"10\">Ex. : température × lot</text>\n      <rect x=\"444\" y=\"38\" width=\"204\" height=\"126\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/>\n      <text x=\"456\" y=\"60\" fill=\"var(--warn)\" font-size=\"12\" font-weight=\"bold\">Bruit expérimental</text>\n      <text x=\"456\" y=\"86\" fill=\"var(--fg)\" font-size=\"10\">Répétitions → s/√n</text>\n      <text x=\"456\" y=\"108\" fill=\"var(--fg)\" font-size=\"10\">Randomisation → ordre</text>\n      <text x=\"456\" y=\"134\" fill=\"var(--fg)\" font-size=\"10\">Blocage → lot, journée</text>\n      <text x=\"330\" y=\"184\" text-anchor=\"middle\" fill=\"var(--dim)\" font-size=\"10\">ANOVA : variance entre traitements / variance résiduelle · seuil p &lt; 0,05</text>\n     </svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Qualité et gestion du laboratoire",
+      "titre": "Chapitre 18 · Veille technologique et réglementaire, sources internes et externes (BTS1/BTS2)",
+      "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025 (BTS BIOALC, RNCP38884, U7) · Journal officiel / Légifrance · France Compétences RNCP38884 · NF EN ISO/IEC 17025:2017 (§7.5, §8.2) · ISO/TS 23758:2021 · ISO 5725 · VIM3 JCGM 200:2012 · Normes et publications AFNOR · Cofrac LAB REF 02 / GEN REF 10 · Règlement (UE) 2021/808 · Règlement (CE) n° 396/2005 · Publications ANSES / ANSM / DGAL",
+      "points": [
+        "La veille technologique et réglementaire est une surveillance active et organisée de l'environnement scientifique, technique et juridique : elle permet d'anticiper les évolutions, de rester accrédité et d'adapter les pratiques du laboratoire avant d'y être contraint.",
+        "Les sources internes sont propres au laboratoire : procédures et modes opératoires versionnés, rapports de validation et de qualification, enregistrements de non-conformités et de réclamations, comptes rendus d'audits internes, revue de direction, indicateurs qualité, retours d'expérience, cahiers de laboratoire et données du LIMS.",
+        "Les sources externes institutionnelles comprennent le Journal officiel et Légifrance (lois, décrets, arrêtés), France Compétences et le RNCP pour les référentiels de formation, l'arrêté du 12 mars 2024 modifié le 24 juin 2025 (BTS BIOALC), les textes européens (règlement 2021/808, règlement 396/2005 sur les LMR) et les circulaires ou avis DGAL, ANSES et ANSM.",
+        "Les sources normatives sont publiées par l'ISO (ISO/IEC 17025:2017, ISO 5725, ISO/TS 23758:2021 pour le dépistage des résidus dans le lait, VIM3 JCGM 200:2012) et par l'AFNOR (normes NF EN ISO adoptées, guides de validation). Le COFRAC diffuse les documents LAB REF 02 et GEN REF 10 qui précisent les exigences d'accréditation.",
+        "Les sources scientifiques et professionnelles complètent le dispositif : revues à comité de lecture, congrès, thèses, bases de données (PubMed, PubChem, ANSES), documentation des fabricants d'automates et de réactifs, newsletters et publications de groupements professionnels de l'analytique alimentaire.",
+        "La hiérarchie documentaire va du texte réglementaire (opposable) aux normes et référentiels d'accréditation, puis au manuel qualité, aux procédures, aux modes opératoires et enfin aux enregistrements. En cas de conflit, le texte réglementaire prévaut ; une norme ou une procédure interne peut être plus exigeante, jamais moins.",
+        "La fiabilité d'une source s'évalue par son éditeur (organisme officiel ou revue relue par les pairs plutôt qu'un blog), la date de publication, la version, le statut (en vigueur, annulé, remplacé) et l'existence d'amendements. L'ISO/IEC 17025:2017, confirmée en 2023, reste ainsi la version en vigueur.",
+        "La veille active repose sur des abonnements et des alertes (flux RSS, lettres d'information, alertes ISO/AFNOR/JO, veille bibliographique) et sur une revue périodique programmée. La veille passive attend l'information par les fournisseurs ou les collègues : elle est insuffisante pour anticiper une évolution réglementaire.",
+        "La méthode de veille comporte six étapes : définir le périmètre (thèmes, matrices, réglementation), sélectionner les sources, fixer une fréquence (hebdomadaire ou mensuelle), collecter, filtrer et analyser l'impact, diffuser et archiver. Un journal de veille trace chaque information.",
+        "L'exploitation est l'objectif de la veille : une nouvelle version de l'ISO/TS 23758 ou un changement de LMR doit entraîner une décision identifiée — mise à jour d'un mode opératoire, révalidation d'une méthode, formation du personnel, information du responsable qualité ou action corrective — avec un responsable et une échéance.",
+        "Les outils courants sont Légifrance, les alertes ISO et AFNOR, les bases bibliographiques, un espace documentaire maîtrisé (GED), le LIMS et un tableau de bord de veille. L'accès aux versions antérieures doit être conservé pour prouver quelle version était applicable à une date donnée.",
+        "La traçabilité de la veille (ISO 17025 §7.5 et §8.2) impose un enregistrement : date, source, référence exacte, pertinence, décision prise, responsable, échéance et preuve de diffusion. Les documents modifiés suivent le processus de maîtrise des documents : approbation, version, retrait de l'ancienne version."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle source prévaut en cas de conflit avec une norme ou une procédure interne ?",
+          "options": [
+            "Le mode opératoire",
+            "Le manuel qualité",
+            "Le texte réglementaire",
+            "La fiche fabricant"
+          ],
+          "correct": 2,
+          "correction": "Le texte réglementaire (loi, décret, arrêté, règlement européen) est opposable : la norme et les documents internes ne peuvent jamais être moins exigeants."
+        },
+        {
+          "type": "qcm",
+          "q": "Que signifie la mention « confirmée en 2023 » pour l'ISO/IEC 17025:2017 ?",
+          "options": [
+            "La norme est annulée",
+            "La norme a été réexaminée et reste en vigueur",
+            "Une nouvelle édition est parue",
+            "La norme est remplacée par l'ISO 9001"
+          ],
+          "correct": 1,
+          "correction": "La confirmation quinquennale signifie que l'ISO a réexaminé la norme et décidé de la maintenir sans changement : l'édition 2017 reste la référence."
+        },
+        {
+          "type": "qcm",
+          "q": "Un technicien consacre 1,5 h par semaine à la veille sur 46 semaines d'activité. Quel est le volume annuel ?",
+          "options": [
+            "46 h",
+            "58 h",
+            "69 h",
+            "72 h"
+          ],
+          "correct": 2,
+          "correction": "1,5 × 46 = 69 h par an, soit environ 1,3 journée de travail à planifier dans la charge de l'équipe.",
+          "contexte": "Chiffrage du temps consacré à la veille dans un laboratoire.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Sur 120 informations collectées, 30 sont jugées pertinentes. Quel est le taux de pertinence ?",
+          "options": [
+            "20 %",
+            "25 %",
+            "30 %",
+            "40 %"
+          ],
+          "correct": 1,
+          "correction": "30/120 × 100 = 25 %. Ce taux aide à ajuster le périmètre et les sources de veille.",
+          "contexte": "Évaluation de l'efficacité du dispositif de veille.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "24 alertes réglementaires ont été reçues dans l'année ; 18 ont été traitées dans le délai. Quel est le taux de traitement dans les délais ?",
+          "options": [
+            "66,7 %",
+            "72 %",
+            "75 %",
+            "80 %"
+          ],
+          "correct": 2,
+          "correction": "18/24 × 100 = 75 %. L'indicateur est suivi en revue de direction comme preuve de la réactivité du laboratoire.",
+          "contexte": "Indicateur de pilotage du processus de veille réglementaire.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Quel document occupe le sommet de la pyramide documentaire interne ?",
+          "options": [
+            "Le manuel qualité",
+            "Le mode opératoire",
+            "L'enregistrement",
+            "Le rapport d'audit"
+          ],
+          "correct": 0,
+          "correction": "Pyramide : manuel qualité → procédures → modes opératoires → enregistrements. Le manuel qualité exprime la politique et l'organisation."
+        },
+        {
+          "type": "qcm",
+          "q": "Où sont publiés officiellement les arrêtés en France ?",
+          "options": [
+            "Sur un blog professionnel",
+            "Au Journal officiel / sur Légifrance",
+            "Dans le catalogue d'un fournisseur",
+            "Dans une revue scientifique"
+          ],
+          "correct": 1,
+          "correction": "Le Journal officiel de la République française et Légifrance sont les sources officielles et opposables des textes réglementaires."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle norme fixe les exigences de compétence des laboratoires d'essais ?",
+          "options": [
+            "ISO 9001",
+            "ISO/IEC 17025",
+            "ISO 14001",
+            "ISO 45001"
+          ],
+          "correct": 1,
+          "correction": "L'ISO/IEC 17025:2017 est la norme de référence pour l'accréditation des laboratoires d'essais et d'étalonnage."
+        },
+        {
+          "type": "texte",
+          "q": "Distinguer veille technologique et veille réglementaire, avec un exemple en contrôle laitier.",
+          "reponse": "La veille technologique suit les évolutions des méthodes et des appareils : par exemple l'arrivée d'un automate de lecture DAS ou d'un nouveau test de dépistage, afin d'évaluer son intérêt. La veille réglementaire suit les textes opposables : par exemple une modification de LMR pour un antibiotique ou une nouvelle version de l'ISO/TS 23758 imposant de révalider la méthode.",
+          "correction": "Les deux veilles sont complémentaires : une innovation technique n'est adoptée que si elle respecte la réglementation en vigueur, et un changement réglementaire peut imposer une évolution technique."
+        },
+        {
+          "type": "texte",
+          "q": "Comment exploiter une information de veille dans un laboratoire accrédité ISO/IEC 17025 ?",
+          "reponse": "On l'enregistre dans le journal de veille avec sa référence exacte, on évalue son impact sur les méthodes, les appareils, les compétences et les documents, puis on décide d'une action : révision du mode opératoire, révalidation, formation ou action corrective. On nomme un responsable et une échéance, on diffuse l'information et on archive la preuve de cette diffusion.",
+          "correction": "L'information non exploitée n'a aucune valeur : la traçabilité exigée porte sur la décision prise et sur la maîtrise de la version documentaire qui en résulte (§7.5 et §8.2)."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "La veille transforme une information extérieure en décision interne documentée : c'est un processus du SMQ au même titre que l'audit ou la maîtrise des documents."
+        },
+        {
+          "type": "formule",
+          "titre": "Indicateurs de veille",
+          "eq": "taux de pertinence = retenues / collectées × 100   ·   taux de traitement = traitées à temps / alertes × 100",
+          "leg": "Hiérarchie : réglementation > normes > manuel qualité > procédures > modes opératoires > enregistrements"
+        },
+        {
+          "type": "grille",
+          "titre": "Les grandes familles de sources",
+          "items": [
+            [
+              "Internes",
+              "Procédures, rapports, NON-C, indicateurs",
+              "expérience du labo"
+            ],
+            [
+              "Institutionnelles",
+              "JO, Légifrance, RNCP, ANSES, DGAL",
+              "opposables"
+            ],
+            [
+              "Normatives",
+              "ISO, AFNOR, COFRAC, ISO/TS 23758",
+              "référentiels"
+            ],
+            [
+              "Scientifiques",
+              "Revues, congrès, fabricants",
+              "innovation"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Ce qui doit être tracé dans le journal de veille",
+          "items": [
+            "Date de l'information et de son traitement",
+            "Source exacte et référence (version, statut, date d'entrée en vigueur)",
+            "Analyse de pertinence et impact sur les méthodes ou documents",
+            "Décision prise, responsable désigné et échéance",
+            "Preuve de diffusion et archivage des versions antérieures"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Mettre en place une veille",
+          "items": [
+            "Délimiter le périmètre : thèmes, matrices, textes suivis",
+            "Choisir les sources internes et externes et les alerts",
+            "Fixer la fréquence de revue (hebdomadaire ou mensuelle)",
+            "Collecter, filtrer et analyser l'impact de chaque information",
+            "Décider d'une action, diffuser, archiver et mesurer les indicateurs"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Les pièges classiques",
+          "items": [
+            "Se fier à une information de blog non datée plutôt qu'au Journal officiel",
+            "Confondre norme et texte réglementaire : seul le texte est opposable",
+            "Oublier de vérifier le statut et la version d'une norme",
+            "Collecter sans jamais exploiter ni tracer la décision",
+            "Conserver uniquement la dernière version d'un document"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">1,5 × 46</span> = 69 h/an de veille",
+            "<span class=\"cle\">30/120</span> = 25 % d'informations pertinentes",
+            "<span class=\"cle\">18/24</span> = 75 % d'alertes traitées à temps",
+            "<span class=\"cle\">ISO 17025:2017</span> confirmée en 2023",
+            "<span class=\"cle\">ISO/TS 23758:2021</span> = dépistage lait"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Des sources externes aux décisions internes",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Hiérarchie des sources d'information de la veille vers la décision interne\">\n      <defs><marker id=\"bioE1f3s1\" markerWidth=\"7\" markerHeight=\"7\" refX=\"6\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L6 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs>\n      <text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"15\" font-weight=\"bold\">Des sources à la décision</text>\n      <rect x=\"12\" y=\"38\" width=\"636\" height=\"42\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/>\n      <text x=\"26\" y=\"57\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Sources externes</text>\n      <text x=\"26\" y=\"73\" fill=\"var(--fg)\" font-size=\"10\">JO / Légifrance · ISO · AFNOR · COFRAC · ANSES · revues · fabricants</text>\n      <line x1=\"330\" y1=\"81\" x2=\"330\" y2=\"94\" stroke=\"var(--ac)\" stroke-width=\"1.6\" marker-end=\"url(#bioE1f3s1)\"/>\n      <rect x=\"12\" y=\"98\" width=\"636\" height=\"42\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/>\n      <text x=\"26\" y=\"117\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Sources internes</text>\n      <text x=\"26\" y=\"133\" fill=\"var(--fg)\" font-size=\"10\">procédures · rapports de validation · non-conformités · audits · indicateurs · LIMS</text>\n      <line x1=\"330\" y1=\"141\" x2=\"330\" y2=\"154\" stroke=\"var(--ac)\" stroke-width=\"1.6\" marker-end=\"url(#bioE1f3s1)\"/>\n      <rect x=\"12\" y=\"158\" width=\"636\" height=\"34\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/>\n      <text x=\"26\" y=\"179\" fill=\"var(--dim)\" font-size=\"11\">Exploitation : mode opératoire · révalidation · formation · action corrective · journal de veille</text>\n     </svg>"
+        },
+        {
+          "titre": "2 · Pyramide documentaire et hiérarchie des sources",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Pyramide documentaire du manuel qualité aux enregistrements\">\n      <text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"15\" font-weight=\"bold\">Hiérarchie : le plus opposable en haut</text>\n      <rect x=\"30\" y=\"36\" width=\"600\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/>\n      <text x=\"330\" y=\"55\" text-anchor=\"middle\" fill=\"var(--warn)\" font-size=\"11\" font-weight=\"bold\">Textes réglementaires · normes · référentiels d'accréditation</text>\n      <rect x=\"90\" y=\"72\" width=\"480\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/>\n      <text x=\"330\" y=\"91\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\">Manuel qualité · politique et organisation</text>\n      <rect x=\"150\" y=\"108\" width=\"360\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/>\n      <text x=\"330\" y=\"127\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\">Procédures · qui fait quoi et quand</text>\n      <rect x=\"210\" y=\"144\" width=\"240\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/>\n      <text x=\"330\" y=\"163\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\">Modes opératoires · comment faire</text>\n      <text x=\"330\" y=\"192\" text-anchor=\"middle\" fill=\"var(--dim)\" font-size=\"10\">Enregistrements = preuves, lisibles et attribués : jamais moins exigeants que la norme</text>\n      <text x=\"638\" y=\"153\" text-anchor=\"end\" fill=\"var(--fg)\" font-size=\"9\">traçabilité</text>\n     </svg>"
+        },
+        {
+          "titre": "3 · Le processus de veille en 6 étapes",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Les six étapes du processus de veille technologique et réglementaire\">\n      <defs><marker id=\"bioE1f3s3\" markerWidth=\"7\" markerHeight=\"7\" refX=\"6\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L6 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs>\n      <text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"15\" font-weight=\"bold\">Un processus cyclique et tracé</text>\n      <g font-size=\"11\" text-anchor=\"middle\">\n        <rect x=\"12\" y=\"40\" width=\"200\" height=\"44\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"112\" y=\"67\" fill=\"var(--fg)\">1. Définir le périmètre</text>\n        <rect x=\"230\" y=\"40\" width=\"200\" height=\"44\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"330\" y=\"67\" fill=\"var(--fg)\">2. Choisir les sources</text>\n        <rect x=\"448\" y=\"40\" width=\"200\" height=\"44\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"548\" y=\"67\" fill=\"var(--fg)\">3. Fixer la fréquence</text>\n        <rect x=\"448\" y=\"112\" width=\"200\" height=\"44\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"548\" y=\"139\" fill=\"var(--fg)\">4. Collecter / filtrer</text>\n        <rect x=\"230\" y=\"112\" width=\"200\" height=\"44\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"330\" y=\"139\" fill=\"var(--fg)\">5. Analyser l'impact</text>\n        <rect x=\"12\" y=\"112\" width=\"200\" height=\"44\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/><text x=\"112\" y=\"139\" fill=\"var(--fg)\">6. Décider / archiver</text>\n      </g>\n      <g stroke=\"var(--ac)\" stroke-width=\"1.6\" marker-end=\"url(#bioE1f3s3)\">\n        <line x1=\"213\" y1=\"62\" x2=\"228\" y2=\"62\"/><line x1=\"431\" y1=\"62\" x2=\"446\" y2=\"62\"/>\n        <line x1=\"548\" y1=\"86\" x2=\"548\" y2=\"110\"/><line x1=\"446\" y1=\"134\" x2=\"432\" y2=\"134\"/><line x1=\"228\" y1=\"134\" x2=\"214\" y2=\"134\"/>\n      </g>\n      <text x=\"330\" y=\"186\" text-anchor=\"middle\" fill=\"var(--dim)\" font-size=\"10\">Journal de veille : date, source, référence, décision, responsable, échéance</text>\n     </svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Qualité et gestion du laboratoire",
+      "titre": "Chapitre 19 · Analyse d'une procédure et points critiques (BTS1)",
+      "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025 (BTS BIOALC, RNCP38884, U7) · NF EN ISO/IEC 17025:2017 (§7.1 à 7.7 : échantillonnage, manipulation, enregistrements, validité des résultats) · ISO/TS 23758:2021 · ISO 5725 · VIM3 JCGM 200:2012 · Guide HACCP du Codex Alimentarius (principes et points critiques) · AFNOR · Cofrac LAB REF 02",
+      "points": [
+        "Analyser une procédure consiste à décomposer le parcours d'un échantillon en étapes et à repérer, pour chacune, ce qui peut introduire une erreur, afin de maîtriser la fiabilité du résultat rendu au client.",
+        "La procédure se divise en trois phases : pré-analytique (commande, échantillonnage, transport, réception, identification, conservation, préparation), analytique (analyse, étalonnage, témoins, lecture, calcul) et post-analytique (contrôle de validité, interprétation, communication, archivage, conservation ou élimination des échantillons).",
+        "La phase pré-analytique est la plus source d'erreurs : prélèvement non représentatif, délai ou température de transport inadaptés, contamination croisée, erreur d'identification, altération de l'échantillon, conditions de conservation non conformes. Un résultat parfait sur un mauvais échantillon reste un mauvais résultat.",
+        "L'analyse de risque consiste, pour chaque étape, à identifier le danger (source d'erreur), estimer sa gravité et sa fréquence d'occurrence, en déduire un niveau de risque (par exemple risque = gravité × occurrence sur une échelle de 1 à 4) et définir une maîtrise proportionnée.",
+        "Un point critique est une étape où la maîtrise est indispensable : une déviation y conduit à un résultat invalide. La notion est proche du point de contrôle critique (CCP) du système HACCP, appliqué ici à la fiabilité analytique plutôt qu'à la salubrité de l'aliment.",
+        "Les outils d'analyse sont le diagramme de flux (logigramme de la procédure), l'analyse des modes de défaillance et de leurs effets (FMEA : effet, cause, détection, criticité), l'arbre des causes, la méthode des 5 Pourquoi et le diagramme d'Ishikawa classant les causes en 5 M : Main-d'œuvre, Matériel, Matières, Méthodes, Milieu.",
+        "Les maîtrises possibles sont : procédures et modes opératoires écrits, formation et habilitation, témoins négatif et positif, contrôles internes de qualité, cartes de contrôle, maintenance et étalonnage, traçabilité des lots de réactifs, double contrôle des saisies et vérification des calculs.",
+        "Un faux positif est un résultat déclaré positif alors que l'échantillon ne contient pas l'analyte au-delà de la limite ; un faux négatif est un résultat déclaré négatif alors que l'analyte dépasse la limite. Le faux négatif est le plus dangereux en sécurité sanitaire : un lait contaminé peut être distribué.",
+        "Les performances d'un test se mesurent par la sensibilité Se = VP/(VP+FN) et la spécificité Sp = VN/(VN+FP). Les valeurs prédictives positive VPP = VP/(VP+FP) et négative VPN = VN/(VN+FN) dépendent en plus de la prévalence de la contamination dans la population testée.",
+        "Le témoin négatif (blanc sans analyte, traité exactement comme un échantillon) doit donner un résultat négatif : s'il est positif, la série est invalide et il faut rechercher une contamination, un réactif périmé ou une erreur. Le témoin positif, dopé près de la limite, doit être détecté ; sinon la méthode perd en sensibilité.",
+        "Le plan de maîtrise présente sous forme de tableau : étape, risque identifié, critère à respecter, mode de surveillance, action corrective, responsable et enregistrement. Il est révisé après une non-conformité, une réclamation, un audit ou une modification de méthode (ISO 17025 §8.7).",
+        "Exemple laitier : un point critique est la lecture du test de dépistage après incubation (température prescrite, durée exacte, lecture instrumentée). Une dérive de température peut produire des faux négatifs ; les maîtrises sont l'enregistreur de température avec alarme, la vérification quotidienne, le témoin positif à chaque série et la traçabilité du lot de réactifs."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle phase d'une analyse est la plus source d'erreurs ?",
+          "options": [
+            "La phase pré-analytique",
+            "La phase analytique",
+            "La phase post-analytique",
+            "La communication des résultats"
+          ],
+          "correct": 0,
+          "correction": "Les erreurs d'échantillonnage, d'identification, de transport et de conservation surviennent avant l'analyse et ne peuvent plus être corrigées ensuite."
+        },
+        {
+          "type": "qcm",
+          "q": "Que faut-il faire si le témoin négatif d'une série donne un résultat positif ?",
+          "options": [
+            "Valider la série",
+            "Invalider la série et rechercher la cause avant de reprendre",
+            "Augmenter la température d'incubation",
+            "Modifier le résultat des échantillons"
+          ],
+          "correct": 1,
+          "correction": "Un témoin négatif positif révèle une contamination ou une erreur : la série entière est invalide, les analyses doivent être reprises après action corrective."
+        },
+        {
+          "type": "qcm",
+          "q": "Sur 100 échantillons, 40 sont réellement positifs ; le test donne 36 vrais positifs et 4 faux négatifs. Quelle est la sensibilité ?",
+          "options": [
+            "80 %",
+            "85 %",
+            "90 %",
+            "95 %"
+          ],
+          "correct": 2,
+          "correction": "Se = VP/(VP+FN) = 36/(36+4) = 36/40 = 90 %.",
+          "contexte": "Bilan de performance d'un test de dépistage des résidus dans le lait.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Dans le même essai, les 60 échantillons négatifs donnent 54 vrais négatifs et 6 faux positifs. Quel est le taux de faux positifs ?",
+          "options": [
+            "5 %",
+            "6 %",
+            "10 %",
+            "15 %"
+          ],
+          "correct": 2,
+          "correction": "Taux de faux positifs = FP/(VN+FP) = 6/60 = 10 % ; la spécificité correspondante vaut 54/60 = 90 %.",
+          "contexte": "Estimation de la spécificité et des faux positifs d'une méthode de dépistage.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Sur une échelle de gravité et d'occurrence de 1 à 4, une étape a une gravité de 4 et une occurrence de 3. Quelle est sa criticité ?",
+          "options": [
+            "7",
+            "9",
+            "11",
+            "12"
+          ],
+          "correct": 3,
+          "correction": "Criticité = gravité × occurrence = 4 × 3 = 12, au-dessus du seuil d'action fixé à 8 : cette étape est un point critique à maîtriser en priorité.",
+          "contexte": "Priorisation des points critiques par analyse FMEA simplifiée.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Dans un tableau de contingence, que signifie VN ?",
+          "options": [
+            "Vrai négatif",
+            "Valeur normée",
+            "Validation négative",
+            "Volume net"
+          ],
+          "correct": 0,
+          "correction": "VN = vrai négatif : l'échantillon est conforme et le test donne un résultat négatif."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel outil classe les causes d'un défaut en 5 M (Main-d'œuvre, Matériel, Matières, Méthodes, Milieu) ?",
+          "options": [
+            "Le diagramme d'Ishikawa",
+            "La carte de contrôle",
+            "Le diagramme de Gantt",
+            "La courbe de Pareto seule"
+          ],
+          "correct": 0,
+          "correction": "Le diagramme d'Ishikawa (arête de poisson) structure la recherche des causes selon les 5 M ; la carte de contrôle sert à surveiller la dérive."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi le faux négatif est-il considéré comme le plus grave en contrôle laitier ?",
+          "options": [
+            "Il coûte plus cher que le faux positif",
+            "Il laisse passer un lait contaminé vers le consommateur",
+            "Il augmente le débit du laboratoire",
+            "Il supprime la traçabilité"
+          ],
+          "correct": 1,
+          "correction": "Un faux négatif expose le consommateur à un résidu d'antibiotique au-delà de la LMR : le risque sanitaire prime sur le coût d'un faux positif, qui sera confirmé ultérieurement."
+        },
+        {
+          "type": "texte",
+          "q": "Décrire les trois phases d'une procédure d'analyse en donnant un risque pour chacune.",
+          "reponse": "Pré-analytique : réception et identification d'un lait ; risque d'erreur d'étiquetage ou de délai de transport incompatible avec la conservation. Analytique : incubation et lecture du test de dépistage ; risque de dérive de température ou de réactif périmé donnant un faux négatif. Post-analytique : validation et transmission du résultat ; risque d'erreur de transcription, d'interprétation ou d'archivage incomplet.",
+          "correction": "Chaque phase doit être couverte par un mode opératoire, des enregistrements et des points de maîtrise : la fiabilité du résultat dépend de la chaîne complète, pas du seul geste analytique."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer le rôle du témoin négatif et la conduite à tenir s'il devient positif.",
+          "reponse": "Le témoin négatif est un échantillon sans analyte, soumis à toutes les étapes comme un échantillon réel. Il vérifie que le milieu, les réactifs et la manipulation n'apportent pas de réponse non spécifique. S'il devient positif, la série est invalide : on arrête la validation des résultats, on recherche la cause (contamination croisée, lot de réactifs, erreur de pipetage, incubation), on corrige, puis on reprend les analyses avec un nouveau témoin conforme.",
+          "correction": "Le témoin positif complète le dispositif : il doit être détecté, ce qui prouve que la méthode est capable de trouver l'analyte à la concentration cible."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Analyser une procédure, c'est suivre l'échantillon étape par étape et placer les bons points de maîtrise là où une erreur changerait le résultat."
+        },
+        {
+          "type": "formule",
+          "titre": "Performances et criticité",
+          "eq": "Se = VP/(VP+FN)   ·   Sp = VN/(VN+FP)   ·   criticité = gravité × occurrence",
+          "leg": "VPP = VP/(VP+FP) · VPN = VN/(VN+FN) · seuil d'action à définir à l'avance"
+        },
+        {
+          "type": "grille",
+          "titre": "Les 3 phases et un risque type",
+          "items": [
+            [
+              "Pré-analytique",
+              "Transport, identification, conservation",
+              "erreur d'échantillon"
+            ],
+            [
+              "Analytique",
+              "Incubation, lecture, calcul",
+              "dérive, faux négatif"
+            ],
+            [
+              "Post-analytique",
+              "Validation, transmission, archivage",
+              "erreur de saisie"
+            ],
+            [
+              "Transverse",
+              "Traçabilité et témoins",
+              "série invalide"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Les points de maîtrise à vérifier",
+          "items": [
+            "Mode opératoire versionné et personnel habilité à chaque étape",
+            "Témoin négatif et témoin positif dans chaque série",
+            "Enregistrement des températures, durées et lots de réactifs",
+            "Contrôle interne de qualité et cartes de contrôle",
+            "Plan de maîtrise mis à jour après non-conformité"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Analyser une procédure",
+          "items": [
+            "Dessiner le logigramme complet de la procédure",
+            "Pour chaque étape, identifier le danger et sa cause (5 M, Ishikawa)",
+            "Estimer gravité et occurrence, calculer la criticité",
+            "Désigner les points critiques et choisir les maîtrises",
+            "Renseigner le plan de maîtrise : critère, surveillance, action, responsable",
+            "Réviser le plan après tout écart ou changement de méthode"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Les pièges classiques",
+          "items": [
+            "Ne surveiller que l'étape analytique et négliger le pré-analytique",
+            "Confondre faux positif et faux négatif",
+            "Oublier qu'un témoin négatif positif invalide toute la série",
+            "Croire qu'une sensibilité de 90 % concerne les échantillons négatifs",
+            "Laisser un plan de maîtrise sans action corrective ni responsable"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">36/(36+4)</span> = 90 % de sensibilité",
+            "<span class=\"cle\">6/60</span> = 10 % de faux positifs",
+            "<span class=\"cle\">4 × 3</span> = criticité 12 (seuil 8)",
+            "<span class=\"cle\">Se ≠ Sp</span> : VP/(VP+FN) vs VN/(VN+FP)",
+            "<span class=\"cle\">Témoin négatif +</span> = série invalide"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Les 3 phases de la procédure et leurs risques",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Phases pré-analytique analytique et post-analytique avec leurs risques et maîtrises\">\n      <defs><marker id=\"bioE1f4s1\" markerWidth=\"7\" markerHeight=\"7\" refX=\"6\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L6 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs>\n      <text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"15\" font-weight=\"bold\">Le parcours de l'échantillon</text>\n      <rect x=\"12\" y=\"38\" width=\"196\" height=\"126\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/>\n      <text x=\"24\" y=\"60\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">Pré-analytique</text>\n      <text x=\"24\" y=\"84\" fill=\"var(--fg)\" font-size=\"10\">commande, prélèvement</text>\n      <text x=\"24\" y=\"104\" fill=\"var(--fg)\" font-size=\"10\">transport, réception</text>\n      <text x=\"24\" y=\"124\" fill=\"var(--warn)\" font-size=\"10\">risque : erreur d'ID, délai</text>\n      <text x=\"24\" y=\"148\" fill=\"var(--dim)\" font-size=\"10\">maîtrise : conditions, traçabilité</text>\n      <line x1=\"210\" y1=\"100\" x2=\"224\" y2=\"100\" stroke=\"var(--ac)\" stroke-width=\"1.6\" marker-end=\"url(#bioE1f4s1)\"/>\n      <rect x=\"228\" y=\"38\" width=\"196\" height=\"126\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/>\n      <text x=\"240\" y=\"60\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">Analytique</text>\n      <text x=\"240\" y=\"84\" fill=\"var(--fg)\" font-size=\"10\">préparation, incubation</text>\n      <text x=\"240\" y=\"104\" fill=\"var(--fg)\" font-size=\"10\">lecture, calcul</text>\n      <text x=\"240\" y=\"124\" fill=\"var(--warn)\" font-size=\"10\">risque : dérive, faux négatif</text>\n      <text x=\"240\" y=\"148\" fill=\"var(--dim)\" font-size=\"10\">maîtrise : témoins, CIQ</text>\n      <line x1=\"426\" y1=\"100\" x2=\"440\" y2=\"100\" stroke=\"var(--ac)\" stroke-width=\"1.6\" marker-end=\"url(#bioE1f4s1)\"/>\n      <rect x=\"444\" y=\"38\" width=\"204\" height=\"126\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/>\n      <text x=\"456\" y=\"60\" fill=\"var(--warn)\" font-size=\"12\" font-weight=\"bold\">Post-analytique</text>\n      <text x=\"456\" y=\"84\" fill=\"var(--fg)\" font-size=\"10\">validation, interprétation</text>\n      <text x=\"456\" y=\"104\" fill=\"var(--fg)\" font-size=\"10\">transmission, archivage</text>\n      <text x=\"456\" y=\"124\" fill=\"var(--warn)\" font-size=\"10\">risque : erreur de saisie</text>\n      <text x=\"456\" y=\"148\" fill=\"var(--dim)\" font-size=\"10\">maîtrise : double contrôle</text>\n      <text x=\"330\" y=\"184\" text-anchor=\"middle\" fill=\"var(--dim)\" font-size=\"10\">Un résultat fiable exige une chaîne complète maîtrisée</text>\n     </svg>"
+        },
+        {
+          "titre": "2 · Plan de maîtrise des points critiques",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Tableau de plan de maîtrise avec étape risque maîtrise et enregistrement\">\n      <text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"15\" font-weight=\"bold\">Exemple de plan de maîtrise (lait)</text>\n      <g font-size=\"10\" fill=\"var(--fg)\">\n        <rect x=\"12\" y=\"36\" width=\"636\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n        <text x=\"22\" y=\"55\" font-weight=\"bold\">Étape</text><text x=\"168\" y=\"55\" font-weight=\"bold\">Risque</text><text x=\"330\" y=\"55\" font-weight=\"bold\">Maîtrise</text><text x=\"500\" y=\"55\" font-weight=\"bold\">Enregistrement</text>\n        <rect x=\"12\" y=\"64\" width=\"636\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n        <text x=\"22\" y=\"83\">Réception</text><text x=\"168\" y=\"83\">erreur d'identification</text><text x=\"330\" y=\"83\">code-barres, double contrôle</text><text x=\"500\" y=\"83\">fiche de réception</text>\n        <rect x=\"12\" y=\"92\" width=\"636\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n        <text x=\"22\" y=\"111\">Conservation</text><text x=\"168\" y=\"111\">rupture de la chaîne du froid</text><text x=\"330\" y=\"111\">registre + alarme température</text><text x=\"500\" y=\"111\">courbe de T°</text>\n        <rect x=\"12\" y=\"120\" width=\"636\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/>\n        <text x=\"22\" y=\"139\">Incubation</text><text x=\"168\" y=\"139\">dérive → faux négatif</text><text x=\"330\" y=\"139\">témoin +, durée et T° prescrites</text><text x=\"500\" y=\"139\">fiche de série</text>\n        <rect x=\"12\" y=\"148\" width=\"636\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n        <text x=\"22\" y=\"167\">Rendu</text><text x=\"168\" y=\"167\">erreur de transcription</text><text x=\"330\" y=\"167\">validation avant diffusion</text><text x=\"500\" y=\"167\">rapport signé</text>\n      </g>\n      <line x1=\"160\" y1=\"36\" x2=\"160\" y2=\"176\" stroke=\"var(--dim)\"/><line x1=\"322\" y1=\"36\" x2=\"322\" y2=\"176\" stroke=\"var(--dim)\"/><line x1=\"492\" y1=\"36\" x2=\"492\" y2=\"176\" stroke=\"var(--dim)\"/>\n      <text x=\"330\" y=\"194\" text-anchor=\"middle\" fill=\"var(--dim)\" font-size=\"10\">Critère · surveillance · action corrective · responsable · enregistrement</text>\n     </svg>"
+        },
+        {
+          "titre": "3 · Tableau de contingence et performances",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Tableau de contingence vrais positifs faux négatifs faux positifs vrais négatifs et formules de sensibilité et spécificité\">\n      <text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"15\" font-weight=\"bold\">Lire un tableau de contingence</text>\n      <g font-size=\"11\" fill=\"var(--fg)\" text-anchor=\"middle\">\n        <rect x=\"40\" y=\"40\" width=\"140\" height=\"30\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/><text x=\"110\" y=\"60\">Test positif</text>\n        <rect x=\"180\" y=\"40\" width=\"140\" height=\"30\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/><text x=\"250\" y=\"60\">Test négatif</text>\n        <text x=\"20\" y=\"92\" font-size=\"10\">Réel +</text><text x=\"20\" y=\"140\" font-size=\"10\">Réel −</text>\n        <rect x=\"40\" y=\"70\" width=\"140\" height=\"42\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"110\" y=\"97\" fill=\"var(--ac)\">VP = 36</text>\n        <rect x=\"180\" y=\"70\" width=\"140\" height=\"42\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/><text x=\"250\" y=\"97\" fill=\"var(--warn)\">FN = 4</text>\n        <rect x=\"40\" y=\"119\" width=\"140\" height=\"42\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/><text x=\"110\" y=\"146\" fill=\"var(--warn)\">FP = 6</text>\n        <rect x=\"180\" y=\"119\" width=\"140\" height=\"42\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"250\" y=\"146\" fill=\"var(--ac)\">VN = 54</text>\n      </g>\n      <rect x=\"350\" y=\"42\" width=\"298\" height=\"122\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n      <text x=\"364\" y=\"66\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Performances</text>\n      <text x=\"364\" y=\"90\" fill=\"var(--fg)\" font-size=\"10\">Se = VP/(VP+FN) = 36/40 = 90 %</text>\n      <text x=\"364\" y=\"114\" fill=\"var(--fg)\" font-size=\"10\">Sp = VN/(VN+FP) = 54/60 = 90 %</text>\n      <text x=\"364\" y=\"138\" fill=\"var(--fg)\" font-size=\"10\">Taux de FP = 6/60 = 10 %</text>\n      <text x=\"364\" y=\"158\" fill=\"var(--dim)\" font-size=\"10\">VPP et VPN dépendent de la prévalence</text>\n      <text x=\"330\" y=\"188\" text-anchor=\"middle\" fill=\"var(--dim)\" font-size=\"10\">Le faux négatif laisse passer un échantillon non conforme</text>\n     </svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Qualité et gestion du laboratoire",
+      "titre": "Chapitre 20 · Comparaison de méthodes, LMR/CCβ et analyse de coûts (BTS2)",
+      "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025 (BTS BIOALC, RNCP38884, U7) · Règlement (CE) n° 396/2005 (LMR pesticides) · Règlement (UE) n° 37/2010 (LMR médicaments vétérinaires) · Règlement d'exécution (UE) 2021/808 (CCα, CCβ, performance des méthodes) · Décision 2002/657/CE (historique) · ISO/TS 23758:2021 · ISO 5725 · VIM3 JCGM 200:2012 · NF EN ISO/IEC 17025:2017 (§7.2) · AFNOR · Cofrac LAB REF 02",
+      "points": [
+        "Comparer deux méthodes d'analyse consiste à évaluer leurs performances, leur conformité réglementaire, leur coût complet et leur adéquation au besoin du laboratoire, puis à argumenter un choix et à le tracer (ISO/IEC 17025 §7.2).",
+        "Les critères de performance sont la fidélité en répétabilité et en reproductibilité (ISO 5725), la justesse ou le biais, la sensibilité et le CCβ, la spécificité, les limites de détection et de quantification (LOD, LOQ), la linéarité, la gamme de mesure, la robustesse et l'incertitude de mesure.",
+        "Les critères opérationnels complètent le comparatif : débit (échantillons par jour), délai de rendu, durée d'incubation, facilité d'exécution, qualification du personnel requis, sécurité, consommables, maintenance, interface avec le LIMS et disponibilité des fournitures.",
+        "Les limites maximales de résidus (LMR) sont fixées par le règlement (CE) n° 396/2005 pour les pesticides et par le règlement (UE) n° 37/2010 pour les médicaments vétérinaires. Exemple : la LMR de la benzylpénicilline dans le lait est de 4 µg/kg, soit 4 ppb. Les résultats sont exprimés en µg/kg ou µg/L.",
+        "La limite de décision CCα est la concentration à partir de laquelle on peut conclure, avec une probabilité d'erreur α (souvent 1 % ou 5 %), que l'échantillon est non conforme. La capacité de détection CCβ est la plus petite concentration pour laquelle la méthode détecte et/ou identifie l'analyte avec une probabilité 1−β, généralement 95 %.",
+        "Pour une méthode de dépistage qualitative, le critère réglementaire est CCβ < LMR : la méthode doit détecter une teneur inférieure à la limite autorisée, sinon elle laisse passer des échantillons non conformes. Pour une méthode de confirmation, on exige CCα ≤ LMR et une identification conforme aux critères du règlement 2021/808.",
+        "La sensibilité Se = VP/(VP+FN) mesure la capacité de la méthode à donner positif quand l'analyte est présent ; la spécificité Sp = VN/(VN+FP) mesure sa capacité à donner négatif quand il est absent. Un dépistage privilégie la sensibilité : quelques faux positifs sont acceptables puisqu'ils seront confirmés ensuite.",
+        "Les valeurs prédictives VPP = VP/(VP+FP) et VPN = VN/(VN+FN) dépendent de la prévalence : quand la contamination est rare, la valeur prédictive positive est faible, même avec une bonne sensibilité et une bonne spécificité. Ce paramètre est essentiel pour interpréter un résultat de dépistage.",
+        "Le coût complet d'une analyse comprend les coûts directs (réactifs, consommables, main-d'œuvre, maintenance, étalonnage, déchets) et les coûts indirects (formation, qualification de l'appareil, validation de la méthode, logiciel, frais généraux). Le coût unitaire se calcule par : coût total / nombre d'analyses réalisées sur la période.",
+        "Exemple chiffré pour un automate de lecture : amortissement 40 000 € sur 200 000 analyses = 0,20 € ; réactifs et consommables 1,80 € ; main-d'œuvre 4 min à 45 €/h = 3,00 € ; maintenance et contrôles 0,50 €. Coût complet = 0,20 + 1,80 + 3,00 + 0,50 = 5,50 € par analyse.",
+        "Le comparatif oppose typiquement une méthode microbiologique de dépistage (test Delvotest lu par DAS : 24 à 48 h, faible coût, CCβ de l'ordre de quelques µg/kg) à une méthode de confirmation par LC-MS/MS (quelques heures, coût élevé, CCα/CCβ plus bas et identification moléculaire). Le dépistage filtre ; la confirmation décide.",
+        "Le choix est argumenté à l'aide d'un tableau pondéré (par exemple performances 40 %, coût 30 %, délai 20 %, mise en œuvre 10 %) : on retient la méthode qui satisfait d'abord la contrainte réglementaire CCβ < LMR, puis le besoin de délai, de débit et de budget. La décision est consignée dans une note de cadrage, la méthode retenue est validée, puis ses indicateurs sont surveillés après déploiement."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel critère réglementaire doit respecter une méthode qualitative de dépistage ?",
+          "options": [
+            "CCβ > LMR",
+            "CCβ < LMR",
+            "CCα = 0",
+            "LOQ > LMR"
+          ],
+          "correct": 1,
+          "correction": "La capacité de détection CCβ doit être inférieure à la LMR : la méthode détecte une teneur plus faible que la limite autorisée et évite les faux négatifs (ISO/TS 23758:2021, règlement 2021/808)."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment calcule-t-on la sensibilité d'un test ?",
+          "options": [
+            "VP/(VP+FP)",
+            "VN/(VN+FP)",
+            "VP/(VP+FN)",
+            "VN/(VN+FN)"
+          ],
+          "correct": 2,
+          "correction": "Se = VP/(VP+FN) : proportion d'échantillons réellement positifs correctement détectés. Sp = VN/(VN+FP)."
+        },
+        {
+          "type": "qcm",
+          "q": "Amortissement 0,20 € + réactifs 1,80 € + main-d'œuvre 3,00 € + maintenance 0,50 € : quel est le coût complet par analyse ?",
+          "options": [
+            "4,00 €",
+            "5,00 €",
+            "5,50 €",
+            "6,00 €"
+          ],
+          "correct": 2,
+          "correction": "Coût complet = 0,20 + 1,80 + 3,00 + 0,50 = 5,50 € par analyse. La main-d'œuvre correspond à 4 min à 45 €/h, soit 0,0667 h × 45 = 3,00 €.",
+          "contexte": "Comparaison du coût complet d'un automate de lecture de tests de dépistage.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "La LMR est de 4 µg/kg et le CCβ de 3,2 µg/kg. Quelle est la marge absolue ?",
+          "options": [
+            "0,08 µg/kg",
+            "0,8 µg/kg",
+            "1,2 µg/kg",
+            "7,2 µg/kg"
+          ],
+          "correct": 1,
+          "correction": "Marge = LMR − CCβ = 4 − 3,2 = 0,8 µg/kg, soit 20 % de la LMR.",
+          "contexte": "Vérification de la conformité d'une méthode de dépistage au regard de la LMR.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Sur 100 échantillons : 30 VP, 10 FN, 50 VN, 10 FP. Quelle est la spécificité ?",
+          "options": [
+            "75 %",
+            "80 %",
+            "83,3 %",
+            "90 %"
+          ],
+          "correct": 2,
+          "correction": "Sp = VN/(VN+FP) = 50/(50+10) = 50/60 = 83,3 %. La sensibilité vaut 30/(30+10) = 75 %.",
+          "contexte": "Calcul des performances à partir d'un tableau de contingence.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle méthode est utilisée pour confirmer un dépistage positif d'antibiotique dans le lait ?",
+          "options": [
+            "Le test microbiologique seul",
+            "La LC-MS/MS",
+            "Une lecture visuelle répétée",
+            "Le témoin négatif"
+          ],
+          "correct": 1,
+          "correction": "La LC-MS/MS associe séparation chromatographique et détection massique : elle identifie et quantifie l'analyte selon les critères du règlement 2021/808."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel paramètre fait varier la valeur prédictive positive d'un test ?",
+          "options": [
+            "La prévalence",
+            "La couleur du réactif",
+            "Le numéro de lot uniquement",
+            "La taille du local"
+          ],
+          "correct": 0,
+          "correction": "VPP = VP/(VP+FP) dépend de la prévalence : plus la contamination est rare, plus une proportion élevée de positifs sont de faux positifs."
+        },
+        {
+          "type": "qcm",
+          "q": "Que représente l'incertitude de mesure d'un résultat ?",
+          "options": [
+            "Une erreur de saisie",
+            "L'intervalle caractérisant la dispersion des valeurs attribuables au mesurande",
+            "La différence entre deux laboratoires",
+            "La LMR du produit"
+          ],
+          "correct": 1,
+          "correction": "Selon le VIM3, l'incertitude de mesure est un paramètre non négatif caractérisant la dispersion des valeurs attribuées à un grandeur, autour du résultat (ISO/IEC 17025 §7.6)."
+        },
+        {
+          "type": "texte",
+          "q": "Distinguer CCα et CCβ et expliquer pourquoi exiger CCβ < LMR pour un dépistage.",
+          "reponse": "CCα est la limite de décision : au-delà de cette concentration, on conclut avec une probabilité d'erreur α que l'échantillon est non conforme ; elle sert surtout à la confirmation. CCβ est la capacité de détection : la plus petite teneur détectée avec une probabilité 1−β (95 %). Pour un dépistage, exiger CCβ < LMR garantit que le test détecte une contamination avant que la limite réglementaire ne soit atteinte, ce qui évite les faux négatifs et protège le consommateur.",
+          "correction": "Un CCβ supérieur à la LMR signifierait qu'un lait peut être non conforme sans être détecté : la méthode doit alors être améliorée ou remplacée avant mise en routine."
+        },
+        {
+          "type": "texte",
+          "q": "Argumenter le choix entre un dépistage microbiologique peu coûteux et une confirmation LC-MS/MS coûteuse.",
+          "reponse": "Le laboratoire reçoit un grand nombre de laits : le dépistage microbiologique (test lu par DAS) filtre rapidement les échantillons pour un coût modeste (environ 5,50 €/analyse dans l'exemple), mais il donne une réponse qualitative et doit respecter CCβ < LMR. La LC-MS/MS, beaucoup plus coûteuse, fournit une identification et une quantification conformes au règlement 2021/808. La stratégie consiste à dépister systématiquement puis confirmer uniquement les positifs, en vérifiant que le coût total et le délai restent compatibles avec l'activité.",
+          "correction": "Le choix est documenté dans un tableau comparatif pondéré, validé avant mise en routine et suivi par des indicateurs (taux de positifs confirmés, coût par résultat, délai de rendu)."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Choisir une méthode, c'est d'abord vérifier qu'elle respecte la LMR (CCβ < LMR), puis comparer performances, délais et coût complet avant d'argumenter par écrit."
+        },
+        {
+          "type": "formule",
+          "titre": "Conformité et coût unitaire",
+          "eq": "CCβ < LMR (dépistage)   ·   coût unitaire = coût total / nombre d'analyses",
+          "leg": "Se = VP/(VP+FN) · Sp = VN/(VN+FP) · VPP = VP/(VP+FP)"
+        },
+        {
+          "type": "grille",
+          "titre": "Dépistage ou confirmation ?",
+          "items": [
+            [
+              "Dépistage",
+              "Qualitatif, rapide, peu coûteux",
+              "critère CCβ < LMR"
+            ],
+            [
+              "Confirmation",
+              "LC-MS/MS, identification + dosage",
+              "critère CCα ≤ LMR"
+            ],
+            [
+              "Performance",
+              "Fidélité, justesse, LOD/LOQ, incertitude",
+              "ISO 5725, VIM3"
+            ],
+            [
+              "Coût",
+              "Direct + indirect, amortissement",
+              "€ par résultat"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Critères d'un choix argumenté",
+          "items": [
+            "Conformité réglementaire : CCβ < LMR et critères d'identification",
+            "Performances analytiques : fidélité, justesse, sensibilité, spécificité",
+            "Contraintes métier : débit, délai de rendu, durée d'incubation",
+            "Coût complet : réactifs, main-d'œuvre, amortissement, maintenance",
+            "Traçabilité de la décision et surveillance après déploiement"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Comparer puis décider",
+          "items": [
+            "Clarifier le besoin : matrices, analytes, LMR, débit, délai",
+            "Établir la liste des critères et leur pondération",
+            "Rassembler les données de performance et les devis",
+            "Vérifier le critère éliminatoire CCβ < LMR",
+            "Calculer le coût complet par analyse de chaque option",
+            "Rédiger la note de cadrage, valider et surveiller les indicateurs"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Les pièges classiques",
+          "items": [
+            "Confondre CCα (décision) et CCβ (détection)",
+            "Accepter une méthode dont le CCβ dépasse la LMR",
+            "Oublier la main-d'œuvre dans le coût complet",
+            "Croire qu'une bonne sensibilité suffit : vérifier la spécificité et la prévalence",
+            "Choisir sur le seul prix sans documenter l'argumentaire"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">0,20 + 1,80 + 3,00 + 0,50</span> = 5,50 €/analyse",
+            "<span class=\"cle\">4 − 3,2</span> = 0,8 µg/kg de marge",
+            "<span class=\"cle\">0,8/4</span> = 20 % de marge relative",
+            "<span class=\"cle\">50/60</span> = 83,3 % de spécificité",
+            "<span class=\"cle\">4 min à 45 €/h</span> = 3,00 € de main-d'œuvre"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · LMR, CCα et CCβ sur l'échelle des concentrations",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Position de CCbeta CCalpha et LMR sur une échelle de concentration et critère de dépistage\">\n      <text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"15\" font-weight=\"bold\">CCβ &lt; LMR : le critère éliminatoire</text>\n      <text x=\"16\" y=\"42\" fill=\"var(--dim)\" font-size=\"10\">Concentration (µg/kg) — exemple benzylpénicilline dans le lait</text>\n      <line x1=\"40\" y1=\"110\" x2=\"360\" y2=\"110\" stroke=\"var(--dim)\" stroke-width=\"2\"/>\n      <g stroke=\"var(--dim)\" stroke-width=\"1\">\n        <line x1=\"40\" y1=\"106\" x2=\"40\" y2=\"116\"/><line x1=\"104\" y1=\"106\" x2=\"104\" y2=\"116\"/><line x1=\"168\" y1=\"106\" x2=\"168\" y2=\"116\"/><line x1=\"232\" y1=\"106\" x2=\"232\" y2=\"116\"/><line x1=\"296\" y1=\"106\" x2=\"296\" y2=\"116\"/><line x1=\"360\" y1=\"106\" x2=\"360\" y2=\"116\"/>\n      </g>\n      <g fill=\"var(--fg)\" font-size=\"9\" text-anchor=\"middle\"><text x=\"40\" y=\"130\">0</text><text x=\"104\" y=\"130\">1</text><text x=\"168\" y=\"130\">2</text><text x=\"232\" y=\"130\">3</text><text x=\"296\" y=\"130\">4</text><text x=\"360\" y=\"130\">5</text></g>\n      <line x1=\"245\" y1=\"70\" x2=\"245\" y2=\"108\" stroke=\"var(--ac)\" stroke-width=\"2\"/>\n      <text x=\"243\" y=\"64\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\">CCβ 3,2</text>\n      <line x1=\"270\" y1=\"110\" x2=\"270\" y2=\"146\" stroke=\"var(--fg)\" stroke-width=\"2\"/>\n      <text x=\"270\" y=\"160\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"10\">CCα 3,6</text>\n      <line x1=\"296\" y1=\"70\" x2=\"296\" y2=\"108\" stroke=\"var(--warn)\" stroke-width=\"2\"/>\n      <text x=\"300\" y=\"64\" text-anchor=\"middle\" fill=\"var(--warn)\" font-size=\"10\">LMR 4</text>\n      <rect x=\"384\" y=\"42\" width=\"264\" height=\"130\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n      <text x=\"398\" y=\"64\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Définitions</text>\n      <text x=\"398\" y=\"88\" fill=\"var(--fg)\" font-size=\"10\">CCβ : détection à 95 % (1−β)</text>\n      <text x=\"398\" y=\"112\" fill=\"var(--fg)\" font-size=\"10\">CCα : décision, erreur α</text>\n      <text x=\"398\" y=\"136\" fill=\"var(--warn)\" font-size=\"10\">Dépistage : CCβ &lt; LMR</text>\n      <text x=\"398\" y=\"158\" fill=\"var(--warn)\" font-size=\"10\">Confirmation : CCα ≤ LMR</text>\n      <text x=\"180\" y=\"180\" fill=\"var(--dim)\" font-size=\"10\">Marge = 4 − 3,2 = 0,8 µg/kg (20 %)</text>\n     </svg>"
+        },
+        {
+          "titre": "2 · Tableau de contingence et performances",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Tableau de contingence avec sensibilité spécificité et valeurs prédictives\">\n      <text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"15\" font-weight=\"bold\">Lire les performances d'un test</text>\n      <g font-size=\"11\" fill=\"var(--fg)\" text-anchor=\"middle\">\n        <rect x=\"40\" y=\"40\" width=\"140\" height=\"30\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/><text x=\"110\" y=\"60\">Test positif</text>\n        <rect x=\"180\" y=\"40\" width=\"140\" height=\"30\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/><text x=\"250\" y=\"60\">Test négatif</text>\n        <text x=\"20\" y=\"92\" font-size=\"10\">Réel +</text><text x=\"20\" y=\"140\" font-size=\"10\">Réel −</text>\n        <rect x=\"40\" y=\"70\" width=\"140\" height=\"42\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"110\" y=\"97\" fill=\"var(--ac)\">VP = 30</text>\n        <rect x=\"180\" y=\"70\" width=\"140\" height=\"42\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/><text x=\"250\" y=\"97\" fill=\"var(--warn)\">FN = 10</text>\n        <rect x=\"40\" y=\"119\" width=\"140\" height=\"42\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/><text x=\"110\" y=\"146\" fill=\"var(--warn)\">FP = 10</text>\n        <rect x=\"180\" y=\"119\" width=\"140\" height=\"42\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"250\" y=\"146\" fill=\"var(--ac)\">VN = 50</text>\n      </g>\n      <rect x=\"350\" y=\"42\" width=\"298\" height=\"122\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n      <text x=\"364\" y=\"66\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Calculs</text>\n      <text x=\"364\" y=\"90\" fill=\"var(--fg)\" font-size=\"10\">Se = 30/(30+10) = 75 %</text>\n      <text x=\"364\" y=\"114\" fill=\"var(--fg)\" font-size=\"10\">Sp = 50/(50+10) = 83,3 %</text>\n      <text x=\"364\" y=\"138\" fill=\"var(--fg)\" font-size=\"10\">VPP = 30/(30+10) = 75 %</text>\n      <text x=\"364\" y=\"158\" fill=\"var(--dim)\" font-size=\"10\">VPP dépend de la prévalence</text>\n      <text x=\"330\" y=\"188\" text-anchor=\"middle\" fill=\"var(--dim)\" font-size=\"10\">Un dépistage privilégie la sensibilité : peu de faux négatifs</text>\n     </svg>"
+        },
+        {
+          "titre": "3 · Comparaison des méthodes et coût complet",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Comparaison dépistage microbiologique et confirmation LC-MS/MS avec décomposition du coût complet\">\n      <text x=\"16\" y=\"22\" fill=\"var(--ac)\" font-size=\"15\" font-weight=\"bold\">Dépistage puis confirmation</text>\n      <rect x=\"12\" y=\"38\" width=\"310\" height=\"88\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/>\n      <text x=\"24\" y=\"60\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Dépistage microbiologique + DAS</text>\n      <text x=\"24\" y=\"82\" fill=\"var(--fg)\" font-size=\"10\">Qualitatif · 24 à 48 h · CCβ &lt; LMR</text>\n      <text x=\"24\" y=\"104\" fill=\"var(--fg)\" font-size=\"10\">Peu coûteux · filtre tous les laits</text>\n      <rect x=\"338\" y=\"38\" width=\"310\" height=\"88\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/>\n      <text x=\"350\" y=\"60\" fill=\"var(--warn)\" font-size=\"11\" font-weight=\"bold\">Confirmation LC-MS/MS</text>\n      <text x=\"350\" y=\"82\" fill=\"var(--fg)\" font-size=\"10\">Identification + dosage · CCα ≤ LMR</text>\n      <text x=\"350\" y=\"104\" fill=\"var(--fg)\" font-size=\"10\">Coût élevé · seulement les positifs</text>\n      <rect x=\"12\" y=\"138\" width=\"636\" height=\"46\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n      <text x=\"26\" y=\"158\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Coût complet d'une analyse de dépistage</text>\n      <text x=\"26\" y=\"177\" fill=\"var(--fg)\" font-size=\"10\">amortissement 0,20 € + réactifs 1,80 € + main-d'œuvre 3,00 € + maintenance 0,50 € = 5,50 € / analyse</text>\n      <text x=\"330\" y=\"196\" text-anchor=\"middle\" fill=\"var(--dim)\" font-size=\"10\">Décision pondérée : performances 40 % · coût 30 % · délai 20 % · mise en œuvre 10 %</text>\n     </svg>"
+        }
+      ]
+    }
+  ]
+}

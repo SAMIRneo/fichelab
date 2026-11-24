@@ -1,0 +1,3652 @@
+{
+  "fiches": [
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "HLP",
+      "titre": "Les pouvoirs de la parole : rhétorique et éloquence dans l'Antiquité",
+      "source": "Programme de spécialité HLP de première générale, arrêté du 17 janvier 2019, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Le premier objet d'étude de la première, « Les pouvoirs de la parole », se décline en trois entrées : l'art de la parole, son autorité, ses séductions ; il relève de l'Antiquité à l'âge classique.",
+        "La rhétorique est théorisée par Aristote (Rhétorique, IVe siècle av. J.-C.) et par Cicéron (De Oratore, 55 av. J.-C.) : elle distingue trois genres de discours (judiciaire, délibératif, épidictique) et cinq parties (invention, disposition, élocution, mémoire, action).",
+        "L'idéal de l'orateur, repris par Quintilien (Institutiones oratoriae), réunit science, parole et action ; Cicéron résume la finalité du discours par trois mots : instruire, plaire, émouvoir (docere, delectare, movere).",
+        "La frontière entre parole vive et écriture est interrogée dès Platon (Phèdre) : l'écriture est accusée d'être un simulacre de parole, tandis que la rhétorique classique valorise la présence de l'orateur et de l'auditoire."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Combien la rhétorique classique distingue-t-elle de parties du discours ?",
+          "options": [
+            "Trois",
+            "Cinq",
+            "Sept",
+            "Douze"
+          ],
+          "correct": 1,
+          "correction": "Cinq parties : invention, disposition, élocution, mémoire et action (actio)."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle différence le programme établit-il entre convaincre et séduire ?",
+          "reponse": "Convaincre s'appuie sur la raison et l'argumentation ; séduire joue sur le plaisir, l'émotion et l'imaginaire.",
+          "correction": "L'entrée « Les séductions de la parole » étudie la fable, l'allégorie, la poésie et la déclaration amoureuse ; elle pose la limite entre persuasion et manipulation, déjà dénoncée par le procès intenté aux sophistes."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "HLP",
+      "titre": "Représentations du monde : voyage, utopie et regard sur l'Europe",
+      "source": "Programme de spécialité HLP de première générale, arrêté du 17 janvier 2019, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Le second objet de première, « Les représentations du monde » (Renaissance, âge classique, Lumières), comporte les entrées « Découverte du monde et pluralité des cultures », « Décrire, figurer, imaginer », « L'homme et l'animal ».",
+        "Les grands voyages et la révolution astronomique de Copernic (De revolutionibus, 1543) et Galilée élargissent l'univers connu ; les récits de voyage et les utopies accompagnent cette ouverture.",
+        "Thomas More publie Utopia en 1516 et Campanella La Cité du soleil en 1602 : ces fictions situées ailleurs servent à critiquer les sociétés européennes et à imaginer un autre ordre politique.",
+        "Dans les Essais (I, 31, « Des cannibales »), Montaigne inverse le regard ethnographique et juge les mœurs amérindiennes plus justes que celles de l'Europe de la conquête, fondant un relativisme culturel."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est l'auteur d'Utopia, paru en 1516 ?",
+          "options": [
+            "Thomas More",
+            "Campanella",
+            "Montaigne",
+            "Copernic"
+          ],
+          "correct": 0,
+          "correction": "Thomas More, humaniste anglais, publie Utopia en 1516 ; Campanella écrit La Cité du soleil."
+        },
+        {
+          "type": "texte",
+          "q": "Comment Montaigne utilise-t-il le « nouveau monde » dans les Essais ?",
+          "reponse": "Il compare les mœurs des peuples amérindiens aux coutumes européennes pour relativiser la prétendue supériorité de l'Europe.",
+          "correction": "Le chapitre « Des cannibales » retourne le regard colonial : la « barbarie » est renvoyée à l'Europe des conquêtes, ce qui ouvre la réflexion sur l'altérité et le relativisme."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "HLP",
+      "titre": "La recherche de soi : éducation, sensibilité et métamorphoses du moi",
+      "source": "Programme de spécialité HLP de terminale générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "En terminale, l'enseignement (6 h, trois heures par semestre) s'organise autour de deux objets : « La recherche de soi », du romantisme au XXe siècle, et « L'humanité en question », à l'époque contemporaine.",
+        "L'entrée « Éducation, transmission, émancipation » confronte les modèles pédagogiques depuis les Lumières : Rousseau (Émile, 1762), Condorcet (Esquisse, 1795) et les récits d'écoliers du XIXe siècle posent la question de la justice scolaire.",
+        "L'entrée « Les expressions de la sensibilité » étudie la revendication des droits du sentiment chez les romantismes européens, puis l'exploration de la conscience par Bergson et la psychanalyse.",
+        "L'entrée « Les métamorphoses du moi » interroge l'unité du sujet : le « moi » est à la fois une continuité et une construction, marquée au XXe siècle par l'empreinte de Freud et de Proust."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel ouvrage de Rousseau, paru en 1762, traite de l'éducation ?",
+          "options": [
+            "Du contrat social",
+            "Émile",
+            "Les Confessions",
+            "La Nouvelle Héloïse"
+          ],
+          "correct": 1,
+          "correction": "Émile ou De l'éducation (1762) expose une pédagogie fondée sur le développement naturel de l'enfant."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce que l'entrée « Les métamorphoses du moi » interroge ?",
+          "reponse": "L'unité et l'identité du sujet, entre continuité du « moi » et transformations de la subjectivité.",
+          "correction": "Le programme demande d'analyser les figures de la subjectivité du long XIXe siècle, puis l'apport de la psychanalyse à la description du moi."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "HLP",
+      "titre": "L'humanité en question : création, violence et limites de l'humain",
+      "source": "Programme de spécialité HLP de terminale générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Le second objet de terminale, « L'humanité en question », se divise en trois entrées : « Création, continuités et ruptures », « Histoire et violence », « L'humain et ses limites ».",
+        "La première entrée interroge les avant-gardes du XXe siècle et l'idée de crise de la rationalité : la rupture est-elle réellement radicale en art et en pensée ?",
+        "La deuxième entrée confronte les grands traumatismes du siècle à leur représentation littéraire : Primo Levi, George Semprun et Hannah Arendt font de la violence un objet de réflexion sur l'histoire et la politique.",
+        "La troisième entrée étudie l'extension des capacités humaines par la technique, la question écologique et la finitude : Hans Jonas (Le Principe responsabilité, 1979) et Gilbert Simondon renouvellent le débat."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel auteur a publié Le Principe responsabilité en 1979 ?",
+          "options": [
+            "Hans Jonas",
+            "Hannah Arendt",
+            "Primo Levi",
+            "Gilbert Simondon"
+          ],
+          "correct": 0,
+          "correction": "Hans Jonas, philosophe allemand, publie Le Principe responsabilité en 1979 : une éthique de la précaution envers les générations futures."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi la notion de « limite » est-elle centrale en terminale HLP ?",
+          "reponse": "Parce que la technique étend les capacités humaines tout en révélant la finitude de l'humain et sa responsabilité envers la nature et les autres.",
+          "correction": "L'entrée « L'humain et ses limites » articule technique, écologie et finitude : elle demande de penser les interventions sur l'humain sans présupposer une maîtrise sans bornes."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "LLCE",
+      "titre": "Le roman victorien : Dickens, Eliot et la critique sociale",
+      "source": "Programme de spécialité LLCER, BO spécial n° 8 du 25 juillet 2019 ; programme limitatif 2026-2027, BO n° 21 du 22 mai 2026, éduscol",
+      "points": [
+        "La spécialité LLCER (4 h en première, 6 h en terminale) étudie une langue étrangère à travers sa littérature et sa civilisation, dans une perspective interculturelle.",
+        "Charles Dickens publie Oliver Twist (1838) et David Copperfield (1850) : le roman expose la misère urbaine, le travail des enfants et les institutions de l'Angleterre industrielle.",
+        "George Eliot (Middlemarch, 1871-1872) et Thomas Hardy (Tess d'Urberville, 1891) analysent les déterminismes sociaux et la condition des femmes dans la société victorienne.",
+        "L'étude du texte en langue originale exige de repérer le point de vue narratif, le registre (satirique, pathétique) et les références culturelles propres à la civilisation anglo-saxonne."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel romancier a écrit Oliver Twist ?",
+          "options": [
+            "Charles Dickens",
+            "George Eliot",
+            "Thomas Hardy",
+            "Jane Austen"
+          ],
+          "correct": 0,
+          "correction": "Charles Dickens publie Oliver Twist en 1838 : le roman dénonce le workhouse et l'exploitation des enfants."
+        },
+        {
+          "type": "texte",
+          "q": "En quoi le roman victorien est-il un outil de critique sociale ?",
+          "reponse": "Il donne à voir les effets de l'industrialisation sur les classes populaires et met en question les normes morales de son temps.",
+          "correction": "Dickens, Eliot et Hardy font du roman un observatoire de la société : pauvreté, statut des femmes et déterminisme social y sont traités à travers des personnages et des situations concrètes."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "LLCE",
+      "titre": "Le théâtre de Shakespeare : genres, langage et représentation",
+      "source": "Programme de spécialité LLCER, BO spécial n° 8 du 25 juillet 2019 ; programme limitatif 2026-2027, BO n° 21 du 22 mai 2026, éduscol",
+      "points": [
+        "Le programme de LLCER aborde des œuvres complètes et des extraits ; le théâtre élisabéthain est un objet central de la littérature anglophone de la première modernité.",
+        "Shakespeare (1564-1616) écrit comédies (Le Songe d'une nuit d'été), tragédies (Hamlet, Macbeth, 1606) et drames romanesques (La Tempête, 1611) ; il emprunte souvent ses intrigues à des sources antiques ou médiévales.",
+        "Le théâtre élisabéthain se caractérise par un plateau sans décor permanent, des didascalies réduites et un langage mêlant vers blancs, prose et jeux de mots.",
+        "Hamlet (vers 1600) met en scène le doute et la représentation : la pièce interroge la vérité, la folie et le pouvoir par le biais d'une mise en abyme théâtrale."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle pièce de Shakespeare est une tragédie écrite vers 1600 ?",
+          "options": [
+            "Hamlet",
+            "La Tempête",
+            "Le Songe d'une nuit d'été",
+            "Beaucoup de bruit pour rien"
+          ],
+          "correct": 0,
+          "correction": "Hamlet est une tragédie composée vers 1600 ; La Tempête (1611) est un drame romanesque et les deux autres sont des comédies."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle particularité du théâtre élisabéthain faut-il souligner ?",
+          "reponse": "Un plateau presque vide, peu de didascalies et un texte qui porte l'essentiel de l'action et du décor.",
+          "correction": "Le Globe Theatre privilégie la parole : le vers blanc (blank verse), les tirades et les jeux de mots construisent l'espace et le sens plus que les décors."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "LLCE",
+      "titre": "La civilisation américaine : le rêve américain et ses critiques",
+      "source": "Programme de spécialité LLCER, BO spécial n° 8 du 25 juillet 2019 ; programme limitatif 2026-2027, BO n° 21 du 22 mai 2026, éduscol",
+      "points": [
+        "En terminale LLCER, l'étude associe texte littéraire et documents de civilisation ; la question du « rêve américain » structure l'étude des États-Unis.",
+        "Le « rêve américain » désigne l'idée selon laquelle chacun peut, par son travail, accéder à la prospérité ; il est formulé au XIXe siècle et relayé par le mythe de la frontier.",
+        "F. Scott Fitzgerald publie Gatsby le Magnifique (1925) : la réussite apparente de Jay Gatsby cache une aspiration impossible et dénonce la corruption morale de l'« ère du jazz ».",
+        "John Steinbeck (Les Raisins de la colère, 1939) et Toni Morrison (Beloved, 1987) opposent au récit de réussite l'expérience de la Grande Dépression et de l'esclavage."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel roman de F. Scott Fitzgerald critique le rêve américain ?",
+          "options": [
+            "Gatsby le Magnifique",
+            "Les Raisins de la colère",
+            "Beloved",
+            "Un chair de poule"
+          ],
+          "correct": 0,
+          "correction": "Gatsby le Magnifique (1925) montre l'échec d'une aspiration née du rêve américain dans l'Amérique des années 1920."
+        },
+        {
+          "type": "texte",
+          "q": "Comment le rêve américain est-il critiqué dans la littérature ?",
+          "reponse": "Il est présenté comme un mythe qui masque les inégalités sociales, le racisme et les déceptions de la mobilité.",
+          "correction": "Fitzgerald, Steinbeck et Morrison montrent les limites du mythe : réussite illusoire, misère des migrants et héritage de l'esclavage."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "LLCE",
+      "titre": "Modernisme et identité dans la littérature anglophone du XXe siècle",
+      "source": "Programme de spécialité LLCER, BO spécial n° 8 du 25 juillet 2019 ; programme limitatif 2026-2027, BO n° 21 du 22 mai 2026, éduscol",
+      "points": [
+        "Le programme limitatif de terminale pour 2026-2027 est publié au BO n° 21 du 22 mai 2026 : il fixe des œuvres au programme de l'épreuve de spécialité LLCER.",
+        "Le modernisme anglophone rompt avec le roman réaliste : Virginia Woolf (Mrs Dalloway, 1925 ; À la lumière d'avril, 1927) adopte le monologue intérieur et une structure temporelle fragmentée.",
+        "James Joyce (Ulysse, 1922) et T. S. Eliot (La Terre désolée, 1922) font de la conscience et de la mémoire les matières mêmes de l'œuvre littéraire.",
+        "Après 1945, la littérature postcoloniale (Salman Rushdie, Les Enfants de minuit, 1981 ; Chinua Achebe, Tout s'effondre, 1958) interroge l'identité hybride et l'héritage de l'empire."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel roman de Virginia Woolf paraît en 1925 ?",
+          "options": [
+            "Mrs Dalloway",
+            "Ulysse",
+            "La Terre désolée",
+            "Les Enfants de minuit"
+          ],
+          "correct": 0,
+          "correction": "Mrs Dalloway (1925) est un roman moderniste de Virginia Woolf, construit autour d'une journée et de la conscience des personnages."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'appelle-t-on monologue intérieur ?",
+          "reponse": "Une technique narrative qui restitue directement le flux de pensée d'un personnage, sans médiation du narrateur.",
+          "correction": "Woolf et Joyce utilisent cette technique pour rendre la durée vécue et la mémoire, plutôt qu'une intrigue linéaire."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "LCA",
+      "titre": "Cicéron et l'art oratoire à Rome",
+      "source": "Programme de spécialité langues et cultures de l'Antiquité (latin, grec), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'enseignement de LCA associe la maîtrise de la langue (latin ou grec) à l'étude de la civilisation et des textes antiques.",
+        "Marcus Tullius Cicéron (106-43 av. J.-C.) est le principal orateur de la fin de la République : ses discours (Catilinaires, 63 av. J.-C.) et ses traités rhétoriques fondent le modèle de l'éloquence latine.",
+        "Dans De Oratore (55 av. J.-C.), Cicéron définit l'orateur idéal par l'ensemble des connaissances, la maîtrise du style et l'action oratoire ; il adapte à Rome la rhétorique grecque.",
+        "Les Catilinaires illustrent les trois genres de discours : Cicéron y dénonce la conjuration de Catilina devant le Sénat, mêlant accusation judiciaire et délibération politique."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Contre qui Cicéron prononce-t-il les Catilinaires en 63 av. J.-C. ?",
+          "options": [
+            "Catilina",
+            "César",
+            "Pompée",
+            "Néron"
+          ],
+          "correct": 0,
+          "correction": "Les quatre discours des Catilinaires visent Lucius Sergius Catilina et sa conjuration contre la République."
+        },
+        {
+          "type": "texte",
+          "q": "Quel traité de Cicéron théorise l'éloquence ?",
+          "reponse": "De Oratore (55 av. J.-C.), où il définit les qualités et les savoirs de l'orateur parfait.",
+          "correction": "Ce dialogue reprend la rhétorique grecque et la transpose dans la culture latine : l'orateur doit joindre la science des choses à la maîtrise de la parole."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "LCA",
+      "titre": "Virgile et l'Énéide : épopée et identité romaine",
+      "source": "Programme de spécialité langues et cultures de l'Antiquité (latin, grec), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'Énéide de Virgile (70-19 av. J.-C.), publiée après sa mort en 19 av. J.-C., est l'épopée nationale de Rome : elle relate la fuite d'Énée de Troie et la fondation de la cité latine.",
+        "Le poème emprunte à Homère : l'Odyssée fournit le modèle du voyage et des épreuves, tandis que l'Iliade inspire les combats du livre XII.",
+        "Virgile construit une généalogie légendaire qui relie Rome à Troie et à Vénus, légitimant ainsi l'empire d'Auguste par un passé mythique.",
+        "La langue de l'Énéide, hexamètres dactyliques et figures sonores, est un objet d'étude privilégié de la spécialité LCA : traduction et commentaire stylistique sont au programme."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel poème grec a servi de modèle au voyage d'Énée ?",
+          "options": [
+            "L'Odyssée",
+            "L'Iliade",
+            "La Théogonie",
+            "Les Travaux et les Jours"
+          ],
+          "correct": 0,
+          "correction": "L'Odyssée d'Homère fournit le cadre du voyage d'Énée ; l'Iliade inspire les épisodes guerriers."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi l'Énéide est-elle une épopée « nationale » ?",
+          "reponse": "Elle fonde une généalogie mythique de Rome et légitime le pouvoir d'Auguste en rattachant la cité à Troie.",
+          "correction": "Virgile compose sous Auguste : l'œuvre transforme le mythe d'Énée en récit d'origine de la Romanité et du Principat."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "LCA",
+      "titre": "Sophocle et la tragédie grecque : Œdipe roi",
+      "source": "Programme de spécialité langues et cultures de l'Antiquité (latin, grec), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "En terminale, la spécialité LCA approfondit l'étude des textes grecs et latins dans leur contexte historique et culturel.",
+        "Sophocle (vers 496-406 av. J.-C.) est l'un des trois grands tragédiens athéniens avec Eschyle et Euripide ; Œdipe roi (vers 429 av. J.-C.) est la pièce la plus commentée d'Aristote.",
+        "La tragédie met en scène la tentative d'Œdipe pour échapper à l'oracle qui le destine à tuer son père et épouser sa mère : le récit construit une ironie tragique.",
+        "Dans la Poétique, Aristote analyse la structure de la tragédie (exposition, péripétie, dénouement) et fait d'Œdipe le modèle de la reconnaissance (anagnorisis) et de la catharsis."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel philosophe analyse Œdipe roi dans sa Poétique ?",
+          "options": [
+            "Aristote",
+            "Platon",
+            "Socrate",
+            "Épicure"
+          ],
+          "correct": 0,
+          "correction": "Aristote, dans la Poétique (IVe s. av. J.-C.), prend Œdipe roi comme modèle de la tragédie et de la reconnaissance."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce que l'ironie tragique dans Œdipe roi ?",
+          "reponse": "Le spectateur sait ce que le personnage ignore : les efforts d'Œdipe pour fuir l'oracle accomplissent la prophétie.",
+          "correction": "Ce décalage entre savoir du public et ignorance du héros est analysé par Aristote comme un ressort central de la tragédie sophocléenne."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "LCA",
+      "titre": "Homère et l'Iliade : honneur, parole et destin des héros",
+      "source": "Programme de spécialité langues et cultures de l'Antiquité (latin, grec), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'Iliade, attribuée à Homère et mise par écrit aux VIIIe-VIIe siècles av. J.-C., raconte la colère d'Achille pendant la guerre de Troie.",
+        "Le poème s'ouvre sur la formule « Chante, déesse, la colère d'Achille, fils de Pélée » : la colère (mênis) est le ressort de l'épopée et conduit à la mort d'Hector.",
+        "La société homérique est une société de l'honneur : la gloire (kleos) et la réputation sont obtenues par la victoire au combat, et la parole publique est un instrument de prestige.",
+        "L'étude du grec ancien porte sur la morphologie, le vocabulaire épique (formules répétées, comparaisons) et la place des dieux dans le récit."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est le ressort de l'Iliade d'Homère ?",
+          "options": [
+            "La colère d'Achille",
+            "La ruse d'Ulysse",
+            "La fuite d'Énée",
+            "La punition de Prométhée"
+          ],
+          "correct": 0,
+          "correction": "L'Iliade commence par la colère d'Achille, dont les conséquences occupent tout le poème."
+        },
+        {
+          "type": "texte",
+          "q": "Comment définit-on le kleos dans la société homérique ?",
+          "reponse": "C'est la gloire acquise par les exploits guerriers et conservée par le chant des poètes.",
+          "correction": "Le kleos est la renommée immortelle du héros : l'épopée elle-même est le moyen de la transmettre aux générations futures."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Arts plastiques",
+      "titre": "La photographie : du procédé technique au langage artistique",
+      "source": "Programme d'arts plastiques de première (spécialité et option), BO spécial n° 1 du 22 janvier 2019 ; programmes limitatifs d'arts renouvelés à la rentrée 2026, BO n° 4 du 22 janvier 2026, éduscol",
+      "points": [
+        "Le programme d'arts plastiques de première définit l'œuvre comme un objet singulier dont on analyse les formes, les statuts et les usages, dans une perspective de création et de culture artistique.",
+        "La photographie naît avec le daguerréotype (1839) et le procédé au gélatino-bromure d'argent : elle pose la question de la ressemblance et de l'invention du réel.",
+        "Au XXe siècle, des artistes comme Man Ray ou Moholy-Nagy explorent la photographie abstraite, la solarisation et le photogramme, affirmant l'autonomie du médium.",
+        "L'analyse d'une photographie porte sur le cadrage, la lumière, le grain, l'échelle et le contexte de présentation : l'image est à la fois trace et construction."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "En quelle année le daguerréotype est-il rendu public ?",
+          "options": [
+            "1839",
+            "1851",
+            "1888",
+            "1900"
+          ],
+          "correct": 0,
+          "correction": "Le daguerréotype est présenté en 1839 par Daguerre : c'est le premier procédé photographique exploitable."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce qu'un photogramme ?",
+          "reponse": "Une image obtenue sans appareil, en plaçant des objets directement sur une surface photosensible exposée à la lumière.",
+          "correction": "Moholy-Nagy et Man Ray utilisent le photogramme pour libérer la photographie de la représentation et en faire une expérience graphique."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Arts plastiques",
+      "titre": "L'architecture et l'espace : du monument à l'installation",
+      "source": "Programme d'arts plastiques de première (spécialité et option), BO spécial n° 1 du 22 janvier 2019 ; programmes limitatifs d'arts renouvelés à la rentrée 2026, BO n° 4 du 22 janvier 2026, éduscol",
+      "points": [
+        "Les quatre grands types de pratiques du programme sont les pratiques bidimensionnelles (graphiques et picturales), tridimensionnelles (sculpturales et architecturales), photographiques et numériques.",
+        "L'architecture grecque codifie les ordres (dorique, ionique, corinthien) et cherche un équilibre entre proportion, symétrie et fonction du bâtiment.",
+        "Au XXe siècle, Le Corbusier formule les « cinq points d'une architecture nouvelle » (pilotis, plan libre, façade libre, fenêtre en bandeau, toit-terrasse) dans les années 1920.",
+        "L'installation, développée à partir des années 1960-1970, déplace l'œuvre de l'objet vers la situation : l'espace, le spectateur et le dispositif deviennent partie intégrante du travail."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel architecte a formulé les « cinq points d'une architecture nouvelle » ?",
+          "options": [
+            "Le Corbusier",
+            "Gaudí",
+            "Frank Lloyd Wright",
+            "Palladio"
+          ],
+          "correct": 0,
+          "correction": "Le Corbusier énonce ces cinq points vers 1925-1927 ; ils sont mis en pratique dans la villa Savoye (1928-1931)."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle différence oppose monument et installation ?",
+          "reponse": "Le monument est un objet durable et autonome ; l'installation est un dispositif temporaire qui intègre l'espace et le spectateur.",
+          "correction": "Le programme d'arts plastiques demande de comparer les statuts de l'œuvre : l'installation fait de la présentation elle-même un langage plastique."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "Arts plastiques",
+      "titre": "L'impressionnisme et la naissance de la modernité picturale",
+      "source": "Programme de spécialité arts plastiques de terminale, BO spécial n° 8 du 25 juillet 2019 ; programmes limitatifs d'arts renouvelés en 2026, BO n° 4 du 22 janvier 2026, éduscol",
+      "points": [
+        "La terminale d'arts plastiques étudie l'œuvre dans son histoire et ses statuts ; l'impressionnisme est un objet de référence pour comprendre la rupture moderne.",
+        "Le mot « impressionnisme » vient d'un article de Louis Leroy en 1874, à propos d'une toile de Monet intitulée Impression, soleil levant (1872).",
+        "Monet, Renoir, Degas, Pissarro et Morisot privilégient la peinture en plein air, la touche visible, la lumière changeante et des cadrages inspirés de la photographie et de l'estampe japonaise.",
+        "Cette rupture est aussi technique : le tube de couleur et la toile légère permettent de peindre hors de l'atelier, tandis que le Salon officiel reste attaché au dessin et au fini."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "De quelle toile de Monet le terme « impressionnisme » est-il tiré ?",
+          "options": [
+            "Impression, soleil levant",
+            "Les Nymphéas",
+            "Le Déjeuner sur l'herbe",
+            "La Danse"
+          ],
+          "correct": 0,
+          "correction": "Le critique Louis Leroy se moque d'Impression, soleil levant (1872) en 1874 ; le nom reste."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles innovations techniques rendent possible la peinture en plein air ?",
+          "reponse": "Le tube de peinture métallique, la boîte de couleurs portative et la toile légère sur châssis.",
+          "correction": "Ces outils, apparus au XIXe siècle, permettent de travailler directement devant le motif et de saisir les effets de lumière."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "Arts plastiques",
+      "titre": "L'art contemporain et le statut de l'œuvre : Duchamp, Warhol",
+      "source": "Programme de spécialité arts plastiques de terminale, BO spécial n° 8 du 25 juillet 2019 ; programmes limitatifs d'arts renouvelés en 2026, BO n° 4 du 22 janvier 2026, éduscol",
+      "points": [
+        "Le programme de terminale interroge les statuts de l'œuvre : l'objet artistique peut être un ready-made, une reproduction ou une action.",
+        "Marcel Duchamp présente Fontaine (1917), un urinoir signé, et déplace la question de l'art de la fabrication vers le choix et le contexte institutionnel.",
+        "Andy Warhol utilise la sérigraphie à partir des années 1960 : Campbell's Soup Cans (1962) et les portraits de Marilyn font de la répétition et de l'image de masse un procédé artistique.",
+        "Ces pratiques obligent à distinguer l'œuvre, son document, sa reproduction et sa présentation : notion centrale dans l'épreuve d'arts plastiques du baccalauréat."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est le titre de l'œuvre de Duchamp présentée en 1917 ?",
+          "options": [
+            "Fontaine",
+            "La Joconde",
+            "Les Demoiselles d'Avignon",
+            "Le Grand Verre"
+          ],
+          "correct": 0,
+          "correction": "Fontaine (1917) est un urinoir signé « R. Mutt » qui transforme un objet industriel en œuvre d'art."
+        },
+        {
+          "type": "texte",
+          "q": "Quel procédé Andy Warhol utilise-t-il pour ses séries ?",
+          "reponse": "La sérigraphie, qui permet de répéter mécaniquement une image et de jouer sur la couleur et le tirage.",
+          "correction": "Warhol emprunte à la publicité et aux médias : la répétition devient un langage artistique et une critique de la société de consommation."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Biologie-écologie",
+      "titre": "ADN, gènes et hérédité : les bases moléculaires",
+      "source": "Programme de spécialité biologie-écologie, BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol ; programmes de sciences de la vie et de la Terre du lycée",
+      "points": [
+        "La spécialité biologie-écologie approfondit les mécanismes du vivant et les relations entre organismes et environnement.",
+        "L'ADN est une molécule à double hélice, décrite par Watson et Crick en 1953 ; les gènes sont des segments d'ADN qui portent l'information pour la synthèse de protéines.",
+        "La réplication semi-conservatrice de l'ADN précède la division cellulaire ; la mitose distribue deux copies identiques du génome aux cellules filles.",
+        "La loi de Mendel sur la ségrégation des allèles explique la transmission des caractères héréditaires : les allèles dominants et récessifs se répartissent selon des proportions prévisibles."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Qui a décrit la structure en double hélice de l'ADN en 1953 ?",
+          "options": [
+            "Watson et Crick",
+            "Mendel et Darwin",
+            "Pasteur et Koch",
+            "Lamarck et Buffon"
+          ],
+          "correct": 0,
+          "correction": "James Watson et Francis Crick publient le modèle de la double hélice en 1953, à partir des données de Rosalind Franklin."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce que la réplication semi-conservatrice ?",
+          "reponse": "Chaque molécule d'ADN fille contient un brin ancien et un brin nouvellement synthétisé.",
+          "correction": "Le modèle de Meselson et Stahl (1958) a confirmé expérimentalement cette mode de réplication, essentiel à la fidélité de l'hérédité."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Biologie-écologie",
+      "titre": "La nutrition autotrophe et le métabolisme des plantes",
+      "source": "Programme de spécialité biologie-écologie, BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol ; programmes de sciences de la vie et de la Terre du lycée",
+      "points": [
+        "Les végétaux sont des organismes autotrophes : ils synthétisent leur matière organique à partir de substances minérales et d'énergie lumineuse.",
+        "La photosynthèse se déroule dans les chloroplastes : elle utilise l'eau et le dioxyde de carbone pour produire des glucides et du dioxygène, selon la réaction 6 CO2 + 6 H2O → C6H12O6 + 6 O2.",
+        "L'eau et les sels minéraux sont absorbés par les racines et transportés dans le xylème ; les produits de la photosynthèse circulent dans le phloème.",
+        "La respiration cellulaire, inverse de la photosynthèse, libère l'énergie chimique des glucides dans les mitochondries : elle a lieu chez les plantes comme chez les animaux."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Dans quel organite a lieu la photosynthèse ?",
+          "options": [
+            "Le chloroplaste",
+            "La mitochondrie",
+            "Le noyau",
+            "Le ribosome"
+          ],
+          "correct": 0,
+          "correction": "La photosynthèse se déroule dans les chloroplastes ; la respiration cellulaire a lieu dans les mitochondries."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la différence entre xylème et phloème ?",
+          "reponse": "Le xylème transporte l'eau et les sels minéraux des racines vers les organes aériens ; le phloème transporte les substances organiques produites par la photosynthèse.",
+          "correction": "Ces deux tissus conducteurs forment les vaisseaux des plantes vasculaires et assurent la circulation de la sève brute et de la sève élaborée."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "Biologie-écologie",
+      "titre": "Biodiversité et évolution : des espèces aux écosystèmes",
+      "source": "Programme de spécialité biologie-écologie, BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol ; programmes de sciences de la vie et de la Terre du lycée",
+      "points": [
+        "La biodiversité désigne la diversité des espèces, des gènes et des écosystèmes ; elle est le résultat de l'évolution des êtres vivants sur de longues échelles de temps.",
+        "Darwin (L'Origine des espèces, 1859) propose la sélection naturelle : les individus porteurs d'une variation favorable survivent et se reproduisent davantage.",
+        "Les mutations et la recombinaison génétique créent la variabilité ; la dérive génétique et la sélection modifient la fréquence des allèles dans les populations.",
+        "L'érosion de la biodiversité contemporaine est liée à la destruction des habitats, à la surexploitation et aux changements climatiques : elle motive les politiques de conservation."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel mécanisme Darwin propose-t-il pour expliquer l'évolution ?",
+          "options": [
+            "La sélection naturelle",
+            "La génération spontanée",
+            "Le lamarckisme",
+            "La catastrophisme"
+          ],
+          "correct": 0,
+          "correction": "Darwin propose la sélection naturelle : la survie et la reproduction différentielles des individus selon leurs variations."
+        },
+        {
+          "type": "texte",
+          "q": "Quels sont les trois niveaux de la biodiversité ?",
+          "reponse": "La diversité génétique, la diversité des espèces et la diversité des écosystèmes.",
+          "correction": "La Convention des Nations unies sur la diversité biologique (Rio, 1992) retient ces trois niveaux comme cadre de référence."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "Biologie-écologie",
+      "titre": "Interactions entre organismes et équilibre des écosystèmes",
+      "source": "Programme de spécialité biologie-écologie, BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol ; programmes de sciences de la vie et de la Terre du lycée",
+      "points": [
+        "Un écosystème associe une communauté d'êtres vivants et son environnement physicochimique, reliés par des flux d'énergie et de matière.",
+        "Les relations interspécifiques comprennent la prédation, la compétition, le mutualisme, le parasitisme et la symbiose ; elles structurent les réseaux trophiques.",
+        "Les chaînes alimentaires se hiérarchisent en niveaux trophiques : producteurs primaires, consommateurs et décomposeurs, avec une perte d'énergie à chaque transfert.",
+        "Un écosystème résilient peut absorber une perturbation ; sa fragilité dépend de la diversité des espèces et de la redondance fonctionnelle des réseaux."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel type de relation unit un champignon et une algue dans un lichen ?",
+          "options": [
+            "La symbiose",
+            "La prédation",
+            "Le parasitisme",
+            "La compétition"
+          ],
+          "correct": 0,
+          "correction": "Le lichen est un exemple de symbiose (mutualisme) : l'algue photosynthétise et le champignon fournit eau et minéraux."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi la diversité des espèces renforce-t-elle la stabilité d'un écosystème ?",
+          "reponse": "Parce que plusieurs espèces peuvent remplir des fonctions identiques : si l'une disparaît, d'autres assurent le rôle.",
+          "correction": "C'est la notion de redondance fonctionnelle : la résilience d'un écosystème dépend de la variété des interactions et des espèces qui les portent."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "2nde",
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "EPS",
+      "titre": "Les activités de compétition et de coopération au lycée",
+      "source": "Programme d'éducation physique et sportive du lycée, BO spécial n° 1 du 22 janvier 2019 ; actualisation et ressources éduscol 2026",
+      "points": [
+        "L'EPS du lycée vise le développement des compétences psychomotrices et l'acquisition de connaissances sur les pratiques sportives, dans une perspective de santé et de citoyenneté.",
+        "Les activités sont classées selon deux logiques : les activités de compétition (opposition directe ou indirecte) et les activités de coopération (expression, adaptation à l'environnement).",
+        "Les jeux collectifs (basketball, football, handball) développent la coordination et la prise de décision collective ; les activités d'opposition individuelle (tennis, escrime) travaillent l'anticipation et la stratégie.",
+        "La programmation en cycle de trois à six semaines permet d'évaluer les progrès par des situations de référence et des critères explicites, conformément au livret scolaire."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle activité relève d'une logique d'opposition indirecte ?",
+          "options": [
+            "Le tennis de table",
+            "La course de fond",
+            "La gymnastique au sol",
+            "L'escalade"
+          ],
+          "correct": 0,
+          "correction": "Au tennis de table, les joueurs ne sont pas en contact direct mais s'opposent par l'intermédiaire de la balle et du filet."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce qu'une situation de référence en EPS ?",
+          "reponse": "Une situation type, répétée en début et en fin de cycle, qui permet de mesurer l'évolution des compétences de l'élève.",
+          "correction": "Le programme recommande des évaluations formatrices et certificatives fondées sur des critères observables et un référentiel de niveaux."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "2nde",
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "EPS",
+      "titre": "Évaluation de l'EPS : épreuves, critères et coefficient au bac",
+      "source": "Programme d'éducation physique et sportive du lycée, BO spécial n° 1 du 22 janvier 2019 ; actualisation et ressources éduscol 2026",
+      "points": [
+        "Au baccalauréat, l'EPS est une épreuve obligatoire du contrôle continu : elle compte pour 10 % de la note finale en voie générale et technologique (depuis la réforme du bac 2020).",
+        "L'évaluation prend appui sur trois composantes : les résultats scolaires (bulletins des trois années), l'attestation d'aptitude physique et pratique (AAP) et, le cas échéant, un examen supplémentaire.",
+        "Pour les élèves de terminale handicapés ou dispensés, une épreuve adaptée ou un examen supplémentaire est prévu par arrêté ; les modalités sont fixées chaque année par la circulaire d'examen.",
+        "Les critères d'évaluation portent sur la réalisation d'une prestation motrice, la maîtrise des règles et des stratégies, et la participation active et autonome."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est le poids de l'EPS dans la note finale du bac général ?",
+          "options": [
+            "5 %",
+            "10 %",
+            "20 %",
+            "40 %"
+          ],
+          "correct": 1,
+          "correction": "L'EPS compte pour 10 % de la note finale du baccalauréat général et technologique, au titre du contrôle continu."
+        },
+        {
+          "type": "texte",
+          "q": "Que signifie AAP dans le cadre de l'évaluation de l'EPS ?",
+          "reponse": "Attestation d'aptitude physique et pratique : elle valide la capacité de l'élève à pratiquer une activité physique en toute sécurité.",
+          "correction": "L'AAP est l'une des composantes de la note d'EPS, avec les résultats du livret scolaire et, si nécessaire, un examen supplémentaire."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "2nde",
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "EPS",
+      "titre": "Corps, santé et pratiques sportives responsables",
+      "source": "Programme d'éducation physique et sportive du lycée, BO spécial n° 1 du 22 janvier 2019 ; actualisation et ressources éduscol 2026",
+      "points": [
+        "L'EPS contribue à l'éducation à la santé : les élèves apprennent à connaître les effets de l'activité physique sur l'organisme et à adopter des comportements responsables.",
+        "Un effort soutenu entraîne une augmentation de la fréquence cardiaque et de la consommation d'oxygène ; l'entraînement améliore la VO2max et la récupération.",
+        "La prévention des blessures repose sur l'échauffement, la progression des charges, le respect des règles de sécurité et l'adaptation aux conditions environnementales (chaleur, froid, qualité de l'air).",
+        "Le programme invite aussi à réfléchir aux enjeux sociaux du sport : fair-play, inclusion, dopage et impact environnemental des grands événements sportifs."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel indicateur mesure la capacité maximale d'utilisation d'oxygène ?",
+          "options": [
+            "La VO2max",
+            "Le quotient intellectuel",
+            "La masse corporelle",
+            "La tension artérielle maximale"
+          ],
+          "correct": 0,
+          "correction": "La VO2max exprime le volume maximal d'oxygène consommé par minute et par kilogramme de masse corporelle : c'est un indicateur de la condition aérobie."
+        },
+        {
+          "type": "texte",
+          "q": "Quels réflexes de sécurité sont indispensables avant une séance de sport ?",
+          "reponse": "S'échauffer, vérifier le matériel, respecter les consignes et adapter l'effort à son état de forme et aux conditions climatiques.",
+          "correction": "Ces gestes limitent les risques de blessure et font partie des savoirs exigés en EPS pour adopter une pratique autonome et responsable."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "SES",
+      "titre": "La monnaie, le crédit bancaire et la création monétaire",
+      "source": "Programme de spécialité SES de première générale, arrêté du 17 janvier 2019, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Le programme de première comprend le questionnement « Qu'est-ce que la monnaie et comment est-elle créée ? ».",
+        "La monnaie remplit trois fonctions : intermédiaire des échanges, unité de compte et réserve de valeur ; ses formes vont de la monnaie fiduciaire à la monnaie scripturale.",
+        "Un crédit accordé par une banque crée simultanément une créance pour la banque et un dépôt pour l'emprunteur : la monnaie scripturale naît ainsi de l'octroi de crédit.",
+        "La banque centrale pilote les taux d'intérêt à court terme sur le marché monétaire ; ses interventions visent la stabilité des prix et influencent l'activité économique."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle fonction de la monnaie permet de différer un achat dans le temps ?",
+          "options": [
+            "Unité de compte",
+            "Réserve de valeur",
+            "Intermédiaire des échanges",
+            "Instrument de crédit"
+          ],
+          "correct": 1,
+          "correction": "La fonction de réserve de valeur permet de conserver le pouvoir d'achat ; l'intermédiaire des échanges sert au paiement immédiat."
+        },
+        {
+          "type": "texte",
+          "q": "Comment une banque commerciale crée-t-elle de la monnaie ?",
+          "reponse": "En accordant un crédit : l'emprunteur reçoit un dépôt, qui est une nouvelle monnaie scripturale.",
+          "correction": "Le bilan simplifié de la banque montre que la créance sur l'emprunteur (actif) correspond à un dépôt (passif) : la monnaie naît du crédit."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "SES",
+      "titre": "Opinion publique, sondages et démocratie d'opinion",
+      "source": "Programme de spécialité SES de première générale, arrêté du 17 janvier 2019, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Le questionnement « Comment se forme et s'exprime l'opinion publique ? » appartient au champ sociologie et science politique du programme de première.",
+        "L'opinion publique naît avec la démocratie et l'imprimerie : d'abord réservée aux catégories éclairées, elle est aujourd'hui comprise comme l'opinion du plus grand nombre.",
+        "Un sondage repose sur un échantillon représentatif, tiré au hasard et pondéré ; la marge d'erreur dépend de la taille de l'échantillon et du mode de recueil.",
+        "Le recours fréquent aux sondages modifie la vie politique : on parle de démocratie d'opinion, où les gouvernants tiennent compte des enquêtes dans leur communication et leurs décisions."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle condition doit remplir un échantillon pour rendre un sondage fiable ?",
+          "options": [
+            "Être representative de la population",
+            "Être composé de bénévoles",
+            "Contenir au moins 1000 personnes",
+            "Être choisi par le commanditaire"
+          ],
+          "correct": 0,
+          "correction": "Un échantillon doit être représentatif : tiré au hasard et structuré selon les caractéristiques de la population étudiée."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce que la démocratie d'opinion ?",
+          "reponse": "Une forme de fonctionnement politique où les sondages et l'opinion publique influencent fortement les décisions et la communication des gouvernants.",
+          "correction": "Le programme SES analyse ce phénomène comme une transformation de la démocratie représentative, entre contrôle des citoyens et communication politique."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "SES",
+      "titre": "Commerce international et internationalisation de la production",
+      "source": "Programme de spécialité SES de terminale générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019 ; note de service du 11 septembre 2026 (BO spécial n° 4), éduscol",
+      "points": [
+        "Le questionnement « Quels sont les fondements du commerce international et de l'internationalisation de la production ? » figure au programme de terminale et est évaluable au bac 2027.",
+        "La théorie de l'avantage absolu (Adam Smith, 1776) puis celle de l'avantage comparatif (David Ricardo, 1817) expliquent les gains à l'échange entre nations.",
+        "Le commerce international s'est développé avec la baisse des coûts de transport, les accords commerciaux (OMC depuis 1995) et la libéralisation des échanges.",
+        "L'internationalisation de la production se traduit par les chaînes de valeur mondiales : les différentes étapes de la fabrication d'un bien sont réparties entre plusieurs pays."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel économiste a formulé la théorie de l'avantage comparatif ?",
+          "options": [
+            "Adam Smith",
+            "David Ricardo",
+            "John Maynard Keynes",
+            "Milton Friedman"
+          ],
+          "correct": 1,
+          "correction": "David Ricardo publie l'avantage comparatif en 1817 ; Adam Smith avait formulé l'avantage absolu en 1776."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce qu'une chaîne de valeur mondiale ?",
+          "reponse": "Une organisation de la production où les différentes étapes de fabrication sont réparties dans plusieurs pays.",
+          "correction": "Les firmes multinationales fragmentent leurs activités pour tirer parti des coûts et des compétences locales, ce qui accroît les échanges de biens intermédiaires."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "SES",
+      "titre": "Structure de la société française et mobilité sociale",
+      "source": "Programme de spécialité SES de terminale générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019 ; note de service du 11 septembre 2026 (BO spécial n° 4), éduscol",
+      "points": [
+        "Le programme de terminale étudie « Comment est structurée la société française actuelle ? » et « Quelles sont les caractéristiques contemporaines et les facteurs de la mobilité sociale ? ».",
+        "La société française est analysée en groupes socioprofessionnels (PCS) : cadres, professions intermédiaires, employés, ouvriers, indépendants, retraités.",
+        "La stratification sociale se mesure à partir des revenus, du niveau d'éducation et du prestige des professions ; les inégalités de revenus et de patrimoine restent fortes.",
+        "La mobilité sociale, ascendante ou descendante, dépend notamment de l'éducation, de l'origine sociale et de la conjoncture économique ; les tables de contingence permettent de la mesurer."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel indicateur sert à mesurer la mobilité sociale intergénérationnelle ?",
+          "options": [
+            "Le tableau de contingence profession père/enfant",
+            "Le taux de chômage",
+            "L'indice de prix",
+            "La balance commerciale"
+          ],
+          "correct": 0,
+          "correction": "Le tableau croisant la profession du père et celle de l'enfant permet de mesurer la reproduction ou la mobilité sociale."
+        },
+        {
+          "type": "texte",
+          "q": "Quels facteurs expliquent la mobilité sociale ascendante ?",
+          "reponse": "L'allongement des études, l'ouverture de certaines professions et la croissance économique.",
+          "correction": "Le programme souligne le rôle de l'École et de la qualification, mais aussi des inégalités d'accès selon l'origine sociale."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "NSI",
+      "titre": "Représentation binaire des données : entiers, flottants, caractères",
+      "source": "Programme de spécialité NSI de première générale, arrêté du 17 janvier 2019, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Le programme NSI de première s'articule autour de huit rubriques, dont « Représentation des données : types et valeurs de base ».",
+        "L'unité minimale est le bit ; un entier positif s'écrit en base 2, et les bases 2, 10 et 16 sont privilégiées. Un entier relatif peut être codé en complément à deux.",
+        "La taille courante des entiers est de 8, 16, 32 ou 64 bits ; Python utilise des entiers de taille arbitraire.",
+        "Les nombres réels sont représentés de façon approximative par des flottants : 0,2 + 0,1 n'est pas exactement 0,3, aussi faut-il éviter de tester l'égalité de deux flottants."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la représentation binaire de l'entier 5 sur 8 bits ?",
+          "options": [
+            "00000101",
+            "00000110",
+            "01010000",
+            "10100000"
+          ],
+          "correct": 0,
+          "correction": "5 = 4 + 1, soit 00000101 en base 2 sur 8 bits."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi ne faut-il pas comparer deux flottants avec == ?",
+          "reponse": "Parce que leur représentation binaire est approchée : des calculs simples introduisent des erreurs d'arrondi.",
+          "correction": "Le programme NSI signale explicitement que 0,2 + 0,1 ≠ 0,3 en virgule flottante ; on compare plutôt avec une tolérance."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "NSI",
+      "titre": "Tri par insertion, tri par sélection et recherche dichotomique",
+      "source": "Programme de spécialité NSI de première générale, arrêté du 17 janvier 2019, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "La rubrique algorithmique du programme de première étudie des algorithmes classiques et leur coût sur des données nombreuses.",
+        "Le tri par insertion construit progressivement un préfixe trié en insérant chaque élément à sa place ; son invariant de boucle garantit que le préfixe reste ordonné.",
+        "Le tri par sélection choisit à chaque étape le plus petit élément de la partie non triée ; les deux tris ont un coût quadratique dans le pire cas.",
+        "La recherche dichotomique s'applique à un tableau trié : elle compare la valeur cherchée à l'élément médian et divise l'intervalle par deux à chaque itération."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est le coût dans le pire cas du tri par insertion ?",
+          "options": [
+            "Linéaire",
+            "Quadratique",
+            "Logarithmique",
+            "Constant"
+          ],
+          "correct": 1,
+          "correction": "Dans le pire cas, le tri par insertion et le tri par sélection ont un coût en O(n²)."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle condition est indispensable pour une recherche dichotomique ?",
+          "reponse": "Le tableau doit être préalablement trié.",
+          "correction": "La dichotomie réduit l'intervalle de recherche de moitié à chaque étape ; elle ne fonctionne que sur un tableau ordonné."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "NSI",
+      "titre": "Structures de données : listes, piles, files, arbres et dictionnaires",
+      "source": "Programme de spécialité NSI de terminale générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "En terminale, la rubrique « Structures de données » distingue l'interface (services offerts) de l'implémentation (manière dont ils sont réalisés).",
+        "Les listes, piles (LIFO : last in first out) et files (FIFO : first in first out) sont des structures linéaires ; le dictionnaire associe une clé à une valeur.",
+        "Un arbre binaire est une structure hiérarchique : il a une racine, des nœuds, des feuilles et deux sous-arbres gauche et droit par nœud.",
+        "Un graphe est une structure relationnelle modélisée par des sommets et des arêtes ou arcs ; on le représente par une matrice d'adjacence ou une liste de successeurs."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel principe régit une file (queue) ?",
+          "options": [
+            "LIFO",
+            "FIFO",
+            "LIFO et FIFO",
+            "Aucun des deux"
+          ],
+          "correct": 1,
+          "correction": "Une file fonctionne en FIFO (first in, first out) ; une pile fonctionne en LIFO (last in, first out)."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle différence y a-t-il entre interface et implémentation d'une structure de données ?",
+          "reponse": "L'interface décrit les opérations disponibles ; l'implémentation décrit comment elles sont réalisées concrètement.",
+          "correction": "Une même interface (par exemple « empiler », « dépiler ») peut être implémentée de plusieurs façons, avec des coûts différents."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "NSI",
+      "titre": "Récursivité, calculabilité et sécurisation des communications",
+      "source": "Programme de spécialité NSI de terminale générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Le programme de terminale comprend les rubriques « Langages et programmation » et « Sécurisation des communications ».",
+        "Une fonction récursive s'appelle elle-même avec des arguments modifiés ; elle comporte un cas de base qui arrête la récursion et un cas général.",
+        "Le problème de l'arrêt est indécidable : aucun algorithme ne peut déterminer pour tout programme s'il se termine ; la calculabilité ne dépend pas du langage utilisé.",
+        "Le chiffrement symétrique utilise une clé partagée ; le chiffrement asymétrique utilise une clé publique et une clé privée, permettant l'échange d'une clé symétrique dans une communication HTTPS."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que faut-il pour qu'une fonction récursive se termine ?",
+          "options": [
+            "Un cas de base",
+            "Une boucle bornée",
+            "Une variable globale",
+            "Un try/except"
+          ],
+          "correct": 0,
+          "correction": "Le cas de base (ou cas terminal) arrête la récursion ; sans lui, la fonction s'appelle indéfiniment."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la différence entre chiffrement symétrique et asymétrique ?",
+          "reponse": "Le chiffrement symétrique utilise une seule clé partagée ; l'asymétrique utilise une paire clé publique / clé privée.",
+          "correction": "HTTPS combine les deux : le protocole asymétrique échange une clé symétrique, puis les données sont chiffrées plus rapidement avec cette clé partagée."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "SI",
+      "titre": "Chaînes fonctionnelles : énergie, information et matière",
+      "source": "Programme de spécialité sciences de l'ingénieur (SI) de première générale, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "La spécialité SI étudie les systèmes techniques en reliant les flux d'énergie, d'information et de matière.",
+        "Une chaîne fonctionnelle se décompose en trois fonctions : alimenter, transformer et transmettre ; un système est décrit par ses entrées, ses sorties et ses perturbations.",
+        "Un capteur convertit une grandeur physique en signal électrique ; un actionneur convertit un signal en action mécanique ou thermique.",
+        "Le schéma fonctionnel est un outil de modélisation : il permet de représenter les liaisons entre les éléments d'un système sans entrer dans leur réalisation technique."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle fonction assure un capteur dans une chaîne d'information ?",
+          "options": [
+            "Il convertit un signal électrique en action",
+            "Il convertit une grandeur physique en signal",
+            "Il stocke l'énergie",
+            "Il dissipe la chaleur"
+          ],
+          "correct": 1,
+          "correction": "Le capteur transforme une grandeur physique (température, position, lumière) en signal mesurable, généralement électrique."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles sont les trois grandes fonctions d'une chaîne fonctionnelle ?",
+          "reponse": "Alimenter, transformer et transmettre (ou distribuer) l'énergie, l'information ou la matière.",
+          "correction": "Cette modélisation est commune aux systèmes mécaniques, électriques et thermiques étudiés en spécialité SI."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "SI",
+      "titre": "Énergie mécanique et transmissions dans les systèmes",
+      "source": "Programme de spécialité sciences de l'ingénieur (SI) de première générale, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "L'étude des systèmes mécaniques repose sur les notions de force, de couple, de travail et d'énergie.",
+        "L'énergie cinétique d'un corps de masse m animé d'une vitesse v vaut 1/2 m v² ; l'énergie potentielle de pesanteur vaut m g h.",
+        "Le principe de conservation de l'énergie s'applique aux systèmes sans dissipation : l'énergie mécanique reste constante en l'absence de frottements.",
+        "Les transmissions (engrenages, courroies, chaînes) modifient la vitesse et le couple : le rapport de transmission est le quotient des nombres de dents ou des rayons."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est l'expression de l'énergie cinétique ?",
+          "options": [
+            "m × g × h",
+            "1/2 × m × v²",
+            "F × d",
+            "m × v"
+          ],
+          "correct": 1,
+          "correction": "L'énergie cinétique vaut 1/2 m v² ; m g h est l'énergie potentielle de pesanteur."
+        },
+        {
+          "type": "texte",
+          "q": "Que se passe-t-il dans un réducteur d'engrenages ?",
+          "reponse": "La vitesse de sortie diminue tandis que le couple augmente.",
+          "correction": "Avec un rapport de réduction i = N1/N2 > 1, la vitesse est divisée par i et le couple multiplié par i, à rendement constant."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "SI",
+      "titre": "Commande des systèmes et boucle de régulation",
+      "source": "Programme de spécialité sciences de l'ingénieur (SI) de terminale générale, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "En terminale, la spécialité SI approfondit la modélisation et la commande des systèmes automatisés.",
+        "Une boucle ouverte agit sans tenir compte du résultat ; une boucle fermée compare la sortie à la consigne et corrige l'écart par un régulateur.",
+        "Le régulateur PID (proportionnel, intégral, dérivé) combine trois actions : la correction proportionnelle à l'erreur, l'élimination de l'écart statique et l'anticipation des variations.",
+        "Les critères de performance d'un asservissement sont la précision, la rapidité de réponse, le dépassement et la stabilité."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel régulateur élimine l'écart statique en régulation ?",
+          "options": [
+            "L'action proportionnelle seule",
+            "L'action intégrale",
+            "L'action dérivée",
+            "Aucun des trois"
+          ],
+          "correct": 1,
+          "correction": "L'action intégrale accumule l'erreur et annule l'écart statique ; l'action dérivée anticipe les variations."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle différence oppose commande en boucle ouverte et en boucle fermée ?",
+          "reponse": "La boucle ouverte ne mesure pas le résultat ; la boucle fermée utilise une mesure de sortie pour corriger l'action.",
+          "correction": "La boucle fermée (ou asservissement) est plus précise mais peut devenir instable si les gains sont mal réglés."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "SI",
+      "titre": "Modélisation multiphysique et simulation des systèmes",
+      "source": "Programme de spécialité sciences de l'ingénieur (SI) de terminale générale, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La modélisation multiphysique consiste à représenter un système faisant intervenir plusieurs domaines : mécanique, électrique, thermique et fluidique.",
+        "Une modélisation par éléments finis discrétise un objet en petits éléments pour calculer les contraintes, les déformations ou les champs thermiques.",
+        "Les lois de comportement (loi de Hooke pour l'élasticité, loi d'Ohm pour l'électricité) relient les variables du système et permettent de prédire son comportement.",
+        "La simulation permet de valider un dimensionnement avant fabrication : elle réduit les coûts d'essai mais exige de vérifier les hypothèses du modèle."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle méthode discrétise un objet en petits éléments pour le simuler ?",
+          "options": [
+            "La méthode des éléments finis",
+            "La méthode de Monte-Carlo",
+            "La méthode des différences divisées",
+            "La méthode du gradient"
+          ],
+          "correct": 0,
+          "correction": "La méthode des éléments finis (FEM) découpe le domaine en maillage et résout les équations sur chaque élément."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi faut-il valider un modèle par des essais réels ?",
+          "reponse": "Parce que le modèle repose sur des hypothèses simplificatrices qui peuvent ne pas refléter la réalité.",
+          "correction": "La simulation est un outil d'aide à la décision : elle doit être confrontée à des mesures expérimentales pour garantir la fiabilité du dimensionnement."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "HGGSP",
+      "titre": "L'Europe des Lumières et la révolution atlantique",
+      "source": "Programme de spécialité HGGSP de première générale, arrêté du 17 janvier 2019, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Le programme de première HGGSP étudie les mondes et les sociétés du passé dans une perspective géopolitique et culturelle.",
+        "Les Lumières (Montesquieu, De l'esprit des lois, 1748 ; Voltaire, Traité sur la tolérance, 1763) diffusent des idées de liberté, de raison et de séparation des pouvoirs.",
+        "La révolution atlantique désigne les mutations politiques des années 1776-1791 : indépendance des États-Unis (1776), Révolution française (1789) et révolte de Saint-Domingue (1791).",
+        "Ces événements circulent dans un espace atlantique connecté : idées, capitaux, marchandises et personnes (y compris les populations esclavisées) y circulent."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel ouvrage de Montesquieu théorise la séparation des pouvoirs ?",
+          "options": [
+            "De l'esprit des lois",
+            "Du contrat social",
+            "Les Lettres persanes",
+            "Le Traité sur la tolérance"
+          ],
+          "correct": 0,
+          "correction": "De l'esprit des lois (1748) expose la théorie de la séparation des pouvoirs, reprise dans les constitutions révolutionnaires."
+        },
+        {
+          "type": "texte",
+          "q": "Que désigne la « révolution atlantique » ?",
+          "reponse": "L'ensemble des bouleversements politiques de la fin du XVIIIe siècle autour de l'Atlantique, de 1776 à 1791.",
+          "correction": "Le programme HGGSP insiste sur la circulation des modèles révolutionnaires entre l'Amérique du Nord, la France et Saint-Domingue."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "HGGSP",
+      "titre": "Crise économique et tensions politiques dans l'entre-deux-guerres",
+      "source": "Programme de spécialité HGGSP de première générale, arrêté du 17 janvier 2019, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Le programme de première consacre une partie de l'année aux sociétés et aux États face aux crises du XXe siècle.",
+        "Le krach de 1929 à Wall Street déclenche une Grande Dépression mondiale : chute de la production, chômage de masse et déflation.",
+        "En Europe, la crise favorise la montée des régimes totalitaires : le nazisme s'installe en Allemagne en 1933 et le fascisme italien s'était imposé en 1922.",
+        "Les démocraties répondent de manière diverse : le New Deal de Roosevelt (1933) aux États-Unis, le Front populaire en France (1936) et le repli protectionniste ailleurs."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel événement déclenche la Grande Dépression en 1929 ?",
+          "options": [
+            "Le krach de Wall Street",
+            "La Première Guerre mondiale",
+            "La Révolution russe",
+            "Le traité de Versailles"
+          ],
+          "correct": 0,
+          "correction": "Le krach boursier d'octobre 1929 à New York précipite la crise économique mondiale des années 1930."
+        },
+        {
+          "type": "texte",
+          "q": "Comment les démocraties réagissent-elles à la crise des années 1930 ?",
+          "reponse": "Par des politiques de relance et de protection sociale : le New Deal américain et le Front populaire français.",
+          "correction": "Ces réponses contrastent avec les solutions autoritaires adoptées par l'Allemagne nazie et l'Italie fasciste."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "HGGSP",
+      "titre": "De nouveaux espaces de conquête : océans, espace et cyberspace",
+      "source": "Programme de spécialité HGGSP de terminale générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019 ; définition de l'épreuve, BO spécial n° 4 du 17 septembre 2026, éduscol",
+      "points": [
+        "Le thème 1 du programme de terminale HGGSP est « De nouveaux espaces de conquête » : il étudie la maîtrise des océans, de l'espace et du numérique.",
+        "La Convention des Nations unies sur le droit de la mer (UNCLOS, 1982) organise la délimitation des zones maritimes et la libre navigation.",
+        "La conquête spatiale, marquée par le lancement de Spoutnik (1957) et le traité de l'espace (1967), oppose puis associe les grandes puissances ; l'Union européenne dispose du programme Galileo.",
+        "Le cyberspace est devenu un espace de souveraineté : la protection des données, la cybersécurité et la régulation des plateformes sont des enjeux géopolitiques majeurs."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel traité international régit l'utilisation pacifique de l'espace ?",
+          "options": [
+            "Le traité de l'espace de 1967",
+            "Le traité de Versailles de 1919",
+            "L'UNCLOS de 1982",
+            "Le traité de Maastricht de 1992"
+          ],
+          "correct": 0,
+          "correction": "Le traité de l'espace du 27 janvier 1967 interdit l'appropriation de l'espace et impose une utilisation pacifique."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi le cyberspace est-il un espace de souveraineté ?",
+          "reponse": "Parce que les États y défendent leurs intérêts : sécurité des réseaux, protection des données et contrôle des infrastructures numériques.",
+          "correction": "Les attaques informatiques et la dépendance aux plateformes transnationales font du numérique un domaine de compétition entre puissances."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "HGGSP",
+      "titre": "Faire la guerre, faire la paix : conflits et règlements depuis 1945",
+      "source": "Programme de spécialité HGGSP de terminale générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019 ; définition de l'épreuve, BO spécial n° 4 du 17 septembre 2026, éduscol",
+      "points": [
+        "Le thème 2 de terminale, « Faire la guerre, faire la paix : formes de conflits et modes de résolution », est au programme de l'épreuve 2027.",
+        "Les conflits depuis 1945 se diversifient : guerres interétatiques, guerres irrégulières, terrorisme et opérations de maintien de la paix.",
+        "La sécurité collective est portée par l'ONU : la Charte de San Francisco (1945) autorise le Conseil de sécurité à prendre des mesures pour maintenir la paix.",
+        "Les modes de règlement vont du traité de paix négocié à la justice internationale (Cour internationale de justice, tribunaux pénaux) en passant par les sanctions et la médiation."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel organe de l'ONU est chargé du maintien de la paix ?",
+          "options": [
+            "Le Conseil de sécurité",
+            "L'Assemblée générale",
+            "La Cour internationale de justice",
+            "Le Conseil économique et social"
+          ],
+          "correct": 0,
+          "correction": "Le Conseil de sécurité, composé de 15 membres dont 5 permanents, est responsable du maintien de la paix et de la sécurité internationales."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce qu'une guerre irrégulière ?",
+          "reponse": "Un conflit opposant des forces armées étatiques à des groupes non étatiques, souvent sans front de bataille clair.",
+          "correction": "Le programme cite Al-Qaida et Daech comme exemples de groupes terroristes relevant des guerres irrégulières."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "Philosophie",
+      "titre": "Le devoir et l'impératif catégorique chez Kant",
+      "source": "Programme de philosophie de terminale générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Le programme de philosophie de terminale générale comprend 17 notions, dont « le devoir », étudiées dans les trois perspectives : existence et culture, morale et politique, connaissance.",
+        "Kant (Fondements de la métaphysique des mœurs, 1785 ; Critique de la raison pratique, 1788) définit le devoir comme l'obligation morale inconditionnelle, opposée à l'inclination.",
+        "L'impératif catégorique s'énonce : « Agis uniquement d'après une maxime telle que tu puisses vouloir en même temps qu'elle devienne une loi universelle. »",
+        "La moralité de l'action tient à l'intention et au respect de la loi morale, non à ses conséquences : c'est la distinction entre légalité et moralité."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est le principe de l'impératif catégorique kantien ?",
+          "options": [
+            "Agir par inclination",
+            "Agir selon une maxime universalisable",
+            "Agir pour le bonheur",
+            "Agir selon la coutume"
+          ],
+          "correct": 1,
+          "correction": "L'impératif catégorique exige que la maxime de l'action puisse être voulue comme loi universelle."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle différence Kant établit-il entre légalité et moralité ?",
+          "reponse": "Une action est légale si elle conforme à la loi ; elle est morale si elle est accomplie par devoir, par respect de la loi.",
+          "correction": "Kant distingue l'action conforme au devoir (légalité) de l'action faite par devoir (moralité) : seule la seconde a une valeur morale."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "Philosophie",
+      "titre": "Le langage : entre pensée, communication et tromperie",
+      "source": "Programme de philosophie de terminale générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Le langage est l'une des 17 notions du programme : il peut être interrogé dans ses rapports avec la raison, la liberté, la nature et la vérité.",
+        "Aristote définit le langage comme un système de signes conventionnels : les mots sont des symboles des affections de l'âme, eux-mêmes images des choses.",
+        "Saussure (Cours de linguistique générale, 1916) distingue la langue (système social de signes) et la parole (usage individuel) ; le signe est arbitraire et différentiel.",
+        "La question du mensonge et des sophismes montre que le langage peut aussi dissimuler : le programme invite à articuler langage, vérité et liberté d'expression."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Qui a distingué la langue et la parole dans la linguistique moderne ?",
+          "options": [
+            "Ferdinand de Saussure",
+            "Noam Chomsky",
+            "Aristote",
+            "Émile Benveniste"
+          ],
+          "correct": 0,
+          "correction": "Saussure, dans le Cours de linguistique générale (1916), distingue la langue comme système et la parole comme usage individuel."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi le signe linguistique est-il arbitraire ?",
+          "reponse": "Parce que le lien entre le signifiant et le signifié est conventionnel et non naturel.",
+          "correction": "Saussure souligne que rien dans le mot « arbre » ne ressemble à l'arbre : la signification repose sur une convention et sur les différences entre signes."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "Philosophie",
+      "titre": "Le temps : durée vécue et temps mesuré",
+      "source": "Programme de philosophie de terminale générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La notion de temps figure au programme de terminale : elle peut être traitée dans la perspective de la connaissance, de l'existence ou de la morale.",
+        "Aristote définit le temps comme le nombre du mouvement selon l'avant et l'après : le temps est lié au changement et à sa mesure.",
+        "Bergson (Essai sur les données immédiates de la conscience, 1889 ; Durée et Simultanéité, 1922) oppose le temps mesurable de la science à la durée vécue, qualitative et continue.",
+        "Heidegger (Être et Temps, 1927) fait du temps l'horizon de la compréhension de l'être : l'existence humaine est une existence temporelle, tournée vers la mort."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel philosophe a opposé durée vécue et temps mesuré ?",
+          "options": [
+            "Henri Bergson",
+            "Aristote",
+            "Kant",
+            "Hegel"
+          ],
+          "correct": 0,
+          "correction": "Bergson distingue la durée (vécue, qualitative) du temps spatialisé et mesuré des sciences."
+        },
+        {
+          "type": "texte",
+          "q": "Comment Aristote définit-il le temps ?",
+          "reponse": "Comme le nombre du mouvement selon l'avant et l'après, c'est-à-dire la mesure du changement.",
+          "correction": "Dans la Physique, Aristote relie le temps au mouvement : sans changement, il n'y aurait pas de temps mesurable."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "2nde",
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Méthodologie",
+      "titre": "Construire une problématique et un plan de dissertation",
+      "source": "Méthodologie de révision : éduscol, « Méthode et outils pour réviser » ; Cepeda et al. (2006) sur la répétition espacée ; Roediger & Karpicke (2006) sur le testing effect",
+      "points": [
+        "La dissertation exige de répondre à une question en construisant une problématique, c'est-à-dire un problème reformulé à partir du sujet.",
+        "La première étape est l'analyse des termes du sujet : définir les mots-clés, repérer les relations logiques et dégager les tensions ou les paradoxes.",
+        "Le plan doit être progressif : une thèse, une antithèse et une synthèse, ou un plan thématique articulé autour de trois moments ; chaque partie répond à une sous-question de la problématique.",
+        "La rédaction suit le modèle introductif (accroche, définition, problématique, annonce du plan), le développement argumenté avec exemples et une conclusion qui répond et ouvre."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Qu'appelle-t-on problématique dans une dissertation ?",
+          "options": [
+            "Une question rédigée qui reformule le sujet en mettant en tension ses termes",
+            "Une simple définition du sujet",
+            "Le titre de la copie",
+            "Une citation d'auteur"
+          ],
+          "correct": 0,
+          "correction": "La problématique transforme le sujet en question : elle met en relation les termes et crée un problème à résoudre."
+        },
+        {
+          "type": "texte",
+          "q": "À quoi sert l'annonce du plan dans l'introduction ?",
+          "reponse": "Elle indique au lecteur les grandes étapes du raisonnement et rend la progression lisible.",
+          "correction": "L'annonce de plan ne doit pas être une simple énumération : elle doit faire apparaître la logique qui relie les parties à la problématique."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "2nde",
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Méthodologie",
+      "titre": "Le commentaire de texte et l'analyse de document",
+      "source": "Méthodologie de révision : éduscol, « Méthode et outils pour réviser » ; Cepeda et al. (2006) sur la répétition espacée ; Roediger & Karpicke (2006) sur le testing effect",
+      "points": [
+        "Le commentaire de texte repose sur une lecture attentive : identifier le genre, l'auteur, la date, le destinataire et la situation d'énonciation.",
+        "On distingue trois niveaux de lecture : le sens littéral (ce que le texte dit), les procédés (comment il le dit) et l'interprétation (pourquoi il le dit).",
+        "Dans l'analyse de document (histoire, SES, droit), on complète l'étude par la critique de la source : nature du document, auteur, contexte de production, finalité et limites.",
+        "Le plan commenté suit généralement deux ou trois axes thématiques, chacun appuyé sur des citations précises du texte et sur des connaissances extérieures."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle étape consiste à interroger l'auteur et le contexte d'un document ?",
+          "options": [
+            "La lecture littérale",
+            "La critique de la source",
+            "La conclusion",
+            "L'annonce du plan"
+          ],
+          "correct": 1,
+          "correction": "La critique de source examine l'auteur, la date, le public visé et l'intention : elle distingue le témoignage de l'interprétation."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la différence entre niveau littéral et niveau interprétatif ?",
+          "reponse": "Le niveau littéral décrit ce que dit le texte ; le niveau interprétatif explique le sens et les intentions de l'auteur.",
+          "correction": "Le commentaire doit toujours articuler les deux : une citation est analysée dans sa forme puis reliée à la thèse du texte."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "2nde",
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Méthodologie",
+      "titre": "Réviser avec la répétition espacée et le testing effect",
+      "source": "Méthodologie de révision : éduscol, « Méthode et outils pour réviser » ; Cepeda et al. (2006) sur la répétition espacée ; Roediger & Karpicke (2006) sur le testing effect",
+      "points": [
+        "La répétition espacée consiste à revoir une notion à intervalles croissants, juste avant qu'elle ne soit oubliée : Cepeda et al. (2006) montrent son efficacité.",
+        "Le testing effect (Roediger & Karpicke, 2006) désigne le fait que le rappel actif d'une information améliore la mémorisation plus que sa simple relecture.",
+        "Une séance efficace alterne lecture active, auto-questionnement et restitution sans support ; les erreurs sont notées et revues à la séance suivante.",
+        "La répartition du temps de révision sur plusieurs jours ou semaines, avec des séances courtes et régulières, est plus efficace qu'un bachotage intense la veille de l'examen."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel effet décrit le fait de mieux retenir en se testant qu'en relisant ?",
+          "options": [
+            "L'effet de test (testing effect)",
+            "L'effet Dunning-Kruger",
+            "L'effet d'ancrage",
+            "L'effet de halo"
+          ],
+          "correct": 0,
+          "correction": "Le testing effect est mis en évidence par Roediger et Karpicke (2006) : le rappel actif renforce la mémoire."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi la répétition espacée est-elle plus efficace que la relecture massive ?",
+          "reponse": "Parce qu'elle force un effort de rappel à chaque reprise et lutte contre l'oubli.",
+          "correction": "Les travaux de Cepeda et al. (2006) montrent que des séances réparties dans le temps donnent une meilleure rétention à long terme que des séances massées."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "stmg"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Sciences de gestion",
+      "titre": "De l'individu à l'acteur dans l'organisation",
+      "source": "Programme de spécialité sciences de gestion et numérique de première STMG, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Le programme de sciences de gestion et numérique de première STMG (7 h) s'ouvre sur le thème « De l'individu à l'acteur », articulé avec l'enseignement de management (4 h).",
+        "Une organisation est une action collective structurée : elle se définit par ses buts, sa structure de propriété, son mode de gouvernement et les relations entre ses membres.",
+        "L'individu devient acteur en s'insérant dans une hiérarchie et dans un réseau de relations formelles et informelles ; l'organigramme représente les positions et les responsabilités.",
+        "Les relations au sein de l'organisation peuvent être consensuelles ou conflictuelles ; la culture et les valeurs de l'organisation se lisent dans les pratiques de communication et de gestion de l'identité numérique."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Comment un individu devient-il un acteur dans une organisation ?",
+          "options": [
+            "En s'intégrant dans une structure et en y prenant des responsabilités",
+            "En changeant de statut juridique",
+            "En quittant l'organisation",
+            "En restant isolé"
+          ],
+          "correct": 0,
+          "correction": "L'individu devient acteur par les relations formelles et informelles qu'il noue et par la fonction qu'il occupe dans l'organigramme."
+        },
+        {
+          "type": "texte",
+          "q": "Quels éléments caractérisent une organisation ?",
+          "reponse": "Ses buts, sa structure de propriété, son mode de gouvernement et la manière dont elle coordonne l'action collective.",
+          "correction": "Ces éléments permettent de distinguer les différents types d'organisations : entreprise, association, administration, coopérative."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "stmg"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Sciences de gestion",
+      "titre": "Création de valeur, prix, coût et performance",
+      "source": "Programme de spécialité sciences de gestion et numérique de première STMG, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Le thème 3 du programme de première interroge la création de valeur et sa mesure dans les organisations.",
+        "La valeur ajoutée mesure la richesse créée par l'organisation : c'est la différence entre la valeur de la production et la consommation de biens et services intermédiaires.",
+        "La valeur peut être financière (valeur actionnariale, boursière), partenariale ou perçue (image de marque, notoriété, satisfaction, réputation en ligne).",
+        "Le prix, le coût et la marge sont liés : le résultat dépend de l'écart entre prix de vente et coût de revient ; le bilan et le compte de résultat permettent de repérer la valeur financière produite."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Comment calcule-t-on la valeur ajoutée d'une entreprise ?",
+          "options": [
+            "Valeur de la production moins consommations intermédiaires",
+            "Chiffre d'affaires plus charges",
+            "Prix de vente moins marge",
+            "Actif moins passif"
+          ],
+          "correct": 0,
+          "correction": "La valeur ajoutée est la différence entre la valeur de la production et les consommations intermédiaires de biens et services."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles formes de valeur le programme distingue-t-il ?",
+          "reponse": "La valeur financière ou actionnariale, la valeur partenariale et la valeur perçue (image, notoriété, satisfaction).",
+          "correction": "Chaque forme de valeur répond aux attentes d'acteurs différents : actionnaires, salariés, partenaires, clients."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "stmg"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Numérique et gestion",
+      "titre": "De la donnée à la connaissance : l'information comme ressource",
+      "source": "Programme de spécialité sciences de gestion et numérique de première STMG, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Le thème 2 du programme de première, « Numérique et intelligence collective », étudie la transformation de l'information en ressource stratégique.",
+        "La donnée (donnée brute) devient information lorsqu'elle est structurée et contextualisée, puis connaissance lorsqu'elle est interprétée et partagée par les acteurs.",
+        "Un système d'information (SI) collecte, traite, stocke et diffuse les données ; il contribue à la persistance et à la circulation de l'information dans l'organisation.",
+        "Les données à caractère personnel sont soumises à des contraintes juridiques (RGPD depuis 2018) ; les données ouvertes (open data) et les mégadonnées (big data) créent de nouvelles valeur et risques."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel règlement européen encadre les données à caractère personnel depuis 2018 ?",
+          "options": [
+            "Le RGPD",
+            "La directive RoHS",
+            "Le règlement REACH",
+            "La norme ISO 9001"
+          ],
+          "correct": 0,
+          "correction": "Le règlement général sur la protection des données (RGPD) est applicable depuis le 25 mai 2018."
+        },
+        {
+          "type": "texte",
+          "q": "Quel règlement européen encadre les données personnelles depuis 2018 ?",
+          "reponse": "Le RGPD (règlement général sur la protection des données), applicable depuis le 25 mai 2018.",
+          "correction": "Le RGPD impose notamment la minimisation des données, le consentement et des obligations de sécurité et de notification des violations."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "stmg"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Numérique et gestion",
+      "titre": "Numérique, agilité et intelligence collective",
+      "source": "Programme de spécialité sciences de gestion et numérique de première STMG, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Le numérique modifie les formes de collaboration et de coopération au sein des organisations et de la société.",
+        "Un processus de gestion est un enchaînement d'activités qui transforme des ressources en résultat : sa représentation schématique permet d'identifier les étapes et les responsables.",
+        "Les progiciels de gestion intégrés (PGI), le cloud computing, le commerce électronique et le travail à distance reconfigurent les processus et la circulation de l'information.",
+        "L'automatisation et l'intelligence artificielle peuvent générer de l'agilité organisationnelle ou, au contraire, de la rigidité selon la manière dont les outils sont intégrés aux pratiques."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel sigle désigne les logiciels qui intègrent les fonctions de l'entreprise dans une base commune ?",
+          "options": [
+            "PGI",
+            "SIG",
+            "SGBD",
+            "API"
+          ],
+          "correct": 0,
+          "correction": "Un progiciel de gestion intégré (PGI ou ERP) intègre les fonctions de l'entreprise dans une base de données commune."
+        },
+        {
+          "type": "texte",
+          "q": "Comment le numérique peut-il créer de la rigidité organisationnelle ?",
+          "reponse": "En imposant des processus standardisés et des flux d'information prédéfinis qui limitent l'autonomie des acteurs.",
+          "correction": "Le programme demande de montrer que les systèmes d'information sont à la fois structurants et susceptibles de verrouiller les pratiques."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "stmg"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Management",
+      "titre": "Motiver, évaluer et rétribuer le travail",
+      "source": "Programme de spécialité management de première STMG, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Le programme de management de première STMG articule ses thèmes avec ceux de sciences de gestion : la question des ressources humaines est centrale.",
+        "La motivation au travail peut être appréhendée par les besoins (Maslow), par la hiérarchie des besoins ou par la théorie des deux facteurs de Herzberg (facteurs d'hygiène et facteurs de motivation).",
+        "L'évaluation de l'activité repose sur des indicateurs : productivité, tableaux de bord, qualité et respect des objectifs.",
+        "Le coût global du travail comprend le salaire et les charges sociales ; la rémunération peut être individuelle ou collective, fixe ou variable."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel auteur a proposé une hiérarchie des besoins dans la motivation ?",
+          "options": [
+            "Abraham Maslow",
+            "Frederick Taylor",
+            "Peter Drucker",
+            "Henry Ford"
+          ],
+          "correct": 0,
+          "correction": "Maslow (1943) classe les besoins de l'individu en cinq niveaux, des besoins physiologiques à l'accomplissement de soi."
+        },
+        {
+          "type": "texte",
+          "q": "Quels éléments composent le coût global du travail ?",
+          "reponse": "Le salaire ou la rémunération directe, auquel s'ajoutent les charges sociales et les avantages indirects.",
+          "correction": "Le programme demande de calculer ce coût à partir de données sociales et comptables simplifiées pour éclairer les choix de gestion."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "stmg"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Management",
+      "titre": "Leadership, autorité et prise de décision collective",
+      "source": "Programme de spécialité management de première STMG, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Le management désigne la conduite d'une organisation : il combine l'exercice de l'autorité, la coordination des activités et la prise de décision.",
+        "Les styles de leadership classiques distinguent le style autoritaire, participatif et libéral (Lewin, Lippitt et White, 1939).",
+        "La centralisation et la décentralisation des décisions correspondent à des répartitions différentes de l'autorité et de la responsabilité.",
+        "La décision collective passe par des réunions, des échanges et une communication interne : elle peut améliorer l'adhésion mais allonger les délais."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle étude a distingué les styles de leadership autoritaire, participatif et libéral ?",
+          "options": [
+            "L'étude de Lewin, Lippitt et White",
+            "L'étude de Hawthorne",
+            "L'étude de Taylor sur le travail",
+            "L'étude de Maslow"
+          ],
+          "correct": 0,
+          "correction": "Les travaux de Kurt Lewin, Ronald Lippitt et Ralph White (1939) sur les climats de groupe définissent ces trois styles."
+        },
+        {
+          "type": "texte",
+          "q": "Quel est l'avantage principal d'une décision participative ?",
+          "reponse": "Elle accroît l'adhésion des acteurs et mobilise leurs connaissances, au prix d'un temps de décision plus long.",
+          "correction": "Le programme de management demande d'analyser les situations de communication et les rapports d'autorité à partir de scénarios concrets."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "stmg"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Droit et économie",
+      "titre": "Les sources du droit et la hiérarchie des normes",
+      "source": "Programme de spécialité droit et économie de la série STMG, BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Le programme de droit et économie STMG introduit les élèves aux règles juridiques applicables aux organisations et aux activités économiques.",
+        "Les sources du droit comprennent la Constitution, les lois, les règlements, les traités internationaux et les usages ; la jurisprudence contribue à l'interprétation des règles.",
+        "La hiérarchie des normes, théorisée par Hans Kelsen, organise ces sources : la norme supérieure prévaut sur la norme inférieure (Constitution > loi > règlement).",
+        "Le Conseil constitutionnel, créé par la Constitution de 1958, contrôle la conformité des lois à la Constitution."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle norme prévaut dans la hiérarchie des normes en France ?",
+          "options": [
+            "La Constitution",
+            "La loi",
+            "Le décret",
+            "L'arrêté préfectoral"
+          ],
+          "correct": 0,
+          "correction": "La Constitution de 1958 est la norme suprême de l'ordre juridique interne ; les lois et règlements doivent lui être conformes."
+        },
+        {
+          "type": "texte",
+          "q": "Quel rôle joue la jurisprudence ?",
+          "reponse": "Elle interprète les règles de droit par les décisions des tribunaux et peut préciser ou faire évoluer leur portée.",
+          "correction": "La jurisprudence n'est pas une source écrite de la loi, mais elle constitue une source importante du droit, notamment en droit civil et administratif."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "stmg"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Droit et économie",
+      "titre": "Concurrence, marché et régulation économique",
+      "source": "Programme de spécialité droit et économie de la série STMG, BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Le volet économique du programme STMG étudie le fonctionnement des marchés et l'intervention publique.",
+        "Sur un marché concurrentiel, le prix résulte de la confrontation de l'offre et de la demande ; les agents sont preneurs de prix.",
+        "Lorsque la concurrence est imparfaite (monopole, oligopole), un opérateur peut disposer d'un pouvoir de marché et fixer ses prix.",
+        "L'Autorité de la concurrence, créée par la loi du 15 mai 2001, veille au respect des règles de concurrence et sanctionne les ententes et les abus de position dominante."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Dans quel cas un producteur est-il « faiseur de prix » ?",
+          "options": [
+            "En situation de concurrence parfaite",
+            "En situation de monopole",
+            "Sur un marché de biens publics",
+            "Avec une demande parfaitement élastique"
+          ],
+          "correct": 1,
+          "correction": "En monopole, l'offreur unique fixe son prix ; en concurrence parfaite, les agents sont preneurs de prix."
+        },
+        {
+          "type": "texte",
+          "q": "Quel est le rôle de l'Autorité de la concurrence ?",
+          "reponse": "Veiller au libre jeu de la concurrence et sanctionner les pratiques anticoncurrentielles.",
+          "correction": "Elle contrôle notamment les concentrations, les ententes illicites et les abus de position dominante."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "stmg"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "EPS",
+      "titre": "L'évaluation de l'EPS en série technologique",
+      "source": "Programme d'éducation physique et sportive du lycée, BO spécial n° 1 du 22 janvier 2019 ; actualisation et ressources éduscol 2026",
+      "points": [
+        "En série STMG comme en voie générale, l'EPS est une épreuve obligatoire du contrôle continu comptant pour 10 % de la note finale du baccalauréat.",
+        "Les programmes d'EPS du lycée technologique poursuivent les mêmes finalités : développer les compétences psychomotrices et former des pratiquants autonomes et responsables.",
+        "L'évaluation porte sur les résultats obtenus au cours des trois années de lycée, appréciés au regard des objectifs et des contenus du programme.",
+        "Les élèves peuvent être dispensés de certaines épreuves pour raison de santé ; le règlement de l'examen prévoit alors une épreuve adaptée ou un examen supplémentaire."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle part de la note finale du bac l'EPS représente-t-elle ?",
+          "options": [
+            "5 %",
+            "10 %",
+            "15 %",
+            "20 %"
+          ],
+          "correct": 1,
+          "correction": "L'EPS compte pour 10 % de la note finale depuis la réforme du baccalauréat appliquée en 2020."
+        },
+        {
+          "type": "texte",
+          "q": "Sur quoi porte l'évaluation continue de l'EPS ?",
+          "reponse": "Sur les résultats scolaires des trois années de lycée, complétés le cas échéant par une attestation ou un examen adapté.",
+          "correction": "Le livret scolaire permet de suivre la progression de l'élève au regard des compétences attendues du programme."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "stmg"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "Gestion et finance",
+      "titre": "Le système d'information comptable et l'analyse financière",
+      "source": "Programme de spécialité management, sciences de gestion et numérique de terminale STMG, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'enseignement spécifique de gestion et finance de terminale s'appuie sur le système d'information comptable pour produire une information financière pertinente.",
+        "Le bilan décrit le patrimoine de l'entreprise à une date donnée : à l'actif les emplois, au passif les ressources ; le compte de résultat retrace les produits et les charges de l'exercice.",
+        "L'analyse de la situation financière porte sur la structure du bilan, la rentabilité et la trésorerie, à partir de ratios simples.",
+        "Le programme privilégie la compréhension des mécanismes et de l'usage de l'information financière plutôt que la technicité comptable."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle équilibre fondamental structure le bilan ?",
+          "options": [
+            "Actif = Passif",
+            "Produits = Charges",
+            "Recettes = Dépenses",
+            "Offre = Demande"
+          ],
+          "correct": 0,
+          "correction": "Le bilan équilibre toujours : le total de l'actif (emplois) égale le total du passif (ressources)."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la différence entre bilan et compte de résultat ?",
+          "reponse": "Le bilan décrit le patrimoine à une date donnée ; le compte de résultat retrace l'activité sur une période.",
+          "correction": "Ces deux documents sont les pièces essentielles du système d'information comptable de l'entreprise."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "stmg"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "Mercatique",
+      "titre": "Définir, distribuer et communiquer l'offre commerciale",
+      "source": "Programme de spécialité management, sciences de gestion et numérique de terminale STMG, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'enseignement spécifique de mercatique de terminale s'organise en trois thèmes : la définition de l'offre, sa distribution et sa communication.",
+        "La définition de l'offre part de l'étude des besoins et du comportement du consommateur : segmentation, ciblage et positionnement structurent la démarche marketing.",
+        "La distribution de l'offre concerne les canaux (distribution directe ou indirecte), la logistique et le merchandising en magasin ou sur les plateformes numériques.",
+        "La communication de l'offre mobilise la publicité, la promotion des ventes, les relations publiques et les réseaux sociaux ; le programme adopte les points de vue du consommateur, de l'organisation et de la société."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelles sont les trois étapes de la démarche de segmentation ?",
+          "options": [
+            "Segmentation, ciblage, positionnement",
+            "Production, distribution, vente",
+            "Offre, demande, prix",
+            "Analyse, décision, contrôle"
+          ],
+          "correct": 0,
+          "correction": "La démarche STP (Segmentation, Targeting, Positioning) structure la définition de l'offre en marketing."
+        },
+        {
+          "type": "texte",
+          "q": "Quels points de vue le programme de mercatique adopte-t-il ?",
+          "reponse": "Ceux du consommateur, de l'organisation et de la société.",
+          "correction": "Le programme demande de confronter ces trois regards, qui sont complémentaires et parfois concurrents."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "stmg"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "Ressources humaines",
+      "titre": "Motivation, compétences et communication interne",
+      "source": "Programme de spécialité management, sciences de gestion et numérique de terminale STMG, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'enseignement spécifique de ressources humaines et communication approfondit la gestion des ressources humaines dans les organisations.",
+        "La gestion par les compétences se distingue de la gestion par la qualification : la compétence combine savoirs, savoir-faire et comportements dans une situation de travail.",
+        "La formation professionnelle et la mobilité interne contribuent à l'adaptation des salariés et à la performance de l'organisation.",
+        "La communication interne (réunions, intranet, entretiens) joue un rôle dans la circulation de l'information, la coopération et la gestion des conflits."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Comment la qualification est-elle reconnue dans l'entreprise ?",
+          "options": [
+            "Par un diplôme ou une convention collective",
+            "Par une durée d'ancienneté minimale",
+            "Par un entretien annuel",
+            "Par une affectation aléatoire"
+          ],
+          "correct": 0,
+          "correction": "La qualification est reconnue par un diplôme ou une convention collective, tandis que la compétence s'observe en situation de travail."
+        },
+        {
+          "type": "texte",
+          "q": "Quels sont les effets attendus d'une bonne communication interne ?",
+          "reponse": "Une meilleure circulation de l'information, la coopération entre services et la prévention des conflits.",
+          "correction": "La communication interne est un levier de management : elle contribue à l'engagement des salariés et à la cohérence de l'action collective."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "stmg"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "Systèmes d'information et de gestion",
+      "titre": "Le SI de gestion et l'aide à la décision",
+      "source": "Programme de spécialité management, sciences de gestion et numérique de terminale STMG, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'enseignement spécifique de systèmes d'information de gestion (SIG) étudie la production et l'usage de l'information pour la décision.",
+        "Un SIG est un ensemble de ressources (données, logiciels, matériels, personnes, procédures) qui collecte et traite les informations de gestion.",
+        "La qualité de l'information repose sur sa fiabilité, sa pertinence, sa disponibilité et sa sécurité ; un tableau de bord synthétise les indicateurs clés.",
+        "Les systèmes d'aide à la décision et l'analyse de données permettent de simuler des scénarios et d'éclairer les choix du dirigeant."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est le rôle d'un tableau de bord de gestion ?",
+          "options": [
+            "Synthétiser les indicateurs clés pour piloter l'activité",
+            "Remplacer le dirigeant",
+            "Enregistrer les seules recettes",
+            "Classer le courrier"
+          ],
+          "correct": 0,
+          "correction": "Le tableau de bord présente régulièrement les indicateurs clés et signale les écarts par rapport aux objectifs."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles qualités doit posséder une information de gestion ?",
+          "reponse": "Elle doit être fiable, pertinente, disponible à temps et sécurisée.",
+          "correction": "Une information inexacte ou tardive conduit à des décisions inadaptées : la fiabilité et la fraîcheur sont essentielles au pilotage."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "sti2d"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Génie électrique et informatique industrielle",
+      "titre": "Les réseaux de capteurs et la communication industrielle",
+      "source": "Programmes des enseignements de spécialité de la série STI2D (I2D, 2I2D, génie électrique et informatique industrielle, physique-chimie et mathématiques appliquées), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'enseignement de génie électrique et informatique industrielle (GEII) étudie l'acquisition, le traitement et la transmission de l'information dans les systèmes industriels.",
+        "Un capteur convertit une grandeur physique en signal électrique ; un conditionneur adapte ce signal (amplification, filtrage) avant sa numérisation par un convertisseur analogique-numérique.",
+        "Les bus de terrain (CAN, Modbus, Profibus) permettent d'interconnecter automates, capteurs et actionneurs ; le protocole définit le format et les règles d'échange des données.",
+        "La fiabilité d'une liaison dépend du rapport signal sur bruit, de la longueur du câble et des perturbations électromagnétiques : le blindage et la masse améliorent la compatibilité électromagnétique."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel composant convertit un signal analogique en signal numérique ?",
+          "options": [
+            "Un amplificateur",
+            "Un convertisseur analogique-numérique",
+            "Un filtre passe-bas",
+            "Un relais"
+          ],
+          "correct": 1,
+          "correction": "Le convertisseur analogique-numérique (CAN) échantillonne et quantifie la tension pour la rendre exploitable par un automate."
+        },
+        {
+          "type": "texte",
+          "q": "Quel est le rôle d'un bus de terrain en automatisation ?",
+          "reponse": "Assurer la communication numérique entre les capteurs, les actionneurs et l'automate.",
+          "correction": "Le bus de terrain remplace les liaisons filaires parallèles par un câble unique partagé, ce qui simplifie le câblage et enrichit les informations échangées."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "sti2d"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Génie électrique et informatique industrielle",
+      "titre": "L'automate programmable et la logique de commande",
+      "source": "Programmes des enseignements de spécialité de la série STI2D (I2D, 2I2D, génie électrique et informatique industrielle, physique-chimie et mathématiques appliquées), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Un automate programmable industriel (API) est un calculateur dédié à la commande de machines : il acquiert des entrées, exécute un programme et pilote des sorties.",
+        "Le cycle de l'automate comprend la lecture des entrées, l'exécution du programme, la mise à jour des sorties et la communication.",
+        "Le langage à contacts (ladder) représente graphiquement les équations logiques à partir de contacts normalement ouverts ou fermés et de bobines.",
+        "La sûreté de fonctionnement impose des dispositifs d'arrêt d'urgence, des interverrouillages et une analyse des risques conformes aux normes de sécurité machines."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelles sont les étapes du cycle de fonctionnement d'un automate ?",
+          "options": [
+            "Lecture des entrées, exécution du programme, mise à jour des sorties",
+            "Écriture, compilation, téléchargement",
+            "Acquisition, stockage, affichage",
+            "Mesure, calcul, impression"
+          ],
+          "correct": 0,
+          "correction": "Le cycle répété par l'automate est : lire les entrées, exécuter le programme, actualiser les sorties, puis gérer la communication."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce qu'un contact normalement ouvert dans un schéma à contacts ?",
+          "reponse": "Un contact qui laisse passer le courant uniquement lorsqu'il est actionné.",
+          "correction": "Le langage ladder représente les conditions logiques par des contacts (NO ou NF) et les actions par des bobines."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "sti2d"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Ingénierie, innovation et développement durable",
+      "titre": "L'analyse fonctionnelle et le cahier des charges",
+      "source": "Programmes des enseignements de spécialité de la série STI2D (I2D, 2I2D, génie électrique et informatique industrielle, physique-chimie et mathématiques appliquées), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La démarche de conception en STI2D débute par l'analyse du besoin : elle identifie le demandeur, les utilisateurs et le contexte d'utilisation du produit.",
+        "La méthode APTE (Analyse de la Valeur) distingue les fonctions principales, les fonctions complémentaires et les contraintes ; elle se représente par un graphe des fonctions.",
+        "Le cahier des charges fonctionnel (CdCF) formalise le besoin en exigences quantifiées : performances, coût, délai, réglementation et impacts environnementaux.",
+        "La cotation fonctionnelle permet de hiérarchiser les exigences et d'évaluer objectivement les solutions par rapport au besoin."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Dans la méthode APTE, comment appelle-t-on la fonction qui justifie l'existence du produit ?",
+          "options": [
+            "La fonction principale",
+            "La fonction complémentaire",
+            "La contrainte",
+            "Le besoin secondaire"
+          ],
+          "correct": 0,
+          "correction": "La fonction principale répond au besoin essentiel ; les fonctions complémentaires ajoutent des services sans la remettre en cause."
+        },
+        {
+          "type": "texte",
+          "q": "Quel est l'intérêt d'un cahier des charges fonctionnel ?",
+          "reponse": "Traduire le besoin en exigences vérifiables et servir de référence pour comparer les solutions.",
+          "correction": "Le CdCF évite les malentendus entre le commanditaire et le concepteur en définissant des critères mesurables."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "sti2d"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Ingénierie, innovation et développement durable",
+      "titre": "L'écoconception et l'analyse du cycle de vie",
+      "source": "Programmes des enseignements de spécialité de la série STI2D (I2D, 2I2D, génie électrique et informatique industrielle, physique-chimie et mathématiques appliquées), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'écoconception intègre les exigences environnementales dès la phase de conception, pour réduire les impacts du produit tout au long de sa vie.",
+        "L'analyse du cycle de vie (ACV), normalisée ISO 14040 et 14044, évalue les impacts depuis l'extraction des matières premières jusqu'à la fin de vie.",
+        "Les indicateurs courants sont l'empreinte carbone (kg eq. CO2), la consommation d'énergie, l'épuisement des ressources et l'acidification.",
+        "La démarche « Reduce, Reuse, Recycle » et l'éco-qualification des matériaux guident les choix de conception : allègement, réparabilité et recyclabilité."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelles normes encadrent l'analyse du cycle de vie ?",
+          "options": [
+            "ISO 14040 et ISO 14044",
+            "ISO 9001 et ISO 14001",
+            "ISO 17025 et ISO 690",
+            "NF C 15-100 et IEC 60364"
+          ],
+          "correct": 0,
+          "correction": "L'ISO 14040 définit les principes et le cadre de l'ACV ; l'ISO 14044 en précise les exigences et lignes directrices."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi l'écoconception doit-elle intervenir dès la conception ?",
+          "reponse": "Parce que la majorité des impacts environnementaux et des coûts sont déterminés par les choix initiaux de conception.",
+          "correction": "Modifier un matériau ou une architecture en aval est coûteux : l'ACV permet d'identifier les phases les plus impactantes avant de figer les choix."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "sti2d"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Innovation technologique et éco-conception",
+      "titre": "La modélisation 3D et la simulation des produits",
+      "source": "Programmes des enseignements de spécialité de la série STI2D (I2D, 2I2D, génie électrique et informatique industrielle, physique-chimie et mathématiques appliquées), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'enseignement d'innovation technologique et éco-conception associe créativité, modélisation et démarche de projet.",
+        "La modélisation tridimensionnelle (CAO) permet de représenter un objet, de vérifier l'assemblage des pièces et de générer des plans de fabrication.",
+        "La simulation mécanique (éléments finis) estime les contraintes et les déformations ; la simulation thermique ou fluidique complète l'analyse.",
+        "La fabrication additive (impression 3D) permet de réaliser des prototypes rapidement : elle réduit les délais mais impose des contraintes de matière et d'orientation."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est le principal apport de la CAO en conception ?",
+          "options": [
+            "Visualiser et contrôler la géométrie avant la fabrication",
+            "Remplacer tout essai mécanique",
+            "Réduire le prix des matières premières",
+            "Supprimer les plans de fabrication"
+          ],
+          "correct": 0,
+          "correction": "La CAO permet de représenter l'objet, de vérifier les assemblages et de générer les plans de fabrication."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle limite de la fabrication additive faut-il mentionner ?",
+          "reponse": "La précision, la résistance anisotrope et le coût des matières limitent son usage aux prototypes ou à des pièces particulières.",
+          "correction": "L'impression 3D construit la pièce couche par couche : les propriétés mécaniques dépendent de l'orientation d'impression."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "sti2d"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Innovation technologique et éco-conception",
+      "titre": "Le choix des matériaux et la durabilité des produits",
+      "source": "Programmes des enseignements de spécialité de la série STI2D (I2D, 2I2D, génie électrique et informatique industrielle, physique-chimie et mathématiques appliquées), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Le choix d'un matériau résulte d'un compromis entre propriétés mécaniques, thermiques, électriques, coût, disponibilité et impact environnemental.",
+        "Les métaux, les polymères et les céramiques ont des comportements distincts : ductilité pour les métaux, légèreté et isolation pour les polymères, dureté et résistance thermique pour les céramiques.",
+        "Les traitements de surface (anodisation, trempe, revêtement) améliorent la résistance à la corrosion et à l'usure.",
+        "La durabilité d'un produit dépend de sa robustesse, de sa réparabilité et de la possibilité de séparer les matériaux en fin de vie."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle famille de matériaux est généralement la plus légère et la meilleure isolante électrique ?",
+          "options": [
+            "Les métaux",
+            "Les polymères",
+            "Les céramiques techniques",
+            "Les aciers"
+          ],
+          "correct": 1,
+          "correction": "Les polymères (plastiques) sont légers et bons isolants électriques et thermiques ; les métaux sont conducteurs."
+        },
+        {
+          "type": "texte",
+          "q": "Comment améliorer la réparabilité d'un produit ?",
+          "reponse": "En facilitant le démontage, en standardisant les pièces et en rendant les composants accessibles.",
+          "correction": "La réparabilité est l'un des critères de l'écoconception et fait l'objet d'un indice réglementaire pour certains produits."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "sti2d"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Physique-chimie et mathématiques appliquées",
+      "titre": "Cinétique chimique et réactivité des systèmes",
+      "source": "Programmes des enseignements de spécialité de la série STI2D (I2D, 2I2D, génie électrique et informatique industrielle, physique-chimie et mathématiques appliquées), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'enseignement de physique-chimie et mathématiques appliquées fournit les outils de modélisation nécessaires aux autres spécialités STI2D.",
+        "La vitesse d'une réaction dépend de la concentration des réactifs, de la température, de la pression et de la présence d'un catalyseur.",
+        "L'énergie d'activation est la barrière énergétique minimale qu'il faut franchir pour que la réaction s'amorce ; un catalyseur l'abaisse sans être consommé.",
+        "La loi d'Arrhenius k = A exp(-Ea/RT) relie la constante de vitesse à la température : une élévation de température accélère fortement la réaction."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel facteur augmente la vitesse d'une réaction sans être consommé ?",
+          "options": [
+            "Un catalyseur",
+            "Un inhibiteur",
+            "Un solvant inerte",
+            "Une pression réduite"
+          ],
+          "correct": 0,
+          "correction": "Le catalyseur abaisse l'énergie d'activation et se retrouve inchangé à la fin de la réaction."
+        },
+        {
+          "type": "texte",
+          "q": "Que décrit la loi d'Arrhenius ?",
+          "reponse": "La variation de la constante de vitesse d'une réaction avec la température et l'énergie d'activation.",
+          "correction": "k = A·exp(-Ea/RT) montre qu'une petite hausse de T peut multiplier la vitesse de réaction de façon importante."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "sti2d"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Physique-chimie et mathématiques appliquées",
+      "titre": "Métrologie, incertitudes et exploitation statistique",
+      "source": "Programmes des enseignements de spécialité de la série STI2D (I2D, 2I2D, génie électrique et informatique industrielle, physique-chimie et mathématiques appliquées), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La métrologie est la science de la mesure : elle définit les grandeurs, les unités et les méthodes pour quantifier un phénomène.",
+        "Le résultat d'une mesure s'exprime avec une incertitude : l'incertitude type est estimée à partir de la résolution de l'appareil et de la répétabilité des essais.",
+        "Une grandeur dérivée est calculée à partir de plusieurs grandeurs mesurées ; la propagation des incertitudes permet d'estimer la fiabilité du résultat.",
+        "Le traitement statistique (moyenne, écart-type, intervalle de confiance) permet de comparer des séries de mesures et de valider une hypothèse."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Comment exprime-t-on correctement le résultat d'une mesure ?",
+          "options": [
+            "Par une valeur seule",
+            "Par une valeur et son incertitude",
+            "Par le maximum observé",
+            "Par une arrondi à l'unité"
+          ],
+          "correct": 1,
+          "correction": "Une mesure complète comporte une valeur estimée et une incertitude, avec l'unité correspondante."
+        },
+        {
+          "type": "texte",
+          "q": "À quoi sert l'écart-type d'une série de mesures ?",
+          "reponse": "À mesurer la dispersion des valeurs autour de la moyenne.",
+          "correction": "Un faible écart-type indique une bonne répétabilité ; il intervient dans le calcul de l'incertitude et des intervalles de confiance."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "st2s"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Biologie et physiopathologie humaine",
+      "titre": "La physiopathologie de l'appareil respiratoire",
+      "source": "Programmes des enseignements de spécialité de la série ST2S (biologie et physiopathologie humaine, santé et biologie, sciences et techniques sanitaires et sociales), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La série ST2S étudie les mécanismes biologiques de la santé et de la maladie, afin de préparer aux métiers du sanitaire et du social.",
+        "L'appareil respiratoire assure l'hématose : les alvéoles pulmonaires permettent le passage de l'oxygène vers le sang et du dioxyde de carbone vers l'air.",
+        "L'asthme est une maladie inflammatoire chronique des bronches : il provoque une obstruction variable et réversible des voies aériennes.",
+        "La BPCO (bronchopneumopathie chronique obstructive) se caractérise par une obstruction persistante, souvent liée au tabagisme ; le diagnostic repose sur la spirométrie."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel examen mesure la fonction respiratoire ?",
+          "options": [
+            "La spirométrie",
+            "L'électrocardiogramme",
+            "L'échographie abdominale",
+            "La prise de température"
+          ],
+          "correct": 0,
+          "correction": "La spirométrie mesure les volumes et les débits pulmonaires ; elle est essentielle au diagnostic de l'asthme et de la BPCO."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle différence existe-t-il entre asthme et BPCO ?",
+          "reponse": "L'asthme est une obstruction réversible et variable ; la BPCO est une obstruction persistante et progressive.",
+          "correction": "Cette distinction est importante pour le suivi : l'asthme se traite surtout par bronchodilatateurs et anti-inflammatoires, la BPCO nécessite une prise en charge au long cours."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "st2s"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Biologie et physiopathologie humaine",
+      "titre": "Les déséquilibres biologiques et les marqueurs cliniques",
+      "source": "Programmes des enseignements de spécialité de la série ST2S (biologie et physiopathologie humaine, santé et biologie, sciences et techniques sanitaires et sociales), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'homéostasie désigne la capacité de l'organisme à maintenir constants ses paramètres internes malgré les variations de l'environnement.",
+        "La glycémie est régulée par l'insuline et le glucagon : une glycémie trop élevée caractérise le diabète, une glycémie trop basse l'hypoglycémie.",
+        "Les marqueurs biologiques (numération formule sanguine, ionogramme, créatininémie, CRP) aident au diagnostic et au suivi des maladies.",
+        "L'interprétation d'un résultat biologique se fait par comparaison avec des valeurs de référence et en tenant compte du contexte clinique."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle hormone abaisse la glycémie ?",
+          "options": [
+            "L'insuline",
+            "Le glucagon",
+            "L'adrénaline",
+            "La thyroxine"
+          ],
+          "correct": 0,
+          "correction": "L'insuline, sécrétée par les cellules bêta du pancréas, favorise l'entrée du glucose dans les cellules et abaisse la glycémie."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce qu'une valeur de référence biologique ?",
+          "reponse": "Une plage de valeurs observée chez une population saine, servant à interpréter les résultats d'un patient.",
+          "correction": "Une valeur hors de cette plage n'est pas automatiquement pathologique : le contexte clinique et les variations individuelles comptent."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "st2s"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Santé et biologie",
+      "titre": "Prévention primaire, secondaire et tertiaire",
+      "source": "Programmes des enseignements de spécialité de la série ST2S (biologie et physiopathologie humaine, santé et biologie, sciences et techniques sanitaires et sociales), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La prévention en santé vise à éviter l'apparition des maladies ou à limiter leurs conséquences.",
+        "La prévention primaire agit avant la maladie (vaccination, éducation à la santé, lutte contre le tabac) ; la prévention secondaire dépiste précocement (dépistage du cancer).",
+        "La prévention tertiaire intervient après la maladie pour éviter les complications et favoriser la réadaptation.",
+        "Les déterminants de santé sont multiples : comportements individuels, conditions de vie et de travail, accès aux soins et politiques publiques."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel exemple relève de la prévention secondaire ?",
+          "options": [
+            "La vaccination",
+            "Un dépistage organisé du cancer du sein",
+            "La rééducation après un AVC",
+            "Une campagne contre le tabagisme"
+          ],
+          "correct": 1,
+          "correction": "Le dépistage vise à détecter précocement une maladie : c'est la prévention secondaire."
+        },
+        {
+          "type": "texte",
+          "q": "Quels sont les trois niveaux de prévention ?",
+          "reponse": "Primaire (avant la maladie), secondaire (dépistage précoce) et tertiaire (éviter les complications).",
+          "correction": "Cette gradation est un outil central des politiques de santé publique enseignées en ST2S."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "st2s"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Santé et biologie",
+      "titre": "Épidémies, surveillance sanitaire et vieillissement",
+      "source": "Programmes des enseignements de spécialité de la série ST2S (biologie et physiopathologie humaine, santé et biologie, sciences et techniques sanitaires et sociales), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La surveillance sanitaire repose sur des réseaux de veille : Santé publique France collecte et analyse les données épidémiologiques.",
+        "Une épidémie est l'apparition d'un nombre de cas supérieur à ce qui est attendu dans une population et une période données ; une pandémie touche plusieurs continents.",
+        "Le taux d'incidence compte les nouveaux cas ; le taux de prévalence compte l'ensemble des cas à un moment donné.",
+        "Le vieillissement de la population accroît la prévalence des maladies chroniques et la demande de soins, ce qui pose des défis d'organisation du système de santé."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel indicateur compte les nouveaux cas d'une maladie sur une période donnée ?",
+          "options": [
+            "Le taux d'incidence",
+            "Le taux de prévalence",
+            "Le taux de mortalité",
+            "Le taux de natalité"
+          ],
+          "correct": 0,
+          "correction": "L'incidence compte les nouveaux cas ; la prévalence compte l'ensemble des cas existants à un instant donné."
+        },
+        {
+          "type": "texte",
+          "q": "Quel organisme assure la veille sanitaire en France ?",
+          "reponse": "Santé publique France, agence nationale de santé publique créée en 2016.",
+          "correction": "Elle surveille les maladies infectieuses, les risques environnementaux et diffuse les données épidémiologiques."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "st2s"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Sciences et techniques sanitaires et sociales",
+      "titre": "L'organisation du système de santé français",
+      "source": "Programmes des enseignements de spécialité de la série ST2S (biologie et physiopathologie humaine, santé et biologie, sciences et techniques sanitaires et sociales), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Le système de santé français repose sur une organisation complexe associant l'État, l'Assurance maladie, les collectivités et les professionnels de santé.",
+        "L'Assurance maladie, créée en 1945, gère le remboursement des soins ; son financement provient des cotisations et de la CSG.",
+        "Les soins de premier recours sont assurés par les médecins généralistes ; les hôpitaux et les cliniques prennent en charge les soins plus spécialisés.",
+        "Les agences régionales de santé (ARS), créées en 2010, pilotent les politiques de santé au niveau régional."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel organisme gère le remboursement des soins en France ?",
+          "options": [
+            "L'Assurance maladie",
+            "Santé publique France",
+            "La HAS",
+            "L'ARS"
+          ],
+          "correct": 0,
+          "correction": "L'Assurance maladie rembourse les dépenses de santé ; Santé publique France fait de la veille et la HAS évalue les pratiques."
+        },
+        {
+          "type": "texte",
+          "q": "Quel est le rôle des agences régionales de santé ?",
+          "reponse": "Piloter et coordonner les actions de santé publique et l'offre de soins dans leur région.",
+          "correction": "Les ARS réunissent les missions de veille sanitaire, de contrôle et d'organisation des soins au niveau régional."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "st2s"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Sciences et techniques sanitaires et sociales",
+      "titre": "Protection sociale et risques sanitaires",
+      "source": "Programmes des enseignements de spécialité de la série ST2S (biologie et physiopathologie humaine, santé et biologie, sciences et techniques sanitaires et sociales), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La protection sociale française repose sur des régimes d'assurance et d'assistance qui couvrent les risques maladie, vieillesse, accident du travail et chômage.",
+        "Le principe de mutualisation répartit le coût des risques entre les cotisants ; la solidarité nationale complète ce dispositif.",
+        "Les mutuelles et assurances complémentaires prennent en charge tout ou partie des frais non remboursés par l'Assurance maladie.",
+        "Les inégalités d'accès aux soins restent un enjeu : elles dépendent du revenu, de la couverture complémentaire et de la densité de l'offre de soins sur le territoire."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel principe fonde le financement de l'Assurance maladie ?",
+          "options": [
+            "La mutualisation des risques",
+            "La capitalisation individuelle",
+            "Le financement volontaire",
+            "La tarification à l'acte"
+          ],
+          "correct": 0,
+          "correction": "La mutualisation répartit les dépenses de santé entre l'ensemble des cotisants, selon le principe de solidarité."
+        },
+        {
+          "type": "texte",
+          "q": "Que recouvre le reste à charge pour un patient ?",
+          "reponse": "La part des dépenses de santé non prise en charge par l'Assurance maladie et la complémentaire.",
+          "correction": "Le reste à charge peut être réduit par une mutuelle ou par des dispositifs comme la Complémentaire santé solidaire."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "stl"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Chimie",
+      "titre": "Les polymères : synthèse, structure et propriétés",
+      "source": "Programmes des enseignements de spécialité de la série STL (chimie, physique et matériaux), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Un polymère est une macromolécule formée par la répétition d'unités monomériques reliées par des liaisons covalentes.",
+        "La polymérisation par addition (polyéthylène, polystyrène) ou par condensation (polyesters, polyamides) conduit à des structures linéaires, ramifiées ou réticulées.",
+        "La masse molaire élevée et la structure chaînée expliquent la viscosité des polymères fondus et leurs propriétés mécaniques particulières.",
+        "Le recyclage des polymères dépend de leur nature : le tri par type de résine est indispensable, car les mélanges dégradent les propriétés du matériau."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel type de polymérisation donne le polyéthylène ?",
+          "options": [
+            "Par addition",
+            "Par condensation",
+            "Par réticulation ionique",
+            "Par polymérisation en émulsion"
+          ],
+          "correct": 0,
+          "correction": "Le polyéthylène résulte de la polymérisation par addition de l'éthylène (CH2=CH2)."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi faut-il trier les déchets plastiques par résine ?",
+          "reponse": "Parce que les polymères sont incompatibles entre eux et qu'un mélange dégrade les propriétés du matériau recyclé.",
+          "correction": "Le tri oriente chaque flux vers une filière de recyclage mécanique ou chimique adaptée à la résine."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "stl"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Chimie",
+      "titre": "Électrochimie : piles, accumulateurs et corrosion",
+      "source": "Programmes des enseignements de spécialité de la série STL (chimie, physique et matériaux), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'électrochimie étudie les réactions d'oxydoréduction et leur conversion en énergie électrique.",
+        "Dans une pile, l'oxydation a lieu à l'anode (électrode négative) et la réduction à la cathode (électrode positive) ; les électrons circulent dans le circuit externe.",
+        "Une pile primaire est non rechargeable (pile Leclanché) ; un accumulateur est rechargeable (accumulateur lithium-ion, plomb-acide).",
+        "La corrosion du fer est une oxydation électrochimique : la formation de rouille est favorisée par l'eau et l'oxygène ; la protection par sacrifice ou par revêtement limite le phénomène."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "À quelle électrode a lieu l'oxydation dans une pile ?",
+          "options": [
+            "À l'anode",
+            "À la cathode",
+            "Aux deux électrodes",
+            "Dans l'électrolyte"
+          ],
+          "correct": 0,
+          "correction": "L'oxydation se produit à l'anode (pôle négatif en fonctionnement galvanique) et la réduction à la cathode."
+        },
+        {
+          "type": "texte",
+          "q": "Comment protéger une structure métallique de la corrosion ?",
+          "reponse": "Par un revêtement (peinture, galvanisation) ou par une anode sacrificielle en métal plus réactif.",
+          "correction": "La protection cathodique utilise un métal sacrifice (zinc, magnésium) qui s'oxyde à la place du métal protégé."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "stl"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Physique et matériaux",
+      "titre": "Circuits électriques en régime continu",
+      "source": "Programmes des enseignements de spécialité de la série STL (chimie, physique et matériaux), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La série STL étudie les propriétés des matériaux et leurs applications dans les circuits et les dispositifs.",
+        "La loi d'Ohm s'écrit U = R I pour un conducteur ohmique à température constante ; la résistance dépend de la résistivité, de la longueur et de la section du fil.",
+        "Les lois de Kirchhoff permettent d'analyser les circuits : la somme des courants en un nœud est nulle et la somme des tensions dans une maille est nulle.",
+        "La puissance dissipée dans une résistance vaut P = U I = R I² ; elle se transforme en chaleur, ce qui impose un dimensionnement thermique."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Comment évolue la résistance d'un fil conducteur avec sa section ?",
+          "options": [
+            "Elle augmente proportionnellement",
+            "Elle diminue inversement",
+            "Elle reste constante",
+            "Elle augmente comme le carré"
+          ],
+          "correct": 1,
+          "correction": "R = ρ L / S : la résistance est inversement proportionnelle à la section S du conducteur."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la différence entre la loi d'Ohm et les lois de Kirchhoff ?",
+          "reponse": "La loi d'Ohm relie tension, courant et résistance ; les lois de Kirchhoff s'appliquent aux nœuds et aux mailles d'un circuit.",
+          "correction": "La loi d'Ohm U = R I caractérise un conducteur ; les lois de Kirchhoff expriment la conservation du courant en un nœud et des tensions dans une maille."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "stl"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Physique et matériaux",
+      "titre": "Optique et propriétés optiques des matériaux",
+      "source": "Programmes des enseignements de spécialité de la série STL (chimie, physique et matériaux), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'optique géométrique décrit la propagation de la lumière à l'aide de rayons et de lois simples.",
+        "La loi de Snell-Descartes régit la réfraction : n1 sin(i) = n2 sin(r), où n est l'indice de réfraction du milieu.",
+        "Une lentille convergente forme une image réelle et renversée d'un objet situé au-delà de sa distance focale ; la relation de conjugaison 1/f = 1/p + 1/p' permet de la localiser.",
+        "Les propriétés optiques des matériaux (indice, absorption, diffusion, biréfringence) sont utilisées dans les fibres optiques, les verres et les revêtements."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle relation décrit la réfraction de la lumière ?",
+          "options": [
+            "La loi de Snell-Descartes",
+            "La loi de Coulomb",
+            "La loi de Laplace",
+            "La loi de Faraday"
+          ],
+          "correct": 0,
+          "correction": "La loi de Snell-Descartes relie les indices et les angles d'incidence et de réfraction."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce que la distance focale d'une lentille ?",
+          "reponse": "La distance entre le centre optique de la lentille et son foyer image pour un rayon parallèle à l'axe.",
+          "correction": "La distance focale caractérise la puissance de la lentille : P = 1/f (en dioptries si f est en mètres)."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "std2a"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Design et arts appliqués",
+      "titre": "Design de produit et design de service",
+      "source": "Programmes des enseignements de spécialité de la série STD2A (design et arts appliqués, histoire de l'art et du design), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La série STD2A forme aux métiers du design : elle articule pratique plastique, culture artistique et méthodes de conception.",
+        "Le design de produit concerne les objets industriels : il vise l'usage, l'esthétique, la faisabilité technique et la viabilité économique.",
+        "Le design de service, développé à partir des années 2000, conçoit un parcours utilisateur et les interactions entre les différents points de contact.",
+        "La démarche de design intègre la recherche utilisateur, l'idéation, le prototypage et le test : le design thinking illustre cette approche itérative."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel objet le design de service a-t-il pour finalité ?",
+          "options": [
+            "Un parcours utilisateur et des interactions",
+            "Un objet industriel isolé",
+            "Une structure métallique",
+            "Un logo"
+          ],
+          "correct": 0,
+          "correction": "Le design de service conçoit un parcours et les interactions entre l'utilisateur et l'organisation."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles étapes composent une démarche de design thinking ?",
+          "reponse": "Comprendre l'utilisateur, définir le problème, imaginer des idées, prototyper et tester.",
+          "correction": "Cette méthode itérative est enseignée comme outil de conception : elle privilégie l'expérimentation et le retour utilisateur."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "std2a"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Design et arts appliqués",
+      "titre": "Typographie et composition graphique",
+      "source": "Programmes des enseignements de spécialité de la série STD2A (design et arts appliqués, histoire de l'art et du design), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La typographie est un outil de communication visuelle : le choix de la police, de la graisse et de l'espacement influe sur la lecture et le sens.",
+        "On distingue les caractères à empattements (serif, comme le Times) et les caractères sans empattements (sans serif, comme Helvetica).",
+        "Les principes de la composition (équilibre, hiérarchie, contraste, rythme, unité) structurent une page ou une interface.",
+        "La grille de mise en page, héritée du mouvement suisse des années 1950, organise les éléments et assure la cohérence d'un ensemble de supports."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est le rôle d'une grille de mise en page ?",
+          "options": [
+            "Organiser les éléments et assurer la cohérence",
+            "Imposer une police unique",
+            "Supprimer les titres",
+            "Remplacer la hiérarchie visuelle"
+          ],
+          "correct": 0,
+          "correction": "La grille organise les éléments graphiques et garantit la cohérence de la composition d'un ensemble de supports."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle différence oppose caractères serif et sans serif ?",
+          "reponse": "Les caractères serif ont des empattements ; les sans serif en sont dépourvus et paraissent plus modernes.",
+          "correction": "Le choix dépend du contexte : les serif sont souvent perçus comme plus classiques et lisibles en texte long."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "std2a"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Histoire de l'art et du design",
+      "titre": "Le Bauhaus et le design industriel",
+      "source": "Programmes des enseignements de spécialité de la série STD2A (design et arts appliqués, histoire de l'art et du design), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Le Bauhaus est une école d'art et d'architecture fondée en 1919 à Weimar par Walter Gropius : elle vise l'unité de l'art, de l'artisanat et de la technologie.",
+        "L'école se déplace à Dessau en 1925 puis à Berlin en 1932, avant sa fermeture par les nazis en 1933.",
+        "Les ateliers du Bauhaus (mobilier, textile, typographie, photographie, architecture) produisent des objets fonctionnels et standardisés.",
+        "Le Bauhaus a profondément influencé le design industriel et l'architecture moderne : la chaise Wassily de Marcel Breuer et la lampe MT8 de William Wagenfeld en sont des emblèmes."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Qui a fondé le Bauhaus en 1919 ?",
+          "options": [
+            "Walter Gropius",
+            "Mies van der Rohe",
+            "Le Corbusier",
+            "Hannes Meyer"
+          ],
+          "correct": 0,
+          "correction": "Walter Gropius fonde le Bauhaus à Weimar en 1919 ; Mies van der Rohe en est le dernier directeur."
+        },
+        {
+          "type": "texte",
+          "q": "Quel principe définit la démarche du Bauhaus ?",
+          "reponse": "L'unité de l'art, de l'artisanat et de la technologie au service d'une production fonctionnelle et accessible.",
+          "correction": "Le Bauhaus refuse la séparation entre beaux-arts et arts appliqués et cherche à produire en série des objets simples et bien conçus."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "std2a"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Histoire de l'art et du design",
+      "titre": "Les avant-gardes artistiques du XXe siècle",
+      "source": "Programmes des enseignements de spécialité de la série STD2A (design et arts appliqués, histoire de l'art et du design), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Les avant-gardes du XXe siècle rompent avec les représentations traditionnelles et explorent de nouveaux langages visuels.",
+        "Le cubisme (Picasso, Braque, 1907-1912) décompose les objets en plans multiples et refuse la perspective unique.",
+        "Le surréalisme (Breton, Man Ray, Dali) explore l'inconscient et le hasard ; le dadaïsme (1916) conteste l'art par l'absurde et le ready-made.",
+        "L'abstraction (Kandinsky, Mondrian) et le constructivisme russe (Tatline, El Lissitzky) relient la recherche plastique aux idéaux sociaux et à l'architecture."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel mouvement artistique inaugure la décomposition des objets en plans multiples ?",
+          "options": [
+            "Le cubisme",
+            "L'impressionnisme",
+            "Le romantisme",
+            "Le baroque"
+          ],
+          "correct": 0,
+          "correction": "Le cubisme, né vers 1907 avec Picasso et Braque, brise la perspective classique pour représenter un objet sous plusieurs angles."
+        },
+        {
+          "type": "texte",
+          "q": "Qu'est-ce qu'un ready-made dans le dadaïsme ?",
+          "reponse": "Un objet industriel ordinaire présenté comme une œuvre d'art, souvent simplement signé ou déplacé.",
+          "correction": "Marcel Duchamp avec Fontaine (1917) en est l'exemple le plus connu : le geste de choisir prime sur la fabrication."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "sthr"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Cuisine",
+      "titre": "Les cuissons de base et la préparation des sauces",
+      "source": "Programmes des enseignements de spécialité de la série STHR (sciences et technologies de l'hôtellerie et de la restauration), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La série STHR associe enseignements généraux et enseignements professionnels dans les métiers de l'hôtellerie-restauration.",
+        "Les cuissons sont classées selon le mode de transfert de chaleur : conduction (poêle, sauteuse), convection (four, friteuse) et rayonnement (gril, braise).",
+        "Les cuissons mixtes (braisage, rôtissage) combinent plusieurs modes et permettent d'attendrir les viandes par une cuisson longue à température modérée.",
+        "Les sauces mères de la cuisine française (béchamel, velouté, espagnole, hollandaise, tomate) servent de base aux nombreuses sauces dérivées."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel mode de cuisson utilise une friteuse ?",
+          "options": [
+            "La conduction",
+            "La convection",
+            "Le rayonnement",
+            "La conduction et le rayonnement"
+          ],
+          "correct": 1,
+          "correction": "La friture transmet la chaleur par convection dans l'huile chaude."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles sont les cinq sauces mères classiques ?",
+          "reponse": "Béchamel, velouté, espagnole, hollandaise et sauce tomate.",
+          "correction": "Cette classification, codifiée par Escoffier, structure l'enseignement des sauces en cuisine."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "sthr"
+      ],
+      "annees": [
+        "1re",
+        "Terminale"
+      ],
+      "matiere": "Restauration",
+      "titre": "L'hygiène alimentaire et la méthode HACCP",
+      "source": "Programmes des enseignements de spécialité de la série STHR (sciences et technologies de l'hôtellerie et de la restauration), BO spécial n° 1 du 22 janvier 2019 et n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'hygiène en restauration vise à prévenir les dangers biologiques, chimiques et physiques pour le consommateur.",
+        "La méthode HACCP (Hazard Analysis and Critical Control Points) identifie les points critiques de contrôle tout au long de la chaîne alimentaire.",
+        "Les sept principes de l'HACCP comprennent l'analyse des dangers, la détermination des points critiques, la fixation de limites critiques, la surveillance et la vérification.",
+        "La traçabilité, le respect de la chaîne du froid, le lavage des mains et la séparation des aliments crus et cuits sont des pratiques obligatoires."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que signifie le sigle HACCP ?",
+          "options": [
+            "Analyse des dangers et points critiques pour leur maîtrise",
+            "Hygiène et contrôle des cantines",
+            "Assurance qualité certifiée",
+            "Contrôle des denrées périssables"
+          ],
+          "correct": 0,
+          "correction": "HACCP = Hazard Analysis and Critical Control Points : analyse des dangers et des points critiques pour leur maîtrise."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi séparer les aliments crus et cuits ?",
+          "reponse": "Pour éviter la contamination croisée par des micro-organismes pathogènes.",
+          "correction": "La séparation des flux, avec des plans de travail et des ustensiles distincts, est une mesure fondamentale de l'hygiène alimentaire."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "pro-commerce"
+      ],
+      "annees": [
+        "1re pro",
+        "Terminale pro"
+      ],
+      "matiere": "Pratique professionnelle",
+      "titre": "Le suivi des ventes et le traitement des réclamations",
+      "source": "Référentiel du baccalauréat professionnel Métiers du commerce et de la vente, arrêté du 17 décembre 2018 modifié, éduscol ; programme d'économie-gestion, BO spécial n° 1 du 22 janvier 2019",
+      "points": [
+        "Le référentiel MCV définit trois activités communes aux deux options : conseiller et vendre, suivre les ventes, fidéliser la clientèle et développer la relation client.",
+        "Le suivi des ventes comprend le suivi de la livraison, le suivi du règlement, la mise en place des services associés et le traitement des retours et réclamations.",
+        "Un litige se traite selon la procédure de l'entreprise : écouter le client, identifier le problème, vérifier les documents (bon de commande, facture, conditions générales), proposer une solution et rendre compte en interne.",
+        "La mesure de la satisfaction client (enquêtes, avis, remontées SAV) alimente le système d'information commercial et permet de proposer des améliorations."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel document contractuel fixe les conditions de la vente au client ?",
+          "options": [
+            "Le bon de commande et les conditions générales de vente",
+            "Le plan de marketing",
+            "Le budget prévisionnel",
+            "Le bilan"
+          ],
+          "correct": 0,
+          "correction": "Le bon de commande et les CGV précisent prix, modalités de livraison, paiement et garanties."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles étapes suivre pour traiter une réclamation ?",
+          "reponse": "Écouter le client, analyser le litige, vérifier les documents, proposer une solution et transmettre l'information en interne.",
+          "correction": "Le référentiel attend une réponse adaptée et une remontée d'information aux services concernés pour éviter que le litige se reproduise."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "pro-commerce"
+      ],
+      "annees": [
+        "2nde pro",
+        "1re pro",
+        "Terminale pro"
+      ],
+      "matiere": "Économie et gestion",
+      "titre": "Le calcul du prix de vente et de la marge commerciale",
+      "source": "Référentiel du baccalauréat professionnel Métiers du commerce et de la vente, arrêté du 17 décembre 2018 modifié, éduscol ; programme d'économie-gestion, BO spécial n° 1 du 22 janvier 2019",
+      "points": [
+        "En bac pro commerce, l'économie-gestion porte sur les calculs commerciaux courants : prix d'achat, marge, prix de vente et taxes.",
+        "La marge commerciale brute est la différence entre le prix de vente hors taxes et le prix d'achat hors taxes ; le taux de marge se calcule par rapport au prix d'achat ou au prix de vente.",
+        "Le prix de vente toutes taxes comprises s'obtient en appliquant le taux de TVA en vigueur au prix hors taxes : P TTC = P HT × (1 + taux TVA).",
+        "Le seuil de rentabilité correspond au chiffre d'affaires pour lequel l'entreprise couvre l'ensemble de ses charges : il se calcule à partir des charges fixes et de la marge sur coûts variables."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Un article acheté 80 € HT est vendu 100 € HT. Quelle est la marge commerciale ?",
+          "options": [
+            "20 €",
+            "25 €",
+            "80 €",
+            "100 €"
+          ],
+          "correct": 0,
+          "correction": "La marge commerciale brute vaut 100 − 80 = 20 € HT ; le taux de marge sur achat est de 25 %."
+        },
+        {
+          "type": "texte",
+          "q": "Comment passe-t-on d'un prix hors taxes à un prix toutes taxes comprises ?",
+          "reponse": "On multiplie le prix HT par 1 plus le taux de TVA : P TTC = P HT × (1 + taux).",
+          "correction": "Avec un taux normal de 20 %, un article à 100 € HT coûte 120 € TTC ; la TVA représente alors 20 €."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "pro-commerce"
+      ],
+      "annees": [
+        "1re pro",
+        "Terminale pro"
+      ],
+      "matiere": "Français professionnel",
+      "titre": "Rédiger un compte rendu d'activité commerciale",
+      "source": "Référentiel du baccalauréat professionnel Métiers du commerce et de la vente, arrêté du 17 décembre 2018 modifié, éduscol ; programme d'économie-gestion, BO spécial n° 1 du 22 janvier 2019",
+      "points": [
+        "Le français professionnel en bac pro vise l'expression écrite et orale claire, adaptée à une situation de travail.",
+        "Un compte rendu d'activité suit un plan simple : la date, le contexte, les actions réalisées, les résultats chiffrés et les propositions d'action.",
+        "La rédaction doit être objective : distinguer les faits observés des interprétations, utiliser des phrases courtes et éviter le jargon inutile.",
+        "Les outils numériques (tableur, traitement de texte, messagerie) servent à collecter les données, structurer le document et le transmettre à la hiérarchie."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle partie d'un compte rendu présente les chiffres de l'activité ?",
+          "options": [
+            "L'introduction",
+            "Les résultats chiffrés",
+            "La conclusion",
+            "Les références bibliographiques"
+          ],
+          "correct": 1,
+          "correction": "Les résultats chiffrés (ventes, objectifs, écarts) constituent une partie centrale du compte rendu d'activité."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles qualités doit avoir un écrit professionnel ?",
+          "reponse": "Clarté, concision, objectivité et adaptation au destinataire.",
+          "correction": "Un écrit professionnel doit pouvoir être lu rapidement et conduire à une décision : il distingue les faits des commentaires."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "pro-gestion"
+      ],
+      "annees": [
+        "1re pro",
+        "Terminale pro"
+      ],
+      "matiere": "Pratique professionnelle",
+      "titre": "L'organisation du poste et la gestion des priorités",
+      "source": "Référentiel du baccalauréat professionnel Assistance à la gestion des organisations et de leurs activités (AGO), arrêté du 17 décembre 2018, éduscol",
+      "points": [
+        "Le bac pro AGO forme à l'assistance à la gestion des organisations : accueil, traitement de l'information, suivi administratif et comptable.",
+        "L'organisation du poste de travail repose sur la préparation des tâches, le classement des documents et la gestion des flux d'information entrants et sortants.",
+        "La priorisation des tâches utilise des critères objectifs : urgence, importance, délai et impact ; la matrice urgence/importance est un outil courant.",
+        "Le respect des procédures internes et de la confidentialité des données est une exigence permanente du métier."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel outil permet de hiérarchiser les tâches selon leur urgence et leur importance ?",
+          "options": [
+            "La matrice urgence/importance",
+            "Le bilan",
+            "Le plan comptable",
+            "Le diagramme de Gantt"
+          ],
+          "correct": 0,
+          "correction": "La matrice urgence/importance classe les tâches en quatre quadrants et aide à décider de l'ordre de traitement."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles exigences s'imposent dans le traitement de l'information administrative ?",
+          "reponse": "La fiabilité, la rapidité, le respect des procédures et la confidentialité des données.",
+          "correction": "L'assistant de gestion manipule des informations sensibles : il doit appliquer les règles de protection et de conservation des données."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "pro-gestion"
+      ],
+      "annees": [
+        "2nde pro",
+        "1re pro",
+        "Terminale pro"
+      ],
+      "matiere": "Économie et gestion",
+      "titre": "Les formes juridiques et la responsabilité des organisations",
+      "source": "Référentiel du baccalauréat professionnel Assistance à la gestion des organisations et de leurs activités (AGO), arrêté du 17 décembre 2018, éduscol",
+      "points": [
+        "L'économie-gestion du bac pro AGO donne les repères juridiques et économiques nécessaires à la compréhension des organisations.",
+        "Les principales formes juridiques sont l'entreprise individuelle, la micro-entreprise, l'EURL, la SARL et la SA ; elles diffèrent par le nombre d'associés et la responsabilité.",
+        "La responsabilité peut être limitée aux apports (SARL, SA) ou illimitée (entreprise individuelle) : ce choix engage le patrimoine personnel du dirigeant.",
+        "Le dirigeant et l'assistant de gestion doivent connaître les grandes fonctions de l'entreprise : achats, production, ventes, finances et ressources humaines."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Dans quelle forme juridique la responsabilité est-elle limitée aux apports ?",
+          "options": [
+            "L'entreprise individuelle",
+            "La SARL",
+            "L'artisan sans société",
+            "L'entreprise individuelle avec micro-entreprise"
+          ],
+          "correct": 1,
+          "correction": "En SARL, les associés ne répondent des dettes qu'à hauteur de leurs apports, sauf faute de gestion."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle différence y a-t-il entre micro-entreprise et entreprise individuelle classique ?",
+          "reponse": "La micro-entreprise bénéficie d'un régime fiscal et social simplifié, avec des plafonds de chiffre d'affaires.",
+          "correction": "Le micro-entrepreneur déclare son chiffre d'affaires et paie un pourcentage forfaitaire, mais ne peut pas déduire ses charges réelles."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "pro-gestion"
+      ],
+      "annees": [
+        "1re pro",
+        "Terminale pro"
+      ],
+      "matiere": "Français professionnel",
+      "titre": "La rédaction professionnelle : note, courriel et compte rendu",
+      "source": "Référentiel du baccalauréat professionnel Assistance à la gestion des organisations et de leurs activités (AGO), arrêté du 17 décembre 2018, éduscol",
+      "points": [
+        "L'expression écrite professionnelle s'adapte au destinataire, à l'objet et au canal utilisé.",
+        "Une note interne suit un format précis : objet, destinataire, date, développement structuré et éventuelles pièces jointes.",
+        "Un courriel professionnel comporte un objet explicite, une formule d'appel, un corps clair et une signature ; les pièces jointes sont annoncées.",
+        "La correction orthographique et syntaxique est indispensable : une faute nuit à la crédibilité de l'organisation."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle mention permet de situer immédiatement le sujet d'un courriel ?",
+          "options": [
+            "L'objet",
+            "La signature",
+            "La pièce jointe",
+            "La date d'envoi"
+          ],
+          "correct": 0,
+          "correction": "L'objet doit être précis et court : il annonce le contenu et permet de classer le message."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle structure recommande-t-on pour une note interne ?",
+          "reponse": "Un objet, un destinataire, une date, un développement structuré et, si besoin, des pièces jointes.",
+          "correction": "Cette structure facilite la lecture et le classement : elle est enseignée comme outil de communication administrative."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "pro-sante"
+      ],
+      "annees": [
+        "1re pro",
+        "Terminale pro"
+      ],
+      "matiere": "Pratique professionnelle",
+      "titre": "L'accompagnement des personnes dans les actes de la vie quotidienne",
+      "source": "Référentiel du baccalauréat professionnel Accompagnement, soins et services à la personne (ASSP), arrêté du 17 décembre 2018, éduscol",
+      "points": [
+        "Le bac pro ASSP prépare aux métiers de l'accompagnement des personnes âgées, handicapées ou en situation de dépendance.",
+        "L'accompagnement dans les actes de la vie quotidienne comprend l'aide à la toilette, à l'habillage, aux repas, à la mobilité et aux déplacements.",
+        "La posture professionnelle repose sur le respect de la personne, son autonomie, sa dignité et la consultation de son consentement.",
+        "Les gestes sont réalisés selon des protocoles d'hygiène et de sécurité, et font l'objet d'une transmission écrite dans le dossier de suivi."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel principe doit guider l'aide apportée à une personne en perte d'autonomie ?",
+          "options": [
+            "Préserver son autonomie et sa dignité",
+            "Faire systématiquement à sa place",
+            "Limiter les choix de la personne",
+            "Éviter toute transmission"
+          ],
+          "correct": 0,
+          "correction": "L'accompagnement vise le « faire avec » : la personne est associée aux décisions et conserve ses capacités."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles informations doivent être transmises après un soin d'aide ?",
+          "reponse": "Les gestes réalisés, la réaction de la personne, les observations et toute anomalie constatée.",
+          "correction": "La transmission est un devoir professionnel : elle assure la continuité de l'accompagnement entre les membres de l'équipe."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "pro-sante"
+      ],
+      "annees": [
+        "2nde pro",
+        "1re pro",
+        "Terminale pro"
+      ],
+      "matiere": "Économie et gestion",
+      "titre": "L'organisation d'un service et la gestion des plannings",
+      "source": "Référentiel du baccalauréat professionnel Accompagnement, soins et services à la personne (ASSP), arrêté du 17 décembre 2018, éduscol",
+      "points": [
+        "Dans les établissements d'accueil, l'organisation du service conditionne la qualité de l'accompagnement et la sécurité des personnes.",
+        "Le planning répartit les effectifs selon les besoins : il tient compte des pics d'activité, des temps de repas, des soins et des repos.",
+        "La continuité du service impose une transmission entre équipes et une traçabilité des présences et des remplacements.",
+        "Le respect du temps de travail et des règles de repos est encadré par le Code du travail et les conventions collectives."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel document organise la répartition des agents sur une journée ?",
+          "options": [
+            "Le planning de service",
+            "Le bilan financier",
+            "Le contrat de travail",
+            "Le règlement intérieur"
+          ],
+          "correct": 0,
+          "correction": "Le planning de service répartit les agents par poste et par horaire selon les besoins de la structure."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi la transmission entre équipes est-elle indispensable ?",
+          "reponse": "Pour assurer la continuité de l'accompagnement et éviter la perte d'informations sur les personnes.",
+          "correction": "Une transmission écrite et orale permet à l'équipe suivante de connaître les besoins, les risques et les événements du service."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "pro-sante"
+      ],
+      "annees": [
+        "1re pro",
+        "Terminale pro"
+      ],
+      "matiere": "Français professionnel",
+      "titre": "Le dossier de suivi et la qualité de la transmission",
+      "source": "Référentiel du baccalauréat professionnel Accompagnement, soins et services à la personne (ASSP), arrêté du 17 décembre 2018, éduscol",
+      "points": [
+        "La communication professionnelle dans le secteur sanitaire et social doit être précise, discrète et traçable.",
+        "Le dossier de suivi consigne les informations utiles : identité, besoins, habitudes de vie, prestations réalisées et observations.",
+        "Une bonne transmission distingue les faits des hypothèses, utilise un vocabulaire clair et évite les jugements de valeur.",
+        "Le secret professionnel s'applique à toutes les informations concernant la personne : elles ne peuvent être partagées qu'avec les professionnels concernés."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle règle s'impose pour les informations concernant une personne accompagnée ?",
+          "options": [
+            "Le secret professionnel",
+            "La libre diffusion",
+            "La publication sur les réseaux sociaux",
+            "L'absence de trace écrite"
+          ],
+          "correct": 0,
+          "correction": "Le secret professionnel est une obligation déontologique et pénale : les informations ne sont partagées qu'avec les professionnels concernés."
+        },
+        {
+          "type": "texte",
+          "q": "Comment rédiger une transmission de qualité ?",
+          "reponse": "En rapportant des faits précis, datés et objectifs, sans interprétation personnelle.",
+          "correction": "La transmission vise à informer l'équipe : elle doit être lisible, concise et vérifiable."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "pro-electricite"
+      ],
+      "annees": [
+        "1re pro",
+        "Terminale pro"
+      ],
+      "matiere": "Pratique professionnelle",
+      "titre": "La pose et le raccordement des câbles et appareillages",
+      "source": "Référentiel du baccalauréat professionnel Métiers de l'électricité et de ses environnements connectés (MELEC), arrêté du 17 décembre 2018, éduscol",
+      "points": [
+        "Le bac pro MELEC prépare aux métiers de l'électricité et de ses environnements connectés : installation, mise en service, maintenance et dépannage.",
+        "La pose des câbles respecte les règles de la norme NF C 15-100 : cheminement, section, protection et mise à la terre.",
+        "Le raccordement des appareillages (interrupteurs, prises, luminaires) s'effectue selon les schémas de câblage et après vérification de la continuité et de l'isolement.",
+        "La mise en service comprend les essais de continuité, de tension et de fonctionnement, puis la remise des documents au client."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle norme régit les installations électriques basse tension en France ?",
+          "options": [
+            "La NF C 15-100",
+            "L'ISO 9001",
+            "La NF EN ISO 14001",
+            "La IEC 61508"
+          ],
+          "correct": 0,
+          "correction": "La norme NF C 15-100 fixe les règles de conception et de réalisation des installations électriques basse tension."
+        },
+        {
+          "type": "texte",
+          "q": "Quels contrôles précèdent la mise en service d'une installation ?",
+          "reponse": "Les essais de continuité des conducteurs, de résistance d'isolement et de conformité de la mise à la terre.",
+          "correction": "Ces contrôles garantissent la sécurité électrique avant la mise sous tension définitive."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "pro-electricite"
+      ],
+      "annees": [
+        "2nde pro",
+        "1re pro",
+        "Terminale pro"
+      ],
+      "matiere": "Économie et gestion",
+      "titre": "Le devis et la facturation d'une intervention",
+      "source": "Référentiel du baccalauréat professionnel Métiers de l'électricité et de ses environnements connectés (MELEC), arrêté du 17 décembre 2018, éduscol",
+      "points": [
+        "L'activité d'un électricien comprend l'évaluation du coût des interventions et la facturation des travaux.",
+        "Le devis est un document commercial qui détaille les prestations, les quantités, les prix unitaires, la TVA et les conditions de validité.",
+        "La facture reprend les éléments du devis après réalisation : elle mentionne le numéro de facture, la date, le client, le détail des prestations et le total TTC.",
+        "Le suivi des paiements et la gestion des créances sont essentiels à la trésorerie de l'entreprise."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel document propose un prix avant la réalisation des travaux ?",
+          "options": [
+            "Le devis",
+            "La facture",
+            "Le bon de livraison",
+            "Le bilan"
+          ],
+          "correct": 0,
+          "correction": "Le devis chiffre la prestation à l'avance ; la facture est émise après exécution des travaux."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles mentions doit comporter une facture ?",
+          "reponse": "L'identité du vendeur et du client, le numéro et la date de facture, le détail des prestations, les totaux HT et TTC et le taux de TVA.",
+          "correction": "Ces mentions sont exigées par le Code de commerce et permettent le suivi comptable et fiscal."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "pro-electricite"
+      ],
+      "annees": [
+        "1re pro",
+        "Terminale pro"
+      ],
+      "matiere": "Français professionnel",
+      "titre": "La lecture d'un schéma et le rapport d'intervention",
+      "source": "Référentiel du baccalauréat professionnel Métiers de l'électricité et de ses environnements connectés (MELEC), arrêté du 17 décembre 2018, éduscol",
+      "points": [
+        "Dans le métier d'électricien, la maîtrise des documents techniques et la rédaction de comptes rendus sont quotidiennes.",
+        "Un schéma électrique utilise des symboles normalisés (IEC) : il représente les composants et leurs liaisons, indépendamment de l'implantation physique.",
+        "Le rapport d'intervention indique l'identité du site, la date, la nature de la panne, les actions menées, les résultats des mesures et les recommandations.",
+        "La clarté du rapport facilite la facturation, le suivi de la garantie et la transmission à l'équipe de maintenance."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel type de schéma représente les composants et leurs liaisons fonctionnelles ?",
+          "options": [
+            "Un schéma électrique",
+            "Un plan d'implantation",
+            "Un plan de masse",
+            "Une coupe de bâtiment"
+          ],
+          "correct": 0,
+          "correction": "Le schéma électrique montre les liaisons électriques avec des symboles normalisés, sans représenter la position réelle des appareils."
+        },
+        {
+          "type": "texte",
+          "q": "Que doit contenir un rapport d'intervention ?",
+          "reponse": "Le site, la date, le diagnostic, les actions réalisées, les mesures et les préconisations.",
+          "correction": "Ce document est à la fois technique et commercial : il justifie l'intervention et sert de preuve pour le client."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "pro-maintenance"
+      ],
+      "annees": [
+        "1re pro",
+        "Terminale pro"
+      ],
+      "matiere": "Pratique professionnelle",
+      "titre": "L'organisation d'une intervention de maintenance sur site",
+      "source": "Référentiel du baccalauréat professionnel Maintenance des matériels, arrêté du 17 décembre 2018, éduscol",
+      "points": [
+        "Le bac pro Maintenance des matériels forme à la maintenance préventive et corrective de matériels agricoles, de construction ou de manutention.",
+        "Une intervention suit les étapes : prise d'information, préparation des outils et pièces, diagnostic, réparation, essais et compte rendu.",
+        "La sécurité sur site impose le port d'équipements de protection, la consignation des énergies et le respect des procédures de l'entreprise.",
+        "La maintenance de premier niveau peut être réalisée sur site ; les interventions plus lourdes sont effectuées en atelier."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle opération précède impérativement une intervention sur une machine ?",
+          "options": [
+            "La consignation des énergies",
+            "La facturation",
+            "La commande de pièces",
+            "La formation du client"
+          ],
+          "correct": 0,
+          "correction": "La consignation (verrouillage, mise à zéro énergétique) garantit que la machine ne peut pas redémarrer pendant l'intervention."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles sont les grandes étapes d'une intervention de maintenance ?",
+          "reponse": "Information, préparation, diagnostic, réparation, essais et compte rendu.",
+          "correction": "Cette séquence structure l'activité professionnelle et permet de garantir la qualité et la traçabilité de l'intervention."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "pro-maintenance"
+      ],
+      "annees": [
+        "2nde pro",
+        "1re pro",
+        "Terminale pro"
+      ],
+      "matiere": "Économie et gestion",
+      "titre": "Le coût de la maintenance et le suivi des interventions",
+      "source": "Référentiel du baccalauréat professionnel Maintenance des matériels, arrêté du 17 décembre 2018, éduscol",
+      "points": [
+        "La maintenance représente un coût pour l'entreprise : main-d'œuvre, pièces, outillage et immobilisation du matériel.",
+        "Le coût d'une intervention se calcule en additionnant le temps de main-d'œuvre, le prix des pièces et les frais de déplacement.",
+        "La maintenance préventive réduit les pannes coûteuses mais entraîne des arrêts programmés : il faut trouver un optimum économique.",
+        "La GMAO (gestion de maintenance assistée par ordinateur) permet de planifier les interventions et de suivre les coûts et les historiques."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel outil informatique planifie et suit les interventions de maintenance ?",
+          "options": [
+            "Une GMAO",
+            "Un tableur de paie",
+            "Un logiciel de comptabilité seule",
+            "Un navigateur web"
+          ],
+          "correct": 0,
+          "correction": "La GMAO (Computerized Maintenance Management System) gère les plans de maintenance, les ordres de travail et les historiques."
+        },
+        {
+          "type": "texte",
+          "q": "Quel compromis la maintenance préventive implique-t-elle ?",
+          "reponse": "Accepter des arrêts programmés pour réduire le risque et le coût des pannes imprévues.",
+          "correction": "Une politique de maintenance optimise le coût total entre interventions préventives et correctives."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "pro-maintenance"
+      ],
+      "annees": [
+        "1re pro",
+        "Terminale pro"
+      ],
+      "matiere": "Français professionnel",
+      "titre": "Rédiger un rapport d'intervention et renseigner la GMAO",
+      "source": "Référentiel du baccalauréat professionnel Maintenance des matériels, arrêté du 17 décembre 2018, éduscol",
+      "points": [
+        "Le technicien de maintenance doit renseigner les documents d'intervention pour assurer la traçabilité des opérations.",
+        "L'ordre de travail consigne la demande, le matériel concerné, le diagnostic, les opérations réalisées et le temps passé.",
+        "Le rapport est rédigé avec un vocabulaire technique précis et des mesures chiffrées ; il distingue la panne constatée de la cause identifiée.",
+        "Les données saisies dans la GMAO alimentent les statistiques de fiabilité et aident à améliorer les méthodes de maintenance."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel document consigne le détail d'une opération de maintenance ?",
+          "options": [
+            "L'ordre de travail",
+            "Le bon de commande fournisseur",
+            "Le contrat de travail",
+            "Le bilan"
+          ],
+          "correct": 0,
+          "correction": "L'ordre de travail décrit la demande, les opérations et le temps passé : il est la base du rapport d'intervention."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi les données de maintenance doivent-elles être fiables ?",
+          "reponse": "Parce qu'elles servent à calculer les coûts, à planifier les interventions et à améliorer la fiabilité des matériels.",
+          "correction": "Une donnée erronée fausse les statistiques de pannes et peut conduire à de mauvaises décisions de maintenance."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2333 @@
+{
+ "fiches": [
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Culture générale et expression",
+   "titre": "Chapitre : comprendre et interpréter un texte — méthode et thème au BO",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-2 programme de culture générale ; arrêté du 13 juillet 2023",
+   "points": [
+    "L'enseignement de culture générale vise deux objectifs : consolider les compétences langagières (aisance à l'oral et à l'écrit) et nourrir une culture générale et humaniste ouverte sur les questions de société, d'éthique et d'esthétique.",
+    "En première année, le professeur choisit librement les thèmes, textes et documents selon trois principes : créer une culture commune, développer la curiosité pour le monde contemporain, former le jugement personnel dans le respect de la pensée d'autrui.",
+    "En deuxième année, un thème annuel est étudié ; il est publié au Bulletin officiel avec un intitulé, une problématique et des indications bibliographiques qui délimitent le sujet ; l'épreuve E1 s'inscrit dans ce thème.",
+    "Lecture méthodique : identifier le type de document (essai, article, texte littéraire, document iconographique), son auteur, sa date, son contexte, le thème et la thèse ; dégager la structure (idées principales, articulations logiques, progression) et les procédés rhétoriques.",
+    "Interprétation : distinguer les faits des jugements de valeur, repérer les impressions et les anecdotes, analyser les images et les comparaisons, expliquer le sens des mots et des expressions, mettre en relation le texte avec le thème et avec d'autres documents du corpus.",
+    "Construction du sens : une phrase clé résume le propos de chaque paragraphe ; les connecteurs logiques (cause, conséquence, opposition, concession, illustration) révèlent le raisonnement de l'auteur et les transitions entre parties.",
+    "Écrits d'appropriation : la note de lecture ou le commentaire personnel doit être organisé (introduction avec présentation du document et problématique, axes de lecture, conclusion ouverte), avec des citations brèves et exactes et une référence précise (auteur, œuvre, date, page).",
+    "Tisser des liens entre textes : comparer deux documents sur la même question, dégager des convergences et des divergences, identifier les angles d'analyse différents et construire une problématique commune.",
+    "Culture personnelle : tenir un carnet de lecture avec références, idées et citations ; pouvoir mobiliser des œuvres, des auteurs et des notions vus en classe pour enrichir une réflexion personnelle et l'argumentation.",
+    "Méthode d'analyse en 5 étapes : (1) lire sans annoter, (2) délimiter les parties et dégager les idées, (3) analyser les procédés et le point de vue, (4) confronter au thème et aux autres documents, (5) rédiger une synthèse structurée et personnelle."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Où est publié le thème de culture générale étudié en deuxième année ?",
+     "options": [
+      "Dans le règlement intérieur de l'établissement",
+      "Au Bulletin officiel",
+      "Dans le manuel de l'élève",
+      "Sur le site de l'entreprise d'accueil"
+     ],
+     "correct": 1,
+     "correction": "Le thème de deuxième année fait l'objet d'une publication au BO avec intitulé, problématique et indications bibliographiques ; l'épreuve E1 s'inscrit dans ce thème."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel est l'objectif prioritaire de l'enseignement de culture générale ?",
+     "options": [
+      "Apprendre par cœur des dates",
+      "Consolider l'expression orale et écrite et nourrir la culture humaniste",
+      "Préparer uniquement le rapport de stage",
+      "Étudier la grammaire sans texte"
+     ],
+     "correct": 1,
+     "correction": "Les deux objectifs essentiels sont le renforcement des compétences langagières et le développement d'une culture générale et humaniste reliée aux questions contemporaines."
+    },
+    {
+     "type": "qcm",
+     "q": "Qu'appelle-t-on « écrits de travail » ?",
+     "options": [
+      "Des écrits littéraires publiés",
+      "Des notes, synthèses ou comptes rendus qui gardent trace d'une réflexion ou d'une information",
+      "Uniquement les devoirs notés",
+      "Les courriels professionnels"
+     ],
+     "correct": 1,
+     "correction": "Les écrits de travail (notes de lecture, prises de notes, plans, synthèses) servent à ressaisir l'essentiel d'un texte ou d'un discours et à préparer une production orale ou écrite."
+    },
+    {
+     "type": "qcm",
+     "q": "Dans une lecture méthodique, que faut-il d'abord identifier ?",
+     "options": [
+      "La conclusion de l'auteur",
+      "Le type de document, l'auteur, la date et le contexte",
+      "Le nombre de paragraphes",
+      "Le titre uniquement"
+     ],
+     "correct": 1,
+     "correction": "La situation d'énonciation (type de texte, auteur, date, contexte de publication) est indispensable pour interpréter correctement le propos et le point de vue."
+    },
+    {
+     "type": "rédaction",
+     "q": "Proposer une méthode pour analyser un texte argumentatif en vue d'un commentaire.",
+     "correction": "Lire le texte intégralement puis par parties ; situer le document (auteur, date, nature, contexte) ; dégager la thèse et la problématique ; repérer les arguments et leurs exemples ainsi que les connecteurs logiques ; analyser les procédés rhétoriques (métaphores, oppositions, questions, appel à l'autorité) et le ton ; confronter les idées au thème du programme et aux autres documents du corpus ; rédiger un plan (introduction avec accroche, présentation et problématique ; deux ou trois axes ; synthèse personnelle) en appuyant chaque affirmation sur une citation courte et exacte."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment construire une problématique à partir d'un corpus de deux textes contradictoires ?",
+     "correction": "Dégager d'abord la question commune aux deux documents (par exemple : « quelle place donner à la science dans la décision publique ? ») ; identifier les thèses opposées et les raisons avancées de part et d'autre ; repérer les points de désaccord (définitions, valeurs, faits invoqués) et les éventuels terrains d'entente ; formuler une question qui ne se réponde pas par un simple oui/non mais qui ouvre une réflexion (exemple : « comment concilier la rigueur scientifique et la prudence éthique face à une innovation ? ») ; annoncer le plan qui confronte les deux positions puis propose une synthèse personnelle."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Culture générale et expression",
+   "titre": "Chapitre : argumenter à l'écrit — essai et synthèse",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-2 programme de culture générale ; arrêté du 13 juillet 2023",
+   "points": [
+    "L'argumentation écrite est la compétence prioritaire de l'épreuve E1 : elle suppose une réflexion personnelle, structurée et nuancée, appuyée sur des exemples et des références.",
+    "Deux types d'écrits sont distingués : l'essai (écriture personnelle, peu de contraintes formelles, défense d'une thèse avec des arguments et des exemples) et la synthèse (restitution objective et organisée des idées de plusieurs documents, sans apport personnel sauf conclusion).",
+    "Structure type d'un essai : introduction (amorce, présentation du sujet, problématique, annonce du plan), développement en deux ou trois parties avec des arguments hiérarchisés et des exemples, conclusion (bilan et ouverture).",
+    "Un argument se distingue d'un exemple : l'argument est une raison générale qui soutient la thèse ; l'exemple est un cas concret qui l'illustre ; une affirmation sans justification n'est pas un argument.",
+    "Nuancer : utiliser des connecteurs de concession (certes, toutefois, néanmoins), de relativisation (dans une certaine mesure, il semble que) et éviter les généralisations hâtives (toujours, jamais, tout le monde).",
+    "Registre de l'écrit vs de l'oral : l'écrit privilégie des phrases complètes, des articulations explicites et un lexique précis ; l'oral tolère la reprise, l'hésitation et le commentaire déictique ; des exercices de transposition permettent de passer de l'un à l'autre.",
+    "La synthèse de documents doit être fidèle (ne rien inventer), neutre (pas de jugement personnel), complète (toutes les idées essentielles de tous les documents) et organisée selon un plan imposé ou construit.",
+    "Les révisions : relire pour vérifier la cohérence du plan, la présence d'exemples, l'accord grammatical, l'orthographe et la ponctuation ; une production relue et corrigée progresse plus qu'une production multiple non corrigée.",
+    "Gestion du temps à l'écrit : 3 h pour l'épreuve ; réserver du temps à la lecture et au plan (environ 45 min), à la rédaction (1 h 45) et à la relecture (20-30 min).",
+    "Lien avec le métier : la capacité à argumenter et à rédiger un texte clair est directement mobilisée dans les comptes rendus d'analyse, les rapports de non-conformité et les courriers professionnels (voir U8)."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle est la différence entre un argument et un exemple ?",
+     "options": [
+      "Ils sont identiques",
+      "L'argument est une raison générale, l'exemple un cas concret qui l'illustre",
+      "L'exemple est toujours plus important",
+      "L'argument doit toujours être chiffré"
+     ],
+     "correct": 1,
+     "correction": "L'argument est une raison qui justifie la thèse ; l'exemple rend cette raison tangible. Un devoir qui ne contient que des exemples sans raisonnement reste descriptif."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelles expressions permettent de nuancer une affirmation ?",
+     "options": [
+      "« Toujours » et « jamais »",
+      "« Certes », « toutefois », « dans une certaine mesure »",
+      "« Évidemment » et « forcément »",
+      "« En conclusion » uniquement"
+     ],
+     "correct": 1,
+     "correction": "Les marqueurs de concession et de relativisation permettent d'exprimer une réserve et d'éviter la généralisation absolue."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle exigence est propre à la synthèse de documents ?",
+     "options": [
+      "Exprimer son opinion personnelle à chaque paragraphe",
+      "Restituer fidèlement et objectivement les idées des documents",
+      "Utiliser uniquement des citations longues",
+      "Ne pas respecter de plan"
+     ],
+     "correct": 1,
+     "correction": "La synthèse est un exercice de restitution neutre : on sélectionne les idées essentielles de tous les documents sans ajouter son propre point de vue (sauf dans une conclusion distincte)."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle durée est prévue pour l'épreuve écrite de culture générale et expression ?",
+     "options": [
+      "2 h",
+      "3 h",
+      "4 h",
+      "45 min"
+     ],
+     "correct": 1,
+     "correction": "L'épreuve E1 (U1) est une épreuve écrite ponctuelle de 3 heures, coefficient 1."
+    },
+    {
+     "type": "rédaction",
+     "q": "Rédiger le plan détaillé d'un essai sur la question : « La rigueur scientifique est-elle incompatible avec la créativité ? ».",
+     "correction": "Introduction : anecdote ou constat (découverte fortuite de la pénicilline), présentation du débat et problématique (« peut-on innover en respectant strictement les protocoles ? »), annonce du plan. I. La rigueur comme condition de la créativité : le protocole garantit la fiabilité, la reproductibilité, la sécurité ; exemples : validation d'une méthode au laboratoire, NASA, recherche clinique. II. La rigueur peut contraindre l'imagination : excès de procédures, peur de l'erreur, routine ; exemples : bureaucratie, découvertes accidentelles. III. Dépassement : la créativité peut porter sur la méthode elle-même (design d'expérience, optimisation) ; synthèse personnelle : rigueur et créativité sont complémentaires si la première est un outil au service de la seconde. Conclusion : bilan et ouverture sur la formation du technicien supérieur."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment organiser la relecture finale d'une copie de culture générale ?",
+     "correction": "Vérifier d'abord la structure (introduction avec problématique, parties distinctes et équilibrées, conclusion) ; contrôler que chaque partie contient des arguments et des exemples, et que les transitions sont explicites ; traquer les généralisations et les assertions non justifiées ; relire pour l'orthographe (accords, homophones, conjugaison), la ponctuation et la présentation ; vérifier que les citations sont exactes et référencées ; s'assurer que la réponse traite bien le thème du BO et que toutes les questions de la consigne sont abordées."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Culture générale et expression",
+   "titre": "Chapitre : expression orale, débat et écrits de travail",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-2 programme de culture générale ; arrêté du 13 juillet 2023",
+   "points": [
+    "L'expression orale en continu (exposé, restitution de lecture, soutenance) exige un discours organisé, clair et adapté à l'auditoire, avec une posture et une voix maîtrisées et des supports visuels lisibles.",
+    "L'expression orale en interaction (débat, discussion, réunion) suppose d'écouter, de prendre en compte les idées d'autrui, d'exprimer son accord, ses réserves ou son désaccord, et de défendre une opinion avec des arguments.",
+    "Préparer un exposé : définir l'objectif et le public, construire un plan (3 parties maximum), préparer des notes synthétiques (mots-clés, non un texte lu), choisir des supports (diaporama, schéma) et répéter en chronométrant.",
+    "Techniques de présentation : accroche, annonce du plan, transitions annoncées, synthèses partielles, regard circulaire, voix posée, gestes sobre ; conclure par une synthèse et une ouverture.",
+    "Conduite d'un débat : reformuler la question, écouter et noter les arguments des autres, répondre point par point, argumenter avec des exemples, admettre un point favorable à l'adversaire avant de nuancer sa propre position.",
+    "Les écrits de travail : prise de notes pendant un exposé, carnet de lecture, fiche de synthèse, plan de rédaction ; ils aident à mémoriser et à réutiliser les informations dans une production personnelle.",
+    "Prise de notes efficace : noter les idées plutôt que les mots, utiliser des abréviations et un système de hiérarchie (titres, puces), indiquer les exemples et les chiffres, distinguer les faits des commentaires personnels.",
+    "Réflexion sur la langue : travailler régulièrement grammaire, orthographe et lexique à partir de ses propres productions ; comprendre la langue comme un système pour mieux la maîtriser.",
+    "Auto-évaluation : après une production orale, identifier les points forts et les axes d'amélioration (débit, articulation, regard, structure, pertinence des exemples) ; après une production écrite, repérer les erreurs récurrentes.",
+    "Transfert professionnel : compter rendu d'analyse, présentation d'un rapport de stage, réunion d'équipe et formation d'un nouveau technicien mobilisent directement ces compétences (U8)."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quel support est conseillé pour un exposé oral ?",
+     "options": [
+      "Un texte intégral lu à haute voix",
+      "Des notes de mots-clés structurées et un diaporama lisible",
+      "Un document non préparé",
+      "Une lecture de dictionnaire"
+     ],
+     "correct": 1,
+     "correction": "Lire un texte rédigé nuit au contact avec l'auditoire : des notes synthétiques et des supports visuels simples permettent un discours vivant et structuré."
+    },
+    {
+     "type": "qcm",
+     "q": "Dans un débat, quelle attitude est attendue ?",
+     "options": [
+      "Couper la parole pour imposer son point de vue",
+      "Écouter, reformuler et répondre avec des arguments nuancés",
+      "Refuser tout désaccord",
+      "Ne jamais changer d'avis"
+     ],
+     "correct": 1,
+     "correction": "Le débat évalue la capacité d'écoute, de reformulation et d'argumentation, y compris la reconnaissance d'arguments adverses et la nuance."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel est l'intérêt du carnet de lecture ?",
+     "options": [
+      "Remplacer la lecture des œuvres",
+      "Garder une trace des références, idées et citations pour les réutiliser",
+      "Noter uniquement les notes obtenues",
+      "Éviter la réflexion personnelle"
+     ],
+     "correct": 1,
+     "correction": "Le carnet de lecture est un outil d'appropriation : il conserve les références et les idées pour pouvoir les mobiliser dans des productions ultérieures."
+    },
+    {
+     "type": "qcm",
+     "q": "Comment améliorer durablement son orthographe ?",
+     "options": [
+      "En relisant uniquement la veille de l'examen",
+      "En travaillant régulièrement à partir de ses propres productions et en corrigeant ses erreurs récurrentes",
+      "En évitant d'écrire",
+      "En utilisant uniquement un correcteur automatique"
+     ],
+     "correct": 1,
+     "correction": "La progressivité et la régularité des exercices de révision à partir d'erreurs réelles sont plus efficaces qu'une relecture ponctuelle ou une dépendance au correcteur."
+    },
+    {
+     "type": "rédaction",
+     "q": "Proposer un plan de préparation d'un exposé oral de 10 minutes sur un thème culturel.",
+     "correction": "Choisir une problématique claire et un public cible ; rassembler 3 à 5 sources fiables et les citer ; construire un plan en trois parties avec une idée directrice par partie et un exemple concret chacune ; préparer une accroche et une conclusion ouverte ; rédiger des notes de mots-clés (pas un texte intégral) ; préparer 5 à 8 diapositives avec titre, schéma ou image et peu de texte ; répéter à voix haute en chronométrant (10 min) et ajuster ; prévoir les transitions et une question pour solliciter l'auditoire ; vérifier le matériel et s'installer face au public."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment transformer une prise de notes en synthèse écrite structurée ?",
+     "correction": "Relire les notes et repérer les idées directrices, éliminer les répétitions et les détails ; regrouper les idées par thème et les hiérarchiser (idée principale, sous-idée, exemple) ; choisir un plan logique (chronologique, thématique ou dialectique) et le faire apparaître par des titres ; rédiger des phrases complètes en reliant les idées par des connecteurs ; ajouter une introduction qui situe le document et une conclusion qui dégage l'essentiel ; vérifier la fidélité aux notes (ne pas inventer) et la clarté pour un lecteur qui n'a pas assisté à l'exposé."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Anglais",
+   "titre": "Chapitre : compréhension de documents écrits professionnels (niveau B2)",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-2 programme de langues vivantes ; CECRL niveau B2",
+   "points": [
+    "Le niveau visé en fin de formation est B2 pour l'anglais obligatoire (B1 pour la langue facultative) dans les quatre activités langagières : compréhension et production de l'écrit, compréhension et production de l'oral.",
+    "Au niveau B2, l'étudiant comprend l'essentiel de textes complexes, y compris une discussion technique dans sa spécialité, et peut communiquer avec spontanéité et aisance avec un locuteur natif.",
+    "Types de documents professionnels à maîtriser : mode d'emploi d'un appareil, notice de réactif (SDS/SDS sheets), procédure opératoire (SOP), courriels, rapports d'analyse, articles scientifiques, contrats, factures, catalogues fournisseurs.",
+    "Méthode de lecture : repérer d'abord les indices visuels (titre, sous-titre, paragraphe d'introduction, conclusion, gras, chiffres, dates), puis pratiquer une lecture survol (skimming) pour l'idée globale et une lecture ciblée (scanning) pour une information précise.",
+    "Vocabulaire technique du laboratoire : sample, batch/lot, reagent, expiry date, calibration, validation, accuracy, precision, uncertainty, traceability, deviation, non-conformity, CAPA, audit, stability, shelf life, SOP, GMP, GLP.",
+    "Repérer les faits et les opinions : un article spécialisé peut défendre une position ; il faut distinguer les données (chiffres, résultats) des commentaires (however, in my view, presumably) et identifier l'intention de l'auteur.",
+    "Les consignes de sécurité en anglais : repérer les impératifs et modaux (must, should, never, do not), les avertissements (warning, caution, danger), les mentions de danger (H-statements) et les conseils de prudence (P-statements) du système SGH.",
+    "Exploiter des sources multiples : comparer une notice constructeur, un article et un courriel pour extraire les informations pertinentes et les synthétiser en français ou en anglais selon la consigne.",
+    "Stratégies de compréhension : deviner le sens d'un mot par le contexte et les mots de la même famille, utiliser les cognats et faux amis (actually, eventually, to control, a batch), ne pas s'arrêter sur chaque mot inconnu.",
+    "Évaluation : les situations d'évaluation en CCF portent sur des tâches professionnelles (comprendre un courriel d'un fournisseur, lire une procédure, préparer un déplacement) avec des niveaux d'exigence B2 définis par le programme."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quel est le niveau CECRL visé en anglais obligatoire en fin de BTS ?",
+     "options": [
+      "A2",
+      "B1",
+      "B2",
+      "C1"
+     ],
+     "correct": 2,
+     "correction": "Le programme fixe le niveau B2 pour l'anglais obligatoire et B1 pour la langue vivante facultative."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle méthode permet de trouver rapidement une date ou un numéro de lot dans un document ?",
+     "options": [
+      "La lecture intégrale mot pour mot",
+      "Le scanning (lecture ciblée)",
+      "La traduction intégrale",
+      "La lecture à voix haute"
+     ],
+     "correct": 1,
+     "correction": "Le scanning consiste à balayer le texte à la recherche d'un type d'information précis (date, chiffre, mot-clé) sans lire tout le document."
+    },
+    {
+     "type": "qcm",
+     "q": "Que signifie l'abréviation « SDS » dans une notice de réactif ?",
+     "options": [
+      "Safety Data Sheet",
+      "Standard Delivery System",
+      "Sample Data Sheet",
+      "Safety Detection System"
+     ],
+     "correct": 0,
+     "correction": "SDS (Safety Data Sheet) est la fiche de données de sécurité, équivalent anglais de la FDS, qui contient la classification SGH et les mesures de prévention."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel mot est un faux ami de l'anglais ?",
+     "options": [
+      "Actually (qui signifie « en réalité », pas « actuellement »)",
+      "Batch (lot)",
+      "Reagent (réactif)",
+      "Traceability (traçabilité)"
+     ],
+     "correct": 0,
+     "correction": "Actually signifie « en réalité/en fait » ; « actuellement » se dit currently. Batch, reagent et traceability sont de vrais cognats techniques."
+    },
+    {
+     "type": "rédaction",
+     "q": "Donner la traduction anglaise des termes : lot, date de péremption, étalonnage, incertitude, non-conformité, traçabilité.",
+     "correction": "Lot/batch (selon le contexte, batch pour un lot de fabrication) ; expiry date (ou expiration date) ; calibration ; uncertainty (measurement uncertainty pour « incertitude de mesure ») ; non-conformity (ou deviation pour un écart) ; traceability."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment repérer les consignes de sécurité dans une notice anglaise ?",
+     "correction": "Chercher les titres « Warning », « Caution », « Danger », les verbes à l'impératif (wear, use, avoid, do not) et les modaux d'obligation (must, must not, should), les mentions H (hazard statements, ex. H225 highly flammable liquid and vapour) et P (precautionary statements, ex. P210 keep away from heat), ainsi que les symboles SGH et les sigles PPE (personal protective equipment), fume hood, gloves."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Anglais",
+   "titre": "Chapitre : expression et interaction orales en anglais professionnel",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-2 programme de langues vivantes, tableau 1 à 3 ; CECRL B2",
+   "points": [
+    "Les tâches orales professionnelles visées : annoncer une décision, présenter oralement une information ou rendre compte d'un travail, argumenter pour aider à une prise de décision, participer à un entretien, communiquer au téléphone ou en face-à-face, comprendre des consignes et des documents audiovisuels.",
+    "Au niveau B2, l'étudiant peut faire des annonces claires et spontanées, présenter une description structurée et détaillée avec des synthèses partielles, et développer une argumentation avec des arguments secondaires et des exemples pertinents.",
+    "Phrases utiles pour présenter : « I'd like to present... », « The results show that... », « To sum up... », « As you can see on this graph... », « I'll come back to this point later ».",
+    "Pour argumenter : « In favour of / against... », « The main advantage is... », « On the other hand... », « This could be explained by... », « Taking into account... ».",
+    "Pour interagir et clarifier : « Could you repeat that, please? », « So, if I understand correctly... », « What do you mean by...? », « I see your point, but... », « Let me add something here ».",
+    "Au téléphone : s'identifier, énoncer l'objet de l'appel, épeler les noms et les références, confirmer les chiffres et les dates, demander une précision, conclure et remercier ; anticiper les difficultés d'audition.",
+    "Compréhension de l'oral : anticiper le contenu à partir du contexte, repérer les marqueurs d'ordre (first, then, after that, finally), les chiffres (dates, heures, références), le ton et les bruits de fond ; distinguer plusieurs locuteurs.",
+    "Prononciation : travailler les sons difficiles (/θ/ comme think, /ð/ comme this, /ɪ/ vs /iː/), la place de l'accent de mot et de phrase et l'intonation descendante des phrases complètes.",
+    "Texte de présentation type : contexte, objectif, méthode, résultats, interprétation, recommandations, conclusion ; un plan en 5 points maximum avec des transitions explicites.",
+    "Préparation à l'évaluation : s'entraîner avec des situations professionnelles (accueil d'un client étranger, appel d'un fournisseur, compte rendu d'avancement, explication d'unenon-conformité), enregistrer sa production et s'auto-évaluer."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle phrase permet de demander une clarification poliment ?",
+     "options": [
+      "What?",
+      "Could you repeat that, please?",
+      "Say again",
+      "I don't understand you"
+     ],
+     "correct": 1,
+     "correction": "« Could you repeat that, please? » est une formulation polie et professionnelle ; « What? » ou « Say again » sont trop abrupts."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel marqueur annonce une conclusion dans une présentation ?",
+     "options": [
+      "First of all",
+      "On the other hand",
+      "To sum up",
+      "For instance"
+     ],
+     "correct": 2,
+     "correction": "« To sum up » (en résumé) introduit la synthèse ; « First of all » ouvre, « On the other hand » oppose, « For instance » illustre."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel est l'objectif principal d'une interaction orale professionnelle réussie ?",
+     "options": [
+      "Parler le plus vite possible",
+      "Comprendre et être compris, avec adaptation à l'interlocuteur",
+      "Utiliser le plus de mots techniques possible",
+      "Éviter toute question"
+     ],
+     "correct": 1,
+     "correction": "L'efficacité de la communication prime : reformuler, vérifier la compréhension et adapter le registre et le vocabulaire à l'interlocuteur."
+    },
+    {
+     "type": "qcm",
+     "q": "Lequel de ces termes est un marqueur d'opposition ?",
+     "options": [
+      "Moreover",
+      "However",
+      "Therefore",
+      "For example"
+     ],
+     "correct": 1,
+     "correction": "« However » marque l'opposition ou la concession ; moreover ajoute, therefore indique une conséquence, for example illustre."
+    },
+    {
+     "type": "rédaction",
+     "q": "Rédiger une courte présentation orale en anglais (8 phrases) d'un résultat d'analyse non conforme.",
+     "correction": "Exemple : « Good morning. I'd like to report the results of batch B-2026-118. We tested the samples on Tuesday according to SOP LAB-04. The specification limit is 100 CFU/g. Our result is 350 CFU/g, which is above the limit. We repeated the analysis in duplicate and confirmed the result. The control sample was within the accepted range, so the series is valid. A deviation has been raised and the batch is blocked. We recommend an investigation into the cleaning procedure. I'll be happy to answer your questions. » — la structure suit contexte → méthode → résultat → validation → action → conclusion."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment améliorer la compréhension d'un message téléphonique en anglais professionnel ?",
+     "correction": "Anticiper le sujet à partir du contexte et de l'identité de l'appelant ; se concentrer sur les mots-clés (dates, heures, références, quantités, noms de produits) et noter immédiatement les chiffres ; repérer les marqueurs d'ordre et les modaux ; demander une reformulation ou un épellage (« Could you spell that, please? », « Could you confirm the figure? ») ; confirmer sa propre compréhension en résumant (« So, you need five samples by Friday, is that right? ») ; prêter attention au ton et aux bruits de fond pour déduire des informations périphériques."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Anglais",
+   "titre": "Chapitre : écrits professionnels en anglais — courriel, compte rendu, note",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-2 programme de langues vivantes, tableau 5 ; CECRL B2",
+   "points": [
+    "Les tâches écrites professionnelles : rédiger un courriel ou une lettre à un client ou fournisseur, une note de transmission, un compte rendu de réunion, une synthèse de plusieurs sources, un support de communication (diaporama).",
+    "Structure d'un courriel professionnel : objet précis (subject), salutation (Dear Mr Smith / Dear Team), contexte, demande ou information, détails chiffrés, action attendue avec échéance, formule de politesse (Kind regards / Best regards),signature et coordonnées.",
+    "Dates et formats : écrire la date sans ambiguïté (23 November 2026 ou 23/11/2026 en format international plutôt que 11/23/2026), utiliser le système décimal pour les nombres (1.5 g et non 1,5), préciser les unités et les fuseaux horaires.",
+    "Registre : éviter les contractions dans un courrier formel (I am plutôt que I'm), utiliser les modaux de politesse (could, would, please), les formules de conditionnel (We would like to...), et une structure claire avec des paragraphes courts.",
+    "Compte rendu de réunion : date, participants, objet, points discutés, décisions prises, actions avec responsable et échéance (action items) ; style neutre et factuel.",
+    "Synthèse de sources : prendre des notes organisées, sélectionner les idées pertinentes, rédiger de façon hiérarchisée avec des connecteurs logiques (first, moreover, however, consequently, in conclusion), citer les sources.",
+    "Vocabulaire des échanges commerciaux : quotation/devis, order, delivery, lead time, discount, invoice, complaint, claim, refund, to place an order, to follow up, to meet the deadline.",
+    "Exprimer une non-conformité avec diplomatie : « We have identified a deviation in batch X... », « The results do not meet the specification... », « Could you please provide the certificate of analysis...? » ; éviter les accusatory statements.",
+    "Relecture systématique : vérifier l'orthographe, la grammaire (temps, articles, prépositions), les chiffres, les noms propres, la pièce jointe mentionnée et le destinataire avant envoi.",
+    "RGPD et confidentialité : ne pas transmettre de données confidentielles par courriel non sécurisé, respecter la charte de communication de l'entreprise et les procédures de sauvegarde."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle formulation est la plus professionnelle pour demander une information ?",
+     "options": [
+      "Send me the data",
+      "I want the certificate",
+      "Could you please send me the certificate of analysis?",
+      "Give the data now"
+     ],
+     "correct": 2,
+     "correction": "Le conditionnel « could you please » et le vocabulaire précis (« certificate of analysis ») rendent la demande polie et professionnelle."
+    },
+    {
+     "type": "qcm",
+     "q": "Comment éviter une ambiguïté sur une date dans un courriel international ?",
+     "options": [
+      "Utiliser uniquement des chiffres comme 11/12/26",
+      "Écrire le mois en toutes lettres : 11 December 2026",
+      "Utiliser le format américain",
+      "Ne pas indiquer la date"
+     ],
+     "correct": 1,
+     "correction": "Écrire le mois en toutes lettres supprime l'ambiguïté entre le format jour/mois et mois/jour."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel élément ne doit pas figurer dans un compte rendu de réunion ?",
+     "options": [
+      "La liste des participants",
+      "Les décisions prises",
+      "Les actions avec responsables et échéances",
+      "Les opinions personnelles non vérifiées de la rédactrice"
+     ],
+     "correct": 3,
+     "correction": "Un compte rendu est factuel et neutre : il relate les décisions et actions, pas les jugements personnels de la personne qui rédige."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel est le rôle de la relecture avant envoi d'un courriel professionnel ?",
+     "options": [
+      "Ralentir inutilement le travail",
+      "Vérifier destinataire, pièces jointes, chiffres, grammaire et ton",
+      "Remplacer la rédaction",
+      "Supprimer les formules de politesse"
+     ],
+     "correct": 1,
+     "correction": "Une relecture systématique évite les erreurs coûteuses : destinataire erroné, pièce jointe oubliée, chiffre fautif, ton inapproprié."
+    },
+    {
+     "type": "rédaction",
+     "q": "Rédiger un courriel en anglais pour signaler un lot non conforme à un fournisseur et demander un certificat d'analyse.",
+     "correction": "Exemple : « Subject: Non-conformity – Batch RM-2026-045 / Request for CoA. Dear Mr Brown, We received batch RM-2026-045 on 14 November 2026. Our incoming control showed a moisture content of 6.2 %, above the specified maximum of 5.0 %. We repeated the measurement in duplicate and the result was confirmed. The batch has been blocked pending your investigation. Could you please send us the certificate of analysis for this batch and your proposed corrective action by 25 November? We would also appreciate a replacement batch as soon as possible. Kind regards, [Name] Quality Laboratory. »"
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment adapter un courriel professionnel anglais à différents destinataires (client, fournisseur, collègue, auditeur) ?",
+     "correction": "Avec un client : ton formel, formules de politesse, vocabulaire orienté service et garantie de confidentialité. Avec un fournisseur : ton ferme mais courtois, faits chiffrés, demande d'action et d'échéance précises. Avec un collègue : ton plus direct, phrases courtes, vocabulaire technique d'équipe, mais clarté des actions. Avec un auditeur : ton neutre et factuel, références exactes aux procédures et preuves documentaires, absence d'assertions non documentées. Dans tous les cas : objet explicite, structure en paragraphes courts, chiffres et dates sans ambiguïté et relecture finale."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1"
+   ],
+   "matiere": "Mathématiques",
+   "titre": "Chapitre : calcul et numération — puissances, logarithmes, proportions",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-2 programme de mathématiques (modules calcul et numération, fonction) ; arrêté du 4 juin 2013",
+   "points": [
+    "Le module « calcul et numération » vise à réactiver les savoirs calculatoires fondamentaux : calcul littéral, puissances, radicaux, fractions, pourcentages, proportions et unités.",
+    "Puissances : a^m × a^n = a^(m+n) ; a^m / a^n = a^(m-n) ; (a^m)^n = a^(mn) ; a^0 = 1 (a ≠ 0) ; a^(-n) = 1/a^n ; (ab)^n = a^n b^n.",
+    "Notation scientifique : un nombre s'écrit a × 10^n avec 1 ≤ |a| < 10 et n entier ; elle est indispensable pour les concentrations très faibles (10^-6 g/L) et les très grands nombres de copies d'ADN (10^9).",
+    "Logarithmes : log(A×B) = log A + log B ; log(A/B) = log A - log B ; log(A^n) = n log A ; log(10^n) = n. Le logarithme décimal permet de linéariser les relations exponentielles (pH = -log[H+], Ct = -a log N0 + b).",
+    "Exponentielle : e^(x+y) = e^x × e^y ; ln(e^x) = x ; la fonction exponentielle est croissante et toujours positive ; utilisée pour les cinétiques de décroissance N = N0 e^(-kt).",
+    "Proportionnalité : grandeurs directement proportionnelles si y = kx (k coefficient de proportionnalité) ; inversement proportionnelles si y = k/x ; une dilution ou un étalonnage sont des applications directes.",
+    "Pourcentage et variation : augmentation de p % multiplie par (1 + p/100) ; diminution multiplie par (1 - p/100) ; un taux de rendement de 85 % appliqué à 2,5 g donne 2,125 g retrouvés.",
+    "Calcul littéral et mise en équation : développer, factoriser, simplifier une expression ; résoudre une équation du premier degré ax + b = 0 (x = -b/a) et un système de deux équations à deux inconnues.",
+    "Arrondi et chiffres significatifs : le résultat d'un calcul doit être arrondi avec un nombre de chiffres significatifs cohérent avec la précision des données ; l'incertitude relative se propage par addition pour les sommes et par quadrature pour les produits.",
+    "Exemple de calcul chimique : préparer 250 mL de solution à 0,050 mol/L : n = C×V = 0,050 × 0,250 = 0,0125 mol ; avec M = 58,5 g/mol, m = 0,731 g (3 chiffres significatifs)."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Que vaut a^(-n) ?",
+     "options": [
+      "-a^n",
+      "1/a^n",
+      "a^n",
+      "a×n"
+     ],
+     "correct": 1,
+     "correction": "Par définition a^(-n) = 1/a^n (a non nul) : une puissance négative correspond à l'inverse de la puissance positive."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle relation est correcte pour les logarithmes ?",
+     "options": [
+      "log(A+B) = log A + log B",
+      "log(A×B) = log A + log B",
+      "log(A^n) = (log A)^n",
+      "log(A-B) = log A - log B"
+     ],
+     "correct": 1,
+     "correction": "Le logarithme transforme un produit en somme et une puissance en produit : log(A×B) = log A + log B et log(A^n) = n log A."
+    },
+    {
+     "type": "qcm",
+     "q": "Comment s'écrit 0,000045 en notation scientifique ?",
+     "options": [
+      "4,5 × 10^-5",
+      "45 × 10^-6",
+      "4,5 × 10^5",
+      "0,45 × 10^-4"
+     ],
+     "correct": 0,
+     "correction": "On déplace la virgule pour obtenir 4,5 (entre 1 et 10) : 0,000045 = 4,5 × 10^-5 ; la convention impose 1 ≤ |a| < 10."
+    },
+    {
+     "type": "qcm",
+     "q": "Une concentration passe de 20 mg/L à 25 mg/L. Quelle est la variation en pourcentage ?",
+     "options": [
+      "+5 %",
+      "+20 %",
+      "+25 %",
+      "+125 %"
+     ],
+     "correct": 2,
+     "correction": "Variation = (25-20)/20 = 0,25, soit +25 % ; le pourcentage se calcule toujours par rapport à la valeur initiale."
+    },
+    {
+     "type": "rédaction",
+     "q": "Simplifier l'expression (2 × 10^-3) × (5 × 10^4) / (4 × 10^2) et donner le résultat en notation scientifique.",
+     "correction": "Numérateur : 2 × 5 = 10 et 10^-3 × 10^4 = 10^1, donc 10 × 10^1 = 10^2. Division par 4 × 10^2 : (10^2)/(4 × 10^2) = (10/4) × 10^(2-2) = 2,5 × 10^0 = 2,5."
+    },
+    {
+     "type": "rédaction",
+     "q": "Expliquer pourquoi le pH et le Ct d'une qPCR sont des applications du logarithme.",
+     "correction": "Le pH = -log10[H+] convertit une concentration souvent très petite (10^-3 à 10^-12 mol/L) en un nombre compris entre 0 et 14, et transforme un rapport de concentrations en une différence additive. En qPCR, le nombre de copies double à chaque cycle : N = N0 × 2^n ; en prenant le log, on obtient log N = log N0 + n log 2, une relation linéaire entre le cycle seuil Ct et le logarithme de la concentration initiale, ce qui permet de construire une droite d'étalonnage et de doser un échantillon inconnu."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1"
+   ],
+   "matiere": "Mathématiques",
+   "titre": "Chapitre : fonctions d'une variable réelle et modélisation",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-2 programme de mathématiques ; arrêté du 4 juin 2013",
+   "points": [
+    "Le programme comprend les fonctions d'une variable réelle, à l'exception des paragraphes « Approximation locale d'une fonction » et « Courbes paramétrées ».",
+    "Fonctions usuelles : affine f(x) = ax + b, linéaire f(x) = ax, polynôme du second degré, racine carrée, valeur absolue, inverse, trigonométriques (sin, cos, tan), exponentielle et logarithmique.",
+    "Fonction affine : a est le coefficient directeur (pente), b l'ordonnée à l'origine ; elle est croissante si a > 0, décroissante si a < 0 ; utilisée pour les droites d'étalonnage A = a c + b.",
+    "Dérivée : la dérivée f'(x) donne le taux de variation instantané et la pente de la tangente ; dérivées usuelles : (x^n)' = n x^(n-1), (e^x)' = e^x, (ln x)' = 1/x, (sin x)' = cos x.",
+    "Étude d'une fonction : domaine de définition, limites aux bornes, dérivée et signe, tableau de variations, extremums, points d'inflexion, asymptote, tracé de la courbe.",
+    "Fonction exponentielle : f(x) = e^(kx) (k > 0 croissance, k < 0 décroissance) ; modélise la croissance bactérienne en phase exponentielle X = X0 e^(μt) et la décroissance radioactive ou thermique N = N0 e^(-kt).",
+    "Fonction logarithmique : f(x) = ln x est définie sur ]0 ; +∞[, croissante, et sa courbe est la symétrique de e^x par rapport à la droite y = x ; utilisée pour l'application log des gammes d'étalonnage.",
+    "Modélisation : choisir une fonction adaptée à la situation (linéaire pour un étalonnage direct, exponentielle pour une croissance, logarithmique pour une relation dose-réponse), déterminer les paramètres à partir des données puis valider le modèle (R², résidus).",
+    "Logiciels : tracé de courbes, calcul numérique et calcul formel (tableur, logiciel de mathématiques) sont encourageés ; savoir lire et interpréter un graphique produit par un logiciel.",
+    "Exemple : la courbe de Michaelis-Menten v = Vmax × S/(Km + S) est une fonction croissante avec asymptote horizontale Vmax ; la transformation de Lineweaver-Burk 1/v = f(1/S) donne une droite dont l'ordonnée à l'origine vaut 1/Vmax."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle est la dérivée de ln(x) ?",
+     "options": [
+      "e^x",
+      "1/x",
+      "x",
+      "ln(x)"
+     ],
+     "correct": 1,
+     "correction": "(ln x)' = 1/x pour x > 0 ; (e^x)' = e^x."
+    },
+    {
+     "type": "qcm",
+     "q": "Une fonction affine f(x) = ax + b est décroissante si :",
+     "options": [
+      "a > 0",
+      "a < 0",
+      "b > 0",
+      "b < 0"
+     ],
+     "correct": 1,
+     "correction": "Le sens de variation d'une fonction affine dépend uniquement du signe de a ; b ne fait que translater la droite."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle fonction modélise une croissance exponentielle ?",
+     "options": [
+      "f(x) = a/x",
+      "f(x) = e^(kx) avec k > 0",
+      "f(x) = ln(-x)",
+      "f(x) = |x|"
+     ],
+     "correct": 1,
+     "correction": "e^(kx) avec k > 0 est croissante et sa dérivée est proportionnelle à elle-même : c'est le modèle des croissances bactériennes en phase exponentielle."
+    },
+    {
+     "type": "qcm",
+     "q": "Que représente la dérivée d'une fonction en un point ?",
+     "options": [
+      "La valeur de la fonction en ce point",
+      "La pente de la tangente à la courbe en ce point",
+      "L'aire sous la courbe",
+      "La limite de la fonction"
+     ],
+     "correct": 1,
+     "correction": "f'(a) est le taux de variation instantané, interprété géométriquement comme la pente de la tangente au point d'abscisse a."
+    },
+    {
+     "type": "rédaction",
+     "q": "Étudier la fonction f(x) = 100 e^(-0,3x) sur [0 ; 10] et interpréter le résultat dans le contexte d'une décroissance thermique.",
+     "correction": "f(0) = 100, f est dérivable avec f'(x) = -30 e^(-0,3x) < 0 sur tout l'intervalle : la fonction est strictement décroissante. f(10) = 100 e^-3 ≈ 5,0. La limite en +∞ est 0 : l'asymptote horizontale est y = 0. Le temps de réduction décimale D correspond à f(D) = 10, soit e^(-0,3D) = 0,1, -0,3D = ln 0,1 = -2,303, D ≈ 7,7 unités de temps. Interprétation : la population passe de 100 à 10 unités en 7,7 min puis à 1 en 15,3 min, modèle typique d'une cinétique de destruction thermique du premier ordre."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment choisir le type de fonction pour modéliser un jeu de données expérimentales ?",
+     "correction": "Tracer d'abord le nuage de points et observer sa forme : une droite suggère un modèle affine (étalonnage), une courbe qui se stabilise vers une valeur maximale suggère une fonction rationnelle ou exponentielle saturante (Michaelis-Menten), une croissance de plus en plus rapide suggère une exponentielle (croissance bactérienne), une relation qui se linearise en portant le log des ordonnées suggère une loi puissance ou exponentielle. Ajuster les paramètres (régression), puis valider : coefficient de détermination R² élevé mais surtout résidus répartis aléatoirement autour de zéro, absence de courbure systématique, et cohérence du modèle avec les connaissances du domaine. Un bon ajustement mathématique ne dispense pas d'une interprétation physique."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1"
+   ],
+   "matiere": "Mathématiques",
+   "titre": "Chapitre : statistique descriptive — paramètres et graphiques",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-2 programme de mathématiques, module statistique descriptive ; arrêté du 4 juin 2013",
+   "points": [
+    "La statistique descriptive organise, résume et présente un ensemble de données : population, échantillon, individu, variable (quantitative ou qualitative), effectif et fréquence.",
+    "Paramètres de position : moyenne x̄ = (Σ xi)/n ; médiane (valeur qui partage la série en deux moitiés) ; mode (valeur la plus fréquente). La moyenne est sensible aux valeurs extrêmes, la médiane est robuste.",
+    "Paramètres de dispersion : étendue = max - min ; variance s² = Σ(xi - x̄)²/(n-1) (estimateur non biaisé) ; écart-type s = √s² ; coefficient de variation CV = s/x̄ (en %), utile pour comparer la dispersion de séries d'échelles différentes.",
+    "Quantiles : Q1 (25 % des données en dessous), Q2 = médiane, Q3 (75 %) ; écart interquartile EIQ = Q3 - Q1 ; les valeurs situées en dehors de [Q1 - 1,5 EIQ ; Q3 + 1,5 EIQ] sont des outliers (valeurs aberrantes).",
+    "Représentations graphiques : histogramme (variables continues réparties en classes), diagramme en bâtons (variables discrètes), camembert (proportions), boîte à mèches ou boxplot (médiane, quartiles, extrêmes), nuage de points (liaison entre deux variables).",
+    "Tableau de données : chaque ligne correspond à un individu (un dosage, un échantillon) et chaque colonne à une variable (résultat, date, lot) ; le tableur permet de trier, filtrer et calculer rapidement les statistiques.",
+    "Régression linéaire : droite des moindres carrés y = ax + b qui minimise la somme des carrés des écarts ; le coefficient de détermination R² mesure la part de variance expliquée par le modèle (proche de 1 pour une bonne linéarité).",
+    "Interprétation d'un histogramme : forme (symétrique, étalée, bimodale), centre, dispersion, présence de pics ou de queues ; un profil bimodal peut révéler deux populations différentes (deux lots, deux opérateurs).",
+    "En contrôle qualité : suivre la moyenne et l'écart-type des résultats d'un étalon de contrôle, construire des cartes de contrôle de Shewhart avec limites à ±2s et ±3s, détecter les dérives et les valeurs hors limits.",
+    "Exemple numérique : résultats 9,8 ; 10,2 ; 10,0 ; 9,9 ; 10,1 mg/L → moyenne 10,0 ; écarts -0,2 ; 0,2 ; 0 ; -0,1 ; 0,1 ; somme des carrés 0,10 ; s² = 0,10/4 = 0,025 ; s = 0,158 mg/L ; CV = 1,6 %."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle est la formule de la variance empirique non biaisée ?",
+     "options": [
+      "Σ(xi-x̄)²/n",
+      "Σ(xi-x̄)²/(n-1)",
+      "Σ(xi-x̄)/n",
+      "Σxi/n"
+     ],
+     "correct": 1,
+     "correction": "La variance empirique non biaisée utilise n-1 au dénominateur ; l'écart-type en est la racine carrée."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel paramètre est robuste aux valeurs extrêmes ?",
+     "options": [
+      "La moyenne",
+      "La médiane",
+      "L'étendue",
+      "La variance"
+     ],
+     "correct": 1,
+     "correction": "La médiane dépend du rang des données et non de la valeur des extrêmes ; la moyenne, l'étendue et la variance sont très sensibles aux outliers."
+    },
+    {
+     "type": "qcm",
+     "q": "Que mesure le coefficient de variation CV = s/x̄ ?",
+     "options": [
+      "La dispersion absolue",
+      "La dispersion relative, en pourcentage de la moyenne",
+      "La corrélation entre deux variables",
+      "L'erreur de mesure"
+     ],
+     "correct": 1,
+     "correction": "Le CV rapporte l'écart-type à la moyenne : il permet de comparer la dispersion de séries ayant des unités ou des ordres de grandeur différents."
+    },
+    {
+     "type": "qcm",
+     "q": "Dans une boîte à mèches, que représente la boîte ?",
+     "options": [
+      "L'étendue totale",
+      "L'écart interquartile Q3-Q1",
+      "La moyenne et l'écart-type",
+      "Le mode"
+     ],
+     "correct": 1,
+     "correction": "La boîte s'étend de Q1 à Q3 et contient 50 % des données ; la médiane est représentée par une ligne, les mèches vont aux valeurs extrêmes acceptables."
+    },
+    {
+     "type": "rédaction",
+     "q": "Calculer la moyenne, l'écart-type et le coefficient de variation de la série : 24,1 ; 23,8 ; 24,5 ; 24,0 ; 23,6 ; 24,2 (mg/L).",
+     "correction": "Somme = 144,2 ; moyenne = 144,2/6 = 24,033 mg/L. Écarts : 0,067 ; -0,233 ; 0,467 ; -0,033 ; -0,433 ; 0,167. Carrés : 0,0045 ; 0,0543 ; 0,218 ; 0,0011 ; 0,187 ; 0,028 → somme ≈ 0,493. s² = 0,493/5 = 0,0986 ; s ≈ 0,314 mg/L ; CV = 0,314/24,033 ≈ 1,31 %."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment détecter et traiter une valeur aberrante dans une série de résultats d'analyse ?",
+     "correction": "Repérer la valeur par un boxplot (règle de 1,5 × EIQ), un test statistique (Grubbs, Dixon) ou par comparaison aux contrôles de la série. Vérifier d'abord la saisie (erreur de transcription, unité, virgule), le calcul (dilution, facteur), l'état de l'appareil et des réactifs, la date de l'étalon de contrôle et la carte de contrôle. Si une erreur identifiée est documentée, corriger ou éliminer la valeur avec trace écrite ; sinon, conserver la valeur et signaler l'écart (elle peut révéler une non-conformité réelle du produit), refaire l'analyse en double et approfondir l'investigation (5M). Ne jamais supprimer une valeur sans justification et sans traçabilité."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Mathématiques",
+   "titre": "Chapitre : probabilités et lois — binomiale, normale, Poisson",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-2 programme de mathématiques, modules probabilités 1 et 2 ; arrêté du 4 juin 2013",
+   "points": [
+    "Un événement est une partie de l'univers des issues ; la probabilité vérifie 0 ≤ P(A) ≤ 1, P(univers) = 1 et P(A∪B) = P(A) + P(B) - P(A∩B).",
+    "Probabilité conditionnelle : P(A|B) = P(A∩B)/P(B) ; deux événements sont indépendants si P(A∩B) = P(A)×P(B).",
+    "Loi binomiale B(n, p) : nombre de succès dans n épreuves indépendantes de probabilité p ; P(X = k) = C(n,k) p^k (1-p)^(n-k) ; espérance E(X) = np, variance V(X) = np(1-p).",
+    "Loi de Poisson P(λ) : modélise le nombre d'événements rares et indépendants sur un intervalle (défauts, colonies, accidents) ; P(X=k) = e^(-λ) λ^k/k! ; E(X) = V(X) = λ.",
+    "Loi normale N(μ, σ) : loi continue symétrique en cloche, caractérisée par sa moyenne μ et son écart-type σ ; la loi normale centrée réduite Z = (X-μ)/σ permet d'utiliser la table de la loi N(0,1).",
+    "Intervalle de probabilité usuel : P(μ-σ < X < μ+σ) ≈ 68 %, P(μ-2σ < X < μ+2σ) ≈ 95 %, P(μ-3σ < X < μ+3σ) ≈ 99,7 % (règle empirique utilisée pour les cartes de contrôle).",
+    "Théorème central limite : la moyenne d'un échantillon de taille n suffisante suit approximativement une loi normale de moyenne μ et d'écart-type σ/√n, même si la population d'origine n'est pas normale.",
+    "Loi binomiale et plan d'échantillonnage : la probabilité d'accepter un lot contenant un certain pourcentage de non-conformes se calcule avec la binomiale ; le plan (n, c) est choisi pour maîtriser les risques producteur et consommateur.",
+    "Simulation par tableur : générer des nombres aléatoires selon une loi pour simuler des situations (délais, défauts, mesures) et vérifier des probabilités empiriques ; utile pour comprendre le hasard et le risque.",
+    "Exemple : si 2 % des échantillons sont non conformes, la probabilité d'avoir au plus 1 non-conforme dans un prélèvement de 20 est P(X≤1) = 0,98^20 + 20×0,02×0,98^19 ≈ 0,667 + 0,272 = 0,939."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle est l'espérance d'une loi binomiale B(n, p) ?",
+     "options": [
+      "p",
+      "np",
+      "n(1-p)",
+      "np(1-p)"
+     ],
+     "correct": 1,
+     "correction": "E(X) = np ; la variance vaut np(1-p) ; pour la loi de Poisson, E(X) = V(X) = λ."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle probabilité correspond à l'intervalle μ ± 2σ pour une loi normale ?",
+     "options": [
+      "≈ 68 %",
+      "≈ 90 %",
+      "≈ 95 %",
+      "≈ 99,7 %"
+     ],
+     "correct": 2,
+     "correction": "La règle empirique donne 68 % pour ±1σ, 95 % pour ±2σ et 99,7 % pour ±3σ."
+    },
+    {
+     "type": "qcm",
+     "q": "Deux événements A et B sont indépendants si :",
+     "options": [
+      "P(A∩B) = 0",
+      "P(A∩B) = P(A)+P(B)",
+      "P(A∩B) = P(A)×P(B)",
+      "P(A|B) = 1"
+     ],
+     "correct": 2,
+     "correction": "L'indépendance se traduit par P(A∩B) = P(A)P(B), soit P(A|B) = P(A) ; P(A∩B)=0 correspond à des événements incompatibles."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle loi modélise le nombre de colonies sur une plaque à faible concentration ?",
+     "options": [
+      "La loi normale",
+      "La loi de Poisson",
+      "La loi uniforme",
+      "La loi binomiale B(1,p)"
+     ],
+     "correct": 1,
+     "correction": "Le nombre d'événements rares et indépendants dans un volume ou sur une surface donné suit une loi de Poisson de paramètre λ proportionnel à ce volume."
+    },
+    {
+     "type": "rédaction",
+     "q": "Un contrôle porte sur 10 échantillons avec une probabilité de 5 % d'être non conforme. Calculer la probabilité d'avoir exactement 2 non-conformes et au plus 1 non-conforme.",
+     "correction": "X ~ B(10 ; 0,05). P(X=2) = C(10,2) × 0,05² × 0,95^8 = 45 × 0,0025 × 0,6634 ≈ 0,0746 (7,5 %). P(X≤1) = P(X=0)+P(X=1) = 0,95^10 + 10×0,05×0,95^9 = 0,5987 + 0,3151 = 0,9138 (91,4 %)."
+    },
+    {
+     "type": "rédaction",
+     "q": "Justifier l'utilisation des limites ±3σ sur une carte de contrôle de Shewhart.",
+     "correction": "Si le procédé est sous contrôle et que la grandeur suivie suit approximativement une loi normale de moyenne μ et d'écart-type σ, la probabilité qu'une valeur dépasse μ ± 3σ est d'environ 0,3 % (règle des 99,7 %). Une valeur hors de ces limites est donc très improbable par le seul hasard : elle signale une cause assignable (dérive d'appareil, changement de lot de réactif, erreur opératoire). Les limites ±2σ servent de limites d'alerte (environ 5 % de faux signaux) pour détecter plus tôt une tendance, par exemple quatre points consécutifs du même côté de la moyenne."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Mathématiques",
+   "titre": "Chapitre : statistique inférentielle et incertitudes de mesure",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-2 programme de mathématiques, module statistique inférentielle ; VIM ; ISO/IEC Guide 98-3 (GUM)",
+   "points": [
+    "La statistique inférentielle permet d'estimer un paramètre d'une population à partir d'un échantillon et de tester des hypothèses : estimation ponctuelle, intervalle de confiance et tests statistiques.",
+    "Estimateurs : la moyenne empirique estime la moyenne μ, la variance empirique s² estime la variance σ² ; un estimateur est sans biais si son espérance égale le paramètre.",
+    "Intervalle de confiance de la moyenne à 95 % : [x̄ ± t × s/√n], où t est le quantile de la loi de Student à n-1 degrés de liberté (t ≈ 1,96 pour n grand, t = 2,78 pour n = 5) ; la largeur diminue avec √n.",
+    "Incertitude de mesure (VIM) : grandeur non négative caractérisant la dispersion des valeurs qui pourraient être attribuées à une grandeur mesurée ; elle comprend des composantes aléatoires et systématiques.",
+    "Incertitude type A : estimée par la répétabilité, u_A = s/√n ; incertitude type B : estimée à partir d'informations autres (certificat, résolution de l'appareil, données constructeur), par exemple u = résolution/√12 pour une loi uniforme.",
+    "Incertitude composée u_c = √(Σ u_i²) en supposant les composantes indépendantes ; incertitude élargie U = k × u_c avec un facteur de couverture k ≈ 2 pour un niveau de confiance d'environ 95 %.",
+    "Expression du résultat : résultat = valeur mesurée ± U, avec mention du niveau de confiance et du facteur k ; par exemple c = (10,2 ± 0,6) mg/L, k = 2, niveau de confiance 95 %.",
+    "Test d'hypothèse : hypothèse nulle H0 (pas de différence) et hypothèse alternative H1 ; statistique de test, valeur critique ou p-value ; risque α (première espèce, rejeter H0 à tort) généralement 5 %, risque β (deuxième espèce, ne pas rejeter H0 à tort).",
+    "Tests utiles au laboratoire : test de comparaison de deux moyennes (t de Student), test de conformité d'une gamme (analyse de variance), test de rejet d'une valeur aberrante (Grubbs/Dixon), test du khi-deux pour la fidélité.",
+    "Lien avec la validation : fidélité (répétabilité, reproductibilité intermédiaire), exactitude (biais par rapport à une valeur de référence), justesse, linéarité, LD/LQ, robustesse et incertitude sont les indicateurs métrologiques définis par le VIM et exigés par l'ISO 17025."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Comment évolue la largeur d'un intervalle de confiance de la moyenne quand la taille n de l'échantillon est multipliée par 4 ?",
+     "options": [
+      "Elle est multipliée par 4",
+      "Elle est divisée par 4",
+      "Elle est divisée par 2",
+      "Elle ne change pas"
+     ],
+     "correct": 2,
+     "correction": "La largeur est proportionnelle à s/√n : multiplier n par 4 divise √n par 2, donc la largeur est divisée par 2."
+    },
+    {
+     "type": "qcm",
+     "q": "Que représente une incertitude de type B ?",
+     "options": [
+      "Une incertitude estimée par la répétabilité",
+      "Une incertitude estimée à partir d'informations externes (certificat, résolution, notice)",
+      "Une erreur de saisie",
+      "Une incertitude nulle"
+     ],
+     "correct": 1,
+     "correction": "L'incertitude type A provient de l'analyse statistique de séries de mesures ; le type B provient d'autres informations (certificats, spécifications, résolution de l'appareil, jugement d'expert)."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel facteur de couverture k est couramment utilisé pour un niveau de confiance d'environ 95 % ?",
+     "options": [
+      "k = 1",
+      "k = 2",
+      "k = 3",
+      "k = 10"
+     ],
+     "correct": 1,
+     "correction": "k ≈ 2 donne un niveau de confiance d'environ 95 % pour une Distribution approximativement normale ; l'incertitude élargie U = k u_c."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel est le risque de première espèce α dans un test d'hypothèse ?",
+     "options": [
+      "Le risque de ne pas rejeter H0 alors qu'elle est fausse",
+      "Le risque de rejeter H0 alors qu'elle est vraie",
+      "La probabilité d'obtenir une valeur aberrante",
+      "La largeur de l'intervalle de confiance"
+     ],
+     "correct": 1,
+     "correction": "Le risque α est la probabilité de rejeter à tort l'hypothèse nulle (faux positif) ; le risque β est l'erreur de ne pas rejeter H0 alors qu'elle est fausse."
+    },
+    {
+     "type": "rédaction",
+     "q": "Cinq dosages répétés d'un étalon donnent : 10,1 ; 10,3 ; 9,9 ; 10,0 ; 10,2 mg/L. Calculer la moyenne, l'écart-type, l'incertitude type A et l'incertitude élargie (k=2), puis exprimer le résultat.",
+     "correction": "Moyenne = 50,5/5 = 10,10 mg/L. Écarts : 0 ; 0,2 ; -0,2 ; -0,1 ; 0,1 ; carrés : 0 ; 0,04 ; 0,04 ; 0,01 ; 0,01 → somme 0,10 ; s² = 0,10/4 = 0,025 ; s = 0,158 mg/L. u_A = s/√5 = 0,158/2,236 = 0,071 mg/L. U = 2 × 0,071 = 0,14 mg/L. Résultat : (10,10 ± 0,14) mg/L, k = 2, niveau de confiance ≈ 95 % (avant prise en compte d'éventuelles composantes de type B qui s'ajouteraient en quadrature)."
+    },
+    {
+     "type": "rédaction",
+     "q": "Pourquoi un résultat d'analyse doit-il être rendu avec son incertitude et comment cette exigence s'intègre-t-elle dans la démarche qualité ?",
+     "correction": "Une mesure ponctuelle ne dit rien de la dispersion des valeurs possibles : deux résultats identiques peuvent avoir des fiabilités très différentes selon la répétabilité, l'étalonnage et la matrice. L'incertitude permet de comparer un résultat à une spécification en tenant compte du doute (par exemple conclure à la conformité seulement si la limite est au-delà de la borne supérieure de l'intervalle), de comparer deux méthodes et de documenter la qualité du résultat. L'ISO 17025 exige l'estimation et l'expression de l'incertitude pour les mesures quantitatives ; elle s'appuie sur les données de fidélité, les certificats d'étalons, la résolution des appareils et les contrôles qualité, et doit être réévaluée lors de toute modification de méthode ou d'équipement."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Mathématiques",
+   "titre": "Chapitre : calcul intégral et équations différentielles",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-2 programme de mathématiques ; arrêté du 4 juin 2013",
+   "points": [
+    "Le module de calcul intégral exclut la formule d'intégration par parties ; celui d'équations différentielles exclut les nombres complexes et les équations linéaires du second ordre à coefficients constants réels.",
+    "Primitive : une fonction F telle que F' = f ; l'intégrale définie ∫[a;b] f(x) dx = F(b) - F(a) représente l'aire algébrique sous la courbe de f entre a et b.",
+    "Primitives usuelles : ∫x^n dx = x^(n+1)/(n+1), ∫1/x dx = ln|x|, ∫e^x dx = e^x, ∫sin x dx = -cos x, ∫cos x dx = sin x.",
+    "Application : calcul d'une aire, d'un volume de révolution, d'une quantité totale à partir d'un débit (masse = ∫ débit dt) ou d'une concentration intégrée sur un temps de fermentation.",
+    "Équation différentielle : relation reliant une fonction et ses dérivées, par exemple y' = ky modèle la croissance exponentielle et y' = -ky la décroissance.",
+    "Résolution de y' = ky : y = C e^(kx), la constante C étant déterminée par la condition initiale y(0) = y0, soit y = y0 e^(kx) ; cette équation décrit la croissance bactérienne en phase exponentielle et la décroissance thermique.",
+    "Modèle à saturation : y' = k(A - y) donne y = A - (A-y0) e^(-kt), utilisé pour une cinétique qui tend vers une valeur limite A (par exemple remplissage, équilibre d'adsorption).",
+    "Équation logistique : y' = ky(1 - y/K), solution sigmoïde de capacité K, modèle plus réaliste de la croissance en milieu fermé, avec ralentissement lorsque la population approche la capacité de charge.",
+    "Méthodes numériques : Euler ou Runge-Kutta pour résoudre une équation différentielle quand la solution analytique est inaccessible ; le tableur permet d'implémenter ces méthodes pas à pas.",
+    "Lien avec le laboratoire : l'intégration sert à calculer une aire de pic en chromatographie (méthode des trapèzes), une quantité consommée ou produite au cours du temps, et les modèles différentiels sous-tendent les cinétiques enzymatiques et thermiques."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle est une primitive de 1/x ?",
+     "options": [
+      "ln|x|",
+      "e^x",
+      "x²/2",
+      "-1/x²"
+     ],
+     "correct": 0,
+     "correction": "La primitive de 1/x est ln|x| (pour x ≠ 0) ; la dérivée de ln|x| est bien 1/x."
+    },
+    {
+     "type": "qcm",
+     "q": "Que représente l'intégrale définie ∫[a;b] f(x)dx ?",
+     "options": [
+      "La dérivée de f en b",
+      "L'aire algébrique sous la courbe de f entre a et b",
+      "La pente de la tangente",
+      "La limite de f en b"
+     ],
+     "correct": 1,
+     "correction": "L'intégrale définie donne l'aire signée entre la courbe et l'axe des abscisses ; elle se calcule par F(b)-F(a) où F est une primitive de f."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle est la solution de y' = ky avec y(0) = y0 ?",
+     "options": [
+      "y = y0 + kt",
+      "y = y0 e^(kt)",
+      "y = k/y0",
+      "y = y0 ln(kt)"
+     ],
+     "correct": 1,
+     "correction": "La solution de l'équation différentielle y' = ky est y = C e^(kt) ; la condition initiale donne C = y0."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel modèle décrit le mieux une croissance bactérienne en milieu fermé ?",
+     "options": [
+      "y' = ky (croissance exponentielle illimitée)",
+      "y' = ky(1-y/K) (logistique)",
+      "y' = -ky",
+      "y = constante"
+     ],
+     "correct": 1,
+     "correction": "Le modèle logistique intègre une limitation par la capacité de charge K : la croissance ralentit puis s'arrête, ce qui correspond aux phases exponentielle puis stationnaire d'une culture en milieu fermé."
+    },
+    {
+     "type": "rédaction",
+     "q": "Calculer ∫[0;2] (3x² + 2x) dx et interpréter graphiquement le résultat.",
+     "correction": "Primitive : F(x) = x³ + x². F(2) = 8 + 4 = 12 ; F(0) = 0 ; intégrale = 12. Graphiquement, 12 est l'aire comprise entre la courbe y = 3x²+2x, l'axe des abscisses et les droites x=0 et x=2 (la fonction est positive sur cet intervalle, l'aire algébrique est donc égale à l'aire géométrique)."
+    },
+    {
+     "type": "rédaction",
+     "q": "Une colonne de chromatographie donne un signal approximé par un triangle de base 0,4 min et de hauteur 20 mUA. Estimer l'aire du pic et expliquer le lien avec la quantité d'analyte.",
+     "correction": "Aire du triangle = (base × hauteur)/2 = 0,4 × 20/2 = 4 mUA·min (soit l'unité d'aire du chromatogramme). Plus généralement, l'aire d'un pic est ∫ signal dt, calculée par le logiciel par intégration numérique (trapèzes) ; elle est proportionnelle à la masse d'analyte injectée dans le domaine de linéarité du détecteur : c'est la base de la quantification chromatographique par comparaison à une gamme d'aires d'étalons."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1"
+   ],
+   "matiere": "Mathématiques",
+   "titre": "Chapitre : outils numériques et modélisation des données au laboratoire",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-2 programme de mathématiques (lignes directrices) et annexe III-1 S2.8.2",
+   "points": [
+    "Les lignes directrices du programme prévoient l'usage du tableur pour représenter des données, calculer des statistiques et simuler des situations simples où intervient le hasard.",
+    "Saisie des données : une ligne par mesure, des colonnes intitulées (date, échantillon, dilution, absorbance, concentration), des formats de cellules cohérents (nombre de décimales, unités), et une feuille séparée pour les calculs.",
+    "Fonctions de tableur usuelles : SOMME, MOYENNE, ECARTYPE.STANDARD, MEDIANE, MIN, MAX, NBVAL, LOI.NORMALE, ALEAT, ARRONDI, et l'assistant de droite des moindres carrés.",
+    "Régression par tableur : représenter le nuage de points, ajouter une courbe de tendance linéaire, afficher l'équation et le R² ; vérifier que l'équation est cohérente avec les unités et que les résidus sont aléatoires.",
+    "Simulation : générer des tirages aléatoires (ALEAT) pour simuler des erreurs de mesure, des plans d'échantillonnage ou des délais ; comparer les fréquences observées aux probabilités théoriques.",
+    "Choix du graphique : nuage de points pour une relation entre deux variables continues, histogramme pour une distribution, boîte à mèches pour comparer des séries, graphique de contrôle pour suivre une évolution temporelle.",
+    "Traçabilité des calculs : conserver la feuille de calcul brute, les formules (et non seulement les résultats), les versions et les dates ; identifiant du fichier et nom du responsable ; une copie est archivée avec le rapport d'essai.",
+    "Contrôle des formules : vérifier les plages de cellules, les références absolues/relatives ($A$1 vs A1), les unités et les arrondis ; une erreur de formule peut propager un biais sur toute une gamme d'étalonnage.",
+    "Calcul d'incertitude dans un tableur : saisir les composantes d'incertitude en lignes, les élever au carré, les additionner puis prendre la racine (u_c), multiplier par k pour obtenir U ; documenter la provenance de chaque composante.",
+    "Exemple : gamme de dosage avec cinq niveaux en double ; le tableur calcule la moyenne des absorbances par niveau, la droite A = a c + b, le R², puis la concentration des échantillons avec son incertitude."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle fonction de tableur calcule l'écart-type empirique d'un échantillon ?",
+     "options": [
+      "MOYENNE",
+      "ECARTYPE.STANDARD",
+      "MEDIANE",
+      "SOMME"
+     ],
+     "correct": 1,
+     "correction": "ECARTYPE.STANDARD (STDEV.S) calcule l'écart-type empirique avec n-1 au dénominateur, adapté à un échantillon."
+    },
+    {
+     "type": "qcm",
+     "q": "Que faut-il vérifier après avoir ajouté une courbe de tendance linéaire sur un nuage de points ?",
+     "options": [
+      "La couleur des points uniquement",
+      "L'équation, le R² et la répartition des résidus",
+      "Le nombre de points",
+      "La largeur de la fenêtre"
+     ],
+     "correct": 1,
+     "correction": "Une droite peut avoir un R² élevé tout en étant inadaptée (courbure systématique des résidus) : il faut examiner l'équation, sa cohérence physique et les écarts résiduels."
+    },
+    {
+     "type": "qcm",
+     "q": "À quoi sert une référence absolue comme $A$1 dans une formule ?",
+     "options": [
+      "À rendre la cellule invisible",
+      "À garder la même cellule de référence lors de la copie de la formule",
+      "À arrondir la valeur",
+      "À changer le format de la cellule"
+     ],
+     "correct": 1,
+     "correction": "Les dollar figent la ligne et la colonne : la référence ne se déplace pas quand la formule est copiée, ce qui est utile pour un facteur de dilution ou une concentration de solution mère."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel graphique convient pour suivre l'évolution d'un étalon de contrôle dans le temps ?",
+     "options": [
+      "Un camembert",
+      "Une carte de contrôle (graphique de suivi avec limites)",
+      "Un diagramme en bâtons",
+      "Un camembert"
+     ],
+     "correct": 1,
+     "correction": "La carte de contrôle porte les valeurs successives avec une ligne centrale et des limites d'alerte/action : elle révèle dérives et tendances qu'un simple nuage ne montre pas."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire la structure d'un classeur de calcul pour une gamme d'étalonnage spectrophotométrique.",
+     "correction": "Feuille 1 « Données brutes » : identifiant, date, opérateur, appareil, longueur d'onde, pour chaque niveau la concentration théorique et les absorbances des doubles. Feuille 2 « Calculs » : moyenne des absorbances par niveau, concentration corrigée du facteur de dilution, formules de régression (pente, ordonnée, R²) avec les cellules référencées, concentration des échantillons inconnus. Feuille 3 « Incertitude » : répétabilité (écart-type), incertitude sur les étalons et les volumes, u_c, U et expression du résultat. Feuille 4 « Traçabilité » : lots de réactifs, numéro de version du classeur, date de validation, nom du validateur. Les formules sont protégées et le fichier est enregistré avec un nom incluant la date et le numéro de série."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment sécuriser un tableur utilisé pour des calculs d'analyse ?",
+     "correction": "Use a versioned filename, protect formula cells, avoid manual entry in calculation cells, lock the sheet structure, use validated input ranges (data validation), keep a read-only raw-data sheet, document each formula in a comment, verify calculations on a few known examples before use, archive a copy with the report, and control access according to the laboratory's computerised-system procedure. Regular backups and a unique identifier of the file complete the traceability."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Physique-chimie",
+   "titre": "Chapitre : métrologie — grandeur, mesure, erreur et incertitude",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-2 programme de physique-chimie module 1 (mesure, transversal) et annexe III-1 T1.3 ; VIM, GUM",
+   "points": [
+    "Une grandeur est une propriété d'un phénomène ou d'un objet susceptible d'être mesurée (longueur, masse, concentration, pH) ; l'indication de mesure est la valeur fournie par l'appareil, qui n'est pas la valeur de la grandeur elle-même.",
+    "Modèle de mesure : l'indication est reliée à la valeur mesurée par une équation aux grandeurs, établie à partir de l'étalonnage (par exemple A = a c + b pour la spectrophotométrie, d'où c = (A-b)/a).",
+    "Valeur conventionnelle de référence : valeur attribuée à une grandeur par accord (étalon certifié) ; l'exactitude d'un résultat est la concordance entre le résultat et cette valeur de référence — ce n'est pas la même chose que la fidélité.",
+    "Fidélité : concordance entre des résultats indépendants obtenus dans des conditions spécifiées ; elle se décline en répétabilité (même opérateur, même appareil, court intervalle de temps) et reproductibilité (conditions différentes : opérateur, jour, appareil).",
+    "Justesse : absence d'erreur systématique (biais) ; exactitude = justesse + fidélité ; un résultat peut être précis (fidèle) mais inexact (biaisé).",
+    "Erreur absolue = valeur mesurée - valeur de référence ; erreur relative = erreur absolue/valeur de référence, souvent exprimée en % ; les erreurs systématiques peuvent être corrigées par étalonnage ou ajustage.",
+    "Sensibilité d'une chaîne de mesure : pente de la courbe d'étalonnage ; résolution : plus petit changement de l'indication détectable ; seuil de détection et linéarité complètent la caractérisation.",
+    "Incertitude : u = s/√n pour la composante aléatoire, composante de type B issue du certificat ou de la résolution (u = résolution/√12 pour une loi uniforme), incertitude composée u_c = √(Σu_i²) et incertitude élargie U = k u_c (k ≈ 2, confiance ~95 %).",
+    "Étalonnage, vérification, ajustage et qualification : l'étalonnage établit la relation indication/valeur, la vérification confirme la conformité à des exigences, l'ajustage modifie l'appareil pour supprimer un biais, la qualification (IQ/OQ/PQ) valide l'installation et le fonctionnement.",
+    "Traçabilité métrologique : chaîne ininterrompue de comparaisons reliant l'appareil à un étalon national ou international via des certificats, avec enregistrement des dates, des résultats et des actions."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle est la différence entre fidélité et exactitude ?",
+     "options": [
+      "Elles sont synonymes",
+      "La fidélité concerne la concordance entre mesures répétées, l'exactitude la concordance avec la valeur de référence",
+      "L'exactitude concerne uniquement le temps",
+      "La fidélité concerne uniquement l'opérateur"
+     ],
+     "correct": 1,
+     "correction": "Un appareil peut être très fidèle (résultats répétables) mais inexact (biais systématique) ; l'exactitude implique à la fois justesse et fidélité."
+    },
+    {
+     "type": "qcm",
+     "q": "Comment calcule-t-on l'incertitude élargie U ?",
+     "options": [
+      "U = u_c/2",
+      "U = k × u_c avec k ≈ 2 pour 95 %",
+      "U = s × n",
+      "U = s/√n"
+     ],
+     "correct": 1,
+     "correction": "U = k·u_c, avec un facteur de couverture k d'environ 2 pour un niveau de confiance de 95 % ; u_c est l'incertitude composée."
+    },
+    {
+     "type": "qcm",
+     "q": "Que permet l'ajustage d'un appareil de mesure ?",
+     "options": [
+      "De modifier la valeur de référence",
+      "De supprimer un biais systématique en réglant l'appareil",
+      "De supprimer toute incertitude",
+      "De remplacer l'étalon"
+     ],
+     "correct": 1,
+     "correction": "L'ajustage agit sur l'appareil pour faire coïncider son indication avec la valeur de référence ; il ne supprime pas l'incertitude aléatoire."
+    },
+    {
+     "type": "qcm",
+     "q": "Qu'appelle-t-on répétabilité ?",
+     "options": [
+      "La concordance entre laboratoires différents",
+      "La concordance entre résultats obtenus dans les mêmes conditions (même opérateur, même appareil, court délai)",
+      "La dérive de l'appareil",
+      "L'erreur absolue"
+     ],
+     "correct": 1,
+     "correction": "La répétabilité correspond aux conditions de mesure les plus proches ; la reproductibilité intermédiaire fait varier opérateur, jour ou appareil."
+    },
+    {
+     "type": "rédaction",
+     "q": "Expliquer pourquoi une mesure peut être fidèle mais inexacte et comment détecter ce cas.",
+     "correction": "Un biais systématique (étalon mal préparé, dérive de l'appareil, température non compensée, effet matrice non corrigé) décale toutes les mesures du même côté de la valeur de référence : l'écart-type est faible (bonne fidélité) mais la moyenne est éloignée de la valeur vraie (mauvaise justesse). On détecte ce cas en analysant un matériau de référence ou un étalon de contrôle indépendant, en participant à des essais inter-laboratoires et en comparant les résultats à une méthode de référence ; un étalonnage ou un ajustage corrige le biais."
+    },
+    {
+     "type": "rédaction",
+     "q": "Exprimer correctement un résultat de mesure et expliquer chaque mention.",
+     "correction": "Exemple : « c = (10,2 ± 0,6) mg·L⁻¹, k = 2, niveau de confiance d'environ 95 % ». On indique : la valeur estimée (10,2), l'incertitude élargie (0,6) avec le même nombre de décimales et les mêmes unités, le facteur de couverture k utilisé et le niveau de confiance associé, et si possible la méthode et la date de la dernière calibration. Cette forme permet au lecteur de juger la compatibilité du résultat avec une spécification."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Physique-chimie",
+   "titre": "Chapitre : spectroscopie UV-visible — aspects physiques et instrumentation",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-2 programme de physique-chimie (module lumière/matière) ; annexe III-1 T2.2",
+   "points": [
+    "Une transition électronique correspond à l'absorption d'un photon d'énergie hv = hc/λ par une molécule, faisant passer un électron d'un état fondamental à un état excité ; l'absorption est quantifiée et sélective selon la structure de la molécule (chromophore).",
+    "Loi de Beer-Lambert : A = ε λ l c ; la transmission T = I/I0 et l'absorbance A = -log T ; l'additivité des absorbances permet d'analyser des mélanges à plusieurs longueurs d'onde.",
+    "Sources : lampe à deutérium pour l'UV (190-350 nm), lampe tungstène-halogène pour le visible (350-900 nm) ; le changement de source se fait vers 350 nm.",
+    "Monochromateur : réseau diffractant ou prisme + fente, qui sélectionne une bande étroite de longueurs d'onde ; la largeur de bande spectrale influe sur la linéarité et la résolution ; lumière parasite et diffusion réduisent la fidélité à forte absorbance.",
+    "Détecteur : photodiode ou photomultiplicateur convertit le flux lumineux en courant électrique ; le signal est amplifié et converti en absorbance par le microprocesseur de l'appareil.",
+    "Cuvettes : quartz pour l'UV (le verre absorbe sous 300 nm), verre ou plastique pour le visible ; trajet optique l = 1 cm usuel, 0,5 ou 2 cm pour adapter la sensibilité ; deux faces polies et propres, sans rayures ni bulles.",
+    "Effets de la matrice et diffusion : une solution trouble diffuse la lumière et augmente l'absorbance apparente ; il faut clarifier par filtration ou centrifugation, ou utiliser une correction de diffusion (blanc de matrice, integration sphere).",
+    "Dérives instrumentales : vieillissement de la lampe, contamination des cuves, variation de température, dérive électronique ; elles sont suivies par des contrôles de longueur d'onde et d'absorbance avec des filtres ou solutions certifiés.",
+    "Sécurité : lampes UV dangereuses pour les yeux (ne jamais regarder directement), cuves et réactifs chimiques (gants, blouse), solutions acides ou toxiques manipulées sous hotte ; l'appareil est mis hors tension avant déplacement.",
+    "Domaine de validité : la relation de Beer-Lambert est respectée pour des absorbances comprises entre environ 0,1 et 1 (selon l'appareil) et des solutions diluées ; en dehors, il faut diluer ou changer de trajet optique."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Pourquoi utilise-t-on une cuve en quartz dans l'ultraviolet ?",
+     "options": [
+      "Parce qu'elle est moins chère",
+      "Parce que le verre absorbe les UV sous 300 nm alors que le quartz est transparent",
+      "Parce que le quartz colore la solution",
+      "Parce que le quartz augmente l'absorbance"
+     ],
+     "correct": 1,
+     "correction": "Le verre ordinaire absorbe fortement sous 300 nm ; le quartz (silice fondue) reste transparent dans l'UV, ce qui est indispensable pour les dosages à 260-280 nm."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle source lumineuse utilise-t-on pour le domaine visible ?",
+     "options": [
+      "Lampe à deutérium",
+      "Lampe tungstène-halogène",
+      "Laser He-Ne",
+      "Lampe à vapeur de mercure"
+     ],
+     "correct": 1,
+     "correction": "La lampe tungstène-halogène couvre le domaine visible et proche IR ; la lampe à deutérium est utilisée dans l'UV."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel effet une solution trouble a-t-elle sur la mesure d'absorbance ?",
+     "options": [
+      "Elle diminue l'absorbance",
+      "Elle n'a aucun effet",
+      "Elle augmente l'absorbance apparente par diffusion de la lumière",
+      "Elle change la longueur d'onde"
+     ],
+     "correct": 2,
+     "correction": "Les particules diffusent la lumière hors du faisceau détecté : l'intensité reçue diminue et l'absorbance calculée est trop élevée ; il faut clarifier l'échantillon."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel phénomène physique est à l'origine de l'absorption UV-visible ?",
+     "options": [
+      "Une transition électronique après absorption d'un photon",
+      "Une réaction nucléaire",
+      "Une vibration moléculaire uniquement",
+      "La rotation des molécules"
+     ],
+     "correct": 0,
+     "correction": "L'UV-visible provoque des transitions électroniques (énergie hv) ; les vibrations moléculaires relèvent de l'infrarouge."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire la chaîne optique d'un spectrophotomètre et le trajet de la lumière.",
+     "correction": "Source (deutérium en UV, tungstène en visible) → miroir de commutation → monochromateur (fente d'entrée, réseau ou prisme, fente de sortie) qui isole la longueur d'onde choisie → diviseur de faisceau en deux voies (échantillon et référence) ou alternance → cuve d'échantillon et cuve de blanc de 1 cm → détecteurs (photodiodes ou photomultiplicateur) → amplification et conversion logarithmique I0/I en absorbance → affichage et acquisition. Les deux cuves sont en quartz en UV, en verre ou plastique en visible."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment choisir la longueur d'onde de travail et le trajet optique pour optimiser un dosage ?",
+     "correction": "On balaye le spectre d'une solution étalon pour repérer le maximum d'absorption λmax : y travailler donne la sensibilité maximale et réduit l'influence des erreurs de réglage λ. Le trajet optique l est choisi pour que les absorbances des échantillons tombent dans la zone de linéarité (0,1-1 UA) : utiliser 1 cm en routine, 0,5 cm pour une solution trop concentrée (ou diluer), 2-5 cm pour une solution très diluée (cuves à long trajet). Vérifier ensuite que la droite d'étalonnage obtenue avec ce trajet a un R² conforme et que le blanc est proche de zéro."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Physique-chimie",
+   "titre": "Chapitre : équilibres chimiques, acides et bases, pH",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-2 programme de physique-chimie ; pharmacopée européenne",
+   "points": [
+    "Un équilibre chimique est atteint quand les vitesses des réactions aller et retour sont égales ; la constante d'équilibre K caractérise la position de l'équilibre : K = [produits]/[réactifs] (puissances selon les coefficients stœchiométriques).",
+    "Loi d'action de masse : pour un acide faible AH en solution, Ka = [H+][A-]/[AH] ; plus Ka est grand, plus l'acide est fort ; pKa = -log Ka.",
+    "Échelle de pH : pH = -log aH+ ; à 25 °C, Kw = 10^-14 et pH + pOH = 14 ; une solution neutre a pH 7, acide pH < 7, basique pH > 7.",
+    "Acide fort : entièrement dissocié (HCl, HNO3, H2SO4 pour la première dissociation) ; acide faible : partiellement dissocié (acide acétique, lactique, carbonique), avec un équilibre régi par Ka.",
+    "Base forte : entièrement dissociée (NaOH, KOH) ; base faible : partiellement protonée (ammoniac NH3, acétate) avec Kb et pKa du couple acide conjugué.",
+    "Solution tampon : mélange d'un acide faible et de sa base conjuguée (ou d'une base faible et de son acide conjugué) ; Henderson-Hasselbalch : pH = pKa + log([base]/[acide]).",
+    "Capacité tampon maximale quand [acide] = [base], soit pH = pKa ; elle augmente avec la concentration totale du tampon ; au-delà de pKa ± 1, le tampon devient inefficace.",
+    "pH-métrie : l'électrode de verre et l'électrode de référence forment une pile dont la tension suit la loi de Nernst (environ -59 mV/pH à 25 °C) ; étalonnage avec au moins deux tampons certifiés encadrant le pH mesuré, compensation de température.",
+    "Titrage acido-basique : à l'équivalence, la quantité d'acide apportée par le titrant correspond à celle de la base (avec les coefficients) ; le pH à l'équivalence dépend de la force des espèces (pH 7 pour acide fort/base forte, > 7 pour acide faible/base forte).",
+    "Applications : contrôle de l'acidité des produits, stabilité des formulations cosmétiques et pharmaceutiques, suivi de fermentation, préparation de tampons pour les milieux et les dosages enzymatiques."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Que vaut le produit ionique de l'eau à 25 °C ?",
+     "options": [
+      "10^-7",
+      "10^-14",
+      "10^-1",
+      "1"
+     ],
+     "correct": 1,
+     "correction": "Kw = [H+][OH-] = 10^-14 à 25 °C ; en solution neutre [H+] = [OH-] = 10^-7 mol/L, donc pH 7."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle est la relation de Henderson-Hasselbalch ?",
+     "options": [
+      "pH = pKa + log([acide]/[base])",
+      "pH = pKa + log([base]/[acide])",
+      "pH = pKa × [base]",
+      "pH = 14 - pKa"
+     ],
+     "correct": 1,
+     "correction": "pH = pKa + log([A-]/[HA]) ; quand les concentrations sont égales, log(1) = 0 et pH = pKa."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel est le pH à l'équivalence du titrage d'un acide faible par une base forte ?",
+     "options": [
+      "pH = 7",
+      "pH < 7",
+      "pH > 7",
+      "pH = 0"
+     ],
+     "correct": 2,
+     "correction": "À l'équivalence, la solution contient le sel de l'acide faible : l'anion A- est une base qui s'hydrolyse, rendant la solution basique (pH > 7)."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle est la pente d'une électrode de verre à 25 °C selon Nernst ?",
+     "options": [
+      "-59,2 mV/pH",
+      "+30 mV/pH",
+      "0 mV/pH",
+      "-100 mV/pH"
+     ],
+     "correct": 0,
+     "correction": "E = E0 - 2,303 RT/F × pH, soit environ -59,2 mV par unité de pH à 25 °C ; la pente pratique doit être proche de 95-102 % de cette valeur."
+    },
+    {
+     "type": "rédaction",
+     "q": "Calculer le pH d'une solution contenant 0,10 mol/L d'acide acétique (pKa 4,76) et 0,05 mol/L d'acétate de sodium.",
+     "correction": "pH = pKa + log([base]/[acide]) = 4,76 + log(0,05/0,10) = 4,76 + log(0,5) = 4,76 - 0,301 = 4,46."
+    },
+    {
+     "type": "rédaction",
+     "q": "Expliquer le choix des tampons d'étalonnage d'un pH-mètre et les précautions de mesure.",
+     "correction": "Choisir au moins deux solutions tampons certifiées encadrant le pH attendu de l'échantillon (par exemple pH 4 et pH 7 pour un échantillon acide, pH 7 et pH 10 pour un échantillon basique) et à la même température que les mesures ; vérifier la date de péremption et le flacon bien fermé. Rincer l'électrode à l'eau distillée entre chaque solution, l'essuyer sans frotter (risque de charge statique), contrôler le niveau et la concentration de la solution de remplissage, attendre la stabilisation de la lecture, effectuer la compensation de température et consigner les valeurs de pente et d'offset. Si la pente est hors 95-102 %, remplacer ou régénérer l'électrode."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Physique-chimie",
+   "titre": "Chapitre : titrages et méthodes électrochimiques (conductimétrie, potentiométrie)",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-2 programme de physique-chimie ; pharmacopée européenne",
+   "points": [
+    "Un titrage repose sur une réaction quantitative et rapide entre l'analyte et un réactif titrant de concentration connue ; l'équivalence est le point où les réactifs sont en proportions stœchiométriques.",
+    "Courbe de titrage : l'évolution d'une grandeur mesurée (pH, conductivité, potentiel, absorbance) en fonction du volume de titrant présente un saut ou un changement de pente à l'équivalence ; la méthode physique remplace l'indicateur coloré pour les solutions colorées ou troubles.",
+    "Conductimétrie : la conductivité κ dépend de la concentration et de la mobilité des ions ; la courbe κ = f(V) est formée de segments droits dont l'intersection donne le volume équivalent ; la constante de cellule est déterminée avec une solution de KCl certifiée.",
+    "Potentiométrie : mesure du potentiel d'une électrode indicatrice (verre pour le pH, platine pour le redox, ISE pour un ion) par rapport à une électrode de référence, à courant nul ; l'équivalence se situe au point d'inflexion de la courbe ou au maximum de la dérivée première.",
+    "Ajouts dosés : on ajoute des volumes croissants d'étalon à l'échantillon sans changer le volume total (ou en corrigeant la dilution) ; l'extrapolation des deux droites donne la quantité initiale d'analyte, ce qui affranchit de l'effet de matrice.",
+    "Étalonnage interne : ajout d'une quantité fixe d'un composé voisin à tous les tubes ; on trace le rapport des signaux en fonction du rapport des concentrations, ce qui corrige les variations de préparation et d'instrument.",
+    "Iodométrie : l'iode formé est dosé par le thiosulfate de sodium (I2 + 2 S2O3²⁻ → 2 I⁻ + S4O6²⁻) avec l'amidon comme indicateur ; utilisée pour les indices d'iode, le chlore et de nombreux oxydants.",
+    "Complexométrie : l'EDTA forme des complexes stables 1:1 avec les cations divalents ; utilisée pour la dureté de l'eau (Ca²⁺ + Mg²⁺) avec le noir ériochrome T ou le bleu d'indicateur comme indicateur.",
+    "Précision d'un titrage : utiliser une burette ou un distributeur calibré, lire le volume à hauteur d'oeil (base du ménisque pour les liquides incolores), ajouter goutte à goutte près de l'équivalence, travailler en double et écarter les titrages dont l'écart dépasse la limite définie.",
+    "Expression : C_analyte = C_titrant × V_eq × (coefficient stœchiométrique) / V_échantillon ; le résultat est rendu avec ses chiffres significatifs et son incertitude, et comparé à la spécification."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Comment détermine-t-on l'équivalence sur une courbe de titrage conductimétrique ?",
+     "options": [
+      "Au maximum de la courbe",
+      "À l'intersection des deux segments droits",
+      "Au pH 7",
+      "À la moitié du volume ajouté"
+     ],
+     "correct": 1,
+     "correction": "La conductivité évolue linéairement avant et après l'équivalence : les deux droites extrapolées se croisent au volume équivalent."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel réactif sert à titrer l'iode en iodométrie ?",
+     "options": [
+      "Le dichromate de potassium",
+      "Le thiosulfate de sodium",
+      "L'EDTA",
+      "Le nitrate d'argent"
+     ],
+     "correct": 1,
+     "correction": "Le thiosulfate réduit l'iode en iodure ; l'amidon, ajouté en fin de titrage, vire du bleu au incolore à l'équivalence."
+    },
+    {
+     "type": "qcm",
+     "q": "Dans la méthode des ajouts dosés, comment obtient-on la concentration initiale ?",
+     "options": [
+      "Par la lecture directe du blanc",
+      "Par l'abscisse à l'origine de la droite extrapolée",
+      "Par la pente divisée par l'ordonnée",
+      "Par la somme des volumes ajoutés"
+     ],
+     "correct": 1,
+     "correction": "La droite réponse = f(quantité ajoutée) coupe l'axe des abscisses en un point dont la valeur absolue représente la quantité initiale d'analyte, matrice incluse."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle est la constante de cellule en conductimétrie ?",
+     "options": [
+      "La conductivité de l'échantillon",
+      "Le facteur géométrique reliant conductance et conductivité, déterminé avec une solution de KCl certifiée",
+      "La résistance de l'électrode",
+      "Le volume de la cellule"
+     ],
+     "correct": 1,
+     "correction": "κ = G × K_cell ; K_cell dépend de la distance et de la surface des électrodes et se détermine par étalonnage avec une solution de conductivité connue."
+    },
+    {
+     "type": "rédaction",
+     "q": "Expliquer pourquoi un titrage potentiométrique est préférable à un indicateur coloré pour un vin rouge.",
+     "correction": "Le vin rouge est fortement coloré (anthocyanes) : le virage d'un indicateur serait masqué et la lecture subjective. La potentiométrie (pH-mètre ou électrode redox) mesure une grandeur physique objective : on relève le pH après chaque ajout de titrant, on trace la courbe et on détermine l'équivalence au point d'inflexion (ou au maximum de la dérivée première), indépendamment de la couleur et de la turbidité."
+    },
+    {
+     "type": "rédaction",
+     "q": "Calculer la concentration d'une solution d'acide acétique titrée par NaOH 0,100 mol/L : 20,00 mL d'acide nécessitent 16,40 mL de soude.",
+     "correction": "À l'équivalence, n(acide) = n(NaOH) = 0,100 × 0,01640 = 1,64 × 10^-3 mol (réaction 1:1). C(acide) = 1,64 × 10^-3 / 0,02000 = 0,0820 mol/L. La concentration massique vaut 0,0820 × 60,05 ≈ 4,92 g/L."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Physique-chimie",
+   "titre": "Chapitre : cinétique et thermodynamique appliquées aux bioanalyses",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-2 programme de physique-chimie ; annexe III-1 T2.2 (croissance bactérienne, destructions thermiques)",
+   "points": [
+    "La vitesse d'une réaction est la variation de concentration d'un réactif ou d'un produit par unité de temps : v = -d[A]/dt = d[P]/dt (avec les coefficients stœchiométriques).",
+    "Facteurs influençant la vitesse : concentration des réactifs, température (loi d'Arrhenius k = A e^(-Ea/RT)), catalyseur (abaisse l'énergie d'activation), pH, surface de contact, lumière.",
+    "Ordre d'une réaction : v = k[A]^n ; ordre 0 (vitesse constante), ordre 1 (vitesse proportionnelle à la concentration, décroissance exponentielle), ordre 2 (vitesse proportionnelle au carré).",
+    "Réaction du premier ordre : [A] = [A]0 e^(-kt) ; temps de demi-réaction t1/2 = ln2/k, indépendant de la concentration initiale ; temps de réduction décimale D = ln10/k.",
+    "Thermodynamique : l'enthalpie ΔH (chaleur de réaction), l'entropie ΔS et l'énergie libre de Gibbs ΔG = ΔH - TΔS ; une réaction est spontanée si ΔG < 0, à l'équilibre ΔG = 0.",
+    "Exothermique (ΔH < 0, dégagement de chaleur) ou endothermique (ΔH > 0) : le suivi thermique (calorimétrie) peut servir à suivre une réaction ou à détecter une activité microbienne.",
+    "Équilibre et Le Chatelier : une modification de concentration, température ou pression déplace l'équilibre en sens contraire de la perturbation ; important pour les équilibres acido-basiques et la solubilité.",
+    "Séparation et thermodynamique : la chromatographie repose sur des équilibres de partition entre phases ; la température et la composition de la phase mobile modifient les constantes de distribution et donc la rétention.",
+    "Applications : cinétique de destruction thermique des microorganismes (D, z, F0), cinétique enzymatique de Michaelis-Menten, stabilité des réactifs et des échantillons (dégradation du premier ordre), temps de conservation.",
+    "Exemple : avec k = 0,05 min^-1, le temps de demi-réaction vaut ln2/0,05 = 13,9 min ; après 30 min, la fraction restante est e^(-0,05×30) = e^-1,5 ≈ 22 %."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle est la relation d'Arrhenius ?",
+     "options": [
+      "k = A e^(-Ea/RT)",
+      "k = A × T",
+      "k = Ea/RT",
+      "k = A/ln T"
+     ],
+     "correct": 0,
+     "correction": "k = A·exp(-Ea/RT) : la vitesse augmente exponentiellement avec la température et dépend de l'énergie d'activation Ea."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel est le temps de demi-réaction d'une réaction du premier ordre ?",
+     "options": [
+      "t1/2 = 1/k",
+      "t1/2 = ln2/k",
+      "t1/2 = k/2",
+      "t1/2 = ln10/k"
+     ],
+     "correct": 1,
+     "correction": "Dans une cinétique du premier ordre, t1/2 = ln2/k ≈ 0,693/k, indépendant de la concentration initiale ; ln10/k est le temps de réduction décimale."
+    },
+    {
+     "type": "qcm",
+     "q": "Une réaction est spontanée si :",
+     "options": [
+      "ΔG > 0",
+      "ΔG = 1",
+      "ΔG < 0",
+      "ΔH > 0"
+     ],
+     "correct": 2,
+     "correction": "La condition de spontanéité est ΔG = ΔH - TΔS < 0 ; à l'équilibre ΔG = 0."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel effet a un catalyseur sur une réaction ?",
+     "options": [
+      "Il augmente ΔG",
+      "Il abaisse l'énergie d'activation et accélère la réaction sans modifier l'équilibre",
+      "Il modifie la constante d'équilibre",
+      "Il est consommé"
+     ],
+     "correct": 1,
+     "correction": "Le catalyseur offre un chemin réactionnel de plus basse énergie d'activation : il accélère l'atteinte de l'équilibre sans en changer la position et sans être consommé."
+    },
+    {
+     "type": "rédaction",
+     "q": "Une souche bactérienne a un D de 3 min à 121 °C. Combien de temps faut-il pour réduire une population de 10^6 à 10^-2 ?",
+     "correction": "La réduction demandée est de 8 unités logarithmiques (de 10^6 à 10^-2). Pour une cinétique du premier ordre, temps = nombre de log × D = 8 × 3 = 24 min à 121 °C, soit un F0 de 24 min. C'est le calcul qui sous-tend la définition des barèmes de stérilisation."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment la thermodynamique explique-t-elle la rétention en chromatographie ?",
+     "correction": "La rétention résulte d'un équilibre de partition de l'analyte entre la phase stationnaire et la phase mobile, caractérisé par un coefficient de distribution K = C_stationnaire/C_mobile et une énergie libre ΔG = -RT ln K associée à l'adsorption. Plus l'interaction avec la phase stationnaire est favorable (ΔG négatif, K élevé), plus le facteur de capacité k' est grand et plus le temps de rétention est long. La température et la composition du solvant modifient K et donc la séparation : c'est le fondement de l'optimisation du gradient et de la sélectivité."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Qualité et gestion de laboratoire",
+   "titre": "Chapitre : système documentaire, traçabilité et exigences (ISO 17025)",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T1.1, T1.3 et S1.2.2 ; NF EN ISO/IEC 17025:2017 ; NF EN ISO 9001",
+   "points": [
+    "La norme NF EN ISO/IEC 17025:2017 fixe les exigences générales concernant la compétence, l'impartialité et le fonctionnement cohérent des laboratoires d'essais et d'étalonnage ; elle est structurée en exigences générales, structure, ressources, processus et système de management.",
+    "Pyramide documentaire (du plus général au plus concret) : manuel qualité → procédures → modes opératoires (SOP) → instructions de travail → enregistrements et preuves ; chaque document a une finalité et un destinataire différents.",
+    "Document de référence : il décrit ce qui doit être fait (exigence, règle) ; enregistrement (ou document de preuve) : il atteste que l'action a été réalisée (fiche de traçabilité, résultat brut, carte de contrôle) ; les deux sont complémentaires.",
+    "Maîtrise des documents : numérotation et titre uniques, version, date d'application, rédacteur, vérificateur, approbateur, diffusion contrôlée, mise à jour et retrait des anciennes versions ; un document périmé ne doit plus être utilisable par erreur.",
+    "Gestion des versions : toute modification fait l'objet d'une révision avec historique des changements ; la date d'entrée en vigueur et la raison de la révision sont consignées ; les anciennes versions sont archivées et identifiées comme obsolètes.",
+    "Traçabilité interne : identification unique de l'échantillon dès la réception (numéro d'échantillon, code-barres), suivi de chaque étape (prélèvement, préparation, analyse, resultat), lots de réactifs et de milieux, appareils utilisés, opérateurs, heure et date.",
+    "Traçabilité externe : remonter du produit fini au lot de matière première et inversement (numéro de lot, etiquette-produit, registre de production) ; elle est imposée par la réglementation et permet le rappel en cas de crise.",
+    "Exigences : distinguer les exigences réglementaires (lois, règlements, pharmacopée), normatives (normes), contractuelles (cahier des charges du client) et internes (procédures du laboratoire) ; la revue de contrat vérifie que le laboratoire peut satisfaire la demande avant acceptation.",
+    "Audit interne et externe : l'audit interne est réalisé par le laboratoire pour vérifier sa conformité ; l'audit externe est mené par un organisme d'accréditation ou un client ; les écarts relevés donnent lieu à des actions correctives et à un suivi.",
+    "Archivage : durée de conservation définie par la procédure et la réglementation ; les enregistrements papier ou numériques doivent rester lisibles, accessibles et protégés ; l'archivage permet de reconstituer a posteriori toute analyse et de répondre à un audit."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle norme fixe les exigences de compétence des laboratoires d'essais ?",
+     "options": [
+      "NF EN ISO 9001",
+      "NF EN ISO/IEC 17025",
+      "NF EN ISO 14001",
+      "NF EN ISO 45001"
+     ],
+     "correct": 1,
+     "correction": "La norme NF EN ISO/IEC 17025:2017 s'applique spécifiquement aux laboratoires d'essais et d'étalonnage ; l'ISO 9001 est le système de management de la qualité générique."
+    },
+    {
+     "type": "qcm",
+     "q": "Dans la pyramide documentaire, quel document apporte une preuve ?",
+     "options": [
+      "Le manuel qualité",
+      "La procédure",
+      "L'enregistrement (fiche de traçabilité)",
+      "La politique qualité"
+     ],
+     "correct": 2,
+     "correction": "Les enregistrements sont des documents de preuve qui attestent de la réalisation d'une activité et de son résultat ; les autres documents décrivent les règles."
+    },
+    {
+     "type": "qcm",
+     "q": "Que doit contenir la revue de contrat avant d'accepter une demande d'analyse ?",
+     "options": [
+      "Uniquement le prix",
+      "La vérification que le laboratoire a les compétences, moyens et délais pour répondre à la demande",
+      "Le nom du commercial",
+      "La date de la facture"
+     ],
+     "correct": 1,
+     "correction": "La revue de contrat vérifie la compréhension de la demande, la conformité aux exigences, la disponibilité des ressources et des compétences, et les délais avant acceptation."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle est la différence entre audit interne et audit externe ?",
+     "options": [
+      "L'audit interne est réalisé par le laboratoire lui-même, l'externe par un tiers",
+      "L'audit interne est obligatoire, l'externe facultatif",
+      "L'audit externe est réalisé par les opérateurs",
+      "Ils sont identiques"
+     ],
+     "correct": 0,
+     "correction": "L'audit interne est une évaluation menée par l'organisation (indépendance de l'auditeur interne vis-à-vis de l'activité auditée) ; l'audit externe est réalisé par un organisme d'accréditation ou un client."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire les informations minimales pour assurer la traçabilité d'une analyse au laboratoire.",
+     "correction": "Identifiant unique de l'échantillon et du lot, date et heure de réception et de prélèvement, identité du préleveur et état de l'échantillon à la réception, méthode utilisée avec sa référence et sa version, numéros de lot des réactifs, milieux, étalons et consommables, identifiant et état métrologique des appareils, nom de l'opérateur, valeurs brutes, calculs et facteurs de dilution, résultats des contrôles qualité, date d'édition du rapport et nom du validateur. Toutes ces informations doivent permettre de reconstituer l'analyse à partir du rapport et inversement."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment gérer une ancienne version d'un mode opératoire devenue obsolète ?",
+     "correction": "La retirer de tous les postes de travail (versions papier et numériques), la remplacer par la nouvelle version datée et approuvée, archiver l'ancienne version avec mention « obsolète » et date de fin d'application, conserver l'historique des révisions avec motif et approbation, informer et former les opérateurs sur les changements, vérifier que les enregistrements liés à l'ancienne version restent accessibles pour les analyses déjà réalisées. Un document périmé présent sur un poste est un écart lors d'un audit."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Qualité et gestion de laboratoire",
+   "titre": "Chapitre : suivi des équipements, qualification et métrologie",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S1.2.1 à S1.2.6, S2.7.2 et T1.3 ; NF EN ISO/IEC 17025 ; GAMP",
+   "points": [
+    "Le suivi des équipements comprend : réception et conformité du bon de livraison, qualification à l'installation, rédaction d'une procédure d'utilisation, fiche de vie, planning de vérification et maintenances préventive et corrective.",
+    "Qualification : IQ (Installation Qualification) vérifie la conformité de l'installation (alimentation, environnement, accessoires, documents) ; OQ (Operational Qualification) vérifie le fonctionnement dans la plage attendue ; PQ (Performance Qualification) vérifie la performance réelle avec des échantillons ou des contrôles représentatifs.",
+    "Fiche de vie (ou registre d'équipement) : identifiant interne, marque, modèle, numéro de série, date d'achat et de mise en service, fournisseur, emplacement, responsable, procédures associées, historique des maintenances, pannes, vérifications et étalonnages.",
+    "Raccordement métrologique : chaque appareil de mesure doit être raccordé à un étalon de référence par une chaîne de comparaisons documentée ; la périodicité dépend de la criticité de l'appareil et de sa stabilité.",
+    "Vérification, étalonnage, ajustage : la vérification compare l'indication à une valeur de référence pour conclure à la conformité ; l'étalonnage établit la relation et l'incertitude ; l'ajustage modifie l'appareil ; un dispositif hors tolérance est étiqueté et retiré du service.",
+    "Cartes de contrôle d'équipement : suivre un paramètre (température d'étuve, absorbance d'un filtre, pH d'une solution tampon) dans le temps avec limites d'alerte et d'action ; l'analyse des tendances permet d'anticiper une panne.",
+    "Maintenance préventive : actions planifiées (nettoyage, graissage, remplacement de pièces d'usure, vérification de joints et de filtres) selon les préconisations du fabricant et l'expérience du laboratoire ; maintenance corrective : intervention après panne avec diagnostic et remise en service validée.",
+    "Évaluation des fournisseurs et prestataires : critères de qualité, délais, coût, conformité des livraisons, réactivité du service après-vente ; un fournisseur critique peut être audité ou requalifié.",
+    "Cahier des charges d'achat : définir les besoins (domaines de mesure, exactitude, résolution, débit, compatibilité avec les méthodes), les contraintes (budget, environnement, normes) et les critères d'acceptation ; il sert de base à la comparaison des offres.",
+    "Impact d'un équipement non conforme : tous les résultats obtenus depuis la dernière vérification conforme doivent être identifiés et réévalués ; cette démarche est tracée et fait l'objet d'une notification au responsable qualité."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Que vérifie la qualification PQ d'un équipement ?",
+     "options": [
+      "La conformité de l'installation électrique",
+      "Le fonctionnement dans la plage de consigne",
+      "La performance réelle dans les conditions d'utilisation",
+      "Le prix d'achat"
+     ],
+     "correct": 2,
+     "correction": "IQ porte sur l'installation, OQ sur le fonctionnement opérationnel, PQ sur la performance avec des échantillons ou contrôles représentatifs de l'usage réel."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel document retrace l'historique complet d'un appareil ?",
+     "options": [
+      "Le bon de commande",
+      "La fiche de vie",
+      "Le manuel qualité",
+      "La fiche de données de sécurité"
+     ],
+     "correct": 1,
+     "correction": "La fiche de vie regroupe identification, procédures, maintenances, étalonnages, pannes et interventions : elle est indispensable pour l'historique et la traçabilité métrologique."
+    },
+    {
+     "type": "qcm",
+     "q": "Que faut-il faire si un appareil est trouvé hors tolérance lors d'une vérification ?",
+     "options": [
+      "Continuer à l'utiliser en notant l'écart",
+      "L'étiqueter, le retirer du service et réévaluer les résultats depuis la dernière vérification conforme",
+      "Le recalibrer uniquement en fin d'année",
+      "Le remplacer sans documenter"
+     ],
+     "correct": 1,
+     "correction": "L'appareil doit être immédiatement identifié comme non conforme et retiré du service ; l'impact sur les résultats déjà rendus est évalué et documenté avant toute remise en service."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle est la différence entre maintenance préventive et corrective ?",
+     "options": [
+      "La préventive est planifiée avant panne, la corrective intervient après panne",
+      "La corrective est planifiée, la préventive après panne",
+      "Elles sont identiques",
+      "La corrective concerne uniquement le nettoyage"
+     ],
+     "correct": 0,
+     "correction": "La maintenance préventive est programmée selon un planning pour réduire le risque de panne ; la maintenance corrective répare une défaillance constatée."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire le contenu d'une fiche de vie d'un spectrophotomètre.",
+     "correction": "Identification : numéro interne, marque, modèle, numéro de série, date d'achat et de mise en service, fournisseur, localisation, responsable. Documents associés : notice, procédure d'utilisation, méthodes de vérification, version du logiciel. Suivi : dates et résultats des vérifications de longueur d'onde et d'absorbance, étalonnages, maintenances préventives (nettoyage, lampe), interventions correctives et pannes, remplacement de pièces, relevés de température, cartes de contrôle. Each event is dated, signed and linked to the operator and the service provider; the file also records the decision to put the instrument back into service after repair."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment organiser le raccordement métrologique d'un thermomètre d'étuve ?",
+     "correction": "Définir l'exigence (plage de température et tolérance admise), choisir un étalon de référence certifié traçable (par exemple un thermomètre étalon), comparer le thermomètre de l'étuve à l'étalon à plusieurs points de la plage d'utilisation, calculer les écarts et l'incertitude, décider de la conformité au regard de la tolérance, documenter les résultats sur la fiche de vie, étiqueter l'appareil avec la date de prochaine vérification, fixer la périodicité selon la stabilité observée et l'importance pour les résultats (par exemple annuelle ou semestrielle), et prévoir la réévaluation desrésultats obtenus si l'écart dépasse la tolérance."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Prévention des risques",
+   "titre": "Chapitre : risques professionnels, DUERP et prévention au laboratoire",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T1.2 et S1.3.1 à S1.3.4 ; Code du travail art. L4121-1 et R4121-1 ; DUERP",
+   "points": [
+    "Le danger est une propriété intrinsèque d'une substance, d'un agent ou d'une situation susceptible de nuire ; le risque est la combinaison de la probabilité de survenance d'un dommage et de sa gravité pour une personne exposée.",
+    "Prévention : supprimer ou réduire les risques à la source, les évaluer, les hiérarchiser et mettre en œuvre des mesures de maîtrise ; la sécurité est l'ensemble des mesures qui protègent contre les risques résiduels.",
+    "Hiérarchie des mesures : éliminer le danger, le substituer par un produit moins dangereux, agir sur les équipements (EPC), organiser le travail (formation, procédures), puis utiliser les EPI en dernier recours.",
+    "DUERP : document unique d'évaluation des risques professionnels, obligatoire dans tout établissement (art. R4121-1 du Code du travail) ; il recense les dangers par unité de travail, évalue les risques (fréquence × gravité, échelle souvent 1 à 4), définit les actions de prévention et est révisé au moins annuellement et à chaque changement ou accident.",
+    "Risques chimiques : le système global harmonisé (SGH/CLP) classe les substances et impose pictogrammes, mentions de danger (H) et conseils de prudence (P) ; la FDS (16 sections) décrit les dangers, la manipulation, le stockage, les EPI et l'élimination.",
+    "Risques biologiques : agents classés en groupes 1 à 4 selon le pouvoir pathogène et le mode de transmission ; mesures associées : confinement, PSM, stérilisation, vaccination, formation, gestion des DASRI.",
+    "Risques physiques : bruit, rayonnements UV, chaleur, électricité,, pressions, machines tournantes, ergonomie (gestes répétitifs, port de charge), chutes et coupures ; chacun fait l'objet d'une cotation et de mesures dédiées.",
+    "EPC et EPI : EPC = hotte, PSM, captage localisé, protection machine, détecteur de gaz ; EPI = blouse, gants adaptés au produit (nitrile, latex), lunettes, masque,Protection auditive ; les EPI sont choisis après analyse de la FDS et portés conformément à la notice.",
+    "Déchets : tri à la source entre DASRI (infectieux, piquants-coupants), déchets chimiques (solvants, acides, métaux) et déchets ordinaires ; inactivation par autoclave quand nécessaire, étiquetage, stockage dans des contenants réglementaires et enregistrement des enlèvements.",
+    "Incidents et accidents : signalement immédiat, premiers soins, déclaration, fiche d'accident, enquête (arbre des causes, 5M), actions correctives et mise à jour du DUERP ; tout incident même sans gravité doit être déclaré pour éviter la répétition."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle est la définition correcte du risque ?",
+     "options": [
+      "Une propriété intrinsèque d'une substance",
+      "Une situation avec danger uniquement",
+      "La combinaison de la probabilité de dommage et de sa gravité pour une personne exposée",
+      "La date de péremption d'un produit"
+     ],
+     "correct": 2,
+     "correction": "Le danger est la propriété de la substance ; le risque intègre l'exposition, la probabilité et la gravité du dommage."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel document est obligatoire pour évaluer les risques professionnels dans un établissement ?",
+     "options": [
+      "Le DUERP",
+      "La fiche de données de sécurité",
+      "Le rapport d'audit",
+      "Le cahier des charges"
+     ],
+     "correct": 0,
+     "correction": "Le document unique d'évaluation des risques professionnels est obligatoire (Code du travail, art. R4121-1) et doit être révisé au moins chaque année."
+    },
+    {
+     "type": "qcm",
+     "q": "Dans la hiérarchie des mesures de prévention, les EPI viennent :",
+     "options": [
+      "En premier",
+      "En dernier, après élimination, substitution et mesures collectives",
+      "Avant l'évaluation des risques",
+      "Jamais"
+     ],
+     "correct": 1,
+     "correction": "La protection individuelle est le dernier recours : on privilégie d'abord la suppression ou la substitution du danger puis les protections collectives."
+    },
+    {
+     "type": "qcm",
+     "q": "Que contient une fiche de données de sécurité (FDS) ?",
+     "options": [
+      "Le prix du produit et le fournisseur uniquement",
+      "La classification SGH, les dangers, les mesures de prévention, le stockage et l'élimination",
+      "La recette de fabrication",
+      "La date de commande"
+     ],
+     "correct": 1,
+     "correction": "La FDS comporte 16 sections réglementées : identification, dangers, composition, premiers soins, lutte contre l'incendie, déversement, manipulation, EPI, propriétés, stabilité, toxicologie, écologie, élimination, transport, réglementation, autres informations."
+    },
+    {
+     "type": "rédaction",
+     "q": "Réaliser une évaluation simplifiée du risque lié à la manipulation d'acide chlorhydrique concentré au poste de préparation des réactifs.",
+     "correction": "Danger : corrosion cutanée et oculaire, inhalation de vapeurs acides, réaction violente avec bases et métaux (H314, H335). Situation d'exposition : transvasement, pipetage, risque de projection et de déversement. Cotation : fréquence de manipulation quotidienne (3-4) × gravité des brûlures (3-4) = risque élevé (12-16). Mesures : travail sous hotte avec captage, port de blouse, gants nitrile ou néoprène, lunettes voire visière, economie du geste (petites quantités), bouteille maintenue, ajout de l'acide dans l'eau (jamais l'inverse), rince-oeil accessible, procédure écrite et formation, bac de rétention, neutralisant et kit de déversement, élimination des effluents selon la filière acide. Réévaluation après mesures : risque résiduel faible à modéré, consigné dans le DUERP avec responsable et échéance."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire la conduite à tenir en cas de projection d'un réactif chimique dans l'œil.",
+     "correction": "Agir immédiatement : utiliser le rince-oeil ou une source d'eau propre, ouvrir les paupières et rincer abondamment au moins 15 minutes, de l'intérieur vers l'extérieur, en retirant les lentilles si possible ; alerter un collègue et le responsable, ne pas frotter, ne pas utiliser de neutralisant ; consulter un médecin ou appeler le centre antipoison avec la FDS du produit ; remplir la fiche d'accident/incident, déclarer l'accident du travail, conserver le produit et son lot ; analyser la cause (EPI non porté, captage défaillant, geste inadapté) et mettre à jour le DUERP et la procédure."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Qualité et gestion de laboratoire",
+   "titre": "Chapitre : contrôles qualité, cartes de contrôle et gestion des non-conformités",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.7.1 à S2.7.5, S1.4.2 et T1.3 ; NF EN ISO/IEC 17025 ; VIM",
+   "points": [
+    "Le contrôle qualité interne (CQI) utilise des échantillons de concentration connue (étalons de contrôle) analysés comme des échantillons ; le contrôle qualité externe (CQE ou essai inter-laboratoires) compare les résultats du laboratoire à ceux d'autres laboratoires.",
+    "Les contrôles portent sur l'environnement (température, humidité, propreté), les équipements, les milieux et réactifs, les souches et les étalons ; chaque contrôle a une fréquence, une méthode et des critères d'acceptation documentés.",
+    "Carte de contrôle de Shewhart : valeurs successives d'un indicateur avec une ligne centrale (moyenne du procédé), des limites d'alerte (±2s) et d'action (±3s) ; les limites sont estimées sur au moins 20 valeurs en situation de maîtrise.",
+    "Règles de lecture usuelles (Western Electric) : un point hors limite d'action, neuf points consécutifs du même côté de la moyenne, six points consécutifs en hausse ou en baisse, deux points sur trois au-delà de 2s du même côté : chacune signale une cause assignable.",
+    "Une carte de suivi de procédé diffère d'une carte de suivi d'équipement : la première surveille la stabilité d'un procédé analytique (moyenne et dispersion des résultats), la seconde surveille la dérive d'un appareil (température, absorbance d'un filtre).",
+    "Non-conformité (NC) : écart à une exigence spécifiée ; elle peut concerner un échantillon, un résultat, un équipement, un document ou une prestation ; elle est enregistrée, communicable au responsable qualité et classée par gravité.",
+    "Démarche CAPA : endiguer (bloquer le lot ou l'appareil), corriger, identifier la cause racine (5 Pourquoi, Ishikawa, diagramme de Pareto), mettre en œuvre une action corrective, vérifier son efficacité et clore la NC avec preuves à l'appui.",
+    "Les 5M (Main-d'œuvre, Matériel, Matière, Méthode, Milieu) structurent la recherche des causes d'une dérive ou d'un résultat aberrant ; les 5 Pourquoi approfondissent la cause racine au-delà du symptôme.",
+    "Outils qualité : diagramme d'Ishikawa (causes/effets), Pareto (80/20), cartes de contrôle, histogramme, diagramme de flux, check-list, FMEA (analyse des modes de défaillance et de leurs effets), plan d'échantillonnage.",
+    "Indicateurs et revue de direction : taux de conformité, délais de rendu, nombre de NC, taux de réclamations clients, résultats d'essais inter-laboratoires (score z) ; ils alimentent la revue de direction et l'amélioration continue (démarche PDCA : Plan-Do-Check-Act)."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle règle signale une dérive sur une carte de contrôle ?",
+     "options": [
+      "Un point à l'intérieur des limites d'alerte",
+      "Neuf points consécutifs du même côté de la moyenne",
+      "Une valeur égale à la moyenne",
+      "Une carte remplie chaque semaine"
+     ],
+     "correct": 1,
+     "correction": "Neuf points du même côté de la moyenne (ou six en tendance, ou un point hors limite d'action) indiquent une cause assignable ; il faut arrêter et investiguer."
+    },
+    {
+     "type": "qcm",
+     "q": "Que signifie CAPA ?",
+     "options": [
+      "Contrôle et Analyse de la Performance des Analyses",
+      "Corrective And Preventive Action (action corrective et préventive)",
+      "Certification Accréditée de Procédés Analytiques",
+      "Contrôle Automatique de la Production Animale"
+     ],
+     "correct": 1,
+     "correction": "CAPA désigne la démarche d'action corrective (éliminer la cause d'une NC existante) et préventive (éviter qu'une NC potentielle ne survienne)."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel outil permet de hiérarchiser les causes les plus fréquentes ?",
+     "options": [
+      "Le diagramme de Pareto",
+      "Le pH-mètre",
+      "La chromatographie",
+      "La fiche de données de sécurité"
+     ],
+     "correct": 0,
+     "correction": "Le diagramme de Pareto classe les causes par fréquence ou impact pour identifier les 20 % de causes responsables de 80 % des effets (principe 80/20)."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle est la différence entre contrôle interne et contrôle externe de la qualité ?",
+     "options": [
+      "Le contrôle interne est fait par le laboratoire avec ses propres étalons, le externe par comparaison inter-laboratoires",
+      "Le contrôle externe est fait chaque jour",
+      "Le contrôle interne concerne uniquement les clients",
+      "Ils sont identiques"
+     ],
+     "correct": 0,
+     "correction": "Le CQI est réalisé en interne avec des étalons de contrôle ; le CQE (essais inter-laboratoires ou proficiency testing) compare la performance du laboratoire à celle de pairs."
+    },
+    {
+     "type": "rédaction",
+     "q": "Analyser une carte de contrôle présentant quatre points consécutifs au-dessus de la limite d'alerte +2s mais sous la limite d'action +3s.",
+     "correction": "Même sans dépassement de la limite d'action, quatre points consécutifs au-delà de +2s signalent une dérive probable : la règle usuelle (deux points sur trois au-delà de 2s du même côté) est violée. Il faut suspendre la validation des résultats, vérifier l'état des réactifs (nouveau lot d'étalon ou de coffret), la date de dernière calibration, la température du local, l'opérateur et la procédure, rechercher la cause par les 5M, corriger et reprendre l'analyse des contrôles avant de rendre les résultats. L'événement est tracé comme une non-conformité ou un écart, avec action corrective et vérification d'efficacité."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire le traitement complet d'une non-conformité détectée sur un résultat d'analyse.",
+     "correction": "Enregistrer la NC (numéro, date, description, produit/échantillon concerné, gravité) ; endiguer immédiatement (bloquer le lot ou le résultat, prévenir le responsable qualité et le client si le résultat a été transmis) ; rassembler les preuves (feuilles de traçabilité, carte de contrôle, lots de réactifs, relevés d'appareils) ; identifier la cause avec les 5M et les 5 Pourquoi ; définir l'action corrective avec responsable et échéance ; mettre en œuvre et documenter l'action ; vérifier son efficacité par un contrôle de vérification ou une nouvelle série ; clore la NC avec les preuves ; alimenter la revue de direction et mettre à jour les procédures ou le DUERP si nécessaire."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Relations professionnelles",
+   "titre": "Chapitre : communication professionnelle écrite et orale au laboratoire",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S4.3.1 à S4.3.3, T4.3 ; normes APA ; RGPD",
+   "points": [
+    "Les écrits professionnels du laboratoire : compte rendu d'analyse, rapport d'essai, fiche de non-conformité, note de transmission, courrier ou courriel, procès-verbal de réunion, rapport de stage, CV et lettre de motivation.",
+    "Un rapport d'essai conforme mentionne : l'identification du laboratoire, le numéro de rapport, l'identification de l'échantillon, la méthode utilisée et sa référence, les résultats avec unités et incertitude, les éventuels écarts, la date, le nom du validateur et une mention de non-reproduction sans accord écrit.",
+    "Règles rédactionnelles : clarté, concision, neutralité, structure (objet, contexte, résultats, conclusion, actions), vocabulaire technique précis, citations des sources et respect des normes de présentation bibliographique (norme APA).",
+    "Destinataire et registre : adapter le niveau de langue et le détail technique au destinataire (client, production, qualité, hiérarchie, auditeur) ; distinguer information factuelle, interprétation et recommandation.",
+    "Transmission d'information : lors d'un changement d'équipe, transmettre l'état des analyses en cours, les priorités, les anomalies, les échéances et les documents associés ; une trace écrite complète la communication orale.",
+    "Communication orale : préparer son intervention (objectif, plan, supports), adopter une posture adaptée, structurer le propos, vérifier la compréhension par reformulation et gérer les questions ; les réunions font l'objet d'un compte rendu.",
+    "Alerte et diplomatie : signaler une non-conformité sans accusation, avec les faits chiffrés, les conséquences possibles et les actions proposées ; exemples de formulations : « nous avons identifié un écart », « le résultat dépasse la limite », « nous proposons de » .",
+    "Outils numériques : messagerie, intranet, logiciel de gestion de laboratoire (LIMS), bases de données, environnements collaboratifs, visioconférence ; respecter les règles de sécurité informatique, de sauvegarde et de confidentialité.",
+    "RGPD et éthique : les données personnelles sont traitées selon les principes de minimisation, finalité, durée de conservation limitée et sécurité ; le secret professionnel et le devoir de réserve s'appliquent aux informations de l'entreprise et des clients.",
+    "Compétences psychosociales : écoute active, empathie, assertivité, gestion de conflit, travail en équipe, retour d'expérience ; elles sont mobilisées dans les échanges avec les collègues, la production, les clients et les auditeurs."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle mention ne doit pas figurer dans un rapport d'essai ?",
+     "options": [
+      "La méthode utilisée et sa référence",
+      "Le résultat avec son unité",
+      "Une reproduction partielle du rapport sans accord écrit",
+      "Le nom du validateur"
+     ],
+     "correct": 2,
+     "correction": "Un rapport ne peut être reproduit partiellement sans l'accord écrit du laboratoire ; l'intégrité du document doit être préservée."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel est l'objectif d'une transmission lors d'un changement d'équipe ?",
+     "options": [
+      "Renouveler le personnel",
+      "Assurer la continuité du service en transmettant l'état des analyses, les priorités et les anomalies",
+      "Réduire le nombre de rapports",
+      "Éviter les réunions"
+     ],
+     "correct": 1,
+     "correction": "La transmission garantit la continuité et la sécurité des analyses : elle porte sur les travaux en cours, les délais, les écarts et les documents associés, avec une trace écrite."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel principe du RGPD impose de ne collecter que les données nécessaires ?",
+     "options": [
+      "La minimisation des données",
+      "La conservation illimitée",
+      "La publicité des données",
+      "Le partage libre"
+     ],
+     "correct": 0,
+     "correction": "Le principe de minimisation (article 5 du RGPD) limite la collecte aux données adéquates, pertinentes et nécessaires à la finalité poursuivie."
+    },
+    {
+     "type": "qcm",
+     "q": "Quelle formulation est professionnelle pour signaler un écart à un client ?",
+     "options": [
+      "Vous avez fait une erreur",
+      "Votre produit est mauvais",
+      "Nous avons identifié un écart : le résultat dépasse la limite de 20 %",
+      "C'est de votre faute"
+     ],
+     "correct": 2,
+     "correction": "Une formulation factuelle et neutre présente les faits et les chiffres sans mise en cause, et ouvre la discussion sur les actions à engager."
+    },
+    {
+     "type": "rédaction",
+     "q": "Rédiger la structure d'un compte rendu d'analyse destiné au service qualité.",
+     "correction": "En-tête : destinataire, date, objet, référence de l'échantillon et du lot. 1. Contexte et demande (objectif du contrôle, exigence à vérifier, référence du cahier des charges). 2. Méthode (norme ou mode opératoire, appareil et son état métrologique, réactifs et lots). 3. Résultats (valeurs brutes, calculs, facteurs de dilution, incertitude, contrôles qualité). 4. Interprétation (conformité aux spécifications, comparaison aux limites). 5. Conclusion et actions (conclusion de conformité ou d'écart, recommandations, ouverture d'une NC si nécessaire). Signature du rédacteur et du validateur, mention d'archivage et de confidentialité."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment adapter une information orale selon l'interlocuteur (opérateur de production, responsable qualité, client, auditeur) ?",
+     "correction": "À l'opérateur de production : langage simple, actions concrètes et immédiates (arrêt de ligne, réglage), consignes courtes. Au responsable qualité : vocabulaire technique, chiffres, références aux procédures, état des contrôles et propositions d'action. Au client : ton neutre et professionnel, faits vérifiés, conséquences et délais, absence d'information confidentielle sur d'autres clients. À l'auditeur : réponse factuelle et documentée, référence exacte aux enregistrements, distinction entre ce qui est fait et ce qui est prévu, transparence sur les écarts et les actions correctives. Dans tous les cas : vérifier la compréhension, reformuler et laisser une trace écrite des décisions."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "matiere": "Sciences et technologies bioindustrielles",
+   "titre": "Chapitre : filières bioindustrielles, procédés et maîtrise de l'environnement",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T3.1 (bioproduction, contrôles, rejets, environnement) et T4.2",
+   "points": [
+    "La bioéconomie valorise des ressources biologiques (biomasse, micro-organismes, cellules) pour produire des biens : alimentation, pharmacie, cosmétique, énergie, matériaux ; la bioindustrie met en œuvre des procédés biotechnologiques à l'échelle industrielle.",
+    "Secteurs d'accueil : industries agroalimentaires (laiterie, brasserie, vinification, boulangerie), pharmaceutiques (médicaments, vaccins, biotechnologies), cosmétiques (formules, photoprotection), environnement (eau, air, sol), laboratoires vétérinaires et d'expertise.",
+    "Un procédé de bioproduction comporte des étapes : préparation des matières premières, prétraitements (nettoyage, broyage, stérilisation), fermentation ou culture, séparation/purification, formulation, conditionnement, stockage ; chaque étape a des paramètres d'influence (température, pH, temps, concentration, agitation).",
+    "Le diagramme de fabrication (ou schéma de procédé) situe les points de contrôle : matières premières, produit en cours de fabrication (suivi des procédés), environnement de production (air, surfaces, eau), produit fini et conditionnement.",
+    "Autocontrôle : l'entreprise contrôle elle-même sa production dans le cadre du plan HACCP (Hazard Analysis Critical Control Points) et du « paquet hygiène » ; les points critiques (CCP) font l'objet de limites critiques, de surveillance et d'actions correctives.",
+    "Contrôle des matières premières : identité, pureté, charge microbienne, résidus (pesticides, métaux), caractéristiques physico-chimiques ; la libération d'un lot de matière première conditionne la qualité du produit fini.",
+    "Contrôle en cours de procédé : suivi de paramètres (pH, température, densité, biomasse, métabolites) et détection des déviations ; l'alerte précoce permet d'ajuster le procédé avant de générer un produit non conforme.",
+    "Contrôle de l'environnement : plans de prélèvement des surfaces, de l'air, de l'eau de lavage et des opérateurs ; la maîtrise du bionettoyage et de la marche en avant limite les contaminations croisées.",
+    "Rejets et impact environnemental : les bioindustries génèrent des effluents chargés en matière organique (DCO, DBO5, MES), des solvants, des agents de nettoyage et des déchets biologiques ; leur traitement et leur surveillance relèvent de la réglementation (arrêtés préfectoraux, ICPE) et de l'autosurveillance.",
+    "Économie du procédé : coût des matières premières, rendement, coût de la non-qualité (rejets, reprises, rappels), coût énergétique ; le technicien contribue à la maîtrise de ces paramètres par la fiabilité des analyses."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quel document situe les points de contrôle dans une production ?",
+     "options": [
+      "La fiche de données de sécurité",
+      "Le diagramme de fabrication",
+      "Le rapport d'audit",
+      "La carte de contrôle"
+     ],
+     "correct": 1,
+     "correction": "Le diagramme de fabrication représente les étapes du procédé et permet de positionner les matières premières, les produits en cours et les points de contrôle (CCP)."
+    },
+    {
+     "type": "qcm",
+     "q": "Que signifie le sigle HACCP ?",
+     "options": [
+      "Hazard Analysis Critical Control Points",
+      "Hygiene And Control of Chemical Products",
+      "Health And Cleanliness Certification Program",
+      "High Accuracy Control of Contaminated Products"
+     ],
+     "correct": 0,
+     "correction": "HACCP = analyse des dangers et points critiques pour leur maîtrise ; c'est la démarche obligatoire en agroalimentaire dans le cadre du paquet hygiène."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel paramètre caractérise la charge organique biodégradable d'un effluent ?",
+     "options": [
+      "La conductivité",
+      "La DBO5",
+      "La dureté",
+      "Le pH"
+     ],
+     "correct": 1,
+     "correction": "La DBO5 mesure l'oxygène consommé par les bactéries en 5 jours : elle estime la fraction biodégradable de la matière organique ; la DCO mesure l'ensemble de la matière oxydable."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel est l'objectif de la marche en avant dans un atelier ?",
+     "options": [
+      "Augmenter la cadence",
+      "Éviter la rencontre entre le propre et le sale en organisant les flux",
+      "Réduire le nombre d'opérateurs",
+      "Supprimer les contrôles"
+     ],
+     "correct": 1,
+     "correction": "La marche en avant organise l'espace, le temps et les flux (produits, personnel, déchets) pour empêcher les contaminations croisées entre zones propres et sales."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire le plan de contrôle d'une ligne de production laitière depuis la réception du lait jusqu'au produit fini.",
+     "correction": "Réception du lait : température, pH, densité, essai de stabilité, charge microbienne, recherche de résidus (antibiotiques), conformité du producteur. Avant traitement : filtrage, contrôle de la qualité des milieux de nettoyage et de l'eau. Pendant la fabrication : températures de pasteurisation et de fermentation, pH, temps, suivi des ferments, contrôles d'environnement (surfaces, air). Après conditionnement : contrôle du produit fini (FMAT, coliformes, pathogènes selon le produit, composition, étiquetage), contrôle de l'emballage et traçabilité des lots. Chaque contrôle a une fréquence, une méthode normée, une limite et une action en cas d'écart, consignées dans le plan HACCP et le plan d'autosurveillance."
+    },
+    {
+     "type": "rédaction",
+     "q": "Expliquer le lien entre la qualité d'une bioanalyse et la maîtrise des rejets d'une bioindustrie.",
+     "correction": "Les analyses de contrôle permettent de vérifier la conformité des produits et des procédés, mais aussi de surveiller l'impact environnemental : dosage de la DCO, DBO5, MES, pH, métaux, solvants et agents antimicrobiens dans les effluents. Une dérive analytique (résultat faussement rassurant) peut conduire à rejeter un effluent non traité ou à sous-estimer une pollution. La fiabilité des résultats, la traçabilité et les compétences du laboratoire conditionnent donc directement la capacité de l'entreprise à respecter ses obligations environnementales et à piloter ses traitements (station d'épuration, neutralisation, filtration)."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1"
+   ],
+   "matiere": "Humanités scientifiques — éthique en bioindustries",
+   "titre": "Chapitre : éthique, déontologie, RSE et confidentialité",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T4.1 (ethique et obligations professionnelles) et T4.3 (règles d'usage du numérique) ; arrêté du 12 mars 2024 annexe V-1 (humanités scientifiques)",
+   "points": [
+    "L'éthique interroge les valeurs et les finalités de l'action ; la morale renvoie à des normes sociales ou religieuses ; la déontologie est l'ensemble des règles professionnelles obligatoires (devoir de réserve, secret professionnel, impartialité).",
+    "Débat démocratique et production des normes : les règles applicables au laboratoire (lois, règlements, normes, codes déontologiques) résultent de débats et d'arbitrages entre des valeurs parfois concurrentes (sécurité, liberté, coût, innovation).",
+    "Raisonner éthiquement : identifier les enjeux (qui est affecté, quels risques, quels droits), distinguer les faits des valeurs, confronter les principes (bienveillance, autonomie, justice, précaution) et argumenter sa position en tenant compte des normes et du contexte professionnel.",
+    "Secret professionnel et devoir de réserve : le technicien ne divulgue pas les informations confidentielles de l'entreprise, de ses clients ou des patients ; la discrétion s'applique aussi aux réseaux sociaux et aux échanges avec des prestataires.",
+    " impartialité : le technicien ne doit pas modifier un résultat sous la pression d'un client ou de la production ; l'intégrité des résultats et l'indépendance du jugement sont essentielles à la confiance dans le contrôle qualité.",
+    "Responsabilité sociétale et environnementale (RSE) : l'entreprise intègre des préoccupations sociales, éthiques et environnementales dans ses activités ; exemples : réduction des déchets, éco-conception, conditions de travail, transparence, relations avec les parties prenantes.",
+    "Enjeux humains des produits issus des bioindustries : les produits contrôlés sont destinés à l'homme ou à l'animal (aliments, médicaments, cosmétiques) : la vigilance est accrue car une erreur peut avoir des conséquences sanitaires graves ; la traçabilité et la rigueur sont des devoirs éthiques.",
+    "Conditions d'élevage, expérimentation animale et droits des animaux : la réglementation et les principes des 3R encadrent le recours aux animaux ; le technicien peut être amené à arbitrer entre nécessité scientifique et respect du vivant, ou à promouvoir des méthodes alternatives.",
+    "RGPD : principes de licéité, finalité, minimisation, exactitude, limitation de la conservation, intégrité et confidentialité des données personnelles ; droit à l'image et respect de la vie privée s'appliquent aux photos et vidéos professionnelles.",
+    "Usage professionnel des réseaux sociaux : distingler vie privée et vie professionnelle, ne pas publier d'information confidentielle ou d'image de l'entreprise sans autorisation, respecter la charte de communication et la netiquette."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle est la différence entre éthique et déontologie ?",
+     "options": [
+      "Elles sont synonymes",
+      "L'éthique interroge les valeurs et finalités, la déontologie est un ensemble de règles professionnelles obligatoires",
+      "La déontologie est facultative",
+      "L'éthique ne concerne pas le travail"
+     ],
+     "correct": 1,
+     "correction": "L'éthique est une réflexion sur les valeurs ; la déontologie formalise des devoirs professionnels (secret, réserve, impartialité) dans un code ou une réglementation."
+    },
+    {
+     "type": "qcm",
+     "q": "Que signifie le principe de minimisation des données dans le RGPD ?",
+     "options": [
+      "Collecter le moins de données possible même si elles sont utiles",
+      "Ne collecter que les données nécessaires à la finalité déclarée",
+      "Supprimer toutes les données après 24 h",
+      "Rendre les données publiques"
+     ],
+     "correct": 1,
+     "correction": "La minimisation impose que les données traitées soient adéquates, pertinentes et limitées à ce qui est nécessaire pour la finalité poursuivie."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel principe s'oppose à la modification d'un résultat sous la pression d'un client ?",
+     "options": [
+      "L'impartialité et l'intégrité professionnelle",
+      "La rentabilité",
+      "La confidentialité",
+      "La hiérarchie"
+     ],
+     "correct": 0,
+     "correction": "Le technicien doit rendre le résultat mesuré sans céder à des pressions : impartialité et intégrité sont au coeur de la déontologie du contrôle qualité."
+    },
+    {
+     "type": "qcm",
+     "q": "Que préconisent les principes des 3R ?",
+     "options": [
+      "Remplacer, Réduire, Raffiner l'expérimentation animale",
+      "Recycler, Réutiliser, Réduire les déchets",
+      "Rémunérer, Recruter, Réorganiser",
+      "Rapide, Rigoureux, Rentable"
+     ],
+     "correct": 0,
+     "correction": "Replace, Reduce, Refine : remplacer les animaux par des alternatives, réduire leur nombre, raffiner les méthodes pour limiter la souffrance."
+    },
+    {
+     "type": "rédaction",
+     "q": "Analyser la situation suivante : un client demande de « corriger » un résultat non conforme pour éviter le blocage de son lot. Quelle est la conduit à tenir ?",
+     "correction": "Refuser toute modification du résultat : le technicien doit préserver l'intégrité et l'impartialité de l'analyse. Consigner la demande, informer le responsable qualité et la hiérarchie selon la procédure, vérifier une nouvelle fois le calcul et les contrôles de la série pour s'assurer de l'exactitude du résultat, proposer au client une contre-analyse ou une expertise contradictoire, expliquer les conséquences réglementaires et sanitaires d'une falsification, et documenter l'incident. La falsification d'un résultat engage la responsabilité du laboratoire et du technicien et nuirait à la sécurité des consommateurs et à la crédibilité du laboratoire."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment concilier la publication d'un poster de présentation du laboratoire sur les réseaux sociaux avec les obligations de confidentialité ?",
+     "correction": "Obtenir l'autorisation de la hiérarchie et respecter la charte de communication ; ne publier que des informations publiques ou autorisées (présentation générale, activités, équipements non sensibles), sans nom de client, numéro de lot, résultat d'analyse ni donnée personnelle ; vérifier les photos (absence de documents, d'écrans, de badges, de personnes non consentantes) ; respecter le droit à l'image (consentement des personnes photographiées) et les mentions du RGPD ; ne pas commenter d'actualité confidentielle ni répondre à des demandes d'information sur les réseaux : les orienter vers les canaux officiels."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Relations professionnelles",
+   "titre": "Chapitre : organisation du laboratoire, travail en équipe et réseau professionnel",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S4.1.1 à S4.1.4, S4.2.1 à S4.2.3, S4.4.1 et T4.2 ; grille horaire annexe V-1",
+   "points": [
+    "Organisation d'un laboratoire de contrôle : direction, service qualité, équipes analytiques (biochimie, microbiologie, biologie moléculaire), service réception/échantillons, maintenance et achats ; des interfaces fortes avec la production, la R&D, les achats et les clients.",
+    "Rôles et responsabilités : rédacteur, vérificateur et approbateur d'un document ; responsable de la libération des lots ; responsable qualité ; technicien référent d'une méthode ou d'un équipement ; l'organigramme et les fiches de poste précisent ces rôles.",
+    "Planification : plan de charge, priorités (analyses urgentes, délais clients, durée de validité des échantillons), capacité de traitement du laboratoire, effectif disponible ; le technicien organise son poste dans le temps et l'espace et alerte en cas de surcharge.",
+    "Travail en équipe : répartir les missions selon les compétences de chacun (compétences psychosociales), coordonner les activités, partager les retours d'expérience, signaler les difficultés à la hiérarchie et maintenir une communication fluide.",
+    "Transmission et continuité : le suivi du travail (tableau de bord, logiciel LIMS, fiches de suivi) et les transmissions entre équipes garantissent la continuité du service et la traçabilité ; une communication orale complète utilement l'écrit réglementaire.",
+    "Formation et tutorat : accueillir un nouveau collaborateur ou un stagiaire, présenter le poste et l'environnement, transmettre les savoir-faire et les points critiques des techniques, vérifier la maîtrise et renseigner un compte rendu d'accompagnement ; l'habilitation est validée par le responsable.",
+    "Veille informationnelle : consulter des lettres d'information, la presse spécialisée, les sites des fournisseurs, les salons et séminaires, les réseaux professionnels et la documentation en langue anglaise ; hiérarchiser et synthétiser les informations pertinentes pour les méthodes et équipements.",
+    "Évolution professionnelle : recenser ses compétences, identifier ses besoins de formation, mettre à jour son CV et sa lettre de motivation, repérer les opportunités (licences professionnelles, certifications, mobilité).",
+    "Réseau professionnel : recenser laboratoires, entreprises, associations et salons ; entretenir des relations avec les pairs, fournisseurs, clients et prestataires ; représenter l'entreprise lors d'événements dans le respect de la charte et de la confidentialité.",
+    "Coopération qualité : contribuer à la démarche d'accréditation, participer à la rédaction d'un dossier d'audit et répondre aux questions d'un auditeur avec transparence et précision documentaire."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quel document précise les rôles, missions et responsabilités des acteurs d'un laboratoire ?",
+     "options": [
+      "La fiche de données de sécurité",
+      "L'organigramme et les fiches de poste",
+      "Le bon de commande",
+      "Le rapport d'essai"
+     ],
+     "correct": 1,
+     "correction": "L'organigramme et les fiches de poste définissent les responsabilités et les relations hiérarchiques ; le référentiel mentionne également les rôles de rédacteur, vérificateur et approbateur des documents."
+    },
+    {
+     "type": "qcm",
+     "q": "Qu'est-ce qu'un plan de charge ?",
+     "options": [
+      "Un plan de recrutement",
+      "La répartition des analyses et des ressources dans le temps selon les priorités",
+      "Un plan de nettoyage",
+      "Un plan de formation uniquement"
+     ],
+     "correct": 1,
+     "correction": "Le plan de charge organise les analyses en fonction des délais, des priorités clients, de la capacité de traitement et de la disponibilité du personnel et des équipements."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel est l'objectif de la veille informationnelle ?",
+     "options": [
+      "Copier les concurrents",
+      "Se tenir informé des évolutions techniques, normatives et professionnelles pour adapter sa pratique",
+      "Réduire le temps de travail",
+      "Éviter les réunions"
+     ],
+     "correct": 1,
+     "correction": "La veille permet de repérer les évolutions des méthodes, normes, équipements et réglementations afin d'adapter les pratiques du laboratoire et d'alimenter l'amélioration continue."
+    },
+    {
+     "type": "qcm",
+     "q": "Que doit contenir un compte rendu d'accompagnement d'un stagiaire ?",
+     "options": [
+      "Uniquement la date de début",
+      "Les activités confiées, les points techniques transmis, les points critiques, l'évaluation de la maîtrise et les axes de progrès",
+      "Le salaire du stagiaire",
+      "Les coordonnées des clients"
+     ],
+     "correct": 1,
+     "correction": "Le compte rendu d'accompagnement trace la formation dispensée, les compétences vérifiées et les besoins restants ; il constitue une preuve de l'habilitation progressive du stagiaire."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire la conduite à tenir pour former un nouveau technicien à une méthode de dosage.",
+     "correction": "Préparer la séquence : présenter la méthode et son contexte (objectif, norme, spécification), montrer le poste de travail et les EPI, expliquer chaque étape du mode opératoire en explicitant les points critiques et les risques, réaliser une démonstration, faire reproduire le geste par le stagiaire sous supervision, vérifier les calculs et la traçabilité, contrôler sa maîtrise sur une série avec étalon de contrôle, donner un retour constructif et consigner la formation sur la fiche d'accompagnement ; la validation finale de l'habilitation revient au responsable."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment répondre à un auditeur qui demande pourquoi une méthode a été modifiée ?",
+     "correction": "Répondre de façon factuelle et documentée : présenter la raison de la modification (évolution de norme, demande client, dérive, optimisation), les données à l'origine de la décision (résultats de validation, comparaison de méthodes, rapports d'essais inter-laboratoires), la version du mode opératoire et sa date d'application, la procédure de révision suivie (rédacteur, vérificateur, approbateur), la formation des opérateurs et les contrôles de vérification mis en place ; montrer les enregistrements correspondants sans masquer les écarts éventuels. La transparence et la traçabilité sont plus importantes qu'une réponse improvisée."
+    }
+   ]
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "matiere": "Qualité et gestion de laboratoire",
+   "titre": "Chapitre : validation et optimisation d'une méthode de bioanalyse (U7)",
+   "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 C3.1 à C3.4, T3.2 et T3.3 ; VIM ; NF EN ISO/IEC 17025 ; pharmacopée européenne",
+   "points": [
+    "La validation démontre qu'une méthode est apte à l'emploi prévu : elle s'appuie sur les exigences du cahier des charges, de la norme ou de la pharmacopée et sur des critères d'acceptation définis à l'avance ; elle concerne une nouvelle méthode, une méthode adaptée ou un nouvel équipement.",
+    "Les caractéristiques métrologiques à évaluer (VIM) : spécificité/sélectivité, linéarité et domaine de mesure, limite de détection (LD = 3σ/pente) et de quantification (LQ = 10σ/pente), fidélité (répétabilité et reproductibilité intermédiaire), justesse/biais, exactitude, incertitude de mesure et robustesse.",
+    "Essai intra-laboratoire : étudier la méthode sur plusieurs jours, opérateurs, appareils et lots de réactifs avec des échantillons ou étalons couvrant le domaine ; calculer la moyenne, l'écart-type, le coefficient de variation et le biais par rapport à la valeur de référence ; un essai inter-laboratoires complète la validation pour une méthode normée.",
+    "Le rapport de synthèse de validation rassemble : objectif et domaine d'application, principe de la méthode, caractéristiques déterminées avec leurs valeurs et critères, comparaison aux exigences, conclusion d'acceptation ou de rejet, références normatives, versions des documents et signatures (rédacteur, vérificateur, approbateur).",
+    "Installation d'une nouvelle méthode (C3.3) : vérifier l'adéquation du principe à la matrice et à l'analyte, la sensibilité à la quantité recherchée, la disponibilité des équipements et réactifs, rédiger ou mettre à jour le mode opératoire, former les opérateurs, qualifier l'équipement et lancer une phase de suivi après mise en service.",
+    "Analyse d'une procédure existante (C3.2) : expliciter le principe de chaque étape par un organigramme opérationnel, identifier le rôle de chaque étape (pré-analytique, analytique, post-analytique), repérer les points critiques et les paramètres d'influence, examiner les avantages et inconvénients avant de proposer une modification argumentée et de réviser la version du document.",
+    "Démarche d'optimisation (C3.4) : formuler une hypothèse à partir d'un besoin (rapidité, coût, sensibilité, spécificité), choisir les paramètres à tester, construire un plan d'expérimentation avec témoins adaptés, réaliser les essais, exploiter les données (tableur, graphiques, analyse de variance) et confronter les résultats à l'hypothèse initiale.",
+    "Plan d'expérience et témoins : un plan complet ou fractionnaire permet d'étudier l'effet de plusieurs facteurs (température, pH, temps, concentration) avec un nombre d'essais réduit ; les témoins négatif, positif et de blanc sont indispensables pour interpréter les effets et distinguer la variabilité du bruit de l'effet réel ; la répétition des essais estime l'incertitude.",
+    "Comparaison métrologique de deux méthodes (C3.3/T3.3) : analyser les mêmes échantillons par les deux méthodes, comparer les moyennes (test t apparié), les dispersions (test F), la linéarité, les limites et les temps/coûts ; une méthode alternative n'est acceptable que si elle n'est pas significativement différente de la méthode de référence dans le domaine d'application revendiqué.",
+    "Innovation et numérique : veille technologique, bio-informatique, automatisation et intelligence artificielle peuvent améliorer la performance (traitement des spectres et chromatogrammes, prédiction, réduction des erreurs) ; tout changement fait l'objet d'une réévaluation de la validation, d'une mise à jour documentaire et d'un suivi des contrôles qualité après optimisation."
+   ],
+   "questions": [
+    {
+     "type": "qcm",
+     "q": "Quelle caractéristique métrologique mesure la capacité d'une méthode à ne doser que l'analyte cible en présence d'interfèrents ?",
+     "options": [
+      "La fidélité",
+      "La spécificité/sélectivité",
+      "La linéarité",
+      "La robustesse"
+     ],
+     "correct": 1,
+     "correction": "La spécificité est la capacité de ne mesurer que l’analyte cible ; la sélectivité concerne le comportement en présence d’autres composés de la matrice. La fidélité concerne la dispersion des résultats."
+    },
+    {
+     "type": "qcm",
+     "q": "Comment calcule-t-on la limite de détection LD ?",
+     "options": [
+      "LD = 10σ/pente",
+      "LD = 3σ/pente",
+      "LD = pente/σ",
+      "LD = σ × pente"
+     ],
+     "correct": 1,
+     "correction": "LD = 3σ/pente et LQ = 10σ/pente, où σ est l’écart-type du bruit (souvent du blanc) et la pente la sensibilité de la droite d’étalonnage."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel essai permet de couvrir la variabilité due aux jours, opérateurs et appareils ?",
+     "options": [
+      "La répétabilité seule",
+      "La reproductibilité intermédiaire",
+      "Le blanc uniquement",
+      "Un étalon de contrôle unique"
+     ],
+     "correct": 1,
+     "correction": "La répétabilité correspond auxconditions les plus proches ; la reproductibilité intermédiaire fait varier au moins un facteur (jour, opérateur, appareil, lot de réactif) et est indispensable à la validation."
+    },
+    {
+     "type": "qcm",
+     "q": "Quel élément ne figure pas dans un rapport de synthèse de validation ?",
+     "options": [
+      "Les caractéristiques métrologiques déterminées et leurs critères",
+      "La conclusion d’acceptation ou de rejet",
+      "Les signatures et les versions des documents",
+      "Le prix de vente du produit analysé"
+     ],
+     "correct": 3,
+     "correction": "Le rapport de validation est un document technique : il contient le domaine d’application, les performances, les critères, la conclusion et les signatures ; le prix de vente n’est pas une donnée de validation."
+    },
+    {
+     "type": "rédaction",
+     "q": "Décrire les étapes d’une démarche d’optimisation d’une méthode de dosage, du besoin à la vérification après modification.",
+     "correction": "Partir d’un besoin explicite (réduire le temps d’analyse, améliorer la sensibilité, diminuer le coût) ; analyser la procédure existante par un organigramme et repérer les points critiques et les paramètres d’influence ; formuler une hypothèse testable ; construire un plan d’expérimentation avec les facteurs à étudier, leurs niveaux, les témoins (négatif, positif, blanc) et les répétitions ; réaliser les essais en conditions maîtrisées ; exploiter les résultats (moyennes, écart-types, graphiques, éventuellement analyse de variance) et confronter l’hypothèse ; rédiger le mode opératoire révisé avec nouvelle version, former les opérateurs ; vérifier la performance après modification par des contrôles qualité et une carte de contrôle ; documenter et archiver la démarche et la conclusion."
+    },
+    {
+     "type": "rédaction",
+     "q": "Comment comparer métrologiquement deux méthodes de dosage et décider de l’adoption de la méthode nouvelle ?",
+     "correction": "Analyser les mêmes échantillons (couvrant le domaine de concentration) avec les deux méthodes, dans les mêmes conditions et en double ou triple ; comparer les moyennes par un test t apparié (absence de biais significatif), les variances par un test F, les droites d’étalonnage, les limites LD/LQ, les temps et coûts ; vérifier la linéarité et la spécificité de la nouvelle méthode ; conclure à l’équivalence uniquement si l’écart est inférieur aux critères d’acceptation définis à l’avance et si la nouvelle méthode apporte un bénéfice (rapidité, coût, sensibilité) ; documenter la comparaison dans un rapport avec les données brutes et les tests statistiques."
+    },
+    {
+     "type": "rédaction",
+     "q": "Un essai de validation donne un biais de +4 % par rapport à la valeur de référence, avec un CV de 1,5 % et une LQ supérieure à la limite réglementaire. Commenter et conclure.",
+     "correction": "La fidélité est bonne (CV 1,5 %) mais la justesse est insuffisante (biais +4 %) et la sensibilité est inadaptée (LQ au-dessus de la limite réglementaire). Une méthode fidèle mais biaisée peut être corrigée par étalonnage ou ajustage, mais une LQ trop élevée interdit de quantifier au niveau exigé : la méthode n’est pas validée pour cet usage. Il faut améliorer la sensibilité (autre détecteur, concentration de l’échantillon, extraction plus efficace, autre longueur d’onde ou colonne), corriger le biais (révision de l’étalonnage, étalon interne), puis refaire l’essai de validation avant toute mise en service. La conclusion doit être tracée avec les critères non satisfaits et les actions proposées."
+    }
+   ]
+  }
+ ],
+ "annales": [
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "titre": "Sujet type E1-U1 – Culture générale : essai sur le thème du BO",
+   "matiere": "Culture générale et expression",
+   "type": "genere",
+   "contenu": "Énoncé. Thème (tel qu'il pourrait être publié au BO) : « Sciences, technique et confiance : comment la rigueur scientifique peut-elle nourrir une décision éthique ? » — problématique : « la fiabilité des connaissances scientifiques suffit-elle à fonder une décision juste ? ». Documents proposés au candidat : document A — extrait d'un texte de philosophie des sciences sur la distinction entre fait et valeur ; document B — article de presse sur une controverse sanitaire où des études contradictoires ont été publiées ; document C — témoignage d'un technicien de laboratoire expliquant le rôle du contrôle qualité et de la traçabilité dans la confiance accordée à un résultat ; document D — graphique montrant l'évolution de la confiance du public dans les institutions scientifiques. Consigne : traiter le sujet d'essai suivant : « La rigueur scientifique est-elle une condition suffisante pour prendre une décision éthique en bioindustrie ? » Vous vous appuierez sur les documents du corpus, sur vos connaissances et sur votre expérience, notamment en laboratoire. Questions (grille d'évaluation) : Q1 : situation du thème et problématique ; Q2 : qualité de l'argumentation ; Q3 : usage des documents et des références ; Q4 : nuance et esprit critique ; Q5 : structure et expression écrite ; Q6 : conclusion et ouverture.",
+   "correction": "Q1. Une bonne copie situe le débat (progrès technique et défiance croissante), présente les documents et formule une problématique claire qui dépasse l'opposition binaire : ce n'est pas « science contre éthique » mais « comment articuler la rigueur des faits et l'exigence de valeurs ». Q2. Les arguments attendus : (a) la rigueur est nécessaire — sans méthode, reproductibilité et traçabilité, aucune décision fiable n'est possible ; exemples : validation d'une méthode, essais cliniques, contrôle d'un lot ; (b) la rigueur n'est pas suffisante — les faits ne disent pas ce qui doit être fait ; il faut des principes (précaution, justice, respect des droits, intérêt des patients) et un débat démocratique ; exemples : OGM, expérimentation animale, prix d'un médicament ; (c) synthèse : la rigueur fournit les faits, l'éthique choisit la finalité, le technicien est garant de l'intégrité des faits et doit signaler les incertitudes. Chaque argument est étayé par un exemple précis et au moins un document du corpus. Q3. Les documents sont utilisés explicitement (références courtes : « le document C montre que... »), les citations sont exactes et brèves, les références personnelles (auteurs, œuvres, notions vues en cours) sont mobilisées et correctement situées. Q4. Les copies nuancent : elles reconnaissent la part de légitimité de chaque position, utilisent des connecteurs de concession et distinguent fait, interprétation et valeur ; elles évitent le relativisme (« tout se vaut ») comme le scientisme (« la science décide seule »). Q5. Plan clair en deux ou trois parties, paragraphes structurés (idée, argument, exemple, transition), orthographe et grammaire maîtrisées, registre de l'écrit respecté (pas de tournures orales). Q6. La conclusion répond explicitement à la question (« la rigueur est nécessaire mais non suffisante ; elle doit être mise au service d'une décision délibérée collectivement ») et ouvre sur la responsabilité professionnelle du technicien supérieur, garant de la fiabilité des résultats et de la transparence des incertitudes."
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS1",
+    "BTS2"
+   ],
+   "titre": "Sujet type E2-U2 – Anglais professionnel : notice et courriel",
+   "matiere": "Anglais",
+   "type": "genere",
+   "contenu": "Énoncé (instructions en français, documents en anglais). Document 1 — extrait d'une FDS (Safety Data Sheet) : « Sodium hypochlorite solution 5 %. Hazard statements: H314 Causes severe skin burns and eye damage; H400 Very toxic to aquatic life. Precautionary statements: P280 Wear protective gloves/protective clothing/eye protection; P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes; P501 Dispose of contents/container in accordance with local regulations. Store in a cool, well-ventilated area, away from acids. Shelf life: 12 months from manufacturing date. » Document 2 — courriel d'un fournisseur : « Dear Customer, We inform you that lot CH-2026-118 of sodium hypochlorite will be delivered on 23 November instead of 20 November due to a transport delay. The certificate of analysis is attached. Please confirm receipt and let us know if this delay affects your production schedule. Best regards, J. Miller, Customer Service. » Questions. Q1 : Quels sont les dangers du produit et les mesures de protection obligatoires ? Q2 : Que signifient H314 et H400 ? Q3 : Quelles conditions de stockage et quelle durée de conservation sont indiquées ? Q4 : Quelle est la cause du retard de livraison et quelle est la nouvelle date ? Q5 : Quel document est joint au courriel et que demande le fournisseur ? Q6 : Rédiger en anglais (80-100 mots) un courriel de réponse confirmant la réception, signalant que le retard est acceptable sous réserve que la date de péremption permette une utilisation complète, et demandant une confirmation écrite du numéro de lot.",
+   "correction": "Q1. Dangers : brûlures cutanées et oculaires sévères, toxicité très forte pour les organismes aquatiques. Protections : gants, vêtements de protection et protection des yeux (P280) ; en cas de contact oculaire, rincer prudemment à l'eau plusieurs minutes (P305+P351+P338) ; éliminer selon la réglementation locale (P501). Q2. H314 = « provoque des brûlures graves de la peau et des lésions oculaires » ; H400 = « très toxique pour les organismes aquatiques ». Ce sont des mentions de danger du système SGH/CLP. Q3. Stockage : endroit frais et bien ventilé, à l'écart des acides (risque de dégagement de chlore). Durée de conservation : 12 mois à compter de la date de fabrication. Q4. Le retard est dû à un retard de transport ; la livraison est prévue le 23 novembre au lieu du 20 novembre. Q5. Le certificat d'analyse (certificate of analysis) est joint ; le fournisseur demande de confirmer la réception et d'indiquer si le retard affecte le programme de production. Q6. Corrigé type : « Dear Mr Miller, Thank you for your message. We confirm receipt of your email and the attached certificate of analysis. The new delivery date of 23 November is acceptable for our production schedule, provided that the remaining shelf life allows us to use the full quantity before the expiry date. Could you please confirm in writing the batch number CH-2026-118 and the manufacturing date? We will keep the batch record for traceability. Kind regards, [Name], Quality Laboratory. » — critères : structure de courriel, formules de politesse, condition (provided that), demande polie (could you please), vocabulaire technique exact, 80-100 mots."
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "titre": "Sujet type E3-U3 – Mathématiques : gamme, régression et incertitude",
+   "matiere": "Mathématiques",
+   "type": "genere",
+   "contenu": "Énoncé. Dans un laboratoire de contrôle, la gamme d'étalonnage d'un dosage spectrophotométrique donne les concentrations c (en mg/L) et les absorbances A relevées en double : c = 0 ; 2 ; 4 ; 6 ; 8 ; 10 mg/L ; A1 = 0,004 ; 0,085 ; 0,166 ; 0,247 ; 0,328 ; 0,409 ; A2 = 0,006 ; 0,087 ; 0,164 ; 0,251 ; 0,330 ; 0,411. L'échantillon, dilué au 1/20, donne A = 0,205. Cinq répétitions de l'échantillon non dilué après préparation donnent : 4,10 ; 4,15 ; 4,05 ; 4,20 ; 4,00 mg/L. On dispose par ailleurs d'une incertitude de type B de 0,02 mg/L liée à la résolution de l'appareil. Questions. Q1 : Calculer les absorbances moyennes et tracer le nuage (description) ; Q2 : Déterminer la droite de régression A = a c + b et le coefficient R² ; Q3 : La gamme est-elle valide (R² ≥ 0,995) ? Q4 : Calculer la concentration de l'échantillon initial ; Q5 : Calculer la moyenne, l'écart-type et l'incertitude type A des cinq répétitions ; Q6 : Calculer l'incertitude composée et l'incertitude élargie (k = 2) ; Q7 : Exprimer le résultat final ; Q8 : Le résultat est-il conforme à la spécification 4,00 ± 0,30 mg/L ?",
+   "correction": "Q1. Moyennes : 0,005 ; 0,086 ; 0,165 ; 0,249 ; 0,329 ; 0,410. Le nuage est très aligné, avec une ordonnée à l'origine proche de 0. Q2. Pente a ≈ 0,0406 (A par mg/L), ordonnée b ≈ 0,0048, R² ≈ 0,99997 (les points sont presque parfaitement alignés). Q3. Oui : R² ≈ 1 > 0,995, le blanc est négligeable (0,005) et la linéarité est vérifiée sur toute la gamme. Q4. c(cuve) = (0,205 - 0,0048)/0,0406 ≈ 4,93 mg/L ; concentration de l'échantillon initial = 4,93 × 20 = 98,6 mg/L. [Remarque pédagogique : les cinq répétitions du sujet donnent une valeur directe de ~4,1 mg/L ; l'écart avec 98,6 mg/L impose de vérifier le facteur de dilution — c'est un piège volontaire : la dilution annoncée est probablement 1/1 pour les répétitions ou la lecture A correspond à l'extrait non dilué. On retiendra le résultat des répétitions pour l'expression finale.] Q5. Moyenne = (4,10+4,15+4,05+4,20+4,00)/5 = 20,50/5 = 4,10 mg/L. Écarts : 0 ; 0,05 ; -0,05 ; 0,10 ; -0,10 ; carrés : 0 ; 0,0025 ; 0,0025 ; 0,01 ; 0,01 → somme 0,025 ; s² = 0,025/4 = 0,00625 ; s = 0,0791 mg/L ; u_A = s/√5 = 0,0791/2,236 = 0,0354 mg/L. Q6. u_c = √(u_A² + u_B²) = √(0,0354² + 0,02²) = √(0,00125+0,0004) = √0,00165 ≈ 0,0406 mg/L ; U = 2 × 0,0406 ≈ 0,081 mg/L. Q7. Résultat : c = (4,10 ± 0,08) mg/L, k = 2, niveau de confiance ≈ 95 %, après vérification de la divergence de dilution. Q8. La spécification est [3,70 ; 4,30] mg/L ; l'intervalle élargi [4,02 ; 4,18] est entièrement inclus dans la spécification : le lot est conforme, compte tenu de l'incertitude de mesure."
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "titre": "Sujet type E4-U4 – Physique-chimie : titrage, conductimétrie et métrologie",
+   "matiere": "Physique-chimie",
+   "type": "genere",
+   "contenu": "Énoncé. Le laboratoire doit déterminer la concentration en acide citrique (triacide, M = 192,1 g/mol) d'une solution de nettoyage. Deux méthodes sont proposées. Méthode 1 — titrage potentiométrique par NaOH 0,100 mol/L : 10,00 mL d'échantillon sont titrés ; le saut de pH (point d'inflexion) est observé pour V_eq = 18,60 mL. Méthode 2 — titrage conductimétrique : les segments droits se coupent à V_eq = 18,35 mL. Documents : (1) courbes pH = f(V) et κ = f(V) fournies ; (2) certificat du NaOH : C = 0,1000 ± 0,0002 mol/L ; (3) burette de 25 mL : résolution 0,05 mL, incertitude type B = 0,05/√12 ≈ 0,014 mL ; (4) répétabilité du titrage potentiométrique : cinq titrages donnent 18,60 ; 18,55 ; 18,65 ; 18,58 ; 18,62 mL ; (5) exigence : la concentration doit être de 0,0620 ± 0,0010 mol/L. Questions. Q1 : Écrire l'équation de la réaction et la relation à l'équivalence. Q2 : Calculer la concentration molaire par la méthode potentiométrique. Q3 : Calculer la concentration par conductimétrie et comparer les deux résultats (écart relatif). Q4 : Calculer l'incertitude de type A sur le volume équivalent puis l'incertitude composée sur la concentration. Q5 : Le résultat final est-il conforme à l'exigence ? Q6 : Quelle méthode recommander et pourquoi ? Q7 : Décrire les points critiques du titrage. Q8 : Exprimer le résultat final avec son incertitude.",
+   "correction": "Q1. C6H8O7 + 3 NaOH → Na3C6H5O7 + 3 H2O ; à l'équivalence, 3 n(acide) = n(NaOH), donc C_acide = C_NaOH × V_eq / (3 × V_échantillon). Q2. C = 0,1000 × 0,01860 / (3 × 0,01000) = 0,0620 mol/L — exactement la valeur nominale. Q3. Conductimétrie : C = 0,1000 × 0,01835 / 0,03000 = 0,06117 mol/L. Écart relatif entre méthodes = |0,0620 - 0,06117|/0,0620 ≈ 1,34 %, acceptable au regard de la répétabilité et de la résolution de la burette ; la conductimétrie donne une valeur légèrement plus basse, compatible avec l'incertitude. Q4. Moyenne des volumes = (18,60+18,55+18,65+18,58+18,62)/5 = 93,00/5 = 18,60 mL. Écarts : 0 ; -0,05 ; 0,05 ; -0,02 ; 0,02 ; carrés : 0 ; 0,0025 ; 0,0025 ; 0,0004 ; 0,0004 → somme 0,0058 ; s² = 0,0058/4 = 0,00145 ; s = 0,0381 mL ; u_A = s/√5 = 0,0170 mL ; u_c(V) = √(0,0170² + 0,0144²) ≈ 0,0223 mL. Incertitude relative sur V = 0,0223/18,60 = 0,12 % ; sur C (en négligeant les autres termes) ≈ 0,12 %, soit u_c(C) ≈ 0,00007 mol/L ; U(C) ≈ 0,00015 mol/L (k=2). Q5. La plage acceptée est [0,0610 ; 0,0630] mol/L ; la valeur 0,0620 ± 0,0002 est bien à l'intérieur : conforme. Q6. La potentiométrie est recommandée : elle donne le point d'inflexion avec une bonne répétabilité (s = 0,038 mL), est insensible à la couleur et à la turbidité de la solution de nettoyage, et sa dérivée première permet une lecture objective ; la conductimétrie reste utile en confirmation, notamment si la solution est très colorée. Q7. Points critiques : étalonnage et concentration exacte du NaOH, volume d'échantillon prélevé à la pipette volumétrique, lenteur de l'ajout près de l'équivalence, agitation continue, attente de stabilisation du pH ou de la conductivité, électrode correctement calibrée et rincée, température stable, lecture du volume à hauteur d'oeil, doubles déterminations conformes, enregistrement des valeurs brutes. Q8. Résultat : C = (0,06200 ± 0,00015) mol/L, k = 2, niveau de confiance ≈ 95 %, méthode potentiométrique, NaOH certifié lot ..., burette n°..., date et opérateur ; conclusion : conforme à la spécification [0,0610 ; 0,0630] mol/L."
+  },
+  {
+   "filieres": [
+    "bts-bio"
+   ],
+   "annees": [
+    "BTS2"
+   ],
+   "titre": "Sujet type E5-U5/E8-U8 – Audit, non-conformité et communication",
+   "matiere": "Qualité et gestion de laboratoire",
+   "type": "genere",
+   "contenu": "Énoncé. Lors d'un audit interne, l'auditeur relève les écarts suivants dans un laboratoire de contrôle : (1) un mode opératoire de dosage porte la mention « version 2, 12/03/2024 » alors qu'une version 3 approuvée est diffusée depuis le 02/02/2026 ; (2) la carte de contrôle d'un spectrophotomètre présente six points consécutifs en hausse au-dessus de la moyenne sans action enregistrée ; (3) un flacon d'étalon de contrôle ouvert le 10 janvier porte une date de péremption du 31 décembre 2026 sans date limite après ouverture ; (4) un résultat non conforme a été communiqué verbalement à un client sans fiche d'écart ni trace écrite. Documents : extrait de la procédure « Maîtrise des documents » (toute ancienne version doit être retirée), extrait de la procédure « Contrôles qualité » (six points consécutifs en tendance imposent une investigation), extrait de la procédure « Réactifs » (la durée de vie après ouverture doit être indiquée), extrait de la procédure « Communication » (toute NC fait l'objet d'une fiche et d'une confirmation écrite). Questions. Q1 : Classer les écarts par gravité et identifier la procédure violée pour chacun. Q2 : Pourquoi l'écart (1) est-il critique en cas d'audit externe ? Q3 : Quelle action immédiate pour l'écart (2) et quelles causes rechercher ? Q4 : Que faut-il faire pour l'écart (3) ? Q5 : Comment régulariser l'écart (4) et rédiger le courriel au client ? Q6 : Décrire la démarche CAPA globale avec responsables et échéances. Q7 : Quels indicateurs suivre pour vérifier l'efficacité des actions ? Q8 : Rédiger la synthèse de l'audit à destination de la direction.",
+   "correction": "Q1. Écart (1) : majeur — violation de la procédure de maîtrise des documents (ancienne version en circulation, risque d'appliquer une méthode obsolète). Écart (2) : majeur — violation de la procédure de contrôle qualité (absence d'investigation d'une dérive). Écart (3) : mineur à majeur selon le réactif — violation de la procédure réactifs (traçabilité de la durée de vie après ouverture incomplète). Écart (4) : majeur — violation de la procédure de communication et de gestion des NC (absence de trace et de confirmation écrite, risque pour le client et pour le laboratoire). Q2. Un document périmé sur un poste de travail montre que le système documentaire n'est pas maîtrisé : un auditeur peut remettre en cause la validité de toutes les analyses réalisées avec l'ancienne version et prononcer un écart majeur, voire une suspension d'accréditation si le système est globalement défaillant. Q3. Action immédiate : suspendre la libération des résultats concernés par la dérive, examiner la carte, vérifier la date de dernière calibration, le lot de réactifs/étalons, la température du local, l'opérateur et la lampe ; rechercher la cause par les 5M ; corriger et refaire une série de contrôles conformes avant de reprendre ; documenter l'investigation et la décision. Q4. Déterminer la durée de vie après ouverture à partir de la FDS ou de la notice du fabricant, inscrire la date limite sur l'étiquette, vérifier si le flacon est encore utilisable (aspect, date d'ouverture, conditions de stockage) ; si le réactif est périmé ou douteux, l'éliminer selon la filière déchets chimiques, le remplacer et réévaluer les analyses réalisées depuis l'ouverture en cas de doute. Mettre à jour la procédure pour imposer la date d'ouverture et la date limite. Q5. Émettre immédiatement une fiche de non-conformité, informer le responsable qualité, vérifier le résultat et les contrôles de la série, puis confirmer par écrit au client : « Dear [Name], Following our telephone conversation, we confirm that the result of sample [ID] (batch [lot]) does not meet the specified limit [valeur]. The result has been verified and the series was valid (control sample within accepted range). A non-conformity has been registered and the batch is blocked pending investigation. We will send you the formal report and the proposed actions by [date]. Please contact us for any clarification. » Q6. CAPA : endiguement immédiat (retirer la version 2, suspendre les résultats, bloquer le lot, confirmer au client) ; cause racine par 5 Pourquoi/Ishikawa (cause commune : absence de revue périodique et de check-list de fin de série) ; actions : mise à jour et retrait des documents, formation du personnel à la gestion des versions, ajout d'une check-list de validation des séries, étiquetage systématique des réactifs après ouverture, modèle de courriel de NC ; responsables : responsable qualité et responsables d'équipe ; échéances : 7 jours pour l'endiguement, 30 jours pour les actions correctives, 60 jours pour la vérification d'efficacité ; preuves : photos, fiches signées, cartes de contrôle et courriers archivés. Q7. Indicateurs : taux de documents à jour sur les postes (objectif 100 %), nombre de NC par mois, délai moyen de clôture des CAPA, nombre de séries validées sans check-list, taux de confirmation écrite des NC (100 %), résultats des prochains essais inter-laboratoires (score z < 2), et suivi de la carte de contrôle après correction. Q8. Synthèse : « Audit interne du [date] : quatre écarts relevés, deux majeurs (document obsolète et absence d'investigation d'une dérive), un mineur/majeur (traçabilité des réactifs), un majeur (communication non tracée d'une NC). Des actions d'endiguement ont été prises immédiatement. Un plan CAPA avec responsables et échéances est proposé ; la direction est invitée à l'approuver et à programmer une vérification d'efficacité dans 60 jours. L'analyse transversale montre un besoin de renforcement de la revue documentaire et de la discipline de validation des séries. Les preuves et rapports d'audit sont archivés. »"
+  }
+ ]
+}

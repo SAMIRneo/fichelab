@@ -1,0 +1,1176 @@
+{
+  "fiches": [
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Développement de la relation client",
+      "titre": "Chapitre 1 — Assurer la veille informationnelle et la collecte d'informations commerciale",
+      "source": "Référentiel BTS MCO (arrêté du 15 octobre 2018 modifié par l'arrêté du 8 juillet 2024, JORF n° 163 du 10 juillet 2024), annexe I a domaine d'activités 1 et annexe I b bloc de compétences 1, unité U5 (épreuve E5) ; code de la consommation, RGPD ; Aurlom, programme détaillé BTS MCO (novembre 2026).",
+      "points": [
+        "La veille informationnelle est une démarche continue de recherche, de sélection, d'analyse et de diffusion d'informations utiles à la décision commerciale.",
+        "Les informations nécessaires portent sur le marché, la clientèle, la concurrence, les produits et services, les fournisseurs, l'environnement et la réglementation.",
+        "Les sources primaires proviennent d'une collecte directe : observations en magasin, entretiens clients, questionnaires, panels, données de caisse et de fidélité.",
+        "Les sources secondaires sont déjà existantes : études sectorielles, rapports annuels, open data (INSEE), sites de concurrents, réseaux sociaux, forums et blogs.",
+        "Le processus comprend cinq étapes : définir le besoin, collecter, filtrer et hiérarchiser, analyser, diffuser sous forme exploitable (note de veille, tableau de bord).",
+        "La fiabilité d'une information s'évalue par sa source, sa date, sa méthode de collecte et sa cohérence avec d'autres données.",
+        "Le RGPD encadre la collecte et le traitement des données clients : base légale, minimisation, information des personnes, durée de conservation limitée et sécurité.",
+        "Le système d'information commercial (SIC) centralise les données : CRM, PGI/ERP, outils de business intelligence, tableaux de bord et terminaux mobiles.",
+        "Les droits d'accès au SIC doivent être proportionnés au rôle de chacun : le manageur commercial est responsable de la confidentialité des données qu'il consulte et diffuse.",
+        "L'épreuve E5 attend une veille structurée, une information sélectionnée et hiérarchisée, puis exploitée pour une décision commerciale concrète."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la première étape d'une démarche de veille ?",
+          "options": [
+            "Diffuser le résultat",
+            "Définir le besoin d'information",
+            "Acheter un logiciel",
+            "Interroger un concurrent"
+          ],
+          "correct": 1,
+          "correction": "On commence par cadrer le besoin pour orienter la collecte."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle source est une source primaire ?",
+          "options": [
+            "Un rapport INSEE",
+            "Une étude sectorielle",
+            "Une observation directe en magasin",
+            "Un article de presse"
+          ],
+          "correct": 2,
+          "correction": "Les données collectées directement sur le terrain sont primaires."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel principe du RGPD limite la collecte aux données nécessaires ?",
+          "options": [
+            "La transparence",
+            "La minimisation",
+            "La portabilité",
+            "La conservation illimitée"
+          ],
+          "correct": 1,
+          "correction": "La minimisation impose de ne traiter que les données nécessaires à la finalité poursuivie."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel outil centralise la relation client dans le SIC ?",
+          "options": [
+            "Un CRM",
+            "Un tableur isolé",
+            "Un logiciel de paie",
+            "Une messagerie"
+          ],
+          "correct": 0,
+          "correction": "Le CRM (Customer Relationship Management) gère les données et le suivi des clients."
+        },
+        {
+          "type": "texte",
+          "q": "Comment évaluer la fiabilité d'une information commerciale ?",
+          "reponse": "En vérifiant l'identité et la réputation de la source, la date, la méthode de collecte, la taille de l'échantillon et la cohérence avec d'autres sources.",
+          "correction": "Une information non datée ou issue d'une source unique doit être confidencée avant d'être utilisée dans une décision."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la finalité de la veille informationnelle ?",
+          "reponse": "Éclairer la décision commerciale en réduisant l'incertitude sur le marché, les clients et les concurrents.",
+          "correction": "La veille n'est pas une simple collecte : elle doit produire une information exploitable pour l'action."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Développement de la relation client",
+      "titre": "Chapitre 2 — Réaliser et exploiter des études commerciales",
+      "source": "Référentiel BTS MCO (arrêté du 15 octobre 2018 modifié par l'arrêté du 8 juillet 2024, JORF n° 163 du 10 juillet 2024), annexe I a domaine d'activités 1 et annexe I b bloc de compétences 1, unité U5 (épreuve E5) ; code de la consommation, RGPD ; Aurlom, programme détaillé BTS MCO (novembre 2026).",
+      "points": [
+        "Une étude commerciale est une démarche méthodique de collecte et d'analyse de données destinée à répondre à une question précise sur le marché ou les clients.",
+        "On distingue les études exploratoires (comprendre un phénomène mal connu, entretiens, focus groups), descriptives (mesurer des caractéristiques) et causales (tester une relation de cause à effet).",
+        "Les études ad hoc répondent à un besoin ponctuel ; les baromètres sont répétés dans le temps pour suivre des évolutions (satisfaction, notoriété).",
+        "La méthodologie comprend : formulation de l'objectif et des hypothèses, choix de la population et de l'échantillon, construction de l'outil, collecte, traitement statistique et restitution.",
+        "L'échantillon doit être représentatif : on définit la population mère, la taille de l'échantillon et la méthode de tirage (aléatoire, stratifié, par quota).",
+        "Les outils de collecte sont le questionnaire (structures, fermé ou ouvert), le guide d'entretien, la grille d'observation et les panels.",
+        "Un questionnaire bien construit utilise des questions claires, neutres, non suggestives, avec des modalités de réponse exhaustives et mutuellement exclusives.",
+        "Le traitement combine statistiques descriptives (moyennes, pourcentages, croisements) et analyses plus fines (segmentation, tests de significance).",
+        "La restitution doit être opérationnelle : synthèse des résultats, mise en évidence des écarts, recommandations et limites de l'étude (biais, marge d'erreur).",
+        "Les outils numériques (formulaires en ligne, tableurs, outils de data visualisation) accélèrent la collecte et la présentation mais ne dispensent pas d'une méthode rigoureuse."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel type d'étude vise à comprendre un phénomène mal connu ?",
+          "options": [
+            "Descriptive",
+            "Causale",
+            "Exploratoire",
+            "Barométrique"
+          ],
+          "correct": 2,
+          "correction": "L'étude exploratoire privilégie les entretiens et les focus groups pour faire émerger des hypothèses."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'appelle-t-on population mère ?",
+          "options": [
+            "Le panel de clients fidèles",
+            "L'ensemble de la population étudiée",
+            "Le nombre de questions",
+            "Le concurrent principal"
+          ],
+          "correct": 1,
+          "correction": "La population mère est l'ensemble sur lequel porte l'étude, dont l'échantillon doit être représentatif."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle qualité une question de questionnaire doit-elle avoir ?",
+          "options": [
+            "Être suggestive",
+            "Être neutre et claire",
+            "Être très longue",
+            "Proposer une seule réponse"
+          ],
+          "correct": 1,
+          "correction": "Une question neutre évite d'orienter la réponse ; les modalités doivent être exhaustives."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel outil de collecte est adapté à une étude qualitative ?",
+          "options": [
+            "Le guide d'entretien",
+            "Le tableur",
+            "Le code-barres",
+            "La facture"
+          ],
+          "correct": 0,
+          "correction": "Le guide d'entretien structure les entretiens qualitatifs et les focus groups."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles sont les grandes étapes d'une étude commerciale ?",
+          "reponse": "Définir l'objectif, construire l'échantillon et l'outil, collecter, traiter les données, interpréter et restituer sous forme de recommandations.",
+          "correction": "La rigueur de la méthode conditionne la fiabilité des résultats et la pertinence des décisions."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi mentionner les limites d'une étude ?",
+          "reponse": "Parce que toute collecte comporte des biais (échantillon, formulation, période) et une marge d'erreur : le décideur doit connaître le degré de fiabilité des résultats.",
+          "correction": "Une restitution honnête précise les limites et évite de surinterpréter des données."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Développement de la relation client",
+      "titre": "Chapitre 3 — Zone de chalandise et géomarketing",
+      "source": "Référentiel BTS MCO (arrêté du 15 octobre 2018 modifié par l'arrêté du 8 juillet 2024, JORF n° 163 du 10 juillet 2024), annexe I a domaine d'activités 1 et annexe I b bloc de compétences 1, unité U5 (épreuve E5) ; code de la consommation, RGPD ; Aurlom, programme détaillé BTS MCO (novembre 2026).",
+      "points": [
+        "La zone de chalandise est l'espace géographique d'où provient la clientèle d'une unité commerciale ; elle se décompose en zones primaire, secondaire et tertiaire.",
+        "La zone primaire rassemble les clients les plus proches et les plus fidèles ; la zone tertiaire correspond aux clients occasionnels ou attirés par une offre spécifique.",
+        "L'isochrone délimite la zone selon le temps de trajet ; l'isodistance selon la distance géographique ; le choix dépend du mode de transport et du contexte local.",
+        "Les données utilisées : population, revenus, âge, activité, flux de circulation, emplacements des concurrents, parkings, transports en commun et équipements.",
+        "La loi de Reilly estime le point de rupture entre deux unités commerciales en fonction de leur attractivité (surface) et de la distance qui les sépare.",
+        "Le modèle de Huff calcule une probabilité de fréquentation selon l'attractivité du magasin (surface, gamme, prix) et la distance ou le temps d'accès.",
+        "Le géomarketing utilise les SIG (systèmes d'information géographique) pour cartographier la clientèle, localiser les concurrents et optimiser l'implantation.",
+        "Pour une unité commerciale virtuelle, la zone de chalandise est plus diffuse : elle dépend de la zone de livraison, du trafic en ligne et de la logistique du dernier kilomètre.",
+        "La connaissance de la zone de chalandise guide le choix de l'assortiment, la communication locale, les horaires et les actions d'animation.",
+        "L'épreuve E5 peut demander d'analyser une carte ou des données de zone et d'en déduire des actions commerciales adaptées au contexte local."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Comment appelle-t-on une zone délimitée par un temps de trajet constant ?",
+          "options": [
+            "Une isodistance",
+            "Un isochrone",
+            "Une zone tertiaire",
+            "Un point de rupture"
+          ],
+          "correct": 1,
+          "correction": "L'isochrone utilise le temps ; l'isodistance utilise la distance."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle loi estime le point de rupture entre deux unités commerciales ?",
+          "options": [
+            "La loi de Huff",
+            "La loi de Reilly",
+            "La loi LME",
+            "La loi de Pareto"
+          ],
+          "correct": 1,
+          "correction": "La loi de Reilly (ou law of retail gravitation) estime ce point selon surface et distance."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle donnée est utile pour analyser une zone de chalandise ?",
+          "options": [
+            "La couleur des façades",
+            "Le niveau de revenu des habitants",
+            "Le nombre de salariés de l'enseigne",
+            "Le prix du loyer national"
+          ],
+          "correct": 1,
+          "correction": "Le profil socio-économique de la population conditionne le potentiel de consommation locale."
+        },
+        {
+          "type": "qcm",
+          "q": "Dans quelle zone se trouvent les clients les plus fidèles ?",
+          "options": [
+            "Primaire",
+            "Secondaire",
+            "Tertiaire",
+            "Virtuelle"
+          ],
+          "correct": 0,
+          "correction": "La zone primaire concentre la clientèle la plus proche et la plus régulière."
+        },
+        {
+          "type": "texte",
+          "q": "Comment le géomarketing aide-t-il le manageur commercial ?",
+          "reponse": "Il cartographie la clientèle et les concurrents, mesure le potentiel de chaque secteur et aide à décider d'implantation, d'assortiment ou de communication ciblée.",
+          "correction": "La carte ne décide pas à la place du manager : elle fournit un appui à la décision."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la limite de la loi de Reilly ?",
+          "reponse": "Elle repose sur des hypothèses simples (surface, distance) et néglige la qualité de l'offre, l'image, la circulation et le comportement réel des clients.",
+          "correction": "Le modèle de Huff est plus riche car il intègre plusieurs critères d'attractivité."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Développement de la relation client",
+      "titre": "Chapitre 4 — Connaissance du client, segmentation et parcours omnicanal",
+      "source": "Référentiel BTS MCO (arrêté du 15 octobre 2018 modifié par l'arrêté du 8 juillet 2024, JORF n° 163 du 10 juillet 2024), annexe I a domaine d'activités 1 et annexe I b bloc de compétences 1, unité U5 (épreuve E5) ; code de la consommation, RGPD ; Aurlom, programme détaillé BTS MCO (novembre 2026).",
+      "points": [
+        "La connaissance client repose sur des données sociodémographiques (âge, revenu, profession), comportementales (fréquence, panier, historique) et psychographiques (valeurs, goûts, style de vie).",
+        "La segmentation RFM classe les clients selon la récence (Recency), la fréquence (Frequency) et le montant (Monetary) de leurs achats.",
+        "Les segments obtenus (clients champions, fidèles, à risque, perdus, occasionnels) font l'objet d'actions différenciées : récompense, relance, réactivation.",
+        "Les fichiers clients doivent être enrichis, dédupliqués et maintenus à jour : la qualité de la base conditionne la pertinence des actions de fidélisation.",
+        "Le comportement d'achat s'explique par des motivations (besoin, plaisir, image) et des freins (prix, temps, doute, manque d'information).",
+        "Le processus de décision d'achat comporte : prise de conscience du besoin, recherche d'information, évaluation des alternatives, achat, évaluation post-achat.",
+        "En omnicanal, le parcours n'est plus linéaire : ROPO (recherche en ligne, achat en magasin), showrooming (vision en magasin, achat en ligne) et webrooming (recherche en ligne puis achat en magasin).",
+        "Les points de contact (magasin, site, application, réseaux sociaux, service client, email) doivent être cohérents : c'est l'enjeu de l'expérience client.",
+        "Les moments de vérité sont les instants où le client se forge une opinion : accueil, disponibilité du produit, paiement, livraison, traitement d'une réclamation.",
+        "L'e-réputation (avis en ligne, notes, réseaux sociaux) influence le parcours d'achat : le manageur doit la surveiller et y répondre."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que signifie le sigle RFM ?",
+          "options": [
+            "Récence, Fréquence, Montant",
+            "Réputation, Fidélité, Marché",
+            "Région, Famille, Marque",
+            "Rendement, Frais, Marge"
+          ],
+          "correct": 0,
+          "correction": "RFM = Recency, Frequency, Monetary : trois critères de segmentation de la clientèle."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel comportement correspond au showrooming ?",
+          "options": [
+            "Acheter en ligne sans voir le produit",
+            "Voir le produit en magasin puis acheter en ligne",
+            "Acheter en magasin",
+            "Ne jamais acheter"
+          ],
+          "correct": 1,
+          "correction": "Le showrooming utilise le magasin comme lieu de découverte et le web comme lieu d'achat."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est un « moment de vérité » ?",
+          "options": [
+            "Une réunion de direction",
+            "L'accueil du client en magasin",
+            "La clôture comptable",
+            "Une formation interne"
+          ],
+          "correct": 1,
+          "correction": "Un moment de vérité est un point de contact décisif dans la perception du client."
+        },
+        {
+          "type": "qcm",
+          "q": "Que mesure l'e-réputation ?",
+          "options": [
+            "Le chiffre d'affaires en ligne",
+            "L'image de l'entreprise sur internet",
+            "Le stock disponible",
+            "Le taux de marge"
+          ],
+          "correct": 1,
+          "correction": "L'e-réputation désigne la perception publique de l'entreprise sur les canaux numériques."
+        },
+        {
+          "type": "texte",
+          "q": "Comment exploiter une segmentation RFM ?",
+          "reponse": "En adaptant les actions : remerciement et avantages pour les champions, relance personnalisée pour les clients à risque, campagne de réactivation pour les clients perdus.",
+          "correction": "La segmentation permet d'allouer les efforts commercial là où le retour sur investissement est le plus élevé."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi la cohérence omnicanale est-elle essentielle ?",
+          "reponse": "Parce que le client passe d'un canal à l'autre et attend les mêmes informations (prix, stock, offres) et la même qualité de service partout.",
+          "correction": "Une rupture de cohérence dégrade l'expérience et la confiance, quelle que soit la qualité de chaque canal pris isolément."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Développement de la relation client",
+      "titre": "Chapitre 5 — La vente conseil en contexte omnicanal",
+      "source": "Référentiel BTS MCO (arrêté du 15 octobre 2018 modifié par l'arrêté du 8 juillet 2024, JORF n° 163 du 10 juillet 2024), annexe I a domaine d'activités 1 et annexe I b bloc de compétences 1, unité U5 (épreuve E5) ; code de la consommation, RGPD ; Aurlom, programme détaillé BTS MCO (novembre 2026).",
+      "points": [
+        "La vente conseil se distingue de la vente transactionnelle par la personnalisation : le vendeur diagnostique le besoin avant de proposer une solution adaptée.",
+        "Les étapes de la vente : préparation (connaissance produit, client, concurrents, stock), prise de contact, découverte des besoins, argumentation, traitement des objections, conclusion et prise de congé.",
+        "La préparation est decisive : connaissance des caractéristiques et avantages des produits, des conditions générales de vente, des garanties et des délais.",
+        "L'accueil donne le ton : saluer, se présenter, montrer une disponibilité sincère et éviter la pression immédiate à l'achat.",
+        "La découverte des besoins repose sur l'écoute active : questions ouvertes, reformulation, empathie et observation des réactions non verbales.",
+        "La méthode SONCAS classe les motivations : Sécurité, Orgueil, Nouveauté, Confort, Argent, Sympathie ; la méthode SPIN structure les questions (Situation, Problème, Implication, Need-payoff).",
+        "L'argumentation suit la logique CAP : Caractéristique, Avantage, Preuve ; chaque affirmation est étayée par un élément concret (démonstration, chiffre, avis, garantie).",
+        "Les objections ne sont pas des refus définitifs : il faut les écouter, les reformuler, y répondre avec des arguments adaptés et vérifier que le client est convaincu.",
+        "La conclusion peut utiliser la question alternative, l'essai, la proposition d'options ou la vente additionnelle (cross-selling, up-selling) sans forcer.",
+        "Dans un contexte omnicanal, le conseil se poursuit à distance : chat, visio-conseil, clienteling, prise de commande en ligne et suivi de la disponibilité du produit."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la première étape de la vente conseil ?",
+          "options": [
+            "La conclusion",
+            "La préparation de la vente",
+            "Le traitement des objections",
+            "La prise de congé"
+          ],
+          "correct": 1,
+          "correction": "Une vente réussie commence par la connaissance du produit, du client et de l'offre concurrente."
+        },
+        {
+          "type": "qcm",
+          "q": "Que signifie la lettre S de la méthode SONCAS ?",
+          "options": [
+            "Sécurité",
+            "Service",
+            "Stock",
+            "Vitesse"
+          ],
+          "correct": 0,
+          "correction": "SONCAS : Sécurité, Orgueil, Nouveauté, Confort, Argent, Sympathie."
+        },
+        {
+          "type": "qcm",
+          "q": "Dans la méthode CAP, que désigne la lettre P ?",
+          "options": [
+            "Prix",
+            "Preuve",
+            "Produit",
+            "Promotion"
+          ],
+          "correct": 1,
+          "correction": "CAP = Caractéristique, Avantage, Preuve."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est une technique d'écoute active ?",
+          "options": [
+            "Interrompre le client",
+            "Reformuler ses propos",
+            "Présenter tous les produits",
+            "Répondre avant la fin"
+          ],
+          "correct": 1,
+          "correction": "La reformulation vérifie la compréhension et montre que le client est écouté."
+        },
+        {
+          "type": "texte",
+          "q": "Comment traiter une objection sur le prix ?",
+          "reponse": "En écoutant et reformulant l'objection, en rappelant la valeur et les avantages du produit par rapport au besoin identifié, puis en proposant une solution (garantie, financement, gamme adaptée).",
+          "correction": "Répondre uniquement par une remise affaiblit la valeur perçue et la marge."
+        },
+        {
+          "type": "texte",
+          "q": "Comment adapter la vente conseil à un canal digital ?",
+          "reponse": "En posant des questions ouvertes par chat ou visio, en partageant des fiches produits ou des simulations, en vérifiant la disponibilité en temps réel et en assurant le suivi après la commande.",
+          "correction": "Le conseil à distance exige les mêmes compétences relationnelles, avec des outils numériques en plus."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Développement de la relation client",
+      "titre": "Chapitre 6 — Suivi de la relation client, qualité de service et réclamations",
+      "source": "Référentiel BTS MCO (arrêté du 15 octobre 2018 modifié par l'arrêté du 8 juillet 2024, JORF n° 163 du 10 juillet 2024), annexe I a domaine d'activités 1 et annexe I b bloc de compétences 1, unité U5 (épreuve E5) ; code de la consommation, RGPD ; Aurlom, programme détaillé BTS MCO (novembre 2026).",
+      "points": [
+        "Le suivi de la relation client vise à vérifier la satisfaction après l'achat, à accompagner le client dans l'utilisation du produit et à détecter les signaux de départ.",
+        "La qualité de service est perçue à travers des dimensions : fiabilité (conforme à la commande), réactivité (délais), compétence du personnel, accessibilité et empathie.",
+        "Les outils de mesure : enquêtes de satisfaction, Net Promoter Score (NPS), avis clients en ligne, analyse des réclamations et taux de retour.",
+        "Le NPS se calcule en soustrayant le pourcentage de détracteurs du pourcentage de promoteurs ; il donne une indication de la propension à recommander.",
+        "Une réclamation est une expression de mécontentement : elle doit être accueillie sans défensive, reformulée, qualifiée et traitée dans un délai annoncé.",
+        "Le traitement d'une réclamation suit une procédure : écoute, identification du problème, vérification des faits, proposition de solution (échange, remboursement, geste commercial), confirmation et suivi.",
+        "Le SAV (service après-vente) et les garanties légales (conformité, vice caché) encadrent les recours du consommateur ; le droit de rétractation s'applique à la vente à distance.",
+        "La capitalisation des réclamations permet d'identifier les dysfonctionnements récurrents et d'engager des actions correctives : formation, procédure, amélioration produit.",
+        "Le manageur commercial fixe des objectifs de qualité (délai de réponse, taux de résolution au premier contact) et suit ces indicateurs dans un tableau de bord.",
+        "Une relation client de qualité est un avantage concurrentiel durable : elle réduit le coût d'acquisition et augmente la valeur vie client."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Comment calcule-t-on le NPS ?",
+          "options": [
+            "Promoteurs + détracteurs",
+            "Promoteurs − détracteurs",
+            "Satisfaits / total",
+            "Réclamations / ventes"
+          ],
+          "correct": 1,
+          "correction": "Le NPS = % de promoteurs (notes 9-10) − % de détracteurs (0-6)."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la première étape du traitement d'une réclamation ?",
+          "options": [
+            "Proposer une remise",
+            "Écouter et reformuler le mécontentement",
+            "Renvoyer le client vers le site web",
+            "Clore le dossier"
+          ],
+          "correct": 1,
+          "correction": "L'écoute et la reformulation permettent de qualifier précisément le problème."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle garantie légale protège le consommateur contre un défaut non visible ?",
+          "options": [
+            "La garantie commerciale",
+            "La garantie des vices cachés",
+            "Le droit de rétractation",
+            "La garantie de prix"
+          ],
+          "correct": 1,
+          "correction": "La garantie des vices cachés est prévue par le code civil ; la garantie de conformité relève du code de la consommation."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel indicateur suit la qualité du service après-vente ?",
+          "options": [
+            "Le taux de résolution au premier contact",
+            "Le taux de rotation des stocks",
+            "Le FRNG",
+            "Le taux de marge"
+          ],
+          "correct": 0,
+          "correction": "Le taux de résolution au premier contact mesure l'efficacité du traitement des demandes."
+        },
+        {
+          "type": "texte",
+          "q": "Comment transformer une réclamation en opportunité ?",
+          "reponse": "En traitant rapidement et équitablement le problème, en expliquant la cause et les mesures prises, et en utilisant le retour du client pour améliorer le produit ou la procédure.",
+          "correction": "Un client dont la réclamation est bien traitée devient souvent plus fidèle qu'un client n'ayant jamais rencontré de problème."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles dimensions composent la qualité de service perçue ?",
+          "reponse": "La fiabilité, la réactivité, la compétence, l'accessibilité et l'empathie, auxquelles s'ajoute l'apparence des locaux et du personnel.",
+          "correction": "Ces dimensions sont classiques dans l'évaluation de la qualité perçue dans les services."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Développement de la relation client",
+      "titre": "Chapitre 7 — Fidélisation, capital client et développement de clientèle",
+      "source": "Référentiel BTS MCO (arrêté du 15 octobre 2018 modifié par l'arrêté du 8 juillet 2024, JORF n° 163 du 10 juillet 2024), annexe I a domaine d'activités 1 et annexe I b bloc de compétences 1, unité U5 (épreuve E5) ; code de la consommation, RGPD ; Aurlom, programme détaillé BTS MCO (novembre 2026).",
+      "points": [
+        "La fidélisation vise à transformer un acheteur ponctuel en client durable ; elle est moins coûteuse que l'acquisition d'un nouveau client.",
+        "La fidélité se mesure par le taux de rétention, le taux d'attrition (churn), la fréquence d'achat et la durée de la relation.",
+        "La valeur vie client (Lifetime Value ou LTV) estime le chiffre d'affaires ou la marge générée par un client sur toute la durée de sa relation avec l'entreprise.",
+        "Le panier moyen et la fréquence d'achat sont les deux leviers directs de la valeur client, avec la durée de relation.",
+        "Les outils de fidélisation : carte de fidélité, points et récompenses, offres personnalisées, programmes relationnels, avantages exclusifs, anniversaires.",
+        "Le CRM permet de suivre l'historique des interactions, de programmer les relances et de personnaliser les campagnes ; le consentement aux données doit être obtenu et tracé.",
+        "L'emailing et les réseaux sociaux permettent des campagnes ciblées ; la communication doit respecter les règles d'opt-in/opt-out et le RGPD.",
+        "Le capital image et la notoriété (spontanée, assistée, top of mind) constituent des actifs immatériels qui facilitent l'acquisition et la fidélisation.",
+        "Le développement de clientèle (prospecting, conquête) complète la fidélisation : salons, partenariats, parrainage, campagnes locales et bouche-à-oreille.",
+        "Le manageur commercial arbitre entre acquisition et fidélisation en comparant coût d'acquisition, valeur client et rentabilité des actions."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel indicateur mesure les clients qui quittent l'entreprise ?",
+          "options": [
+            "Le taux de rétention",
+            "Le taux d'attrition",
+            "Le panier moyen",
+            "Le NPS"
+          ],
+          "correct": 1,
+          "correction": "Le taux d'attrition (churn) mesure la proportion de clients perdus sur une période."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment appelle-t-on la valeur générée par un client sur toute sa relation avec l'entreprise ?",
+          "options": [
+            "Le BFR",
+            "La LTV",
+            "Le ROI",
+            "Le CA"
+          ],
+          "correct": 1,
+          "correction": "La Lifetime Value (LTV) est la valeur vie client."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel levier n'augmente pas directement la valeur client ?",
+          "options": [
+            "La fréquence d'achat",
+            "Le panier moyen",
+            "La durée de la relation",
+            "Le nombre de concurrents"
+          ],
+          "correct": 3,
+          "correction": "Les concurrents influencent le risque de départ mais ne sont pas un levier interne de valeur client."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle règle s'applique à une campagne d'emailing commercial ?",
+          "options": [
+            "Le consentement et l'opt-out",
+            "L'envoi à tous les prospects",
+            "L'anonymat total",
+            "Aucune règle"
+          ],
+          "correct": 0,
+          "correction": "La prospection par voie électronique est encadrée : consentement (opt-in) et possibilité de se désinscrire."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi la fidélisation est-elle souvent plus rentable que l'acquisition ?",
+          "reponse": "Parce qu'elle évite les coûts de prospection, s'appuie sur une connaissance déjà acquise du client et augmente la fréquence et le panier moyen.",
+          "correction": "Un client fidèle achète plus, coûte moins à servir et peut devenir prescripteur."
+        },
+        {
+          "type": "texte",
+          "q": "Comment mesurer l'efficacité d'un programme de fidélité ?",
+          "reponse": "En comparant le taux de rétention, la fréquence d'achat, le panier moyen et la LTV avant et après, en tenant compte du coût du programme.",
+          "correction": "Un programme coûteux qui n'augmente pas les achats n'est pas rentable : le pilotage est indispensable."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Animation de l'offre commerciale",
+      "titre": "Chapitre 1 — Élaborer et adapter l'offre de produits et services",
+      "source": "Référentiel BTS MCO (arrêté du 15 octobre 2018 modifié par l'arrêté du 8 juillet 2024, JORF n° 163 du 10 juillet 2024), annexe I a domaine d'activités 2 et annexe I b bloc de compétences 2, unité U6 (épreuve E6) ; lois LME, Galland, EGAlim ; Aurlom, programme détaillé BTS MCO (novembre 2026).",
+      "points": [
+        "L'offre de l'unité commerciale doit être adaptée aux attentes de la clientèle locale, au format du magasin et à la politique commerciale de l'enseigne.",
+        "L'assortiment se caractérise par sa largeur (nombre de familles de produits) et sa profondeur (nombre de références dans chaque famille).",
+        "Une gamme regroupe des produits complémentaires destinés à un même besoin : gamme haute, milieu ou bas de gamme, avec un rôle d'attraction du trafic ou de rentabilité.",
+        "Le positionnement de l'offre repose sur le prix, la qualité, l'image et les services associés (livraison, installation, garantie étendue, conseil).",
+        "Le cycle de vie d'un produit (lancement, croissance, maturité, déclin) impose des décisions differentes : investir, maintenir, relancer ou retirer.",
+        "Les marques se classent en marques nationales, marques de distributeur (MDD), marques premier prix et marques exclusives ; elles structurent l'assortiment et les marges.",
+        "L'analyse de la demande (quantitative et qualitative) et de l'offre existante (concurrence, parts de marché) précède toute modification d'assortiment.",
+        "Les négociations commerciales avec les fournisseurs (loi Galland, LME, EGAlim) encadrent les conditions d'achat, les remises et les coopérations commerciales.",
+        "L'omnicanalité impose une cohérence entre l'assortiment en ligne et en magasin : disponibilité, prix, réservation, click and collect et retours.",
+        "L'épreuve E6 attend une proposition d'offre adaptée au contexte local et à la stratégie de l'enseigne, avec une analyse des retombées attendues."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Qu'appelle-t-on profondeur d'un assortiment ?",
+          "options": [
+            "Le nombre de familles de produits",
+            "Le nombre de références dans une famille",
+            "La taille du magasin",
+            "Le nombre de fournisseurs"
+          ],
+          "correct": 1,
+          "correction": "La largeur compte les familles ; la profondeur compte les références par famille."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est un rôle d'une marque de distributeur ?",
+          "options": [
+            "Augmenter le prix de vente",
+            "Proposer une alternative à meilleur rapport qualité-prix et dégager une marge",
+            "Supprimer les concurrents",
+            "Remplacer le service client"
+          ],
+          "correct": 1,
+          "correction": "Les MDD renforcent le pouvoir de négociation du distributeur et sa marge."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle loi encadre notamment les négociations commerciales dans la distribution ?",
+          "options": [
+            "La loi LME",
+            "La loi de 1905",
+            "La loi Galland",
+            "La loi Toubon"
+          ],
+          "correct": 2,
+          "correction": "La loi Galland (1996) puis la LME (2008) et la loi Hamon (2013) ont encadré les relations fournisseurs-distributeurs."
+        },
+        {
+          "type": "qcm",
+          "q": "Que faire d'un produit en phase de déclin ?",
+          "options": [
+            "Investir massivement",
+            "Maintenir, relancer ou retirer selon sa rentabilité",
+            "Le vendre à perte systématiquement",
+            "L'ignorer"
+          ],
+          "correct": 1,
+          "correction": "La décision dépend de la rentabilité et du rôle du produit dans l'assortiment."
+        },
+        {
+          "type": "texte",
+          "q": "Comment adapter une offre au contexte local ?",
+          "reponse": "En analysant la zone de chalandise, les habitudes de consommation locales, les concurrents et les flux, puis en ajustant l'assortiment, les prix et les animations.",
+          "correction": "Une offre standardisée peut être performante à l'échelle nationale mais inadaptée à une clientèle locale spécifique."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi coordonner assortiment physique et en ligne ?",
+          "reponse": "Parce que le client compare et alterne les canaux : une rupture de stock en ligne ou un prix différent crée une frustration et nuit à la crédibilité de l'enseigne.",
+          "correction": "L'omnicanalité suppose une vue unifiée du stock, des prix et des promotions."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Animation de l'offre commerciale",
+      "titre": "Chapitre 2 — Agencement de l'espace commercial et maintien de l'attractivité",
+      "source": "Référentiel BTS MCO (arrêté du 15 octobre 2018 modifié par l'arrêté du 8 juillet 2024, JORF n° 163 du 10 juillet 2024), annexe I a domaine d'activités 2 et annexe I b bloc de compétences 2, unité U6 (épreuve E6) ; lois LME, Galland, EGAlim ; Aurlom, programme détaillé BTS MCO (novembre 2026).",
+      "points": [
+        "L'agencement de l'espace commercial vise à faciliter la circulation des clients, le travail des équipes et la mise en valeur des produits, dans le respect des préconisations de l'enseigne.",
+        "Les zones chaudes (entrée, caisses, têtes de gondole) bénéficient d'un flux élevé ; les zones froides nécessitent des animations ou un réagencement pour être valorisées.",
+        "Le plan d'implantation (planogramme) représente la disposition des rayons, des familles de produits et des linéaires ; il est construit selon le sens de circulation souhaité.",
+        "Le linéaire est une ressource rare : sa rentabilité se mesure en chiffre d'affaires au mètre linéaire, en rotation et en marge au mètre.",
+        "La disponibilité de l'offre suppose réassort régulier, facing (présentation de face des produits), étiquetage et propreté des rayons.",
+        "La signalétique (balisage, crochets, placenta, écrans) guide le client et l'informe sur les familles, les promotions et les services.",
+        "L'éclairage, la température, la musique et les matériaux participent à l'ambiance et à l'expérience d'achat ; ils doivent rester cohérents avec le positionnement de l'enseigne.",
+        "L'hygiène et la sécurité sont des obligations : nettoyage, entretien des équipements, issues de secours, conformité des installations et prévention des risques.",
+        "L'accessibilité (cheminements, largeur des allées, hauteur des rayons) est un enjeu d'accueil de tous les clients et une exigence réglementaire.",
+        "Le numérique enrichit l'espace : écrans, bornes interactives, réalité augmentée, étiquettes électroniques et zones click and collect."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Comment appelle-t-on une zone fortement fréquentée par les clients ?",
+          "options": [
+            "Une zone froide",
+            "Une zone chaude",
+            "Une zone de stock",
+            "Une zone technique"
+          ],
+          "correct": 1,
+          "correction": "Les zones chaudes (entrée, caisses) sont les plus valorisées pour les implantations."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel indicateur mesure la performance d'un linéaire ?",
+          "options": [
+            "Le CA au mètre linéaire",
+            "Le FRNG",
+            "Le taux d'absentéisme",
+            "Le NPS"
+          ],
+          "correct": 0,
+          "correction": "Le chiffre d'affaires au mètre linéaire évalue la rentabilité de l'espace de vente."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est un objectif du facing ?",
+          "options": [
+            "Réduire le nombre de références",
+            "Présenter les produits de face pour les rendre visibles",
+            "Augmenter les prix",
+            "Masquer les ruptures"
+          ],
+          "correct": 1,
+          "correction": "Le facing améliore la visibilité et la perception de l'offre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle obligation concerne les issues de secours ?",
+          "options": [
+            "Elles doivent être décorées",
+            "Elles doivent rester accessibles et signalées",
+            "Elles peuvent servir de stockage",
+            "Elles sont facultatives"
+          ],
+          "correct": 1,
+          "correction": "La réglementation impose des issues de secours accessibles, signalées et non obstruées."
+        },
+        {
+          "type": "texte",
+          "q": "Comment réactiver une zone froide du magasin ?",
+          "reponse": "En y implantant des produits attractifs, une animation, une signalétique renforcée ou un service (démonstration, borne), puis en mesurant l'évolution du trafic et des ventes.",
+          "correction": "Une zone froide n'est pas condamnée : son traitement dépend de la cause de sa faible fréquentation."
+        },
+        {
+          "type": "texte",
+          "q": "Quel est le rôle du planogramme ?",
+          "reponse": "Il planifie l'implantation des produits dans les rayons pour optimiser la surface, la rotation et la rentabilité.",
+          "correction": "Le planogramme doit être appliqué et mis à jour quand l'assortiment évolue."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Animation de l'offre commerciale",
+      "titre": "Chapitre 3 — Marchandisage et mise en valeur de l'offre",
+      "source": "Référentiel BTS MCO (arrêté du 15 octobre 2018 modifié par l'arrêté du 8 juillet 2024, JORF n° 163 du 10 juillet 2024), annexe I a domaine d'activités 2 et annexe I b bloc de compétences 2, unité U6 (épreuve E6) ; lois LME, Galland, EGAlim ; Aurlom, programme détaillé BTS MCO (novembre 2026).",
+      "points": [
+        "Le marchandisage (merchandising) regroupe les techniques d'implantation, de présentation et d'animation des produits pour stimuler les ventes.",
+        "On distingue le marchandisage d'organisation (familles, univers, rayons), de gestion (rotation, rendement, rentabilité du linéaire) et de séduction (théâtralisation, mise en scène).",
+        "Le cross-merchandising associe des produits complémentaires (pâtes et sauce, téléphone et accessoires) pour augmenter le panier moyen.",
+        "Les têtes de gondole, présentoirs et ilots sont des emplacements privilégiés, souvent négociés avec les fournisseurs dans le cadre de la coopération commerciale.",
+        "L'indice de sensibilité mesure l'impact d'une modification d'implantation sur les ventes : il compare les ventes avant et après dans une zone donnée.",
+        "Le taux de rupture (produit en rayon mais indisponible) et le stock moyen sont des indicateurs clés de la performance du marchandisage.",
+        "Le e-merchandising adapte ces principes en ligne : ergonomie, filtres, recherche, recommandations algorithmiques, photos, avis et mises en avant sur les pages produits.",
+        "Les apports du digital en magasin (écrans interactifs, bornes, réalité augmentée, étiquettes dynamiques) enrichissent l'information et le conseil.",
+        "Le marchandisage doit respecter les préconisations de l'enseigne, les règles de sécurité et les exigences d'accessibilité.",
+        "L'évaluation du marchandisage repose sur le CA au mètre linéaire, la rotation, le taux de rupture et le taux de transformation."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel type de marchandisage vise la mise en scène des produits ?",
+          "options": [
+            "D'organisation",
+            "De gestion",
+            "De séduction",
+            "Comptable"
+          ],
+          "correct": 2,
+          "correction": "Le marchandisage de séduction théâtralise l'offre pour attirer l'attention."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne le cross-merchandising ?",
+          "options": [
+            "La vente en ligne uniquement",
+            "L'association de produits complémentaires",
+            "La baisse des prix",
+            "Le stockage en réserve"
+          ],
+          "correct": 1,
+          "correction": "Le cross-merchandising augmente le panier moyen en proposant des produits complémentaires."
+        },
+        {
+          "type": "qcm",
+          "q": "Que mesure l'indice de sensibilité ?",
+          "options": [
+            "L'effet d'un changement d'implantation sur les ventes",
+            "Le taux de marge globale",
+            "La durée du travail",
+            "Le nombre de clients"
+          ],
+          "correct": 0,
+          "correction": "Il compare les ventes avant et après modification pour mesurer l'impact de l'implantation."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel indicateur révèle un problème de disponibilité en rayon ?",
+          "options": [
+            "Le taux de rupture",
+            "Le panier moyen",
+            "Le NPS",
+            "Le taux d'ouverture"
+          ],
+          "correct": 0,
+          "correction": "Le taux de rupture mesure les occasions de vente perdues faute de stock."
+        },
+        {
+          "type": "texte",
+          "q": "Comment optimiser la rentabilité d'un linéaire ?",
+          "reponse": "En réservant les meilleures places aux produits à forte rotation et forte marge, en réduisant les références peu performantes et en assurant la disponibilité et le facing.",
+          "correction": "Le CA au mètre linéaire et la marge au mètre sont les indicateurs de pilotage."
+        },
+        {
+          "type": "texte",
+          "q": "Comment le e-merchandising diffère-t-il du marchandisage en magasin ?",
+          "reponse": "Il agit sur l'ergonomie du site, les filtres, l'ordre des résultats, les photos, les avis et les recommandations, avec des données de navigation en temps réel.",
+          "correction": "Les principes restent les mêmes : rendre l'offre visible, compréhensible et attrayante au moment du choix."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Animation de l'offre commerciale",
+      "titre": "Chapitre 4 — Animations commerciales et opérations promotionnelles",
+      "source": "Référentiel BTS MCO (arrêté du 15 octobre 2018 modifié par l'arrêté du 8 juillet 2024, JORF n° 163 du 10 juillet 2024), annexe I a domaine d'activités 2 et annexe I b bloc de compétences 2, unité U6 (épreuve E6) ; lois LME, Galland, EGAlim ; Aurlom, programme détaillé BTS MCO (novembre 2026).",
+      "points": [
+        "L'animation commerciale vise à générer du trafic, créer des achats d'impulsion, renforcer l'image de l'enseigne et développer les ventes additionnelles.",
+        "Les animations en magasin : dégustations, démonstrations, ateliers, corners, rencontres avec un artisan, événements saisonniers et fêtes.",
+        "Les animations digitales : ventes flash, codes promotionnels, jeux-concours, gamification, live shopping et campagnes sur les réseaux sociaux.",
+        "Les opérations promotionnelles prennent la forme de remises immédiates, lots, offres de remboursement (ODR), primes, bons d'achat ou prix d'appel.",
+        "La réglementation encadre les pratiques : interdiction de la revente à perte, conditions des soldes (loi), publicité mensongère, loteries et jeux-concours soumis à autorisation.",
+        "Une opération promotionnelle doit être chiffrée : coût de l'opération, marge abandonnée, CA incrémental, coût par contact et retour sur investissement.",
+        "Le seuil de rentabilité d'une opération correspond au volume supplémentaire nécessaire pour couvrir son coût : il faut le comparer au volume réaliste attendu.",
+        "La planification s'appuie sur un rétroplanning (Gantt) : choix de l'offre, commandes, communication, formation des équipes, mise en place et démontage.",
+        "La réussite dépend aussi de l'adhésion des équipes : briefing, objectifs individuels, répartition des rôles et animation pendant l'opération.",
+        "L'évaluation post-opération compare trafic, taux de transformation, panier moyen, CA et marge aux objectifs, et capitalise les enseignements."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que désigne une offre de remboursement (ODR) ?",
+          "options": [
+            "Une remise immédiate en caisse",
+            "Un remboursement différé après envoi d'un justificatif",
+            "Un lot offert",
+            "Un prix d'appel"
+          ],
+          "correct": 1,
+          "correction": "L'ODR est remboursée après envoi de la preuve d'achat, ce qui limite son taux de remontée."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est une animation digitale ?",
+          "options": [
+            "Une dégustation en rayon",
+            "Une vente flash",
+            "Une tête de gondole",
+            "Un planogramme"
+          ],
+          "correct": 1,
+          "correction": "Les ventes flash et le live shopping sont des animations en ligne."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel calcul détermine le volume nécessaire pour couvrir le coût d'une opération ?",
+          "options": [
+            "Le seuil de rentabilité",
+            "Le BFR",
+            "La VAN",
+            "Le taux de rotation"
+          ],
+          "correct": 0,
+          "correction": "Le seuil de rentabilité de l'opération indique le CA ou le volume additionnel nécessaire."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle pratique est interdite par la réglementation commerciale ?",
+          "options": [
+            "Une remise temporaire",
+            "La revente à perte",
+            "Une opération lot",
+            "Un jeu-concours autorisé"
+          ],
+          "correct": 1,
+          "correction": "La revente à perte est interdite, sauf exceptions légales (soldes, liquidation, produits périssables)."
+        },
+        {
+          "type": "texte",
+          "q": "Comment chiffrer la rentabilité d'une animation promotionnelle ?",
+          "reponse": "On estime le CA incrémental et la marge dégagée, on y retranche le coût de l'opération (remises, PLV, main-d'œuvre, communication), puis on calcule le ROI.",
+          "correction": "Une animation qui génère du trafic mais détruit de la marge n'est pas rentable."
+        },
+        {
+          "type": "texte",
+          "q": "Que contient un rétroplanning d'opération commerciale ?",
+          "reponse": "Les étapes (conception, commandes, communication, formation, mise en place, évaluation), leurs délais, les responsables et les jalons de validation.",
+          "correction": "Le diagramme de Gantt permet de visualiser les chevauchements et les deadlines."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Animation de l'offre commerciale",
+      "titre": "Chapitre 5 — Communication commerciale locale et digitale",
+      "source": "Référentiel BTS MCO (arrêté du 15 octobre 2018 modifié par l'arrêté du 8 juillet 2024, JORF n° 163 du 10 juillet 2024), annexe I a domaine d'activités 2 et annexe I b bloc de compétences 2, unité U6 (épreuve E6) ; lois LME, Galland, EGAlim ; Aurlom, programme détaillé BTS MCO (novembre 2026).",
+      "points": [
+        "La communication commerciale de l'unité poursuit des objectifs de notoriété, d'image, de trafic et de conversion ; elle est locale et s'inscrit dans la politique de l'enseigne.",
+        "La communication sur le lieu de vente (PLV) comprend affiches, présentoirs, stops-rayon, étiquettes, écrans et signalétique ; elle accompagne le client au moment de l'achat.",
+        "Les supports de communication externe locale : prospectus, boîtage, affichage, presse et radio locales, street marketing et partenariats avec des acteurs locaux.",
+        "La communication digitale mobilise les réseaux sociaux, le site de l'enseigne, Google My Business, les notifications push et la géolocalisation (géofencing).",
+        "Un calendrier éditorial planifie les publications : fréquence, thèmes, formats, cibles et indicateurs de suivi.",
+        "Le community management consiste à animer une communauté, répondre aux commentaires et avis, et maintenir une voix cohérente avec l'enseigne.",
+        "La réglementation : publicité mensongère et comparative, mentions obligatoires, données personnelles (RGPD), droit à l'image et autorisations pour les jeux-concours.",
+        "Les indicateurs de performance : portée (reach), engagement, taux de clic, taux d'ouverture, trafic en magasin, demandes de renseignements et ROI.",
+        "Un message efficace est clair, court, adapté au canal et au public local ; il met en avant un bénéfice client plutôt qu'une simple caractéristique produit.",
+        "En épreuve E6, le candidat doit concevoir un support ou un plan de communication et justifier le choix des canaux au regard de la cible et du budget."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel objectif de la communication vise à faire venir les clients en magasin ?",
+          "options": [
+            "La notoriété",
+            "Le trafic",
+            "L'image",
+            "La fidélisation"
+          ],
+          "correct": 1,
+          "correction": "Le trafic désigne le nombre de visiteurs attirés par l'action de communication."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne Google My Business dans une démarche locale ?",
+          "options": [
+            "Un logiciel de comptabilité",
+            "La fiche de l'établissement sur Google",
+            "Un réseau social professionnel",
+            "Un outil de paie"
+          ],
+          "correct": 1,
+          "correction": "La fiche Google Business Profile influence la visibilité locale et les avis en ligne."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel document planifie les publications sur les réseaux sociaux ?",
+          "options": [
+            "Le planogramme",
+            "Le calendrier éditorial",
+            "Le bilan",
+            "Le BFR"
+          ],
+          "correct": 1,
+          "correction": "Le calendrier éditorial organise le contenu, la fréquence et les responsabilités."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel indicateur mesure l'interaction avec une publication ?",
+          "options": [
+            "Le taux d'engagement",
+            "Le taux de rotation",
+            "Le FRNG",
+            "Le taux de marge"
+          ],
+          "correct": 0,
+          "correction": "L'engagement regroupe mentions J'aime, commentaires et partages rapportés à la portée."
+        },
+        {
+          "type": "texte",
+          "q": "Comment adapter un message de communication à une cible locale ?",
+          "reponse": "En utilisant la langue et les références de la clientèle locale, en mettant en avant un bénéfice concret et en choisissant les canaux réellement consultés (réseaux, presse locale, affichage).",
+          "correction": "Un message trop généraliste ne se démarque pas et ne crée pas de trafic."
+        },
+        {
+          "type": "texte",
+          "q": "Quels risques juridiques pèsent sur une action de communication ?",
+          "reponse": "La publicité mensongère ou comparative déloyale, l'absence de mentions obligatoires, l'utilisation non autorisée d'une image et le non-respect du RGPD pour les données collectées.",
+          "correction": "La vérification des mentions légales et des droits d'image est indispensable avant diffusion."
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Animation de l'offre commerciale",
+      "titre": "Chapitre 6 — Évaluer l'action commerciale et piloter les performances de l'animation",
+      "source": "Référentiel BTS MCO (arrêté du 15 octobre 2018 modifié par l'arrêté du 8 juillet 2024, JORF n° 163 du 10 juillet 2024), annexe I a domaine d'activités 2 et annexe I b bloc de compétences 2, unité U6 (épreuve E6) ; lois LME, Galland, EGAlim ; Aurlom, programme détaillé BTS MCO (novembre 2026).",
+      "points": [
+        "L'évaluation de l'action commerciale mesure les écarts entre objectifs annoncés et résultats obtenus, afin de décider de poursuivre, corriger ou arrêter une action.",
+        "Les indicateurs de trafic et de conversion : fréquentation (compteurs), taux de transformation (acheteurs / visiteurs), panier moyen et nombre de transactions.",
+        "Les indicateurs financiers : chiffre d'affaires incrémental, marge dégagée, coût de l'action, coût par contact et retour sur investissement (ROI).",
+        "Le ROI se calcule par (gains − coûts) / coûts ; il permet de comparer des actions de natures différentes.",
+        "Les indicateurs de communication : portée, impressions, taux d'ouverture, taux de clic, engagement, avis et notoriété.",
+        "La comparaison avant / pendant / après permet d'isoler l'effet de l'action, en tenant compte de la saisonnalité et des événements extérieurs.",
+        "Un tableau de bord synthétise les indicateurs avec objectifs, réalisations, écarts et commentaires ; il alimente le reporting vers la direction.",
+        "L'analyse doit distinguer les effets durables (notoriété, fidélisation) des effets immédiats (pic de ventes pendant l'animation).",
+        "Les axes d'amélioration portent sur le ciblage, le message, le support, la période, l'implantation et la formation des équipes.",
+        "L'épreuve E6 attend une évaluation chiffrée et des propositions d'ajustement réalistes, adaptées au contexte local et à la politique de l'enseigne."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Comment calcule-t-on le taux de transformation ?",
+          "options": [
+            "Acheteurs / visiteurs",
+            "Visiteurs / acheteurs",
+            "CA / stock",
+            "Marge / CA"
+          ],
+          "correct": 0,
+          "correction": "Le taux de transformation rapporte le nombre d'acheteurs au nombre de visiteurs."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle formule donne le ROI ?",
+          "options": [
+            "(Gains − coûts) / coûts",
+            "Coûts / gains",
+            "Gains + coûts",
+            "CA / visiteurs"
+          ],
+          "correct": 0,
+          "correction": "Le ROI mesure la rentabilité de l'investissement consenti."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel indicateur relève de la communication digitale ?",
+          "options": [
+            "Le taux de clic",
+            "Le taux de rotation",
+            "Le BFR",
+            "Le seuil de rentabilité"
+          ],
+          "correct": 0,
+          "correction": "Le taux de clic (CTR) mesure l'efficacité d'un lien ou d'une publicité en ligne."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi comparer la période avant l'action ?",
+          "options": [
+            "Pour disposer d'un référentiel et isoler l'effet de l'action",
+            "Pour augmenter les prix",
+            "Pour réduire le stock",
+            "Pour éviter le reporting"
+          ],
+          "correct": 0,
+          "correction": "La comparaison avant/pendant/apporte permet de mesurer l'incrémentalité."
+        },
+        {
+          "type": "texte",
+          "q": "Comment présenter l'évaluation d'une animation commerciale ?",
+          "reponse": "Sous forme de tableau comparant objectifs et réalisations pour chaque indicateur (trafic, transformation, panier, CA, marge, ROI), accompagné d'un commentaire et de recommandations.",
+          "correction": "Une évaluation chiffrée et commentée est attendue, pas une simple affirmation de succès."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle est la limite d'une hausse de chiffre d'affaires pendant une animation ?",
+          "reponse": "Elle peut être temporaire, due à un effet d'aubaine, et ne pas couvrir le coût de l'action ni créer de fidélité durable.",
+          "correction": "Il faut compléter le CA par l'analyse de la marge, du panier, du trafic et de la rétention après l'opération."
+        }
+      ]
+    }
+  ],
+  "annales": [
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "titre": "Sujet type E5 Relation client — Cas pratique omnicanal « Maison Nova »",
+      "matiere": "Développement de la relation client",
+      "type": "genere",
+      "contenu": "Épreuve E5 — Développement de la relation client et vente conseil (oral 30 min, coefficient 3 ; CCF en voie scolaire).\n\nCAS PRATIQUE : Vous êtes responsable adjoint de l'unité commerciale « Maison Nova » (magasin de mobilier, 600 m², 12 salariés). Le magasin constate une baisse de 8 % de son chiffre d'affaires sur six mois malgré une hausse du trafic en ligne. Les avis clients mentionnent des ruptures de stock sur le click and collect, un accueil inconstant et un suivi after-sales défaillant.\n\nDOCUMENTS : 1. tableau de bord (trafic, taux de transformation, panier moyen, NPS) ; 2. extrait de 30 avis clients ; 3. procédure actuelle de click and collect ; 4. données CRM sur la fidélisation et l'attrition.\n\nQUESTIONS : 1. Analysez la situation et identifiez les causes probables de la baisse de performance. 2. Qualifiez les dysfonctionnements de la relation client aux différents points de contact. 3. Proposez un plan d'action pour fiabiliser le click and collect et améliorer l'accueil. 4. Concevez une action de fidélisation adaptée aux segments les plus menacés (RFM). 5. Précisez les indicateurs de suivi et la procédure de traitement des réclamations. 6. Présentez votre plan à l'oral en 10 minutes et répondez aux questions du jury.",
+      "correction": "1. La hausse du trafic en ligne avec baisse du CA indique une transformation défaillante : ruptures sur le click and collect, une méconnaissance de la disponibilité des produits, accueil en magasin inégal et insuffisance du suivi après-vente. Les avis et le NPS confirment une dégradation de l'expérience.\n\n2. Points de contact concernés : avant l'achat (information en ligne sur la disponibilité), pendant (accueil, conseil, retrait de commande), après (SAV, garantie, suivi). Le défaut de coordination entre le site et le magasin crée une asymétrie d'information.\n\n3. Plan d'action : synchronisation des stocks en temps réel, zone dédiée au click and collect, procédure de substitution et d'information en cas de rupture, briefing quotidien et script d'accueil, formation des équipes à l'écoute active et à la reformulation.\n\n4. Fidélisation : segmenter la base CRM avec la méthode RFM ; pour les clients « à risque », proposez une prise de contact personnalisée, un geste commercial et une invitation à un atelier ; pour les « champions », un programme de parrainage et des avantages exclusifs. Vérifier le consentement RGPD avant toute campagne.\n\n5. Indicateurs : taux de rupture, délai de préparation, taux de transformation, NPS, taux de réclamation, délai de traitement. Procédure : écoute, reformulation, qualification, solution, confirmation, capitalisation des causes récurrentes.\n\n6. La présentation orale suit un plan clair (diagnostic, causes, actions, indicateurs), s'appuie sur les chiffres des documents et prévoit les réponses aux questions du jury sur la faisabilité, le coût et le rôle de chacun."
+    },
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "titre": "Sujet type E5 Étude commerciale et zone de chalandise",
+      "matiere": "Développement de la relation client",
+      "type": "genere",
+      "contenu": "Épreuve E5 — Dossier de veille et d'étude commerciale (coefficient 3).\n\nCONTEXTE : une unité commerciale de quartier souhaite revoir son offre et sa communication locale. Vous disposez d'une carte de zone de chalandise (zones primaire, secondaire, tertiaire ; isochrones 5/10/20 minutes), de données INSEE sur le revenu moyen et l'âge de la population, de la localisation de trois concurrents et des résultats d'un questionnaire de satisfaction (150 réponses).\n\nQUESTIONS : 1. Délimitez et caractérisez la zone de chalandise. 2. Analysez le positionnement des concurrents et estimez le potentiel de l'unité (loi de Reilly, modèle de Huff). 3. Exploitez le questionnaire : principaux résultats, biais éventuels et limites. 4. Déduisez-en des recommandations pour l'assortiment et les horaires d'ouverture. 5. Proposez une action de communication locale et son calendrier de mise en œuvre. 6. Définissez trois indicateurs pour mesurer les résultats de l'action.",
+      "correction": "1. La zone primaire correspond aux clients à moins de 5 minutes ; la secondaire à 10 minutes ; la tertiaire à 20 minutes. Le profil socio-économique (revenu, âge) et les flux déterminent le potentiel de consommation.\n\n2. La loi de Reilly estime le point de rupture entre l'unité et ses concurrents selon leur surface et la distance ; le modèle de Huff affine en intégrant plusieurs critères d'attractivité (surface, gamme, prix, parking). On en déduit les secteurs où l'enseigne est la plus compétitive.\n\n3. Le questionnaire donne des informations sur la satisfaction, les attentes et les habitudes d'achat ; l'échantillon de 150 réponses doit être analysé pour ses biais (mode de collecte, période, représentativité) et sa marge d'erreur. Les résultats sont croisés avec les données de la zone.\n\n4. Recommandations : adapter la profondeur de gamme au pouvoir d'achat local, renforcer les créneaux fortement demandés (ex. : ouverture le dimanche matin ou en fin de journée), et valoriser les services attendus par les répondants.\n\n5. Action : campagne de prospection locale (boîtage, réseaux sociaux géolocalisés, partenariat avec une association), calendrier sur quatre semaines avec responsables et jalons.\n\n6. Indicateurs : fréquentation, taux de transformation, CA et panier moyen sur la période, complétés par le nombre de nouveaux clients et le NPS."
+    },
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "titre": "Sujet type E6 Animation de l'offre — Projet d'animation promotionnelle",
+      "matiere": "Animation de l'offre commerciale",
+      "type": "genere",
+      "contenu": "Épreuve E6 — Animation et dynamisation de l'offre commerciale (oral 30 min, coefficient 3).\n\nCONTEXTE : une unité commerciale de 450 m² spécialisée dans les produits bio souhaite organiser une opération « Découvrir le bio » sur une semaine. Budget communication : 2 500 €. Objectif : +10 % de trafic et +6 % de chiffre d'affaires sur la période. Documents fournis : tableau de bord des 12 derniers mois, grille tarifaire des fournisseurs, Matrice des animations de l'enseigne, extrait de la réglementation sur les jeux-concours.\n\nQUESTIONS : 1. Analysez le potentiel de l'opération au regard des données et de la saisonnalité. 2. Définissez l'offre promotionnelle retenue et justifiez-la au regard de la marge et de la réglementation. 3. Construisez le rétroplanning de l'opération (Gantt) et répartissez les tâches au sein de l'équipe. 4. Concevez le plan de communication locale et digitale (supports, messages, canaux). 5. Chiffrez le seuil de rentabilité et le ROI prévisionnel. 6. Présentez le projet à l'oral et répondez aux questions du jury sur les risques et les alternatives.",
+      "correction": "1. L'analyse exploite le tableau de bord sur 12 mois pour identifier les périodes de forte et faible fréquentation, la saisonnalité et les tendances ; l'objectif de +10 % de trafic est confronté aux résultats passés.\n\n2. L'offre retenue (dégustations, lot, remise sur une sélection, ODR) doit être compatible avec la marge dégagée et la réglementation : pas de revente à perte, jeux-concours autorisés ou déclarés, publicité véridique. Le choix est justifié par son attrait pour la cible locale.\n\n3. Le rétroplanning comporte : conception et validation (S-4), commandes et négociation fournisseurs (S-3), préparation des supports et formation des équipes (S-2), mise en place (S-1), déroulement (S0), démontage et évaluation (S+1). Chaque tâche a un responsable.\n\n4. Le plan de communication associe PLV en magasin, réseaux sociaux, Google My Business, presse locale et bouche-à-oreille ; le calendrier éditorial précise les dates et les messages centrés sur un bénéfice client (découverte, goût, proximité).\n\n5. Le seuil de rentabilité se calcule en divisant le coût total de l'opération par la marge unitaire ; le ROI prévisionnel compare les gains attendus (CA incrémental × taux de marge) aux coûts (budget + remises + main-d'œuvre).\n\n6. La soutenance orale valorise la clarté du plan, la cohérence des choix avec le contexte local, la maîtrise des chiffres et la capacité à répondre aux objections (coût, faisabilité, résultats incertains)."
+    },
+    {
+      "filieres": [
+        "bts-mco"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "titre": "Sujet type E6 Merchandising et évaluation d'action commerciale",
+      "matiere": "Animation de l'offre commerciale",
+      "type": "genere",
+      "contenu": "Épreuve E6 — Cas pratique : réagencement d'un rayon (coefficient 3).\n\nCONTEXTE : le rayon « cosmétiques » d'une unité commerciale présente un CA au mètre linéaire inférieur de 20 % à la moyenne de l'enseigne, un taux de rupture de 9 % et une forte proportion de zones froides. La direction propose trois scénarios : (A) augmenter la profondeur de gamme, (B) réagencer le rayon avec têtes de gondole et cross-merchandising, (C) lancer une animation promotionnelle sur trois semaines. Documents : plan du rayon, données de vente par référence, coûts des scénarios, avis clients.\n\nQUESTIONS : 1. Diagnostiquez la performance du rayon à partir des indicateurs fournis. 2. Comparez les trois scénarios selon leur coût, leur impact attendu et leur compatibilité avec la politique de l'enseigne. 3. Retenez un scénario et justifiez le choix. 4. Présentez le nouveau planogramme et les règles d'implantation (facing, signalétique, zones chaudes/froides). 5. Définissez le dispositif de mesure (indicateurs, méthode avant/après, indice de sensibilité). 6. Présentez votre proposition à l'oral et répondez aux questions du jury.",
+      "correction": "1. Le diagnostic repose sur le CA au mètre linéaire, le taux de rupture (9 %, trop élevé), la rotation des références et la localisation des zones froides ; les avis clients peuvent révéler un problème de lisibilité ou de disponibilité.\n\n2. Le scénario A augmente l'offre mais peut aggraver les ruptures et immobiliser du stock ; le scénario B traite la cause (implantation) à coût modéré ; le scénario C génère du trafic mais peut détruire de la marge. La comparaison utilise coût, impact estimé, délai et cohérence avec l'enseigne.\n\n3. Le choix du scénario B est cohérent si la cause identifiée est l'implantation ; il peut être complété par une animation courte. La justification s'appuie sur les données chiffrées.\n\n4. Le planogramme place les références à forte rotation et forte marge en têtes de gondole et à hauteur de regard, regroupe les familles complémentaires (cross-merchandising), prévoit un facing permanent et une signalétique lisible, et traite les zones froides par des présentoirs ou des services.\n\n5. La mesure compare CA au mètre, rotation, taux de rupture et taux de transformation avant et après ; l'indice de sensibilité isole l'effet du changement d'implantation. Un tableau de bord hebdomadaire suit les écarts.\n\n6. La présentation orale doit montrer la logique du diagnostic au choix, la faisabilité opérationnelle (formation, charge de travail) et la capacité à mesurer les résultats."
+    }
+  ]
+}

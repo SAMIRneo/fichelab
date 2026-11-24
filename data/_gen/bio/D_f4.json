@@ -1,0 +1,758 @@
+[
+ {
+  "filieres": [
+   "bts-bio"
+  ],
+  "annees": [
+   "BTS1",
+   "BTS2"
+  ],
+  "matiere": "Qualité et gestion de laboratoire",
+  "titre": "Chapitre : système documentaire, traçabilité et exigences (ISO 17025)",
+  "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T1.1, T1.3 et S1.2.2 ; NF EN ISO/IEC 17025:2017 ; NF EN ISO 9001",
+  "points": [
+   "La norme NF EN ISO/IEC 17025:2017 fixe les exigences générales concernant la compétence, l'impartialité et le fonctionnement cohérent des laboratoires d'essais et d'étalonnage ; elle est structurée en exigences générales, structure, ressources, processus et système de management.",
+   "Pyramide documentaire (du plus général au plus concret) : manuel qualité → procédures → modes opératoires (SOP) → instructions de travail → enregistrements et preuves ; chaque document a une finalité et un destinataire différents.",
+   "Document de référence : il décrit ce qui doit être fait (exigence, règle) ; enregistrement (ou document de preuve) : il atteste que l'action a été réalisée (fiche de traçabilité, résultat brut, carte de contrôle) ; les deux sont complémentaires.",
+   "Maîtrise des documents : numérotation et titre uniques, version, date d'application, rédacteur, vérificateur, approbateur, diffusion contrôlée, mise à jour et retrait des anciennes versions ; un document périmé ne doit plus être utilisable par erreur.",
+   "Gestion des versions : toute modification fait l'objet d'une révision avec historique des changements ; la date d'entrée en vigueur et la raison de la révision sont consignées ; les anciennes versions sont archivées et identifiées comme obsolètes.",
+   "Traçabilité interne : identification unique de l'échantillon dès la réception (numéro d'échantillon, code-barres), suivi de chaque étape (prélèvement, préparation, analyse, resultat), lots de réactifs et de milieux, appareils utilisés, opérateurs, heure et date.",
+   "Traçabilité externe : remonter du produit fini au lot de matière première et inversement (numéro de lot, etiquette-produit, registre de production) ; elle est imposée par la réglementation et permet le rappel en cas de crise.",
+   "Exigences : distinguer les exigences réglementaires (lois, règlements, pharmacopée), normatives (normes), contractuelles (cahier des charges du client) et internes (procédures du laboratoire) ; la revue de contrat vérifie que le laboratoire peut satisfaire la demande avant acceptation.",
+   "Audit interne et externe : l'audit interne est réalisé par le laboratoire pour vérifier sa conformité ; l'audit externe est mené par un organisme d'accréditation ou un client ; les écarts relevés donnent lieu à des actions correctives et à un suivi.",
+   "Archivage : durée de conservation définie par la procédure et la réglementation ; les enregistrements papier ou numériques doivent rester lisibles, accessibles et protégés ; l'archivage permet de reconstituer a posteriori toute analyse et de répondre à un audit."
+  ],
+  "questions": [
+   {
+    "type": "qcm",
+    "q": "Quelle norme fixe les exigences de compétence des laboratoires d'essais ?",
+    "options": [
+     "NF EN ISO 9001",
+     "NF EN ISO/IEC 17025",
+     "NF EN ISO 14001",
+     "NF EN ISO 45001"
+    ],
+    "correct": 1,
+    "correction": "La norme NF EN ISO/IEC 17025:2017 s'applique spécifiquement aux laboratoires d'essais et d'étalonnage ; l'ISO 9001 est le système de management de la qualité générique."
+   },
+   {
+    "type": "qcm",
+    "q": "Dans la pyramide documentaire, quel document apporte une preuve ?",
+    "options": [
+     "Le manuel qualité",
+     "La procédure",
+     "L'enregistrement (fiche de traçabilité)",
+     "La politique qualité"
+    ],
+    "correct": 2,
+    "correction": "Les enregistrements sont des documents de preuve qui attestent de la réalisation d'une activité et de son résultat ; les autres documents décrivent les règles."
+   },
+   {
+    "type": "qcm",
+    "q": "Que doit contenir la revue de contrat avant d'accepter une demande d'analyse ?",
+    "options": [
+     "Uniquement le prix",
+     "La vérification que le laboratoire a les compétences, moyens et délais pour répondre à la demande",
+     "Le nom du commercial",
+     "La date de la facture"
+    ],
+    "correct": 1,
+    "correction": "La revue de contrat vérifie la compréhension de la demande, la conformité aux exigences, la disponibilité des ressources et des compétences, et les délais avant acceptation."
+   },
+   {
+    "type": "qcm",
+    "q": "Quelle est la différence entre audit interne et audit externe ?",
+    "options": [
+     "L'audit interne est réalisé par le laboratoire lui-même, l'externe par un tiers",
+     "L'audit interne est obligatoire, l'externe facultatif",
+     "L'audit externe est réalisé par les opérateurs",
+     "Ils sont identiques"
+    ],
+    "correct": 0,
+    "correction": "L'audit interne est une évaluation menée par l'organisation (indépendance de l'auditeur interne vis-à-vis de l'activité auditée) ; l'audit externe est réalisé par un organisme d'accréditation ou un client."
+   },
+   {
+    "type": "rédaction",
+    "q": "Décrire les informations minimales pour assurer la traçabilité d'une analyse au laboratoire.",
+    "correction": "Identifiant unique de l'échantillon et du lot, date et heure de réception et de prélèvement, identité du préleveur et état de l'échantillon à la réception, méthode utilisée avec sa référence et sa version, numéros de lot des réactifs, milieux, étalons et consommables, identifiant et état métrologique des appareils, nom de l'opérateur, valeurs brutes, calculs et facteurs de dilution, résultats des contrôles qualité, date d'édition du rapport et nom du validateur. Toutes ces informations doivent permettre de reconstituer l'analyse à partir du rapport et inversement."
+   },
+   {
+    "type": "rédaction",
+    "q": "Comment gérer une ancienne version d'un mode opératoire devenue obsolète ?",
+    "correction": "La retirer de tous les postes de travail (versions papier et numériques), la remplacer par la nouvelle version datée et approuvée, archiver l'ancienne version avec mention « obsolète » et date de fin d'application, conserver l'historique des révisions avec motif et approbation, informer et former les opérateurs sur les changements, vérifier que les enregistrements liés à l'ancienne version restent accessibles pour les analyses déjà réalisées. Un document périmé présent sur un poste est un écart lors d'un audit."
+   }
+  ]
+ },
+ {
+  "filieres": [
+   "bts-bio"
+  ],
+  "annees": [
+   "BTS1",
+   "BTS2"
+  ],
+  "matiere": "Qualité et gestion de laboratoire",
+  "titre": "Chapitre : suivi des équipements, qualification et métrologie",
+  "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S1.2.1 à S1.2.6, S2.7.2 et T1.3 ; NF EN ISO/IEC 17025 ; GAMP",
+  "points": [
+   "Le suivi des équipements comprend : réception et conformité du bon de livraison, qualification à l'installation, rédaction d'une procédure d'utilisation, fiche de vie, planning de vérification et maintenances préventive et corrective.",
+   "Qualification : IQ (Installation Qualification) vérifie la conformité de l'installation (alimentation, environnement, accessoires, documents) ; OQ (Operational Qualification) vérifie le fonctionnement dans la plage attendue ; PQ (Performance Qualification) vérifie la performance réelle avec des échantillons ou des contrôles représentatifs.",
+   "Fiche de vie (ou registre d'équipement) : identifiant interne, marque, modèle, numéro de série, date d'achat et de mise en service, fournisseur, emplacement, responsable, procédures associées, historique des maintenances, pannes, vérifications et étalonnages.",
+   "Raccordement métrologique : chaque appareil de mesure doit être raccordé à un étalon de référence par une chaîne de comparaisons documentée ; la périodicité dépend de la criticité de l'appareil et de sa stabilité.",
+   "Vérification, étalonnage, ajustage : la vérification compare l'indication à une valeur de référence pour conclure à la conformité ; l'étalonnage établit la relation et l'incertitude ; l'ajustage modifie l'appareil ; un dispositif hors tolérance est étiqueté et retiré du service.",
+   "Cartes de contrôle d'équipement : suivre un paramètre (température d'étuve, absorbance d'un filtre, pH d'une solution tampon) dans le temps avec limites d'alerte et d'action ; l'analyse des tendances permet d'anticiper une panne.",
+   "Maintenance préventive : actions planifiées (nettoyage, graissage, remplacement de pièces d'usure, vérification de joints et de filtres) selon les préconisations du fabricant et l'expérience du laboratoire ; maintenance corrective : intervention après panne avec diagnostic et remise en service validée.",
+   "Évaluation des fournisseurs et prestataires : critères de qualité, délais, coût, conformité des livraisons, réactivité du service après-vente ; un fournisseur critique peut être audité ou requalifié.",
+   "Cahier des charges d'achat : définir les besoins (domaines de mesure, exactitude, résolution, débit, compatibilité avec les méthodes), les contraintes (budget, environnement, normes) et les critères d'acceptation ; il sert de base à la comparaison des offres.",
+   "Impact d'un équipement non conforme : tous les résultats obtenus depuis la dernière vérification conforme doivent être identifiés et réévalués ; cette démarche est tracée et fait l'objet d'une notification au responsable qualité."
+  ],
+  "questions": [
+   {
+    "type": "qcm",
+    "q": "Que vérifie la qualification PQ d'un équipement ?",
+    "options": [
+     "La conformité de l'installation électrique",
+     "Le fonctionnement dans la plage de consigne",
+     "La performance réelle dans les conditions d'utilisation",
+     "Le prix d'achat"
+    ],
+    "correct": 2,
+    "correction": "IQ porte sur l'installation, OQ sur le fonctionnement opérationnel, PQ sur la performance avec des échantillons ou contrôles représentatifs de l'usage réel."
+   },
+   {
+    "type": "qcm",
+    "q": "Quel document retrace l'historique complet d'un appareil ?",
+    "options": [
+     "Le bon de commande",
+     "La fiche de vie",
+     "Le manuel qualité",
+     "La fiche de données de sécurité"
+    ],
+    "correct": 1,
+    "correction": "La fiche de vie regroupe identification, procédures, maintenances, étalonnages, pannes et interventions : elle est indispensable pour l'historique et la traçabilité métrologique."
+   },
+   {
+    "type": "qcm",
+    "q": "Que faut-il faire si un appareil est trouvé hors tolérance lors d'une vérification ?",
+    "options": [
+     "Continuer à l'utiliser en notant l'écart",
+     "L'étiqueter, le retirer du service et réévaluer les résultats depuis la dernière vérification conforme",
+     "Le recalibrer uniquement en fin d'année",
+     "Le remplacer sans documenter"
+    ],
+    "correct": 1,
+    "correction": "L'appareil doit être immédiatement identifié comme non conforme et retiré du service ; l'impact sur les résultats déjà rendus est évalué et documenté avant toute remise en service."
+   },
+   {
+    "type": "qcm",
+    "q": "Quelle est la différence entre maintenance préventive et corrective ?",
+    "options": [
+     "La préventive est planifiée avant panne, la corrective intervient après panne",
+     "La corrective est planifiée, la préventive après panne",
+     "Elles sont identiques",
+     "La corrective concerne uniquement le nettoyage"
+    ],
+    "correct": 0,
+    "correction": "La maintenance préventive est programmée selon un planning pour réduire le risque de panne ; la maintenance corrective répare une défaillance constatée."
+   },
+   {
+    "type": "rédaction",
+    "q": "Décrire le contenu d'une fiche de vie d'un spectrophotomètre.",
+    "correction": "Identification : numéro interne, marque, modèle, numéro de série, date d'achat et de mise en service, fournisseur, localisation, responsable. Documents associés : notice, procédure d'utilisation, méthodes de vérification, version du logiciel. Suivi : dates et résultats des vérifications de longueur d'onde et d'absorbance, étalonnages, maintenances préventives (nettoyage, lampe), interventions correctives et pannes, remplacement de pièces, relevés de température, cartes de contrôle. Each event is dated, signed and linked to the operator and the service provider; the file also records the decision to put the instrument back into service after repair."
+   },
+   {
+    "type": "rédaction",
+    "q": "Comment organiser le raccordement métrologique d'un thermomètre d'étuve ?",
+    "correction": "Définir l'exigence (plage de température et tolérance admise), choisir un étalon de référence certifié traçable (par exemple un thermomètre étalon), comparer le thermomètre de l'étuve à l'étalon à plusieurs points de la plage d'utilisation, calculer les écarts et l'incertitude, décider de la conformité au regard de la tolérance, documenter les résultats sur la fiche de vie, étiqueter l'appareil avec la date de prochaine vérification, fixer la périodicité selon la stabilité observée et l'importance pour les résultats (par exemple annuelle ou semestrielle), et prévoir la réévaluation desrésultats obtenus si l'écart dépasse la tolérance."
+   }
+  ]
+ },
+ {
+  "filieres": [
+   "bts-bio"
+  ],
+  "annees": [
+   "BTS1",
+   "BTS2"
+  ],
+  "matiere": "Prévention des risques",
+  "titre": "Chapitre : risques professionnels, DUERP et prévention au laboratoire",
+  "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T1.2 et S1.3.1 à S1.3.4 ; Code du travail art. L4121-1 et R4121-1 ; DUERP",
+  "points": [
+   "Le danger est une propriété intrinsèque d'une substance, d'un agent ou d'une situation susceptible de nuire ; le risque est la combinaison de la probabilité de survenance d'un dommage et de sa gravité pour une personne exposée.",
+   "Prévention : supprimer ou réduire les risques à la source, les évaluer, les hiérarchiser et mettre en œuvre des mesures de maîtrise ; la sécurité est l'ensemble des mesures qui protègent contre les risques résiduels.",
+   "Hiérarchie des mesures : éliminer le danger, le substituer par un produit moins dangereux, agir sur les équipements (EPC), organiser le travail (formation, procédures), puis utiliser les EPI en dernier recours.",
+   "DUERP : document unique d'évaluation des risques professionnels, obligatoire dans tout établissement (art. R4121-1 du Code du travail) ; il recense les dangers par unité de travail, évalue les risques (fréquence × gravité, échelle souvent 1 à 4), définit les actions de prévention et est révisé au moins annuellement et à chaque changement ou accident.",
+   "Risques chimiques : le système global harmonisé (SGH/CLP) classe les substances et impose pictogrammes, mentions de danger (H) et conseils de prudence (P) ; la FDS (16 sections) décrit les dangers, la manipulation, le stockage, les EPI et l'élimination.",
+   "Risques biologiques : agents classés en groupes 1 à 4 selon le pouvoir pathogène et le mode de transmission ; mesures associées : confinement, PSM, stérilisation, vaccination, formation, gestion des DASRI.",
+   "Risques physiques : bruit, rayonnements UV, chaleur, électricité,, pressions, machines tournantes, ergonomie (gestes répétitifs, port de charge), chutes et coupures ; chacun fait l'objet d'une cotation et de mesures dédiées.",
+   "EPC et EPI : EPC = hotte, PSM, captage localisé, protection machine, détecteur de gaz ; EPI = blouse, gants adaptés au produit (nitrile, latex), lunettes, masque,Protection auditive ; les EPI sont choisis après analyse de la FDS et portés conformément à la notice.",
+   "Déchets : tri à la source entre DASRI (infectieux, piquants-coupants), déchets chimiques (solvants, acides, métaux) et déchets ordinaires ; inactivation par autoclave quand nécessaire, étiquetage, stockage dans des contenants réglementaires et enregistrement des enlèvements.",
+   "Incidents et accidents : signalement immédiat, premiers soins, déclaration, fiche d'accident, enquête (arbre des causes, 5M), actions correctives et mise à jour du DUERP ; tout incident même sans gravité doit être déclaré pour éviter la répétition."
+  ],
+  "questions": [
+   {
+    "type": "qcm",
+    "q": "Quelle est la définition correcte du risque ?",
+    "options": [
+     "Une propriété intrinsèque d'une substance",
+     "Une situation avec danger uniquement",
+     "La combinaison de la probabilité de dommage et de sa gravité pour une personne exposée",
+     "La date de péremption d'un produit"
+    ],
+    "correct": 2,
+    "correction": "Le danger est la propriété de la substance ; le risque intègre l'exposition, la probabilité et la gravité du dommage."
+   },
+   {
+    "type": "qcm",
+    "q": "Quel document est obligatoire pour évaluer les risques professionnels dans un établissement ?",
+    "options": [
+     "Le DUERP",
+     "La fiche de données de sécurité",
+     "Le rapport d'audit",
+     "Le cahier des charges"
+    ],
+    "correct": 0,
+    "correction": "Le document unique d'évaluation des risques professionnels est obligatoire (Code du travail, art. R4121-1) et doit être révisé au moins chaque année."
+   },
+   {
+    "type": "qcm",
+    "q": "Dans la hiérarchie des mesures de prévention, les EPI viennent :",
+    "options": [
+     "En premier",
+     "En dernier, après élimination, substitution et mesures collectives",
+     "Avant l'évaluation des risques",
+     "Jamais"
+    ],
+    "correct": 1,
+    "correction": "La protection individuelle est le dernier recours : on privilégie d'abord la suppression ou la substitution du danger puis les protections collectives."
+   },
+   {
+    "type": "qcm",
+    "q": "Que contient une fiche de données de sécurité (FDS) ?",
+    "options": [
+     "Le prix du produit et le fournisseur uniquement",
+     "La classification SGH, les dangers, les mesures de prévention, le stockage et l'élimination",
+     "La recette de fabrication",
+     "La date de commande"
+    ],
+    "correct": 1,
+    "correction": "La FDS comporte 16 sections réglementées : identification, dangers, composition, premiers soins, lutte contre l'incendie, déversement, manipulation, EPI, propriétés, stabilité, toxicologie, écologie, élimination, transport, réglementation, autres informations."
+   },
+   {
+    "type": "rédaction",
+    "q": "Réaliser une évaluation simplifiée du risque lié à la manipulation d'acide chlorhydrique concentré au poste de préparation des réactifs.",
+    "correction": "Danger : corrosion cutanée et oculaire, inhalation de vapeurs acides, réaction violente avec bases et métaux (H314, H335). Situation d'exposition : transvasement, pipetage, risque de projection et de déversement. Cotation : fréquence de manipulation quotidienne (3-4) × gravité des brûlures (3-4) = risque élevé (12-16). Mesures : travail sous hotte avec captage, port de blouse, gants nitrile ou néoprène, lunettes voire visière, economie du geste (petites quantités), bouteille maintenue, ajout de l'acide dans l'eau (jamais l'inverse), rince-oeil accessible, procédure écrite et formation, bac de rétention, neutralisant et kit de déversement, élimination des effluents selon la filière acide. Réévaluation après mesures : risque résiduel faible à modéré, consigné dans le DUERP avec responsable et échéance."
+   },
+   {
+    "type": "rédaction",
+    "q": "Décrire la conduite à tenir en cas de projection d'un réactif chimique dans l'œil.",
+    "correction": "Agir immédiatement : utiliser le rince-oeil ou une source d'eau propre, ouvrir les paupières et rincer abondamment au moins 15 minutes, de l'intérieur vers l'extérieur, en retirant les lentilles si possible ; alerter un collègue et le responsable, ne pas frotter, ne pas utiliser de neutralisant ; consulter un médecin ou appeler le centre antipoison avec la FDS du produit ; remplir la fiche d'accident/incident, déclarer l'accident du travail, conserver le produit et son lot ; analyser la cause (EPI non porté, captage défaillant, geste inadapté) et mettre à jour le DUERP et la procédure."
+   }
+  ]
+ },
+ {
+  "filieres": [
+   "bts-bio"
+  ],
+  "annees": [
+   "BTS2"
+  ],
+  "matiere": "Qualité et gestion de laboratoire",
+  "titre": "Chapitre : contrôles qualité, cartes de contrôle et gestion des non-conformités",
+  "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S2.7.1 à S2.7.5, S1.4.2 et T1.3 ; NF EN ISO/IEC 17025 ; VIM",
+  "points": [
+   "Le contrôle qualité interne (CQI) utilise des échantillons de concentration connue (étalons de contrôle) analysés comme des échantillons ; le contrôle qualité externe (CQE ou essai inter-laboratoires) compare les résultats du laboratoire à ceux d'autres laboratoires.",
+   "Les contrôles portent sur l'environnement (température, humidité, propreté), les équipements, les milieux et réactifs, les souches et les étalons ; chaque contrôle a une fréquence, une méthode et des critères d'acceptation documentés.",
+   "Carte de contrôle de Shewhart : valeurs successives d'un indicateur avec une ligne centrale (moyenne du procédé), des limites d'alerte (±2s) et d'action (±3s) ; les limites sont estimées sur au moins 20 valeurs en situation de maîtrise.",
+   "Règles de lecture usuelles (Western Electric) : un point hors limite d'action, neuf points consécutifs du même côté de la moyenne, six points consécutifs en hausse ou en baisse, deux points sur trois au-delà de 2s du même côté : chacune signale une cause assignable.",
+   "Une carte de suivi de procédé diffère d'une carte de suivi d'équipement : la première surveille la stabilité d'un procédé analytique (moyenne et dispersion des résultats), la seconde surveille la dérive d'un appareil (température, absorbance d'un filtre).",
+   "Non-conformité (NC) : écart à une exigence spécifiée ; elle peut concerner un échantillon, un résultat, un équipement, un document ou une prestation ; elle est enregistrée, communicable au responsable qualité et classée par gravité.",
+   "Démarche CAPA : endiguer (bloquer le lot ou l'appareil), corriger, identifier la cause racine (5 Pourquoi, Ishikawa, diagramme de Pareto), mettre en œuvre une action corrective, vérifier son efficacité et clore la NC avec preuves à l'appui.",
+   "Les 5M (Main-d'œuvre, Matériel, Matière, Méthode, Milieu) structurent la recherche des causes d'une dérive ou d'un résultat aberrant ; les 5 Pourquoi approfondissent la cause racine au-delà du symptôme.",
+   "Outils qualité : diagramme d'Ishikawa (causes/effets), Pareto (80/20), cartes de contrôle, histogramme, diagramme de flux, check-list, FMEA (analyse des modes de défaillance et de leurs effets), plan d'échantillonnage.",
+   "Indicateurs et revue de direction : taux de conformité, délais de rendu, nombre de NC, taux de réclamations clients, résultats d'essais inter-laboratoires (score z) ; ils alimentent la revue de direction et l'amélioration continue (démarche PDCA : Plan-Do-Check-Act)."
+  ],
+  "questions": [
+   {
+    "type": "qcm",
+    "q": "Quelle règle signale une dérive sur une carte de contrôle ?",
+    "options": [
+     "Un point à l'intérieur des limites d'alerte",
+     "Neuf points consécutifs du même côté de la moyenne",
+     "Une valeur égale à la moyenne",
+     "Une carte remplie chaque semaine"
+    ],
+    "correct": 1,
+    "correction": "Neuf points du même côté de la moyenne (ou six en tendance, ou un point hors limite d'action) indiquent une cause assignable ; il faut arrêter et investiguer."
+   },
+   {
+    "type": "qcm",
+    "q": "Que signifie CAPA ?",
+    "options": [
+     "Contrôle et Analyse de la Performance des Analyses",
+     "Corrective And Preventive Action (action corrective et préventive)",
+     "Certification Accréditée de Procédés Analytiques",
+     "Contrôle Automatique de la Production Animale"
+    ],
+    "correct": 1,
+    "correction": "CAPA désigne la démarche d'action corrective (éliminer la cause d'une NC existante) et préventive (éviter qu'une NC potentielle ne survienne)."
+   },
+   {
+    "type": "qcm",
+    "q": "Quel outil permet de hiérarchiser les causes les plus fréquentes ?",
+    "options": [
+     "Le diagramme de Pareto",
+     "Le pH-mètre",
+     "La chromatographie",
+     "La fiche de données de sécurité"
+    ],
+    "correct": 0,
+    "correction": "Le diagramme de Pareto classe les causes par fréquence ou impact pour identifier les 20 % de causes responsables de 80 % des effets (principe 80/20)."
+   },
+   {
+    "type": "qcm",
+    "q": "Quelle est la différence entre contrôle interne et contrôle externe de la qualité ?",
+    "options": [
+     "Le contrôle interne est fait par le laboratoire avec ses propres étalons, le externe par comparaison inter-laboratoires",
+     "Le contrôle externe est fait chaque jour",
+     "Le contrôle interne concerne uniquement les clients",
+     "Ils sont identiques"
+    ],
+    "correct": 0,
+    "correction": "Le CQI est réalisé en interne avec des étalons de contrôle ; le CQE (essais inter-laboratoires ou proficiency testing) compare la performance du laboratoire à celle de pairs."
+   },
+   {
+    "type": "rédaction",
+    "q": "Analyser une carte de contrôle présentant quatre points consécutifs au-dessus de la limite d'alerte +2s mais sous la limite d'action +3s.",
+    "correction": "Même sans dépassement de la limite d'action, quatre points consécutifs au-delà de +2s signalent une dérive probable : la règle usuelle (deux points sur trois au-delà de 2s du même côté) est violée. Il faut suspendre la validation des résultats, vérifier l'état des réactifs (nouveau lot d'étalon ou de coffret), la date de dernière calibration, la température du local, l'opérateur et la procédure, rechercher la cause par les 5M, corriger et reprendre l'analyse des contrôles avant de rendre les résultats. L'événement est tracé comme une non-conformité ou un écart, avec action corrective et vérification d'efficacité."
+   },
+   {
+    "type": "rédaction",
+    "q": "Décrire le traitement complet d'une non-conformité détectée sur un résultat d'analyse.",
+    "correction": "Enregistrer la NC (numéro, date, description, produit/échantillon concerné, gravité) ; endiguer immédiatement (bloquer le lot ou le résultat, prévenir le responsable qualité et le client si le résultat a été transmis) ; rassembler les preuves (feuilles de traçabilité, carte de contrôle, lots de réactifs, relevés d'appareils) ; identifier la cause avec les 5M et les 5 Pourquoi ; définir l'action corrective avec responsable et échéance ; mettre en œuvre et documenter l'action ; vérifier son efficacité par un contrôle de vérification ou une nouvelle série ; clore la NC avec les preuves ; alimenter la revue de direction et mettre à jour les procédures ou le DUERP si nécessaire."
+   }
+  ]
+ },
+ {
+  "filieres": [
+   "bts-bio"
+  ],
+  "annees": [
+   "BTS2"
+  ],
+  "matiere": "Relations professionnelles",
+  "titre": "Chapitre : communication professionnelle écrite et orale au laboratoire",
+  "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S4.3.1 à S4.3.3, T4.3 ; normes APA ; RGPD",
+  "points": [
+   "Les écrits professionnels du laboratoire : compte rendu d'analyse, rapport d'essai, fiche de non-conformité, note de transmission, courrier ou courriel, procès-verbal de réunion, rapport de stage, CV et lettre de motivation.",
+   "Un rapport d'essai conforme mentionne : l'identification du laboratoire, le numéro de rapport, l'identification de l'échantillon, la méthode utilisée et sa référence, les résultats avec unités et incertitude, les éventuels écarts, la date, le nom du validateur et une mention de non-reproduction sans accord écrit.",
+   "Règles rédactionnelles : clarté, concision, neutralité, structure (objet, contexte, résultats, conclusion, actions), vocabulaire technique précis, citations des sources et respect des normes de présentation bibliographique (norme APA).",
+   "Destinataire et registre : adapter le niveau de langue et le détail technique au destinataire (client, production, qualité, hiérarchie, auditeur) ; distinguer information factuelle, interprétation et recommandation.",
+   "Transmission d'information : lors d'un changement d'équipe, transmettre l'état des analyses en cours, les priorités, les anomalies, les échéances et les documents associés ; une trace écrite complète la communication orale.",
+   "Communication orale : préparer son intervention (objectif, plan, supports), adopter une posture adaptée, structurer le propos, vérifier la compréhension par reformulation et gérer les questions ; les réunions font l'objet d'un compte rendu.",
+   "Alerte et diplomatie : signaler une non-conformité sans accusation, avec les faits chiffrés, les conséquences possibles et les actions proposées ; exemples de formulations : « nous avons identifié un écart », « le résultat dépasse la limite », « nous proposons de » .",
+   "Outils numériques : messagerie, intranet, logiciel de gestion de laboratoire (LIMS), bases de données, environnements collaboratifs, visioconférence ; respecter les règles de sécurité informatique, de sauvegarde et de confidentialité.",
+   "RGPD et éthique : les données personnelles sont traitées selon les principes de minimisation, finalité, durée de conservation limitée et sécurité ; le secret professionnel et le devoir de réserve s'appliquent aux informations de l'entreprise et des clients.",
+   "Compétences psychosociales : écoute active, empathie, assertivité, gestion de conflit, travail en équipe, retour d'expérience ; elles sont mobilisées dans les échanges avec les collègues, la production, les clients et les auditeurs."
+  ],
+  "questions": [
+   {
+    "type": "qcm",
+    "q": "Quelle mention ne doit pas figurer dans un rapport d'essai ?",
+    "options": [
+     "La méthode utilisée et sa référence",
+     "Le résultat avec son unité",
+     "Une reproduction partielle du rapport sans accord écrit",
+     "Le nom du validateur"
+    ],
+    "correct": 2,
+    "correction": "Un rapport ne peut être reproduit partiellement sans l'accord écrit du laboratoire ; l'intégrité du document doit être préservée."
+   },
+   {
+    "type": "qcm",
+    "q": "Quel est l'objectif d'une transmission lors d'un changement d'équipe ?",
+    "options": [
+     "Renouveler le personnel",
+     "Assurer la continuité du service en transmettant l'état des analyses, les priorités et les anomalies",
+     "Réduire le nombre de rapports",
+     "Éviter les réunions"
+    ],
+    "correct": 1,
+    "correction": "La transmission garantit la continuité et la sécurité des analyses : elle porte sur les travaux en cours, les délais, les écarts et les documents associés, avec une trace écrite."
+   },
+   {
+    "type": "qcm",
+    "q": "Quel principe du RGPD impose de ne collecter que les données nécessaires ?",
+    "options": [
+     "La minimisation des données",
+     "La conservation illimitée",
+     "La publicité des données",
+     "Le partage libre"
+    ],
+    "correct": 0,
+    "correction": "Le principe de minimisation (article 5 du RGPD) limite la collecte aux données adéquates, pertinentes et nécessaires à la finalité poursuivie."
+   },
+   {
+    "type": "qcm",
+    "q": "Quelle formulation est professionnelle pour signaler un écart à un client ?",
+    "options": [
+     "Vous avez fait une erreur",
+     "Votre produit est mauvais",
+     "Nous avons identifié un écart : le résultat dépasse la limite de 20 %",
+     "C'est de votre faute"
+    ],
+    "correct": 2,
+    "correction": "Une formulation factuelle et neutre présente les faits et les chiffres sans mise en cause, et ouvre la discussion sur les actions à engager."
+   },
+   {
+    "type": "rédaction",
+    "q": "Rédiger la structure d'un compte rendu d'analyse destiné au service qualité.",
+    "correction": "En-tête : destinataire, date, objet, référence de l'échantillon et du lot. 1. Contexte et demande (objectif du contrôle, exigence à vérifier, référence du cahier des charges). 2. Méthode (norme ou mode opératoire, appareil et son état métrologique, réactifs et lots). 3. Résultats (valeurs brutes, calculs, facteurs de dilution, incertitude, contrôles qualité). 4. Interprétation (conformité aux spécifications, comparaison aux limites). 5. Conclusion et actions (conclusion de conformité ou d'écart, recommandations, ouverture d'une NC si nécessaire). Signature du rédacteur et du validateur, mention d'archivage et de confidentialité."
+   },
+   {
+    "type": "rédaction",
+    "q": "Comment adapter une information orale selon l'interlocuteur (opérateur de production, responsable qualité, client, auditeur) ?",
+    "correction": "À l'opérateur de production : langage simple, actions concrètes et immédiates (arrêt de ligne, réglage), consignes courtes. Au responsable qualité : vocabulaire technique, chiffres, références aux procédures, état des contrôles et propositions d'action. Au client : ton neutre et professionnel, faits vérifiés, conséquences et délais, absence d'information confidentielle sur d'autres clients. À l'auditeur : réponse factuelle et documentée, référence exacte aux enregistrements, distinction entre ce qui est fait et ce qui est prévu, transparence sur les écarts et les actions correctives. Dans tous les cas : vérifier la compréhension, reformuler et laisser une trace écrite des décisions."
+   }
+  ]
+ },
+ {
+  "filieres": [
+   "bts-bio"
+  ],
+  "annees": [
+   "BTS1",
+   "BTS2"
+  ],
+  "matiere": "Sciences et technologies bioindustrielles",
+  "titre": "Chapitre : filières bioindustrielles, procédés et maîtrise de l'environnement",
+  "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T3.1 (bioproduction, contrôles, rejets, environnement) et T4.2",
+  "points": [
+   "La bioéconomie valorise des ressources biologiques (biomasse, micro-organismes, cellules) pour produire des biens : alimentation, pharmacie, cosmétique, énergie, matériaux ; la bioindustrie met en œuvre des procédés biotechnologiques à l'échelle industrielle.",
+   "Secteurs d'accueil : industries agroalimentaires (laiterie, brasserie, vinification, boulangerie), pharmaceutiques (médicaments, vaccins, biotechnologies), cosmétiques (formules, photoprotection), environnement (eau, air, sol), laboratoires vétérinaires et d'expertise.",
+   "Un procédé de bioproduction comporte des étapes : préparation des matières premières, prétraitements (nettoyage, broyage, stérilisation), fermentation ou culture, séparation/purification, formulation, conditionnement, stockage ; chaque étape a des paramètres d'influence (température, pH, temps, concentration, agitation).",
+   "Le diagramme de fabrication (ou schéma de procédé) situe les points de contrôle : matières premières, produit en cours de fabrication (suivi des procédés), environnement de production (air, surfaces, eau), produit fini et conditionnement.",
+   "Autocontrôle : l'entreprise contrôle elle-même sa production dans le cadre du plan HACCP (Hazard Analysis Critical Control Points) et du « paquet hygiène » ; les points critiques (CCP) font l'objet de limites critiques, de surveillance et d'actions correctives.",
+   "Contrôle des matières premières : identité, pureté, charge microbienne, résidus (pesticides, métaux), caractéristiques physico-chimiques ; la libération d'un lot de matière première conditionne la qualité du produit fini.",
+   "Contrôle en cours de procédé : suivi de paramètres (pH, température, densité, biomasse, métabolites) et détection des déviations ; l'alerte précoce permet d'ajuster le procédé avant de générer un produit non conforme.",
+   "Contrôle de l'environnement : plans de prélèvement des surfaces, de l'air, de l'eau de lavage et des opérateurs ; la maîtrise du bionettoyage et de la marche en avant limite les contaminations croisées.",
+   "Rejets et impact environnemental : les bioindustries génèrent des effluents chargés en matière organique (DCO, DBO5, MES), des solvants, des agents de nettoyage et des déchets biologiques ; leur traitement et leur surveillance relèvent de la réglementation (arrêtés préfectoraux, ICPE) et de l'autosurveillance.",
+   "Économie du procédé : coût des matières premières, rendement, coût de la non-qualité (rejets, reprises, rappels), coût énergétique ; le technicien contribue à la maîtrise de ces paramètres par la fiabilité des analyses."
+  ],
+  "questions": [
+   {
+    "type": "qcm",
+    "q": "Quel document situe les points de contrôle dans une production ?",
+    "options": [
+     "La fiche de données de sécurité",
+     "Le diagramme de fabrication",
+     "Le rapport d'audit",
+     "La carte de contrôle"
+    ],
+    "correct": 1,
+    "correction": "Le diagramme de fabrication représente les étapes du procédé et permet de positionner les matières premières, les produits en cours et les points de contrôle (CCP)."
+   },
+   {
+    "type": "qcm",
+    "q": "Que signifie le sigle HACCP ?",
+    "options": [
+     "Hazard Analysis Critical Control Points",
+     "Hygiene And Control of Chemical Products",
+     "Health And Cleanliness Certification Program",
+     "High Accuracy Control of Contaminated Products"
+    ],
+    "correct": 0,
+    "correction": "HACCP = analyse des dangers et points critiques pour leur maîtrise ; c'est la démarche obligatoire en agroalimentaire dans le cadre du paquet hygiène."
+   },
+   {
+    "type": "qcm",
+    "q": "Quel paramètre caractérise la charge organique biodégradable d'un effluent ?",
+    "options": [
+     "La conductivité",
+     "La DBO5",
+     "La dureté",
+     "Le pH"
+    ],
+    "correct": 1,
+    "correction": "La DBO5 mesure l'oxygène consommé par les bactéries en 5 jours : elle estime la fraction biodégradable de la matière organique ; la DCO mesure l'ensemble de la matière oxydable."
+   },
+   {
+    "type": "qcm",
+    "q": "Quel est l'objectif de la marche en avant dans un atelier ?",
+    "options": [
+     "Augmenter la cadence",
+     "Éviter la rencontre entre le propre et le sale en organisant les flux",
+     "Réduire le nombre d'opérateurs",
+     "Supprimer les contrôles"
+    ],
+    "correct": 1,
+    "correction": "La marche en avant organise l'espace, le temps et les flux (produits, personnel, déchets) pour empêcher les contaminations croisées entre zones propres et sales."
+   },
+   {
+    "type": "rédaction",
+    "q": "Décrire le plan de contrôle d'une ligne de production laitière depuis la réception du lait jusqu'au produit fini.",
+    "correction": "Réception du lait : température, pH, densité, essai de stabilité, charge microbienne, recherche de résidus (antibiotiques), conformité du producteur. Avant traitement : filtrage, contrôle de la qualité des milieux de nettoyage et de l'eau. Pendant la fabrication : températures de pasteurisation et de fermentation, pH, temps, suivi des ferments, contrôles d'environnement (surfaces, air). Après conditionnement : contrôle du produit fini (FMAT, coliformes, pathogènes selon le produit, composition, étiquetage), contrôle de l'emballage et traçabilité des lots. Chaque contrôle a une fréquence, une méthode normée, une limite et une action en cas d'écart, consignées dans le plan HACCP et le plan d'autosurveillance."
+   },
+   {
+    "type": "rédaction",
+    "q": "Expliquer le lien entre la qualité d'une bioanalyse et la maîtrise des rejets d'une bioindustrie.",
+    "correction": "Les analyses de contrôle permettent de vérifier la conformité des produits et des procédés, mais aussi de surveiller l'impact environnemental : dosage de la DCO, DBO5, MES, pH, métaux, solvants et agents antimicrobiens dans les effluents. Une dérive analytique (résultat faussement rassurant) peut conduire à rejeter un effluent non traité ou à sous-estimer une pollution. La fiabilité des résultats, la traçabilité et les compétences du laboratoire conditionnent donc directement la capacité de l'entreprise à respecter ses obligations environnementales et à piloter ses traitements (station d'épuration, neutralisation, filtration)."
+   }
+  ]
+ },
+ {
+  "filieres": [
+   "bts-bio"
+  ],
+  "annees": [
+   "BTS1"
+  ],
+  "matiere": "Humanités scientifiques — éthique en bioindustries",
+  "titre": "Chapitre : éthique, déontologie, RSE et confidentialité",
+  "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 T4.1 (ethique et obligations professionnelles) et T4.3 (règles d'usage du numérique) ; arrêté du 12 mars 2024 annexe V-1 (humanités scientifiques)",
+  "points": [
+   "L'éthique interroge les valeurs et les finalités de l'action ; la morale renvoie à des normes sociales ou religieuses ; la déontologie est l'ensemble des règles professionnelles obligatoires (devoir de réserve, secret professionnel, impartialité).",
+   "Débat démocratique et production des normes : les règles applicables au laboratoire (lois, règlements, normes, codes déontologiques) résultent de débats et d'arbitrages entre des valeurs parfois concurrentes (sécurité, liberté, coût, innovation).",
+   "Raisonner éthiquement : identifier les enjeux (qui est affecté, quels risques, quels droits), distinguer les faits des valeurs, confronter les principes (bienveillance, autonomie, justice, précaution) et argumenter sa position en tenant compte des normes et du contexte professionnel.",
+   "Secret professionnel et devoir de réserve : le technicien ne divulgue pas les informations confidentielles de l'entreprise, de ses clients ou des patients ; la discrétion s'applique aussi aux réseaux sociaux et aux échanges avec des prestataires.",
+   " impartialité : le technicien ne doit pas modifier un résultat sous la pression d'un client ou de la production ; l'intégrité des résultats et l'indépendance du jugement sont essentielles à la confiance dans le contrôle qualité.",
+   "Responsabilité sociétale et environnementale (RSE) : l'entreprise intègre des préoccupations sociales, éthiques et environnementales dans ses activités ; exemples : réduction des déchets, éco-conception, conditions de travail, transparence, relations avec les parties prenantes.",
+   "Enjeux humains des produits issus des bioindustries : les produits contrôlés sont destinés à l'homme ou à l'animal (aliments, médicaments, cosmétiques) : la vigilance est accrue car une erreur peut avoir des conséquences sanitaires graves ; la traçabilité et la rigueur sont des devoirs éthiques.",
+   "Conditions d'élevage, expérimentation animale et droits des animaux : la réglementation et les principes des 3R encadrent le recours aux animaux ; le technicien peut être amené à arbitrer entre nécessité scientifique et respect du vivant, ou à promouvoir des méthodes alternatives.",
+   "RGPD : principes de licéité, finalité, minimisation, exactitude, limitation de la conservation, intégrité et confidentialité des données personnelles ; droit à l'image et respect de la vie privée s'appliquent aux photos et vidéos professionnelles.",
+   "Usage professionnel des réseaux sociaux : distingler vie privée et vie professionnelle, ne pas publier d'information confidentielle ou d'image de l'entreprise sans autorisation, respecter la charte de communication et la netiquette."
+  ],
+  "questions": [
+   {
+    "type": "qcm",
+    "q": "Quelle est la différence entre éthique et déontologie ?",
+    "options": [
+     "Elles sont synonymes",
+     "L'éthique interroge les valeurs et finalités, la déontologie est un ensemble de règles professionnelles obligatoires",
+     "La déontologie est facultative",
+     "L'éthique ne concerne pas le travail"
+    ],
+    "correct": 1,
+    "correction": "L'éthique est une réflexion sur les valeurs ; la déontologie formalise des devoirs professionnels (secret, réserve, impartialité) dans un code ou une réglementation."
+   },
+   {
+    "type": "qcm",
+    "q": "Que signifie le principe de minimisation des données dans le RGPD ?",
+    "options": [
+     "Collecter le moins de données possible même si elles sont utiles",
+     "Ne collecter que les données nécessaires à la finalité déclarée",
+     "Supprimer toutes les données après 24 h",
+     "Rendre les données publiques"
+    ],
+    "correct": 1,
+    "correction": "La minimisation impose que les données traitées soient adéquates, pertinentes et limitées à ce qui est nécessaire pour la finalité poursuivie."
+   },
+   {
+    "type": "qcm",
+    "q": "Quel principe s'oppose à la modification d'un résultat sous la pression d'un client ?",
+    "options": [
+     "L'impartialité et l'intégrité professionnelle",
+     "La rentabilité",
+     "La confidentialité",
+     "La hiérarchie"
+    ],
+    "correct": 0,
+    "correction": "Le technicien doit rendre le résultat mesuré sans céder à des pressions : impartialité et intégrité sont au coeur de la déontologie du contrôle qualité."
+   },
+   {
+    "type": "qcm",
+    "q": "Que préconisent les principes des 3R ?",
+    "options": [
+     "Remplacer, Réduire, Raffiner l'expérimentation animale",
+     "Recycler, Réutiliser, Réduire les déchets",
+     "Rémunérer, Recruter, Réorganiser",
+     "Rapide, Rigoureux, Rentable"
+    ],
+    "correct": 0,
+    "correction": "Replace, Reduce, Refine : remplacer les animaux par des alternatives, réduire leur nombre, raffiner les méthodes pour limiter la souffrance."
+   },
+   {
+    "type": "rédaction",
+    "q": "Analyser la situation suivante : un client demande de « corriger » un résultat non conforme pour éviter le blocage de son lot. Quelle est la conduit à tenir ?",
+    "correction": "Refuser toute modification du résultat : le technicien doit préserver l'intégrité et l'impartialité de l'analyse. Consigner la demande, informer le responsable qualité et la hiérarchie selon la procédure, vérifier une nouvelle fois le calcul et les contrôles de la série pour s'assurer de l'exactitude du résultat, proposer au client une contre-analyse ou une expertise contradictoire, expliquer les conséquences réglementaires et sanitaires d'une falsification, et documenter l'incident. La falsification d'un résultat engage la responsabilité du laboratoire et du technicien et nuirait à la sécurité des consommateurs et à la crédibilité du laboratoire."
+   },
+   {
+    "type": "rédaction",
+    "q": "Comment concilier la publication d'un poster de présentation du laboratoire sur les réseaux sociaux avec les obligations de confidentialité ?",
+    "correction": "Obtenir l'autorisation de la hiérarchie et respecter la charte de communication ; ne publier que des informations publiques ou autorisées (présentation générale, activités, équipements non sensibles), sans nom de client, numéro de lot, résultat d'analyse ni donnée personnelle ; vérifier les photos (absence de documents, d'écrans, de badges, de personnes non consentantes) ; respecter le droit à l'image (consentement des personnes photographiées) et les mentions du RGPD ; ne pas commenter d'actualité confidentielle ni répondre à des demandes d'information sur les réseaux : les orienter vers les canaux officiels."
+   }
+  ]
+ },
+ {
+  "filieres": [
+   "bts-bio"
+  ],
+  "annees": [
+   "BTS2"
+  ],
+  "matiere": "Relations professionnelles",
+  "titre": "Chapitre : organisation du laboratoire, travail en équipe et réseau professionnel",
+  "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 S4.1.1 à S4.1.4, S4.2.1 à S4.2.3, S4.4.1 et T4.2 ; grille horaire annexe V-1",
+  "points": [
+   "Organisation d'un laboratoire de contrôle : direction, service qualité, équipes analytiques (biochimie, microbiologie, biologie moléculaire), service réception/échantillons, maintenance et achats ; des interfaces fortes avec la production, la R&D, les achats et les clients.",
+   "Rôles et responsabilités : rédacteur, vérificateur et approbateur d'un document ; responsable de la libération des lots ; responsable qualité ; technicien référent d'une méthode ou d'un équipement ; l'organigramme et les fiches de poste précisent ces rôles.",
+   "Planification : plan de charge, priorités (analyses urgentes, délais clients, durée de validité des échantillons), capacité de traitement du laboratoire, effectif disponible ; le technicien organise son poste dans le temps et l'espace et alerte en cas de surcharge.",
+   "Travail en équipe : répartir les missions selon les compétences de chacun (compétences psychosociales), coordonner les activités, partager les retours d'expérience, signaler les difficultés à la hiérarchie et maintenir une communication fluide.",
+   "Transmission et continuité : le suivi du travail (tableau de bord, logiciel LIMS, fiches de suivi) et les transmissions entre équipes garantissent la continuité du service et la traçabilité ; une communication orale complète utilement l'écrit réglementaire.",
+   "Formation et tutorat : accueillir un nouveau collaborateur ou un stagiaire, présenter le poste et l'environnement, transmettre les savoir-faire et les points critiques des techniques, vérifier la maîtrise et renseigner un compte rendu d'accompagnement ; l'habilitation est validée par le responsable.",
+   "Veille informationnelle : consulter des lettres d'information, la presse spécialisée, les sites des fournisseurs, les salons et séminaires, les réseaux professionnels et la documentation en langue anglaise ; hiérarchiser et synthétiser les informations pertinentes pour les méthodes et équipements.",
+   "Évolution professionnelle : recenser ses compétences, identifier ses besoins de formation, mettre à jour son CV et sa lettre de motivation, repérer les opportunités (licences professionnelles, certifications, mobilité).",
+   "Réseau professionnel : recenser laboratoires, entreprises, associations et salons ; entretenir des relations avec les pairs, fournisseurs, clients et prestataires ; représenter l'entreprise lors d'événements dans le respect de la charte et de la confidentialité.",
+   "Coopération qualité : contribuer à la démarche d'accréditation, participer à la rédaction d'un dossier d'audit et répondre aux questions d'un auditeur avec transparence et précision documentaire."
+  ],
+  "questions": [
+   {
+    "type": "qcm",
+    "q": "Quel document précise les rôles, missions et responsabilités des acteurs d'un laboratoire ?",
+    "options": [
+     "La fiche de données de sécurité",
+     "L'organigramme et les fiches de poste",
+     "Le bon de commande",
+     "Le rapport d'essai"
+    ],
+    "correct": 1,
+    "correction": "L'organigramme et les fiches de poste définissent les responsabilités et les relations hiérarchiques ; le référentiel mentionne également les rôles de rédacteur, vérificateur et approbateur des documents."
+   },
+   {
+    "type": "qcm",
+    "q": "Qu'est-ce qu'un plan de charge ?",
+    "options": [
+     "Un plan de recrutement",
+     "La répartition des analyses et des ressources dans le temps selon les priorités",
+     "Un plan de nettoyage",
+     "Un plan de formation uniquement"
+    ],
+    "correct": 1,
+    "correction": "Le plan de charge organise les analyses en fonction des délais, des priorités clients, de la capacité de traitement et de la disponibilité du personnel et des équipements."
+   },
+   {
+    "type": "qcm",
+    "q": "Quel est l'objectif de la veille informationnelle ?",
+    "options": [
+     "Copier les concurrents",
+     "Se tenir informé des évolutions techniques, normatives et professionnelles pour adapter sa pratique",
+     "Réduire le temps de travail",
+     "Éviter les réunions"
+    ],
+    "correct": 1,
+    "correction": "La veille permet de repérer les évolutions des méthodes, normes, équipements et réglementations afin d'adapter les pratiques du laboratoire et d'alimenter l'amélioration continue."
+   },
+   {
+    "type": "qcm",
+    "q": "Que doit contenir un compte rendu d'accompagnement d'un stagiaire ?",
+    "options": [
+     "Uniquement la date de début",
+     "Les activités confiées, les points techniques transmis, les points critiques, l'évaluation de la maîtrise et les axes de progrès",
+     "Le salaire du stagiaire",
+     "Les coordonnées des clients"
+    ],
+    "correct": 1,
+    "correction": "Le compte rendu d'accompagnement trace la formation dispensée, les compétences vérifiées et les besoins restants ; il constitue une preuve de l'habilitation progressive du stagiaire."
+   },
+   {
+    "type": "rédaction",
+    "q": "Décrire la conduite à tenir pour former un nouveau technicien à une méthode de dosage.",
+    "correction": "Préparer la séquence : présenter la méthode et son contexte (objectif, norme, spécification), montrer le poste de travail et les EPI, expliquer chaque étape du mode opératoire en explicitant les points critiques et les risques, réaliser une démonstration, faire reproduire le geste par le stagiaire sous supervision, vérifier les calculs et la traçabilité, contrôler sa maîtrise sur une série avec étalon de contrôle, donner un retour constructif et consigner la formation sur la fiche d'accompagnement ; la validation finale de l'habilitation revient au responsable."
+   },
+   {
+    "type": "rédaction",
+    "q": "Comment répondre à un auditeur qui demande pourquoi une méthode a été modifiée ?",
+    "correction": "Répondre de façon factuelle et documentée : présenter la raison de la modification (évolution de norme, demande client, dérive, optimisation), les données à l'origine de la décision (résultats de validation, comparaison de méthodes, rapports d'essais inter-laboratoires), la version du mode opératoire et sa date d'application, la procédure de révision suivie (rédacteur, vérificateur, approbateur), la formation des opérateurs et les contrôles de vérification mis en place ; montrer les enregistrements correspondants sans masquer les écarts éventuels. La transparence et la traçabilité sont plus importantes qu'une réponse improvisée."
+   }
+  ]
+ },
+ {
+  "filieres": [
+   "bts-bio"
+  ],
+  "annees": [
+   "BTS2"
+  ],
+  "matiere": "Qualité et gestion de laboratoire",
+  "titre": "Chapitre : validation et optimisation d'une méthode de bioanalyse (U7)",
+  "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025, référentiel BTS Bioanalyses en laboratoire de contrôle (RNCP38884), annexe III-1 C3.1 à C3.4, T3.2 et T3.3 ; VIM ; NF EN ISO/IEC 17025 ; pharmacopée européenne",
+  "points": [
+   "La validation démontre qu'une méthode est apte à l'emploi prévu : elle s'appuie sur les exigences du cahier des charges, de la norme ou de la pharmacopée et sur des critères d'acceptation définis à l'avance ; elle concerne une nouvelle méthode, une méthode adaptée ou un nouvel équipement.",
+   "Les caractéristiques métrologiques à évaluer (VIM) : spécificité/sélectivité, linéarité et domaine de mesure, limite de détection (LD = 3σ/pente) et de quantification (LQ = 10σ/pente), fidélité (répétabilité et reproductibilité intermédiaire), justesse/biais, exactitude, incertitude de mesure et robustesse.",
+   "Essai intra-laboratoire : étudier la méthode sur plusieurs jours, opérateurs, appareils et lots de réactifs avec des échantillons ou étalons couvrant le domaine ; calculer la moyenne, l'écart-type, le coefficient de variation et le biais par rapport à la valeur de référence ; un essai inter-laboratoires complète la validation pour une méthode normée.",
+   "Le rapport de synthèse de validation rassemble : objectif et domaine d'application, principe de la méthode, caractéristiques déterminées avec leurs valeurs et critères, comparaison aux exigences, conclusion d'acceptation ou de rejet, références normatives, versions des documents et signatures (rédacteur, vérificateur, approbateur).",
+   "Installation d'une nouvelle méthode (C3.3) : vérifier l'adéquation du principe à la matrice et à l'analyte, la sensibilité à la quantité recherchée, la disponibilité des équipements et réactifs, rédiger ou mettre à jour le mode opératoire, former les opérateurs, qualifier l'équipement et lancer une phase de suivi après mise en service.",
+   "Analyse d'une procédure existante (C3.2) : expliciter le principe de chaque étape par un organigramme opérationnel, identifier le rôle de chaque étape (pré-analytique, analytique, post-analytique), repérer les points critiques et les paramètres d'influence, examiner les avantages et inconvénients avant de proposer une modification argumentée et de réviser la version du document.",
+   "Démarche d'optimisation (C3.4) : formuler une hypothèse à partir d'un besoin (rapidité, coût, sensibilité, spécificité), choisir les paramètres à tester, construire un plan d'expérimentation avec témoins adaptés, réaliser les essais, exploiter les données (tableur, graphiques, analyse de variance) et confronter les résultats à l'hypothèse initiale.",
+   "Plan d'expérience et témoins : un plan complet ou fractionnaire permet d'étudier l'effet de plusieurs facteurs (température, pH, temps, concentration) avec un nombre d'essais réduit ; les témoins négatif, positif et de blanc sont indispensables pour interpréter les effets et distinguer la variabilité du bruit de l'effet réel ; la répétition des essais estime l'incertitude.",
+   "Comparaison métrologique de deux méthodes (C3.3/T3.3) : analyser les mêmes échantillons par les deux méthodes, comparer les moyennes (test t apparié), les dispersions (test F), la linéarité, les limites et les temps/coûts ; une méthode alternative n'est acceptable que si elle n'est pas significativement différente de la méthode de référence dans le domaine d'application revendiqué.",
+   "Innovation et numérique : veille technologique, bio-informatique, automatisation et intelligence artificielle peuvent améliorer la performance (traitement des spectres et chromatogrammes, prédiction, réduction des erreurs) ; tout changement fait l'objet d'une réévaluation de la validation, d'une mise à jour documentaire et d'un suivi des contrôles qualité après optimisation."
+  ],
+  "questions": [
+   {
+    "type": "qcm",
+    "q": "Quelle caractéristique métrologique mesure la capacité d'une méthode à ne doser que l'analyte cible en présence d'interfèrents ?",
+    "options": [
+     "La fidélité",
+     "La spécificité/sélectivité",
+     "La linéarité",
+     "La robustesse"
+    ],
+    "correct": 1,
+    "correction": "La spécificité est la capacité de ne mesurer que l’analyte cible ; la sélectivité concerne le comportement en présence d’autres composés de la matrice. La fidélité concerne la dispersion des résultats."
+   },
+   {
+    "type": "qcm",
+    "q": "Comment calcule-t-on la limite de détection LD ?",
+    "options": [
+     "LD = 10σ/pente",
+     "LD = 3σ/pente",
+     "LD = pente/σ",
+     "LD = σ × pente"
+    ],
+    "correct": 1,
+    "correction": "LD = 3σ/pente et LQ = 10σ/pente, où σ est l’écart-type du bruit (souvent du blanc) et la pente la sensibilité de la droite d’étalonnage."
+   },
+   {
+    "type": "qcm",
+    "q": "Quel essai permet de couvrir la variabilité due aux jours, opérateurs et appareils ?",
+    "options": [
+     "La répétabilité seule",
+     "La reproductibilité intermédiaire",
+     "Le blanc uniquement",
+     "Un étalon de contrôle unique"
+    ],
+    "correct": 1,
+    "correction": "La répétabilité correspond auxconditions les plus proches ; la reproductibilité intermédiaire fait varier au moins un facteur (jour, opérateur, appareil, lot de réactif) et est indispensable à la validation."
+   },
+   {
+    "type": "qcm",
+    "q": "Quel élément ne figure pas dans un rapport de synthèse de validation ?",
+    "options": [
+     "Les caractéristiques métrologiques déterminées et leurs critères",
+     "La conclusion d’acceptation ou de rejet",
+     "Les signatures et les versions des documents",
+     "Le prix de vente du produit analysé"
+    ],
+    "correct": 3,
+    "correction": "Le rapport de validation est un document technique : il contient le domaine d’application, les performances, les critères, la conclusion et les signatures ; le prix de vente n’est pas une donnée de validation."
+   },
+   {
+    "type": "rédaction",
+    "q": "Décrire les étapes d’une démarche d’optimisation d’une méthode de dosage, du besoin à la vérification après modification.",
+    "correction": "Partir d’un besoin explicite (réduire le temps d’analyse, améliorer la sensibilité, diminuer le coût) ; analyser la procédure existante par un organigramme et repérer les points critiques et les paramètres d’influence ; formuler une hypothèse testable ; construire un plan d’expérimentation avec les facteurs à étudier, leurs niveaux, les témoins (négatif, positif, blanc) et les répétitions ; réaliser les essais en conditions maîtrisées ; exploiter les résultats (moyennes, écart-types, graphiques, éventuellement analyse de variance) et confronter l’hypothèse ; rédiger le mode opératoire révisé avec nouvelle version, former les opérateurs ; vérifier la performance après modification par des contrôles qualité et une carte de contrôle ; documenter et archiver la démarche et la conclusion."
+   },
+   {
+    "type": "rédaction",
+    "q": "Comment comparer métrologiquement deux méthodes de dosage et décider de l’adoption de la méthode nouvelle ?",
+    "correction": "Analyser les mêmes échantillons (couvrant le domaine de concentration) avec les deux méthodes, dans les mêmes conditions et en double ou triple ; comparer les moyennes par un test t apparié (absence de biais significatif), les variances par un test F, les droites d’étalonnage, les limites LD/LQ, les temps et coûts ; vérifier la linéarité et la spécificité de la nouvelle méthode ; conclure à l’équivalence uniquement si l’écart est inférieur aux critères d’acceptation définis à l’avance et si la nouvelle méthode apporte un bénéfice (rapidité, coût, sensibilité) ; documenter la comparaison dans un rapport avec les données brutes et les tests statistiques."
+   },
+   {
+    "type": "rédaction",
+    "q": "Un essai de validation donne un biais de +4 % par rapport à la valeur de référence, avec un CV de 1,5 % et une LQ supérieure à la limite réglementaire. Commenter et conclure.",
+    "correction": "La fidélité est bonne (CV 1,5 %) mais la justesse est insuffisante (biais +4 %) et la sensibilité est inadaptée (LQ au-dessus de la limite réglementaire). Une méthode fidèle mais biaisée peut être corrigée par étalonnage ou ajustage, mais une LQ trop élevée interdit de quantifier au niveau exigé : la méthode n’est pas validée pour cet usage. Il faut améliorer la sensibilité (autre détecteur, concentration de l’échantillon, extraction plus efficace, autre longueur d’onde ou colonne), corriger le biais (révision de l’étalonnage, étalon interne), puis refaire l’essai de validation avant toute mise en service. La conclusion doit être tracée avec les critères non satisfaits et les actions proposées."
+   }
+  ]
+ }
+]

@@ -1,0 +1,2278 @@
+{
+  "fiches": [
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "2nde"
+      ],
+      "matiere": "Physique-Chimie",
+      "titre": "Chapitre PC1 · Structure de la matiere : atomes, ions et etats",
+      "source": "Programme de physique-chimie, BO special n° 1 du 22 janvier 2019 (classes de seconde et de premiere) · BO du 22 juillet 2020 (programme de physique-chimie de classe terminale, specialite) · eduscol, programmes officiels · notions : atome, ion, molecule, etat, masse molaire, securite",
+      "points": [
+        "La matiere est tout ce qui occupe une region de l'espace et possede une masse. Un corps pur est constitue d'une seule espece chimique (eau distillee, cuivre) ; un melange associe plusieurs constituants (air, eau salee).",
+        "L'atome est l'unite de base d'un element chimique. Il comprend un noyau central fait de protons (charge +) et de neutrons (charge nulle), entoure d'electrons (charge -) qui occupent des couches. Le diametre du noyau est environ 10 000 fois plus petit que celui de l'atome.",
+        "Le numero atomique Z egale le nombre de protons du noyau : il identifie l'element. Le nombre de masse A = Z + N, ou N est le nombre de neutrons. On note l'isotope ^A_Z X, par exemple ^12_6 C pour le carbone 12.",
+        "Un atome neutre possede autant d'electrons que de protons. Un ion est un atome ou un groupe d'atomes qui a gagne ou perdu des electrons : la perte donne un cation (Na^+, Ca^2+), le gain donne un anion (Cl^-, SO4^2-). La charge totale s'ecrit en exposant.",
+        "Une molecule est un edifice neutre forme de plusieurs atomes relies : H2O, CO2, O2. La formule chimique indique le nombre d'atomes de chaque element : H2O contient deux atomes d'hydrogene et un d'oxygene, soit trois atomes au total.",
+        "Le tableau periodique classe les elements par numero atomique croissant. Les elements d'une meme colonne (famille) ont des proprietes voisines : les alcalins (Li, Na) forment des ions +1, les halogenes (F, Cl) des ions -1, les gaz nobles sont tres peu reactifs.",
+        "La matiere existe sous trois etats : solide, liquide et gazeux. Les changements d'etat sont la fusion (solide a liquide), la solidification, la vaporisation (liquide a gaz), la condensation (gaz a liquide) et la sublimation (solide a gaz). Ils se produisent a une temperature caracteristique a pression donnee.",
+        "Un melange est homogene si sa composition est la meme en tout point (air, eau sucree) et heterogene si l'on distingue plusieurs phases (eau avec du sable, granite). On separe les constituants par filtration, decantation, distillation ou chromatographie.",
+        "La masse volumique d'un corps vaut rho = m / V, avec m en grammes et V en millilitres : rho s'exprime alors en g·mL^-1 (ou en kg·m^-3 dans le SI). Exemple : 20,0 mL d'huile pesant 18,0 g donnent rho = 0,900 g·mL^-1.",
+        "La quantite de matiere n se mesure en moles (mol) ; la masse molaire M d'un corps est la masse d'une mole, en g·mol^-1. On a n = m / M et le nombre d'entites N = n · N_A avec N_A = 6,02 × 10^23 mol^-1. Pour l'eau, M = 18,0 g·mol^-1 : 18,0 g correspondent a 1,00 mol.",
+        "La concentration en quantite de matiere d'une solution vaut c = n / V, avec n en mol et V en L, donc c en mol·L^-1. Exemple : 0,10 mol de sucre dissous dans un volume final de 0,500 L donnent c = 0,20 mol·L^-1.",
+        "La securite chimique accompagne toute manipulation : lire l'etiquette et les pictogrammes SGH (corrosif, irritant, toxique, inflammable), porter blouse, lunettes et gants, ajouter l'acide dans l'eau, ne jamais pipeter a la bouche et evacuer les dechets dans les bacs prevus."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que contient le noyau d'un atome ?",
+          "options": [
+            "Des protons et des neutrons",
+            "Deselectrons et des protons",
+            "Des electrons seulement",
+            "Des neutrons et des electrons"
+          ],
+          "correct": 0,
+          "correction": "Le noyau renferme les protons (charges positives) et les neutrons (sans charge) ; les electrons se trouvent hors du noyau, sur des couches."
+        },
+        {
+          "type": "qcm",
+          "q": "Un anion est une espece qui ...",
+          "options": [
+            "A perdu des electrons et porte une charge positive",
+            "A gagne des electrons et porte une charge negative",
+            "Contient autant de protons que d'electrons",
+            "Est toujours forme d'un seul atome"
+          ],
+          "correct": 1,
+          "correction": "Un anion (Cl^-, SO4^2-) resulte d'un gain d'electrons : il a plus d'electrons que de protons, donc une charge negative. Un cation correspond a une perte."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la quantite de matiere dans 18,0 g d'eau (M = 18,0 g·mol^-1) ?",
+          "options": [
+            "0,50 mol",
+            "1,00 mol",
+            "2,00 mol",
+            "18,0 mol"
+          ],
+          "correct": 1,
+          "correction": "n = m / M = 18,0 / 18,0 = 1,00 mol. C'est exactement la definition de la masse molaire : la masse d'une mole.",
+          "contexte": "On prepare une solution d'eau pure; la masse molaire de l'eau vaut 18,0 g·mol^-1.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "On dissout 0,10 mol de solide dans un volume final de 500 mL. Quelle est la concentration ?",
+          "options": [
+            "0,050 mol·L^-1",
+            "0,20 mol·L^-1",
+            "0,10 mol·L^-1",
+            "0,50 mol·L^-1"
+          ],
+          "correct": 1,
+          "correction": "V = 500 mL = 0,500 L, donc c = n / V = 0,10 / 0,500 = 0,20 mol·L^-1. Il faut toujours convertir le volume en litre.",
+          "contexte": "Le volume final de la solution est de 500 mL apres dissolution complete.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Lequel de ces melanges est homogene ?",
+          "options": [
+            "De l'eau avec du sable",
+            "Du granite",
+            "De l'air",
+            "De l'eau avec de l'huile"
+          ],
+          "correct": 2,
+          "correction": "L'air est un melange homogene de gaz : sa composition est la meme en tout point. Les trois autres exemples presentent plusieurs phases visibles."
+        },
+        {
+          "type": "qcm",
+          "q": "Le passage de l'etat solide a l'etat liquide s'appelle :",
+          "options": [
+            "La condensation",
+            "La fusion",
+            "La sublimation",
+            "La vaporisation"
+          ],
+          "correct": 1,
+          "correction": "La fusion fait passer un solide a l'etat liquide (glace a 0 °C) ; le passage inverse est la solidification."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel pictogramme SGH signale une substance qui detruit les tissus ?",
+          "options": [
+            "La flamme",
+            "Le crane",
+            "La corrosion",
+            "Le point d'exclamation"
+          ],
+          "correct": 2,
+          "correction": "Le pictogramme corrosion signale une substance qui attaque les tissus ou les materiaux. La flamme indique l'inflammabilite, le crane la toxicite."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer la difference entre un atome et un ion, en donnant un exemple de cation et un exemple d'anion.",
+          "reponse": "Un atome est electriquement neutre : il a autant de protons que d'electrons. Un ion a gagne ou perdu des electrons et porte une charge. Par exemple Na^+ est un cation (perte d'un electron) et Cl^- est un anion (gain d'un electron).",
+          "correction": "La reponse doit mentionner l'egalite protons/electrons pour l'atome, puis la perte (cation) ou le gain (anion) d'electrons, avec des exemples correctement ecrits."
+        },
+        {
+          "type": "texte",
+          "q": "Un liquide inconnu a une masse de 25,0 g pour un volume de 20,0 mL. Calculer sa masse volumique et dire si ce liquide peut etre de l'eau (rho eau = 1,00 g·mL^-1).",
+          "reponse": "rho = m / V = 25,0 / 20,0 = 1,25 g·mL^-1. Cette valeur est superieure a celle de l'eau (1,00 g·mL^-1) : ce n'est donc pas de l'eau pure.",
+          "correction": "On applique rho = m/V en gardant les unites g et mL, puis on compare la valeur obtenue a la reference.",
+          "contexte": "Une masse de 25,0 g de liquide occupe un volume de 20,0 mL; rho(eau) = 1,00 g·mL^-1.",
+          "calcul": true
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Toute matiere est faite d'atomes : selon qu'ils gagnent ou perdent des electrons, ils forment des ions, et selon leur organisation ils donnent solides, liquides ou gaz."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "n = m / M    ·    c = n / V    ·    rho = m / V    ·    N = n · N_A",
+          "leg": "n en mol · m en g · M en g·mol^-1 · V en L pour c (en mol·L^-1) et en mL pour rho (en g·mL^-1) · N_A = 6,02 × 10^23 mol^-1"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des grandeurs et unités",
+          "items": [
+            [
+              "n",
+              "Quantite de matiere : nombre de moles d'espece",
+              "mol"
+            ],
+            [
+              "M",
+              "Masse molaire : masse d'une mole d'espece",
+              "g·mol^-1"
+            ],
+            [
+              "c",
+              "Concentration : quantite de matiere par volume",
+              "mol·L^-1"
+            ],
+            [
+              "rho",
+              "Masse volumique : masse par volume",
+              "g·mL^-1"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Z = nombre de protons ; A = Z + N ; l'element est identifie par Z",
+            "Cation = perte d'electrons (charge +) ; anion = gain d'electrons (charge -)",
+            "Une molecule est neutre : H2O, CO2, O2, CH4",
+            "Melange homogene = composition uniforme ; heterogene = plusieurs phases",
+            "Fusion, vaporisation et sublimation absorbent de l'energie ; les passages inverses la liberent"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode pas à pas",
+          "items": [
+            "Lire la formule chimique et compter les atomes de chaque element",
+            "Determiner le nombre de protons, de neutrons et d'electrons a partir de Z et A",
+            "Convertir les volumes : 1 L = 1000 mL avant tout calcul de concentration",
+            "Calculer n = m/M puis c = n/V ou rho = m/V selon les donnees",
+            "Verifier la coherence de l'unite et des chiffres significatifs du resultat"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Confondre le nombre de masse A avec le numero atomique Z",
+            "Oublier la charge d'un ion : SO4^2- porte deux charges negatives",
+            "Utiliser le volume en mL dans c = n/V au lieu du litre",
+            "Croire qu'un melange homogene est un corps pur : l'air reste un melange",
+            "Oublier les EPI (lunettes, gants, blouse) devant un pictogramme corrosif"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">18,0 g d'eau / 18,0 g·mol^-1</span> → n = 1,00 mol",
+            "<span class=\"cle\">0,10 mol dans 0,500 L</span> → c = 0,20 mol·L^-1",
+            "<span class=\"cle\">25,0 g / 20,0 mL</span> → rho = 1,25 g·mL^-1",
+            "<span class=\"cle\">1 mol</span> → 6,02 × 10^23 entites (nombre d'Avogadro)",
+            "<span class=\"cle\">^12_6 C</span> → 6 protons, 6 neutrons, 6 electrons si l'atome est neutre"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · L'atome en coupe",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Constitution de l'atome\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Constitution de l'atome</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Particule</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Charge</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Localisation</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Proton</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">+1</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Dans le noyau</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Neutron</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">0</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Dans le noyau</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Electron</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">-1</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sur les couches</text></svg>"
+        },
+        {
+          "titre": "2 · De l'atome au melange",
+          "svg": "<svg viewBox=\"0 0 660 103\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : Organisation de la matiere\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Organisation de la matiere</text><defs><marker id=\"fl63365\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"89.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Atomes</text><text x=\"89.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Noyau +</text><text x=\"89.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">electrons,</text><text x=\"89.0\" y=\"120\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">definis par Z</text><line x1=\"163\" y1=\"68\" x2=\"175\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl63365)\"/><rect x=\"176\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"249.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Ions</text><text x=\"249.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Gain ou perte</text><text x=\"249.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">d'electrons</text><line x1=\"323\" y1=\"68\" x2=\"335\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl63365)\"/><rect x=\"336\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"409.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Molecules</text><text x=\"409.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Atomes lies,</text><text x=\"409.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">edifice neutre</text><line x1=\"483\" y1=\"68\" x2=\"495\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl63365)\"/><rect x=\"496\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"569.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Melanges</text><text x=\"569.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Plusieurs</text><text x=\"569.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">especes reunies</text></svg>"
+        },
+        {
+          "titre": "3 · Atome ou ion ?",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Neutre / charge\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Neutre / charge</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Atome neutre</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Autant de protons que d'electrons</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Aucune charge ecrite</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Exemple : Na, Cl</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Ion</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Electrons en plus ou en moins</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Charge en exposant</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Exemples : Na^+, Cl^-</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "2nde"
+      ],
+      "matiere": "Physique-Chimie",
+      "titre": "Chapitre PC2 · Transformations de la matiere et conservation",
+      "source": "Programme de physique-chimie, BO special n° 1 du 22 janvier 2019 (classes de seconde et de premiere) · BO du 22 juillet 2020 (programme de physique-chimie de classe terminale, specialite) · eduscol, programmes officiels · notions : reaction, equation equilibree, reactif limitant, avancement",
+      "points": [
+        "Une transformation chimique met en jeu des reactifs qui disparaissent et des produits qui apparaissent. Elle s'ecrit sous la forme reactifs → produits ; le sens de la fleche indique le sens d'evolution observe.",
+        "L'equation de la reaction porte les symboles des especes et leur etat : (s) solide, (l) liquide, (g) gaz, (aq) en solution aqueuse. Exemple : CH4(g) + 2 O2(g) → CO2(g) + 2 H2O(l).",
+        "Une equation est equilibree quand chaque element apparait le meme nombre de fois a gauche et a droite. Les coefficients devant les formules sont les coefficients stoechiometriques ; on ne modifie jamais les indices d'une formule pour equilibrer.",
+        "La loi de conservation de la masse (Lavoisier) s'ecrit : masse des reactifs consommes = masse des produits formes. Ainsi 16 g de methane et 64 g de dioxygene donnent 44 g de dioxyde de carbone et 36 g d'eau : 16 + 64 = 44 + 36 = 80 g.",
+        "Dans une reaction, les atomes et les elements se conservent : ils se reorganisent simplement en nouvelles especes. La charge electrique totale se conserve egalement, ce qui impose l'equilibrage des reactions entre ions.",
+        "Une equation ionique retire les ions spectateurs, qui ne participent pas a la transformation. Exemple : Ag^+(aq) + Cl^-(aq) → AgCl(s) : la formation d'un precipitate blanc d'argent est mise en Evidence, les ions nitrate ou sodium restent en solution.",
+        "Les principales transformations etudiees en seconde sont la combustion (avec le dioxygene), la precipitation (formation d'un solide), l'oxydation d'un metal, la decomposition et la reaction acide-base.",
+        "Les signes experimentaux d'une reaction chimique sont un degagement gazeux, l'apparition d'un precipitate, un changement de couleur, un degagement ou une absorption de chaleur, parfois une odeur nouvelle. Leur presence doit etre confirmee par une analyse.",
+        "Le reactif limitant est celui qui s'epuise en premier : il fixe la quantite maximale de produits. Pour 1,00 mol de CH4, il faut 2,00 mol de O2 ; si l'on ne dispose que de 1,00 mol de O2, c'est le dioxygene qui est limitant.",
+        "L'avancement de la reaction xi (en mol) verify n_i = n_i,0 + nu_i · xi, ou nu_i est le coefficient stoechiometrique signe : negatif pour un reactif, positif pour un produit. L'avancement maximal vaut xi_max = min(n_i,0 / |nu_i|) sur tous les reactifs.",
+        "La vitesse volumique de reaction se definit par v = (1/V) · (dxi/dt), en mol·L^-1·s^-1 : elle mesure l'avancement par unite de temps et de volume. Plus la valeur est grande, plus la reaction est rapide.",
+        "Toute manipulation doit respecter les regles de securite : ajouter lentement les reactifs pour maitriser un degagement de chaleur, travailler sous cape pour les gaz toxiques, porter lunettes et gants et ne jamais chauffer un recipient ferme."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Dans l'equation CH4 + 2 O2 → CO2 + 2 H2O, quels sont les reactifs ?",
+          "options": [
+            "CO2 et H2O",
+            "CH4 et O2",
+            "CH4 et CO2",
+            "O2 et H2O"
+          ],
+          "correct": 1,
+          "correction": "Les reactifs sont ecrits avant la fleche et sont consommes : CH4 et O2. Les produits (CO2 et H2O) apparaissent apres la fleche."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi ecrit-on 2 H2O a droite de l'equation de combustion du methane ?",
+          "options": [
+            "Parce que l'eau est un gaz",
+            "Pour equilibrer les atomes d'hydrogene et d'oxygene",
+            "Pour indiquer deux phases differentes",
+            "Parce que la reaction est exothermique"
+          ],
+          "correct": 1,
+          "correction": "Le coefficient 2 est un coefficient stoechiometrique : sans lui, il n'y aurait que 2 atomes d'hydrogene a droite contre 4 a gauche, et 3 atomes d'oxygene au lieu de 4."
+        },
+        {
+          "type": "qcm",
+          "q": "Si 16 g de methane reactissent avec 64 g de dioxygene, quelle est la masse totale des produits ?",
+          "options": [
+            "48 g",
+            "64 g",
+            "80 g",
+            "96 g"
+          ],
+          "correct": 2,
+          "correction": "Par conservation de la masse : 16 + 64 = 80 g. On retrouve 44 g de CO2 et 36 g de H2O, soit 80 g.",
+          "contexte": "La combustion est complete et aucun reactif ni produit ne s'echappe du systeme ferme.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "On melange 1,00 mol de CH4 et 1,00 mol de O2. Quel est le reactif limitant ?",
+          "options": [
+            "Le methane",
+            "Le dioxygene",
+            "Aucun, les deux sont en exces",
+            "Les deux simultanement"
+          ],
+          "correct": 1,
+          "correction": "La reaction demande 2 mol de O2 par mol de CH4. Avec 1,00 mol de O2 on ne peut consommer que 0,50 mol de CH4 : le dioxygene est limitant.",
+          "contexte": "Equation : CH4 + 2 O2 → CO2 + 2 H2O; les quantites initiales sont 1,00 mol de chaque reactif.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Quel signe experimental trahit la formation d'un precipitate ?",
+          "options": [
+            "Un degagement de gaz",
+            "Une apparition de solide dans la solution",
+            "Une augmentation de volume",
+            "Un changement de temperature"
+          ],
+          "correct": 1,
+          "correction": "Un precipitate est un solide insoluble qui apparait dans une solution initialement limpide, comme l'AgCl blanc lors de l'ajout d'ions chlorures a des ions argent."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est l'equation ionique de la precipitation du chlorure d'argent ?",
+          "options": [
+            "Ag^+ + Cl^- → AgCl(s)",
+            "Ag + Cl → AgCl",
+            "AgNO3 + NaCl → AgCl + NaNO3",
+            "Ag^+ + NO3^- → AgNO3(s)"
+          ],
+          "correct": 0,
+          "correction": "Seuls les ions qui forment le solide sont ecrits ; les ions nitrate et sodium sont des spectateurs et sont retires de l'equation."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce qui se conserve obligatoirement lors d'une transformation chimique ?",
+          "options": [
+            "Le nombre de molecules",
+            "La masse et le nombre d'atomes de chaque element",
+            "La couleur du melange",
+            "Le volume total des reactifs"
+          ],
+          "correct": 1,
+          "correction": "Lavoisier : la masse totale et le nombre d'atomes de chaque element se conservent ; les atomes se recombinent en nouvelles especes."
+        },
+        {
+          "type": "texte",
+          "q": "Equilibrer l'equation Fe + O2 → Fe2O3 et verifier la conservation des atomes.",
+          "reponse": "4 Fe + 3 O2 → 2 Fe2O3. A gauche : 4 atomes de fer et 6 atomes d'oxygene ; a droite : 2 × 2 = 4 atomes de fer et 2 × 3 = 6 atomes d'oxygene.",
+          "correction": "On equilibre d'abord l'oxygene (3 O2 pour 2 Fe2O3) puis le fer (4 Fe), en ne changeant jamais les indices des formules."
+        },
+        {
+          "type": "texte",
+          "q": "Pour la reaction A + 2 B → C, on part de n_A,0 = 2,0 mol et n_B,0 = 3,0 mol. Determiner le reactif limitant et l'avancement maximal xi_max.",
+          "reponse": "Pour A : n_A,0/|nu_A| = 2,0/1 = 2,0 mol. Pour B : n_B,0/|nu_B| = 3,0/2 = 1,5 mol. Le reactif limitant est B et xi_max = 1,5 mol.",
+          "correction": "L'avancement maximal est le plus petit rapport n_i,0/|nu_i| Among les reactifs : il determine le reactif limitant.",
+          "contexte": "Reaction A + 2 B → C avec 2,0 mol de A et 3,0 mol de B dans un reactor ferme.",
+          "calcul": true
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Dans une reaction, rien ne disparait : les atomes se recombinent, la masse et la charge se conservent, et le reactif limitant fixe la quantite de produits."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "n_i = n_i,0 + nu_i · xi    ·    xi_max = min(n_i,0 / |nu_i|)    ·    v = (1/V) · dxi/dt",
+          "leg": "xi en mol · nu_i coefficient signe (reactif < 0, produit > 0) · v en mol·L^-1·s^-1"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des grandeurs et unités",
+          "items": [
+            [
+              "xi",
+              "Avancement de la reaction",
+              "mol"
+            ],
+            [
+              "nu_i",
+              "Coefficient stoechiometrique signe",
+              "sans unite"
+            ],
+            [
+              "v",
+              "Vitesse volumique de reaction",
+              "mol·L^-1·s^-1"
+            ],
+            [
+              "m",
+              "Masse conservee lors de la transformation",
+              "g ou kg"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Reactifs avant la fleche, produits apres ; les etats (s), (l), (g), (aq) sont indiques",
+            "Equilibrer avec des coefficients, jamais en modifiant les indices",
+            "Masse des reactifs consommes = masse des produits formes",
+            "Les atomes, les elements et la charge se conservent",
+            "Le reactif limitant est epuise en premier ; il fixe xi_max et la masse de produit"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode pas à pas",
+          "items": [
+            "Ecrire les formules des reactifs et des produits avec leur etat",
+            "Equilibrer element par element avec des coefficients entiers les plus petits possible",
+            "Controler le nombre d'atomes de chaque element de part et d'autre de la fleche",
+            "Convertir les masses en moles avec n = m/M pour identifier le reactif limitant",
+            "Calculer xi_max puis les quantites finales avec n_i = n_i,0 + nu_i · xi_max"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Changer un indice (H2O en H2O2) au lieu d'un coefficient pour equilibrer",
+            "Oublier le facteur 2 devant O2 dans la combustion du methane",
+            "Prendre le reactif en plus grande masse pour le reactif limitant au lieu du rapport n/nu",
+            "Ecrire un ion spectateur dans l'equation ionique",
+            "Ouvrir un recipient chaud ou ajouter un reactif trop vite : risque de projection"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">CH4 + 2 O2 → CO2 + 2 H2O</span> → equation equilibree",
+            "<span class=\"cle\">16 g + 64 g</span> → 44 g + 36 g = 80 g (conservation)",
+            "<span class=\"cle\">1,00 mol CH4 + 1,00 mol O2</span> → O2 limitant",
+            "<span class=\"cle\">A + 2 B, n_B,0 = 3,0 mol</span> → xi_max = 1,5 mol",
+            "<span class=\"cle\">4 Fe + 3 O2</span> → 2 Fe2O3 (equilibrage)"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Lire une equation",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Equilibre d'une reaction\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Equilibre d'une reaction</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Element</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">A gauche</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">A droite</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">C (carbone)</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">1 atome dans CH4</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">1 atome dans CO2</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">H (hydrogene)</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">4 atomes dans CH4</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">4 atomes dans 2 H2O</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">O (oxygene)</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">4 atomes dans 2 O2</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">4 atomes (2 + 2)</text></svg>"
+        },
+        {
+          "titre": "2 · De la reaction au calcul",
+          "svg": "<svg viewBox=\"0 0 660 103\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : Demarche de dosage stoechiometrique\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Demarche de dosage stoechiometrique</text><defs><marker id=\"fl51105\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"89.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Equation</text><text x=\"89.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Ecrire et</text><text x=\"89.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">equilibrer</text><line x1=\"163\" y1=\"68\" x2=\"175\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl51105)\"/><rect x=\"176\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"249.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Moles</text><text x=\"249.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Convertir les</text><text x=\"249.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">masses</text><line x1=\"323\" y1=\"68\" x2=\"335\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl51105)\"/><rect x=\"336\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"409.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Limitant</text><text x=\"409.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Comparer</text><text x=\"409.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">n_i/|nu_i|</text><line x1=\"483\" y1=\"68\" x2=\"495\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl51105)\"/><rect x=\"496\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"569.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Avancement</text><text x=\"569.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">xi_max puis n_i</text><text x=\"569.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">finaux</text></svg>"
+        },
+        {
+          "titre": "3 · Reactif et produit",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Avant / apres reaction\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Avant / apres reaction</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Reactifs</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Consommes pendant la reaction</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Sont a gauche de la fleche</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">nu_i negatif dans n_i = n_i,0 + nu_i xi</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Produits</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Apparaissent au cours de la reaction</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Sont a droite de la fleche</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">nu_i positif dans n_i = n_i,0 + nu_i xi</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "2nde"
+      ],
+      "matiere": "Physique-Chimie",
+      "titre": "Chapitre PC3 · Analyses d'echantillons : dosage et ionogramme",
+      "source": "Programme de physique-chimie, BO special n° 1 du 22 janvier 2019 (classes de seconde et de premiere) · BO du 22 juillet 2020 (programme de physique-chimie de classe terminale, specialite) · eduscol, programmes officiels · notions : ionogramme, titrage, Beer-Lambert, courbe d'etalonnage",
+      "points": [
+        "Une analyse repond a deux questions : quelles especes sont presentes (analyse qualitative, identification) et en quelle quantite (analyse quantitative, dosage). Les deux demarches se completent pour caracteriser un echantillon.",
+        "Un echantillon doit etre representatif : on le preleve selon un protocole ecrit, on l'identifie, on le conserve a la bonne temperature et on l'etiquette. Une contamination ou une degradation rend le resultat ininterpretable.",
+        "Un ionogramme est le dosage des ions presents dans un liquide biologique (sang, urine) ou environnemental (eau). Les ions les plus suivis sont Na^+, K^+, Cl^- et Ca^2+ ; on compare les resultats a des valeurs de reference.",
+        "Le dosage par titrage consiste a ajouter progressivement une solution titrante de concentration connue a un volume mesure d'echantillon, jusqu'au point d'equivalence detecte par un indicateur ou un capteur.",
+        "Au point d'equivalence, les reactifs ont ete ajoutes en proportions stoechiometriques. Pour une reaction 1 pour 1 : c_echantillon · V_echantillon = c_titrant · V_equivalence ; dans les autres cas on introduit le rapport des coefficients.",
+        "Exemple de titrage : 10,0 mL d'une solution d'acide sont doses par une solution de soude 0,100 mol·L^-1 ; l'equivalence est atteinte pour 12,5 mL. Alors c_acide = (0,100 × 0,0125) / 0,0100 = 0,125 mol·L^-1.",
+        "En spectrophotometrie, une solution coloree absorbe une partie de la lumiere. L'absorbance A = log(I0/I) est liee a la concentration par la loi de Beer-Lambert : A = epsilon · l · c, dans le domaine ou la solution est limpide et pas trop concentree.",
+        "Dans A = epsilon · l · c, epsilon est le coefficient molaire d'absorption (en L·mol^-1·cm^-1), l la longueur du trajet optique dans la cuve (en cm) et c la concentration (en mol·L^-1). A est une grandeur sans unite.",
+        "La chaine de mesure d'un spectrophotometre est : lampe → monochromateur (choix de la longueur d'onde) → cuve témoin puis cuve echantillon → detecteur → ecran. Un blanc (solvant seul) corrige l'absorption de la cuve et du solvant.",
+        "La courbe d'etalonnage trace A en fonction de c pour des solutions etalons de concentrations connues. C'est une droite passant par l'origine ; la concentration de l'echantillon se lit en projetant son absorbance sur cette droite.",
+        "Exemple de spectrophotometrie : avec epsilon = 150 L·mol^-1·cm^-1 et l = 1,0 cm, une absorbance A = 0,45 donne c = A/(epsilon·l) = 0,45/150 = 3,0 × 10^-3 mol·L^-1.",
+        "La securite est permanente au laboratoire : acides et bases corrosifs, gants, lunettes et blouse obligatoires, ajout de l'acide dans l'eau, cape pour les vapeurs, pipetage avec une pipette et non a la bouche, et tri des dechets chimiques."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "A quoi sert un ionogramme ?",
+          "options": [
+            "A identifier le nom d'un ion inconnu",
+            "A doser les ions presents dans un echantillon liquide",
+            "A mesurer la temperature d'une solution",
+            "A separer deux solides insolubles"
+          ],
+          "correct": 1,
+          "correction": "Un ionogramme est un dosage quantitatif d'ions (Na^+, K^+, Cl^-, Ca^2+) dans un liquide biologique ou environnemental, compare a des valeurs de reference."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la relation de Beer-Lambert ?",
+          "options": [
+            "A = epsilon · l · c",
+            "A = c / (epsilon · l)",
+            "A = l / (epsilon · c)",
+            "A = epsilon · c / l"
+          ],
+          "correct": 0,
+          "correction": "L'absorbance est proportionnelle a la concentration et a la longueur du trajet optique : A = epsilon · l · c, avec epsilon en L·mol^-1·cm^-1."
+        },
+        {
+          "type": "qcm",
+          "q": "Avec epsilon = 150 L·mol^-1·cm^-1 et l = 1,0 cm, une absorbance de 0,45 correspond a :",
+          "options": [
+            "3,0 × 10^-2 mol·L^-1",
+            "3,0 × 10^-3 mol·L^-1",
+            "0,45 mol·L^-1",
+            "150 mol·L^-1"
+          ],
+          "correct": 1,
+          "correction": "c = A/(epsilon·l) = 0,45/(150 × 1,0) = 0,0030 = 3,0 × 10^-3 mol·L^-1.",
+          "contexte": "La solution est limpide et se trouve dans le domaine de validite de la loi de Beer-Lambert.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Un acide est dose par 12,5 mL de NaOH 0,100 mol·L^-1 pour 10,0 mL d'echantillon (reaction 1 pour 1). Quelle est la concentration de l'acide ?",
+          "options": [
+            "0,0800 mol·L^-1",
+            "0,100 mol·L^-1",
+            "0,125 mol·L^-1",
+            "0,250 mol·L^-1"
+          ],
+          "correct": 2,
+          "correction": "A l'equivalence : c_acide = c_base · V_eq / V_acide = 0,100 × 0,0125 / 0,0100 = 0,125 mol·L^-1.",
+          "contexte": "Le titrage est realise avec une solution titrante de soude de concentration 0,100 mol·L^-1; reaction 1 pour 1.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "A quoi sert la mesure avec le blanc ?",
+          "options": [
+            "A remplacer la cuve echantillon",
+            "A corriger l'absorption du solvant et de la cuve",
+            "A augmenter la concentration de l'echantillon",
+            "A determiner la masse molaire"
+          ],
+          "correct": 1,
+          "correction": "Le blanc contient le solvant mais pas d'analyte : il fixe le zero d'absorbance et elimine les absorptions propres du solvant et de la cuve."
+        },
+        {
+          "type": "qcm",
+          "q": "Dans la chaine de mesure, quel element selectionne la longueur d'onde ?",
+          "options": [
+            "La lampe",
+            "Le monochromateur",
+            "Le detecteur",
+            "L'ecran"
+          ],
+          "correct": 1,
+          "correction": "Le monochromateur isole la longueur d'onde de travail dans la lumiere fournie par la lampe ; le detecteur convertit la lumiere transmise en signal electrique."
+        },
+        {
+          "type": "qcm",
+          "q": "On dilue 10,0 mL d'une solution a 0,20 mol·L^-1 jusqu'a un volume final de 100 mL. Quelle est la nouvelle concentration ?",
+          "options": [
+            "0,020 mol·L^-1",
+            "0,10 mol·L^-1",
+            "0,20 mol·L^-1",
+            "2,0 mol·L^-1"
+          ],
+          "correct": 0,
+          "correction": "Lors d'une dilution, la quantite de matiere se conserve : c_final = c_initial · V_initial / V_final = 0,20 × 0,0100 / 0,100 = 0,020 mol·L^-1.",
+          "contexte": "On ajoute de l'eau distillee jusqu'a obtenir 100 mL de solution, sans perte de solute.",
+          "calcul": true
+        },
+        {
+          "type": "texte",
+          "q": "Decrire les etapes d'un dosage par spectrophotometrie à partir d'une courbe d'etalonnage.",
+          "reponse": "On choisit la longueur d'onde d'absorption maximale, on regle le zero avec le blanc, on prepare une gamme d'etalons de concentrations connues, on mesure leurs absorbances et on trace A = f(c), puis on mesure l'echantillon et on lit sa concentration par projection sur la droite d'etalonnage.",
+          "correction": "La reponse doit citer le blanc, la gamme d'etalons, la droite passant par l'origine et la lecture de la concentration de l'echantillon."
+        },
+        {
+          "type": "texte",
+          "q": "Distinguer analyse qualitative et analyse quantitative et donner un exemple de chaque pour une eau de boisson.",
+          "reponse": "L'analyse qualitative identifie les especes presentes, par exemple detecter la presence d'ions chlorures par precipitation avec des ions argent. L'analyse quantitative dose une espece, par exemple mesurer la concentration en ions Ca^2+ par titrage ou spectrophotometrie.",
+          "correction": "Il faut opposer identification et dosage, puis illustrer chaque notion par un exemple pertinent portant sur le meme echantillon."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Analyser un echantillon, c'est d'abord identifier ce qu'il contient, puis doser chaque espece par titrage ou par mesure d'absorbance."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "A = epsilon · l · c    ·    c_analyte · V_analyte = c_titrant · V_eq (reaction 1 pour 1)",
+          "leg": "epsilon en L·mol^-1·cm^-1 · l en cm · c en mol·L^-1 · volumes en L · A sans unite"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des grandeurs et unités",
+          "items": [
+            [
+              "A",
+              "Absorbance : log du rapport des intensites",
+              "sans unite"
+            ],
+            [
+              "epsilon",
+              "Coefficient molaire d'absorption",
+              "L·mol^-1·cm^-1"
+            ],
+            [
+              "V_eq",
+              "Volume de titrant a l'equivalence",
+              "mL ou L"
+            ],
+            [
+              "c",
+              "Concentration de l'espece dosee",
+              "mol·L^-1"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Analyse qualitative = identification ; analyse quantitative = dosage",
+            "L'echantillon doit etre representatif, identifie et conserve correctement",
+            "Au point d'equivalence, les reactifs sont en proportions stoechiometriques",
+            "La droite d'etalonnage A = f(c) passe par l'origine dans le domaine de Beer-Lambert",
+            "Le blanc corrige l'absorption du solvant et de la cuve"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode pas à pas",
+          "items": [
+            "Prelever et etiqueter l'echantillon selon le protocole",
+            "Choisir la methode : titrage ou spectrophotometrie",
+            "Preparer la solution titrante ou la gamme d'etalons et faire le blanc",
+            "Mesurer le volume a l'equivalence ou l'absorbance de l'echantillon",
+            "Calculer la concentration et la comparer aux valeurs de reference"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Utiliser un volume en mL dans c = n/V sans conversion en litre",
+            "Oublier le blanc : l'absorbance du solvant fausse le dosage",
+            "Sortir du domaine de linearite de Beer-Lambert (solution trop concentree)",
+            "Confondre le volume final et le volume preleve dans un titrage",
+            "Manipuler acides et bases sans lunettes ni gants"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">A = 0,45, epsilon = 150, l = 1,0</span> → c = 3,0 × 10^-3 mol·L^-1",
+            "<span class=\"cle\">0,100 mol·L^-1 × 12,5 mL / 10,0 mL</span> → c = 0,125 mol·L^-1",
+            "<span class=\"cle\">A = log(I0/I)</span> → absorbance sans unite",
+            "<span class=\"cle\">Ionogramme</span> → Na^+, K^+, Cl^-, Ca^2+",
+            "<span class=\"cle\">1 L = 1000 mL</span> → conversion systematique des volumes"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · La chaine de mesure",
+          "svg": "<svg viewBox=\"0 0 660 103\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : Dosage par absorbance\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Dosage par absorbance</text><defs><marker id=\"fl35264\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"114\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"73.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Lampe</text><text x=\"73.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Source lumineuse</text><line x1=\"131\" y1=\"68\" x2=\"143\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl35264)\"/><rect x=\"144\" y=\"52\" width=\"114\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"201.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Monochromateur</text><text x=\"201.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Choix de la</text><text x=\"201.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">longueur d'onde</text><line x1=\"259\" y1=\"68\" x2=\"271\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl35264)\"/><rect x=\"272\" y=\"52\" width=\"114\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"329.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Cuves</text><text x=\"329.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Blanc puis</text><text x=\"329.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">echantillon</text><line x1=\"387\" y1=\"68\" x2=\"399\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl35264)\"/><rect x=\"400\" y=\"52\" width=\"114\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"457.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Detecteur</text><text x=\"457.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Mesure de I et</text><text x=\"457.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">I0</text><line x1=\"515\" y1=\"68\" x2=\"527\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl35264)\"/><rect x=\"528\" y=\"52\" width=\"114\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"585.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Ecran</text><text x=\"585.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Lecture de A</text></svg>"
+        },
+        {
+          "titre": "2 · Grandeurs du dosage",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Titrage et absorbance\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Titrage et absorbance</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Grandeur</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Definition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Unite</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">c</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Concentration de</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">mol·L^-1</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">A</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">log(I0/I), absorbance</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">sans unite</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">V_eq</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Volume ajoute a</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">L</text></svg>"
+        },
+        {
+          "titre": "3 · Identification ou dosage ?",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Qualitatif / quantitatif\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Qualitatif / quantitatif</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Qualitatif</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Quelles especes sont presentes ?</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Exemple : detecter Cl^-</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Reaction de precipitation</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Quantitatif</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Quelle concentration ?</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Exemple : doser Ca^2+</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Titrage ou absorbance</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "2nde"
+      ],
+      "matiere": "Physique-Chimie",
+      "titre": "Chapitre PC4 · Energie, electricite, mouvement et signaux",
+      "source": "Programme de physique-chimie, BO special n° 1 du 22 janvier 2019 (classes de seconde et de premiere) · BO du 22 juillet 2020 (programme de physique-chimie de classe terminale, specialite) · eduscol, programmes officiels · notions : conservation de l'energie, loi d'Ohm, vitesse, onde, frequence",
+      "points": [
+        "L'energie est la capacite d'un systeme a fournir un travail. Elle se presente sous plusieurs formes : mechanique (cinetique, potentielle), chimique, electrique, thermique, lumineuse. Son unite SI est le joule (J) ; 1 kWh = 3,6 × 10^6 J.",
+        "Le principe de conservation de l'energie affirme que l'energie ne se cree ni ne se detruit : elle se transforme ou se transmet. Le rendement d'un appareil vaut eta = energie utile / energie fournie, toujours inferieur ou egal a 1.",
+        "La puissance mesure le debit d'energie : P = E / t, avec P en watts (1 W = 1 J·s^-1). Exemple : 100 J fournis en 5,0 s correspondent a une puissance de 20 W.",
+        "Un circuit electrique doit etre ferme pour qu'un courant circule. L'intensite I se mesure en ampere (A) avec un ampèremètre branches en serie ; la tension U se mesure en volt (V) avec un voltmètre branches en derivation aux bornes du dipôle.",
+        "La loi d'Ohm s'ecrit U = R · I pour un conducteur ohmique a temperature constante. La resistance R se mesure en ohms (1 Ω = 1 V·A^-1). Exemple : U = 6,0 V et I = 0,30 A donnent R = 20 Ω.",
+        "La loi des nœuds impose que la somme des intensites entrant dans un nœud egale la somme des intensites en sortie. La loi des mailles impose que la somme algebraique des tensions le long d'une boucle fermee soit nulle.",
+        "L'energie electrique consommee par un dipôle vaut E = P · t = U · I · t, avec U en V, I en A et t en s : E est alors en joules. La charge electrique transportee est Q = I · t, en coulombs (1 C = 1 A·s).",
+        "Exemple : un moteur alimente sous 12 V avec un courant de 2,0 A pendant 10 s recoit E = 12 × 2,0 × 10 = 240 J ; la puissance mise en jeu est P = U·I = 24 W.",
+        "Le mouvement d'un objet se decrit par sa position, sa vitesse v = Δx/Δt en m·s^-1 et son acceleration a = Δv/Δt en m·s^-2. Exemple : parcourir 100 m en 12,5 s donne une vitesse moyenne de 8,0 m·s^-1.",
+        "Une interaction modifie le mouvement d'un objet : elle est decrite par une force (vecteur, en newtons). Le poids d'un corps est P = m · g avec g ≈ 9,81 N·kg^-1 : une masse de 5,0 kg a un poids d'environ 49 N.",
+        "Une onde est une perturbation qui se propage en transportant de l'energie sans transport de matiere. Une onde mecanique (son, vague) necessite un milieu ; une onde electromagnetique (lumiere, radio) peut se propager dans le vide a la celerite c = 3,00 × 10^8 m·s^-1.",
+        "Un signal periodique se caracterise par sa periode T (s), sa frequence f = 1/T (Hz), sa longueur d'onde λ (m) et sa celerite v = λ · f. Exemple : un son de 440 Hz dans l'air (v ≈ 340 m·s^-1) a λ ≈ 0,77 m ; une lumiere de 500 nm a f = 6,0 × 10^14 Hz."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est l'unite de la puissance dans le Systeme international ?",
+          "options": [
+            "Le joule",
+            "Le watt",
+            "Le coulomb",
+            "Le newton"
+          ],
+          "correct": 1,
+          "correction": "P = E/t se mesure en J·s^-1, unite appelee watt (W). Le joule mesure l'energie, le coulomb la charge et le newton la force."
+        },
+        {
+          "type": "qcm",
+          "q": "Un conducteur est traverse par 0,30 A sous une tension de 6,0 V. Quelle est sa resistance ?",
+          "options": [
+            "2,0 Ω",
+            "5,0 Ω",
+            "20 Ω",
+            "180 Ω"
+          ],
+          "correct": 2,
+          "correction": "Par la loi d'Ohm, R = U/I = 6,0/0,30 = 20 Ω.",
+          "contexte": "Le conducteur est ohmique et sa temperature reste constante pendant la mesure.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Un appareil fonctionne sous 12 V avec 2,0 A pendant 10 s. Quelle energie consomme-t-il ?",
+          "options": [
+            "24 J",
+            "120 J",
+            "240 J",
+            "2400 J"
+          ],
+          "correct": 2,
+          "correction": "E = U·I·t = 12 × 2,0 × 10 = 240 J. La puissance correspondante est P = U·I = 24 W.",
+          "contexte": "La tension et l'intensite sont constantes pendant les 10 secondes de fonctionnement.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Un son de frequence 440 Hz se propage dans l'air a 340 m·s^-1. Quelle est sa longueur d'onde ?",
+          "options": [
+            "0,13 m",
+            "0,77 m",
+            "1,3 m",
+            "770 m"
+          ],
+          "correct": 1,
+          "correction": "λ = v/f = 340/440 ≈ 0,77 m. La relation generale d'une onde est v = λ·f.",
+          "contexte": "La celerite du son dans l'air est de 340 m·s^-1 et la frequence de la source est 440 Hz.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Comment brancher un voltmètre pour mesurer la tension aux bornes d'une resistance ?",
+          "options": [
+            "En serie avec la resistance",
+            "En derivation aux bornes de la resistance",
+            "En serie avec le generateur uniquement",
+            "N'importe comment"
+          ],
+          "correct": 1,
+          "correction": "Un voltmètre se branche en derivation, c'est-a-dire a cote du dipôle, alors que l'ampèremètre se branche en serie dans la boucle."
+        },
+        {
+          "type": "qcm",
+          "q": "Laquelle de ces ondes peut se propager dans le vide ?",
+          "options": [
+            "Le son",
+            "Une vague sur l'eau",
+            "Une onde sonore dans l'air",
+            "La lumiere"
+          ],
+          "correct": 3,
+          "correction": "La lumiere est une onde electromagnetique : elle ne necessite pas de milieu materiel. Les ondes mecaniques (son, vagues) en ont besoin."
+        },
+        {
+          "type": "qcm",
+          "q": "A combien de joules correspond 1 kWh ?",
+          "options": [
+            "3600 J",
+            "3,6 × 10^5 J",
+            "3,6 × 10^6 J",
+            "1 J"
+          ],
+          "correct": 2,
+          "correction": "1 kWh = 1000 W × 3600 s = 3,6 × 10^6 J. C'est l'unite courante pour la consommation electrique domestique.",
+          "contexte": "Un compteur electrique affiche une consommation de 1 kWh; on veut la convertir en joules.",
+          "calcul": true
+        },
+        {
+          "type": "texte",
+          "q": "Enoncer le principe de conservation de l'energie et expliquer pourquoi le rendement d'une machine est toujours inferieur a 1.",
+          "reponse": "L'energie ne se cree ni ne se detruit : elle se transforme ou se transmet d'un systeme a un autre. Le rendement eta = energie utile / energie fournie est inferieur a 1 car une partie de l'energie fournie est toujours convertie en formes non utiles, principalement en chaleur (et en bruit).",
+          "correction": "La reponse doit citer la conservation, la definition du rendement et les pertes (energie thermique dissipee)."
+        },
+        {
+          "type": "texte",
+          "q": "Un coureur parcourt 100 m en 12,5 s. Calculer sa vitesse moyenne, puis donner la valeur de son poids s'il a une masse de 60 kg (g = 9,81 N·kg^-1).",
+          "reponse": "v = d/t = 100/12,5 = 8,0 m·s^-1. P = m·g = 60 × 9,81 ≈ 589 N, soit environ 590 N.",
+          "correction": "On applique d'abord v = Δx/Δt puis P = m·g en gardant les unites SI (m·s^-1 et N).",
+          "contexte": "Un coureur de 60 kg parcourt 100 m en 12,5 s; on prend g = 9,81 N·kg^-1.",
+          "calcul": true
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "L'energie change de forme sans jamais disparaitre ; en electricite, en mouvement ou en ondes, tout se ramene a quelques relations simples entre grandeurs mesurees."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "P = E/t    ·    U = R·I    ·    E = U·I·t    ·    v = λ·f    ·    P = m·g",
+          "leg": "P en W · E en J · U en V · I en A · R en Ω · t en s · v(m·s^-1) = λ(m) × f(Hz) · Poids en N"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des grandeurs et unités",
+          "items": [
+            [
+              "E",
+              "Energie fournie ou recue",
+              "J (ou kWh)"
+            ],
+            [
+              "P",
+              "Puissance : energie par unite de temps",
+              "W"
+            ],
+            [
+              "I",
+              "Intensite du courant",
+              "A"
+            ],
+            [
+              "f",
+              "Frequence : nombre de periodicites par seconde",
+              "Hz"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "L'energie se conserve, mais une partie est souvent dissipee en chaleur",
+            "Ampèremètre en serie ; voltmètre en derivation",
+            "Loi des nœuds : les courants se conservent ; loi des mailles : les tensions s'equilibrent",
+            "Une onde transporte de l'energie, pas de matiere",
+            "Son = onde mecanique ; lumiere = onde electromagnetique"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode pas à pas",
+          "items": [
+            "Identifier les formes d'energie mises en jeu et le systeme etudie",
+            "Ecrire la relation entre les grandeurs (P, U, R, I, v, λ, f)",
+            "Convertir les donnees dans les unites du SI (s, m, kg, A, V)",
+            "Effectuer le calcul en controlant l'unite du resultat",
+            "Verifier la coherence physique : rendement ≤ 1, resistance positive"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Confondre energie (J) et puissance (W)",
+            "Oublier de convertir les minutes ou les kWh avant le calcul",
+            "Brancher le voltmètre en serie : le circuit est alors interrompu",
+            "Ecrire v = f/λ au lieu de v = λ·f",
+            "Confondre la masse (kg) et le poids (N) dans P = m·g"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">6,0 V / 0,30 A</span> → R = 20 Ω",
+            "<span class=\"cle\">12 V × 2,0 A × 10 s</span> → E = 240 J",
+            "<span class=\"cle\">100 m / 12,5 s</span> → v = 8,0 m·s^-1",
+            "<span class=\"cle\">340 / 440</span> → λ ≈ 0,77 m",
+            "<span class=\"cle\">60 kg × 9,81</span> → poids ≈ 590 N"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Grandeurs electriques",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Loi d'Ohm et puissance\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Loi d'Ohm et puissance</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Grandeur</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Definition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Unite</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">U</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Tension aux bornes du</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">V</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">I</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Intensite du courant</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">A</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">R</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Resistance = U/I</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Ω</text></svg>"
+        },
+        {
+          "titre": "2 · Chaine de conversion",
+          "svg": "<svg viewBox=\"0 0 660 103\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : De la source a l'energie utile\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">De la source a l'energie utile</text><defs><marker id=\"fl25264\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"89.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Source</text><text x=\"89.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Energie chimique</text><text x=\"89.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">ou electrique</text><line x1=\"163\" y1=\"68\" x2=\"175\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl25264)\"/><rect x=\"176\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"249.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Circuit</text><text x=\"249.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Courant I sous</text><text x=\"249.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">tension U</text><line x1=\"323\" y1=\"68\" x2=\"335\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl25264)\"/><rect x=\"336\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"409.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Dipôle</text><text x=\"409.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Puissance P =</text><text x=\"409.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">U·I</text><line x1=\"483\" y1=\"68\" x2=\"495\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl25264)\"/><rect x=\"496\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"569.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Sortie</text><text x=\"569.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Travail,</text><text x=\"569.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">chaleur, lumiere</text></svg>"
+        },
+        {
+          "titre": "3 · Onde mecanique / electromagnetique",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Deux familles d'ondes\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Deux familles d'ondes</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Onde mecanique</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Necessite un milieu (air, eau)</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Exemple : le son</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Celerite ≈ 340 m·s^-1 dans l'air</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Onde electromagn.</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Peut traverser le vide</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Exemple : la lumiere</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Celerite c = 3,00 × 10^8 m·s^-1</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Physique-Chimie",
+      "titre": "Chapitre PC5 · Acide-base, pH et cinetique chimique",
+      "source": "Programme de physique-chimie, BO special n° 1 du 22 janvier 2019 (classes de seconde et de premiere) · BO du 22 juillet 2020 (programme de physique-chimie de classe terminale, specialite) · eduscol, programmes officiels · notions : couple de Brønsted, pH, titrage, vitesse, catalyse",
+      "points": [
+        "Selon Brønsted, un acide est un donneur de protons H^+ et une base est un accepteur de protons. Un couple acide-base conjugue se compose de deux especes qui different par un seul proton : AH/A^- ou BH^+/B.",
+        "Une reaction acide-base est un transfert de proton : AH + B ⇌ A^- + BH^+. L'eau est amphotere : elle peut jouer le role d'acide (H2O → OH^- + H^+) ou de base (H2O + H^+ → H3O^+).",
+        "Le pH est defini par pH = -log[H3O^+], ou [H3O^+] est la concentration en ions hydronium en mol·L^-1. A 25 °C, une solution est acide si pH < 7, neutre si pH = 7 et basique si pH > 7.",
+        "Le produit ionique de l'eau vaut Kw = [H3O^+] · [OH^-] = 1,0 × 10^-14 a 25 °C. On en deduit pH + pOH = 14 pour toute solution aqueuse diluee a cette temperature.",
+        "Exemple : [H3O^+] = 1,0 × 10^-3 mol·L^-1 donne pH = -log(1,0 × 10^-3) = 3,0. Une concentration 10 fois plus grande ferait baisser le pH d'une unite.",
+        "Le titrage acido-basique suit l'evolution du pH en fonction du volume de titrant ajoute. Le point d'equivalence est au milieu de la partie la plus raide de la courbe (point d'inflexion) ; un indicateur coloré ou un pHmètre le detecte.",
+        "Pour le titrage d'un acide fort par une base forte, la reaction est H3O^+ + OH^- → 2 H2O et, a l'equivalence, c_acide · V_acide = c_base · V_eq. Exemple : 20,0 mL d'HCl titrés par 15,0 mL de NaOH 0,100 mol·L^-1 donnent c = 0,0750 mol·L^-1.",
+        "La cinetique etudie la vitesse a laquelle une reaction se deroule. La vitesse volumique v = -Δ[R]/(nu_R · Δt) = Δ[P]/(nu_P · Δt) s'exprime en mol·L^-1·s^-1 et se mesure en suivant une concentration au cours du temps.",
+        "Exemple : si [R] passe de 0,20 a 0,12 mol·L^-1 en 10,0 s (nu_R = 1), la vitesse moyenne vaut 0,080/10,0 = 8,0 × 10^-3 mol·L^-1·s^-1.",
+        "Les facteurs qui accelerent une reaction sont une hausse de temperature, une augmentation des concentrations, une plus grande surface de contact, l'agitation et l'ajout d'un catalyseur : les collisions entre particules deviennent plus frequentes et plus energetiques.",
+        "Un catalyseur offre un mecanisme alternatif dont l'energie d'activation est plus basse. Il augmente la vitesse, n'est pas consomme et ne modifie ni la constante d'equilibre ni la composition finale du melange.",
+        "Le temps de demi-reaction t_1/2 est le temps necessaire pour que la concentration du reactif limitant diminue de moitié : il permet de comparer simplement deux experiences. La securite impose d'ajouter l'acide dans l'eau et de porter lunettes et gants face aux acides et bases forts."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Selon Brønsted, qu'est-ce qu'un acide ?",
+          "options": [
+            "Un donneur de protons H^+",
+            "Un accepteur de protons H^+",
+            "Une substance qui contient toujours de l'oxygene",
+            "Une substance de pH superieur a 7"
+          ],
+          "correct": 0,
+          "correction": "Un acide de Brønsted cede un proton a une base, qui l'accepte : AH + B ⇌ A^- + BH^+."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le pH d'une solution ou [H3O^+] = 1,0 × 10^-3 mol·L^-1 ?",
+          "options": [
+            "1,0",
+            "3,0",
+            "10,0",
+            "11,0"
+          ],
+          "correct": 1,
+          "correction": "pH = -log[H3O^+] = -log(10^-3) = 3,0. La solution est acide car son pH est inferieur a 7.",
+          "contexte": "La concentration en ions hydronium de la solution vaut 1,0 × 10^-3 mol·L^-1 a 25 °C.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "20,0 mL d'HCl sont doses par 15,0 mL de NaOH 0,100 mol·L^-1. Quelle est la concentration de l'acide ?",
+          "options": [
+            "0,0500 mol·L^-1",
+            "0,0750 mol·L^-1",
+            "0,100 mol·L^-1",
+            "0,133 mol·L^-1"
+          ],
+          "correct": 1,
+          "correction": "A l'equivalence, c_HCl = c_NaOH · V_eq / V_HCl = 0,100 × 0,0150 / 0,0200 = 0,0750 mol·L^-1.",
+          "contexte": "Le titrage porte sur la reaction 1 pour 1 H3O^+ + OH^- → 2 H2O.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "La concentration d'un reactif passe de 0,20 a 0,12 mol·L^-1 en 10,0 s (nu = 1). Quelle est la vitesse moyenne ?",
+          "options": [
+            "8,0 × 10^-4 mol·L^-1·s^-1",
+            "8,0 × 10^-3 mol·L^-1·s^-1",
+            "8,0 × 10^-2 mol·L^-1·s^-1",
+            "0,80 mol·L^-1·s^-1"
+          ],
+          "correct": 1,
+          "correction": "v = -Δ[R]/Δt = (0,20 - 0,12)/10,0 = 0,080/10,0 = 8,0 × 10^-3 mol·L^-1·s^-1.",
+          "contexte": "Le suivi cinetique est effectue a volume constant pendant 10,0 secondes.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Ou se situe le point d'equivalence sur une courbe de titrage pH = f(V) ?",
+          "options": [
+            "Au pH initial",
+            "Au milieu de la chute de pH la plus raide",
+            "A pH = 7 dans tous les cas",
+            "A la fin de l'ajout de titrant"
+          ],
+          "correct": 1,
+          "correction": "Le point d'equivalence correspond au point d'inflexion de la courbe, au milieu de la zone ou le pH varie le plus brutalement."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel effet un catalyseur a-t-il sur un systeme a l'equilibre ?",
+          "options": [
+            "Il deplace l'equilibre vers les produits",
+            "Il augmente la constante d'equilibre",
+            "Il accelere l'atteinte de l'equilibre sans en changer la composition",
+            "Il consomme le reactif limitant"
+          ],
+          "correct": 2,
+          "correction": "Le catalyseur abaisse l'energie d'activation des deux sens de la reaction : l'equilibre est atteint plus vite mais sa composition reste identique."
+        },
+        {
+          "type": "qcm",
+          "q": "Une solution aqueuse a un pH de 9,0 a 25 °C. Comment est-elle ?",
+          "options": [
+            "Fortement acide",
+            "Neutre",
+            "Basique",
+            "Impossible a classifier"
+          ],
+          "correct": 2,
+          "correction": "Un pH superieur a 7 correspond a une solution basique : la concentration en ions OH^- depasse celle en ions H3O^+."
+        },
+        {
+          "type": "texte",
+          "q": "Donner la definition d'un couple acide-base conjugue et illustrer avec l'ammonium NH4^+ et l'ammoniac NH3.",
+          "reponse": "Un couple acide-base conjugue reunit deux especes qui different par un seul proton H^+ : l'une est l'acide (donneur), l'autre la base (accepteur). NH4^+ est l'acide du couple NH4^+/NH3, car NH4^+ → NH3 + H^+ ; NH3 est la base, car NH3 + H^+ → NH4^+.",
+          "correction": "La reponse doit indiquer la difference d'un seul proton et identifier correctement l'acide et la base du couple."
+        },
+        {
+          "type": "texte",
+          "q": "Cite quatre facteurs qui accelerent une reaction chimique et expliquez brievement leur effet microscopicque.",
+          "reponse": "Une hausse de temperature (particules plus rapides et plus energies), une hausse des concentrations (collisions plus frequentes), une plus grande surface de contact (plus de sites de reaction) et un catalyseur (mecanisme a plus faible energie d'activation). L'agitation agit aussi en renouvelant les interfaces.",
+          "correction": "Chaque facteur doit etre relie a la frequence des collisions ou a l'energie d'activation ; l'explication doit rester coherente avec la theorie des collisions."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Une reaction acide-base est un echange de proton que l'on suit par le pH, tandis que la cinetique mesure la vitesse a laquelle les concentrations changent."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "pH = -log[H3O^+]    ·    Kw = [H3O^+][OH^-] = 10^-14    ·    v = -Δ[R]/(nu_R·Δt)",
+          "leg": "[H3O^+] en mol·L^-1 · v en mol·L^-1·s^-1 · a 25 °C : pH + pOH = 14"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des grandeurs et unités",
+          "items": [
+            [
+              "pH",
+              "Cologarithme de la concentration en H3O^+",
+              "sans unite"
+            ],
+            [
+              "Kw",
+              "Produit ionique de l'eau a 25 °C",
+              "sans unite"
+            ],
+            [
+              "v",
+              "Vitesse volumique de reaction",
+              "mol·L^-1·s^-1"
+            ],
+            [
+              "t_1/2",
+              "Temps de demi-reaction",
+              "s (ou min)"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Acide = donneur de H^+ ; base = accepteur de H^+ (Brønsted)",
+            "Un couple conjugue differe par un seul proton",
+            "pH < 7 acide, pH = 7 neutre, pH > 7 basique a 25 °C",
+            "A l'equivalence d'un titrage acide fort/base forte : c_a V_a = c_b V_eq",
+            "Un catalyseur accelere la reaction sans deplacer l'equilibre"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode pas à pas",
+          "items": [
+            "Identifier les couples acide-base presents et ecrire le transfert de proton",
+            "Calculer le pH par pH = -log[H3O^+] ou en deduire la concentration",
+            "Au titrage, repérer le point d'inflexion de la courbe pH = f(V)",
+            "A l'equivalence, ecrire la relation de stoechiometrie entre c et V",
+            "En cinetique, mesurer Δ[R]/Δt puis en deduire la vitesse volumique"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Confondre acide (donneur) et base (accepteur) de Brønsted",
+            "Oublier le signe moins dans pH = -log[H3O^+]",
+            "Croire que le point d'equivalence est toujours a pH = 7",
+            "Utiliser le volume d'echantillon au lieu du volume a l'equivalence",
+            "Affirmer a tort qu'un catalyseur augmente le rendement d'une reaction"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">[H3O^+] = 1,0 × 10^-3</span> → pH = 3,0",
+            "<span class=\"cle\">0,100 × 15,0 / 20,0</span> → c_HCl = 0,0750 mol·L^-1",
+            "<span class=\"cle\">(0,20 - 0,12)/10,0</span> → v = 8,0 × 10^-3 mol·L^-1·s^-1",
+            "<span class=\"cle\">pH = 3</span> → pOH = 11 a 25 °C",
+            "<span class=\"cle\">NH4^+/NH3</span> → couple acide/base conjugue"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Transfert de proton",
+          "svg": "<svg viewBox=\"0 0 660 103\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : Reaction de Brønsted\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Reaction de Brønsted</text><defs><marker id=\"fl55774\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"89.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Acide AH</text><text x=\"89.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Donne H^+</text><line x1=\"163\" y1=\"68\" x2=\"175\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl55774)\"/><rect x=\"176\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"249.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Transfert</text><text x=\"249.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Proton echange</text><line x1=\"323\" y1=\"68\" x2=\"335\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl55774)\"/><rect x=\"336\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"409.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Base B</text><text x=\"409.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Accepte H^+</text><line x1=\"483\" y1=\"68\" x2=\"495\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl55774)\"/><rect x=\"496\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"569.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Conjugues</text><text x=\"569.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">A^- et BH^+</text><text x=\"569.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">formes</text></svg>"
+        },
+        {
+          "titre": "2 · Lire une courbe de titrage",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Points remarquables\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Points remarquables</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Moment</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Observation</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Information</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Depart</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">pH de l'acide seul</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Concentration initiale</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Equivalence</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Chute de pH la plus</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">n(H3O^+) = n(OH^-)</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Apres</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">pH stable, base en exces</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Titrant en exces</text></svg>"
+        },
+        {
+          "titre": "3 · Cinetique et catalyse",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Sans / avec catalyseur\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Sans / avec catalyseur</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Sans catalyseur</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Ea elevee</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Reaction plus lente</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Equilibre atteint plus tard</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Avec catalyseur</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Ea plus basse</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Reaction plus rapide</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Meme equilibre, plus vite</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Physique-Chimie",
+      "titre": "Chapitre PC6 · Oxydoreduction et electrochimie des piles",
+      "source": "Programme de physique-chimie, BO special n° 1 du 22 janvier 2019 (classes de seconde et de premiere) · BO du 22 juillet 2020 (programme de physique-chimie de classe terminale, specialite) · eduscol, programmes officiels · notions : couple redox, potentiel, anode, cathode, corrosion",
+      "points": [
+        "Une reaction d'oxydoreduction est un transfert d'electrons entre especes. L'oxydation est une perte d'electrons et la reduction est un gain d'electrons : les deux phenomenes sont toujours simultanes.",
+        "Un couple oxydant/reductant s'ecrit Ox + n e^- ⇌ Red, avec n le nombre d'electrons echanges. Exemples : Cu^2+ + 2 e^- ⇌ Cu et Fe^3+ + e^- ⇌ Fe^2+.",
+        "L'oxydant est l'espece qui capte les electrons : il s'agit du membre Ox du couple. Le reductant est l'espece qui cede ses electrons : c'est le membre Red du couple. Le reductant est oxyde, l'oxydant est reduit.",
+        "Une reaction redox s'obtient en additionnant deux demi-reactions apres avoir egalise le nombre d'electrons. Exemple : Zn → Zn^2+ + 2 e^- et Cu^2+ + 2 e^- → Cu donnent Zn + Cu^2+ → Zn^2+ + Cu.",
+        "Le potentiel d'electrode E (en volts) mesure la tendance d'un couple a capter des electrons : plus E est grand, plus l'oxydant du couple est fort. Les valeurs tabulees sont donnees par rapport a l'electrode standard a hydrogene, de potentiel zero.",
+        "A 25 °C et en conditions standards, E°(Cu^2+/Cu) = +0,34 V et E°(Zn^2+/Zn) = -0,76 V : le cuivre est un oxydant plus fort que le zinc, qui est un reductant plus fort.",
+        "La force electromotrice d'une pile est la difference des potentiels de reduction : E_pile = E_cathode - E_anode. Pour la pile Daniell zinc-cuivre, E_pile = 0,34 - (-0,76) = 1,10 V.",
+        "Dans une pile, l'anode est le pole negatif ou a lieu l'oxydation ; la cathode est le pole positif ou a lieu la reduction. Les electrons circulent dans le circuit externe de l'anode vers la cathode, tandis que les ions migrent dans l'electrolyte.",
+        "Une pile comprend deux electrodes, deux solutions d'electrolytes et un separateur (pont salin) qui maintient l'electroneutralite en laissant passer les ions sans melanger les solutions.",
+        "La relation de Nernst (a 25 °C) ecrit E = E° + (0,0592/n) · log([Ox]/[Red]) : la concentration des especes modifie le potentiel. Pour le couple Cu^2+/Cu avec [Cu^2+] = 0,010 mol·L^-1, E = 0,34 + 0,0296 · log(0,010) ≈ 0,28 V.",
+        "La corrosion du fer est une oxydation : Fe → Fe^2+ + 2 e^-, puis les ions forment la rouille. On peut proteger un metal par un revetement ou par une anode sacrificielle de zinc, qui s'oxyde a la place du fer.",
+        "La manipulation des metaux et des electrolytes exige des précautions : eviter les courts-circuits, ne pas toucher les bornes avec les mains mouillees, porter gants et lunettes et recycler les piles en fin de vie."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce que l'oxydation ?",
+          "options": [
+            "Un gain d'electrons",
+            "Une perte d'electrons",
+            "Un echange de protons",
+            "Une formation d'eau"
+          ],
+          "correct": 1,
+          "correction": "L'oxydation correspond a une perte d'electrons (Zn → Zn^2+ + 2 e^-) ; la reduction est le gain d'electrons. Les deux reactions sont couplees."
+        },
+        {
+          "type": "qcm",
+          "q": "Dans le couple Cu^2+/Cu, quelle espece est l'oxydant ?",
+          "options": [
+            "Cu (metal)",
+            "Cu^2+ (ion)",
+            "Les deux",
+            "Aucune"
+          ],
+          "correct": 1,
+          "correction": "L'oxydant est le membre du couple qui peut capter des electrons : Cu^2+ + 2 e^- → Cu. Le metal Cu est le reductant du couple."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la tension de la pile Daniell Zn/Zn^2+ // Cu^2+/Cu ?",
+          "options": [
+            "0,42 V",
+            "1,10 V",
+            "-1,10 V",
+            "0,34 V"
+          ],
+          "correct": 1,
+          "correction": "E_pile = E_cathode - E_anode = 0,34 - (-0,76) = 1,10 V. La reaction est spontanee car E_pile est positif.",
+          "contexte": "On utilise les potentiels standards E°(Cu^2+/Cu) = +0,34 V et E°(Zn^2+/Zn) = -0,76 V.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Pour le couple Cu^2+/Cu (n = 2), que vaut E si [Cu^2+] = 0,010 mol·L^-1 (E° = 0,34 V) ?",
+          "options": [
+            "0,34 V",
+            "0,31 V",
+            "0,28 V",
+            "0,22 V"
+          ],
+          "correct": 2,
+          "correction": "E = E° + (0,0592/2)·log[Cu^2+] = 0,34 + 0,0296 × (-2) = 0,34 - 0,0592 ≈ 0,28 V.",
+          "contexte": "La relation de Nernst s'applique a 25 °C avec le solide Cu de activite egale a 1.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Dans une pile, ou a lieu l'oxydation ?",
+          "options": [
+            "A l'anode, pole negatif",
+            "A la cathode, pole positif",
+            "Dans le pont salin",
+            "Dans le circuit externe uniquement"
+          ],
+          "correct": 0,
+          "correction": "L'anode est le pole negatif de la pile : le metal y cede des electrons (oxydation). La cathode recevoit ces electrons et reduit les ions."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment proteger une structure en fer de la corrosion ?",
+          "options": [
+            "En la reliant a une anode sacrificielle de zinc",
+            "En la mettant en court-circuit",
+            "En la plongeant dans l'eau salee",
+            "En la chauffant fortement"
+          ],
+          "correct": 0,
+          "correction": "Le zinc, plus reducteur que le fer, s'oxyde a sa place : c'est une protection cathodique par anode sacrificielle."
+        },
+        {
+          "type": "qcm",
+          "q": "Dans le circuit externe d'une pile zinc-cuivre, ou vont les electrons ?",
+          "options": [
+            "Du cuivre vers le zinc",
+            "Du zinc vers le cuivre",
+            "Du pont salin vers l'anode",
+            "Ils ne circulent pas"
+          ],
+          "correct": 1,
+          "correction": "Les electrons sont produits a l'anode (zinc, oxydation) et consommes a la cathode (cuivre, reduction) : ils vont du zinc vers le cuivre.",
+          "contexte": "La pile Zn/Zn^2+ // Cu^2+/Cu est reliée a un moteur par des fils conducteurs."
+        },
+        {
+          "type": "texte",
+          "q": "Ecrire les deux demi-reactions puis l'equation globale de la pile zinc-cuivre.",
+          "reponse": "A l'anode : Zn(s) → Zn^2+(aq) + 2 e^- (oxydation). A la cathode : Cu^2+(aq) + 2 e^- → Cu(s) (reduction). En additionnant : Zn(s) + Cu^2+(aq) → Zn^2+(aq) + Cu(s).",
+          "correction": "Les electrons doivent s'annuler : les deux demi-reactions mettent en jeu 2 electrons, ce qui donne l'equation globale."
+        },
+        {
+          "type": "texte",
+          "q": "Calculer l'energie libre standard ΔG° de la reaction Zn + Cu^2+ → Zn^2+ + Cu (n = 2, E° = 1,10 V, F = 96 500 C·mol^-1). La reaction est-elle spontanee ?",
+          "reponse": "ΔG° = -n·F·E° = -2 × 96 500 × 1,10 = -212 300 J·mol^-1, soit environ -212 kJ·mol^-1. Comme ΔG° < 0, la reaction est spontanee dans le sens ecrit.",
+          "correction": "On applique ΔG° = -nFE° en gardant n en mol d'electrons, F en C·mol^-1 et E° en V ; le signe negatif de ΔG° prouve la spontaneite.",
+          "contexte": "La reaction met en jeu 2 electrons par mole de reaction et la tension standard de la pile vaut 1,10 V.",
+          "calcul": true
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Une reaction redox transfert des electrons : en separant oxydation et reduction dans deux compartiments, on fabrique une pile qui delivre une tension."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "Ox + n e^- ⇌ Red    ·    E_pile = E_cathode - E_anode    ·    E = E° + (0,0592/n)·log([Ox]/[Red])",
+          "leg": "E en V · n nombre d'electrons · log decimal · a 25 °C · E°(H^+/H2) = 0 V par convention"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des grandeurs et unités",
+          "items": [
+            [
+              "E",
+              "Potentiel d'electrode ou tension de pile",
+              "V"
+            ],
+            [
+              "n",
+              "Nombre d'electrons echanges",
+              "mol d'e^-"
+            ],
+            [
+              "F",
+              "Constante de Faraday = 96 500 C·mol^-1",
+              "C·mol^-1"
+            ],
+            [
+              "ΔG°",
+              "Energie libre standard de reaction",
+              "J·mol^-1"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Oxydation = perte d'electrons ; reduction = gain d'electrons",
+            "Le membre Ox du couple est l'oxydant, le couple s'ecrit Ox + n e^- ⇌ Red",
+            "Anode = oxydation, pole - ; cathode = reduction, pole +",
+            "Les electrons vont de l'anode vers la cathode dans le circuit externe",
+            "E_pile > 0 implique une reaction spontanee et ΔG° < 0"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode pas à pas",
+          "items": [
+            "Ecrire les deux demi-reactions avec leur nombre d'electrons",
+            "Egaliser les electrons puis les additionner pour obtenir l'equation globale",
+            "Repérer l'anode (oxydation) et la cathode (reduction)",
+            "Calculer E_pile = E_cathode - E_anode avec les potentiels de reduction",
+            "Utiliser Nernst si les concentrations ne sont pas standards"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Inverser le signe de E_anode dans E_pile = E_cathode - E_anode",
+            "Confondre oxydant et reductant au sein d'un couple",
+            "Oublier de multiplier les demi-reactions pour egaliser les electrons",
+            "Ecrire log([Red]/[Ox]) au lieu de log([Ox]/[Red]) dans Nernst",
+            "Laisser une pile en court-circuit ou manipuler des electrolytes sans protection"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">0,34 - (-0,76)</span> → E_pile = 1,10 V",
+            "<span class=\"cle\">[Cu^2+] = 0,010</span> → E ≈ 0,28 V (Nernst)",
+            "<span class=\"cle\">-2 × 96 500 × 1,10</span> → ΔG° ≈ -212 kJ·mol^-1",
+            "<span class=\"cle\">Zn → Zn^2+ + 2 e^-</span> → oxydation a l'anode",
+            "<span class=\"cle\">Fe → Fe^2+ + 2 e^-</span> → debut de la corrosion"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Les deux demi-reactions",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Anode et cathode\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Anode et cathode</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Electrode</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Reaction</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Pole</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Anode</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Oxydation (perte d'e^-)</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Negatif</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Cathode</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Reduction (gain d'e^-)</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Positif</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Pont salin</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Migration des ions</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Neutre</text></svg>"
+        },
+        {
+          "titre": "2 ·fonctionnement d'une pile",
+          "svg": "<svg viewBox=\"0 0 660 103\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : Circuit d'une pile\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Circuit d'une pile</text><defs><marker id=\"fl58809\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"89.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Anode Zn</text><text x=\"89.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Zn → Zn^2+ + 2</text><text x=\"89.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">e^-</text><line x1=\"163\" y1=\"68\" x2=\"175\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl58809)\"/><rect x=\"176\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"249.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Fil externe</text><text x=\"249.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Electrons vers</text><text x=\"249.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">la cathode</text><line x1=\"323\" y1=\"68\" x2=\"335\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl58809)\"/><rect x=\"336\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"409.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Cathode Cu</text><text x=\"409.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Cu^2+ + 2 e^- →</text><text x=\"409.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Cu</text><line x1=\"483\" y1=\"68\" x2=\"495\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl58809)\"/><rect x=\"496\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"569.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Pont salin</text><text x=\"569.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Equilibre des</text><text x=\"569.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">charges</text></svg>"
+        },
+        {
+          "titre": "3 · Oxydation / reduction",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Les deux camps du couple\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Les deux camps du couple</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Oxydation</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Perte d'electrons</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">A l'anode</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Reductant consomme</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Reduction</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Gain d'electrons</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">A la cathode</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Oxydant consomme</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Physique-Chimie",
+      "titre": "Chapitre PC7 · Thermochimie, lumiere et couleurs",
+      "source": "Programme de physique-chimie, BO special n° 1 du 22 janvier 2019 (classes de seconde et de premiere) · BO du 22 juillet 2020 (programme de physique-chimie de classe terminale, specialite) · eduscol, programmes officiels · notions : enthalpie, loi de Hess, longueur d'onde, interfences, couleurs",
+      "points": [
+        "Une reaction exothermique degage de la chaleur au milieu exterieur : son enthalpie de reaction est negative (ΔH < 0). Une reaction endothermique absorbe de la chaleur : ΔH > 0. La combustion du methane a ainsi ΔH ≈ -890 kJ·mol^-1.",
+        "L'enthalpie H est une fonction d'etat : sa variation ΔH ne depend que des etats initial et final, et non du chemin suivi. A pression constante, ΔH = Q, la chaleur echangee, exprimee en kJ·mol^-1.",
+        "La loi de Hess permet de calculer un ΔH inaccessible experimentalement en additionnant les variations d'enthalpie d'etapes intermedias qui conduisent aux memes etats initial et final.",
+        "Une estimation de ΔH s'obtient avec les energies de liaison : ΔH ≈ somme des energies des liaisons rompues - somme des energies des liaisons formees. Une reaction est exothermique si les liaisons formees sont plus solides que les liaisons rompues.",
+        "La chaleur recue ou cede par une masse m de matiere lors d'un ecart de temperature ΔT vaut Q = m·c·ΔT, avec c la capacite thermique massique (pour l'eau, c ≈ 4,18 J·g^-1·K^-1). Exemple : 100 g d'eau chauffes de 5,0 K recoit Q ≈ 2090 J.",
+        "La lumiere est une onde electromagnetique : sa celerite dans le vide vaut c = 3,00 × 10^8 m·s^-1 et elle verifie c = λ·ν, ou λ est la longueur d'onde (m) et ν la frequence (Hz). Le domaine visible s'etend environ de 400 a 800 nm.",
+        "Le spectre electromagnetique classe les ondes par frequence croissante : radio, micro-ondes, infrarouge, visible, ultraviolet, rayons X et gamma. Plus la frequence est grande, plus l'energie transportee est grande.",
+        "Le modele ondulatoire rend compte des interfences et de la diffraction : deux ondes coherentes se renforcent si leur difference de marche vaut un multiple entier de λ et s'annulent si elle vaut (k + 1/2)λ.",
+        "Une lumiere est dite monochromatique si elle contient une seule longueur d'onde ; la lumiere blanche est une superposition de toutes les longueurs d'onde du visible, que le prisme ou le reseau separent en spectre.",
+        "La couleur perçue depend de la longueur d'onde dominante. Une solution coloree absorbe certaines longueurs d'onde et transmet les autres : sa couleur apparente est celle des longueurs d'onde transmises, dite complementaire de celle qui est absorbee.",
+        "Un spectrophotometre mesure l'absorbance A = log(I0/I) en fonction de la longueur d'onde. Le pic d'absorption λ_max caracterise l'espece et sert a regler l'appareil pour un dosage par Beer-Lambert.",
+        "Exemple : une lumiere de λ = 600 nm a une frequence ν = c/λ = 3,00 × 10^8 / 6,00 × 10^-7 = 5,00 × 10^14 Hz. L'energie d'un photon associe est E = hν ≈ 3,3 × 10^-19 J, soit environ 2,1 eV."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Comment qualifier une reaction pour laquelle ΔH < 0 ?",
+          "options": [
+            "Endothermique",
+            "Exothermique",
+            "Athermique",
+            "Spontanee quelles que soient les conditions"
+          ],
+          "correct": 1,
+          "correction": "ΔH < 0 signifie que la reaction degage de la chaleur : elle est exothermique, comme la combustion. ΔH > 0 caracterise une reaction endothermique."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle chaleur faut-il fournir a 100 g d'eau pour l'echauffer de 5,0 K (c = 4,18 J·g^-1·K^-1) ?",
+          "options": [
+            "209 J",
+            "418 J",
+            "2090 J",
+            "20 900 J"
+          ],
+          "correct": 2,
+          "correction": "Q = m·c·ΔT = 100 × 4,18 × 5,0 = 2090 J, soit environ 2,1 kJ.",
+          "contexte": "On chauffe 100 g d'eau de 5,0 K sans changement d'etat; c(eau) = 4,18 J·g^-1·K^-1.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la frequence d'une lumiere de longueur d'onde 600 nm ?",
+          "options": [
+            "5,00 × 10^12 Hz",
+            "5,00 × 10^14 Hz",
+            "2,00 × 10^14 Hz",
+            "1,80 × 10^18 Hz"
+          ],
+          "correct": 1,
+          "correction": "λ = 600 nm = 6,00 × 10^-7 m, donc ν = c/λ = 3,00 × 10^8 / 6,00 × 10^-7 = 5,00 × 10^14 Hz.",
+          "contexte": "La lumiere se propage dans le vide ou c = 3,00 × 10^8 m·s^-1.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Avec epsilon = 100 L·mol^-1·cm^-1, l = 1,0 cm et A = 0,30, quelle est la concentration ?",
+          "options": [
+            "3,0 × 10^-4 mol·L^-1",
+            "3,0 × 10^-3 mol·L^-1",
+            "0,30 mol·L^-1",
+            "30 mol·L^-1"
+          ],
+          "correct": 1,
+          "correction": "c = A/(epsilon·l) = 0,30/(100 × 1,0) = 3,0 × 10^-3 mol·L^-1.",
+          "contexte": "La mesure est realisee a la longueur d'onde d'absorption maximale du compose.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Une solution absorbe la lumiere bleue (environ 450 nm). Quelle couleur parait-elle ?",
+          "options": [
+            "Bleue",
+            "Verte",
+            "Orangee (complementaire du bleu)",
+            "Incolore"
+          ],
+          "correct": 2,
+          "correction": "La couleur apparente est celle des longueurs d'onde transmises, complementaire de celles qui sont absorbees : l'absorption du bleu donne une apparence orangee."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel phenomene est une preuve du caractere ondulatoire de la lumiere ?",
+          "options": [
+            "L'effet photoelectrique",
+            "Les interfences",
+            "La loi de Beer-Lambert",
+            "La combustion"
+          ],
+          "correct": 1,
+          "correction": "Les interfences et la diffraction sont characteristicques des ondes : elles resultent de la superposition des ondes coherentes."
+        },
+        {
+          "type": "qcm",
+          "q": "Dans le spectre visible, quelle couleur correspond a la plus courte longueur d'onde ?",
+          "options": [
+            "Le rouge",
+            "L'orange",
+            "Le bleu",
+            "Le vert"
+          ],
+          "correct": 2,
+          "correction": "Le domaine visible va d'environ 400 nm (violet/bleu) a 800 nm (rouge) : plus la longueur d'onde est courte, plus la frequence et l'energie du photon sont grandes."
+        },
+        {
+          "type": "texte",
+          "q": "Enoncer la loi de Hess et expliquer pourquoi elle permet de calculer un ΔH difficile a mesurer.",
+          "reponse": "La variation d'enthalpie d'une reaction ne depend que des etats initial et final : elle est egale a la somme des ΔH des reactions intermediaires qui relient ces memes etats. On peut donc remplacer une reaction difficile a realiser par une suite de reactions dont les ΔH sont connus, puis les additionner.",
+          "correction": "La reponse doit faire apparaitre le caracter de fonction d'etat de H et l'additivite des ΔH le long d'un chemin equivalent."
+        },
+        {
+          "type": "texte",
+          "q": "Calculer l'energie d'un photon de longueur d'onde 600 nm (h = 6,626 × 10^-34 J·s). La convertir en eV (1 eV = 1,602 × 10^-19 J).",
+          "reponse": "E = h·c/λ = 6,626 × 10^-34 × 3,00 × 10^8 / 6,00 × 10^-7 ≈ 3,31 × 10^-19 J. En eV : E ≈ 3,31 × 10^-19 / 1,602 × 10^-19 ≈ 2,07 eV.",
+          "correction": "On utilise E = hν = hc/λ puis on divise par la valeur d'un electronvolt pour changer d'unite.",
+          "contexte": "Un photon de lumiere visible de longueur d'onde 600 nm est emis par une source.",
+          "calcul": true
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Une reaction echange de la chaleur (ΔH), et la lumiere se comporte comme une onde dont la longueur d'onde determine la couleur et l'energie."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "Q = m·c·ΔT    ·    c = λ·ν    ·    E = hν = h·c/λ",
+          "leg": "Q en J · c(eau) = 4,18 J·g^-1·K^-1 · λ en m · ν en Hz · h = 6,626 × 10^-34 J·s"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des grandeurs et unités",
+          "items": [
+            [
+              "ΔH",
+              "Enthalpie de reaction",
+              "kJ·mol^-1"
+            ],
+            [
+              "λ",
+              "Longueur d'onde de l'onde lumineuse",
+              "m (ou nm)"
+            ],
+            [
+              "ν",
+              "Frequence de l'onde",
+              "Hz"
+            ],
+            [
+              "E",
+              "Energie d'un photon",
+              "J (ou eV)"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "ΔH < 0 : exothermique ; ΔH > 0 : endothermique",
+            "L'enthalpie est une fonction d'etat : independante du chemin (Hess)",
+            "c = λν avec c = 3,00 × 10^8 m·s^-1 dans le vide",
+            "Visible : environ 400 a 800 nm ; le bleu a la plus courte longueur d'onde",
+            "La couleur observee est complementaire de la couleur absorbee"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode pas à pas",
+          "items": [
+            "Distinguer bilan thermique (ΔH, Q) et bilan optique (λ, ν, E)",
+            "Convertir les longueurs d'onde en metres avant d'utiliser c = λν",
+            "Pour un bilan thermique, appliquer Q = m·c·ΔT ou la loi de Hess",
+            "Repérer λ_max sur le spectre d'absorption avant un dosage",
+            "En deduire la couleur transmise (complementaire de la couleur absorbee)"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Confondre le signe de ΔH pour une reaction exothermique et endothermique",
+            "Oublier de convertir les nm en m dans c = λν",
+            "Ecrire ν = λ·c au lieu de ν = c/λ",
+            "Croire qu'une solution parait de la couleur qu'elle absorbe",
+            "Appliquer Beer-Lambert hors du domaine de linearite de l'absorbance"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">100 g × 4,18 × 5,0 K</span> → Q ≈ 2090 J",
+            "<span class=\"cle\">λ = 600 nm</span> → ν = 5,00 × 10^14 Hz",
+            "<span class=\"cle\">A = 0,30, epsilon = 100</span> → c = 3,0 × 10^-3 mol·L^-1",
+            "<span class=\"cle\">E = hc/λ</span> → 3,31 × 10^-19 J ≈ 2,07 eV",
+            "<span class=\"cle\">CH4 + 2 O2</span> → ΔH ≈ -890 kJ·mol^-1"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Bilan thermique",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Exothermique / endothermique\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Exothermique / endothermique</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Reaction</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Signe de ΔH</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Echange de chaleur</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Exothermique</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">ΔH &lt; 0</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Chaleur degagee</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Endothermique</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">ΔH &gt; 0</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Chaleur absorbee</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Hess</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Somme des etapes</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Independant du chemin</text></svg>"
+        },
+        {
+          "titre": "2 · De la source a la couleur",
+          "svg": "<svg viewBox=\"0 0 660 103\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : Spectre et perception\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Spectre et perception</text><defs><marker id=\"fl69146\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"89.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Lampe</text><text x=\"89.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Lumiere blanche</text><line x1=\"163\" y1=\"68\" x2=\"175\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl69146)\"/><rect x=\"176\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"249.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Solution</text><text x=\"249.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Absorption a</text><text x=\"249.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">certaines λ</text><line x1=\"323\" y1=\"68\" x2=\"335\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl69146)\"/><rect x=\"336\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"409.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Spectro</text><text x=\"409.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Mesure de A(λ)</text><line x1=\"483\" y1=\"68\" x2=\"495\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl69146)\"/><rect x=\"496\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"569.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Œil</text><text x=\"569.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Couleur</text><text x=\"569.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">complementaire</text></svg>"
+        },
+        {
+          "titre": "3 · Onde et photon",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Deux descriptions de la lumiere\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Deux descriptions de la lumiere</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Modele ondulatoire</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Interferences, diffraction</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">c = λν</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Longueur d'onde λ</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Modele corpusculaire</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Photon d'energie E</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">E = hν = hc/λ</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Effet photoelectrique</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "Physique-Chimie",
+      "titre": "Chapitre PC8 · Thermodynamique, equilibres et catalyse",
+      "source": "Programme de physique-chimie, BO special n° 1 du 22 janvier 2019 (classes de seconde et de premiere) · BO du 22 juillet 2020 (programme de physique-chimie de classe terminale, specialite) · eduscol, programmes officiels · notions : equilibrie dynamique, constante K, quotient reactionnel, Arrhenius",
+      "points": [
+        "Un equilibre chimique est un etat dynamique : la reaction directe et la reaction inverse se deroulent en permanence a la meme vitesse. Les concentrations des especes restent alors constantes, sans que les reactions s'arretent.",
+        "La constante d'equilibre associee a aA + bB ⇌ cC + dD vaut K = [C]^c[D]^d / ([A]^a[B]^b), ou les concentrations sont exprimees en mol·L^-1. Sa valeur ne depend que de la temperature.",
+        "Le quotient reactionnel Q_r a la meme expression que K mais avec les concentrations du melange etudie. Si Q_r < K, le systeme evolue dans le sens direct ; si Q_r > K, il evolue en sens inverse ; si Q_r = K, il est a l'equilibre.",
+        "Exemple : pour A + B ⇌ C avec [A] = [B] = 0,10 mol·L^-1 et [C] = 0,20 mol·L^-1, Q_r = 0,20/(0,10 × 0,10) = 20. Si K = 10, alors Q_r > K : la reaction recule vers les reactifs.",
+        "Le principe de Le Chatelier prevoit le deplacement d'un equilibre perturbe : ajout d'un reactif ou retrait d'un produit favorise le sens direct ; une hausse de pression favorise le cote qui a le moins de moles de gaz ; une hausse de temperature favorise le sens endothermique.",
+        "Un catalyseur accelere les deux sens de la reaction et permet d'atteindre l'equilibre plus rapidement, mais il ne modifie ni la valeur de K ni la composition a l'equilibre : il abaisse l'energie d'activation sans changer la thermodynamique.",
+        "L'energie libre de Gibbs determine la spontaneite : ΔG = ΔH - T·ΔS. Une reaction est spontanee si ΔG < 0, a l'equilibre si ΔG = 0, et non spontanee dans le sens ecrit si ΔG > 0 (elle peut alors se derouler en sens inverse).",
+        "En conditions standards, ΔG° = -R·T·ln K, avec R = 8,314 J·mol^-1·K^-1 et T en kelvin. Une grande constante K (K > 1) correspond a ΔG° < 0 : l'equilibre favorise les produits.",
+        "Exemple : avec ΔH = -100 kJ·mol^-1 et ΔS = -0,20 kJ·mol^-1·K^-1 a 298 K, ΔG = -100 - 298 × (-0,20) = -100 + 59,6 = -40,4 kJ·mol^-1 : la reaction reste spontanee a cette temperature.",
+        "Pour les gaz, la constante peut s'ecrire avec les pressions partielles : K_p = K_c·(R·T)^Δn, ou Δn est la difference de moles gazeuses entre produits et reactifs. Le choix des unites doit etre explicite.",
+        "La cinetique chimique s'appuie sur une loi de vitesse determinee experimentalement : v = k·[A]^α·[B]^β, ou α et β sont les ordres partiels et k la constante de vitesse. L'ordre global est α + β ; il n'est pas forcement egal aux coefficients stoechiometriques.",
+        "La relation d'Arrhenius k = A·e^(-E_a/(R·T)) relie la constante de vitesse a la temperature : plus E_a est grande, plus k est sensible a la temperature. Une hausse de 10 °C multiplie souvent la vitesse par 2 a 4. Pour une reaction d'ordre 1, t_1/2 = ln2/k : si k = 0,10 min^-1, t_1/2 ≈ 6,9 min."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "A l'equilibre chimique, que peut-on affirmer ?",
+          "options": [
+            "Toutes les reactions sont arretees",
+            "Les vitesses aller et retour sont egales",
+            "Les concentrations des reactifs sont nulles",
+            "La constante K vaut toujours 1"
+          ],
+          "correct": 1,
+          "correction": "L'equilibre est dynamique : les deux reactions continuent a la meme vitesse, d'ou la constance des concentrations."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est l'effet d'un catalyseur sur la constante d'equilibre K ?",
+          "options": [
+            "Il l'augmente",
+            "Il la diminue",
+            "Il ne la modifie pas",
+            "Il la rend nulle"
+          ],
+          "correct": 2,
+          "correction": "Le catalyseur agit sur la cinetique (E_a plus basse) et non sur la thermodynamique : K et la composition a l'equilibre restent inchanges."
+        },
+        {
+          "type": "qcm",
+          "q": "Pour A + B ⇌ C, on a [A] = [B] = 0,10 et [C] = 0,20 mol·L^-1, avec K = 10. Que se passe-t-il ?",
+          "options": [
+            "Q_r = 20 > K, la reaction va en sens inverse",
+            "Q_r = 20 > K, la reaction va en sens direct",
+            "Q_r = 5 < K, la reaction va en sens direct",
+            "Le systeme est deja a l'equilibre"
+          ],
+          "correct": 0,
+          "correction": "Q_r = 0,20/(0,10 × 0,10) = 20. Comme Q_r > K, le systeme consomme du produit et forme des reactifs pour revenir a l'equilibre.",
+          "contexte": "Les concentrations sont exprimees en mol·L^-1 et la constante vaut K = 10 a la temperature de l'experience.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "A 298 K, avec ΔH = -100 kJ·mol^-1 et ΔS = -0,20 kJ·mol^-1·K^-1, que vaut ΔG ?",
+          "options": [
+            "-159,6 kJ·mol^-1",
+            "-40,4 kJ·mol^-1",
+            "+40,4 kJ·mol^-1",
+            "+159,6 kJ·mol^-1"
+          ],
+          "correct": 1,
+          "correction": "ΔG = ΔH - TΔS = -100 - 298 × (-0,20) = -100 + 59,6 = -40,4 kJ·mol^-1. ΔG < 0 : la reaction est spontanee a 298 K.",
+          "contexte": "Les valeurs de ΔH et ΔS sont supposees constantes sur l'intervalle de temperature considere.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Selon la relation d'Arrhenius, que se passe-t-il quand la temperature augmente ?",
+          "options": [
+            "k diminue",
+            "k augmente",
+            "k reste constant",
+            "E_a devient nulle"
+          ],
+          "correct": 1,
+          "correction": "k = A·e^(-E_a/(RT)) augmente avec T : l'exposant negatif diminue en valeur absolue, donc plus de molecules franchissent la barriere d'energie."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment determiner experimentalement les ordres α et β d'une loi de vitesse v = k[A]^α[B]^β ?",
+          "options": [
+            "En lisant les coefficients de l'equation equilibree",
+            "En faisant varier chaque concentration et en mesurant v",
+            "En mesurant uniquement la temperature",
+            "En calculant ΔH de la reaction"
+          ],
+          "correct": 1,
+          "correction": "Les ordres sont experimentaux : on compare les vitesses initiales obtenues en faisant varier une seule concentration a la fois (methode des vitesses initiales)."
+        },
+        {
+          "type": "qcm",
+          "q": "Pour un equilibre exothermique, une hausse de temperature favorise :",
+          "options": [
+            "Le sens direct",
+            "Le sens inverse",
+            "Aucun changement",
+            "La disparition de la constante K"
+          ],
+          "correct": 1,
+          "correction": "Une hausse de temperature favorise le sens endothermique. Si la reaction directe est exothermique, c'est le sens inverse qui est favorise.",
+          "contexte": "Le systeme est initialement a l'equilibre et on augmente sa temperature de 50 K."
+        },
+        {
+          "type": "texte",
+          "q": "Appliquer le principe de Le Chatelier au systeme N2(g) + 3 H2(g) ⇌ 2 NH3(g) exothermique : que se passe-t-il si on augmente la pression, puis si on augmente la temperature ?",
+          "reponse": "Une hausse de pression favorise le sens direct, car il y a 4 moles de gaz a gauche contre 2 a droite : l'equilibre se deplace vers l'ammoniac. Une hausse de temperature favorise le sens endothermique, ici le sens inverse : la quantite d'ammoniac a l'equilibre diminue.",
+          "correction": "La reponse doit comparer les nombres de moles gazeuses des deux cotes et identifier le sens endothermique de la reaction de synthese."
+        },
+        {
+          "type": "texte",
+          "q": "Pour une reaction d'ordre 1 de constante k = 0,10 min^-1, calculer le temps de demi-reaction, puis la concentration restante apres 20 min si [A]_0 = 0,40 mol·L^-1.",
+          "reponse": "t_1/2 = ln2/k = 0,693/0,10 = 6,93 min. Apres 20 min, [A] = [A]_0·e^(-kt) = 0,40·e^(-0,10 × 20) = 0,40·e^(-2) ≈ 0,40 × 0,135 ≈ 0,054 mol·L^-1.",
+          "correction": "On utilise la loi de decroissance exponentielle d'ordre 1 et la relation t_1/2 = ln2/k ; on verifie que 20 min represente environ trois demi-vies.",
+          "contexte": "La reaction suit une cinetique d'ordre 1 avec k = 0,10 min^-1 et une concentration initiale de 0,40 mol·L^-1.",
+          "calcul": true
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Un systeme a l'equilibre reste dynamique : le quotient Q_r annonce le sens d'evolution, ΔG decide de la spontaneite et le catalyseur ne fait que gagner du temps."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "K = [C]^c[D]^d/([A]^a[B]^b)    ·    ΔG = ΔH - TΔS    ·    ΔG° = -RT ln K",
+          "leg": "T en K · R = 8,314 J·mol^-1·K^-1 · ΔH et ΔS en kJ ou J·mol^-1 (coherence des unites) · k = A·e^(-Ea/RT)"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des grandeurs et unités",
+          "items": [
+            [
+              "K",
+              "Constante d'equilibre (sans unite conventionnelle)",
+              "sans unite"
+            ],
+            [
+              "Q_r",
+              "Quotient reactionnel du melange",
+              "sans unite"
+            ],
+            [
+              "ΔG",
+              "Energie libre de reaction",
+              "kJ·mol^-1"
+            ],
+            [
+              "k",
+              "Constante de vitesse",
+              "depend de l'ordre"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Equilibre = egalite des vitesses aller et retour, concentrations constantes",
+            "Q_r < K : sens direct ; Q_r > K : sens inverse ; Q_r = K : equilibre",
+            "Le Chatelier : ajout de reactif ou hausse de pression favorisent la consommation",
+            "Spontane si ΔG < 0 ; ΔG° = -RT ln K",
+            "Le catalyseur change la vitesse mais pas la position de l'equilibre"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode pas à pas",
+          "items": [
+            "Ecrire l'expression de K ou de Q_r avec les coefficients comme exposants",
+            "Comparer Q_r et K pour determiner le sens d'evolution",
+            "Appliquer Le Chatelier apres chaque perturbation (concentration, pression, T)",
+            "Calculer ΔG = ΔH - TΔS en convertissant T en kelvin",
+            "Pour la cinetique, utiliser v = k[A]^α[B]^β puis Arrhenius pour la temperature"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Oublier les exposants dans l'expression de K",
+            "Comparer Q_r et K en sens inverse",
+            "Croire qu'un catalyseur deplace l'equilibre ou augmente K",
+            "Melanger kJ et J dans ΔG = ΔH - TΔS",
+            "Confondre les ordres cinematiques avec les coefficients stoechiometriques"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">Q_r = 0,20/(0,10 × 0,10)</span> = 20 > K = 10 → sens inverse",
+            "<span class=\"cle\">ΔG = -100 + 59,6</span> = -40,4 kJ·mol^-1",
+            "<span class=\"cle\">t_1/2 = 0,693/0,10</span> ≈ 6,9 min",
+            "<span class=\"cle\">[A] = 0,40·e^(-2)</span> ≈ 0,054 mol·L^-1",
+            "<span class=\"cle\">N2 + 3 H2 ⇌ 2 NH3</span> → 4 mol de gaz contre 2"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Q_r et K",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Predire le sens d'evolution\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Predire le sens d'evolution</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Comparaison</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens d'evolution</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Interpretation</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Q_r &lt; K</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sens direct</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Former plus de produits</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Q_r = K</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">A l'equilibre</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Vitesses egales</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Q_r &gt; K</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sens inverse</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Reformer des reactifs</text></svg>"
+        },
+        {
+          "titre": "2 · Perturber un equilibre",
+          "svg": "<svg viewBox=\"0 0 660 116\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : Logique de Le Chatelier\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Logique de Le Chatelier</text><defs><marker id=\"fl19796\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"89.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Perturbation</text><text x=\"89.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Concentration, P</text><text x=\"89.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">ou T</text><line x1=\"163\" y1=\"75\" x2=\"175\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl19796)\"/><rect x=\"176\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"249.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Reponse</text><text x=\"249.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Sens oppose a la</text><text x=\"249.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">perturbation</text><line x1=\"323\" y1=\"75\" x2=\"335\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl19796)\"/><rect x=\"336\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"409.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Nouvel</text><text x=\"409.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">equilibre</text><text x=\"409.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Nouvelles</text><text x=\"409.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">concentrations</text><line x1=\"483\" y1=\"75\" x2=\"495\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl19796)\"/><rect x=\"496\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"569.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Catalyseur</text><text x=\"569.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Atteint plus</text><text x=\"569.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">vite, meme K</text></svg>"
+        },
+        {
+          "titre": "3 · Thermo / cinetique",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Deux questions differentes\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Deux questions differentes</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Thermodynamique</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">ΔG &lt; 0 ? Spontaneite</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">K et composition finale</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">ΔG° = -RT ln K</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Cinetique</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Vitesse et mecanisme</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">k = A·e^(-Ea/RT)</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Catalyseur abaisse E_a</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "Physique-Chimie",
+      "titre": "Chapitre PC9 · Electrochimie, potentiels et piles",
+      "source": "Programme de physique-chimie, BO special n° 1 du 22 janvier 2019 (classes de seconde et de premiere) · BO du 22 juillet 2020 (programme de physique-chimie de classe terminale, specialite) · eduscol, programmes officiels · notions : Nernst, Faraday, capacite, corrosion, rendement",
+      "points": [
+        "Une pile convertit spontanement l'energie chimique d'une reaction d'oxydoreduction en energie electrique. L'oxydation a lieu a l'anode (pole negatif) et la reduction a la cathode (pole positif).",
+        "Les potentiels standard E° sont donnes par rapport a l'electrode standard a hydrogene, conventionnellement egale a 0 V a 25 °C. Le tableau des couples permet de classer les oxydants et les reductants.",
+        "La tension standard d'une pile vaut E°_pile = E°_cathode - E°_anode, ou les deux potentiels sont ecrits comme des potentiels de reduction. Une reaction est spontanee si E°_pile > 0.",
+        "Exemple : pour la pile Zn/Zn^2+ // Cu^2+/Cu, E°_pile = 0,34 - (-0,76) = 1,10 V. Les electrons circulent du zinc (anode) vers le cuivre (cathode) dans le circuit externe.",
+        "La relation de Nernst precise l'influence des concentrations a 25 °C : E = E° + (0,0592/n)·log([Ox]/[Red]). Exemple : pour Cu^2+/Cu avec [Cu^2+] = 0,010 mol·L^-1 et E° = 0,34 V, E ≈ 0,34 - 0,0592 = 0,28 V.",
+        "La thermodynamique relie tension et energie libre : ΔG° = -n·F·E°, ou F = 96 500 C·mol^-1 est la constante de Faraday. Ainsi n = 2 et E° = 1,10 V donnent ΔG° ≈ -2,12 × 10^5 J·mol^-1, soit -212 kJ·mol^-1.",
+        "La quantite d'electricite debitee par une pile est Q = I·t, en coulombs (1 C = 1 A·s). Le nombre de moles d'electrons correspondant est n(e^-) = Q/F. Exemple : 2,0 A pendant 1,0 h fournissent 7200 C, soit 0,0746 mol d'electrons.",
+        "La capacite d'une pile se mesure en ampere-heure : 1 Ah = 3600 C. Une pile de 2,5 Ah peut fournir 2,5 A pendant une heure en regime ideal ; la capacite reelle diminue si le courant est eleve.",
+        "Les piles courantes sont la pile alcaline (≈ 1,5 V), la pile nickel-cadmium ou nickel-metal hydrure (≈ 1,2 V) et la batterie lithium-ion (≈ 3,6 V par element). Le choix depend de la tension, de la capacite et du nombre de cycles.",
+        "La resistance interne, la polarisation et la diminution des concentrations provoquent une chute de tension aux bornes quand le courant augmente : la tension utile est U = E - r·I, ou r est la resistance interne.",
+        "Le rendement electrique d'une pile est le rapport entre l'energie effectivement fournie au circuit et l'energie chimique convertie ; les pertes sont principalement thermiques. Une pile se descharge plus vite a basse temperature.",
+        "La corrosion est une oxydation du metal : une anode sacrificielle de zinc protege le fer en s'oxydant a sa place. Les piles usagees contiennent des metaux et electrolytes polluants : elles doivent etre recyclees, jamais jetees avec les ordures menageres."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Dans une pile, a l'anode :",
+          "options": [
+            "Les electrons sont consommes",
+            "Les electrons sont produits par oxydation",
+            "Les ions cuivre se reduisent",
+            "Aucun courant ne circule"
+          ],
+          "correct": 1,
+          "correction": "L'anode est le pole negatif : le metal s'oxyde et libere des electrons, par exemple Zn → Zn^2+ + 2 e^-."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le potentiel standard de reference de l'electrode a hydrogene ?",
+          "options": [
+            "+1,00 V",
+            "-1,00 V",
+            "0 V",
+            "+0,34 V"
+          ],
+          "correct": 2,
+          "correction": "Par convention, E°(H^+/H2) = 0 V a 25 °C : tous les autres potentiels sont mesures par rapport a cette electrode."
+        },
+        {
+          "type": "qcm",
+          "q": "Calculer E° d'une pile dont la cathode a E° = +0,34 V et l'anode E° = -0,76 V.",
+          "options": [
+            "-1,10 V",
+            "+0,42 V",
+            "+1,10 V",
+            "+0,34 V"
+          ],
+          "correct": 2,
+          "correction": "E°_pile = E°_cathode - E°_anode = 0,34 - (-0,76) = 1,10 V. Le signe positif indique une reaction spontanee.",
+          "contexte": "Les potentiels sont des potentiels de reduction donnes dans les tables a 25 °C.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Pour Cu^2+/Cu (E° = 0,34 V), que donne la relation de Nernst avec [Cu^2+] = 0,010 mol·L^-1 ?",
+          "options": [
+            "0,40 V",
+            "0,28 V",
+            "0,34 V",
+            "0,22 V"
+          ],
+          "correct": 1,
+          "correction": "E = 0,34 + (0,0592/2)·log(0,010) = 0,34 - 0,0592 ≈ 0,28 V : diluer l'ion cuivre diminue le potentiel.",
+          "contexte": "Le cuivre solide a une activite de 1 et la temperature est de 25 °C.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la valeur de ΔG° pour n = 2 et E° = 1,10 V (F = 96 500 C·mol^-1) ?",
+          "options": [
+            "+212 kJ·mol^-1",
+            "-212 kJ·mol^-1",
+            "-106 kJ·mol^-1",
+            "-1,10 kJ·mol^-1"
+          ],
+          "correct": 1,
+          "correction": "ΔG° = -nFE° = -2 × 96 500 × 1,10 ≈ -2,12 × 10^5 J·mol^-1 = -212 kJ·mol^-1 : la reaction est tres favorisee.",
+          "contexte": "La reaction echange 2 moles d'electrons et la tension standard de la pile est 1,10 V.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Combien de coulombs represente une capacite de 1 Ah ?",
+          "options": [
+            "1 C",
+            "60 C",
+            "3600 C",
+            "96 500 C"
+          ],
+          "correct": 2,
+          "correction": "1 Ah = 1 A × 3600 s = 3600 C. La constante de Faraday (96 500 C·mol^-1) est une autre grandeur."
+        },
+        {
+          "type": "qcm",
+          "q": "Une pile de force electromotrice E = 1,50 V a une resistance interne r = 0,20 Ω et fournit I = 2,0 A. Quelle tension U est disponible aux bornes ?",
+          "options": [
+            "1,10 V",
+            "1,50 V",
+            "1,90 V",
+            "0,40 V"
+          ],
+          "correct": 0,
+          "correction": "U = E - r·I = 1,50 - 0,20 × 2,0 = 1,10 V. La chute de tension interne reduit la tension utile quand le courant augmente.",
+          "contexte": "La pile est traversee par un courant de 2,0 A et sa resistance interne vaut 0,20 Ω.",
+          "calcul": true
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer pourquoi la tension d'une pile diminue lorsqu'on la descharge, en reliant Nernst et la resistance interne.",
+          "reponse": "Pendant la descharge, la concentration de l'oxydant a la cathode diminue et celle du reductant a l'anode augmente : le terme de Nernst (0,0592/n)·log([Ox]/[Red]) diminue, donc E baisse. De plus, la resistance interne impose une chute de tension U = E - r·I aux bornes, d'autant plus grande que le courant est fort.",
+          "correction": "La reponse doit citer l'evolution des concentrations dans Nernst et la relation U = E - r·I liée a la resistance interne."
+        },
+        {
+          "type": "texte",
+          "q": "Une pile fournit 2,0 A pendant 1,0 h. Calculer la charge debitee et le nombre de moles d'electrons (F = 96 500 C·mol^-1).",
+          "reponse": "t = 3600 s, donc Q = I·t = 2,0 × 3600 = 7200 C (soit 2,0 Ah). n(e^-) = Q/F = 7200/96 500 ≈ 0,0746 mol d'electrons.",
+          "correction": "On convertit d'abord la duree en secondes, puis on applique Q = I·t et n(e^-) = Q/F.",
+          "contexte": "Le courant est constant et egal a 2,0 A pendant une duree d'une heure.",
+          "calcul": true
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Une pile transforme une reaction redox spontanee en courant : sa tension se calcule avec Nernst et son energie avec ΔG° = -nFE°."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "E = E° + (0,0592/n)·log([Ox]/[Red])    ·    ΔG° = -n·F·E°    ·    Q = I·t    ·    U = E - r·I",
+          "leg": "E en V · F = 96 500 C·mol^-1 · Q en C · I en A · t en s · n nombre de moles d'electrons"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des grandeurs et unités",
+          "items": [
+            [
+              "E",
+              "Tension (force electromotrice) de la pile",
+              "V"
+            ],
+            [
+              "Q",
+              "Charge electrique debitee",
+              "C (ou Ah)"
+            ],
+            [
+              "F",
+              "Constante de Faraday",
+              "C·mol^-1"
+            ],
+            [
+              "ΔG°",
+              "Energie libre standard",
+              "J·mol^-1"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Anode = oxydation = pole - ; cathode = reduction = pole +",
+            "E°_pile = E°_cathode - E°_anode ; reaction spontanee si E°_pile > 0",
+            "Nernst : la tension depend des concentrations (log [Ox]/[Red])",
+            "ΔG° = -nFE° : E° positif implique ΔG° negatif",
+            "1 Ah = 3600 C ; piles usagees a recycler"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode pas à pas",
+          "items": [
+            "Ecrire les deux demi-reactions et identifier anode et cathode",
+            "Lire les E° dans la table et calculer E°_pile = E°_cathode - E°_anode",
+            "Corriger les concentrations avec la relation de Nernst si besoin",
+            "En deduire ΔG° = -nFE° pour juger de la spontaneite",
+            "Calculer la charge Q = I·t puis n(e^-) = Q/F pour le bilan de matiere"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Soustraire les potentiels dans le mauvais sens (cathode - anode)",
+            "Oublier le facteur 0,0592/n ou inverser le rapport [Ox]/[Red]",
+            "Confondre la charge Q (C) et l'energie (J)",
+            "Oublier de convertir les heures en secondes dans Q = I·t",
+            "Jeter une pile avec les dechets menagers au lieu de la recycler"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">0,34 - (-0,76)</span> → E° = 1,10 V",
+            "<span class=\"cle\">0,34 + 0,0296·log(0,010)</span> → E ≈ 0,28 V",
+            "<span class=\"cle\">-2 × 96 500 × 1,10</span> → ΔG° ≈ -212 kJ·mol^-1",
+            "<span class=\"cle\">2,0 A × 3600 s</span> → Q = 7200 C = 2,0 Ah",
+            "<span class=\"cle\">7200 / 96 500</span> → 0,0746 mol d'electrons"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Bilan d'une pile",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Grandeurs electrochimiques\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Grandeurs electrochimiques</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Grandeur</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Definition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Unite</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">E°_pile</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">E° cathode - E° anode</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">V</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Q</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">I × t, charge debitee</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">C</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">n(e^-)</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Q / F</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">mol</text></svg>"
+        },
+        {
+          "titre": "2 · Trajet des electrons",
+          "svg": "<svg viewBox=\"0 0 660 116\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : Du zinc au cuivre\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Du zinc au cuivre</text><defs><marker id=\"fl23507\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"89.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Anode Zn</text><text x=\"89.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Zn → Zn^2+ + 2</text><text x=\"89.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">e^-</text><line x1=\"163\" y1=\"75\" x2=\"175\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl23507)\"/><rect x=\"176\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"249.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Circuit</text><text x=\"249.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">externe</text><text x=\"249.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Electrons et</text><text x=\"249.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">moteur</text><line x1=\"323\" y1=\"75\" x2=\"335\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl23507)\"/><rect x=\"336\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"409.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Cathode Cu</text><text x=\"409.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Cu^2+ + 2 e^- →</text><text x=\"409.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Cu</text><line x1=\"483\" y1=\"75\" x2=\"495\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl23507)\"/><rect x=\"496\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"569.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Pont salin</text><text x=\"569.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Ions pour</text><text x=\"569.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">l'electroneutralite</text></svg>"
+        },
+        {
+          "titre": "3 · E° et ΔG°",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Tension et spontaneite\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Tension et spontaneite</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">E° &gt; 0</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Reaction spontanee</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">ΔG° = -nFE° &lt; 0</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Pile capable de fournir du courant</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">E° &lt; 0</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Reaction non spontanee</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">ΔG° &gt; 0</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Faut fournir de l'energie (electrolyse)</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "generale"
+      ],
+      "annees": [
+        "Terminale"
+      ],
+      "matiere": "Physique-Chimie",
+      "titre": "Chapitre PC10 · Interferences, diffraction et photons",
+      "source": "Programme de physique-chimie, BO special n° 1 du 22 janvier 2019 (classes de seconde et de premiere) · BO du 22 juillet 2020 (programme de physique-chimie de classe terminale, specialite) · eduscol, programmes officiels · notions : double fente, interfrange, reseau, photon, effet photoelectrique",
+      "points": [
+        "Deux ondes lumineuses interfèrent lorsqu'elles sont coherentes, c'est-a-dire de meme frequence et de phase constante l'une par rapport a l'autre. La difference de marche δ est la difference de chemin optique parcouru par les deux ondes.",
+        "Dans le dispositif de Young, deux fentes ecartees de a sont eclairees par une lumiere monochromatique de longueur d'onde λ. Sur un ecran a distance D, on observe des franges : brillantes si δ = k·λ et sombres si δ = (k + 1/2)·λ, avec k entier.",
+        "Pour les petits angles, δ ≈ a·x/D ou x est la position sur l'ecran. L'ecart entre deux franges brillantes consecutives, appele interfrange, vaut i = λ·D/a ; il est exprime dans la meme unite que λ, D et a.",
+        "Exemple : avec λ = 600 nm, D = 2,0 m et a = 0,50 mm, i = (6,00 × 10^-7 × 2,0)/(5,0 × 10^-4) = 2,4 × 10^-3 m = 2,4 mm.",
+        "La diffraction d'une onde par une fente de largeur a produit une figure ou la tache centrale est large et les minima obscurs verifies a·sinθ = k·λ (k ≥ 1). Plus la fente est etroite, plus la diffraction est etendue.",
+        "Un reseau de diffraction comporte un grand nombre de fentes egalement espacees. Les maxima lumineux verifies a·sinθ = k·λ sont d'autant plus fins et precies que le nombre de traits est grand : le reseau permet de mesurer λ avec precision.",
+        "Une source monochromatique emet une seule longueur d'onde ; la lumiere blanche donne un spectre continu et une lampe a vapeur donne des raies fines, caracteristiques des elements : c'est la spectroscopie d'emission.",
+        "Le modele corpusculaire decrit la lumiere comme un flux de photons. L'energie d'un photon vaut E = h·ν = h·c/λ, avec h = 6,626 × 10^-34 J·s et 1 eV = 1,602 × 10^-19 J.",
+        "Exemple : pour λ = 500 nm, E = 6,626 × 10^-34 × 3,00 × 10^8 / 5,00 × 10^-7 ≈ 3,98 × 10^-19 J, soit environ 2,48 eV.",
+        "Dans l'effet photoélectrique, des electrons sont extraits d'une matiere seulement si l'energie du photon atteint le travail de sortie W : hν ≥ W. La frequence seuil vaut ν_0 = W/h et l'energie cinetique maximale des electrons est E_c,max = hν - W.",
+        "Exemple : avec W = 2,0 eV = 3,20 × 10^-19 J, on obtient ν_0 = 3,20 × 10^-19 / 6,626 × 10^-34 ≈ 4,8 × 10^14 Hz, soit une longueur d'onde seuil λ_0 ≈ 620 nm.",
+        "La dualité onde-corpuscule est un fait experimental : interfences et diffraction imposent le modele ondulatoire, tandis que l'effet photoélectrique impose le modele photonique. Les lasers exigent des précautions : ne jamais regarder le faisceau directement et porter des lunettes adaptees a la longueur d'onde."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle condition doit-on remplir pour observer des interfences stables ?",
+          "options": [
+            "Deux sources de couleurs differentes",
+            "Deux sources coherentes",
+            "Une source unique et une fente large",
+            "Une lumiere tres intense"
+          ],
+          "correct": 1,
+          "correction": "Les interfences stables exigent deux ondes coherentes : meme frequence et difference de phase constante dans le temps."
+        },
+        {
+          "type": "qcm",
+          "q": "Avec λ = 600 nm, D = 2,0 m et a = 0,50 mm, quel est l'interfrange ?",
+          "options": [
+            "0,24 mm",
+            "2,4 mm",
+            "24 mm",
+            "1,2 mm"
+          ],
+          "correct": 1,
+          "correction": "i = λD/a = (6,00 × 10^-7 × 2,0)/(5,0 × 10^-4) = 2,4 × 10^-3 m = 2,4 mm.",
+          "contexte": "Les angles sont petits : on utilise l'approximation δ ≈ a·x/D pour le dispositif de Young.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est l'energie d'un photon de longueur d'onde 500 nm ?",
+          "options": [
+            "1,99 × 10^-19 J",
+            "3,98 × 10^-19 J",
+            "6,00 × 10^-19 J",
+            "3,98 × 10^-16 J"
+          ],
+          "correct": 1,
+          "correction": "E = hc/λ = 6,626 × 10^-34 × 3,00 × 10^8 / 5,00 × 10^-7 ≈ 3,98 × 10^-19 J, soit 2,48 eV.",
+          "contexte": "On utilise h = 6,626 × 10^-34 J·s et c = 3,00 × 10^8 m·s^-1.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Un metal a un travail de sortie W = 2,0 eV. Quelle est sa frequence seuil ?",
+          "options": [
+            "2,4 × 10^14 Hz",
+            "4,8 × 10^14 Hz",
+            "9,6 × 10^14 Hz",
+            "6,0 × 10^14 Hz"
+          ],
+          "correct": 1,
+          "correction": "W = 2,0 eV = 3,20 × 10^-19 J ; ν_0 = W/h = 3,20 × 10^-19 / 6,626 × 10^-34 ≈ 4,8 × 10^14 Hz.",
+          "contexte": "L'effet photoélectrique impose hν ≥ W pour arracher un electron du metal.",
+          "calcul": true
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle relation donne les minima de diffraction par une fente de largeur a ?",
+          "options": [
+            "a·sinθ = k·λ (k ≥ 1)",
+            "a·sinθ = (k + 1/2)·λ",
+            "a·cosθ = k·λ",
+            "λ·sinθ = k·a"
+          ],
+          "correct": 0,
+          "correction": "Pour une fente unique, les minima sont a·sinθ = k·λ avec k entier non nul ; la tache centrale est deux fois plus large que les autres."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel phenomene impose le modele corpusculaire (photons) de la lumiere ?",
+          "options": [
+            "Les interfences",
+            "La diffraction",
+            "L'effet photoélectrique",
+            "La reflexion"
+          ],
+          "correct": 2,
+          "correction": "L'effet photoélectrique s'explique par des photons d'energie hν : il existe une frequence seuil, independante de l'intensite. Interferences et diffraction relevent du modele ondulatoire."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment l'energie d'un photon varie-t-elle quand la longueur d'onde augmente ?",
+          "options": [
+            "Elle augmente",
+            "Elle diminue",
+            "Elle reste constante",
+            "Elle devient nulle"
+          ],
+          "correct": 1,
+          "correction": "E = hc/λ : l'energie du photon est inversement proportionnelle a la longueur d'onde. Aux grandes longueurs d'onde (rouge, infrarouge) correspondent les photons les moins energetiques."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer pourquoi les franges brillantes du dispositif de Young apparaissent pour δ = kλ et les franges sombres pour δ = (k + 1/2)λ.",
+          "reponse": "Quand δ = kλ, les deux ondes arrivent en phase : leurs amplitudes s'additionnent et l'intensite est maximale (frange brillante). Quand δ = (k + 1/2)λ, elles arrivent en opposition de phase : leurs amplitudes se detruisent et l'intensite est minimale (frange sombre).",
+          "correction": "La reponse doit relier la difference de marche au dephasage Δφ = 2πδ/λ, puis au principe de superposition des ondes."
+        },
+        {
+          "type": "texte",
+          "q": "Un laser de longueur d'onde 633 nm eclaire un reseau de 500 traits par millimetre. Calculer l'angle θ du premier ordre (k = 1) et rappeler une regle de securite.",
+          "reponse": "L'espacement des traits vaut a = 1 mm/500 = 2,0 × 10^-6 m. La relation du reseau donne sinθ = kλ/a = 6,33 × 10^-7 / 2,0 × 10^-6 ≈ 0,317, soit θ ≈ 18,5°. Securite : ne jamais regarder le faisceau laser directement ni son reflet speculaire ; porter des lunettes adaptees a 633 nm.",
+          "correction": "On convertit d'abord le nombre de traits en espacement a, puis on applique a·sinθ = kλ avant de donner la regle de securite.",
+          "contexte": "Un reseau de 500 traits par mm est eclaire normalement par un laser hélium-néon de 633 nm.",
+          "calcul": true
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Les interfences et la diffraction prouvent que la lumiere est une onde, tandis que l'effet photoélectrique prouve qu'elle est aussi faite de photons d'energie hν."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "i = λ·D/a    ·    a·sinθ = k·λ    ·    E = h·c/λ    ·    E_c,max = hν - W",
+          "leg": "λ, D, a dans la meme unite pour i · h = 6,626 × 10^-34 J·s · 1 eV = 1,602 × 10^-19 J"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des grandeurs et unités",
+          "items": [
+            [
+              "i",
+              "Interfrange : ecart entre deux franges brillantes",
+              "m ou mm"
+            ],
+            [
+              "δ",
+              "Difference de marche entre deux ondes",
+              "m"
+            ],
+            [
+              "a",
+              "Espacement des fentes ou largeur de fente",
+              "m"
+            ],
+            [
+              "E",
+              "Energie d'un photon",
+              "J ou eV"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Interferer exige des sources coherentes",
+            "Brillantes si δ = kλ ; sombres si δ = (k + 1/2)λ",
+            "Interfrange i = λD/a ; minima de diffraction a·sinθ = kλ",
+            "E = hc/λ : plus λ est courte, plus le photon est energetique",
+            "Effet photoélectrique : hν ≥ W, avec ν_0 = W/h"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode pas à pas",
+          "items": [
+            "Convertir la longueur d'onde en metres (1 nm = 10^-9 m)",
+            "Pour Young, calculer i = λD/a puis en deduire la position des franges",
+            "Pour un reseau, utiliser a·sinθ = kλ avec a = 1/N (N traits par metre)",
+            "Pour un photon, calculer E = hc/λ puis la convertir en eV si besoin",
+            "Pour l'effet photoélectrique, comparer hν au travail de sortie W"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Oublier la conversion nm → m avant le calcul de l'interfrange",
+            "Confondre les conditions de franges brillantes et sombres",
+            "Utiliser a·sinθ = (k + 1/2)λ pour les minima d'une fente unique",
+            "Ecrire E = hλ/c au lieu de E = hc/λ",
+            "Regarder un laser en face : risque pour la vue"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">λ = 600 nm, D = 2,0 m, a = 0,50 mm</span> → i = 2,4 mm",
+            "<span class=\"cle\">λ = 500 nm</span> → E ≈ 3,98 × 10^-19 J ≈ 2,48 eV",
+            "<span class=\"cle\">W = 2,0 eV</span> → ν_0 ≈ 4,8 × 10^14 Hz",
+            "<span class=\"cle\">500 traits/mm</span> → a = 2,0 × 10^-6 m",
+            "<span class=\"cle\">δ = kλ</span> → frange brillante ; δ = (k + 1/2)λ → sombre"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Dispositif de Young",
+          "svg": "<svg viewBox=\"0 0 660 103\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : Des fentes aux franges\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Des fentes aux franges</text><defs><marker id=\"fl38717\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"89.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Source</text><text x=\"89.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Lumiere</text><text x=\"89.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">monochromatique</text><line x1=\"163\" y1=\"68\" x2=\"175\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl38717)\"/><rect x=\"176\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"249.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Double fente</text><text x=\"249.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Deux sources</text><text x=\"249.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">coherentes,</text><text x=\"249.0\" y=\"120\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">espacement a</text><line x1=\"323\" y1=\"68\" x2=\"335\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl38717)\"/><rect x=\"336\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"409.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Ecran</text><text x=\"409.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Franges espacees</text><text x=\"409.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">de i = λD/a</text><line x1=\"483\" y1=\"68\" x2=\"495\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl38717)\"/><rect x=\"496\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"569.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Analyse</text><text x=\"569.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Mesure de la</text><text x=\"569.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">longueur d'onde</text></svg>"
+        },
+        {
+          "titre": "2 · Conditions d'interferences",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Franges brillantes et sombres\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Franges brillantes et sombres</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Frange</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Difference de marche</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Intensite</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Brillante (k)</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">δ = k·λ</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Maximale</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sombre (k)</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">δ = (k + 1/2)·λ</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Minimale</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Interfrange</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">i = λ·D/a</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Ecart entre deux maxima</text></svg>"
+        },
+        {
+          "titre": "3 · Onde ou photon ?",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Double description de la lumiere\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Double description de la lumiere</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Aspect ondulatoire</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Interferences de Young</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Diffraction, reseau</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">i = λD/a, a sinθ = kλ</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Aspect corpusculaire</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Photon E = hc/λ</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Effet photoélectrique</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Seuil ν_0 = W/h</text></svg>"
+        }
+      ]
+    }
+  ]
+}

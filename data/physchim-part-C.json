@@ -1,0 +1,625 @@
+{
+  "fiches": [
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Physique-chimie et instrumentation",
+      "titre": "Spectroscopie infrarouge (IR)",
+      "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025 (BTS BIOALC, U4) · Référentiel U4 : « Exploiter un spectre d'absorption infrarouge à partir d'une banque de données de nombre d'ondes de bandes d'absorption » · ENS Lyon CultureSciences-Chimie · Préparation IChO France 2019 (spectroscopies) · RSC, Infrared spectroscopy · Thermo Fisher FTIR Educational Package",
+      "points": [
+        "Domaine IR moyen : longueurs d'onde λ de 2,5 à 25 µm, soit nombre d'onde σ de 4000 à 400 cm⁻¹. En IR, l'abscisse est σ (cm⁻¹) ; en UV-visible, c'est λ (nm).",
+        "Le nombre d'onde est l'inverse de la longueur d'onde exprimée en cm : σ = 1/λ. Plus σ est grand, plus le photon est énergétique (E = h·c·σ).",
+        "Une liaison n'absorbe que si l'énergie du photon IR correspond au saut entre deux niveaux de vibration : élongation (étirement) ou déformation (bending). Modèle de l'oscillateur harmonique : σ croît avec la rigidité k et décroît avec la masse réduite µ.",
+        "Le spectre IR se trace en transmittance T (%) en fonction de σ, avec l'axe des abscisses décroissant de gauche à droite (4000 → 400 cm⁻¹). Une bande d'absorption est un creux : plus il est profond, plus l'absorption est forte.",
+        "Deux zones : 4000–1500 cm⁻¹ = bandes des groupes fonctionnels (peu nombreuses, attribuables) ; 1500–400 cm⁻¹ = zone des empreintes digitales (multitude de bandes couplées, propre à chaque molécule).",
+        "Bandes à connaître : O–H alcool lié 3200–3400 cm⁻¹ (large, forte) ; O–H acide carboxylique 2500–3300 cm⁻¹ (très large) ; N–H 3100–3500 cm⁻¹ ; C–H aliphatique 2850–3000 cm⁻¹ ; C≡N ≈ 2250 cm⁻¹ ; C=O 1650–1750 cm⁻¹ (très forte) ; C=C 1620–1680 cm⁻¹ ; C–O 1050–1300 cm⁻¹.",
+        "La position, la largeur et l'intensité caractérisent la bande : un O–H large révèle des liaisons hydrogène (liquide/solide) ; un O–H libre en phase gazeuse donne une bande fine vers 3600 cm⁻¹.",
+        "Une absence de bande est aussi une information : pas de creux vers 1700 cm⁻¹ → pas de C=O ; pas de bande large vers 3300 cm⁻¹ → pas d'O–H d'alcool.",
+        "Identification : relever les σ des bandes, attribuer les groupes avec une table de nombres d'ondes (banque de données), puis comparer l'empreinte digitale au spectre authentique de la bibliothèque. C'est l'exigible officiel du référentiel.",
+        "L'allure en bandes (et non en raies fines) vient du couplage vibration-rotation ; en solution, les interactions intermoléculaires élargissent encore les bandes.",
+        "Spectromètre FTIR (transformée de Fourier) : source IR → interféromètre de Michelson → échantillon → détecteur → transformée de Fourier de l'interférogramme. Montage plus rapide et plus sensible qu'un appareil à prisme.",
+        "Échantillonnage : pastille KBr, film mince ou ATR (réflexion totale atténuée). Le verre et l'eau absorbent l'IR : on utilise des sels (KBr, NaCl) ou l'ATR. Applications BIOALC : contrôle d'identité d'une matière première, recherche d'un contaminant, identification d'un excipient."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est l'unité du nombre d'onde σ utilisé en spectroscopie IR ?",
+          "options": [
+            "nm",
+            "cm⁻¹",
+            "Hz",
+            "mol·L⁻¹"
+          ],
+          "correct": 1,
+          "correction": "σ = 1/λ avec λ en cm, donc σ s'exprime en cm⁻¹. Le domaine IR moyen couvre 4000–400 cm⁻¹."
+        },
+        {
+          "type": "qcm",
+          "q": "Sur un spectre tracé en transmittance, comment se manifeste une bande d'absorption ?",
+          "options": [
+            "Un pic vers le haut",
+            "Un creux vers le bas",
+            "Une ligne horizontale",
+            "Un changement de couleur"
+          ],
+          "correct": 1,
+          "correction": "Là où la molécule absorbe, T diminue : la bande est un creux d'autant plus profond que l'absorption est forte."
+        },
+        {
+          "type": "qcm",
+          "q": "Dans quelle zone lit-on les bandes caractéristiques des groupes fonctionnels ?",
+          "options": [
+            "400–1500 cm⁻¹",
+            "1500–4000 cm⁻¹",
+            "200–400 nm",
+            "400–700 nm"
+          ],
+          "correct": 1,
+          "correction": "4000–1500 cm⁻¹ : bandes peu nombreuses et attribuables. En dessous de 1500 cm⁻¹ se trouve la zone des empreintes digitales."
+        },
+        {
+          "type": "qcm",
+          "q": "Une bande large et forte vers 3300 cm⁻¹ signe principalement :",
+          "options": [
+            "Un C=O",
+            "Un C≡N",
+            "Un O–H lié d'alcool",
+            "Un C–O"
+          ],
+          "correct": 2,
+          "correction": "L'O–H lié par liaisons hydrogène donne une bande large 3200–3400 cm⁻¹. Un O–H libre en phase gazeuse donne une bande fine vers 3600 cm⁻¹."
+        },
+        {
+          "type": "qcm",
+          "q": "Un spectre montre une bande très forte à 1715 cm⁻¹ et aucune bande large vers 3300 cm⁻¹. Quelle famille ?",
+          "options": [
+            "Alcool",
+            "Cétone",
+            "Amine",
+            "Alcane"
+          ],
+          "correct": 1,
+          "correction": "C=O de cétone vers 1715 cm⁻¹ sans O–H : c'est une cétone. Un ester présenterait aussi une forte bande C–O vers 1200 cm⁻¹."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi l'axe des abscisses d'un spectre IR est-il orienté de droite à gauche ?",
+          "options": [
+            "Parce que λ augmente de 2,5 à 25 µm",
+            "Par convention, σ décroît de 4000 à 400 cm⁻¹ de gauche à droite",
+            "Pour que les pics soient plus hauts",
+            "Parce que la transmittance est négative"
+          ],
+          "correct": 1,
+          "correction": "Par convention historique : 4000 cm⁻¹ à gauche et 400 cm⁻¹ à droite, soit des longueurs d'onde croissantes. Attention à lire les valeurs dans le bon sens."
+        },
+        {
+          "type": "texte",
+          "q": "Comment exploiter un spectre IR à partir d'une banque de données ?",
+          "reponse": "Relever les nombres d'onde des bandes, attribuer les groupes fonctionnels à l'aide de la table de corrélation, puis comparer l'ensemble du spectre — surtout la zone des empreintes digitales — au spectre de référence de la banque.",
+          "correction": "Exigible officiel : « Exploiter un spectre d'absorption infrarouge à partir d'une banque de données de nombre d'ondes de bandes d'absorption. »"
+        },
+        {
+          "type": "qcm",
+          "q": "Quel matériau utiliser pour une pastille ou une fenêtre en IR moyen ?",
+          "options": [
+            "Verre ordinaire",
+            "Quartz",
+            "KBr ou NaCl",
+            "Plastique"
+          ],
+          "correct": 2,
+          "correction": "Le verre et le plastique absorbent l'IR ; on utilise des sels ioniques transparents (KBr, NaCl) ou l'ATR."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Chaque liaison chimique vibre à une fréquence qui lui est propre : la lumière infrarouge révèle les groupes fonctionnels d'une molécule et donne son empreinte digitale."
+        },
+        {
+          "type": "formule",
+          "titre": "La grandeur à connaître",
+          "eq": "σ = 1/λ  (cm⁻¹)   ·   E = h·c·σ",
+          "leg": "σ : nombre d'onde · λ : longueur d'onde en cm · E : énergie du photon — IR moyen : 4000–400 cm⁻¹ (2,5–25 µm)"
+        },
+        {
+          "type": "grille",
+          "titre": "Lire une bande : 3 critères",
+          "items": [
+            [
+              "σ",
+              "Position du minimum de transmittance : quelle liaison vibre ?",
+              "cm⁻¹"
+            ],
+            [
+              "Forme",
+              "Large (liaisons hydrogène) ou fine (O–H libre)",
+              "large / fine"
+            ],
+            [
+              "Intensité",
+              "Faible, moyenne ou forte : combien de liaisons de ce type ?",
+              "f, m, F"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Table de nombres d'ondes (à fournir au concours)",
+          "items": [
+            "O–H alcool lié : 3200–3400 cm⁻¹ — large et forte",
+            "O–H acide carboxylique : 2500–3300 cm⁻¹ — très large",
+            "N–H amine ou amide : 3100–3500 cm⁻¹ — moyenne",
+            "C–H aliphatique : 2850–3000 cm⁻¹ · C≡N : ≈ 2250 cm⁻¹ (fine)",
+            "C=O : 1650–1750 cm⁻¹ — très forte · C=C : 1620–1680 cm⁻¹",
+            "C–O : 1050–1300 cm⁻¹ — forte (zone des empreintes)"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Identifier un composé avec une banque de données",
+          "items": [
+            "Enregistrer le spectre : T (%) = f(σ), axe σ décroissant de 4000 à 400 cm⁻¹",
+            "Repérer d'abord les bandes au-dessus de 1500 cm⁻¹ (groupes fonctionnels)",
+            "Relever σ, forme et intensité ; attribuer chaque bande avec la table de corrélation",
+            "Vérifier les absences : pas de C=O vers 1700 cm⁻¹, pas d'O–H vers 3300 cm⁻¹…",
+            "Comparer la zone d'empreinte digitale (< 1500 cm⁻¹) au spectre de référence de la banque"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges classiques",
+          "items": [
+            "L'axe des abscisses décroît de gauche à droite : 4000 cm⁻¹ à gauche, 400 cm⁻¹ à droite",
+            "En transmittance, une absorption est un creux vers le bas, pas un pic vers le haut",
+            "Une bande large vers 3400 cm⁻¹ peut être de l'eau : chercher aussi la flexion vers 1640 cm⁻¹",
+            "Le verre et l'eau absorbent l'IR : utiliser KBr, NaCl ou l'ATR",
+            "L'IR donne des groupes, pas la structure complète : confirmer par comparaison avec un spectre authentique"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Au laboratoire (BTS BIOALC)",
+          "items": [
+            "<span class=\"cle\">Cétone</span> : C=O très forte vers 1715 cm⁻¹ et aucune bande O–H large",
+            "<span class=\"cle\">Alcool</span> : O–H large 3200–3400 cm⁻¹ + C–O 1050–1200 cm⁻¹",
+            "<span class=\"cle\">Acide carboxylique</span> : O–H très large 2500–3300 cm⁻¹ + C=O ≈ 1710 cm⁻¹",
+            "<span class=\"cle\">Empreinte digitale</span> : 1500–400 cm⁻¹ comparée à la banque de spectres",
+            "<span class=\"cle\">ATR</span> : réflexion totale atténuée, sans pastille (lien avec le chapitre 14)"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Spectre IR : deux zones à lire",
+          "svg": "<svg viewBox=\"0 0 660 220\" width=\"100%\" role=\"img\" aria-label=\"Spectre IR en transmittance avec deux zones et bandes caracteristiques\">\n  <line x1=\"46\" y1=\"176\" x2=\"630\" y2=\"176\" stroke=\"var(--dim)\" stroke-width=\"2\"/>\n  <line x1=\"46\" y1=\"176\" x2=\"46\" y2=\"24\" stroke=\"var(--dim)\" stroke-width=\"2\"/>\n  <text x=\"24\" y=\"32\" fill=\"var(--fg)\" font-size=\"11\">T %</text>\n  <text x=\"520\" y=\"200\" fill=\"var(--fg)\" font-size=\"11\">σ (cm⁻¹)</text>\n  <text x=\"42\" y=\"200\" fill=\"var(--dim)\" font-size=\"10\">4000</text>\n  <text x=\"176\" y=\"200\" fill=\"var(--dim)\" font-size=\"10\">3000</text>\n  <text x=\"300\" y=\"200\" fill=\"var(--dim)\" font-size=\"10\">2000</text>\n  <text x=\"388\" y=\"200\" fill=\"var(--dim)\" font-size=\"10\">1500</text>\n  <text x=\"608\" y=\"200\" fill=\"var(--dim)\" font-size=\"10\">400</text>\n  <path d=\"M50 40 C58 44 64 96 72 128 C78 150 84 52 92 46 C110 44 130 42 152 44 C158 48 162 88 168 108 C174 84 178 48 186 46 C240 44 280 46 322 44 C332 50 336 120 344 132 C352 110 356 48 366 46 C410 44 440 44 470 46 L600 44\" fill=\"none\" stroke=\"var(--ac)\" stroke-width=\"3\"/>\n  <line x1=\"388\" y1=\"24\" x2=\"388\" y2=\"176\" stroke=\"var(--warn)\" stroke-width=\"1.5\" stroke-dasharray=\"4 3\"/>\n  <text x=\"398\" y=\"50\" fill=\"var(--warn)\" font-size=\"11\">1500 cm⁻¹</text>\n  <text x=\"56\" y=\"72\" fill=\"var(--fg)\" font-size=\"10\">O–H large</text>\n  <text x=\"150\" y=\"132\" fill=\"var(--fg)\" font-size=\"10\">C–H</text>\n  <text x=\"318\" y=\"152\" fill=\"var(--fg)\" font-size=\"10\">C=O</text>\n  <text x=\"58\" y=\"28\" fill=\"var(--ac)\" font-size=\"12\" font-weight=\"bold\">Groupes fonctionnels</text>\n  <text x=\"402\" y=\"28\" fill=\"var(--warn)\" font-size=\"12\" font-weight=\"bold\">Empreintes digitales</text>\n  <text x=\"402\" y=\"164\" fill=\"var(--dim)\" font-size=\"10\">bandes couplées → comparer à la banque</text>\n  <rect x=\"470\" y=\"64\" width=\"150\" height=\"44\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n  <text x=\"480\" y=\"82\" fill=\"var(--fg)\" font-size=\"10\">Creux = absorption</text>\n  <text x=\"480\" y=\"98\" fill=\"var(--dim)\" font-size=\"10\">T faible → bande forte</text>\n</svg>"
+        },
+        {
+          "titre": "2 · Vibrations d'une liaison",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Vibration des liaisons et relation entre nombre d'onde, rigidite et masse\">\n  <defs><marker id=\"pc3a\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs>\n  <rect x=\"14\" y=\"34\" width=\"290\" height=\"132\" rx=\"10\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n  <text x=\"28\" y=\"56\" fill=\"var(--ac)\" font-size=\"13\" font-weight=\"bold\">Élongation (valence)</text>\n  <circle cx=\"78\" cy=\"112\" r=\"18\" fill=\"var(--ac)\"/><circle cx=\"208\" cy=\"112\" r=\"18\" fill=\"var(--warn)\"/>\n  <line x1=\"96\" y1=\"112\" x2=\"190\" y2=\"112\" stroke=\"var(--fg)\" stroke-width=\"3\"/>\n  <line x1=\"70\" y1=\"88\" x2=\"64\" y2=\"72\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#pc3a)\"/>\n  <line x1=\"216\" y1=\"88\" x2=\"222\" y2=\"72\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#pc3a)\"/>\n  <text x=\"143\" y=\"148\" text-anchor=\"middle\" fill=\"var(--dim)\" font-size=\"11\">étirement / compression de la liaison</text>\n  <rect x=\"320\" y=\"34\" width=\"326\" height=\"132\" rx=\"10\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n  <text x=\"334\" y=\"56\" fill=\"var(--ac)\" font-size=\"13\" font-weight=\"bold\">Déformation (bending)</text>\n  <circle cx=\"386\" cy=\"82\" r=\"15\" fill=\"var(--warn)\"/><circle cx=\"470\" cy=\"112\" r=\"16\" fill=\"var(--ac)\"/><circle cx=\"386\" cy=\"142\" r=\"15\" fill=\"var(--warn)\"/>\n  <line x1=\"398\" y1=\"88\" x2=\"458\" y2=\"108\" stroke=\"var(--fg)\" stroke-width=\"3\"/>\n  <line x1=\"398\" y1=\"136\" x2=\"458\" y2=\"116\" stroke=\"var(--fg)\" stroke-width=\"3\"/>\n  <text x=\"480\" y=\"110\" fill=\"var(--dim)\" font-size=\"11\">σ augmente si :</text>\n  <text x=\"480\" y=\"128\" fill=\"var(--dim)\" font-size=\"11\">liaison forte (k ↑),</text>\n  <text x=\"480\" y=\"146\" fill=\"var(--dim)\" font-size=\"11\">atomes légers (µ ↓)</text>\n</svg>"
+        },
+        {
+          "titre": "3 · Identification par banque de données",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Identification d'un compose par comparaison avec une banque de spectres\">\n  <defs><marker id=\"pc3b\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs>\n  <g font-size=\"11\" text-anchor=\"middle\">\n    <rect x=\"10\" y=\"48\" width=\"140\" height=\"64\" rx=\"9\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"80\" y=\"72\" fill=\"var(--ac)\" font-weight=\"bold\">1. Spectre IR</text><text x=\"80\" y=\"90\" fill=\"var(--fg)\">T (%) = f(σ)</text><text x=\"80\" y=\"105\" fill=\"var(--dim)\">4000 → 400 cm⁻¹</text>\n    <line x1=\"152\" y1=\"80\" x2=\"184\" y2=\"80\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#pc3b)\"/>\n    <rect x=\"188\" y=\"48\" width=\"140\" height=\"64\" rx=\"9\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"258\" y=\"72\" fill=\"var(--ac)\" font-weight=\"bold\">2. Bandes</text><text x=\"258\" y=\"90\" fill=\"var(--fg)\">σ, forme, intensité</text><text x=\"258\" y=\"105\" fill=\"var(--dim)\">au-dessus de 1500</text>\n    <line x1=\"330\" y1=\"80\" x2=\"362\" y2=\"80\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#pc3b)\"/>\n    <rect x=\"366\" y=\"48\" width=\"140\" height=\"64\" rx=\"9\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"436\" y=\"72\" fill=\"var(--ac)\" font-weight=\"bold\">3. Attribution</text><text x=\"436\" y=\"90\" fill=\"var(--fg)\">table de σ</text><text x=\"436\" y=\"105\" fill=\"var(--dim)\">groupes présents / absents</text>\n    <line x1=\"508\" y1=\"80\" x2=\"528\" y2=\"80\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#pc3b)\"/>\n    <rect x=\"532\" y=\"48\" width=\"118\" height=\"64\" rx=\"9\" fill=\"var(--card2)\" stroke=\"var(--warn)\"/><text x=\"591\" y=\"72\" fill=\"var(--warn)\" font-weight=\"bold\">4. Banque</text><text x=\"591\" y=\"90\" fill=\"var(--fg)\">empreinte digitale</text><text x=\"591\" y=\"105\" fill=\"var(--dim)\">= spectre témoin</text>\n  </g>\n  <text x=\"330\" y=\"140\" text-anchor=\"middle\" fill=\"var(--dim)\" font-size=\"11\">L'identification est certaine seulement si les bandes ET l'empreinte digitale concordent.</text>\n</svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Physique-chimie et instrumentation",
+      "titre": "Fluorimétrie et dosage fluorimétrique",
+      "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025 (BTS BIOALC, U4) · IUPAC Pure Appl. Chem. 83 (2011), standards for photoluminescence quantum yields · NIST IR 7457 (Standardization of Fluorescence Spectroscopy) · Société Chimique de France, TP fluorimétrie (acide salicylique) · Pressbooks, Measurement of Fluorescence · PerkinElmer FL 6500 quantum yield note",
+      "points": [
+        "La fluorescence est une lumière émise par une molécule qui revient à son état fondamental après avoir absorbé un photon : l'émission dure quelques nanosecondes (contre minutes ou heures pour la phosphorescence).",
+        "Diagramme de Jablonski : S₀ → S₁ (absorption de λexc), relaxation vibrationnelle sans rayonnement (perte d'énergie), puis S₁ → S₀ avec émission d'un photon de fluorescence.",
+        "Le photon émis a moins d'énergie que le photon absorbé : λém > λexc. L'écart, appelé décalage de Stokes, permet de séparer la fluorescence de la lumière excitatrice.",
+        "Un fluorophore est l'entité qui fluoresce : naturelle (quinine, acide salicylique, riboflavine, tryptophane, chlorophylle) ou greffée sur un analyte non fluorescent par dérivatisation (FITC, rhodamine, 9-anthracène).",
+        "Rendement quantique Φf = nombre de photons émis / nombre de photons absorbés = kf/(kf + knr), avec 0 ≤ Φf ≤ 1. Il dépend du fluorophore, du solvant, du pH, de la température et de la concentration, mais pas de l'intensité de la source.",
+        "Intensité absorbée : Ia = I₀ − I = I₀(1 − 10^(−A)). Rendement : If = Φf · Ia. Pour une solution diluée (A ≤ 0,05), 1 − 10^(−A) ≈ 2,3A, donc If ≈ 2,3 · Φf · I₀ · ε · l · c.",
+        "À I₀, Φf, ε et l constants, If = K·c : la fluorescence est proportionnelle à la concentration, avec une sensibilité 10 à 1000 fois supérieure à l'absorption UV-visible. K dépend de l'appareil, donc étalonnage obligatoire.",
+        "Dosage : choisir λexc et λém, garder les mêmes réglages, mesurer une gamme d'étalons dilués, tracer If = f(c), puis lire la concentration de l'échantillon (en tenant compte des dilutions).",
+        "À forte concentration, la droite s'incurve (effet de filtre interne, réabsorption, auto-extinction) : diluer. Le quenching (O₂, halogénures, collisions) diminue Φf et If ; loi de Stern-Volmer I₀/I = 1 + kq·τ₀·[Q].",
+        "Spectrofluorimètre : lampe au xénon/mercure → monochromateur d'excitation → cuve en quartz (4 faces transparentes) → observation à 90° → monochromateur d'émission → photomultiplicateur (PMT). La géométrie à 90° écarte le faisceau transmis.",
+        "Deux spectres : spectre d'émission (λexc fixe, balayage de λém) et spectre d'excitation (λém fixe, balayage de λexc). Le spectre d'excitation ressemble au spectre d'absorption si I₀ varie peu avec λ.",
+        "Interférences : diffusion Rayleigh à la même longueur d'onde que l'excitation, diffusion Ramanvers λ plus grande (plus faible), photodécomposition et effets de filtre interne. Applications BIOALC : quinine, acide salicylique, riboflavine (B₂), immunoessais par marquage fluorescent."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que mesure un spectrofluorimètre ?",
+          "options": [
+            "La lumière transmise à 180°",
+            "La lumière émise à 90° de l'excitation",
+            "L'absorbance à λmax",
+            "La masse de l'échantillon"
+          ],
+          "correct": 1,
+          "correction": "La fluorescence est observée à 90° pour éviter le faisceau excitateur transmis, beaucoup plus intense."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle relation entre les longueurs d'onde en fluorescence ?",
+          "options": [
+            "λém = λexc",
+            "λém < λexc",
+            "λém > λexc",
+            "λém = λexc / 2"
+          ],
+          "correct": 2,
+          "correction": "Décalage de Stokes : le photon émis a moins d'énergie que le photon absorbé, donc λém > λexc."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la définition du rendement quantique Φf ?",
+          "options": [
+            "Photons émis / photons absorbés",
+            "Photons absorbés / photons émis",
+            "Intensité émise / intensité incidente",
+            "Concentration / absorbance"
+          ],
+          "correct": 0,
+          "correction": "Φf = kf/(kf + knr) = nombre de photons émis divisé par le nombre de photons absorbés ; 0 ≤ Φf ≤ 1."
+        },
+        {
+          "type": "qcm",
+          "q": "Dans quelle zone la relation If = K·c est-elle valable ?",
+          "options": [
+            "Pour toute concentration",
+            "Pour A ≤ 0,05 environ (solution diluée)",
+            "Pour A > 1",
+            "Uniquement en phase gazeuse"
+          ],
+          "correct": 1,
+          "correction": "La linéarité exige 1 − 10^(−A) ≈ 2,3A, soit A ≤ 0,05 environ ; au-delà, les effets de filtre interne courbent la droite."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la conséquence d'un quenching ?",
+          "options": [
+            "If augmente",
+            "Φf et If diminuent",
+            "λém devient nul",
+            "La cuve se brise"
+          ],
+          "correct": 1,
+          "correction": "Le quenching ajoute une voie de désexcitation non radiative : Φf et l'intensité de fluorescence diminuent (loi de Stern-Volmer)."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi observer la fluorescence à 90° ?",
+          "reponse": "Pour ne pas recevoir le faisceau excitateur transmis, beaucoup plus intense que le signal de fluorescence, qui le noierait.",
+          "correction": "Géométrie standard : monochromateur d'excitation → cuve → détection perpendiculaire → monochromateur d'émission → PMT."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi refaire une courbe d'étalonnage pour chaque appareil ou réglage ?",
+          "reponse": "Parce que K = 2,3·Φf·I₀·ε·l dépend de la puissance de la lampe, des fentes, du détecteur et de la cuve : une intensité brute n'est pas une donnée universelle.",
+          "correction": "Étalons et échantillon doivent être mesurés avec les mêmes réglages ; un étalon de fluorescence de référence peut servir de contrôle."
+        },
+        {
+          "type": "qcm",
+          "q": "Lequel de ces composés est un fluorophore naturel ?",
+          "options": [
+            "Chlorure de sodium",
+            "Quinine",
+            "Glucose",
+            "Acide chlorhydrique"
+          ],
+          "correct": 1,
+          "correction": "Quinine, acide salicylique, riboflavine et tryptophane sont des fluorophores naturels ; sinon on dérive l'analyte avec un marqueur comme le FITC."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Une molécule fluorescente absorbe une lumière courte puis rend une lumière plus longue : on dose la lumière émise, pas la lumière absorbée."
+        },
+        {
+          "type": "formule",
+          "titre": "La relation de dosage",
+          "eq": "If = K · c   (si A ≤ 0,05)",
+          "leg": "K = 2,3 · Φf · I₀ · ε · l : constant pour un appareil et des réglages donnés — If : intensité de fluorescence"
+        },
+        {
+          "type": "grille",
+          "titre": "Les 3 grandeurs à retenir",
+          "items": [
+            [
+              "Φf",
+              "Rendement quantique : photons émis / photons absorbés",
+              "sans unité (0–1)"
+            ],
+            [
+              "λexc / λém",
+              "Excitation / émission ; λém > λexc (décalage de Stokes)",
+              "nm"
+            ],
+            [
+              "If",
+              "Intensité de fluorescence recueillie à 90°",
+              "unités arbitraires"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Fluorophores et signaux parasites",
+          "items": [
+            "Fluorophores naturels : quinine, acide salicylique, riboflavine, tryptophane",
+            "Marqueurs greffés (dérivatisation) : FITC, rhodamine — analyte non fluorescent rendu dosable",
+            "Diffusion Rayleigh : même λ que l'excitation, signal parasite intense",
+            "Diffusion Raman : λ légèrement plus grande, signal plus faible",
+            "Quenching (O₂, collisions) et photodécomposition : If diminue avec le temps"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Dosage fluorimétrique en 5 étapes",
+          "items": [
+            "Enregistrer les spectres d'excitation et d'émission pour choisir λexc et λém",
+            "Régler fentes et gain, puis ne plus les modifier pendant toute la série",
+            "Préparer une gamme d'étalons dilués (absorbance A ≤ 0,05 à λexc)",
+            "Mesurer If des étalons et tracer la droite If = f(c)",
+            "Mesurer l'échantillon dans les mêmes conditions, lire cₓ puis corriger la dilution"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Quand la relation ne marche plus",
+          "items": [
+            "Concentration trop élevée : filtre interne, réabsorption → courbe qui s'incurve, diluer",
+            "Quenching par l'oxygène ou des ions : Φf et If baissent (Stern-Volmer)",
+            "If dépend de la lampe et des réglages : impossible de comparer deux appareils sans étalonnage",
+            "Cuve en quartz, 4 faces transparentes ; ne pas toucher les faces traversées",
+            "Photodécomposition : préparer les solutions à l'abri de la lumière et lire rapidement"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Au laboratoire (BTS BIOALC)",
+          "items": [
+            "<span class=\"cle\">Quinine</span> : fluorescence bleue, dosage des boissons toniques",
+            "<span class=\"cle\">Acide salicylique</span> : dosage direct dans une spécialité pharmaceutique",
+            "<span class=\"cle\">Riboflavine (B₂)</span> : fluorophore naturel dosé en fluorimétrie",
+            "<span class=\"cle\">FITC</span> : marqueur greffé sur un anticorps pour un immunoessai",
+            "<span class=\"cle\">Sensibilité</span> : 10 à 1000 fois supérieure à l’UV-visible"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Spectrofluorimètre en géométrie 90°",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Spectrofluorimetre en geometrie 90 degres\">\n  <defs><marker id=\"pc3c\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs>\n  <rect x=\"8\" y=\"56\" width=\"88\" height=\"44\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"52\" y=\"83\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"12\">Lampe Xe</text>\n  <line x1=\"98\" y1=\"78\" x2=\"132\" y2=\"78\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#pc3c)\"/>\n  <rect x=\"136\" y=\"56\" width=\"110\" height=\"44\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"191\" y=\"75\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"11\">Mono.</text><text x=\"191\" y=\"91\" text-anchor=\"middle\" fill=\"var(--dim)\" font-size=\"10\">excitation λexc</text>\n  <line x1=\"248\" y1=\"78\" x2=\"286\" y2=\"78\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#pc3c)\"/>\n  <rect x=\"290\" y=\"48\" width=\"70\" height=\"60\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"325\" y=\"82\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"11\">Cuve</text>\n  <line x1=\"362\" y1=\"78\" x2=\"452\" y2=\"78\" stroke=\"var(--warn)\" stroke-width=\"3\" marker-end=\"url(#pc3c)\"/><text x=\"408\" y=\"68\" text-anchor=\"middle\" fill=\"var(--warn)\" font-size=\"11\">faisceau transmis (évité)</text>\n  <line x1=\"325\" y1=\"110\" x2=\"325\" y2=\"140\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#pc3c)\"/><text x=\"338\" y=\"130\" fill=\"var(--ac)\" font-size=\"11\">fluorescence à 90°</text>\n  <rect x=\"268\" y=\"144\" width=\"114\" height=\"40\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"325\" y=\"169\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"11\">Mono. émission → PMT</text>\n  <text x=\"330\" y=\"24\" text-anchor=\"middle\" fill=\"var(--dim)\" font-size=\"11\">I₀ · λexc court</text>\n  <text x=\"500\" y=\"100\" fill=\"var(--dim)\" font-size=\"11\">λém &gt; λexc</text>\n  <text x=\"500\" y=\"120\" fill=\"var(--dim)\" font-size=\"11\">If = Φf · Ia</text>\n</svg>"
+        },
+        {
+          "titre": "2 · Jablonski et décalage de Stokes",
+          "svg": "<svg viewBox=\"0 0 660 220\" width=\"100%\" role=\"img\" aria-label=\"Diagramme de Jablonski simplifie et decalage de Stokes\">\n  <defs><marker id=\"pc3d\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs>\n  <line x1=\"60\" y1=\"172\" x2=\"290\" y2=\"172\" stroke=\"var(--fg)\" stroke-width=\"3\"/>\n  <line x1=\"60\" y1=\"98\" x2=\"290\" y2=\"98\" stroke=\"var(--warn)\" stroke-width=\"3\"/>\n  <text x=\"24\" y=\"176\" fill=\"var(--fg)\" font-size=\"12\">S₀</text><text x=\"24\" y=\"102\" fill=\"var(--warn)\" font-size=\"12\">S₁</text>\n  <text x=\"90\" y=\"164\" fill=\"var(--dim)\" font-size=\"10\">vibration</text><text x=\"90\" y=\"90\" fill=\"var(--dim)\" font-size=\"10\">vibration</text>\n  <line x1=\"92\" y1=\"170\" x2=\"92\" y2=\"106\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#pc3d)\"/><text x=\"100\" y=\"134\" fill=\"var(--ac)\" font-size=\"11\">absorption λexc</text>\n  <path d=\"M110 104 C124 96 132 108 146 100\" fill=\"none\" stroke=\"var(--dim)\" stroke-width=\"2\"/><text x=\"154\" y=\"102\" fill=\"var(--dim)\" font-size=\"10\">relaxation</text>\n  <line x1=\"252\" y1=\"104\" x2=\"252\" y2=\"168\" stroke=\"var(--warn)\" stroke-width=\"2\" marker-end=\"url(#pc3d)\"/><text x=\"262\" y=\"138\" fill=\"var(--warn)\" font-size=\"11\">fluorescence λém</text>\n  <rect x=\"324\" y=\"28\" width=\"318\" height=\"164\" rx=\"10\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n  <text x=\"340\" y=\"50\" fill=\"var(--ac)\" font-size=\"13\" font-weight=\"bold\">Décalage de Stokes</text>\n  <line x1=\"344\" y1=\"172\" x2=\"624\" y2=\"172\" stroke=\"var(--dim)\" stroke-width=\"2\"/>\n  <path d=\"M344 158 C380 154 396 96 416 78 C436 96 452 154 488 158\" fill=\"none\" stroke=\"var(--ac)\" stroke-width=\"2\"/><text x=\"392\" y=\"70\" fill=\"var(--ac)\" font-size=\"10\">excitation</text>\n  <path d=\"M448 158 C484 154 500 116 520 106 C540 116 556 154 592 158\" fill=\"none\" stroke=\"var(--warn)\" stroke-width=\"2\"/><text x=\"516\" y=\"98\" fill=\"var(--warn)\" font-size=\"10\">émission</text>\n  <text x=\"340\" y=\"188\" fill=\"var(--dim)\" font-size=\"10\">λ croît →</text>\n</svg>"
+        },
+        {
+          "titre": "3 · Droite If = f(c) et limites de linéarité",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Droite d'etalonnage If en fonction de la concentration et courbure a forte concentration\">\n  <defs><marker id=\"pc3e\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs>\n  <line x1=\"50\" y1=\"166\" x2=\"620\" y2=\"166\" stroke=\"var(--dim)\" stroke-width=\"2\" marker-end=\"url(#pc3e)\"/>\n  <line x1=\"50\" y1=\"166\" x2=\"50\" y2=\"26\" stroke=\"var(--dim)\" stroke-width=\"2\" marker-end=\"url(#pc3e)\"/>\n  <text x=\"20\" y=\"32\" fill=\"var(--fg)\" font-size=\"12\">If</text><text x=\"612\" y=\"186\" fill=\"var(--fg)\" font-size=\"12\">c</text>\n  <line x1=\"50\" y1=\"166\" x2=\"380\" y2=\"66\" stroke=\"var(--ac)\" stroke-width=\"3\"/>\n  <path d=\"M380 66 C450 78 500 116 560 140\" fill=\"none\" stroke=\"var(--warn)\" stroke-width=\"3\"/>\n  <circle cx=\"112\" cy=\"143\" r=\"4\" fill=\"var(--ac)\"/><circle cx=\"176\" cy=\"120\" r=\"4\" fill=\"var(--ac)\"/><circle cx=\"240\" cy=\"97\" r=\"4\" fill=\"var(--ac)\"/><circle cx=\"304\" cy=\"86\" r=\"4\" fill=\"var(--ac)\"/>\n  <line x1=\"320\" y1=\"166\" x2=\"320\" y2=\"82\" stroke=\"var(--warn)\" stroke-width=\"1.5\" stroke-dasharray=\"4 3\"/>\n  <text x=\"326\" y=\"84\" fill=\"var(--warn)\" font-size=\"11\">A ≈ 0,05</text>\n  <text x=\"86\" y=\"50\" fill=\"var(--ac)\" font-size=\"13\" font-weight=\"bold\">zone linéaire : If = K·c</text>\n  <text x=\"404\" y=\"54\" fill=\"var(--warn)\" font-size=\"12\">filtre interne / réabsorption</text>\n  <text x=\"404\" y=\"74\" fill=\"var(--warn)\" font-size=\"11\">→ diluer l'échantillon</text>\n  <rect x=\"60\" y=\"12\" width=\"180\" height=\"26\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n  <text x=\"70\" y=\"30\" fill=\"var(--fg)\" font-size=\"10\">Gamme d'étalons (c connue)</text>\n</svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Physique-chimie et instrumentation",
+      "titre": "Optique géométrique et indice de réfraction",
+      "source": "Arrêté du 12 mars 2024 modifié par l'arrêté du 24 juin 2025 (BTS BIOALC, U4) · Référentiel U4 : lumière mono/polychromatique, prisme et réseau, monochromateur, lois de Snell-Descartes, réflexion totale, réfractomètre · ENS Lyon CultureSciences-Physique (Le réfractomètre) · UCLouvain DidacPhys (réfraction) · femto-physique (lois de l'optique géométrique) · ac-Montpellier SPCL (fiches réfraction)",
+      "points": [
+        "Dans un milieu transparent, homogène et isotrope, la lumière se propage en ligne droite à la vitesse v = c/n. L'indice de réfraction n est sans unité et supérieur à 1 : air ≈ 1,0003 ; eau 1,33 ; verre 1,5 ; diamant 2,42.",
+        "Une lumière monochromatique a une seule longueur d'onde (un laser est monochromatique et directionnel) ; la lumière blanche est polychromatique. Un prisme ou un réseau décompose la lumière blanche : c'est le rôle du monochromateur dans un spectrophotomètre. La relation des maxima derrière un réseau n'est pas au programme.",
+        "Réflexion spéculaire (surface lisse) : rayon incident, rayon réfléchi et normale sont dans le plan d'incidence et i′ = i (1ʳᵉ loi de Snell-Descartes). Une surface rugueuse donne une réflexion diffuse, sans image.",
+        "Réfraction : changement de direction au passage d'un dioptre (interface entre deux milieux d'indices différents). Lois de Snell-Descartes : rayons coplanaires avec la normale, et n₁·sin i = n₂·sin r.",
+        "Si n₂ > n₁, le rayon se rapproche de la normale (r < i) et le rayon réfracté existe toujours. Si n₂ < n₁, il s'éloigne de la normale (r > i).",
+        "Réflexion totale : si n₁ > n₂ et si i > i_lim avec sin i_lim = n₂/n₁, il n'existe plus de rayon réfracté et toute l'énergie est réfléchie. Exemples : eau → air, i_lim ≈ 48,8° ; verre → air, i_lim ≈ 41,8°.",
+        "Incidence normale (i = 0) : sin i = 0 donc r = 0, le rayon n'est pas dévié. Retour inverse de la lumière : tout trajet suivi dans un sens peut l'être en sens opposé.",
+        "Diffraction : une onde contourne les obstacles ; un réseau de fentes fait interférer les ondes et sépare les longueurs d'onde (monochromateur). Diffusion : la lumière est renvoyée dans toutes directions par des particules ou des irrégularités.",
+        "Diffusion Rayleigh : plus forte quand λ est courte (∝ 1/λ⁴) — ciel bleu ; c'est aussi un signal parasite en fluorimétrie, avec la diffusion Raman décalée vers les grandes longueurs d'onde.",
+        "Mesure d'un indice : par réfraction, n = sin i / sin r (milieu 1 = air) ou en traçant sin r = f(sin i), droite de pente n₁/n₂ ; par réflexion totale, n = 1/sin i_lim.",
+        "Réfractomètre d'Abbe : une goutte d'échantillon d'indice nₛ est prise entre un prisme dépoli diffuseur et un prisme de mesure d'indice nₚ > nₛ. La ligne de séparation clair/sombre donne l'angle limite : lecture directe de nₛ ou du degré Brix.",
+        "Applications BIOALC : dosage du sucre par réfractométrie (°Brix des sirops et jus), contrôle de concentration, détecteur à indice de réfraction en HPLC, fibres optiques (endoscopie) et ATR en spectroscopie IR."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la deuxième loi de Snell-Descartes (réfraction) ?",
+          "options": [
+            "n₁ sin i = n₂ sin r",
+            "sin i = sin r",
+            "n₁ cos i = n₂ cos r",
+            "i / r = n₁ / n₂"
+          ],
+          "correct": 0,
+          "correction": "n₁ sin i = n₂ sin r, avec les angles mesurés par rapport à la normale au dioptre."
+        },
+        {
+          "type": "qcm",
+          "q": "Dans un milieu d'indice n, la vitesse de la lumière vaut :",
+          "options": [
+            "c · n",
+            "c / n",
+            "c − n",
+            "c + n"
+          ],
+          "correct": 1,
+          "correction": "v = c/n < c : plus l'indice est grand, plus la lumière est lente dans le milieu."
+        },
+        {
+          "type": "qcm",
+          "q": "Un rayon passe de l'eau (1,33) vers l'air (1,00). Que se passe-t-il ?",
+          "options": [
+            "Il se rapproche de la normale",
+            "Il s'éloigne de la normale et peut subir une réflexion totale",
+            "Il ne change pas de direction",
+            "Il est absorbé"
+          ],
+          "correct": 1,
+          "correction": "Vers un milieu moins réfringent, r > i : le rayon s'éloigne de la normale et, au-delà de i_lim, il y a réflexion totale."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est l'angle limite de réflexion totale eau → air ?",
+          "options": [
+            "arcsin(1,33/1) ≈ 90°",
+            "arcsin(1/1,33) ≈ 48,8°",
+            "arcsin(1/1,5) ≈ 41,8°",
+            "90° − 48,8°"
+          ],
+          "correct": 1,
+          "correction": "sin i_lim = n₂/n₁ = 1/1,33 → i_lim ≈ 48,8° ; pour le verre → air, i_lim ≈ 41,8°."
+        },
+        {
+          "type": "qcm",
+          "q": "Sur quoi repose le fonctionnement du réfractomètre d'Abbe ?",
+          "options": [
+            "Sur l'absorption UV",
+            "Sur la réflexion totale et l'angle limite",
+            "Sur la diffraction par un réseau",
+            "Sur la fluorescence"
+          ],
+          "correct": 1,
+          "correction": "La limite entre zone éclairée et zone sombre correspond à l'angle limite : elle donne directement l'indice de l'échantillon."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi les angles i et r se mesurent-ils par rapport à la normale ?",
+          "reponse": "Parce que les lois de Snell-Descartes sont écrites avec les angles entre le rayon et la normale au dioptre, référence géométrique commune aux deux milieux.",
+          "correction": "À i = 0 (incidence normale), sin i = 0 donc r = 0 : le rayon traverse sans déviation."
+        },
+        {
+          "type": "texte",
+          "q": "Quelle différence entre réflexion spéculaire et réflexion diffuse ?",
+          "reponse": "La réflexion spéculaire sur une surface lisse renvoie le rayon dans une direction unique (i′ = i) et donne une image ; la réflexion diffuse sur une surface rugueuse renvoie la lumière dans toutes directions et ne donne pas d'image.",
+          "correction": "C'est la réflexion diffuse qui permet de voir les objets non brillants ; un miroir donne une réflexion spéculaire."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le rôle du monochromateur dans un spectrophotomètre ?",
+          "options": [
+            "Amplifier le signal",
+            "Sélectionner une longueur d'onde à partir d'une lumière polychromatique (prisme ou réseau)",
+            "Refroidir la cuve",
+            "Calculer la concentration"
+          ],
+          "correct": 1,
+          "correction": "Le référentiel demande de savoir qu'un prisme ou un réseau décompose la lumière blanche ; la relation des maxima derrière un réseau n'est pas au programme."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Une interface entre deux milieux change la direction de la lumière : l'indice de réfraction commande la réflexion, la réfraction et la réflexion totale."
+        },
+        {
+          "type": "formule",
+          "titre": "Les lois à connaître",
+          "eq": "v = c/n   ·   n₁ sin i = n₂ sin r   ·   sin i_lim = n₂/n₁ (n₁ > n₂)",
+          "leg": "n : indice (sans unité) · i, r : angles par rapport à la normale · i_lim : angle limite de réflexion totale"
+        },
+        {
+          "type": "grille",
+          "titre": "Quatre phénomènes à distinguer",
+          "items": [
+            [
+              "Réflexion",
+              "Surface lisse : i′ = i (plan d'incidence)",
+              "miroir"
+            ],
+            [
+              "Réfraction",
+              "Dioptre : n₁ sin i = n₂ sin r",
+              "prisme, cuve"
+            ],
+            [
+              "Réfl. totale",
+              "n₁ > n₂ et i > i_lim : plus de rayon réfracté",
+              "fibre, réfractomètre"
+            ],
+            [
+              "Diffusion / diffraction",
+              "Renvoi dans toutes directions / décomposition par réseau",
+              "ciel bleu, mono."
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Quelques indices de réfraction",
+          "items": [
+            "Air : 1,0003 (pris égal à 1 en première approximation)",
+            "Eau : 1,33 · éthanol : 1,36",
+            "Plexiglas : 1,49 · verre ordinaire : 1,5",
+            "Solution de saccharose : l'indice augmente avec la concentration (échelle °Brix)",
+            "Diamant : 2,42"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Mesurer un indice au réfractomètre d'Abbe",
+          "items": [
+            "Nettoyer les prismes, déposer une goutte d'échantillon et refermer",
+            "Attendre la stabilisation thermique (généralement 20 °C)",
+            "Agir sur la commande pour amener la ligne clair/sombre sur le réticule",
+            "Lire directement l'indice n ou le titre en °Brix sur l'échelle",
+            "Nettoyer les prismes et vérifier avec un étalon (eau : n ≈ 1,333 à 20 °C)"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges classiques",
+          "items": [
+            "Les angles se mesurent par rapport à la normale, jamais par rapport à la surface",
+            "La réflexion totale exige n₁ > n₂ (milieu de départ PLUS réfringent) et i > i_lim",
+            "À incidence normale (i = 0), il n'y a aucune déviation même si les indices diffèrent",
+            "La formule des maxima d'un réseau de fentes n'est pas au programme : retenir son rôle de dispersion",
+            "n dépend de la longueur d'onde (dispersion) et de la température : préciser les conditions"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Au laboratoire (BTS BIOALC)",
+          "items": [
+            "<span class=\"cle\">Brix</span> : lecture directe de la concentration en sucre d’un sirop ou d’un jus",
+            "<span class=\"cle\">Eau → air</span> : i_lim ≈ 48,8° · <span class=\"cle\">verre → air</span> : i_lim ≈ 41,8°",
+            "<span class=\"cle\">Fibre optique</span> : guidage par réflexions totales successives (endoscopie)",
+            "<span class=\"cle\">Détecteur RI</span> : suivi de l’indice de l’éluat en HPLC",
+            "<span class=\"cle\">ATR</span> : réflexion totale atténuée utilisée en IR (chapitre 12)"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Réflexion et réfraction sur un dioptre",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Reflexion et refraction sur un dioptre avec les angles i, i premier et r\">\n  <line x1=\"20\" y1=\"110\" x2=\"640\" y2=\"110\" stroke=\"var(--fg)\" stroke-width=\"3\"/>\n  <text x=\"36\" y=\"132\" fill=\"var(--dim)\" font-size=\"12\">milieu 1 : n₁</text>\n  <text x=\"36\" y=\"96\" fill=\"var(--dim)\" font-size=\"12\">milieu 2 : n₂</text>\n  <line x1=\"320\" y1=\"24\" x2=\"320\" y2=\"194\" stroke=\"var(--dim)\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/>\n  <text x=\"330\" y=\"34\" fill=\"var(--dim)\" font-size=\"11\">normale</text>\n  <defs><marker id=\"pc3f\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker><marker id=\"pc3g\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--warn)\"/></marker></defs>\n  <line x1=\"120\" y1=\"32\" x2=\"320\" y2=\"110\" stroke=\"var(--ac)\" stroke-width=\"3\" marker-end=\"url(#pc3f)\"/>\n  <text x=\"150\" y=\"42\" fill=\"var(--ac)\" font-size=\"12\">rayon incident</text>\n  <text x=\"254\" y=\"78\" fill=\"var(--ac)\" font-size=\"12\">i</text>\n  <line x1=\"320\" y1=\"110\" x2=\"520\" y2=\"32\" stroke=\"var(--ac)\" stroke-width=\"3\" marker-end=\"url(#pc3f)\"/>\n  <text x=\"446\" y=\"78\" fill=\"var(--ac)\" font-size=\"12\">i′ = i</text>\n  <line x1=\"320\" y1=\"110\" x2=\"470\" y2=\"188\" stroke=\"var(--warn)\" stroke-width=\"3\" marker-end=\"url(#pc3g)\"/>\n  <text x=\"446\" y=\"170\" fill=\"var(--warn)\" font-size=\"12\">r</text>\n  <text x=\"470\" y=\"200\" fill=\"var(--warn)\" font-size=\"11\">rayon réfracté</text>\n  <text x=\"40\" y=\"184\" fill=\"var(--fg)\" font-size=\"13\" font-weight=\"bold\">n₁ sin i = n₂ sin r</text>\n  <rect x=\"30\" y=\"136\" width=\"190\" height=\"30\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n  <text x=\"40\" y=\"155\" fill=\"var(--dim)\" font-size=\"11\">Angles mesurés à la normale</text>\n</svg>"
+        },
+        {
+          "titre": "2 · Réflexion totale et angle limite",
+          "svg": "<svg viewBox=\"0 0 660 200\" width=\"100%\" role=\"img\" aria-label=\"Reflection totale et angle limite pour un passage vers un milieu moins refringent\">\n  <defs><marker id=\"pc3h\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker><marker id=\"pc3i\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--warn)\"/></marker></defs>\n  <line x1=\"20\" y1=\"100\" x2=\"640\" y2=\"100\" stroke=\"var(--fg)\" stroke-width=\"3\"/>\n  <text x=\"30\" y=\"122\" fill=\"var(--dim)\" font-size=\"12\">n₁ (eau ou verre)</text>\n  <text x=\"30\" y=\"88\" fill=\"var(--dim)\" font-size=\"12\">n₂ (air) &lt; n₁</text>\n  <line x1=\"270\" y1=\"16\" x2=\"270\" y2=\"190\" stroke=\"var(--dim)\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/>\n  <line x1=\"120\" y1=\"30\" x2=\"270\" y2=\"100\" stroke=\"var(--ac)\" stroke-width=\"3\" marker-end=\"url(#pc3h)\"/>\n  <text x=\"140\" y=\"40\" fill=\"var(--ac)\" font-size=\"11\">i &lt; i_lim</text>\n  <line x1=\"270\" y1=\"100\" x2=\"400\" y2=\"150\" stroke=\"var(--warn)\" stroke-width=\"2\" marker-end=\"url(#pc3i)\"/><text x=\"404\" y=\"154\" fill=\"var(--warn)\" font-size=\"10\">réfraction</text>\n  <line x1=\"270\" y1=\"100\" x2=\"420\" y2=\"100\" stroke=\"var(--warn)\" stroke-width=\"2\" stroke-dasharray=\"4 3\"/><text x=\"424\" y=\"96\" fill=\"var(--warn)\" font-size=\"10\">i = i_lim : r = 90°</text>\n  <line x1=\"120\" y1=\"180\" x2=\"270\" y2=\"100\" stroke=\"var(--ac)\" stroke-width=\"3\" marker-end=\"url(#pc3h)\"/>\n  <text x=\"120\" y=\"194\" fill=\"var(--ac)\" font-size=\"11\">i &gt; i_lim</text>\n  <line x1=\"270\" y1=\"100\" x2=\"420\" y2=\"20\" stroke=\"var(--warn)\" stroke-width=\"3\" marker-end=\"url(#pc3i)\"/>\n  <text x=\"430\" y=\"40\" fill=\"var(--warn)\" font-size=\"11\">réflexion totale</text>\n  <text x=\"30\" y=\"176\" fill=\"var(--fg)\" font-size=\"13\" font-weight=\"bold\">sin i_lim = n₂ / n₁</text>\n  <rect x=\"448\" y=\"132\" width=\"184\" height=\"38\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n  <text x=\"458\" y=\"150\" fill=\"var(--fg)\" font-size=\"10\">i &gt; i_lim : tout est réfléchi</text>\n  <text x=\"458\" y=\"164\" fill=\"var(--dim)\" font-size=\"10\">Condition : n₁ &gt; n₂</text>\n</svg>"
+        },
+        {
+          "titre": "3 · Réfractomètre d'Abbe",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Principe du refractometre d'Abbe et lecture de la ligneclair sombre\">\n  <defs><marker id=\"pc3j\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs>\n  <rect x=\"24\" y=\"60\" width=\"180\" height=\"96\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/><text x=\"114\" y=\"82\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"11\">prisme diffuseur dépoli</text>\n  <rect x=\"250\" y=\"60\" width=\"180\" height=\"96\" rx=\"6\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"340\" y=\"82\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"11\">prisme de mesure nₚ</text>\n  <rect x=\"208\" y=\"86\" width=\"44\" height=\"46\" rx=\"4\" fill=\"var(--warn)\" opacity=\"0.35\"/><text x=\"230\" y=\"150\" text-anchor=\"middle\" fill=\"var(--warn)\" font-size=\"10\">goutte nₛ</text>\n  <line x1=\"60\" y1=\"108\" x2=\"60\" y2=\"108\" stroke=\"var(--ac)\" stroke-width=\"2\"/>\n  <g stroke=\"var(--ac)\" stroke-width=\"1.5\">\n    <line x1=\"48\" y1=\"100\" x2=\"210\" y2=\"106\" marker-end=\"url(#pc3j)\"/>\n    <line x1=\"48\" y1=\"108\" x2=\"210\" y2=\"112\" marker-end=\"url(#pc3j)\"/>\n    <line x1=\"48\" y1=\"116\" x2=\"210\" y2=\"120\" marker-end=\"url(#pc3j)\"/>\n  </g>\n  <line x1=\"252\" y1=\"108\" x2=\"620\" y2=\"108\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#pc3j)\"/>\n  <rect x=\"436\" y=\"20\" width=\"200\" height=\"70\" rx=\"8\" fill=\"var(--card2)\" stroke=\"var(--dim)\"/>\n  <rect x=\"446\" y=\"30\" width=\"96\" height=\"50\" fill=\"var(--ac)\" opacity=\"0.35\"/>\n  <line x1=\"542\" y1=\"30\" x2=\"542\" y2=\"80\" stroke=\"var(--warn)\" stroke-width=\"3\"/>\n  <text x=\"552\" y=\"48\" fill=\"var(--warn)\" font-size=\"10\">ligne limite</text>\n  <text x=\"446\" y=\"104\" fill=\"var(--dim)\" font-size=\"10\">zone claire</text><text x=\"552\" y=\"104\" fill=\"var(--dim)\" font-size=\"10\">zone sombre</text>\n  <text x=\"24\" y=\"186\" fill=\"var(--fg)\" font-size=\"12\">nₛ = nₚ · sin[A − arcsin(sin i′ / nₚ)]  →  lecture directe de n ou du °Brix</text>\n</svg>"
+        }
+      ]
+    }
+  ]
+}

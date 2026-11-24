@@ -1,0 +1,1840 @@
+{
+  "fiches": [
+    {
+      "filieres": ["generale"],
+      "annees": ["2nde"],
+      "matiere": "Français",
+      "titre": "Le théâtre du XVIIe au XXIe siècle : comique et représentation",
+      "source": "Programme de français de la classe de seconde, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Au XVIIe siècle, Corneille et Racine pratiquent une dramaturgie classique : unités de temps, de lieu et d'action, alexandrins et vraisemblance.",
+        "Molière renouvelle la comédie avec la comédie de mœurs et la comédie de caractères : Le Misanthrope (1666) met en scène le conflit entre sincérité et politesse.",
+        "Au XXe siècle, Ionesco et Beckett rompent avec l'intrigue : La Cantatrice chauve (1950) et En attendant Godot (1953) font du vide et du non-sens un objet de représentation.",
+        "L'analyse d'une scène doit relever les didascalies, les temps de parole, les registres (comique, pathétique) et montrer comment le texte joue sur la présence du public."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle pièce est une comédie de caractères de Molière ?","options":["Le Misanthrope","En attendant Godot","Horace","La Cantatrice chauve"],"correct":0,"correction":"Le Misanthrope (1666) est une comédie de caractères centrée sur Alceste."},
+        {"type":"texte","q":"En quoi le théâtre de l'absurde rompt-il avec le théâtre classique ?","reponse":"Il abandonne l'intrigue, la vraisemblance et le dialogue logique pour montrer une situation absurde et un monde incompréhensible.","correction":"Chez Ionesco ou Beckett, l'action est presque inexistante, les personnages sont dépersonnalisés et le langage lui-même devient vide : c'est une contestation de la représentation classique."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "Français",
+      "titre": "La poésie du XIXe au XXIe siècle : du romantisme au surréalisme",
+      "source": "Programme de français de la classe de première, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Le romantisme (Hugo, Les Contemplations, 1856) fait de la poésie l'expression du moi, du sentiment et de la nature.",
+        "Baudelaire (Les Fleurs du mal, 1857) inaugure la modernité poétique : correspondances, symboles, exploration du spleen et de l'idéal.",
+        "Les poètes maudits (Verlaine, Rimbaud) puis Apollinaire inventent le vers libre et le calligramme ; Le Bateau ivre (1871) bouleverse le lyrisme.",
+        "Le surréalisme (Éluard, Aragon, Breton) libère l'image poétique de la logique : écriture automatique et rapprochements inattendus."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel recueil de Baudelaire est publié en 1857 ?","options":["Les Contemplations","Les Fleurs du mal","Le Bateau ivre","Alcools"],"correct":1,"correction":"Les Fleurs du mal paraissent en 1857 et sont partiellement condamnées pour outrage aux mœurs."},
+        {"type":"texte","q":"Comment le vers libre se distingue-t-il du vers classique ?","reponse":"Il se libère de la métrique fixe (alexandrin) et de la rime régulière, tout en gardant un rythme et des images.","correction":"Le vers libre, théorisé par Apollinaire, refuse le mètre et la rime obligatoires mais conserve une musicalité et une architecture interne."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "Français",
+      "titre": "Le roman et le récit du XVIIIe au XXIe siècle",
+      "source": "Programme de français de la classe de première, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Le roman des Lumières (Voltaire, Candide, 1759 ; Rousseau, Julie ou la Nouvelle Héloïse, 1761) utilise le récit pour diffuser des idées et critiquer la société.",
+        "Au XIXe siècle, le roman réaliste (Balzac, Comédie humaine ; Flaubert, Madame Bovary, 1857) décrit les mœurs et les déterminismes sociaux.",
+        "Zola et le naturalisme font du romancier un observateur scientifique : Les Rougon-Macquart (1871-1893) étudient l'hérédité et le milieu.",
+        "Au XXe siècle, le récit se fragmente : Proust, Camus (L'Étranger, 1942) et Sartre jouent sur le point de vue, le temps et la conscience du narrateur."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel auteur a dirigé la publication des Rougon-Macquart ?","options":["Balzac","Flaubert","Zola","Maupassant"],"correct":2,"correction":"Émile Zola a écrit les vingt volumes des Rougon-Macquart entre 1871 et 1893."},
+        {"type":"texte","q":"Qu'est-ce qu'un narrateur interne ?","reponse":"C'est un personnage de l'histoire qui raconte les événements qu'il a vécus ou observés, avec un point de vue limité.","correction":"Le narrateur interne participe à la diégèse ; son récit est marqué par sa subjectivité, contrairement au narrateur omniscient externe."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "Français",
+      "titre": "La littérature d'idées et la presse aux XVIIIe et XIXe siècles",
+      "source": "Programme de français de la classe de première, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Voltaire et Rousseau font de la littérature d'idées un outil de combat politique : Traité sur la tolérance (1763), Du contrat social (1762).",
+        "La presse se développe au XIXe siècle : journaux, feuilletons et revues deviennent des lieux de débat et de diffusion des idées.",
+        "Hugo publie Les Misérables (1862) et intervient dans le débat sur la peine de mort ; Zola publie J'Accuse... ! dans L'Aurore en 1898.",
+        "L'argumentation s'appuie sur une thèse, des arguments, des exemples et des procédés rhétoriques (analogie, réfutation, ironie) qu'il faut identifier dans un commentaire."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Dans quel journal Zola publie-t-il « J'Accuse... ! » en 1898 ?","options":["Le Figaro","L'Aurore","Le Temps","La Libre Parole"],"correct":1,"correction":"L'article paraît dans L'Aurore du 13 janvier 1898, en faveur d'Alfred Dreyfus."},
+        {"type":"texte","q":"Quelle est la différence entre une thèse et un argument ?","reponse":"La thèse est l'idée défendue ; les arguments sont les raisons qui la justifient.","correction":"La thèse est l'affirmation centrale, les arguments en sont les justifications logiques, illustrées par des exemples."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "Philosophie",
+      "titre": "La conscience et l'inconscient : le problème du sujet",
+      "source": "Programme de philosophie de terminale générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La conscience est définie par Descartes comme la pensée qui se sait penser : le cogito (je pense, donc je suis) fonde le sujet sur l'évidence intérieure.",
+        "Frein ouvre une brèche dans cette transparence : l'inconscient est un lieu de désirs refoulés qui se manifestent dans les rêves, les lapsus et les symptômes (L'interprétation du rêve, 1900).",
+        "Sartre critique la notion d'inconscient : la mauvaise foi est un projet de se donner le change, une conscience qui se déguise à elle-même (L'Être et le Néant, 1943).",
+        "Le problème philosophique : sommes-nous vraiment maîtres de nos pensées si une partie de notre vie psychique nous échappe ?"
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel est le fondateur de la psychanalyse ?","options":["Descartes","Sigmund Freud","Jean-Paul Sartre","Emmanuel Kant"],"correct":1,"correction":"Freud publie L'interprétation du rêve en 1900 et pose la notion d'inconscient."},
+        {"type":"texte","q":"Expliquez la formule cartésienne du cogito.","reponse":"En doutant de tout, je ne peux pas douter de mon propre doute : j'existe comme pensée au moment où je pense.","correction":"Le cogito est une intuition immédiate : l'existence du sujet pensant est la première vérité, antérieure à toute preuve du monde extérieur."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "Philosophie",
+      "titre": "La vérité et les critères du vrai : scepticisme et évidence",
+      "source": "Programme de philosophie de terminale générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Le scepticisme (Montaigne, Apologie de Raimond Sebond ; Sextus Empiricus) suspend le jugement devant la diversité des opinions et l'incertitude des sens.",
+        "Descartes répond par le critère de l'évidence : une idée est vraie si elle se présente avec une clarté et une distinctivité irrésistibles.",
+        "Le critère de cohérence (Leibniz) exige qu'un énoncé soit non contradictoire ; le critère de correspondance (Aristote) le rapporte à la réalité.",
+        "Nietzsche conteste la valeur absolue de la vérité : elle serait une « mobilité de métaphores » et un instrument de vie plutôt qu'un reflet du réel."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel critère de vérité est associé à Leibniz ?","options":["L'évidence","La cohérence non contradictoire","La sensation","L'autorité"],"correct":1,"correction":"Leibniz distingue les vérités de fait et les vérités de raison, ces dernières reposant sur le principe de non-contradiction."},
+        {"type":"texte","q":"Comment Descartes répond-il au scepticisme ?","reponse":"Il met en doute toutes les connaissances mais découvre dans le doute même une certitude : l'existence de la pensée qui doute.","correction":"Le doute méthodique est un moyen provisoire : il conduit au cogito, première évidence à partir de laquelle d'autres vérités peuvent être reconstruites."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "Philosophie",
+      "titre": "La justice et l'égalité : distribuer, réparer, reconnaître",
+      "source": "Programme de philosophie de terminale générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Aristote distingue la justice distributive (répartition selon le mérite et la proportion géométrique) et la justice commutative (égalité dans les échanges).",
+        "Kant fonde le droit sur la liberté de chacun, compatible avec celle de tous : l'égalité devant la loi est une exigence de la raison pratique.",
+        "Rawls (Théorie de la justice, 1971) propose le « voile d'ignorance » : dans la position originale, on choisit des principes sans savoir son rang social.",
+        "La question philosophique : faut-il traiter tous les êtres de la même manière, ou tenir compte des différences de situation pour parvenir à une réelle équité ?"
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel est le nom du dispositif imaginé par John Rawls ?","options":["Le cogito","Le voile d'ignorance","Le contrat social","La main invisible"],"correct":1,"correction":"Le voile d'ignorance place les individus dans une position originale où ils ignorent leur place dans la société."},
+        {"type":"texte","q":"Quelle différence entre justice distributive et justice commutative selon Aristote ?","reponse":"La distributive répartit les biens selon une proportion ; la commutative exige l'égalité dans les transactions entre particuliers.","correction":"La première concerne les rapports de la collectivité aux individus (proportion géométrique) ; la seconde corrige les torts et les échanges (proportion arithmétique)."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "Philosophie",
+      "titre": "L'État, la souveraineté et le monopole de la contrainte",
+      "source": "Programme de philosophie de terminale générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Hobbes (Léviathan, 1651) justifie un État absolu par la peur de la guerre de tous contre tous : le monopole de la violence garantit la sécurité.",
+        "Locke limite le pouvoir au respect des droits naturels (vie, liberté, propriété) et admet un droit de résistance au souverain.",
+        "Rousseau (Du contrat social, 1762) définit la souveraineté comme l'exercice de la volonté générale : le peuple est à la fois sujet et législateur.",
+        "Montesquieu (De l'esprit des lois, 1748) théorise la séparation des pouvoirs législatif, exécutif et judiciaire comme condition de la liberté politique."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel ouvrage de Montesquieu théorise la séparation des pouvoirs ?","options":["Du contrat social","De l'esprit des lois","Léviathan","Traité d'économie politique"],"correct":1,"correction":"De l'esprit des lois (1748) analyse les gouvernements et la distribution des pouvoirs."},
+        {"type":"texte","q":"Comment Rousseau définit-il la volonté générale ?","reponse":"Ce n'est pas la somme des volontés particulières mais la volonté du peuple comme corps souverain, orientée vers l'intérêt commun.","correction":"La volonté générale est exprimée par la loi ; elle distingue le souverain (le peuple) du gouvernement (exécutif) et fonde la souveraineté inaliénable."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "Philosophie",
+      "titre": "La technique : outil, puissance et aliénation",
+      "source": "Programme de philosophie de terminale générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Aristote définit la technè comme un savoir-faire ordonné à un produit : l'outil est un moyen au service d'une fin humaine.",
+        "Marx analyse la machine comme un facteur d'aliénation : dans le capitalisme, l'ouvrier est séparé du produit de son travail et asservi au rythme de l'usine.",
+        "Simondon (L'individuation à la lumière des notions de forme et d'information, 1961) propose une réhabilitation de la technique comme mode de relation entre l'homme et le monde.",
+        "Heidegger (La question de la technique, 1954) met en garde contre un « dispositif » qui réduit la nature et l'homme à des ressources disponibles."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel philosophe a écrit « La question de la technique » ?","options":["Karl Marx","Martin Heidegger","Gilbert Simondon","Aristote"],"correct":1,"correction":"Heidegger publie cette conférence en 1954 et y analyse la technique comme « Gestell » (dispositif)."},
+        {"type":"texte","q":"En quoi Simondon s'oppose-t-il à une vision purement instrumentale de la technique ?","reponse":"La technique n'est pas seulement un outil : elle est une relation d'individuation entre l'humain, l'objet et le monde.","correction":"Pour Simondon, la machine n'est pas un simple moyen ; elle porte une charge culturelle et transforme la manière dont l'homme s'individue."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "Philosophie",
+      "titre": "Le bonheur : sagesse antiques et exigence morale",
+      "source": "Programme de philosophie de terminale générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Aristote identifie le bonheur (eudaimonia) à l'activité conforme à la vertu et à l'excellence humaine, dans une vie politique et raisonnable.",
+        "Les stoïciens (Épictète, Marc-Aurèle) font consister le bonheur dans l'accord avec la nature et la maîtrise des passions, indépendamment des biens extérieurs.",
+        "Épicure propose un hédonisme intellectualisé : le plaisir durable est l'absence de trouble (ataraxie), obtenue par la tempérance et l'amitié.",
+        "Kant rappelle que le bonheur ne peut être le fondement de la morale : la loi morale doit être suivie par devoir, indépendamment du bonheur espéré."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Comment Aristote nomme-t-il le bonheur ?","options":["Ataraxie","Eudaimonia","Catharsis","Hubris"],"correct":1,"correction":"L'eudaimonia est l'épanouissement humain par l'exercice des vertus."},
+        {"type":"texte","q":"Pourquoi Kant refuse-t-il de fonder la morale sur le bonheur ?","reponse":"Parce que le bonheur est un désir empirique et variable : une morale qui en dépendrait serait conditionnelle, non universelle.","correction":"Seul le devoir, dicté par la raison pratique, peut avoir une valeur inconditionnelle ; le bonheur peut être espéré mais non exigé."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["2nde"],
+      "matiere": "Histoire-Géographie",
+      "titre": "La Première Guerre mondiale : une guerre totale et la fin des empires",
+      "source": "Programme d'histoire de la classe de seconde, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "L'attentat de Sarajevo (28 juin 1914) déclenche une crise internationale : l'Autriche-Hongrie, l'Allemagne, la Russie, la France et le Royaume-Uni entrent en guerre en quelques semaines.",
+        "Après l'échec de la guerre de mouvement (bataille de la Marne, septembre 1914), le front occidental se fige dans une guerre de position : Verdun (1916), Somme (1916).",
+        "La guerre est totale : économies, sciences (Marie Curie et les unités mobiles de radiographie), civils et empires coloniaux sont mobilisés ; les femmes accèdent à de nouveaux rôles.",
+        "Le génocide des Arméniens (1915) et la Déclaration de la Triple Entente du 24 mai 1915 sur les « crimes contre l'humanité » marquent la radicalisation du conflit ; les traités de 1919-1923 redessinent l'Europe."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle bataille marque l'échec de la guerre de mouvement en 1914 ?","options":["Verdun","La Marne","Stalingrad","Sedan"],"correct":1,"correction":"La victoire de la Marne (septembre 1914) arrête l'offensive allemande et ouvre la guerre de position."},
+        {"type":"texte","q":"Pourquoi parle-t-on de guerre totale ?","reponse":"Parce que le conflit mobilise l'ensemble des ressources humaines, économiques, scientifiques et coloniales des États belligérants, ainsi que les civils.","correction":"La guerre dépasse le champ militaire : production industrielle, propagande, rationnement, mobilisation des femmes et des empires sont mis au service de l'effort de guerre."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "Histoire-Géographie",
+      "titre": "La Troisième République avant 1914 : un régime politique et un empire colonial",
+      "source": "Programme d'histoire de la première générale, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Après la défaite de Sedan (1870) et la Commune, les lois constitutionnelles de 1875 instaurent un régime parlementaire : président, Sénat et Chambre des députés.",
+        "L'« opportunisme » puis le radicalisme démocratique (1901) assoient la laïcité : loi Ferry sur l'instruction gratuite et obligatoire (1882), séparation des Églises et de l'État (1905).",
+        "L'expansion coloniale (Afrique, Indochine) est justifiée par la mission civilisatrice et la compétition européenne ; elle soulève aussi des résistances et des critiques (Jaurès).",
+        "La société française reste marquée par les inégalités : paysannerie, ouvriers, patrons ; la question sociale et les grèves (1900-1914) traversent la Belle Époque."
+      ],
+      "questions": [
+        {"type":"qcm","q":"En quelle année est votée la loi de séparation des Églises et de l'État ?","options":["1882","1901","1905","1875"],"correct":2,"correction":"La loi de séparation est votée en 1905 ; la laïcité de l'école remonte aux lois Ferry de 1881-1882."},
+        {"type":"texte","q":"Quelles sont les institutions de la Troisième République ?","reponse":"Un président de la République, un Sénat et une Chambre des députés, avec un gouvernement responsable devant le Parlement.","correction":"Les lois constitutionnelles de 1875 organisent un régime parlementaire bicaméral ; le président est élu par les deux chambres réunies."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "Histoire-Géographie",
+      "titre": "Les dynamiques d'un monde en recomposition : métropolisation et espaces productifs",
+      "source": "Programme de géographie de la première générale, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "La métropolisation est un processus mondial mais différencié : concentration des fonctions de commandement, des services supérieurs et des populations dans les grandes villes.",
+        "Les espaces productifs se diversifient : dispersion industrielle, zones d'activités, agriculture productiviste et services délocalisés s'organisent en réseaux.",
+        "Les espaces ruraux sont à la fois multifonctionnels (production, habitat, tourisme, environnement) et fragmentés par la périurbanisation et la concurrence des usages.",
+        "La Chine illustre ces recompositions : mégapoles côtières, zones économiques spéciales, migrations internes et inégalités entre littoral et intérieur."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Qu'appelle-t-on métropolisation ?","options":["Le déclin des villes","La concentration des fonctions de commandement dans les grandes villes","La création de villages","La désindustrialisation rurale"],"correct":1,"correction":"La métropolisation désigne le renforcement du poids des métropoles dans les réseaux économiques et politiques."},
+        {"type":"texte","q":"Pourquoi les espaces ruraux sont-ils qualifiés de multifonctionnels ?","reponse":"Parce qu'ils remplissent simultanément des fonctions de production agricole, d'habitat, de loisirs et de protection environnementale.","correction":"Ils ne sont plus seulement des espaces de production : ils accueillent des populations, des activités touristiques et des enjeux écologiques, ce qui crée des tensions d'usage."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "Histoire-Géographie",
+      "titre": "Fragilités des démocraties, totalitarismes et Seconde Guerre mondiale",
+      "source": "Programme d'histoire de la terminale générale, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La crise économique de 1929 affaiblit les démocraties et favorise l'essor des régimes autoritaires : Mussolini au pouvoir en Italie depuis 1922, Hitler nommé chancelier en 1933.",
+        "Les totalitarismes fasciste, nazi et stalinien visent à contrôler l'ensemble de la société par le parti unique, la propagande, la terreur et un culte du chef.",
+        "La guerre éclate en septembre 1939 ; l'Allemagne nazie applique un projet de conquête et d'extermination : Shoah, génocide des Roms, crimes contre l'humanité.",
+        "La défaite des puissances de l'Axe en 1945 (Normandie, Stalingrad, Berlin) conduit à la création de l'ONU et à une nouvelle donne internationale."
+      ],
+      "questions": [
+        {"type":"qcm","q":"En quelle année Adolf Hitler est-il nommé chancelier ?","options":["1922","1929","1933","1939"],"correct":2,"correction":"Hitler est nommé chancelier le 30 janvier 1933, puis instaure la dictature après l'incendie du Reichstag."},
+        {"type":"texte","q":"Quels critères définissent un régime totalitaire ?","reponse":"Un parti unique, une idéologie officielle, le contrôle de la société et de l'information, la terreur policière et un chef charismatique.","correction":"Hannah Arendt et Franz Neumann ont dégagé ces traits communs au nazisme et au stalinisme : mobilisation permanente des masses et soumission de l'individu."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "Histoire-Géographie",
+      "titre": "Les acteurs internationaux dans le monde bipolaire (1945-années 1970)",
+      "source": "Programme d'histoire de la terminale générale, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'ONU est fondée en 1945 à San Francisco ; son Conseil de sécurité réunit cinq membres permanents disposant d'un droit de veto.",
+        "Deux blocs s'affrontent : l'OTAN (1949) menée par les États-Unis et le Pacte de Varsovie (1955) dirigé par l'URSS ; la bipolarité structure les relations internationales.",
+        "La décolonisation bouleverse la carte du monde : indépendance de l'Inde (1947), de l'Indochine (1954), de l'Algérie (1962) ; les nouveaux États se regroupent dans le tiers monde.",
+        "Des acteurs non étatiques émergent : mouvements de libération, organisations internationales, multinationales ; la Conférence de Bandung (1955) affirme la voix des pays d'Asie et d'Afrique."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle organisation est créée en 1949 sous l'égide des États-Unis ?","options":["L'ONU","L'OTAN","Le Pacte de Varsovie","L'OMC"],"correct":1,"correction":"L'OTAN (Organisation du traité de l'Atlantique nord) est fondée en 1949 ; le Pacte de Varsovie date de 1955."},
+        {"type":"texte","q":"Quels sont les cinq membres permanents du Conseil de sécurité de l'ONU ?","reponse":"La Chine, les États-Unis, la France, le Royaume-Uni et la Russie (qui a succédé à l'URSS).","correction":"Ces cinq États, vainqueurs de la Seconde Guerre mondiale, disposent d'un droit de veto sur les résolutions du Conseil de sécurité."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "Histoire-Géographie",
+      "titre": "Mers et océans au cœur de la mondialisation",
+      "source": "Programme de géographie de la terminale générale, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Plus de 80 % du commerce mondial de marchandises transite par voie maritime : conteneurs, ports de transbordement et routes intercontinentales structurent la mondialisation.",
+        "Les grands ports mondiaux (Shanghai, Singapore, Rotterdam) sont des hubs connectés à des hinterlands industriels et à des réseaux de transport terrestre.",
+        "Les mers et océans sont des espaces de circulation mais aussi de conflits : délimitations maritimes, pêche, ressources offshore et stratégies militaires.",
+        "Les enjeux environnementaux (pollution plastique, réchauffement, acidification) font des océans un objet de gouvernance internationale (ONU, conventions régionales)."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel port européen est l'un des principaux hubs conteneurs ?","options":["Marseille","Rotterdam","Hambourg","Gênes"],"correct":1,"correction":"Rotterdam est le premier port d'Europe en volume de conteneurs, avec un vaste hinterland rhénan."},
+        {"type":"texte","q":"Qu'est-ce qu'un hinterland portuaire ?","reponse":"C'est l'espace continental desservi par un port, dont il draine les marchandises et vers lequel il les distribue.","correction":"L'hinterland désigne la zone d'attraction économique d'un port ; sa taille et sa densité conditionnent le trafic portuaire."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Maths",
+      "titre": "Les suites numériques : arithmétiques, géométriques et convergence",
+      "source": "Programme de mathématiques, BO n° 14 du 2 avril 2026 (éduscol) et programme de spécialité de terminale, arrêté du 26 février 2026",
+      "points": [
+        "Une suite arithmétique vérifie u(n+1) = u(n) + r : son terme général est u(n) = u(0) + n·r et sa somme est n/2·(u(0) + u(n)).",
+        "Une suite géométrique vérifie u(n+1) = q·u(n) : son terme général est u(n) = u(0)·q^n ; si 0 < q < 1, la suite converge vers 0.",
+        "Pour étudier les variations, on compare u(n+1) - u(n) à 0 (ou u(n+1)/u(n) à 1 pour une suite à termes positifs).",
+        "Les suites servent à modéliser des évolutions discrètes : intérêts composés, décroissance d'une population, remplissage d'un réservoir."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Une suite géométrique de raison q = 0,5 et de premier terme 80 a pour terme u(3) :","options":["10","20","40","160"],"correct":0,"correction":"u(3) = 80 × 0,5³ = 80 × 0,125 = 10."},
+        {"type":"texte","q":"Comment reconnaître une suite arithmétique ?","reponse":"La différence entre deux termes consécutifs est constante : u(n+1) - u(n) = r.","correction":"L'écart constant r est la raison ; le terme général est alors affine en n : u(n) = u(0) + n·r."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Maths",
+      "titre": "La fonction exponentielle et le logarithme népérien",
+      "source": "Programme de mathématiques, BO n° 14 du 2 avril 2026 (éduscol) et programme de spécialité de terminale, arrêté du 26 février 2026",
+      "points": [
+        "La fonction exp est la seule fonction dérivable égale à sa dérivée avec exp(0) = 1 ; elle est strictement croissante et de limite +∞ en +∞.",
+        "Le logarithme népérien ln est la réciproque de exp sur ]0 ; +∞[ : ln(xy) = ln x + ln y et ln(x^a) = a·ln x.",
+        "Dérivées utiles : (exp x)' = exp x, (ln x)' = 1/x, (e^(kx))' = k·e^(kx) ; (ln u)' = u'/u.",
+        "Le modèle exponentiel rend compte de la croissance d'une population ou de la désintégration radioactive : N(t) = N(0)·e^(kt), avec k < 0 pour une décroissance."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle est la dérivée de ln(x) ?","options":["x","1/x","exp(x)","-1/x²"],"correct":1,"correction":"Pour x > 0, (ln x)' = 1/x."},
+        {"type":"texte","q":"Comment résoudre l'équation e^x = 5 ?","reponse":"En prenant le logarithme népérien des deux membres : x = ln(5).","correction":"La fonction ln étant la réciproque de exp sur R, on applique ln à l'équation : ln(e^x) = x = ln(5) ≈ 1,609."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "Maths",
+      "titre": "L'intégration et le calcul d'aires sous une courbe",
+      "source": "Programme de mathématiques de spécialité de terminale, arrêté du 26 février 2026, BO n° 14 du 2 avril 2026, éduscol",
+      "points": [
+        "Si F est une primitive de f sur [a ; b], alors l'intégrale de f de a à b vaut F(b) - F(a) : c'est la relation fondamentale du calcul intégral.",
+        "L'intégrale définit l'aire algébrique entre la courbe de f et l'axe des abscisses : une partie sous l'axe compte négativement.",
+        "Primitives usuelles : ∫x^n dx = x^(n+1)/(n+1), ∫e^x dx = e^x, ∫1/x dx = ln|x|, ∫cos x dx = sin x.",
+        "L'intégration par parties (∫u'v = uv - ∫uv') et le changement de variable permettent de calculer des intégrales composées."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Que vaut l'intégrale de 0 à 1 de x² dx ?","options":["1/2","1/3","2/3","1"],"correct":1,"correction":"Une primitive de x² est x³/3 ; l'intégrale vaut 1/3 - 0 = 1/3."},
+        {"type":"texte","q":"Comment obtenir l'aire géométrique entre une courbe et l'axe des abscisses ?","reponse":"En intégrant la valeur absolue de la fonction, ou en additionnant les aires positives et les opposés des aires négatives.","correction":"L'intégrale donne une aire algébrique ; pour une aire géométrique, on découpe le domaine selon les zéros de f et on prend |∫f| sur chaque morceau."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "Maths",
+      "titre": "Le produit scalaire, les angles et l'orthogonalité",
+      "source": "Programme de mathématiques, BO n° 14 du 2 avril 2026, éduscol",
+      "points": [
+        "Le produit scalaire de deux vecteurs vérifie u·v = ||u|| × ||v|| × cos(θ), où θ est l'angle entre eux ; en coordonnées : u·v = x·x' + y·y' + z·z'.",
+        "Deux vecteurs non nuls sont orthogonaux si et seulement si leur produit scalaire est nul.",
+        "Un vecteur normal à un plan est orthogonal à tout vecteur directeur du plan ; il permet d'écrire une équation cartésienne ax + by + cz + d = 0.",
+        "La distance d'un point à un plan et l'angle entre deux plans se calculent à l'aide des vecteurs normaux."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Que vaut le produit scalaire de deux vecteurs orthogonaux ?","options":["1","0","-1","La somme de leurs normes"],"correct":1,"correction":"cos(90°) = 0, donc le produit scalaire est nul (pour des vecteurs non nuls)."},
+        {"type":"texte","q":"Comment calculer un angle entre deux vecteurs avec le produit scalaire ?","reponse":"On isole cos(θ) = (u·v)/(||u||·||v||), puis on prend l'arccos.","correction":"La formule u·v = ||u|| ||v|| cos θ donne directement le cosinus de l'angle ; on utilise ensuite arccos pour obtenir θ."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["2nde", "1re"],
+      "matiere": "Physique-Chimie",
+      "titre": "Les ondes et la propagation de la lumière",
+      "source": "Programme de physique-chimie, BO spécial n° 1 du 22 janvier 2019 et BO n° 27 du 7 juillet 2022, éduscol",
+      "points": [
+        "Une onde mécanique ou électromagnétique se propage en transportant de l'énergie sans déplacement net de matière ; sa vitesse vérifie v = λ × f.",
+        "La lumière est une onde électromagnétique : dans le vide, sa célérité vaut c ≈ 3,0 × 10^8 m/s ; elle se réfléchit et se réfracte (loi de Snell-Descartes).",
+        "Le passage d'un milieu à un autre s'accompagne d'un changement de longueur d'onde, la fréquence restant invariante.",
+        "Les interférences et la diffraction mettent en évidence la nature ondulatoire de la lumière ; le spectre visible s'étend environ de 380 à 780 nm."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Une onde de fréquence 5 × 10^14 Hz dans le vide a une longueur d'onde d'environ :","options":["600 nm","500 nm","400 nm","300 nm"],"correct":0,"correction":"λ = c/f = 3×10^8 / 5×10^14 = 6×10^-7 m = 600 nm."},
+        {"type":"texte","q":"Qu'est-ce qui change quand une lumière passe de l'air dans l'eau ?","reponse":"Sa vitesse et sa longueur d'onde diminuent, mais sa fréquence reste la même.","correction":"La fréquence est imposée par la source ; comme v = λf, une baisse de vitesse entraîne une baisse de longueur d'onde."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "Physique-Chimie",
+      "titre": "Les transformations chimiques, l'énergie et le pH",
+      "source": "Programme de physique-chimie de la première générale, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Une réaction chimique est décrite par un bilan conservant les atomes ; la quantité de matière se mesure en moles (n = m/M).",
+        "Une réaction exothermique libère de l'énergie (ΔH < 0), une réaction endothermique en absorbe (ΔH > 0) ; l'énergie d'activation conditionne la vitesse.",
+        "Un acide libère des protons H+ en solution, une base en accepte ; le pH = -log[H+] : acide si pH < 7, neutre si pH = 7, basique si pH > 7 à 25 °C.",
+        "Une solution tampon, formée d'un acide faible et de sa base conjuguée, résiste aux ajouts modérés d'acide ou de base."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel est le pH d'une solution dont la concentration en ions H+ vaut 10^-3 mol/L ?","options":["1","3","7","11"],"correct":1,"correction":"pH = -log(10^-3) = 3."},
+        {"type":"texte","q":"Quelle différence entre une réaction exothermique et endothermique ?","reponse":"La première dégage de la chaleur (ΔH < 0), la seconde en absorbe (ΔH > 0).","correction":"Le signe de l'enthalpie de réaction traduit le bilan énergétique : le milieu s'échauffe ou se refroidit selon le cas."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["2nde"],
+      "matiere": "Physique-Chimie",
+      "titre": "Puissance et énergie dans les circuits électriques",
+      "source": "Programme de physique-chimie de la classe de seconde, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "La puissance électrique consommée par un dipôle vaut P = U × I (en watts) ; l'énergie consommée en une durée t est E = P × t (en joules ou kWh).",
+        "L'intensité se mesure avec un ampèremètre branché en série, la tension avec un voltmètre branché en dérivation aux bornes du dipôle.",
+        "Dans un circuit en série, l'intensité est la même en tout point et les tensions s'additionnent ; en dérivation, les tensions sont égales et les intensités s'additionnent.",
+        "La loi des mailles de Kirchhoff exprime que la somme algébrique des tensions le long d'une boucle fermée est nulle."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Un appareil branché sous 230 V consomme 2 A. Quelle est sa puissance ?","options":["115 W","232 W","460 W","920 W"],"correct":2,"correction":"P = U × I = 230 × 2 = 460 W."},
+        {"type":"texte","q":"Comment mesurer l'intensité du courant dans un circuit ?","reponse":"En insérant un ampèremètre en série dans le circuit, en respectant le sens de branchement.","correction":"L'ampèremètre doit être traversé par le courant à mesurer ; branché en dérivation, il court-circuiterait le dipôle."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["2nde"],
+      "matiere": "SVT",
+      "titre": "La cellule, unité structurale et fonctionnelle du vivant",
+      "source": "Programme de SVT de la classe de seconde, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Tous les êtres vivants sont constitués de cellules : procaryotes (bactéries, sans noyau) ou eucaryotes (animal, végétal, champignon, avec noyau).",
+        "La membrane plasmique contrôle les échanges avec le milieu ; le cytoplasme contient des organites spécialisés (mitochondries, ribosomes, réticulum endoplasmique).",
+        "Les cellules végétales possèdent en plus une paroi de cellulose, des chloroplastes et une vacuole ; les cellules animales ont des centrioles.",
+        "Le microscope optique atteint un grossissement d'environ 1000× ; la microscopie électronique permet d'observer les ultrastructure et les membranes."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel organite est spécifique de la cellule végétale et assure la photosynthèse ?","options":["La mitochondrie","Le ribosome","Le chloroplaste","Le noyau"],"correct":2,"correction":"Le chloroplaste contient la chlorophylle et réalise la photosynthèse."},
+        {"type":"texte","q":"Quelle est la différence entre une cellule procaryote et une cellule eucaryote ?","reponse":"La cellule procaryote n'a pas de noyau ni d'organites membranaires ; l'eucaryote possède un noyau et des organites.","correction":"Bactéries et archées sont procaryotes ; animaux, plantes et champignons sont eucaryotes."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["2nde", "1re"],
+      "matiere": "SVT",
+      "titre": "ADN, gènes et chromosomes : les bases de l'hérédité",
+      "source": "Programme de SVT, BO spécial n° 1 du 22 janvier 2019 et programme de spécialité de terminale, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'ADN est une double hélice de nucléotides ; l'information génétique est portée par la suite des bases adénine, thymine, cytosine et guanine (A-T, C-G).",
+        "Un gène est un segment d'ADN qui porte l'information pour une protéine ; les allèles sont des versions différentes d'un même gène.",
+        "Les chromosomes sont des structures d'ADN condensé : l'espèce humaine possède 23 paires de chromosomes, dont une paire de chromosomes sexuels.",
+        "La réplication de l'ADN est semi-conservatrice : chaque nouvelle molécule contient un brin ancien et un brin néosynthétisé."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Combien de paires de chromosomes possède l'espèce humaine ?","options":["22","23","46","24"],"correct":1,"correction":"L'Homme possède 23 paires, soit 46 chromosomes dans une cellule somatique."},
+        {"type":"texte","q":"Qu'appelle-t-on allèles ?","reponse":"Ce sont différentes versions d'un même gène, situées au même locus sur des chromosomes homologues.","correction":"Par exemple, les allèles A et O du gène du groupe sanguin : un individu en possède deux, un sur chaque chromosome homologue."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "SVT",
+      "titre": "L'évolution des êtres vivants et la biodiversité",
+      "source": "Programme de SVT de la terminale générale, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Darwin (L'Origine des espèces, 1859) propose la sélection naturelle : les individus porteurs de variations favorables survivent et se reproduisent davantage.",
+        "Les mutations et la recombinaison génétique créent la diversité ; les pressions de sélection (prédation, climat, concurrence) orientent son maintien.",
+        "Les fossiles, l'anatomie comparée et la biologie moléculaire permettent de reconstituer les phylogénies, représentées par des arbres évolutifs.",
+        "La biodiversité comprend la diversité génétique, spécifique et écosystémique ; elle est menacée par la perte d'habitats, la pollution et le changement climatique."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel mécanisme Darwin a-t-il proposé pour expliquer l'évolution ?","options":["La génération spontanée","La sélection naturelle","La Lamarckisme","La mutation dirigée"],"correct":1,"correction":"Darwin et Wallace ont proposé la sélection naturelle des variations héréditaires avantageuses."},
+        {"type":"texte","q":"Quels éléments de preuve appuient la théorie de l'évolution ?","reponse":"Les fossiles, les comparaisons anatomiques et embryologiques, la biogéographie et les similitudes moléculaires (ADN, protéines).","correction":"Ces faisceaux de preuves convergent : les archives fossiles montrent des formes de transition, et le code génétique est universel."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["2nde", "1re"],
+      "matiere": "Anglais",
+      "titre": "Les temps du récit et le discours indirect",
+      "source": "Programme de langues vivantes, BO n° 22 du 29 mai 2025, éduscol",
+      "points": [
+        "Le prétérit simple (I walked) raconte des actions passées achevées ; le prétérit continu (I was walking) décrit une action en cours interrompue par une autre action.",
+        "Le plus-que-parfait (had + participe passé) exprime une antériorité par rapport à un passé : When I arrived, he had already left.",
+        "Le discours indirect applique un recul des temps : « I live here » → He said he lived there ; le present perfect devient le plus-que-parfait.",
+        "Les connecteurs de narration (then, afterwards, suddenly, eventually) structurent un récit et sont un critère d'évaluation de l'expression écrite."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Choisissez la forme correcte : « When I ___ home, the film had already started. »","options":["get","got","have got","was getting"],"correct":1,"correction":"Le prétérit simple marque l'action passée, le plus-que-parfait l'antériorité : « when I got home »."},
+        {"type":"texte","q":"Transformez en discours indirect : « I will call you tomorrow », she said.","reponse":"She said (that) she would call me the next day.","correction":"Le futur « will » devient « would » et l'adverbe de temps « tomorrow » devient « the next day / the following day »."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "Anglais",
+      "titre": "L'expression de l'opinion et l'essai argumentatif",
+      "source": "Programme de langues vivantes de terminale générale, BO n° 22 du 29 mai 2025, éduscol",
+      "points": [
+        "L'essai en anglais suit un plan en trois parties : introduction avec problématique, deux ou trois paragraphes argumentés avec exemples, conclusion nuancée.",
+        "Les modaux de déduction : must (certitude), may/might (hypothèse), can't (impossibilité) : He must be tired ; He can't have known.",
+        "Les outils de nuance : although, however, whereas, on the other hand, it could be argued that… permettent de nuancer une thèse.",
+        "La maîtrise des structures complexes (relative clauses, conditionnels, subjonctif après « suggest that ») est attendue au niveau C1 du CECRL."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel modal exprime une certitude positive ?","options":["might","must","can't","should"],"correct":1,"correction":"Must exprime une déduction quasi certaine ; can't exprime une impossibilité."},
+        {"type":"texte","q":"Comment nuancer une affirmation dans un essai en anglais ?","reponse":"En employant des connecteurs de concession (although, however) et des formules comme « it may be argued that… ».","correction":"Ces marqueurs montrent la prise en compte d'arguments contraires, attendue dans un essai de niveau lycéen avancé."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["2nde", "1re"],
+      "matiere": "EMC",
+      "titre": "La laïcité et les libertés dans l'école républicaine",
+      "source": "Programme d'enseignement moral et civique, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "La laïcité repose sur la liberté de conscience, la séparation des Églises et de l'État (loi de 1905) et l'égalité de tous les citoyens devant la loi.",
+        "À l'école, la laïcité implique la neutralité de l'enseignant et des locaux publics, ainsi que le respect des croyances de chacun.",
+        "La liberté d'expression est garantie par l'article 11 de la Déclaration des droits de l'homme de 1789 ; elle trouve ses limites dans le respect d'autrui et l'ordre public.",
+        "Les conflits entre liberté d'expression et respect des convictions (affaire du caricaturiste, port de signes religieux) sont des objets de débat citoyen."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle loi consacre la séparation des Églises et de l'État en France ?","options":["La loi Ferry de 1882","La loi de 1905","La loi de 1901","La loi de 1946"],"correct":1,"correction":"La loi du 9 décembre 1905 sépare les Églises et l'État ; les lois Ferry (1881-1882) ont rendu l'école gratuite, laïque et obligatoire."},
+        {"type":"texte","q":"Quelle distinction entre laïcité de l'État et liberté de conscience ?","reponse":"L'État est neutre et ne reconnaît aucun culte, mais chacun reste libre de croire ou de ne pas croire.","correction":"La laïcité garantit la liberté de conscience en soustrayant l'espace public à l'influence des religions, sans contraindre les convictions privées."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "EMC",
+      "titre": "La participation citoyenne et les instances de la démocratie",
+      "source": "Programme d'enseignement moral et civique de terminale, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La souveraineté nationale appartient au peuple, qui l'exerce par ses représentants et par le référendum (article 3 de la Constitution de 1958).",
+        "Le suffrage universel direct désigne le président de la République et les députés ; le suffrage indirect concerne notamment les sénateurs.",
+        "La participation citoyenne dépasse le vote : engagement dans les associations, pétitions, conseils citoyens, médiation et délibération locale.",
+        "L'abstention, la défiance envers les institutions et la montée des populismes sont des enjeux contemporains de la démocratie."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Comment les sénateurs sont-ils élus en France ?","options":["Au suffrage universel direct","Au suffrage universel indirect","Par le président","Par tirage au sort"],"correct":1,"correction":"Les sénateurs sont élus au suffrage universel indirect par un collège de grands électeurs."},
+        {"type":"texte","q":"Quelles formes d'engagement citoyen complètent le vote ?","reponse":"L'adhésion à une association, la participation à des conseils citoyens, les pétitions, le bénévolat et la délibération locale.","correction":"Ces pratiques permettent une participation continue entre les élections et renforcent le lien social et la démocratie participative."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["2nde", "1re", "Terminale"],
+      "matiere": "EPS",
+      "titre": "Les compétences psychomotrices et l'évaluation en EPS",
+      "source": "Programme d'éducation physique et sportive du lycée, BO spécial n° 1 du 22 janvier 2019 et BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'EPS vise le développement des compétences psychomotrices : se déplacer, se diriger, se coordonner, s'équilibrer, frapper, recevoir, lancer.",
+        "Les compétences méthodologiques et sociales incluent la coopération, le respect des règles, l'arbitrage et la gestion de l'effort.",
+        "Au baccalauréat, l'évaluation repose sur des épreuves choisies par l'élève, notées selon des critères de réussite et de niveau atteint (échelle de notation).",
+        "La pratique régulière d'une activité physique contribue à la santé, au bien-être et à la prévention des maladies chroniques."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelles compétences sont spécifiquement évaluées en EPS ?","options":["Uniquement la force","Les compétences psychomotrices et méthodologiques sociales","La mémorisation de cours","La vitesse seule"],"correct":1,"correction":"Le programme évalue des compétences motrices et des compétences méthodologiques et sociales (coopération, règles, projet)."},
+        {"type":"texte","q":"Pourquoi l'arbitrage est-il formateur en EPS ?","reponse":"Il exige la connaissance et l'application des règles, l'impartialité et la gestion de la relation aux autres.","correction":"L'arbitrage développe l'autonomie, le jugement et le sens de la responsabilité, compétences méthodologiques et sociales du programme."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "Enseignement scientifique",
+      "titre": "Le climat, le cycle du carbone et les indicateurs environnementaux",
+      "source": "Programme d'enseignement scientifique de la première générale, BO n° 27 du 7 juillet 2022, éduscol",
+      "points": [
+        "Le carbone circule entre l'atmosphère, les océans, la biosphère et les sols ; les réservoirs ont des temps de séjour très différents.",
+        "La concentration atmosphérique de CO2 a dépassé 420 ppm ; l'augmentation de l'effet de serre provoque une hausse de la température moyenne globale.",
+        "Les indicateurs comme l'empreinte carbone, l'indice de masse corporelle ou les indicateurs de biodiversité permettent de quantifier les impacts environnementaux.",
+        "Les modèles climatiques simulent l'évolution du climat selon différents scénarios d'émissions (GIEC) et doivent être manipulés avec esprit critique."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Que mesure principalement l'empreinte carbone ?","options":["La masse d'un individu","Les émissions de gaz à effet de serre attribuables à une activité","Le nombre d'espèces","La température d'une ville"],"correct":1,"correction":"L'empreinte carbone exprime en équivalent CO2 les émissions liées à un produit, une personne ou une activité."},
+        {"type":"texte","q":"Pourquoi le carbone est-il un élément central de l'étude du climat ?","reponse":"Parce que le CO2 est un gaz à effet de serre dont la concentration atmosphérique a fortement augmenté depuis l'ère industrielle.","correction":"Le cycle du carbone régit les échanges entre réservoirs ; les activités humaines transfèrent du carbone fossile vers l'atmosphère, renforçant l'effet de serre."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "Enseignement scientifique",
+      "titre": "Croissance exponentielle et modélisation des phénomènes",
+      "source": "Programme de mathématiques intégré à l'enseignement scientifique de première générale, BO n° 27 du 7 juillet 2022, éduscol",
+      "points": [
+        "Une suite géométrique de raison q > 1 modélise une croissance exponentielle : la variation relative est constante à chaque pas de temps.",
+        "La fonction exponentielle permet de passer d'un modèle discret à un modèle continu : N(t) = N0 × e^(kt), où k est le taux de croissance continu.",
+        "Le temps de doublement d'une population croissant à un taux k par unité de temps vaut environ 0,693/k (ln 2 / k).",
+        "La désintégration radioactive suit une décroissance exponentielle avec une demi-vie : N(t) = N0 × (1/2)^(t/T)."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Une population double tous les 10 ans. Quel est son facteur de croissance annuel approximatif ?","options":["1,07","1,1","2","0,07"],"correct":0,"correction":"q = 2^(1/10) ≈ 1,0718, soit environ +7 % par an."},
+        {"type":"texte","q":"Comment distinguer une croissance linéaire d'une croissance exponentielle ?","reponse":"La croissance linéaire ajoute une quantité constante ; la croissance exponentielle multiplie par un facteur constant.","correction":"Dans le premier cas la suite est arithmétique (u(n+1)-u(n) = r), dans le second géométrique (u(n+1)/u(n) = q)."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "SES",
+      "titre": "Le marché concurrentiel : offre, demande et équilibre",
+      "source": "Programme de spécialité SES de première générale, arrêté du 17 janvier 2019, BO spécial n° 1 du 22 janvier 2019, éduscol / SES-ENS",
+      "points": [
+        "Sur un marché concurrentiel, de nombreux offrent et demandeurs sont preneurs de prix : aucun agent ne peut influencer seul le prix de marché.",
+        "La courbe de demande est décroissante (effet de prix) ; la courbe d'offre est croissante dans le cas usuel de coût marginal croissant.",
+        "L'équilibre est atteint quand l'offre égale la demande : le prix d'équilibre dégage un surplus du consommateur et un surplus du producteur.",
+        "Les gains à l'échange sont maximisés à l'équilibre ; une taxe forfaitaire ou un prix plancher déplace les courbes et crée une perte sèche."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Sur un marché de concurrence parfaite, les agents sont :","options":["Price makers","Preneurs de prix","Monopoleurs","Oligopolistes"],"correct":1,"correction":"La concurrence parfaite suppose une multitude d'agents, chacun preneur de prix."},
+        {"type":"texte","q":"Comment déplacer la courbe de demande d'un bien ?","reponse":"Par une variation d'un facteur autre que son prix : revenu, prix des biens substituables ou complémentaires, goûts, démographie.","correction":"Une hausse du revenu pour un bien normal décale la demande vers la droite ; une hausse du prix d'un substitut augmente aussi la demande."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "SES",
+      "titre": "Les défaillances du marché et l'intervention publique",
+      "source": "Programme de spécialité SES de première générale, BO spécial n° 1 du 22 janvier 2019, éduscol / SES-ENS",
+      "points": [
+        "Les biens publics (non rivaux et non exclusifs, comme la défense) et les externalités (pollution, vaccin) conduisent à une sous-production ou une sur-production privée.",
+        "L'asymétrie d'information (sélection adverse, aléa moral) et la concentration de marché (monopole, oligopole) sont d'autres défaillances.",
+        "L'État corrige ces défaillances par la fiscalité, les subventions, la réglementation, la production directe de biens publics et le droit de la concurrence.",
+        "L'assurance et la protection sociale mutualisent les risques : elles réduisent l'incertitude individuelle mais posent la question de l'aléa moral."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel est un exemple de bien public ?","options":["Un pain","La défense nationale","Une voiture","Un billet de concert"],"correct":1,"correction":"La défense est non rivale et non exclusive : personne ne peut en être exclu et la consommation de l'un ne prive pas les autres."},
+        {"type":"texte","q":"Qu'est-ce que l'aléa moral ?","reponse":"C'est le changement de comportement d'un agent après s'être assuré : il prend moins de précautions car il est protégé.","correction":"L'aléa moral est une conséquence de l'asymétrie d'information après la signature du contrat, distincte de la sélection adverse (avant)."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "SES",
+      "titre": "La gouvernance des entreprises et les conflits d'intérêts",
+      "source": "Programme de spécialité SES de première générale, BO spécial n° 1 du 22 janvier 2019, éduscol / SES-ENS",
+      "points": [
+        "L'entreprise est une institution qui combine des ressources humaines, financières, matérielles et immatérielles pour produire des biens ou services.",
+        "La séparation entre propriété (actionnaires) et direction (dirigeants) crée un conflit d'agence : les objectifs peuvent diverger.",
+        "Les mécanismes de gouvernance (conseil d'administration, assemblée générale, rémunération incitative, audit) visent à aligner les intérêts.",
+        "L'entreprise a aussi des parties prenantes : salariés, clients, fournisseurs, collectivités ; la responsabilité sociale des entreprises (RSE) élargit sa finalité."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel organe représente les actionnaires dans une société anonyme ?","options":["Le conseil municipal","L'assemblée générale","Le comité d'hygiène","Le tribunal de commerce"],"correct":1,"correction":"L'assemblée générale des actionnaires est l'organe souverain de la SA ; elle élit le conseil d'administration."},
+        {"type":"texte","q":"Expliquez le conflit d'agence.","reponse":"Les dirigeants peuvent poursuivre leurs propres objectifs (taille, prestige) plutôt que la maximization de la valeur pour les actionnaires.","correction":"Ce conflit naît de la séparation entre la propriété du capital et sa gestion ; les mécanismes de gouvernance cherchent à le réduire."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "SES",
+      "titre": "Les sources et les défis de la croissance économique",
+      "source": "Programme de spécialité SES de terminale générale, arrêté du 19 juillet 2019, BO spécial n° 8 du 25 juillet 2019, éduscol / SES-ENS",
+      "points": [
+        "La croissance est l'augmentation durable de la production d'un pays ; elle se mesure par le taux d'accroissement annuel du PIB réel par habitant.",
+        "Les sources de la croissance sont l'accumulation du capital et du travail et l'accroissement de la productivité globale des facteurs, lié au progrès technique.",
+        "Schumpeter analyse l'innovation et la destruction créatrice ; les théories de la croissance endogène (Romer, Lucas) intègrent recherche, capital humain et institutions.",
+        "Les limites écologiques (épuisement des ressources, pollution, réchauffement) et les inégalités induites par le progrès technique questionnent la soutenabilité de la croissance."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel économiste a théorisé la « destruction créatrice » ?","options":["Keynes","Schumpeter","Ricardo","Smith"],"correct":1,"correction":"Schumpeter fait de l'innovation et de la destruction créatrice le moteur du capitalisme."},
+        {"type":"texte","q":"Comment mesurer la croissance économique ?","reponse":"Par le taux de variation annuel du PIB en volume, de préférence rapporté à la population (PIB par habitant).","correction":"Le PIB en volume corrige l'inflation ; le PIB par habitant tient compte de la démographie."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "SES",
+      "titre": "Le chômage et les politiques de l'emploi",
+      "source": "Programme de spécialité SES de terminale générale, BO spécial n° 8 du 25 juillet 2019, éduscol / SES-ENS",
+      "points": [
+        "Le chômage se définit par l'inactivité d'une personne disponible et recherchant un emploi ; le taux de chômage rapporte les chômeurs à la population active.",
+        "On distingue le chômage conjoncturel (insuffisance de demande), structurel (inadaptation des compétences) et frictionnel (recherche d'emploi).",
+        "Le chômage a des coûts économiques (perte de production) et sociaux (pauvreté, désqualification, effets sur la santé).",
+        "Les politiques de l'emploi combinent relance de la demande, formation professionnelle, allègements de cotisations, emplois aidés et réforme du marché du travail."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Le chômage dû à une inadaptation des compétences est appelé chômage :","options":["Conjoncturel","Structurel","Frictionnel","Saisonnier"],"correct":1,"correction":"Le chômage structurel résulte d'un décalage entre les qualifications et les besoins des entreprises."},
+        {"type":"texte","q":"Comment le taux de chômage est-il calculé ?","reponse":"Nombre de chômeurs divisé par la population active, multiplié par 100.","correction":"La population active comprend les personnes employées et les chômeurs au sens du BIT, c'est-à-dire disponibles et en recherche active."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "NSI",
+      "titre": "Les types et valeurs de base en Python",
+      "source": "Programme de spécialité NSI de première générale, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Les types de base de Python sont int (entier), float (nombre à virgule), str (chaîne), bool (booléen) et NoneType.",
+        "Une liste est une séquence ordonnée et modifiable : [1, 2, 3] ; un tuple est ordonné et non modifiable ; un dictionnaire associe des clés à des valeurs.",
+        "Les opérateurs de comparaison et les opérateurs logiques and, or, not permettent de construire des expressions booléennes.",
+        "Python est typé dynamiquement : le type d'une variable est déterminé à l'exécution ; la conversion explicite se fait avec int(), float(), str()."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel type est non modifiable parmi ces structures ?","options":["La liste","Le dictionnaire","Le tuple","L'ensemble (set)"],"correct":2,"correction":"Le tuple est immuable ; la liste, le dictionnaire et l'ensemble sont mutables."},
+        {"type":"texte","q":"Quelle est la différence entre une liste et un dictionnaire ?","reponse":"La liste est indexée par des entiers ; le dictionnaire est indexé par des clés quelconques (souvent des chaînes).","correction":"On accède à une liste par sa position, à un dictionnaire par sa clé : d['nom'] plutôt que l[0]."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "NSI",
+      "titre": "Les bases de données relationnelles et le langage SQL",
+      "source": "Programme de spécialité NSI de première générale, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Une base de données relationnelle organise les données en tables ; chaque ligne est un enregistrement et chaque colonne un attribut.",
+        "Une clé primaire identifie de façon unique chaque enregistrement ; une clé étrangère référence la clé primaire d'une autre table.",
+        "Le langage SQL permet de créer (CREATE), insérer (INSERT), interroger (SELECT), modifier (UPDATE) et supprimer (DELETE) des données.",
+        "La clause SELECT avec WHERE filtre les lignes, ORDER BY trie le résultat et JOIN combine plusieurs tables ; les vues et les index optimisent l'accès."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle clause SQL permet de filtrer les enregistrements ?","options":["ORDER BY","WHERE","GROUP BY","FROM"],"correct":1,"correction":"La clause WHERE spécifie la condition que doivent satisfaire les lignes retournées."},
+        {"type":"texte","q":"Quel rôle joue une clé étrangère ?","reponse":"Elle établit un lien entre deux tables en référençant la clé primaire d'une autre relation.","correction":"La clé étrangère garantit l'intégrité référentielle : toute valeur doit correspondre à une clé primaire existante dans la table référencée."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "NSI",
+      "titre": "Les algorithmes sur les graphes : parcours et plus court chemin",
+      "source": "Programme de spécialité NSI de terminale générale, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Un graphe est un ensemble de sommets reliés par des arêtes ; il est orienté ou non, pondéré ou non, et se représente par une matrice d'adjacence ou des listes d'adjacence.",
+        "Le parcours en largeur (BFS) explore les sommets par couches successives à l'aide d'une file ; il donne les plus courts chemins en nombre d'arêtes.",
+        "Le parcours en profondeur (DFS) explore un chemin jusqu'à son extrémité avant de revenir en arrière, à l'aide d'une pile ou de la récursivité.",
+        "L'algorithme de Dijkstra calcule les plus courts chemins dans un graphe pondéré à poids positifs ; il est mis en œuvre avec une file de priorité."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle structure de données est utilisée par un parcours en largeur ?","options":["Une pile","Une file","Un tas","Une liste chaînée"],"correct":1,"correction":"Le BFS utilise une file (FIFO) pour traiter les sommets dans l'ordre de leur découverte."},
+        {"type":"texte","q":"Dans quel cas privilégier l'algorithme de Dijkstra plutôt qu'un BFS ?","reponse":"Quand les arêtes sont pondérées : Dijkstra tient compte des poids, alors que le BFS ne compte que le nombre d'arêtes.","correction":"Dijkstra minimise la somme des poids (distances, coûts) ; le BFS minimise seulement le nombre d'arêtes parcourues."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "NSI",
+      "titre": "La programmation orientée objet en Python",
+      "source": "Programme de spécialité NSI de terminale générale, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Une classe est un modèle définissant des attributs (données) et des méthodes (comportements) ; un objet est une instance de cette classe.",
+        "La méthode spéciale __init__ initialise les attributs de l'instance ; le paramètre self désigne l'objet courant.",
+        "L'encapsulation cache les détails internes : les attributs privés sont préfixés par __ etaccessibles via des propriétés.",
+        "L'héritage permet à une classe fille de reprendre et de spécialiser les attributs et méthodes d'une classe mère (class Child(Parent))."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel paramètre désigne l'instance courante dans une méthode Python ?","options":["this","self","me","obj"],"correct":1,"correction":"Python utilise explicitement self comme premier paramètre des méthodes d'instance."},
+        {"type":"texte","q":"Quelle est la différence entre une classe et un objet ?","reponse":"La classe est le modèle abstrait ; l'objet est une instance concrète créée à partir de ce modèle.","correction":"Par exemple, class Voiture est un patron et ma_voiture = Voiture('rouge') est un objet possédant ses propres attributs."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "NSI",
+      "titre": "Architecture des ordinateurs et réseaux informatiques",
+      "source": "Programme de spécialité NSI de première générale, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "L'architecture de von Neumann comprend le processeur (unité arithmétique et logique, unité de contrôle), la mémoire, les bus et les périphériques d'E/S.",
+        "La mémoire est hiérarchisée : registres, cache, mémoire vive (RAM), stockage de masse ; plus elle est proche du processeur, plus elle est rapide et coûteuse.",
+        "Les réseaux sont organisés en couches : le modèle TCP/IP définit les couches réseau, transport, Internet et application.",
+        "Une adresse IP identifie une machine sur un réseau ; le DNS traduit un nom de domaine en adresse IP, et le protocole HTTP transporte les pages web."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel protocole associe une adresse IP à un nom de domaine ?","options":["HTTP","FTP","DNS","SMTP"],"correct":2,"correction":"Le DNS (Domain Name System) résout les noms de domaine en adresses IP."},
+        {"type":"texte","q":"Quels sont les composants essentiels d'un ordinateur selon von Neumann ?","reponse":"Le processeur, la mémoire, les bus et les périphériques d'entrée/sortie, avec un programme stocké en mémoire.","correction":"Le principe du programme stocké permet d'exécuter des instructions modifiables sans recâbler la machine."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "SI",
+      "titre": "Les chaînes fonctionnelles d'énergie et d'information",
+      "source": "Programme de spécialité sciences de l'ingénieur de première générale, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "L'analyse fonctionnelle externe identifie les fonctions assurées par un système et les éléments avec lesquels il interagit (milieu utilisateur, environnement).",
+        "La chaîne fonctionnelle d'énergie décrit les conversions d'énergie : alimentation, distribution, conversion, transmission et action.",
+        "La chaîne d'information suit le chemin : acquisition (capteurs), traitement, commande et action (actionneurs).",
+        "Un système mécanique est décomposé en liaisons, guides et mécanismes ; la représentation par graphes fonctionnels aide à la conception."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel élément assure l'acquisition d'une information dans une chaîne fonctionnelle ?","options":["Un actionneur","Un capteur","Un réducteur","Un volant"],"correct":1,"correction":"Le capteur transforme une grandeur physique en signal exploitable par le système de traitement."},
+        {"type":"texte","q":"Quelle différence entre chaîne d'énergie et chaîne d'information ?","reponse":"La chaîne d'énergie décrit les transferts et conversions d'énergie ; la chaîne d'information décrit l'acquisition, le traitement et la commande.","correction":"Les deux chaînes sont complémentaires : l'information commande généralement la distribution de l'énergie."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "SI",
+      "titre": "La modélisation multiphysique des systèmes",
+      "source": "Programme de spécialité sciences de l'ingénieur de terminale générale, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Modéliser consiste à remplacer un système réel par un modèle simplifié, en explicitant les hypothèses, afin de prédire son comportement.",
+        "Les modèles mécaniques (cinématique, dynamique), électriques (lois de Kirchhoff) et thermiques (bilans de puissance) peuvent être couplés.",
+        "La simulation numérique (par exemple avec un solveur) permet d'explorer les paramètres et de valider des choix de conception avant prototypage.",
+        "La validité d'un modèle se juge par comparaison avec des mesures expérimentales ; un modèle est toujours limité à un domaine de validité."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Qu'est-ce qu'un modèle en sciences de l'ingénieur ?","options":["Une copie exacte du système","Une représentation simplifiée visant à prédire un comportement","Un plan de fabrication","Un logiciel de dessin"],"correct":1,"correction":"Le modèle est une simplification deliberate du réel, construite avec des hypothèses explicites."},
+        {"type":"texte","q":"Pourquoi faut-il valider un modèle par l'expérience ?","reponse":"Parce que les hypothèses de modélisation peuvent être fausses ou limitées : la mesure permet de vérifier la pertinence des prédictions.","correction":"La démarche d'ingénieur alterne modélisation, simulation, expérimentation et correction du modèle."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "SI",
+      "titre": "Les capteurs et la chaîne d'acquisition",
+      "source": "Programme de spécialité sciences de l'ingénieur de première générale, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Un capteur transforme une grandeur physique (température, force, lumière) en signal électrique mesurable : résistif, capacitif, inductif ou piézoélectrique.",
+        "Le conditionnement du signal (amplification, filtrage, pont de Wheatstone) rend le signal exploitable avant la conversion analogique-numérique.",
+        "Le convertisseur analogique-numérique (CAN) échantillonne et quantifie le signal ; la résolution et la fréquence d'échantillonnage fixent la précision.",
+        "L'étalonnage établit la relation entre la grandeur d'entrée et la sortie du capteur ; il permet de corriger les erreurs systématiques."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Que fait un convertisseur analogique-numérique ?","options":["Il amplifie un signal","Il transforme un signal continu en valeurs discrètes","Il filtre le bruit","Il alimente le capteur"],"correct":1,"correction":"Le CAN échantillonne et quantifie un signal analogique pour le rendre traitable par un système numérique."},
+        {"type":"texte","q":"A quoi sert l'étalonnage d'un capteur ?","reponse":"À déterminer la relation entre la grandeur mesurée et le signal de sortie, afin de convertir correctement la mesure.","correction":"Une courbe d'étalonnage, obtenue avec des valeurs de référence, donne la sensibilité et le décalage du capteur."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "HGGSP",
+      "titre": "La Méditerranée antique et médiévale : empreintes et échanges",
+      "source": "Programme de spécialité HGGSP de première générale, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "La Méditerranée antique est un espace de circulation : cités grecques, empire romain, échanges commerciaux et diffusion des religions.",
+        "Alexandrie, Carthage et Rome illustrent la diversité des cités et des empires ; les voies maritimes relient les rives du bassin.",
+        "Au Moyen Âge, la Méditerranée est un espace de contacts entre monde byzantin, monde arabe et Occident latin : traductions, commerce, pèlerinages.",
+        "Les croisades (XIe-XIIIe siècles) et la présence arabo-musulmane en Sicile et en Espagne montrent des interactions faites de conflits et d'emprunts culturels."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle cité est un grand centre de savoir dans l'Égypte antique et gréco-romaine ?","options":["Carthage","Alexandrie","Ravenne","Constantinople"],"correct":1,"correction":"Alexandrie abritait la bibliothèque antique et resta un centre intellectuel majeur."},
+        {"type":"texte","q":"En quoi la Méditerranée médiévale est-elle un espace d'échanges ?","reponse":" Elle met en contact Byzance, le monde arabe et l'Occident : circulation des marchandises, des idées, des textes scientifiques et des techniques.","correction":"Les traductions d'Aristote et des traités arabes, les réseaux de commerçants et les pèlerinages témoignent de ces interactions."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "HGGSP",
+      "titre": "Les frontières et les divisions politiques du monde",
+      "source": "Programme de spécialité HGGSP de première générale, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Une frontière est une limite politique séparant deux souverainetés ; elle peut être naturelle (fleuve, montagne) ou purement conventionnelle.",
+        "Les frontières résultent d'histoires de conquête, de traités et de décolonisation : le partage de l'Afrique (Conférence de Berlin, 1884-1885) en est un exemple.",
+        "Elles remplissent des fonctions de protection, de contrôle des flux et de marquage identitaire, mais peuvent aussi être des lignes de conflit.",
+        "Les frontières maritimes et aériennes, les enclaves et les zones de souveraineté contestée montrent que la délimitation du territoire est un enjeu géopolitique actuel."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle conférence a organisé le partage colonial de l'Afrique ?","options":["La Conférence de Berlin (1884-1885)","Le Congrès de Vienne","La Conférence de Bandung","Les accords de Yalta"],"correct":0,"correction":"La Conférence de Berlin fixe les règles de l'occupation effective des territoires africains."},
+        {"type":"texte","q":"Quelles fonctions remplit une frontière ?","reponse":"Elle délimite la souveraineté d'un État, contrôle les entrées et sorties de personnes et de biens, et marque une identité politique.","correction":"Selon les contextes, la frontière peut être perméable (espace Schengen) ou fortement contrôlée (mur, barrière)."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "HGGSP",
+      "titre": "Histoire et mémoires : le patrimoine en débat",
+      "source": "Programme de spécialité HGGSP de terminale générale, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La notion de patrimoine s'est élargie : de la transmission familiale à l'héritage de l'humanité, avec la notion de patrimoine mondial de l'Unesco (1972).",
+        "Les usages sociaux et politiques du patrimoine se lisent à travers Versailles, les frises du Parthénon ou la patrimonialisation du bassin minier du Nord-Pas-de-Calais.",
+        "La préservation entre tensions et concurrences oppose urbanisation, tourisme de masse et protection : Venise illustre ce dilemme.",
+        "Les conflits de mémoire (la question du passé colonial, de l'esclavage, de la guerre d'Algérie) montrent que patrimoine et histoire ne se confondent pas."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle institution gère la liste du patrimoine mondial ?","options":["L'ONU","L'Unesco","Le Conseil de l'Europe","L'OCDE"],"correct":1,"correction":"La Convention du patrimoine mondial a été adoptée sous l'égide de l'Unesco en 1972."},
+        {"type":"texte","q":"Quelle différence entre histoire et mémoire ?","reponse":"L'histoire est une reconstruction critique du passé fondée sur des sources ; la mémoire est une transmission vécue et souvent subjective.","correction":"La mémoire peut être invasive ou sélective ; le travail de l'historien est de la confronter aux documents et au temps long."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "HGGSP",
+      "titre": "Les dynamiques des puissances internationales",
+      "source": "Programme de spécialité HGGSP de terminale générale, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La puissance d'un État se mesure à ses capacités militaires, économiques, technologiques et culturelles ; le « soft power » (Nye) désigne l'influence par l'attraction.",
+        "Entre 1871 et 1914, la rivalité des puissances européennes, la course aux armements et les alliances (Triple Entente, Triple Alliance) conduisent à la guerre.",
+        "La conférence de Berlin (1884-1885) et la course à l'empire illustrent la compétition pour l'espace et les matières premières.",
+        "Après 1945, la bipolarité puis la multipolarité redéfinissent les enjeux : montée de la Chine, puissances régionales, organisations internationales et acteurs non étatiques."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel concept désigne la capacité d'influencer par la culture et les valeurs ?","options":["Hard power","Soft power","Balance of power","Zéro de puissance"],"correct":1,"correction":"Joseph Nye a théorisé le soft power comme l'influence par l'attraction plutôt que par la contrainte."},
+        {"type":"texte","q":"Comment caractériser la multipolarité ?","reponse":"C'est une configuration où plusieurs puissances, étatiques ou non, détiennent des capacités d'influence comparables, sans dominance d'un seul bloc.","correction":"À la bipolarité de l'après-1945 succède un système plus diffus, avec des puissances globales et régionales et des acteurs transnationaux."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "HLP",
+      "titre": "L'Antiquité et la modernité : les mythes fondateurs",
+      "source": "Programme de spécialité HLP (humanités, littérature et philosophie), BO spécial n° 1 du 22 janvier 2019 et BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La spécialité HLP fait dialoguer textes littéraires et textes philosophiques autour de grandes questions, de l'Antiquité à nos jours.",
+        "Le mythe de Prométhée (Eschyle, Prométhée enchaîné ; Platon, Protagoras) interroge la technique, le progrès et la démesure humaine.",
+        "Le mythe de Sisyphe chez Camus (1942) rajoute la révolte absurde à la tradition antique et pose la question du sens de l'existence.",
+        "L'étude de la langue (étymologie, figures, rythme) et l'explication linéaire sont au service de l'interprétation philosophique du texte."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel auteur a écrit « Le Mythe de Sisyphe » ?","options":["Camus","Platon","Eschyle","Sartre"],"correct":0,"correction":"Albert Camus publie Le Mythe de Sisyphe en 1942, essai sur l'absurde."},
+        {"type":"texte","q":"Comment HLP aborde-t-elle un texte philosophique ?","reponse":"En articulant l'analyse littéraire (style, images, composition) et la problématisation philosophique des notions.","correction":"Le programme exige un va-et-vient entre le commentaire de texte et la réflexion conceptuelle, sans dissocier forme et pensée."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "HLP",
+      "titre": "L'âge classique et les Lumières : raison et sociabilité",
+      "source": "Programme de spécialité HLP de terminale générale, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Montaigne (Essais, 1580) invente l'essai comme genre de la réflexion libre et du jugement suspendu.",
+        "La Rochefoucauld (Maximes, 1664) et La Bruyère (Caractères, 1688) analysent l'amour-propre et les conduites sociales de la cour.",
+        "Voltaire et Rousseau opposent deux visions de la sociabilité : raison critique et sentiment naturel, dans le cadre des Lumières.",
+        "L'épistolaire (Lettres persanes de Montesquieu, 1721) permet une critique distanciée des mœurs par le regard de l'étranger."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel auteur publie les Maximes en 1664 ?","options":["Montaigne","La Rochefoucauld","Voltaire","Rousseau"],"correct":1,"correction":"François de La Rochefoucauld publie les Maximes en 1664."},
+        {"type":"texte","q":"Pourquoi les Lettres persanes utilisent-elles des étrangers ?","reponse":"Pour regarder la société française avec un regard extérieur et décalé, ce qui rend la critique plus libre.","correction":"Montesquieu utilise le regard de deux Persans à Paris pour relativiser les institutions et les mœurs européennes."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "LLCE",
+      "titre": "La civilisation anglo-saxonne : institutions et valeurs",
+      "source": "Programme de spécialité LLCE (langues, littératures et civilisations étrangères) anglais, BO n° 22 du 29 mai 2025, éduscol",
+      "points": [
+        "Le Royaume-Uni est une monarchie constitutionnelle : le monarque a un rôle symbolique, le pouvoir exécutif est exercé par le Premier ministre et le Cabinet.",
+        "Le Parlement bicaméral (Chambre des communes, Chambre des lords) détient le pouvoir législatif ; le nombre de députés est de 650.",
+        "Les États-Unis reposent sur une Constitution de 1787 et un système fédéral de séparation des pouvoirs ; la common law anglo-saxonne repose sur la jurisprudence.",
+        "Les valeurs de la civilisation anglo-saxonne (liberté individuelle, rule of law, tolérance) sont interrogées par les auteurs étudiés (Shakespeare, Swift, Orwell)."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Combien de députés siègent à la Chambre des communes britannique ?","options":["435","650","300","538"],"correct":1,"correction":"La Chambre des communes compte 650 députés ; 435 est le nombre de représentants américains."},
+        {"type":"texte","q":"Qu'est-ce que la common law ?","reponse":"Un droit fondé sur les précédents judiciaires et la jurisprudence, plutôt que sur un code écrit.","correction":"Issu de l'Angleterre médiévale, ce système s'est diffusé dans les pays anglo-saxons et oppose la décision du juge à la loi codifiée."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "LCA",
+      "titre": "La langue latine : déclinaisons, subjonctif et auteurs",
+      "source": "Programme de spécialité LCA (langues et cultures de l'Antiquité), BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Le latin est une langue indo-européenne à flexion : cinq déclinaisons pour les noms, quatre conjugaisons pour les verbes, six cas (nominatif, génitif, datif, accusatif, ablatif, vocatif).",
+        "L'ordre des mots est relativement libre ; les cas indiquent la fonction syntaxique, ce qui permet notamment la construction infinitive (accusatif + infinitif).",
+        "Le subjonctif exprime le souhait, le but, le doute ou l'irréel ; il est employé après des conjonctions comme ut, ne, cum ou dans les propositions interrogatives indirectes.",
+        "Les auteurs du programme incluent Cicéron (discours), César (Commentaires), Virgile (Énéide), Ovide et Sénèque ; la version et le thème sont exercés au bac."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Combien de déclinaisons comporte le latin classique ?","options":["3","4","5","6"],"correct":2,"correction":"Le latin compte cinq déclinaisons nominales."},
+        {"type":"texte","q":"Quelle fonction a le subjonctif latin ?","reponse":"Il marque le non-réel, le désir, l'obligation ou le but, notamment dans les propositions finales introduites par ut.","correction":"L'indicatif énonce un fait ; le subjonctif exprime une éventualité, un vœu ou une intention."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Arts plastiques",
+      "titre": "L'image, le signe et le langage plastique",
+      "source": "Programme de spécialité arts plastiques, BO spécial n° 1 du 22 janvier 2019 et BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'image est un signe : elle représente, interpelle et construit un sens qui dépend du contexte de production et de réception.",
+        "Les paramètres plastiques (ligne, valeur, couleur, texture, cadrage, composition) organisent l'œuvre et produisent des effets de sens.",
+        "La spécialité articule pratique artistique, histoire des arts et analyse d'œuvre : le commentaire d'image doit nommer les procédés et interpréter leurs effets.",
+        "Les notions de posture, de geste, de dispositif et de mise en espace permettent d'analyser aussi bien la photographie que l'installation contemporaine."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel élément n'est pas un paramètre plastique ?","options":["La couleur","La texture","Le cadrage","Le prix de vente"],"correct":3,"correction":"Le prix est une donnée économique ; les paramètres plastiques sont visuels et formels."},
+        {"type":"texte","q":"Comment analyser une image en arts plastiques ?","reponse":"En décrivant les choix formels (cadrage, couleurs, composition), puis en les reliant au sens et à l'intention de l'œuvre.","correction":"La dénotation précède la connotation : on nomme ce qui est visible avant de proposer une interprétation argumentée."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "Éducation musicale",
+      "titre": "L'analyse musicale : rythme, harmonie et timbre",
+      "source": "Programme de spécialité musique, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La spécialité musique associe la pratique vocale ou instrumentale, l'analyse auditive et l'histoire de la musique.",
+        "Le rythme organise le temps musical (mètre, tempo, syncope) ; l'harmonie étudie l'enchaînement des accords et les tonalités.",
+        "Le timbre distingue les instruments et les voix ; l'orchestration répartit les rôles entre les familles d'instruments.",
+        "L'analyse d'une œuvre (par exemple une sonate classique ou une pièce de jazz) relève la forme, les thèmes, les variations et les contrastes d'intensité."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel élément musical distingue une flûte d'un violon jouant la même note ?","options":["La hauteur","Le rythme","Le timbre","La tonie"],"correct":2,"correction":"Le timbre est la couleur sonore propre à un instrument, indépendamment de la hauteur de la note."},
+        {"type":"texte","q":"Qu'est-ce qu'une syncope en musique ?","reponse":"C'est un déplacement de l'accent rythmique sur un temps faible, qui crée un effet de surprise.","correction":"La syncope est un procédé rythmique essentiel dans le jazz et la musique classique, noté avec des liaisons entre temps."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Biologie-écologie",
+      "titre": "L'écologie des populations et des communautés",
+      "source": "Programme de spécialité biologie-écologie, BO spécial n° 1 du 22 janvier 2019 et BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Une population est un ensemble d'individus de la même espèce vivant dans un même lieu ; sa dynamique dépend de la natalité, la mortalité et des migrations.",
+        "La croissance logistique intègre la capacité de charge du milieu : la population se stabilise quand les ressources limitent les effectifs.",
+        "Les communautés sont formées de populations en interactions : compétition, prédation, parasitisme, mutualisme et commensalisme.",
+        "Les successions écologiques transforment progressivement la composition d'un écosystème, depuis des espèces pionnières jusqu'à un stade climax."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel type d'interaction profite aux deux espèces ?","options":["Le parasitisme","La compétition","Le mutualisme","La prédation"],"correct":2,"correction":"Dans le mutualisme, les deux partenaires tirent un bénéfice de la relation."},
+        {"type":"texte","q":"Qu'est-ce que la capacité de charge d'un milieu ?","reponse":"C'est le nombre maximal d'individus d'une espèce que le milieu peut soutenir durablement avec ses ressources.","correction":"Dans le modèle logistique, la population tend asymptotiquement vers cette capacité de charge K."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Biologie-écologie",
+      "titre": "La photosynthèse et la productivité végétale",
+      "source": "Programme de spécialité biologie-écologie, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "La photosynthèse convertit l'énergie lumineuse en énergie chimique : 6 CO2 + 6 H2O → C6H12O6 + 6 O2, grâce à la chlorophylle.",
+        "Elle se déroule dans les chloroplastes : les réactions photochimiques produisent ATP et NADPH, le cycle de Calvin fixe le CO2.",
+        "La productivité primaire nette est la biomasse produite moins la respiration de la plante ; elle dépend de la lumière, de l'eau, des nutriments et de la température.",
+        "Les facteurs limitants (loi du minimum de Liebig) expliquent qu'un seul facteur déficient peut bloquer la croissance végétale."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel organite réalise la photosynthèse ?","options":["La mitochondrie","Le chloroplaste","Le noyau","Le ribosome"],"correct":1,"correction":"La chlorophylle est localisée dans les thylakoïdes des chloroplastes."},
+        {"type":"texte","q":"Comment définir la productivité primaire nette ?","reponse":"C'est la quantité de matière organique produite par les végétaux, déduction faite de leur propre respiration.","correction":"PPM = PPP - respiration ; elle correspond à la biomasse disponible pour les consommateurs de l'écosystème."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Maths spé",
+      "titre": "Les suites récurrentes linéaires du second ordre",
+      "source": "Programme de spécialité mathématiques, BO spécial n° 1 du 22 janvier 2019 et arrêté du 26 février 2026, BO n° 14 du 2 avril 2026, éduscol",
+      "points": [
+        "Une suite récurrente linéaire du second ordre vérifie u(n+2) = a·u(n+1) + b·u(n), avec a et b réels constants.",
+        "Son équation caractéristique est r² = a·r + b ; les racines réelles distinctes r1, r2 donnent u(n) = A·r1^n + B·r2^n.",
+        "Les constantes A et B se déterminent à partir des conditions initiales u(0) et u(1) par un système linéaire.",
+        "La convergence de la suite dépend du module des racines : si |r1| < 1 et |r2| < 1, la suite tend vers 0 ; si une racine dépasse 1 en module, la suite diverge."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle est l'équation caractéristique de u(n+2) = 3u(n+1) - 2u(n) ?","options":["r² = 3r - 2","r² + 3r - 2 = 0","r = 3r - 2","r² = 2r - 3"],"correct":0,"correction":"On substitue u(n) = r^n : r^(n+2) = 3r^(n+1) - 2r^n, donc r² = 3r - 2."},
+        {"type":"texte","q":"Comment déterminer les coefficients A et B d'une suite récurrente ?","reponse":"En écrivant le système formé par u(0) = A + B et u(1) = A·r1 + B·r2, puis en le résolvant.","correction":"Les deux conditions initiales fournissent deux équations linéaires indépendantes pour les deux inconnues A et B."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "Maths spé",
+      "titre": "Le calcul intégral et les volumes de révolution",
+      "source": "Programme de spécialité mathématiques de terminale, arrêté du 26 février 2026, BO n° 14 du 2 avril 2026, éduscol",
+      "points": [
+        "Le volume d'un solide de révolution autour de l'axe des abscisses, généré par la courbe de f sur [a ; b], vaut V = π ∫ f(x)² dx.",
+        "L'intégration par parties permet d'intégrer un produit : ∫ u·v' = u·v - ∫ u'·v, utile pour ∫ ln x dx ou ∫ x·e^x dx.",
+        "Le changement de variable x = φ(t) transforme ∫ f(x) dx en ∫ f(φ(t))·φ'(t) dt, avec adaptation des bornes.",
+        "L'intégrale sert aussi au calcul d'une valeur moyenne : (1/(b-a)) ∫ f(x) dx sur [a ; b]."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle formule donne le volume de révolution autour de l'axe des x ?","options":["V = π ∫ f(x) dx","V = π ∫ f(x)² dx","V = 2π ∫ f(x) dx","V = ∫ f(x)² dx"],"correct":1,"correction":"Chaque tranche est un disque de rayon f(x), d'aire π·f(x)²."},
+        {"type":"texte","q":"Comment calculer ∫ x·e^x dx ?","reponse":"Par intégration par parties avec u = x et v' = e^x : résultat (x - 1)e^x + C.","correction":"On obtient ∫x·e^x dx = x·e^x - ∫e^x dx = (x - 1)e^x + C."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "Maths spé",
+      "titre": "La géométrie dans l'espace : vecteurs, plans et distances",
+      "source": "Programme de spécialité mathématiques de terminale, arrêté du 26 février 2026, BO n° 14 du 2 avril 2026, éduscol",
+      "points": [
+        "Le produit vectoriel u × v donne un vecteur orthogonal à u et v, de norme ||u||·||v||·sin(θ) ; il permet de calculer l'aire d'un parallélogramme.",
+        "Un plan est défini par un point et un vecteur normal n = (a, b, c) : son équation cartésienne est ax + by + cz + d = 0.",
+        "La distance d'un point M(x0, y0, z0) à ce plan vaut |a·x0 + b·y0 + c·z0 + d| / ||n||.",
+        "L'angle entre deux plans se calcule comme l'angle entre leurs vecteurs normaux, et l'angle entre une droite et un plan par le complément de l'angle avec le normal."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Que représente le vecteur normal à un plan ?","options":["Un vecteur parallèle au plan","Un vecteur orthogonal à tout vecteur du plan","La direction de la plus grande pente","Un vecteur de norme nulle"],"correct":1,"correction":"Le vecteur normal est perpendiculaire à tous les vecteurs directeurs du plan."},
+        {"type":"texte","q":"Comment obtenir l'équation cartésienne d'un plan connaissant un normal n(a,b,c) et un point P ?","reponse":"On écrit a(x - xP) + b(y - yP) + c(z - zP) = 0, puis on développe sous la forme ax + by + cz + d = 0.","correction":"Tout point du plan vérifie cette équation car le vecteur reliant P à ce point est orthogonal à n."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Physique-Chimie spé",
+      "titre": "Les ondes mécaniques et le son",
+      "source": "Programme de spécialité physique-chimie, BO spécial n° 1 du 22 janvier 2019 et BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Une onde mécanique se propage dans un milieu matériel ; le son est une onde de pression : les particules oscillent parallèlement à la direction de propagation (onde longitudinale).",
+        "La hauteur d'un son dépend de sa fréquence : plus la fréquence est élevée, plus le son est aigu ; l'intensité dépend de l'amplitude.",
+        "La vitesse du son vaut environ 340 m/s dans l'air à 20 °C ; elle dépend du milieu (plus rapide dans l'eau et les solides).",
+        "La résonance se produit quand la fréquence d'excitation égale une fréquence propre ; les interférences et les battements résultent de la superposition d'ondes."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Dans quel milieu le son se propage-t-il le plus vite ?","options":["Dans le vide","Dans l'air","Dans l'eau","Dans un solide"],"correct":3,"correction":"Le son ne se propage pas dans le vide et sa vitesse est d'autant plus grande que le milieu est rigide."},
+        {"type":"texte","q":"Quelle est la différence entre hauteur et intensité d'un son ?","reponse":"La hauteur dépend de la fréquence ; l'intensité (ou niveau sonore) dépend de l'amplitude de l'onde.","correction":"Un son aigu a une fréquence élevée ; un son fort a une grande amplitude, mesurée en décibels."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "Physique-Chimie spé",
+      "titre": "La cinétique chimique et les équilibres",
+      "source": "Programme de spécialité physique-chimie de terminale, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La vitesse d'une réaction dépend de la concentration des réactifs, de la température et de la présence d'un catalyseur qui abaisse l'énergie d'activation.",
+        "Une réaction est d'autant plus rapide que la concentration et la température sont élevées ; les collisions efficaces déterminent la cinétique.",
+        "À l'équilibre, les réactions directe et inverse ont la même vitesse : les concentrations sont constantes mais le système reste dynamique.",
+        "Le principe de Le Chatelier prédit le déplacement de l'équilibre après une modification de concentration, de pression ou de température."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel effet a un catalyseur sur une réaction ?","options":["Il augmente l'énergie d'activation","Il abaisse l'énergie d'activation","Il déplace l'équilibre","Il change l'enthalpie"],"correct":1,"correction":"Le catalyseur offre un autre mécanisme de moindre énergie d'activation ; il accélère les deux sens sans déplacer l'équilibre."},
+        {"type":"texte","q":"Que se passe-t-il à l'équilibre chimique ?","reponse":"Les réactions directe et inverse se poursuivent à la même vitesse : les concentrations macroscopiques restent constantes.","correction":"L'équilibre est dynamique et non statique ; la constante d'équilibre K caractérise la composition à l'équilibre."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "Physique-Chimie spé",
+      "titre": "L'induction électromagnétique et les conversions d'énergie",
+      "source": "Programme de spécialité physique-chimie de terminale, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Le flux magnétique à travers une boucle est Φ = B·S·cos(θ) ; sa variation induit une force électromotrice : e = -dΦ/dt (loi de Faraday).",
+        "Le signe moins traduit la loi de Lenz : le courant induit s'oppose à la variation de flux qui l'a créé.",
+        "Une machine électrique est réversible : en générateur, elle convertit l'énergie mécanique en énergie électrique ; en moteur, l'inverse.",
+        "Le rendement d'une machine est le rapport entre énergie utile et énergie fournie ; les pertes (Joule, frottements, courants de Foucault) limitent ce rapport."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle loi relie la force électromotrice induite à la variation de flux ?","options":["La loi d'Ohm","La loi de Faraday","La loi de Coulomb","La loi de Laplace"],"correct":1,"correction":"La loi de Faraday s'écrit e = -dΦ/dt ; le signe est précisé par Lenz."},
+        {"type":"texte","q":"Comment une machine électrique peut-elle fonctionner en générateur ?","reponse":"En imposant une variation de flux magnétique par un mouvement mécanique : il apparaît une tension et un courant aux bornes.","correction":"L'énergie mécanique fournie à l'alternateur est convertie en énergie électrique par induction électromagnétique."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "SVT spé",
+      "titre": "Le système immunitaire et la défense de l'organisme",
+      "source": "Programme de spécialité SVT, BO spécial n° 1 du 22 janvier 2019 et BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'immunité innée est immédiate et non spécifique : barrières cutanéo-muqueuses, phagocytose par les macrophages, inflammation.",
+        "L'immunité adaptative est spécifique et dotée d'une mémoire : les lymphocytes B produisent des anticorps (immunité humorale), les lymphocytes T détruisent les cellules infectées (immunité cellulaire).",
+        "Un antigène est reconnu par des récepteurs spécifiques ; la réponse secondaire est plus rapide et plus intense grâce aux cellules mémoires.",
+        "La vaccination expose l'organisme à un antigène atténué ou inactivé pour induire une mémoire immunitaire sans provoquer la maladie."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelles cellules produisent les anticorps ?","options":["Les macrophages","Les lymphocytes B","Les lymphocytes T tueurs","Les plaquettes"],"correct":1,"correction":"Les lymphocytes B se différencient en plasmocytes qui sécrètent des anticorps."},
+        {"type":"texte","q":"Pourquoi la réponse immunitaire secondaire est-elle plus efficace ?","reponse":"Parce que des lymphocytes mémoires subsistent après la première infection et réagissent plus vite et plus fortement.","correction":"C'est le principe de la vaccination : la mémoire immunitaire permet une réponse rapide lors d'un contact ultérieur avec l'antigène."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["Terminale"],
+      "matiere": "SVT spé",
+      "titre": "Les mutations et la diversité génétique",
+      "source": "Programme de spécialité SVT de terminale, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Une mutation est une modification durable de la séquence d'ADN : substitution, insertion ou délétion de nucléotides.",
+        "Les mutations sont aléatoires et spontanées ; elles peuvent être neutres, délétères ou favorables selon le milieu.",
+        "La recombinaison méiotique (enjambement) et la fécondation créent également de la diversité génétique sans modifier la séquence des gènes.",
+        "Les mutations somatiques ne sont pas transmises ; les mutations germinales sont héréditaires et constituent la matière première de l'évolution."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel type de mutation est transmis à la descendance ?","options":["Une mutation somatique","Une mutation germinale","Une mutation dans une cellule musculaire","Une mutation induite par un UV dans la peau"],"correct":1,"correction":"Seules les mutations touchant les cellules germinales (gamètes) sont transmissibles."},
+        {"type":"texte","q":"Pourquoi dit-on que les mutations sont aléatoires ?","reponse":"Elles surviennent sans rapport avec le besoin de l'organisme et ne sont pas orientées vers un bénéfice.","correction":"L'environnement ne provoque pas des mutations adaptées : il sélectionne a posteriori les variants existants."}
+      ]
+    },
+    {
+      "filieres": ["generale"],
+      "annees": ["1re"],
+      "matiere": "SVT spé",
+      "titre": "La communication nerveuse et le cerveau",
+      "source": "Programme de spécialité SVT de première, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Le neurone est la cellule de base du système nerveux : dendrites, corps cellulaire, axone et terminaisons synaptiques.",
+        "L'information circule sous forme de potentiel d'action ; la synapse assure la transmission entre neurones par des neurotransmetteurs.",
+        "Le système nerveux central (cerveau, moelle épinière) traite l'information ; le système périphérique relie les organes au CNS.",
+        "Des techniques d'imagerie (IRM, EEG) permettent d'étudier l'activité cérébrale et de localiser les fonctions (langage, motricité, mémoire)."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel rôle joue la synapse ?","options":["Elle produit des hormones","Elle transmet le signal entre deux neurones","Elle isole l'axone","Elle stocke l'ADN"],"correct":1,"correction":"La synapse est la zone de communication chimique ou électrique entre deux cellules nerveuses."},
+        {"type":"texte","q":"Quelle différence entre système nerveux central et périphérique ?","reponse":"Le CNS (cerveau et moelle) intègre et commande ; le SNP (nerfs) relie le CNS aux organes et transmet les informations.","correction":"Le SNP comprend les nerfs crâniens et rachidiens ainsi que les ganglions ; il assure la liaison sensorielle et motrice."}
+      ]
+    },
+    {
+      "filieres": ["stmg"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Mercatique",
+      "titre": "Le marché et l'étude de la clientèle en mercatique",
+      "source": "Programme de spécialité management, sciences de gestion et numérique de première STMG, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "La mercatique (marketing) part des besoins et attentes des consommateurs pour concevoir une offre et la rendre disponible.",
+        "La démarche de segmentation divides le marché en groupes homogènes ; la cible est le segment retenu, le positionnement est la place souhaitée dans l'esprit du consommateur.",
+        "Les études de marché combinent données secondaires (Insee, panels) et données primaires (questionnaires, entretiens, observations).",
+        "Le mix marketing articule les 4 P : Produit, Prix, Place (distribution), Promotion (communication)."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Que désigne le « positionnement » d'un produit ?","options":["Son prix de vente","La place souhaitée dans l'esprit du consommateur","Son lieu de fabrication","Sa date de lancement"],"correct":1,"correction":"Le positionnement est la perception distinctive que l'entreprise cherche à installer chez sa cible."},
+        {"type":"texte","q":"Quelle différence entre segmentation et ciblage ?","reponse":"La segmentation découpe le marché en groupes homogènes ; le ciblage choisit le ou les segments à satisfaire.","correction":"On segmente selon des critères (âge, revenu, usage) puis on évalue l'attractivité de chaque segment avant de choisir sa cible."}
+      ]
+    },
+    {
+      "filieres": ["stmg"],
+      "annees": ["Terminale"],
+      "matiere": "Gestion et finance",
+      "titre": "Le besoin de financement et la structure financière",
+      "source": "Programme d'enseignement spécifique de gestion et finance de terminale STMG, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Le besoin de financement d'exploitation correspond au besoin en fonds de roulement (BFR) lié au cycle d'exploitation.",
+        "Le fonds de roulement net global (FRNG) se calcule par ressources durables moins emplois durables ; il doit couvrir le BFR pour dégager une trésorerie positive.",
+        "La capacité d'autofinancement (CAF) mesure l'autofinancement généré par l'activité : le résultat net + dotations aux amortissements.",
+        "L'endettement et les fonds propres composent la structure financière ; le ratio d'endettement et la capacité de remboursement évaluent le risque."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle relation relie FRNG, BFR et trésorerie ?","options":["Trésorerie = FRNG - BFR","Trésorerie = BFR - FRNG","Trésorerie = FRNG + BFR","Trésorerie = BFR × FRNG"],"correct":0,"correction":"La trésorerie nette est la partie du fonds de roulement qui reste après financement du BFR."},
+        {"type":"texte","q":"Comment calculer la capacité d'autofinancement ?","reponse":"CAF = résultat net + dotations aux amortissements et provisions - reprises.","correction":"La CAF réintègre les charges non décaissables (amortissements) au résultat pour mesurer les ressources internes générées."}
+      ]
+    },
+    {
+      "filieres": ["stmg"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Ressources humaines",
+      "titre": "La motivation et la gestion des ressources humaines",
+      "source": "Programme d'enseignement spécifique de ressources humaines et communication de terminale STMG, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La motivation combine des facteurs d'hygiène (salaire, conditions de travail) et des facteurs de motivation (reconnaissance, responsabilité) selon Herzberg.",
+        "Maslow hiérarchise les besoins : physiologiques, sécurité, appartenance, estime et accomplissement de soi.",
+        "La gestion des ressources humaines couvre le recrutement, l'intégration, la formation, l'évaluation, la rémunération et la gestion des carrières.",
+        "La communication interne et la conduite du changement sont essentielles pour maintenir l'engagement et gérer les conflits."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Selon Maslow, quel besoin est au sommet de la pyramide ?","options":["Le besoin de sécurité","Le besoin d'appartenance","L'accomplissement de soi","Le besoin physiologique"],"correct":2,"correction":"La hiérarchie de Maslow se termine par l'auto-réalisation (accomplissement de soi)."},
+        {"type":"texte","q":"Quelle distinction Herzberg introduit-il ?","reponse":"Il distingue les facteurs d'hygiène, qui évitent l'insatisfaction, des facteurs de motivation, qui créent la satisfaction.","correction":"Un salaire correct ne motive pas durablement ; la reconnaissance et la responsabilité sont de véritables leviers de motivation."}
+      ]
+    },
+    {
+      "filieres": ["stmg"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Droit et économie",
+      "titre": "La responsabilité et les obligations dans les affaires",
+      "source": "Programme de spécialité droit et économie de première et terminale STMG, BO spécial n° 1 du 22 janvier 2019 et BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Une obligation est un lien de droit entre un créancier et un débiteur : le débiteur doit donner, faire ou ne pas faire quelque chose (article 1101 du Code civil).",
+        "La responsabilité contractuelle s'applique entre parties liées par un contrat ; la responsabilité délictuelle (article 1240) répare un dommage causé à autrui sans contrat.",
+        "La responsabilité peut être engagée pour faute, mais aussi sans faute dans certains cas (responsabilité du fait des produits défectueux).",
+        "Les clauses limitatives de responsabilité et les clauses pénales aménagent conventionnellement les conséquences de l'inexécution."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel article du Code civil fonde la responsabilité délictuelle de droit commun ?","options":["L'article 1101","L'article 1240","L'article 1382","L'article 544"],"correct":1,"correction":"L'article 1240 (ancien article 1382) pose le principe : tout fait quelconque qui cause un dommage oblige son auteur à le réparer."},
+        {"type":"texte","q":"Quelle différence entre responsabilité contractuelle et délictuelle ?","reponse":"La première suppose un contrat entre les parties ; la seconde s'applique en l'absence de contrat, sur le fondement du dommage.","correction":"Une même situation peut donner lieu à un cumul interdit : le demandeur choisit généralement le fondement le plus favorable."}
+      ]
+    },
+    {
+      "filieres": ["stmg"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Économie",
+      "titre": "La conjoncture et les politiques économiques",
+      "source": "Programme de spécialité droit et économie de première et terminale STMG, BO spécial n° 1 du 22 janvier 2019 et BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Le PIB mesure la valeur des biens et services produits sur un territoire ; sa variation courte décrit la conjoncture.",
+        "L'inflation est une hausse généralisée et durable des prix, mesurée par l'indice des prix à la consommation ; le chômage et la croissance sont les autres grands indicateurs.",
+        "La politique budgétaire agit par les dépenses et recettes publiques ; la politique monétaire agit par les taux d'intérêt et la masse monétaire (Banque centrale européenne).",
+        "Les chocs d'offre et de demande, le commerce international et les anticipations expliquent les fluctuations conjoncturelles."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle institution conduit la politique monétaire de la zone euro ?","options":["La Commission européenne","La Banque centrale européenne","Le FMI","La BCEAO"],"correct":1,"correction":"La BCE, créée en 1998, a le monopole de l'émission de l'euro et vise la stabilité des prix."},
+        {"type":"texte","q":"Quelle est la différence entre politique budgétaire et politique monétaire ?","reponse":"La première utilise le budget de l'État (dépenses, impôts) ; la seconde agit sur les taux et la liquidité via la banque centrale.","correction":"Ces deux politiques peuvent être expansionnistes ou restrictives selon la situation conjoncturelle."}
+      ]
+    },
+    {
+      "filieres": ["stmg"],
+      "annees": ["Terminale"],
+      "matiere": "Systèmes d'information et de gestion",
+      "titre": "Les systèmes d'information de gestion et la décision",
+      "source": "Programme d'enseignement spécifique systèmes d'information et de gestion de terminale STMG, BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Un système d'information de gestion (SIG) collecte, traite, stocke et diffuse les informations utiles au pilotage de l'organisation.",
+        "Il repose sur des bases de données, des réseaux, des logiciels (ERP, CRM) et des procédures de saisie et de contrôle.",
+        "Les informations sont hiérarchisées : données opérationnelles, indicateurs de gestion, tableaux de bord et données stratégiques.",
+        "La qualité de l'information (fiabilité, pertinence, actualité) et la sécurité des accès sont essentielles à la décision."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel logiciel intègre les fonctions comptables, commerciales et de production ?","options":["Un CRM","Un ERP","Un tableur","Un navigateur"],"correct":1,"correction":"L'ERP (Enterprise Resource Planning) intègre l'ensemble des processus de l'entreprise dans une base commune."},
+        {"type":"texte","q":"Quel rôle joue un tableau de bord dans un SIG ?","reponse":"Il regroupe des indicateurs clés, souvent visualisés, pour suivre la performance et aider le pilotage.","correction":"Le tableau de bord sélectionne les indicateurs pertinents, les met à jour régulièrement et signale les écarts aux objectifs."}
+      ]
+    },
+    {
+      "filieres": ["sti2d"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Innovation technologique et éco-conception",
+      "titre": "Les énergies et le développement durable dans les systèmes industriels",
+      "source": "Programme de la série STI2D, BO spécial n° 1 du 22 janvier 2019 et BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Un système industriel consomme des énergies (électrique, mécanique, thermique) dont il faut optimiser le rendement et limiter les pertes.",
+        "Les énergies renouvelables (solaire, éolienne, hydraulique) et le stockage (batteries) sont au cœur de la transition énergétique.",
+        "L'éco-conception intègre l'environnement dès la phase de conception : réduction des matériaux, allongement de la durée de vie, réparabilité, recyclage.",
+        "L'analyse du cycle de vie (ACV) et le bilan carbone quantifient les impacts d'un produit depuis l'extraction des matières premières jusqu'à sa fin de vie."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel indicateur mesure les émissions de gaz à effet de serre d'un produit ?","options":["Le rendement","Le bilan carbone","La dureté","La puissance nominale"],"correct":1,"correction":"Le bilan carbone exprime en équivalent CO2 les émissions générées sur le cycle de vie."},
+        {"type":"texte","q":"En quoi l'éco-conception diffère-t-elle d'une simple action en fin de vie ?","reponse":"Elle agit en amont, dès la conception, pour réduire les impacts, alors que le traitement en fin de vie intervient trop tard pour les éviter.","correction":"L'ACV montre que l'essentiel des impacts est souvent déterminé au moment du choix des matériaux et de la structure du produit."}
+      ]
+    },
+    {
+      "filieres": ["sti2d"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Génie électrique et informatique industrielle",
+      "titre": "Les systèmes automatisés et leur commande",
+      "source": "Programme de la série STI2D, BO spécial n° 1 du 22 janvier 2019 et BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Un système automatisé associe des capteurs, une unité de commande (automate programmable) et des actionneurs pour réaliser une tâche sans intervention humaine permanente.",
+        "Une boucle fermée compare la consigne à la mesure (asservissement) ; une boucle ouverte ne corrige pas les écarts.",
+        "L'automate programmable industriel (API) exécute un programme cyclique : lecture des entrées, traitement, écriture des sorties.",
+        "Les réseaux industriels (Profibus, Modbus, EtherCAT) relient l'API aux capteurs, actionneurs et supervision (SCADA)."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel élément compare la consigne et la mesure dans un asservissement ?","options":["Le capteur","Le comparateur","L'actionneur","L'alimentation"],"correct":1,"correction":"Le comparateur (ou régulateur) calcule l'écart entre consigne et mesure pour élaborer la commande."},
+        {"type":"texte","q":"Quelle différence entre boucle ouverte et boucle fermée ?","reponse":"La boucle ouverte agit sans mesurer le résultat ; la boucle fermée mesure la sortie et corrige l'écart par rapport à la consigne.","correction":"L'asservissement améliore la précision et compense les perturbations, au prix d'un risque d'instabilité à régler."}
+      ]
+    },
+    {
+      "filieres": ["sti2d"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Ingénierie, innovation et développement durable",
+      "titre": "La démarche de conception et l'éco-innovation",
+      "source": "Programme de la série STI2D, BO spécial n° 1 du 22 janvier 2019 et BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La démarche de projet part d'un besoin exprimé dans un cahier des charges fonctionnel (CdCF) qui liste les fonctions et contraintes.",
+        "L'analyse fonctionnelle (externale interne) identifie les fonctions de service et les fonctions techniques, puis les solutions possibles.",
+        "Le choix de solution s'appuie sur une matrice de décision pondérée selon des critères (coût, performance, impact environnemental).",
+        "Le prototypage et les essais permettent de valider la solution avant sa industrialisation ; l'innovation peut être technologique, sociale ou d'usage."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Que contient un cahier des charges fonctionnel ?","options":["Uniquement le prix de vente","Les fonctions et contraintes du produit","Le planning de fabrication","La liste des fournisseurs"],"correct":1,"correction":"Le CdCF exprime le besoin en termes de fonctions de service et de contraintes, indépendamment des solutions."},
+        {"type":"texte","q":"À quoi sert une matrice de décision ?","reponse":"À comparer objectivement plusieurs solutions selon des critères pondérés avant de retenir la meilleure.","correction":"Chaque solution est notée sur chaque critère ; la pondération reflète les priorités du cahier des charges."}
+      ]
+    },
+    {
+      "filieres": ["sti2d"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Physique-chimie et mathématiques appliquées",
+      "titre": "Les transferts thermiques et la thermique du bâtiment",
+      "source": "Programme de la série STI2D, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "La conduction est un transfert de chaleur à travers un matériau : le flux est proportionnel à la conductivité thermique λ et au gradient de température.",
+        "La convection transfère la chaleur par déplacement d'un fluide ; le rayonnement se propage par ondes électromagnétiques, sans milieu matériel.",
+        "L'isolation thermique réduit les déperditions : la résistance thermique R = e/λ augmente avec l'épaisseur et diminue avec la conductivité.",
+        "Le bilan thermique d'un bâtiment compare les apports (chauffage, soleil) et les pertes pour dimensionner les équipements et estimer la consommation."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel mode de transfert thermique ne nécessite pas de milieu matériel ?","options":["La conduction","La convection","Le rayonnement","La diffusion"],"correct":2,"correction":"Le rayonnement se propage même dans le vide, comme la lumière solaire."},
+        {"type":"texte","q":"Comment améliorer la résistance thermique d'une paroi ?","reponse":"En augmentant son épaisseur ou en choisissant un matériau de faible conductivité (R = e/λ).","correction":"Un matériau isolant comme la laine de roche a une faible conductivité λ, ce qui augmente R pour une même épaisseur."}
+      ]
+    },
+    {
+      "filieres": ["st2s"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Biologie et physiopathologie humaine",
+      "titre": "La physiologie humaine : organes, systèmes et régulations",
+      "source": "Programme de la série ST2S, BO spécial n° 1 du 22 janvier 2019 et BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'organisme humain est organisé en appareils (circulatoire, respiratoire, digestif, nerveux, endocrinien, urinaire) qui coopèrent.",
+        "L'homéostasie maintient les paramètres internes (température, glycémie, pH sanguin) dans des limites étroites grâce à des boucles de régulation.",
+        "Les hormones, sécrétées par les glandes endocrines, agissent comme messagers chimiques sur des organes cibles (insuline, glucagon, thyroxine).",
+        "La physiopathologie étudie les dysfonctionnements : diabète, hypertension, insuffisance respiratoire, et leurs conséquences sur l'organisme."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle hormone est sécrétée par le pancréas pour faire baisser la glycémie ?","options":["Le glucagon","L'insuline","L'adrénaline","La thyroxine"],"correct":1,"correction":"L'insuline, sécrétée par les cellules β des îlots de Langerhans, favorise l'entrée du glucose dans les cellules."},
+        {"type":"texte","q":"Qu'est-ce que l'homéostasie ?","reponse":"C'est le maintien d'un milieu intérieur stable malgré les variations de l'environnement.","correction":"Claude Bernard a formulé cette notion ; les boucles de rétroaction négative corrigent les écarts des paramètres physiologiques."}
+      ]
+    },
+    {
+      "filieres": ["st2s"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Santé et biologie",
+      "titre": "Les politiques de santé publique en France",
+      "source": "Programme de la série ST2S, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "La santé publique vise à améliorer la santé des populations par la prévention, le dépistage, la vaccination et l'éducation à la santé.",
+        "L'Assurance maladie rembourse les soins ; les complémentaires santé et la couverture maladie universelle complémentaire (CMU-C) complètent la couverture.",
+        "Les agences sanitaires (Haute Autorité de santé, Agence nationale de santé publique, ANSM) évaluent les pratiques et surveillent les risques.",
+        "Les plans nationaux (Plan cancer, Plan pandémie) et la lutte contre les inégalités sociales de santé structurent l'action publique."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel organisme évalue les recommandations de bonne pratique médicale en France ?","options":["L'ANSM","La Haute Autorité de santé","L'Insee","La CNIL"],"correct":1,"correction":"La HAS (Haute Autorité de santé) produit des recommandations de bonne pratique et évalue les médicaments."},
+        {"type":"texte","q":"Quelle est la différence entre prévention primaire et secondaire ?","reponse":"La prévention primaire évite l'apparition de la maladie ; la secondaire la dépiste précocement pour limiter ses effets.","correction":"Vacciner est de la prévention primaire ; organiser un dépistage du cancer du sein est de la prévention secondaire."}
+      ]
+    },
+    {
+      "filieres": ["st2s"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Sciences et techniques sanitaires et sociales",
+      "titre": "Les dispositifs d'action sociale et l'accompagnement",
+      "source": "Programme de la série ST2S, BO spécial n° 1 du 22 janvier 2019 et BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "L'action sociale s'adresse à des publics en situation de vulnérabilité : personnes âgées, personnes en situation de handicap, enfants, personnes en difficulté.",
+        "Les dispositifs incluent les CCAS (centres communaux d'action sociale), les EHPAD, les centres médico-psychologiques et les services de protection de l'enfance.",
+        "Les professionnels (travailleurs sociaux, aides-soignants, éducateurs spécialisés, infirmiers) interviennent selon des missions et des cadres déontologiques distincts.",
+        "L'accompagnement repose sur une évaluation des besoins, un projet personnalisé et une coordination entre les acteurs sanitaires et sociaux."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Que désigne un CCAS ?","options":["Un centre de cancérologie","Un centre communal d'action sociale","Un centre de contrôle sanitaire","Une caisse de retraite"],"correct":1,"correction":"Le CCAS est l'établissement public communal qui met en œuvre l'action sociale de la commune."},
+        {"type":"texte","q":"Quelles étapes composent un accompagnement social ?","reponse":"L'évaluation de la situation, la définition d'objectifs avec la personne, la mise en œuvre d'actions et l'évaluation finale.","correction":"Le projet personnalisé est co-construit avec la personne et réévalué régulièrement avec l'équipe pluridisciplinaire."}
+      ]
+    },
+    {
+      "filieres": ["stl"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Chimie",
+      "titre": "La chimie organique : alcools et acides carboxyliques",
+      "source": "Programme de la série STL, BO spécial n° 1 du 22 janvier 2019 et BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Un alcool possède un groupe hydroxyle -OH ; sa nomenclature suit les règles de l'IUPAC : éthanol, propan-2-ol, butan-1-ol.",
+        "Un acide carboxylique contient le groupe -COOH : l'acide éthanoïque (acide acétique) donne le vinaigre.",
+        "L'estérification condense un alcool et un acide carboxylique en ester + eau, en présence d'un catalyseur acide ; la réaction est réversible.",
+        "L'oxydation d'un alcool primaire donne un aldéhyde puis un acide carboxylique ; un alcool secondaire donne une cétone."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel groupe fonctionnel caractérise un acide carboxylique ?","options":["-OH","-COOH","-NH2","-CHO"],"correct":1,"correction":"Le groupe carboxyle -COOH définit les acides carboxyliques."},
+        {"type":"texte","q":"Quelle réaction permet d'obtenir un ester ?","reponse":"L'estérification : acide carboxylique + alcool → ester + eau, catalysée par un acide fort.","correction":"C'est une réversible ; un excès d'un réactif ou l'élimination de l'eau déplace l'équilibre vers la formation d'ester."}
+      ]
+    },
+    {
+      "filieres": ["stl"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Chimie",
+      "titre": "Les équilibres acide-base et le titrage",
+      "source": "Programme de la série STL, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Selon Brønsted, un acide cède un proton H+ et une base en accepte ; un couple acide/base conjugué diffère d'un proton.",
+        "Le pH d'une solution d'acide faible dépend de sa concentration et de sa constante Ka : plus Ka est grande, plus l'acide est fort.",
+        "Un titrage consiste à ajouter progressivement une solution de concentration connue à un volume de solution à doser jusqu'à l'équivalence.",
+        "Le point d'équivalence est repéré par un indicateur coloré (phénolphtaléine, méthylorange) ou par un pH-mètre ; à l'équivalence, les réactifs sont en proportions stœchiométriques."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Que se passe-t-il au point d'équivalence d'un titrage ?","options":["Le pH est toujours 7","Les réactifs sont en proportions stœchiométriques","La solution devient incolore","Le titrant est épuisé"],"correct":1,"correction":"À l'équivalence, la quantité de titrant ajoutée correspond exactement à la quantité d'analyte présente."},
+        {"type":"texte","q":"Comment choisir un indicateur coloré pour un titrage ?","reponse":"En choisissant un indicateur dont la zone de virage encadre le pH au point d'équivalence.","correction":"La courbe de titrage donne le pH à l'équivalence ; l'indicateur doit virer sur une variation de pH brutale autour de cette valeur."}
+      ]
+    },
+    {
+      "filieres": ["stl"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Physique et matériaux",
+      "titre": "Les matériaux et leurs propriétés mécaniques",
+      "source": "Programme de la série STL, BO spécial n° 1 du 22 janvier 2019 et BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Les matériaux courants se classent en métaux, céramiques, polymères et composites ; leurs propriétés dépendent de leur structure microscopique.",
+        "Un essai de traction trace la courbe contrainte-déformation : limite d'élasticité, résistance à la rupture et allongement à la rupture.",
+        "La dureté mesure la résistance à la rayure ou à l'empreinte ; la résilience mesure la capacité à absorber un choc.",
+        "Le choix d'un matériau résulte d'un compromis entre propriétés mécaniques, chimiques, thermiques, coût et impact environnemental."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle grandeur mesure la résistance d'un matériau à la rayure ?","options":["La résilience","La dureté","La ductilité","La masse volumique"],"correct":1,"correction":"La dureté s'évalue par des essais d'empreinte (Brinell, Vickers) ou de rayure (Mohs)."},
+        {"type":"texte","q":"Quelle information donne un essai de traction ?","reponse":"Il donne la limite d'élasticité, la résistance mécanique et la ductilité du matériau.","correction":"La courbe contrainte-déformation permet de lire le domaine élastique, la plasticité et la rupture."}
+      ]
+    },
+    {
+      "filieres": ["std2a"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Design et arts appliqués",
+      "titre": "Le design et la communication visuelle",
+      "source": "Programme de la série STD2A, BO spécial n° 1 du 22 janvier 2019 et BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Le design est une démarche de projet qui articule fonction, usage et expression : il répond à un besoin en produisant une forme.",
+        "Une identité visuelle associe un logotype, une palette de couleurs, une typographie et des règles d'usage rassemblées dans une charte graphique.",
+        "La composition (équilibre, hiérarchie, rythme, contraste) et la gestion de la couleur déterminent l'efficacité d'un message visuel.",
+        "Les supports (affiche, packaging, interface numérique) imposent des contraintes de format, de lisibilité et de contexte de diffusion."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel ensemble de règles définit l'identité graphique d'une marque ?","options":["Un cahier des charges","Une charte graphique","Un plan de marketing","Une notice technique"],"correct":1,"correction":"La charte graphique fixe les règles d'utilisation du logo, des couleurs et des typographies."},
+        {"type":"texte","q":"Quelle différence entre design et décoration ?","reponse":"Le design répond à une fonction et à un usage par une démarche de conception ; la décoration ajoute un ornement sans nécessairement résoudre un besoin.","correction":"Le design implique analyse du besoin, essais et validation ; il ne se limite pas à l'apparence."}
+      ]
+    },
+    {
+      "filieres": ["std2a"],
+      "annees": ["1re", "Terminale"],
+      "matiere": "Histoire de l'art et du design",
+      "titre": "L'histoire du design et des arts appliqués",
+      "source": "Programme de la série STD2A, BO spécial n° 1 du 22 janvier 2019, éduscol",
+      "points": [
+        "Le mouvement Arts and Crafts (XIXe siècle) réagit à la production industrielle en défendant le travail artisanal et la qualité des matériaux.",
+        "Le Bauhaus (1919-1933), fondé par Gropius, réunit art, artisanat et industrie : la forme suit la fonction et les matériaux sont utilisés honnêtement.",
+        "Le style international et le design scandinave diffusent des formes fonctionnelles et dépouillées après 1945.",
+        "Les créateurs contemporains (Philippe Starck, Ettore Sottsass) jouent sur le sens, l'ironie et l'expérience utilisateur."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle école a été fondée par Walter Gropius en 1919 ?","options":["Le Bauhaus","L'École des Beaux-Arts","Le Vkhutemas","L'Art Nouveau"],"correct":0,"correction":"Le Bauhaus est fondé à Weimar en 1919 par Walter Gropius."},
+        {"type":"texte","q":"Quel principe du Bauhaus peut-on retenir ?","reponse":"L'unité de l'art, de l'artisanat et de la technologie, avec une forme adaptée à la fonction et aux matériaux.","correction":"Le Bauhaus a cherché à former des créateurs capables de concevoir pour la production industrielle de série."}
+      ]
+    },
+    {
+      "filieres": ["sthr"],
+      "annees": ["2nde", "1re", "Terminale"],
+      "matiere": "Hôtellerie",
+      "titre": "L'accueil et l'hébergement en hôtellerie",
+      "source": "Programme de la série STHR, BO spécial n° 1 du 22 janvier 2019 et BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La réception est le point de contact central : accueil, réservation, enregistrement (check-in), attribution de la chambre et facturation.",
+        "Le départ (check-out) comprend la régularisation des extras, l'encaissement et la libération de la chambre pour le ménage.",
+        "La qualité de service repose sur des normes : délais de réponse, présentation, courtoisie, uniforme et maîtrise des langues étrangères.",
+        "Les outils (PMS - property management system, channel manager) centralisent les réservations et les tarifs provenant de multiples canaux."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel système informatique gère les réservations et l'occupation d'un hôtel ?","options":["Un CRM","Un PMS","Un ERP","Un SGBD"],"correct":1,"correction":"Le PMS (Property Management System) pilote réservations, chambres, facturation et statistiques d'occupation."},
+        {"type":"texte","q":"Quelles qualités sont attendues d'un réceptionniste ?","reponse":"Courtoisie, maîtrise des langues, organisation, discrétion et capacité à gérer les réclamations.","correction":"La réception représente l'établissement : elle doit concilier efficacité administrative et relation client de qualité."}
+      ]
+    },
+    {
+      "filieres": ["sthr"],
+      "annees": ["2nde", "1re", "Terminale"],
+      "matiere": "Restauration",
+      "titre": "Le service de restauration et les règles d'hygiène",
+      "source": "Programme de la série STHR, BO spécial n° 1 du 22 janvier 2019 et BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "La mise en place précède le service : dressage des tables, dispositions des couverts, approvisionnement du buffet et vérification de la salle.",
+        "Le service suit une séquence : accueil, prise de commande, service des plats, débarrassage et addition ; le couple de service coordonne salle et cuisine.",
+        "Les règles d'hygiène HACCP imposent le contrôle des températures, la séparation des denrées et le nettoyage des surfaces.",
+        "La gestion des réclamations et la connaissance des allergènes font partie des responsabilités du personnel de salle."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Que signifie le sigle HACCP ?","options":["Hygiène et Analyse des Critères de Contrôle des Produits","Hazard Analysis and Critical Control Points","Hygiène Alimentaire et Contrôle de la Qualité Totale","Harmonisation des Approaches de Contrôle des Production"],"correct":1,"correction":"HACCP signifie Hazard Analysis and Critical Control Points : analyse des dangers et maîtrise des points critiques."},
+        {"type":"texte","q":"Pourquoi la température est-elle un point critique en restauration ?","reponse":"Parce que la croissance des micro-organismes est rapide dans la zone de danger (environ 10-63 °C) : la chaîne du chaud et du froid doit être respectée.","correction":"Les températures de conservation et de cuisson sont des points critiques du plan HACCP, vérifiés par des relevés réguliers."}
+      ]
+    },
+    {
+      "filieres": ["sthr"],
+      "annees": ["2nde", "1re", "Terminale"],
+      "matiere": "Cuisine",
+      "titre": "La cuisine et la gastronomie française",
+      "source": "Programme de la série STHR, BO spécial n° 1 du 22 janvier 2019 et BO spécial n° 8 du 25 juillet 2019, éduscol",
+      "points": [
+        "Les cinq sauces mères de la cuisine classique (béchamel, velouté, espagnole, hollandaise, mayonnaise) sont codifiées par Escoffier.",
+        "Les modes de cuisson (sauter, braiser, rôtir, pocher, griller) s'adaptent à la nature des aliments et à la texture recherchée.",
+        "Le travail du produit implique la connaissance des saisons, des coupes (boucherie, poissonnerie) et des rendements.",
+        "La diététique et l'équilibre des menus (apports protéiques, lipidiques, glucidiques, légumes) complètent la pratique culinaire."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel cuisinier a codifié les sauces mères de la cuisine classique ?","options":["Auguste Escoffier","Paul Bocuse","Fernand Point","Joël Robuchon"],"correct":0,"correction":"Escoffier a systématisé les cinq sauces mères dans Le Guide culinaire (1903)."},
+        {"type":"texte","q":"Quand dit-on qu'un aliment est « de saison » ?","reponse":"Quand il est récolté au moment de sa maturation naturelle, ce qui garantit généralement goût et prix avantageux.","correction":"La saisonnalité est un critère de qualité et de développement durable : elle réduit le transport et le stockage."}
+      ]
+    },
+    {
+      "filieres": ["pro-commerce"],
+      "annees": ["1re pro", "Terminale pro"],
+      "matiere": "Métiers du commerce et de la vente",
+      "titre": "La prospection et la constitution du portefeuille client",
+      "source": "Référentiel de formation du baccalauréat professionnel Métiers du commerce et de la vente, option B, éduscol / France Compétences (RNCP 38399)",
+      "points": [
+        "La prospection recherche de nouveaux clients par des actions ciblées : fichier, internet, salons, recommandations, démarchage.",
+        "Le fichier client est structuré (nom, coordonnées, historique d'achats, besoins) et alimenté dans un outil CRM pour assurer le suivi.",
+        "La qualification du prospect évalue son besoin, son budget, son autorité de décision et son délai (méthode BANT).",
+        "Un portefeuille client est segmenté par potentiel et par ancienneté ; le taux de transformation et le panier moyen en mesurent la performance."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Dans la méthode BANT, que signifie la lettre B ?","options":["Budget","Besoin","Marque","Bénéfice"],"correct":0,"correction":"BANT signifie Budget, Authority, Need, Timing : budget, autorité, besoin et calendrier."},
+        {"type":"texte","q":"Pourquoi qualifier un prospect avant de le relancer ?","reponse":"Pour vérifier qu'il a un besoin réel et la capacité d'acheter, afin de concentrer l'effort commercial sur les prospects les plus prometteurs.","correction":"La qualification évite de passer du temps sur des contacts non décideurs ou sans budget, et améliore le taux de transformation."}
+      ]
+    },
+    {
+      "filieres": ["pro-commerce"],
+      "annees": ["1re pro", "Terminale pro"],
+      "matiere": "Métiers du commerce et de la vente",
+      "titre": "La vente conseil et le traitement des objections",
+      "source": "Référentiel de formation du baccalauréat professionnel Métiers du commerce et de la vente, éduscol / France Compétences (RNCP 38399)",
+      "points": [
+        "L'entretien de vente suit cinq étapes : accueil, découverte des besoins, présentation de l'offre, traitement des objections et conclusion.",
+        "Le questionnement alterne questions ouvertes (besoins) et fermées (confirmation) ; l'écoute active reformule les propos du client.",
+        "Une objection (prix, délai, concurrence) est traitée par la méthode écoute - reformulation - réponse argumentée - confirmation.",
+        "L'argumentaire met en avant les bénéfices pour le client plutôt que les seules caractéristiques techniques du produit."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle est la première étape du traitement d'une objection ?","options":["Répondre immédiatement","Écouter et reformuler le client","Proposer une remise","Couper court à la discussion"],"correct":1,"correction":"On écoute puis reformule l'objection pour montrer au client qu'il a été compris avant d'y répondre."},
+        {"type":"texte","q":"Quelle différence entre caractéristique et bénéfice ?","reponse":"La caractéristique décrit le produit ; le bénéfice explique ce que le client y gagne concrètement.","correction":"« 512 Go de stockage » est une caractéristique ; « vous pouvez garder toutes vos photos sans supprimer » en est le bénéfice."}
+      ]
+    },
+    {
+      "filieres": ["pro-commerce"],
+      "annees": ["2nde pro", "1re pro"],
+      "matiere": "Métiers du commerce et de la vente",
+      "titre": "Le merchandising et l'implantation en magasin",
+      "source": "Référentiel de formation du baccalauréat professionnel Métiers du commerce et de la vente, option A, éduscol / France Compétences (RNCP 38399)",
+      "points": [
+        "Le merchandising organise l'espace de vente pour valoriser l'offre et faciliter le parcours d'achat du client.",
+        "Le planogramme est la représentation schématique d'un rayon : il fixe la place, la largeur de façade et le nombre de facings de chaque référence.",
+        "Les implantations valorisent les têtes de gondole, les fins de rayon et les linéaires à hauteur des yeux ; le seuil d'entrée est un emplacement stratégique.",
+        "Les indicateurs de suivi sont la rotation des stocks, le taux de rupture, la marge au linéaire et le chiffre d'affaires au mètre linéaire."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Qu'appelle-t-on « facing » en rayon ?","options":["Le nombre d'exemplaires présentés de face","La hauteur du linéaire","Le prix affiché","Le nombre de caisses"],"correct":0,"correction":"Le facing est le nombre de faces visibles d'un produit sur le linéaire ; il influe sur la visibilité et les ventes."},
+        {"type":"texte","q":"Pourquoi surveiller les ruptures de stock en rayon ?","reponse":"Une rupture provoque une perte de vente immédiate et peut détourner le client vers la concurrence.","correction":"Le suivi des ruptures et des réassorts est un indicateur clé de la performance du rayon et de la satisfaction client."}
+      ]
+    },
+    {
+      "filieres": ["pro-commerce"],
+      "annees": ["1re pro", "Terminale pro"],
+      "matiere": "Métiers du commerce et de la vente",
+      "titre": "La gestion des stocks et des approvisionnements",
+      "source": "Référentiel de formation du baccalauréat professionnel Métiers du commerce et de la vente, éduscol / France Compétences (RNCP 38399)",
+      "points": [
+        "Un stock immobilise du capital ; les stocks utiles assurent la continuité des ventes, les stocks de sécurité couvrent l'aléa de la demande.",
+        "Le point de commande est le niveau de stock déclenchant une commande : stock de sécurité + consommation moyenne × délai de livraison.",
+        "La rotation des stocks rapporte le coût des marchandises vendues au stock moyen ; une rotation élevée limite l'immobilisation financière.",
+        "L'inventaire tournant ou annuel confronte le stock comptable au stock réel et identifie les écarts (vol, casse, erreur de saisie)."
+      ],
+      "questions": [
+        {"type":"qcm","q":"À quoi sert un stock de sécurité ?","options":["À afficher plus de produits","À couvrir les variations imprévues de demande ou de livraison","À réduire les prix","À remplacer l'inventaire"],"correct":1,"correction":"Le stock de sécurité protège contre les aléas de la demande et les retards d'approvisionnement."},
+        {"type":"texte","q":"Comment calculer un point de commande ?","reponse":"Stock de sécurité + (consommation moyenne journalière × délai d'approvisionnement en jours).","correction":"Le point de commande garantit que le stock ne tombe pas sous le seuil de sécurité pendant le délai de livraison."}
+      ]
+    },
+    {
+      "filieres": ["pro-gestion"],
+      "annees": ["1re pro", "Terminale pro"],
+      "matiere": "Assistance à la gestion des organisations et de leurs activités",
+      "titre": "La comptabilité courante et le plan comptable général",
+      "source": "Référentiel de formation du baccalauréat professionnel Assistance à la gestion des organisations et de leurs activités, éduscol",
+      "points": [
+        "Le plan comptable général (PCG) définit la nomenclature des comptes : classe 1 (capitaux), 2 (immobilisations), 3 (stocks), 4 (tiers), 6 (charges), 7 (produits).",
+        "Chaque opération donne lieu à une écriture en partie double : débit et crédit de montant égal, enregistrée dans un journal.",
+        "Les charges (compte 6) diminuent le résultat ; les produits (compte 7) l'augmentent ; le résultat est la différence entre produits et charges.",
+        "La balance avant inventaire vérifie l'égalité totale des débits et des crédits avant les écritures d'inventaire."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Dans le plan comptable général, quelle classe regroupe les charges ?","options":["La classe 1","La classe 4","La classe 6","La classe 7"],"correct":2,"correction":"La classe 6 regroupe les charges ; la classe 7 regroupe les produits."},
+        {"type":"texte","q":"Quel est le principe de la partie double ?","reponse":"Toute opération modifie au moins deux comptes, le montant débité étant égal au montant crédité.","correction":"Cette règle garantit que l'équation comptable reste toujours vérifiée et permet de contrôler la balance."}
+      ]
+    },
+    {
+      "filieres": ["pro-gestion"],
+      "annees": ["1re pro", "Terminale pro"],
+      "matiere": "Assistance à la gestion des organisations et de leurs activités",
+      "titre": "La paie et le droit du travail",
+      "source": "Référentiel de formation du baccalauréat professionnel Assistance à la gestion des organisations et de leurs activités, éduscol",
+      "points": [
+        "Le salaire brut est calculé à partir du salaire de base, des heures supplémentaires et des primes ; les cotisations salariales et patronales s'ajoutent.",
+        "Le salaire net est obtenu après déduction des cotisations salariales (CSG, CRDS, cotisations sociales) du salaire brut.",
+        "Le bulletin de salaire mentionne l'employeur, le salarié, la période, le nombre d'heures, les rubriques de rémunération et les cotisations.",
+        "Le contrat de travail (CDI, CDD) et la durée légale du travail (35 heures hebdomadaires en France) encadrent la relation de travail."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle durée légale hebdomadaire du travail s'applique en France ?","options":["30 heures","35 heures","39 heures","40 heures"],"correct":1,"correction":"La durée légale est fixée à 35 heures par semaine ; au-delà, les heures sont supplémentaires et majorées."},
+        {"type":"texte","q":"Comment passe-t-on du salaire brut au salaire net ?","reponse":"En déduisant du brut les cotisations et contributions sociales à la charge du salarié.","correction":"Le salaire net est le montant effectivement versé au salarié après prélèvements sociaux ; le coût total pour l'employeur comprend les cotisations patronales."}
+      ]
+    },
+    {
+      "filieres": ["pro-gestion"],
+      "annees": ["Terminale pro"],
+      "matiere": "Assistance à la gestion des organisations et de leurs activités",
+      "titre": "La trésorerie et le suivi budgétaire",
+      "source": "Référentiel de formation du baccalauréat professionnel Assistance à la gestion des organisations et de leurs activités, éduscol",
+      "points": [
+        "La trésorerie est l'ensemble des disponibilités (caisse, banque) ; elle doit rester positive pour faire face aux échéances.",
+        "Un budget prévisionnel compare les recettes et les dépenses attendues ; le suivi budgétaire mesure les écarts entre prévision et réalisation.",
+        "Le plan de trésorerie prévoit les encaissements et décaissements mois par mois pour anticiper les besoins de financement.",
+        "Un écart défavorable de recettes ou un retard de paiement des clients dégrade la trésorerie même si l'entreprise est bénéficiaire."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel document prévoit les entrées et sorties d'argent mois par mois ?","options":["Le bilan","Le plan de trésorerie","Le compte de résultat","L'inventaire"],"correct":1,"correction":"Le plan de trésorerie établit le calendrier prévisionnel des encaissements et décaissements."},
+        {"type":"texte","q":"Pourquoi une entreprise bénéficiaire peut-elle manquer de trésorerie ?","reponse":"Parce que les ventes ne sont pas encore encaissées alors que les charges doivent être payées : les clients paient à terme.","correction":"Le décalage entre l'apparition du produit en comptabilité et son encaissement crée un besoin en fonds de roulement."}
+      ]
+    },
+    {
+      "filieres": ["pro-gestion"],
+      "annees": ["2nde pro", "1re pro"],
+      "matiere": "Économie et gestion",
+      "titre": "L'environnement économique et juridique de l'entreprise",
+      "source": "Référentiel de formation du baccalauréat professionnel Assistance à la gestion des organisations et de leurs activités, éduscol",
+      "points": [
+        "L'entreprise évolue dans un environnement composé de clients, fournisseurs, concurrents, partenaires et institutions.",
+        "Les principales formes juridiques sont l'entreprise individuelle, la SARL et la SA ; elles diffèrent par la responsabilité des associés et le capital.",
+        "Le marché est soumis à la concurrence : l'entreprise doit se différencier par les prix, la qualité, le service ou l'innovation.",
+        "Le droit des affaires encadre la création d'entreprise, les contrats commerciaux, la facturation et la protection des consommateurs."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle forme juridique limite la responsabilité des associés au montant de leurs apports ?","options":["L'entreprise individuelle","La SARL","L'artisanat","L'exploitation individuelle"],"correct":1,"correction":"Dans la SARL (société à responsabilité limitée), les associés ne répondent des dettes qu'à hauteur de leurs apports."},
+        {"type":"texte","q":"Quels acteurs composent l'environnement proche d'une entreprise ?","reponse":"Les clients, fournisseurs, concurrents, intermédiaires, salariés et partenaires financiers.","correction":"Ces acteurs exercent une influence directe sur l'activité, contrairement à l'environnement général (économie, droit, société)."}
+      ]
+    },
+    {
+      "filieres": ["pro-sante"],
+      "annees": ["2nde pro", "1re pro"],
+      "matiere": "Accompagnement, soins et services à la personne",
+      "titre": "L'anatomie et la physiologie humaine appliquées aux soins",
+      "source": "Référentiel de formation du baccalauréat professionnel Accompagnement, soins et services à la personne, éduscol",
+      "points": [
+        "Le corps humain est étudié par appareils : locomoteur, circulatoire, respiratoire, digestif, urinaire, nerveux et endocrinien.",
+        "La circulation sanguine assure le transport de l'oxygène, des nutriments et des déchets : le cœur pompe le sang dans les artères et le reçoit par les veines.",
+        "La respiration comprend l'inspiration et l'expiration ; les échanges gazeux se font dans les alvéoles pulmonaires entre air et sang.",
+        "La température corporelle est maintenue autour de 37 °C par la thermorégulation ; sa mesure fait partie des soins courants."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Où se déroulent les échanges d'oxygène et de dioxyde de carbone ?","options":["Dans la trachée","Dans les bronches","Dans les alvéoles pulmonaires","Dans le cœur"],"correct":2,"correction":"Les alvéoles pulmonaires sont le lieu des échanges gazeux entre l'air alvéolaire et le sang capillaire."},
+        {"type":"texte","q":"Pourquoi surveiller la température d'une personne âgée ?","reponse":"Parce que la thermorégulation s'altère avec l'âge : une hypothermie ou une fièvre peut passer inaperçue et signaler une infection.","correction":"La mesure de la température est un indicateur simple mais important de l'état de santé et de l'efficacité de la prise en charge."}
+      ]
+    },
+    {
+      "filieres": ["pro-sante"],
+      "annees": ["1re pro", "Terminale pro"],
+      "matiere": "Accompagnement, soins et services à la personne",
+      "titre": "Les soins d'hygiène et de confort",
+      "source": "Référentiel de formation du baccalauréat professionnel Accompagnement, soins et services à la personne, éduscol",
+      "points": [
+        "La toilette est un soin d'hygiène qui respecte l'intimité et le rythme de la personne ; elle peut être totale, partielle ou avec aide.",
+        "La prévention des escarres repose sur la mobilisation, les changements de position, le maintien de l'hygiène et l'utilisation de supports adaptés.",
+        "Les transmissions écrites et orales garantissent la continuité des soins entre professionnels : elles sont datées, signées et factuelles.",
+        "La bientraitance guide chaque geste : expliquer le soin, demander le consentement, préserver la dignité et adapter l'aide aux capacités restantes."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel geste prévient efficacement les escarres ?","options":["Laisser la personne immobile","Changer régulièrement sa position","Donner une douche chaude","Serrer les draps"],"correct":1,"correction":"Le changement de position soulage les points de pression et relance la circulation locale."},
+        {"type":"texte","q":"Pourquoi les transmissions sont-elles essentielles ?","reponse":"Elles informent l'équipe de l'état de la personne et des soins réalisés, afin d'assurer une prise en charge continue et cohérente.","correction":"Une transmission doit être précise, objective, datée et signée ; elle évite les oublis et les doubles soins."}
+      ]
+    },
+    {
+      "filieres": ["pro-sante"],
+      "annees": ["1re pro", "Terminale pro"],
+      "matiere": "Accompagnement, soins et services à la personne",
+      "titre": "La pharmacologie et l'administration des soins",
+      "source": "Référentiel de formation du baccalauréat professionnel Accompagnement, soins et services à la personne, éduscol",
+      "points": [
+        "Un médicament est identifié par sa dénomination commune internationale (DCI), sa forme galénique, son dosage et sa date de péremption.",
+        "Les voies d'administration courantes sont orale, cutanée, intramusculaire, sous-cutanée et intraveineuse ; chacune impose des règles d'asepsie.",
+        "L'administration respecte la prescription médicale : bon patient, bon médicament, bonne dose, bonne voie, bon moment, avec traçabilité.",
+        "Les effets indésirables et les interactions médicamenteuses doivent être connus et signalés ; l'automédication est déconseillée chez la personne âgée."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelles sont les « cinq bons » de l'administration d'un médicament ?","options":["Bon patient, bon médicament, bonne dose, bonne voie, bon moment","Bon prix, bon laboratoire, bonne couleur, bonne forme, bon stock","Bon médecin, bon hôpital, bon lit, bon repas, bon sommeil","Bon matin, bon midi, bon soir, bonne nuit, bonne semaine"],"correct":0,"correction":"La règle des cinq bons (ou sept avec la documentation et la traçabilité) structure l'administration sécurisée."},
+        {"type":"texte","q":"Que signifie DCI ?","reponse":"Dénomination commune internationale : le nom générique unique d'une substance active, indépendamment de la marque.","correction":"La DCI évite les confusions entre spécialités commerciales ; par exemple le paracétamol est la DCI du Doliprane."}
+      ]
+    },
+    {
+      "filieres": ["pro-sante"],
+      "annees": ["1re pro", "Terminale pro"],
+      "matiere": "Accompagnement, soins et services à la personne",
+      "titre": "La déontologie et le secret professionnel",
+      "source": "Référentiel de formation du baccalauréat professionnel Accompagnement, soins et services à la personne, éduscol / Code de la santé publique et Code de l'action sociale",
+      "points": [
+        "Le secret professionnel oblige tout professionnel de santé ou du social à ne pas divulguer les informations apprises dans l'exercice de sa mission.",
+        "Le consentement de la personne est demandé avant tout soin ; elle peut le refuser ou le retirer, sauf urgence vitale.",
+        "La bientraitance et le respect de la dignité interdisent toute forme de maltraitance, qu'elle soit active ou passive (négligence).",
+        "Les données personnelles sont protégées : le dossier est conservé dans des conditions de confidentialité et l'accès est réservé aux professionnels habilités."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel principe oblige un soignant à ne pas révéler les informations concernant un patient ?","options":["Le secret professionnel","La liberté d'expression","La transparence administrative","Le devoir de réserve"],"correct":0,"correction":"Le secret professionnel est une obligation déontologique et pénale pour les professionnels de santé et du social."},
+        {"type":"texte","q":"Quelle différence entre maltraitance active et passive ?","reponse":"La maltraitance active est un geste ou une parole agressif ; la maltraitance passive est une négligence ou un manque d'attention aux besoins.","correction":"Les deux formes sont proscrites : ne pas répondre à une demande ou laisser une personne dans l'inconfort constitue une maltraitance."}
+      ]
+    },
+    {
+      "filieres": ["pro-electricite"],
+      "annees": ["1re pro", "Terminale pro"],
+      "matiere": "Métiers de l'électricité et de ses environnements connectés",
+      "titre": "Les installations électriques et la norme NF C 15-100",
+      "source": "Référentiel de formation du baccalauréat professionnel Métiers de l'électricité et de ses environnements connectés, éduscol",
+      "points": [
+        "La norme NF C 15-100 fixe les règles de conception et de réalisation des installations électriques basse tension en France.",
+        "Une installation comporte un tableau électrique avec disjoncteur général, disjoncteurs divisionnaires, interrupteurs différentiels et borne de terre.",
+        "La protection contre les chocs électriques repose sur la mise à la terre, la coupure automatique (différentiel 30 mA) et l'isolement des conducteurs.",
+        "Les circuits sont répartis par usage (éclairage, prises, chauffage) avec des sections de câble et des calibres de disjoncteur adaptés."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel seuil de sensibilité est requis pour un interrupteur différentiel protégeant les prises ?","options":["300 mA","100 mA","30 mA","10 mA"],"correct":2,"correction":"Un différentiel 30 mA assure la protection des personnes contre les chocs électriques."},
+        {"type":"texte","q":"Quel rôle joue la mise à la terre ?","reponse":"Elle élimine les tensions dangereuses en écoulement vers le sol et permet le déclenchement des protections en cas de défaut.","correction":"La liaison équipotentielle et la terre constituent la protection de classe I contre les contacts indirects."}
+      ]
+    },
+    {
+      "filieres": ["pro-electricite"],
+      "annees": ["1re pro", "Terminale pro"],
+      "matiere": "Métiers de l'électricité et de ses environnements connectés",
+      "titre": "Les moteurs électriques et les variateurs de vitesse",
+      "source": "Référentiel de formation du baccalauréat professionnel Métiers de l'électricité et de ses environnements connectés, éduscol",
+      "points": [
+        "Le moteur asynchrone triphasé est le plus utilisé en industrie : il fonctionne grâce à un champ tournant créé par les enroulements statoriques.",
+        "Sa vitesse de synchronisation dépend de la fréquence et du nombre de paires de pôles : n = 60·f/p ; le glissement explique l'écart avec la vitesse réelle.",
+        "Le variateur de fréquence ajuste la tension et la fréquence alimentant le moteur pour contrôler sa vitesse et limiter le courant de démarrage.",
+        "Le rendement et le facteur de puissance (cos φ) sont des indicateurs de performance ; le démarrage direct peut provoquer des appels de courant importants."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel est l'avantage principal d'un variateur de fréquence ?","options":["Augmenter la tension réseau","Régler la vitesse et limiter le courant de démarrage","Supprimer les protecteurs","Réduire le nombre de pôles"],"correct":1,"correction":"Le variateur pilote la vitesse du moteur et évite les fortes pointes de courant au démarrage."},
+        {"type":"texte","q":"Qu'est-ce que le glissement d'un moteur asynchrone ?","reponse":"C'est l'écart relatif entre la vitesse du champ tournant et la vitesse réelle du rotor.","correction":"Sans glissement, aucun couple ne serait transmis au rotor : le moteur asynchrone doit tourner moins vite que le champ."}
+      ]
+    },
+    {
+      "filieres": ["pro-electricite"],
+      "annees": ["Terminale pro"],
+      "matiere": "Métiers de l'électricité et de ses environnements connectés",
+      "titre": "La domotique et les réseaux de communication",
+      "source": "Référentiel de formation du baccalauréat professionnel Métiers de l'électricité et de ses environnements connectés, éduscol",
+      "points": [
+        "La domotique regroupe les équipements qui automatisent et pilotent les fonctions d'un bâtiment : éclairage, chauffage, volets, sécurité.",
+        "Un bus de terrain (KNX, Modbus, DALI) relie capteurs, actionneurs et automate : il réduit le câblage et permet le dialogue entre appareils.",
+        "La supervision (SCADA, IHM) donne une interface de pilotage et d'alerte ; les données peuvent être consultées à distance via internet.",
+        "La cybersécurité des objets connectés impose des mots de passe, des mises à jour et une segmentation des réseaux."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel bus est spécifiquement utilisé pour la commande de l'éclairage ?","options":["KNX","DALI","Modbus RTU","Profibus"],"correct":1,"correction":"DALI (Digital Addressable Lighting Interface) est un bus dédié à la gestion de l'éclairage."},
+        {"type":"texte","q":"Pourquoi sécuriser les objets connectés d'un bâtiment ?","reponse":"Parce qu'un accès non autorisé pourrait piloter des équipements (chauffage, serrure) ou compromettre la confidentialité des données.","correction":"Les systèmes domotiques sont des systèmes informatiques : ils nécessitent authentification, mise à jour et séparation du réseau bureautique."}
+      ]
+    },
+    {
+      "filieres": ["pro-electricite"],
+      "annees": ["2nde pro", "1re pro"],
+      "matiere": "Métiers de l'électricité et de ses environnements connectés",
+      "titre": "La sécurité électrique et les habilitations",
+      "source": "Référentiel de formation du baccalauréat professionnel Métiers de l'électricité et de ses environnements connectés et référentiel de prévention des risques électriques, éduscol",
+      "points": [
+        "Travailler sur une installation électrique exige une habilitation électrique délivrée par l'employeur après formation (BS, BE, H0V, etc.).",
+        "La consignation comprend la coupure, le verrouillage, la vérification d'absence de tension (VAT) et la mise à la terre temporaire.",
+        "Les équipements de protection individuelle (gants isolants, chaussures, lunettes) et les outils isolés réduisent le risque de contact.",
+        "Les risques électriques sont l'électrocution, l'électrolyse, les brûlures et les arcs électriques ; une attention particulière est portée aux environnements humides."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle opération garantit qu'une installation est hors tension avant intervention ?","options":["La mise sous tension","La vérification d'absence de tension","Le raccordement","Le réglage du disjoncteur"],"correct":1,"correction":"La VAT avec un contrôleur de tension est une étape obligatoire de la consignation électrique."},
+        {"type":"texte","q":"Qui délivre l'habilitation électrique ?","reponse":"L'employeur, après une formation adaptée et une évaluation, conformément au référentiel de prévention des risques électriques.","correction":"L'habilitation n'est pas un diplôme permanent : elle est liée à un poste, un niveau de qualification et une date de validité."}
+      ]
+    },
+    {
+      "filieres": ["pro-maintenance"],
+      "annees": ["1re pro", "Terminale pro"],
+      "matiere": "Maintenance des matériels",
+      "titre": "La maintenance préventive et curative",
+      "source": "Référentiel de formation du baccalauréat professionnel Maintenance des matériels, éduscol",
+      "points": [
+        "La maintenance curative intervient après une panne pour remettre l'équipement en service ; la maintenance préventive agit avant la défaillance.",
+        "La maintenance préventive peut être systématique (selon un calendrier ou un nombre d'heures) ou conditionnelle (selon l'état mesuré).",
+        "Un plan de maintenance définit les tâches, les périodicités, les responsables et les pièces nécessaires, souvent dans un logiciel GMAO.",
+        "Les indicateurs de performance sont le taux de disponibilité, le MTBF (temps moyen entre pannes) et le MTTR (temps moyen de réparation)."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel indicateur mesure le temps moyen de réparation ?","options":["MTBF","MTTR","OEE","BFR"],"correct":1,"correction":"MTTR (Mean Time To Repair) est le temps moyen nécessaire à la remise en service."},
+        {"type":"texte","q":"Quelle différence entre maintenance préventive systématique et conditionnelle ?","reponse":"La première intervient à une périodicité fixe ; la seconde déclenche l'intervention selon l'état réel de l'équipement.","correction":"La maintenance conditionnelle utilise des mesures (vibrations, température, huile) et évite les interventions inutiles."}
+      ]
+    },
+    {
+      "filieres": ["pro-maintenance"],
+      "annees": ["1re pro", "Terminale pro"],
+      "matiere": "Maintenance des matériels",
+      "titre": "La lecture de plans et de schémas techniques",
+      "source": "Référentiel de formation du baccalauréat professionnel Maintenance des matériels, éduscol",
+      "points": [
+        "Un plan technique est une représentation normalisée en projections : vue de face, de dessus, de côté, avec cotation et échelle.",
+        "Les cotes et tolérances définissent les dimensions admissibles ; l'ajustement précise le jeu ou le serrage entre deux pièces.",
+        "Un schéma cinématique représente les liaisons et les mobilités ; un schéma hydraulique ou pneumatique utilise des symboles normalisés (ISO 1219).",
+        "Le repérage des pièces et la nomenclature facilitent la commande de pièces de rechange et le diagnostic."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle norme régit les symboles des schémas hydrauliques et pneumatiques ?","options":["ISO 690","ISO 1219","ISO 9001","ISO 17025"],"correct":1,"correction":"La norme ISO 1219 définit les symboles graphiques des composants hydrauliques et pneumatiques."},
+        {"type":"texte","q":"À quoi sert une tolérance sur un plan ?","reponse":"Elle définit l'écart maximal admissible par rapport à la dimension nominale, afin de garantir l'interchangeabilité des pièces.","correction":"Sans tolérance, une cote exacte serait impossible à fabriquer ; la tolérance rend la production réalisable et contrôlable."}
+      ]
+    },
+    {
+      "filieres": ["pro-maintenance"],
+      "annees": ["Terminale pro"],
+      "matiere": "Maintenance des matériels",
+      "titre": "Les systèmes pneumatiques et hydrauliques",
+      "source": "Référentiel de formation du baccalauréat professionnel Maintenance des matériels, éduscol",
+      "points": [
+        "Un système pneumatique utilise de l'air comprimé produit par un compresseur ; la pression de service se mesure en bar et le débit en L/min.",
+        "Les composants courants sont le distributeur (orientation du flux), le vérin (actionneur linéaire), le moteur pneumatique et les raccords.",
+        "Un circuit hydraulique utilise un liquide sous haute pression : pompe, réservoir, soupape de décharge, vérin hydraulique et flexibles.",
+        "Les défauts fréquents sont les fuites, la cavitation, l'échauffement et la contamination du fluide ; la propreté est essentielle en hydraulique."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quel composant oriente le flux d'air vers un vérin ?","options":["Le compresseur","Le distributeur","Le réservoir","Le filtre"],"correct":1,"correction":"Le distributeur pneumatique commande le sens de circulation et donc le mouvement du vérin."},
+        {"type":"texte","q":"Pourquoi la propreté est-elle cruciale en hydraulique ?","reponse":"Les particules provoquent l'usure des pompes et des distributeurs et peuvent bloquer les soupapes.","correction":"La filtration et le respect des grades de propreté (norme ISO 4406) conditionnent la durée de vie des composants."}
+      ]
+    },
+    {
+      "filieres": ["pro-maintenance"],
+      "annees": ["1re pro", "Terminale pro"],
+      "matiere": "Maintenance des matériels",
+      "titre": "Le diagnostic et la maintenance conditionnelle",
+      "source": "Référentiel de formation du baccalauréat professionnel Maintenance des matériels, éduscol",
+      "points": [
+        "Le diagnostic suit une démarche méthodique : observation, questioning de l'utilisateur, mesures, hypothèses et validation.",
+        "L'analyse vibratoire, la thermographie infrarouge et l'analyse d'huile détectent les signes avant-coureurs de défaillance.",
+        "Les capteurs connectés et la maintenance 4.0 permettent de suivre l'évolution des paramètres et de déclencher une alerte avant la panne.",
+        "Une bonne traçabilité du diagnostic (compte rendu, mesures, pièces remplacées) capitalise l'expérience et améliore les interventions futures."
+      ],
+      "questions": [
+        {"type":"qcm","q":"Quelle technique détecte un échauffement anormal d'un moteur sans contact ?","options":["L'analyse vibratoire","La thermographie infrarouge","L'analyse d'huile","Le contrôle dimensionnel"],"correct":1,"correction":"La thermographie mesure le rayonnement infrarouge et révèle les points chauds sans toucher l'équipement."},
+        {"type":"texte","q":"Quelle est la différence entre recherche de panne et maintenance conditionnelle ?","reponse":"La recherche de panne intervient après le dysfonctionnement ; la maintenance conditionnelle surveille l'état pour anticiper la défaillance.","correction":"La maintenance conditionnelle repose sur des mesures répétées et des seuils d'alerte, ce qui réduit les arrêts imprévus."}
+      ]
+    }
+  ]
+}

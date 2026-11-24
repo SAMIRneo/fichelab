@@ -1,0 +1,10 @@
+const fs = require('fs');
+const p = 'C:/Users/samir/Desktop/ilane bis/nouveau-projet/fichelab/data/lead-bio-final.json';
+const s = fs.readFileSync(p, 'utf8');
+const j = JSON.parse(s);
+console.log('keys:', Object.keys(j).join(','));
+console.log('fiches:', j.fiches.length, 'annales:', j.annales.length);
+console.log('CJK remaining:', (s.match(/[\u4e00-\u9fff]/g) || []).length);
+console.log('titles containing U7:', j.fiches.filter(f => /U7|validation|optimisation/.test(f.titre)).map(f => f.titre));
+console.log('source sample:', j.fiches[0].source);
+console.log('annale sample fields:', Object.keys(j.annales[0]).join(','));

@@ -1,0 +1,2176 @@
+{
+  "fiches": [
+    {
+      "filieres": [
+        "but-tc"
+      ],
+      "annees": [
+        "BUT1"
+      ],
+      "matiere": "Gestion",
+      "titre": "Chapitre GE1. · Gestion d'entreprise : fonctions, organisation et parties prenantes",
+      "source": "Référentiel BUT « Techniques de commercialisation », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020) et programme national 2022 · plan comptable général, arrêté du 22 juin 1999 · Code de commerce et Code général des impôts · éduscol · UE gestion d'entreprise · niveau 1 · compétences transversales · notions : fonction, organigramme, partie prenante",
+      "points": [
+        "Une entreprise est une organisation qui mobilise des ressources humaines, financières et matérielles pour produire des biens ou des services destinés à un marché.",
+        "Les fonctions principales sont l'approvisionnement, la production, la commercialisation et la gestion financière ; les fonctions de support incluent les ressources humaines, l'informatique et le juridique.",
+        "L'organigramme représente la répartition des responsabilités, les liens hiérarchiques et la spécialisation des tâches.",
+        "La direction générale définit la stratégie, arbitre les ressources et contrôle la performance globale de l'organisation.",
+        "Le service commercial recherche des clients, négocie les ventes et pilote la relation client ; le marketing prépare l'offre et étudie le marché.",
+        "La fonction achats sélectionne les fournisseurs et négocie les conditions ; la production transforme les intrants en produits ou services.",
+        "La logistique assure les flux physiques et d'information entre fournisseurs, site de production, entrepôts et clients.",
+        "La comptabilité et la finance enregistrent les opérations, établissent les états financiers et pilotent la trésorerie.",
+        "Les parties prenantes sont les salariés, les clients, les fournisseurs, les actionnaires, les banques, les collectivités et la société civile.",
+        "La création de valeur se mesure par la capacité de l'entreprise à satisfaire les clients tout en dégageant une marge suffisante pour investir.",
+        "Une organisation efficace réduit les interfaces inutiles et clarifie qui décide, ce qui accélère la réactivité commerciale.",
+        "Le BUT TC intégre ces bases dans les UE de gestion et de droit afin de comprendre l'environnement dans lequel l'offre est construite."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que désigne « fonction » ?",
+          "options": [
+            "Représentation graphique des responsabilités et des liens hiérarchiques.",
+            "Ensemble cohérent d'activités regroupées autour d'une finalité dans l'organisation.",
+            "Personne ou groupe affecté par l'activité de l'entreprise ou capable de l'influencer.",
+            "Capacité de l'entreprise à produire un bénéfice supérieur au coût des ressources consommées."
+          ],
+          "correct": 1,
+          "correction": "Ensemble cohérent d'activités regroupées autour d'une finalité dans l'organisation. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Représentation graphique des responsabilités et des liens hiérarchiques. » ?",
+          "options": [
+            "partie prenante",
+            "création de valeur",
+            "fonction commerciale",
+            "organigramme"
+          ],
+          "correct": 3,
+          "correction": "Représentation graphique des responsabilités et des liens hiérarchiques. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « partie prenante » ?",
+          "options": [
+            "Capacité de l'entreprise à produire un bénéfice supérieur au coût des ressources consommées.",
+            "Personne ou groupe affecté par l'activité de l'entreprise ou capable de l'influencer.",
+            "Fonction chargée de la vente, de la prospection et de la relation client.",
+            "Point de contact entre deux services ou entre l'entreprise et son environnement."
+          ],
+          "correct": 1,
+          "correction": "Personne ou groupe affecté par l'activité de l'entreprise ou capable de l'influencer. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne « création de valeur » ?",
+          "options": [
+            "Fonction chargée de la vente, de la prospection et de la relation client.",
+            "Point de contact entre deux services ou entre l'entreprise et son environnement.",
+            "Ensemble cohérent d'activités regroupées autour d'une finalité dans l'organisation.",
+            "Capacité de l'entreprise à produire un bénéfice supérieur au coût des ressources consommées."
+          ],
+          "correct": 3,
+          "correction": "Capacité de l'entreprise à produire un bénéfice supérieur au coût des ressources consommées. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Fonction chargée de la vente, de la prospection et de la relation client. » ?",
+          "options": [
+            "interface",
+            "fonction commerciale",
+            "fonction",
+            "organigramme"
+          ],
+          "correct": 1,
+          "correction": "Fonction chargée de la vente, de la prospection et de la relation client. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « interface » ?",
+          "options": [
+            "Ensemble cohérent d'activités regroupées autour d'une finalité dans l'organisation.",
+            "Représentation graphique des responsabilités et des liens hiérarchiques.",
+            "Personne ou groupe affecté par l'activité de l'entreprise ou capable de l'influencer.",
+            "Point de contact entre deux services ou entre l'entreprise et son environnement."
+          ],
+          "correct": 3,
+          "correction": "Point de contact entre deux services ou entre l'entreprise et son environnement. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle fonction est chargée de négocier les conditions d'achat avec les fournisseurs ?",
+          "options": [
+            "La fonction commerciale",
+            "La fonction achats",
+            "La comptabilité",
+            "La production"
+          ],
+          "correct": 1,
+          "correction": "La fonction achats sélectionne et négocie avec les fournisseurs ; la fonction commerciale, elle, négocie avec les clients."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer la différence entre fonction principale et fonction de support.",
+          "reponse": "Une fonction principale participe directement à la création de l'offre et à sa vente (achats, production, commercialisation) ; une fonction de support fournit les moyens nécessaires (RH, informatique, juridique, finance). Les deux sont indispensables à la performance globale.",
+          "correction": "On distingue la contribution directe à la valeur de la contribution aux conditions de son existence."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi la clarification des responsabilités améliore-t-elle la réactivité commerciale ?",
+          "reponse": "Lorsque chacun sait qui décide et qui exécute, les demandes clients circulent sans arbitrage inutile, les délais se réduisent et les erreurs de coordination diminuent.",
+          "correction": "On relie organisation interne, vitesse de traitement et qualité de la relation client."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "L'entreprise coordonne des fonctions complémentaires pour créer de la valeur pour ses clients et rémunérer ses parties prenantes."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "Approvisionnement → production → commercialisation → administration",
+          "leg": "fonctions · organigramme · parties prenantes · création de valeur"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des notions",
+          "items": [
+            [
+              "Notion",
+              "Définition",
+              "Repère"
+            ],
+            [
+              "fonction",
+              "Ensemble cohérent d'activités regroupées autour d'une finalité dans l'organisation.",
+              "Notion 1"
+            ],
+            [
+              "organigramme",
+              "Représentation graphique des responsabilités et des liens hiérarchiques.",
+              "Notion 2"
+            ],
+            [
+              "partie prenante",
+              "Personne ou groupe affecté par l'activité de l'entreprise ou capable de l'influencer.",
+              "Notion 3"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir sur le chapitre",
+          "items": [
+            "fonction : Ensemble cohérent d'activités regroupées autour d'une finalité dans l'organisation.",
+            "organigramme : Représentation graphique des responsabilités et des liens hiérarchiques.",
+            "partie prenante : Personne ou groupe affecté par l'activité de l'entreprise ou capable de l'influencer.",
+            "création de valeur : Capacité de l'entreprise à produire un bénéfice supérieur au coût des ressources consommées."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Procéder étape par étape",
+          "items": [
+            "Repérer les fonctions et leurs finalités",
+            "Situer les interfaces entre services",
+            "Identifier les parties prenantes et leurs attentes",
+            "Analyser la chaîne de création de valeur",
+            "Évaluer la réactivité de l'organisation"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Confondre achats et commerce",
+            "Ignorer les fonctions de support",
+            "Réduire l'entreprise à la seule production",
+            "Oublier les attentes des parties prenantes"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class='cle'>4 fonctions principales</span> → achats, production, vente, finance",
+            "<span class='cle'>2 types de fonctions</span> → principales et support",
+            "<span class='cle'>7 parties prenantes</span> → salariés, clients, fournisseurs et autres",
+            "<span class='cle'>1 objectif</span> → créer plus de valeur que de coûts"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Repères : GE1.",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Notions clés : Gestion d'entreprise : fonctions, organisation et parties prenantes\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Notions clés : Gestion d'entreprise : fonctions, organisation et parties prenantes</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Définition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repère</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">fonction</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Ensemble cohérent</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 1</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">organigramme</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Représentation graphique</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 2</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">partie prenante</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Personne ou groupe</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 3</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">création de valeur</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Capacité de l'entreprise</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 4</text></svg>"
+        },
+        {
+          "titre": "2 · Procédure : GE1.",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Méthode : Gestion d'entreprise : fonctions, organisation et parties prenantes\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Méthode : Gestion d'entreprise : fonctions, organisation et parties prenantes</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Repérer les fonctions et leurs finalités</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Situer les interfaces entre services</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Identifier les parties prenantes et leurs attentes</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Analyser la chaîne de création de valeur</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Évaluer la réactivité de l'organisation</text></svg>"
+        },
+        {
+          "titre": "3 · Distinction : GE1.",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Deux notions à distinguer\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Deux notions à distinguer</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Fonction principale</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Participe à l'offre</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Crée de la valeur directement</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Achats, production, vente</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Fonction de support</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Fournit les moyens</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">RH, informatique, juridique</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Indispensable mais indirecte</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-tc"
+      ],
+      "annees": [
+        "BUT2"
+      ],
+      "matiere": "Gestion",
+      "titre": "Chapitre GE2. · Contrôle de gestion : piloter l'activité par les écarts",
+      "source": "Référentiel BUT « Techniques de commercialisation », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020) et programme national 2022 · plan comptable général, arrêté du 22 juin 1999 · Code de commerce et Code général des impôts · éduscol · UE contrôle de gestion · niveau 2 · compétences de pilotage · notions : contrôle de gestion, centre de responsabilité, écart",
+      "points": [
+        "Le contrôle de gestion est un processus de pilotage qui aide les managers à atteindre les objectifs en maîtrisant les ressources.",
+        "Il ne sanctionne pas : il fournit des informations pour comprendre les écarts et décider des actions correctives.",
+        "Un centre de responsabilité est une unité dont un responsable rend compte de l'activité : centre de coûts, de revenus ou d'investissement.",
+        "Le budget est le principal outil : il traduit les objectifs en prévisions chiffrées de ventes, de coûts et de trésorerie.",
+        "Le tableau de bord regroupe les indicateurs clés suivis régulièrement : ventes, marge, productivité, satisfaction et délais.",
+        "L'écart se calcule en comparant le réalisé au prévu ; on distingue l'écart de volume (quantité) et l'écart de prix ou de coût.",
+        "Un écart défavorable n'a pas toujours la même cause : une baisse de marge peut venir d'un prix réduit, d'une hausse des achats ou d'un mix de vente défavorable.",
+        "L'analyse par exceptions consistant à ne traiter que les écarts significatifs évite de noyer la direction dans les détails.",
+        "La périodicité du suivi doit être adaptée : mensuelle pour la plupart des indicateurs, hebdomadaire pour l'activité commerciale.",
+        "Un indicateur pertinent est fiable, compréhensible, actionnable et relié à un responsable identifié.",
+        "Le contrôle de gestion suppose une circulation d'information entre comptabilité, marketing, achats et direction commerciale.",
+        "Le référentiel BUT TC et les UE de gestion attendent la capacité d'exploiter des indicateurs de performance pour piloter une activité commerciale."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que désigne « contrôle de gestion » ?",
+          "options": [
+            "Unité organisationnelle dont le responsable rend compte d'un périmètre chiffré.",
+            "Processus de pilotage comparant prévisions et réalisations pour éclairer les décisions.",
+            "Différence entre une valeur réalisée et la valeur prévue au budget.",
+            "Ensemble d'indicateurs suivis régulièrement pour piloter l'activité."
+          ],
+          "correct": 1,
+          "correction": "Processus de pilotage comparant prévisions et réalisations pour éclairer les décisions. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Unité organisationnelle dont le responsable rend compte d'un périmètre chiffré. » ?",
+          "options": [
+            "écart",
+            "tableau de bord",
+            "action corrective",
+            "centre de responsabilité"
+          ],
+          "correct": 3,
+          "correction": "Unité organisationnelle dont le responsable rend compte d'un périmètre chiffré. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « écart » ?",
+          "options": [
+            "Ensemble d'indicateurs suivis régulièrement pour piloter l'activité.",
+            "Différence entre une valeur réalisée et la valeur prévue au budget.",
+            "Décision prise pour réduire un écart défavorable ou renforcer un écart favorable.",
+            "Écart jugé suffisamment important pour justifier une analyse et une décision."
+          ],
+          "correct": 1,
+          "correction": "Différence entre une valeur réalisée et la valeur prévue au budget. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne « tableau de bord » ?",
+          "options": [
+            "Décision prise pour réduire un écart défavorable ou renforcer un écart favorable.",
+            "Écart jugé suffisamment important pour justifier une analyse et une décision.",
+            "Processus de pilotage comparant prévisions et réalisations pour éclairer les décisions.",
+            "Ensemble d'indicateurs suivis régulièrement pour piloter l'activité."
+          ],
+          "correct": 3,
+          "correction": "Ensemble d'indicateurs suivis régulièrement pour piloter l'activité. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Décision prise pour réduire un écart défavorable ou renforcer un écart favorable. » ?",
+          "options": [
+            "exception",
+            "action corrective",
+            "contrôle de gestion",
+            "centre de responsabilité"
+          ],
+          "correct": 1,
+          "correction": "Décision prise pour réduire un écart défavorable ou renforcer un écart favorable. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « exception » ?",
+          "options": [
+            "Processus de pilotage comparant prévisions et réalisations pour éclairer les décisions.",
+            "Unité organisationnelle dont le responsable rend compte d'un périmètre chiffré.",
+            "Différence entre une valeur réalisée et la valeur prévue au budget.",
+            "Écart jugé suffisamment important pour justifier une analyse et une décision."
+          ],
+          "correct": 3,
+          "correction": "Écart jugé suffisamment important pour justifier une analyse et une décision. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la finalité première du contrôle de gestion ?",
+          "options": [
+            "Sanctionner les équipes",
+            "Aider les managers à décider et à corriger",
+            "Remplacer la comptabilité",
+            "Établir le bilan"
+          ],
+          "correct": 1,
+          "correction": "Le contrôle de gestion est un outil d'aide à la décision : il met en évidence les écarts et propose des corrections, sans visée punitive."
+        },
+        {
+          "type": "texte",
+          "q": "Un budget prévoit 100 000 € de ventes et on réalise 92 000 €. Comment analyser l'écart ?",
+          "reponse": "L'écart est de −8 000 €, soit −8 %. Il faut le décomposer entre effet volume (nombre de commandes) et effet prix (panier moyen ou remises), puis vérifier si la cause est commerciale, concurrentielle ou logistique avant de décider.",
+          "correction": "On exige une mesure de l'écart, sa décomposition et une recherche de cause avant toute action."
+        },
+        {
+          "type": "texte",
+          "q": "Quelles qualités doit posséder un bon indicateur de tableau de bord ?",
+          "reponse": "Il doit être fiable (source certaine), compréhensible, actionnable (on peut agir sur lui), relié à un responsable, comparé dans le temps et limité en nombre pour rester lisible.",
+          "correction": "On insiste sur le caractère actionnable : un indicateur que personne ne peut influencer ne sert pas au pilotage."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Le contrôle de gestion relie la stratégie aux opérations en comparant prévisions et réalisations pour déclencher des décisions correctives."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "Prévoir → exécuter → mesurer → comparer → corriger",
+          "leg": "centres de responsabilité · budget · écart · tableau de bord · action corrective"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des notions",
+          "items": [
+            [
+              "Notion",
+              "Définition",
+              "Repère"
+            ],
+            [
+              "contrôle de gestion",
+              "Processus de pilotage comparant prévisions et réalisations pour éclairer les décisions.",
+              "Notion 1"
+            ],
+            [
+              "centre de responsabilité",
+              "Unité organisationnelle dont le responsable rend compte d'un périmètre chiffré.",
+              "Notion 2"
+            ],
+            [
+              "écart",
+              "Différence entre une valeur réalisée et la valeur prévue au budget.",
+              "Notion 3"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir sur le chapitre",
+          "items": [
+            "contrôle de gestion : Processus de pilotage comparant prévisions et réalisations pour éclairer les décisions.",
+            "centre de responsabilité : Unité organisationnelle dont le responsable rend compte d'un périmètre chiffré.",
+            "écart : Différence entre une valeur réalisée et la valeur prévue au budget.",
+            "tableau de bord : Ensemble d'indicateurs suivis régulièrement pour piloter l'activité."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Procéder étape par étape",
+          "items": [
+            "Fixer les objectifs et construire le budget",
+            "Définir les centres de responsabilité",
+            "Choisir les indicateurs du tableau de bord",
+            "Mesurer et décomposer les écarts",
+            "Décider des actions correctives et les suivre"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Utiliser le contrôle comme un outil de sanction",
+            "Suivre trop d'indicateurs pour être lisible",
+            "Conclure sans rechercher la cause de l'écart",
+            "Comparer des périodes non comparables"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class='cle'>5 étapes</span> → prévoir à corriger",
+            "<span class='cle'>−8 000 €</span> → écart de −8 % sur 100 000 €",
+            "<span class='cle'>2 causes</span> → effet volume et effet prix",
+            "<span class='cle'>1 règle</span> → ne traiter que les écarts significatifs"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Repères : GE2.",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Notions clés : Contrôle de gestion : piloter l'activité par les écarts\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Notions clés : Contrôle de gestion : piloter l'activité par les écarts</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Définition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repère</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">contrôle de gestion</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Processus de pilotage</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 1</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">centre de responsabilité</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Unité organisationnelle</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 2</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">écart</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Différence entre une</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 3</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">tableau de bord</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Ensemble d'indicateurs</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 4</text></svg>"
+        },
+        {
+          "titre": "2 · Procédure : GE2.",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Méthode : Contrôle de gestion : piloter l'activité par les écarts\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Méthode : Contrôle de gestion : piloter l'activité par les écarts</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Fixer les objectifs et construire le budget</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir les centres de responsabilité</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choisir les indicateurs du tableau de bord</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mesurer et décomposer les écarts</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Décider des actions correctives et les suivre</text></svg>"
+        },
+        {
+          "titre": "3 · Distinction : GE2.",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Deux notions à distinguer\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Deux notions à distinguer</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Écart de volume</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Vient des quantités</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Exemple : moins de commandes</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Action sur la prospection</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Écart de prix</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Vient du prix moyen</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Exemple : remises plus fortes</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Action sur la politique de prix</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-tc"
+      ],
+      "annees": [
+        "BUT2"
+      ],
+      "matiere": "Gestion",
+      "titre": "Chapitre GE3. · Budget et budgétisation : prévoir, répartir, contrôler",
+      "source": "Référentiel BUT « Techniques de commercialisation », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020) et programme national 2022 · plan comptable général, arrêté du 22 juin 1999 · Code de commerce et Code général des impôts · éduscol · UE gestion budgétaire · niveau 2 · outils de pilotage · notions : budget, budget de ventes, budget flexible",
+      "points": [
+        "Un budget est une estimation chiffrée des recettes et des dépenses d'une organisation sur une période déterminée.",
+        "La budgétisation convertit les objectifs stratégiques en plans d'action chiffrés et crée une référence pour le contrôle des écarts.",
+        "Le budget de ventes est le point de départ : il repose sur les prévisions de volume, de prix et de mix produit.",
+        "Le budget d'achats est déduit des ventes prévues et du stock souhaité : achats = ventes + stock final − stock initial.",
+        "Le budget de charges regroupe les salaires, les loyers, les frais généraux, la communication et les dotations aux amortissements.",
+        "Le budget d'investissement porte sur les immobilisations : matériel, véhicules, informatique ou travaux d'aménagement.",
+        "Le budget de trésorerie combine les encaissements et décaissements prévus, en tenant compte des délais de paiement clients et fournisseurs.",
+        "La méthode du budget flexible distingue les charges fixes des charges variables pour adapter le budget au niveau d'activité réel.",
+        "Une budgétisation participative associe les responsables de terrain : elle améliore l'acceptation des objectifs et la qualité des prévisions.",
+        "Le budget n'est pas figé : une révision est prévue lorsque des hypothèses majeures changent (commande perdue, hausse matière, crise).",
+        "Le suivi budgétaire mensuel compare prévu et réalisé poste par poste et déclenche des arbitrages si nécessaire.",
+        "Un budget trop optimiste démotive les équipes ; un budget trop prudent limite l'ambition commerciale : la justesse est un objectif en soi."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que désigne « budget » ?",
+          "options": [
+            "Prévision chiffrée du chiffre d'affaires par produit, par client ou par période.",
+            "Estimation chiffrée des recettes et dépenses sur une période, utilisée comme référence de pilotage.",
+            "Budget qui ajuste les charges variables au niveau d'activité réellement atteint.",
+            "Prévision des entrées et sorties d'argent sur la période."
+          ],
+          "correct": 1,
+          "correction": "Estimation chiffrée des recettes et dépenses sur une période, utilisée comme référence de pilotage. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Prévision chiffrée du chiffre d'affaires par produit, par client ou par période. » ?",
+          "options": [
+            "budget flexible",
+            "budget de trésorerie",
+            "révision budgétaire",
+            "budget de ventes"
+          ],
+          "correct": 3,
+          "correction": "Prévision chiffrée du chiffre d'affaires par produit, par client ou par période. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « budget flexible » ?",
+          "options": [
+            "Prévision des entrées et sorties d'argent sur la période.",
+            "Budget qui ajuste les charges variables au niveau d'activité réellement atteint.",
+            "Actualisation du budget en cours d'exercice pour tenir compte de nouvelles hypothèses.",
+            "Décision de réallouer des moyens d'un poste vers un autre selon les priorités."
+          ],
+          "correct": 1,
+          "correction": "Budget qui ajuste les charges variables au niveau d'activité réellement atteint. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne « budget de trésorerie » ?",
+          "options": [
+            "Actualisation du budget en cours d'exercice pour tenir compte de nouvelles hypothèses.",
+            "Décision de réallouer des moyens d'un poste vers un autre selon les priorités.",
+            "Estimation chiffrée des recettes et dépenses sur une période, utilisée comme référence de pilotage.",
+            "Prévision des entrées et sorties d'argent sur la période."
+          ],
+          "correct": 3,
+          "correction": "Prévision des entrées et sorties d'argent sur la période. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Actualisation du budget en cours d'exercice pour tenir compte de nouvelles hypothèses. » ?",
+          "options": [
+            "arbitrage budgétaire",
+            "révision budgétaire",
+            "budget",
+            "budget de ventes"
+          ],
+          "correct": 1,
+          "correction": "Actualisation du budget en cours d'exercice pour tenir compte de nouvelles hypothèses. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « arbitrage budgétaire » ?",
+          "options": [
+            "Estimation chiffrée des recettes et dépenses sur une période, utilisée comme référence de pilotage.",
+            "Prévision chiffrée du chiffre d'affaires par produit, par client ou par période.",
+            "Budget qui ajuste les charges variables au niveau d'activité réellement atteint.",
+            "Décision de réallouer des moyens d'un poste vers un autre selon les priorités."
+          ],
+          "correct": 3,
+          "correction": "Décision de réallouer des moyens d'un poste vers un autre selon les priorités. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel budget sert de point de départ à la budgétisation d'une entreprise commerciale ?",
+          "options": [
+            "Le budget de trésorerie",
+            "Le budget de ventes",
+            "Le budget d'investissement",
+            "Le budget de charges"
+          ],
+          "correct": 1,
+          "correction": "Les prévisions de vente déterminent les achats, les charges variables et les encaissements : le budget de ventes est donc le point de départ."
+        },
+        {
+          "type": "texte",
+          "q": "Calculer le budget d'achats sachant 1 000 unités vendues, 150 en stock final et 100 en stock initial.",
+          "reponse": "Achats = ventes + stock final − stock initial = 1 000 + 150 − 100 = 1 050 unités. À multiplier par le coût d'achat unitaire pour obtenir le montant.",
+          "correction": "La formule traduit le fait que les ventes sont alimentées par le stock initial et les achats, et que le solde constitue le stock final."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi associer les responsables de terrain à la construction du budget ?",
+          "reponse": "Ils détiennent l'information opérationnelle (commandes en cours, difficultés clients, capacité de l'équipe) et sont plus enclins à respecter un objectif qu'ils ont contribué à construire. Cela améliore à la fois la fiabilité des prévisions et l'engagement.",
+          "correction": "On combine la qualité de l'information et l'acceptation de l'objectif, deux conditions d'un budget utile."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Le budget traduit la stratégie en chiffres : il prévoit les ventes, les moyens nécessaires et sert de référence pour le contrôle."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "Prévisions de vente → budgets d'exploitation → budget de trésorerie → suivi",
+          "leg": "budget de ventes · budget d'achats · budget de charges · révision"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des notions",
+          "items": [
+            [
+              "Notion",
+              "Définition",
+              "Repère"
+            ],
+            [
+              "budget",
+              "Estimation chiffrée des recettes et dépenses sur une période, utilisée comme référence de pilotage.",
+              "Notion 1"
+            ],
+            [
+              "budget de ventes",
+              "Prévision chiffrée du chiffre d'affaires par produit, par client ou par période.",
+              "Notion 2"
+            ],
+            [
+              "budget flexible",
+              "Budget qui ajuste les charges variables au niveau d'activité réellement atteint.",
+              "Notion 3"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir sur le chapitre",
+          "items": [
+            "budget : Estimation chiffrée des recettes et dépenses sur une période, utilisée comme référence de pilotage.",
+            "budget de ventes : Prévision chiffrée du chiffre d'affaires par produit, par client ou par période.",
+            "budget flexible : Budget qui ajuste les charges variables au niveau d'activité réellement atteint.",
+            "budget de trésorerie : Prévision des entrées et sorties d'argent sur la période."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Procéder étape par étape",
+          "items": [
+            "Définir les hypothèses et objectifs",
+            "Établir le budget de ventes",
+            "En déduire achats, charges et investissements",
+            "Construire le budget de trésorerie",
+            "Suivre, réviser et arbitrer"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Construire un budget sans hypothèses explicites",
+            "Oublier les délais de paiement",
+            "Figer le budget malgré un changement majeur",
+            "Imposer les chiffres sans consulter les équipes"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class='cle'>1 050 unités</span> → 1 000 + 150 − 100",
+            "<span class='cle'>3 budgets clés</span> → ventes, achats, trésorerie",
+            "<span class='cle'>1 départ</span> → le budget de ventes",
+            "<span class='cle'>1 référence</span> → le budget sert au contrôle des écarts"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Repères : GE3.",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Notions clés : Budget et budgétisation : prévoir, répartir, contrôler\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Notions clés : Budget et budgétisation : prévoir, répartir, contrôler</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Définition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repère</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">budget</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Estimation chiffrée des</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 1</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">budget de ventes</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Prévision chiffrée du</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 2</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">budget flexible</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Budget qui ajuste les</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 3</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">budget de trésorerie</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Prévision des entrées et</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 4</text></svg>"
+        },
+        {
+          "titre": "2 · Procédure : GE3.",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Méthode : Budget et budgétisation : prévoir, répartir, contrôler\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Méthode : Budget et budgétisation : prévoir, répartir, contrôler</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir les hypothèses et objectifs</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Établir le budget de ventes</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">En déduire achats, charges et investissements</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Construire le budget de trésorerie</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Suivre, réviser et arbitrer</text></svg>"
+        },
+        {
+          "titre": "3 · Distinction : GE3.",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Deux notions à distinguer\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Deux notions à distinguer</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Budget fixe</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Prévision unique</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Simple à construire</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Peu adapté aux variations d'activité</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Budget flexible</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Distingue fixes et variables</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">S'adapte à l'activité réelle</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Comparaison plus juste</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-tc"
+      ],
+      "annees": [
+        "BUT2"
+      ],
+      "matiere": "Gestion",
+      "titre": "Chapitre GE4. · Classification et calcul des coûts",
+      "source": "Référentiel BUT « Techniques de commercialisation », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020) et programme national 2022 · plan comptable général, arrêté du 22 juin 1999 · Code de commerce et Code général des impôts · éduscol · UE comptabilité et contrôle de gestion · niveau 2 · notions : coût direct, coût indirect, charge fixe",
+      "points": [
+        "Un coût est une consommation de ressources exprimée en argent, liée à la production d'un bien ou à la réalisation d'une prestation.",
+        "Un coût direct est affecté sans ambiguïté à un produit ou à une commande : matière première, main-d'oeuvre directe, frais de transport spécifiques.",
+        "Un coût indirect concerne plusieurs produits : loyer, électricité, salaires administratifs ; il doit être réparti selon une clé de répartition.",
+        "Une charge fixe ne varie pas avec le volume d'activité à court terme : loyer, assurance, amortissement du matériel.",
+        "Une charge variable évolue proportionnellement à l'activité : matières premières, commissions de vente, emballages.",
+        "Une charge mixte comporte une part fixe et une part variable, comme un abonnement téléphonique avec un forfait et des communications.",
+        "Le coût unitaire se calcule en divisant le coût total par le nombre d'unités produites : coût moyen = coût total / quantité.",
+        "Le coût de revient inclut l'ensemble des coûts d'acquisition, de production et de distribution d'un produit vendu.",
+        "Une approche par centre de coûts regroupe les charges par activité homogène avant de les affecter aux produits.",
+        "La méthode ABC (activity based costing) répartit les coûts indirects selon les activités réellement consommées par chaque produit.",
+        "Le coût marginal est le coût supplémentaire généré par la production d'une unité additionnelle : il éclaire les décisions de prix sur commandes spéciales.",
+        "Le référentiel BUT TC articule ces notions avec le calcul de marge et le seuil de rentabilité dans les UE de gestion et de comptabilité."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que désigne « coût direct » ?",
+          "options": [
+            "Coût commun à plusieurs produits, réparti selon une clé choisie.",
+            "Coût attribuable directement et sans répartition à un produit ou une commande.",
+            "Charge qui ne varie pas avec le niveau d'activité à court terme.",
+            "Charge qui varie proportionnellement au volume d'activité."
+          ],
+          "correct": 1,
+          "correction": "Coût attribuable directement et sans répartition à un produit ou une commande. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Coût commun à plusieurs produits, réparti selon une clé choisie. » ?",
+          "options": [
+            "charge fixe",
+            "charge variable",
+            "coût de revient",
+            "coût indirect"
+          ],
+          "correct": 3,
+          "correction": "Coût commun à plusieurs produits, réparti selon une clé choisie. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « charge fixe » ?",
+          "options": [
+            "Charge qui varie proportionnellement au volume d'activité.",
+            "Charge qui ne varie pas avec le niveau d'activité à court terme.",
+            "Coût complet d'un produit, incluant achats, production et distribution.",
+            "Coût additionnel entraîné par la production d'une unité supplémentaire."
+          ],
+          "correct": 1,
+          "correction": "Charge qui ne varie pas avec le niveau d'activité à court terme. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne « charge variable » ?",
+          "options": [
+            "Coût complet d'un produit, incluant achats, production et distribution.",
+            "Coût additionnel entraîné par la production d'une unité supplémentaire.",
+            "Coût attribuable directement et sans répartition à un produit ou une commande.",
+            "Charge qui varie proportionnellement au volume d'activité."
+          ],
+          "correct": 3,
+          "correction": "Charge qui varie proportionnellement au volume d'activité. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Coût complet d'un produit, incluant achats, production et distribution. » ?",
+          "options": [
+            "coût marginal",
+            "coût de revient",
+            "coût direct",
+            "coût indirect"
+          ],
+          "correct": 1,
+          "correction": "Coût complet d'un produit, incluant achats, production et distribution. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « coût marginal » ?",
+          "options": [
+            "Coût attribuable directement et sans répartition à un produit ou une commande.",
+            "Coût commun à plusieurs produits, réparti selon une clé choisie.",
+            "Charge qui ne varie pas avec le niveau d'activité à court terme.",
+            "Coût additionnel entraîné par la production d'une unité supplémentaire."
+          ],
+          "correct": 3,
+          "correction": "Coût additionnel entraîné par la production d'une unité supplémentaire. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel coût augmente automatiquement quand le nombre de produits fabriqués augmente ?",
+          "options": [
+            "Le loyer de l'atelier",
+            "La matière première",
+            "L'amortissement du bâtiment",
+            "L'assurance annuelle"
+          ],
+          "correct": 1,
+          "correction": "La matière première est une charge variable : sa consommation suit le volume produit. Les trois autres exemples sont des charges fixes."
+        },
+        {
+          "type": "texte",
+          "q": "Calculer le coût unitaire d'une production de 4 000 unités générant 22 000 € de coûts variables et 8 000 € de coûts fixes.",
+          "reponse": "Coût total = 30 000 €. Coût unitaire = 30 000 / 4 000 = 7,50 €. La part variable unitaire est de 22 000 / 4 000 = 5,50 € et la part fixe de 2 € par unité à ce niveau d'activité.",
+          "correction": "On calcule d'abord le total, puis on le rapporte à la quantité ; la distinction fixe / variable sert à anticiper l'effet d'un changement de volume."
+        },
+        {
+          "type": "texte",
+          "q": "Que faut-il vérifier avant d'accepter une commande à un prix inférieur au coût de revient complet ?",
+          "reponse": "Vérifier le coût marginal de la commande, la capacité de production disponible, l'effet sur les autres ventes et le risque de créer un précédent tarifaire. Une commande peut être acceptée si elle couvre ses coûts marginaux et contribue aux frais fixes, à condition de ne pas cannibaliser des ventes plus rentables.",
+          "correction": "On raisonne en coût marginal pour la décision court terme, tout en surveillant les effets stratégiques sur le reste de l'activité."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Classer les coûts permet de comprendre leur comportement, de calculer une marge et de décider d'un prix ou d'une commande."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "Coûts directs / indirects · fixes / variables · unitaires",
+          "leg": "coût direct · coût indirect · charge fixe · charge variable · coût de revient"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des notions",
+          "items": [
+            [
+              "Notion",
+              "Définition",
+              "Repère"
+            ],
+            [
+              "coût direct",
+              "Coût attribuable directement et sans répartition à un produit ou une commande.",
+              "Notion 1"
+            ],
+            [
+              "coût indirect",
+              "Coût commun à plusieurs produits, réparti selon une clé choisie.",
+              "Notion 2"
+            ],
+            [
+              "charge fixe",
+              "Charge qui ne varie pas avec le niveau d'activité à court terme.",
+              "Notion 3"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir sur le chapitre",
+          "items": [
+            "coût direct : Coût attribuable directement et sans répartition à un produit ou une commande.",
+            "coût indirect : Coût commun à plusieurs produits, réparti selon une clé choisie.",
+            "charge fixe : Charge qui ne varie pas avec le niveau d'activité à court terme.",
+            "charge variable : Charge qui varie proportionnellement au volume d'activité."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Procéder étape par étape",
+          "items": [
+            "Identifier les ressources consommées",
+            "Distinguer directs et indirects",
+            "Repérer fixes, variables et mixtes",
+            "Choisir une clé de répartition des indirects",
+            "Calculer coût unitaire et coût de revient"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Répartir un coût direct comme un indirect",
+            "Traiter une charge mixte comme fixe",
+            "Oublier les coûts de distribution dans le coût de revient",
+            "Confondre coût unitaire et coût marginal"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class='cle'>30 000 € / 4 000</span> → coût unitaire 7,50 €",
+            "<span class='cle'>5,50 € + 2 €</span> → part variable + part fixe",
+            "<span class='cle'>2 familles</span> → directs et indirects",
+            "<span class='cle'>2 comportements</span> → fixes et variables"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Repères : GE4.",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Notions clés : Classification et calcul des coûts\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Notions clés : Classification et calcul des coûts</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Définition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repère</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">coût direct</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Coût attribuable</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 1</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">coût indirect</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Coût commun à plusieurs</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 2</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">charge fixe</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Charge qui ne varie pas</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 3</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">charge variable</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Charge qui varie</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 4</text></svg>"
+        },
+        {
+          "titre": "2 · Procédure : GE4.",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Méthode : Classification et calcul des coûts\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Méthode : Classification et calcul des coûts</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Identifier les ressources consommées</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Distinguer directs et indirects</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Repérer fixes, variables et mixtes</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choisir une clé de répartition des indirects</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Calculer coût unitaire et coût de revient</text></svg>"
+        },
+        {
+          "titre": "3 · Distinction : GE4.",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Deux notions à distinguer\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Deux notions à distinguer</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Coût direct</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Affecté sans répartition</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Exemple : matière première</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Suivi par produit</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Coût indirect</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Commun à plusieurs produits</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Exemple : loyer</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Nécessite une clé de répartition</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-tc"
+      ],
+      "annees": [
+        "BUT2",
+        "BUT3"
+      ],
+      "matiere": "Gestion",
+      "titre": "Chapitre GE5. · Performance commerciale et indicateurs clés (KPI)",
+      "source": "Référentiel BUT « Techniques de commercialisation », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020) et programme national 2022 · plan comptable général, arrêté du 22 juin 1999 · Code de commerce et Code général des impôts · éduscol · UE contrôle de gestion / Vente · AC12.03 · niveaux 2 et 3 · notions : KPI, taux de transformation, panier moyen",
+      "points": [
+        "La performance commerciale combine l'efficacité (atteindre les objectifs) et l'efficience (consommer le moins de ressources possible).",
+        "Un KPI est un indicateur clé qui mesure la réussite d'une action ou d'un processus par rapport à un objectif.",
+        "Les indicateurs commerciaux courants sont le chiffre d'affaires, le volume vendu, le panier moyen, le taux de transformation et la part de marché.",
+        "Le taux de transformation rapporte le nombre de ventes au nombre de contacts ou de visites : il mesure l'efficacité de l'argumentaire et de l'offre.",
+        "Le panier moyen se calcule en divisant le chiffre d'affaires par le nombre de transactions : il progresse par la vente croisée ou le haut de gamme.",
+        "La part de marché rapporte les ventes de l'entreprise aux ventes totales du marché : elle situe l'entreprise face à ses concurrents.",
+        "Le taux de fidélisation et la valeur vie client complètent la vision court terme du chiffre d'affaires.",
+        "Un indicateur doit être relié à un objectif clair et à un responsable capable d'agir : sinon il ne pilote rien.",
+        "La comparaison dans le temps et par rapport aux objectifs donne du sens à une valeur brute : 95 % de taux de transformation n'a de valeur que comparé à la cible.",
+        "Un tableau de bord trop chargé dilue l'attention : cinq à sept indicateurs suffisent généralement pour un pilotage opérationnel.",
+        "Le risque du pilotage par indicateur est la recherche du chiffre plutôt que de l'objectif réel : un vendeur peut augmenter son volume en sacrifant la marge.",
+        "Le référentiel BUT TC attend l'utilisation efficace d'indicateurs de performance fixés par l'organisation dans la compétence Vente."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que désigne « KPI » ?",
+          "options": [
+            "Rapport entre le nombre de ventes et le nombre de contacts ou de visites.",
+            "Indicateur clé de performance relié à un objectif et utilisé pour piloter une action.",
+            "Chiffre d'affaires divisé par le nombre de transactions.",
+            "Part de l'entreprise dans les ventes totales d'un marché donné."
+          ],
+          "correct": 1,
+          "correction": "Indicateur clé de performance relié à un objectif et utilisé pour piloter une action. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Rapport entre le nombre de ventes et le nombre de contacts ou de visites. » ?",
+          "options": [
+            "panier moyen",
+            "part de marché",
+            "fidélisation",
+            "taux de transformation"
+          ],
+          "correct": 3,
+          "correction": "Rapport entre le nombre de ventes et le nombre de contacts ou de visites. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « panier moyen » ?",
+          "options": [
+            "Part de l'entreprise dans les ventes totales d'un marché donné.",
+            "Chiffre d'affaires divisé par le nombre de transactions.",
+            "Capacité de l'entreprise à conserver ses clients dans le temps.",
+            "Capacité à obtenir un résultat en consommant peu de ressources."
+          ],
+          "correct": 1,
+          "correction": "Chiffre d'affaires divisé par le nombre de transactions. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne « part de marché » ?",
+          "options": [
+            "Capacité de l'entreprise à conserver ses clients dans le temps.",
+            "Capacité à obtenir un résultat en consommant peu de ressources.",
+            "Indicateur clé de performance relié à un objectif et utilisé pour piloter une action.",
+            "Part de l'entreprise dans les ventes totales d'un marché donné."
+          ],
+          "correct": 3,
+          "correction": "Part de l'entreprise dans les ventes totales d'un marché donné. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Capacité de l'entreprise à conserver ses clients dans le temps. » ?",
+          "options": [
+            "efficience",
+            "fidélisation",
+            "KPI",
+            "taux de transformation"
+          ],
+          "correct": 1,
+          "correction": "Capacité de l'entreprise à conserver ses clients dans le temps. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « efficience » ?",
+          "options": [
+            "Indicateur clé de performance relié à un objectif et utilisé pour piloter une action.",
+            "Rapport entre le nombre de ventes et le nombre de contacts ou de visites.",
+            "Chiffre d'affaires divisé par le nombre de transactions.",
+            "Capacité à obtenir un résultat en consommant peu de ressources."
+          ],
+          "correct": 3,
+          "correction": "Capacité à obtenir un résultat en consommant peu de ressources. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Un magasin réalise 200 ventes pour 1 000 visites. Quel est son taux de transformation ?",
+          "options": [
+            "2 %",
+            "5 %",
+            "20 %",
+            "50 %"
+          ],
+          "correct": 2,
+          "correction": "200 / 1 000 = 20 %. Le taux de transformation se calcule par rapport au nombre de visiteurs, et non au nombre de ventes."
+        },
+        {
+          "type": "texte",
+          "q": "Comment éviter qu'un indicateur unique dégrade la performance globale ?",
+          "reponse": "En associant un indicateur de volume à un indicateur de qualité ou de rentabilité : par exemple le chiffre d'affaires et la marge, ou le nombre de ventes et la satisfaction client. On vérifie aussi que l'indicateur est cohérent avec la stratégie et qu'il ne peut pas être optimisé artificiellement.",
+          "correction": "On identifie le risque de comportement opportuniste et on propose un jeu d'indicateurs complémentaires."
+        },
+        {
+          "type": "texte",
+          "q": "Un panier moyen baisse alors que le trafic augmente. Quelles hypothèses vérifier ?",
+          "reponse": "Vérifier le mix produit (plus de petites références), l'effet des promotions, la formation des vendeurs à la vente croisée, le comportement des nouveaux clients et la disponibilité des produits haut de gamme.",
+          "correction": "On relie l'évolution de l'indicateur à des causes possibles, puis on propose des pistes d'action."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "La performance commerciale se pilote par un petit nombre d'indicateurs reliés à la stratégie, au client et à la rentabilité."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "Objectif → indicateur → mesure → écart → décision",
+          "leg": "CA · marge · taux de transformation · panier moyen · part de marché · ROI"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des notions",
+          "items": [
+            [
+              "Notion",
+              "Définition",
+              "Repère"
+            ],
+            [
+              "KPI",
+              "Indicateur clé de performance relié à un objectif et utilisé pour piloter une action.",
+              "Notion 1"
+            ],
+            [
+              "taux de transformation",
+              "Rapport entre le nombre de ventes et le nombre de contacts ou de visites.",
+              "Notion 2"
+            ],
+            [
+              "panier moyen",
+              "Chiffre d'affaires divisé par le nombre de transactions.",
+              "Notion 3"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir sur le chapitre",
+          "items": [
+            "KPI : Indicateur clé de performance relié à un objectif et utilisé pour piloter une action.",
+            "taux de transformation : Rapport entre le nombre de ventes et le nombre de contacts ou de visites.",
+            "panier moyen : Chiffre d'affaires divisé par le nombre de transactions.",
+            "part de marché : Part de l'entreprise dans les ventes totales d'un marché donné."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Procéder étape par étape",
+          "items": [
+            "Définir l'objectif business",
+            "Choisir un indicateur actionnable",
+            "Fixer la cible et la périodicité",
+            "Mesurer et comparer aux objectifs",
+            "Décider et affecter un responsable"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Suivre trop d'indicateurs",
+            "Confondre efficacité et efficience",
+            "Optimiser un chiffre au détriment de la marge",
+            "Présenter une valeur sans référence ni échéance"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class='cle'>200 / 1 000</span> → 20 % de transformation",
+            "<span class='cle'>5 à 7 indicateurs</span> → tableau de bord lisible",
+            "<span class='cle'>AC12.03</span> → indicateurs fixés par l'organisation",
+            "<span class='cle'>2 dimensions</span> → efficacité et efficience"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Repères : GE5.",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Notions clés : Performance commerciale et indicateurs clés (KPI)\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Notions clés : Performance commerciale et indicateurs clés (KPI)</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Définition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repère</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">KPI</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Indicateur clé de</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 1</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">taux de transformation</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rapport entre le nombre</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 2</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">panier moyen</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Chiffre d'affaires</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 3</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">part de marché</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Part de l'entreprise</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 4</text></svg>"
+        },
+        {
+          "titre": "2 · Procédure : GE5.",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Méthode : Performance commerciale et indicateurs clés (KPI)\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Méthode : Performance commerciale et indicateurs clés (KPI)</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir l'objectif business</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choisir un indicateur actionnable</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Fixer la cible et la périodicité</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mesurer et comparer aux objectifs</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Décider et affecter un responsable</text></svg>"
+        },
+        {
+          "titre": "3 · Distinction : GE5.",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Deux notions à distinguer\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Deux notions à distinguer</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Efficacité</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Atteindre l'objectif</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Exemple : chiffre d'affaires</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Répond au « combien »</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Efficience</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Consommer peu de ressources</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Exemple : marge par vente</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Répond au « à quel coût »</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-tc"
+      ],
+      "annees": [
+        "BUT1",
+        "BUT2"
+      ],
+      "matiere": "Gestion",
+      "titre": "Chapitre GE6. · Ressources humaines : recrutement, intégration et motivation",
+      "source": "Référentiel BUT « Techniques de commercialisation », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020) et programme national 2022 · plan comptable général, arrêté du 22 juin 1999 · Code de commerce et Code général des impôts · éduscol · UE gestion des ressources humaines · niveaux 1 et 2 · notions : fiche de poste, recrutement, onboarding",
+      "points": [
+        "La gestion des ressources humaines anticipe les besoins en compétences et met en place les moyens de les développer.",
+        "Le recrutement commence par la définition du besoin : fiche de poste, compétences requises, qualités personnelles et conditions de travail.",
+        "L'annonce doit être claire et attractive ; les critères de sélection doivent être objectifs et non discriminatoires.",
+        "L'entretien de recrutement structure les échanges autour du parcours, des compétences et de la motivation du candidat.",
+        "L'intégration, ou onboarding, familiarise le nouveau salarié avec l'organisation, ses outils, ses collègues et ses objectifs.",
+        "Une bonne intégration réduit le temps de montée en compétence et le risque de départ prématuré.",
+        "La formation initiale et continue maintient l'adéquation entre les compétences de l'équipe et les évolutions du marché.",
+        "La motivation dépend du sens donné au travail, de l'autonomie, de la reconnaissance et de la justesse de la rémunération.",
+        "L'entretien annuel d'évaluation fait le point sur les résultats, les compétences, les aspirations et les objectifs de l'année suivante.",
+        "Le droit du travail encadre le recrutement : durée du travail, contrat, période d'essai, égalité de traitement et protection des données.",
+        "Un responsable commercial participe au recrutement de son équipe : il connaît les compétences terrain nécessaires à la performance.",
+        "Le turnover est un indicateur RH important : un départ trop fréquent augmente les coûts de recrutement et dégrade la relation client."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que désigne « fiche de poste » ?",
+          "options": [
+            "Processus d'identification, de sélection et d'embauche d'un candidat.",
+            "Document décrivant les missions, les compétences et les responsabilités d'un poste.",
+            "Processus d'intégration d'un nouveau salarié dans l'organisation.",
+            "Actions de formation permettant de maintenir ou développer les compétences en cours d'emploi."
+          ],
+          "correct": 1,
+          "correction": "Document décrivant les missions, les compétences et les responsabilités d'un poste. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Processus d'identification, de sélection et d'embauche d'un candidat. » ?",
+          "options": [
+            "onboarding",
+            "formation continue",
+            "entretien annuel",
+            "recrutement"
+          ],
+          "correct": 3,
+          "correction": "Processus d'identification, de sélection et d'embauche d'un candidat. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « onboarding » ?",
+          "options": [
+            "Actions de formation permettant de maintenir ou développer les compétences en cours d'emploi.",
+            "Processus d'intégration d'un nouveau salarié dans l'organisation.",
+            "Échange structuré sur les résultats, les compétences et les objectifs futurs d'un salarié.",
+            "Taux de rotation du personnel sur une période donnée."
+          ],
+          "correct": 1,
+          "correction": "Processus d'intégration d'un nouveau salarié dans l'organisation. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne « formation continue » ?",
+          "options": [
+            "Échange structuré sur les résultats, les compétences et les objectifs futurs d'un salarié.",
+            "Taux de rotation du personnel sur une période donnée.",
+            "Document décrivant les missions, les compétences et les responsabilités d'un poste.",
+            "Actions de formation permettant de maintenir ou développer les compétences en cours d'emploi."
+          ],
+          "correct": 3,
+          "correction": "Actions de formation permettant de maintenir ou développer les compétences en cours d'emploi. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Échange structuré sur les résultats, les compétences et les objectifs futurs d'un salarié. » ?",
+          "options": [
+            "turnover",
+            "entretien annuel",
+            "fiche de poste",
+            "recrutement"
+          ],
+          "correct": 1,
+          "correction": "Échange structuré sur les résultats, les compétences et les objectifs futurs d'un salarié. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « turnover » ?",
+          "options": [
+            "Document décrivant les missions, les compétences et les responsabilités d'un poste.",
+            "Processus d'identification, de sélection et d'embauche d'un candidat.",
+            "Processus d'intégration d'un nouveau salarié dans l'organisation.",
+            "Taux de rotation du personnel sur une période donnée."
+          ],
+          "correct": 3,
+          "correction": "Taux de rotation du personnel sur une période donnée. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel document décrit précisément les missions et les compétences attendues pour un poste ?",
+          "options": [
+            "Le contrat de travail",
+            "La fiche de poste",
+            "Le tableau de bord",
+            "Le bilan"
+          ],
+          "correct": 1,
+          "correction": "La fiche de poste cadre le recrutement et sert de référence à l'entretien, à l'intégration et à l'évaluation."
+        },
+        {
+          "type": "texte",
+          "q": "Comment structurer l'intégration d'un nouveau commercial ?",
+          "reponse": "Prévoir son accueil et son parcours d'observation, lui présenter l'équipe et les outils, lui transmettre la gamme et les procédures, organiser un accompagnement terrain avec un tuteur, puis fixer des objectifs progressifs et un premier point de suivi.",
+          "correction": "On combine les dimensions humaines, techniques et managériales de l'intégration."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi un turnover élevé nuit-il à la performance commerciale ?",
+          "reponse": "Parce qu'il faut recruter et former en permanence, que la connaissance client se perd au départ des vendeurs et que la relation avec les clients se fragilise à chaque changement d'interlocuteur.",
+          "correction": "On relie le coût RH, la perte de compétence et la continuité de la relation client."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "La fonction RH fournit les compétences et les conditions de travail qui permettent à l'équipe commerciale de atteindre ses objectifs."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "Besoin → recrutement → intégration → formation → évaluation",
+          "leg": "fiche de poste · entretien · onboarding · formation · entretien annuel"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des notions",
+          "items": [
+            [
+              "Notion",
+              "Définition",
+              "Repère"
+            ],
+            [
+              "fiche de poste",
+              "Document décrivant les missions, les compétences et les responsabilités d'un poste.",
+              "Notion 1"
+            ],
+            [
+              "recrutement",
+              "Processus d'identification, de sélection et d'embauche d'un candidat.",
+              "Notion 2"
+            ],
+            [
+              "onboarding",
+              "Processus d'intégration d'un nouveau salarié dans l'organisation.",
+              "Notion 3"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir sur le chapitre",
+          "items": [
+            "fiche de poste : Document décrivant les missions, les compétences et les responsabilités d'un poste.",
+            "recrutement : Processus d'identification, de sélection et d'embauche d'un candidat.",
+            "onboarding : Processus d'intégration d'un nouveau salarié dans l'organisation.",
+            "formation continue : Actions de formation permettant de maintenir ou développer les compétences en cours d'emploi."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Procéder étape par étape",
+          "items": [
+            "Définir le besoin et la fiche de poste",
+            "Diffuser l'offre et sélectionner",
+            "Organiser l'intégration et la formation",
+            "Fixer les objectifs et accompagner",
+            "Évaluer, reconnaître et fidéliser"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Recruter sans fiche de poste",
+            "Négliger l'intégration du nouveau venu",
+            "Confondre formation initiale et formation continue",
+            "Ignorer les signes de départ"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class='cle'>5 temps</span> → du besoin à l'évaluation",
+            "<span class='cle'>1 document clé</span> → fiche de poste",
+            "<span class='cle'>4 leviers de motivation</span> → sens, autonomie, reconnaissance, rémunération",
+            "<span class='cle'>1 indicateur RH</span> → turnover"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Repères : GE6.",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Notions clés : Ressources humaines : recrutement, intégration et motivation\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Notions clés : Ressources humaines : recrutement, intégration et motivation</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Définition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repère</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">fiche de poste</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Document décrivant les</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 1</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">recrutement</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Processus</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 2</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">onboarding</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Processus d'intégration</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 3</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">formation continue</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Actions de formation</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 4</text></svg>"
+        },
+        {
+          "titre": "2 · Procédure : GE6.",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Méthode : Ressources humaines : recrutement, intégration et motivation\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Méthode : Ressources humaines : recrutement, intégration et motivation</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir le besoin et la fiche de poste</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Diffuser l'offre et sélectionner</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Organiser l'intégration et la formation</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Fixer les objectifs et accompagner</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Évaluer, reconnaître et fidéliser</text></svg>"
+        },
+        {
+          "titre": "3 · Distinction : GE6.",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Deux notions à distinguer\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Deux notions à distinguer</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Recrutement</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Attire les compétences</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Sélectionne le candidat</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Débute avant l'arrivée</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Onboarding</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Intègre le nouveau salarié</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Transmet outils et culture</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Réduit le temps de montée en compétence</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-tc"
+      ],
+      "annees": [
+        "BUT2"
+      ],
+      "matiere": "Gestion",
+      "titre": "Chapitre GE7. · Logistique et chaîne d'approvisionnement",
+      "source": "Référentiel BUT « Techniques de commercialisation », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020) et programme national 2022 · plan comptable général, arrêté du 22 juin 1999 · Code de commerce et Code général des impôts · éduscol · UE gestion / retail marketing · AC25.04 · niveau 2 · notions : chaîne d'approvisionnement, stock de sécurité, point de commande",
+      "points": [
+        "La chaîne d'approvisionnement relie les fournisseurs, l'entreprise, ses entrepôts et ses clients par des flux de marchandises et d'information.",
+        "La logistique d'approvisionnement gère les achats et l'entrée des marchandises ; la logistique de distribution gère la préparation et la livraison.",
+        "Le stock de sécurité protège contre les variations de demande ou de délai de livraison : bien le dimensionner évite ruptures et surstocks.",
+        "Le point de commande est le niveau de stock déclenchant une nouvelle commande : il dépend de la consommation moyenne, du délai et du stock de sécurité.",
+        "Le délai de livraison fournisseur et la régularité des approvisionnements conditionnent la disponibilité commerciale.",
+        "Une rupture de stock entraîne des ventes perdues et peut dégrader la relation client ; un surstock immobilise de la trésorerie et génère des coûts de stockage.",
+        "La rotation de stock rapporte le coût des ventes au stock moyen : elle mesure la vitesse à laquelle les marchandises sont écoulées.",
+        "Le cross-docking consiste à transférer directement les marchandises du quai de réception au quai d'expédition, sans stockage prolongé.",
+        "Le suivi des expéditions et la traçabilité des colis sont devenus des éléments de l'expérience client, notamment en e-commerce.",
+        "Le coût logistique comprend le transport, l'entreposage, la manutention, la préparation des commandes et les retours.",
+        "Une relation fournisseur fiable se pilote par des indicateurs : taux de service, respect des délais, qualité des marchandises et prix.",
+        "Le parcours BUT TC point de vente travaille explicitement la relation avec les fournisseurs et le réseau dans le respect des accords."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que désigne « chaîne d'approvisionnement » ?",
+          "options": [
+            "Stock minimal conservé pour faire face à une variation imprévue de la demande ou du délai.",
+            "Réseau reliant fournisseurs, entreprise et clients par des flux physiques et d'information.",
+            "Niveau de stock déclenchant une commande de réapprovisionnement.",
+            "Épuisement d'un produit empêchant de satisfaire la demande."
+          ],
+          "correct": 1,
+          "correction": "Réseau reliant fournisseurs, entreprise et clients par des flux physiques et d'information. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Stock minimal conservé pour faire face à une variation imprévue de la demande ou du délai. » ?",
+          "options": [
+            "point de commande",
+            "rupture de stock",
+            "rotation de stock",
+            "stock de sécurité"
+          ],
+          "correct": 3,
+          "correction": "Stock minimal conservé pour faire face à une variation imprévue de la demande ou du délai. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « point de commande » ?",
+          "options": [
+            "Épuisement d'un produit empêchant de satisfaire la demande.",
+            "Niveau de stock déclenchant une commande de réapprovisionnement.",
+            "Rapport entre le coût des marchandises vendues et le stock moyen sur une période.",
+            "Part des commandes livrées conformément aux engagements pris."
+          ],
+          "correct": 1,
+          "correction": "Niveau de stock déclenchant une commande de réapprovisionnement. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne « rupture de stock » ?",
+          "options": [
+            "Rapport entre le coût des marchandises vendues et le stock moyen sur une période.",
+            "Part des commandes livrées conformément aux engagements pris.",
+            "Réseau reliant fournisseurs, entreprise et clients par des flux physiques et d'information.",
+            "Épuisement d'un produit empêchant de satisfaire la demande."
+          ],
+          "correct": 3,
+          "correction": "Épuisement d'un produit empêchant de satisfaire la demande. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Rapport entre le coût des marchandises vendues et le stock moyen sur une période. » ?",
+          "options": [
+            "taux de service",
+            "rotation de stock",
+            "chaîne d'approvisionnement",
+            "stock de sécurité"
+          ],
+          "correct": 1,
+          "correction": "Rapport entre le coût des marchandises vendues et le stock moyen sur une période. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « taux de service » ?",
+          "options": [
+            "Réseau reliant fournisseurs, entreprise et clients par des flux physiques et d'information.",
+            "Stock minimal conservé pour faire face à une variation imprévue de la demande ou du délai.",
+            "Niveau de stock déclenchant une commande de réapprovisionnement.",
+            "Part des commandes livrées conformément aux engagements pris."
+          ],
+          "correct": 3,
+          "correction": "Part des commandes livrées conformément aux engagements pris. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel événement déclenche une commande de réapprovisionnement ?",
+          "options": [
+            "La fin de l'année",
+            "Le franchissement du point de commande",
+            "Une hausse des prix",
+            "Une réunion commerciale"
+          ],
+          "correct": 1,
+          "correction": "Le point de commande est calculé pour que le stock restant couvre la consommation pendant le délai de livraison, avec une marge de sécurité."
+        },
+        {
+          "type": "texte",
+          "q": "Comment réduire les ruptures sans immobiliser trop de trésorerie ?",
+          "reponse": "Améliorer la prévision de la demande, fiabiliser les fournisseurs et raccourcir les délais, calculer un stock de sécurité adapté à la variabilité, suivre les ventes en temps réel et réapprovisionner plus fréquemment en petites quantités.",
+          "correction": "On arbitre entre coût du stock et coût de la rupture, en agissant sur la prévision et sur la fiabilité fournisseur."
+        },
+        {
+          "type": "texte",
+          "q": "Quel est l'effet d'une baisse du délai de livraison sur le point de commande ?",
+          "reponse": "Le point de commande diminue, car il faut moins de stock pour couvrir la période d'attente. L'entreprise peut donc réduire son stock moyen tout en conservant le même niveau de service.",
+          "correction": "On relie directement le délai au stock nécessaire pendant l'attente, puis on en déduit l'impact sur la trésorerie."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "La logistique met le bon produit au bon endroit au bon moment, en maîtrisant les coûts et les délais de la chaîne."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "Fournisseur → achats → transport → stock → préparation → client",
+          "leg": "stock de sécurité · point de commande · délai · rupture · coût logistique"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des notions",
+          "items": [
+            [
+              "Notion",
+              "Définition",
+              "Repère"
+            ],
+            [
+              "chaîne d'approvisionnement",
+              "Réseau reliant fournisseurs, entreprise et clients par des flux physiques et d'information.",
+              "Notion 1"
+            ],
+            [
+              "stock de sécurité",
+              "Stock minimal conservé pour faire face à une variation imprévue de la demande ou du délai.",
+              "Notion 2"
+            ],
+            [
+              "point de commande",
+              "Niveau de stock déclenchant une commande de réapprovisionnement.",
+              "Notion 3"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir sur le chapitre",
+          "items": [
+            "chaîne d'approvisionnement : Réseau reliant fournisseurs, entreprise et clients par des flux physiques et d'information.",
+            "stock de sécurité : Stock minimal conservé pour faire face à une variation imprévue de la demande ou du délai.",
+            "point de commande : Niveau de stock déclenchant une commande de réapprovisionnement.",
+            "rupture de stock : Épuisement d'un produit empêchant de satisfaire la demande."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Procéder étape par étape",
+          "items": [
+            "Prévoir la demande et les besoins",
+            "Fixer stocks de sécurité et points de commande",
+            "Sélectionner et suivre les fournisseurs",
+            "Organiser transport, réception et préparation",
+            "Mesurer taux de service, ruptures et coûts"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Confondre stock de sécurité et stock excédentaire",
+            "Ignorer la fiabilité du fournisseur",
+            "Négliger les retours dans le coût logistique",
+            "Laisser les données de stock désynchronisées"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class='cle'>2 risques</span> → rupture et surstock",
+            "<span class='cle'>AC25.04</span> → pilotage de l'événement et des prestataires",
+            "<span class='cle'>1 déclencheur</span> → point de commande",
+            "<span class='cle'>1 arbitrage</span> → coût du stock contre coût de la rupture"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Repères : GE7.",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Notions clés : Logistique et chaîne d'approvisionnement\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Notions clés : Logistique et chaîne d'approvisionnement</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Définition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repère</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">chaîne</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Réseau reliant</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 1</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">stock de sécurité</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Stock minimal conservé</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 2</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">point de commande</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Niveau de stock</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 3</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">rupture de stock</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Épuisement d'un produit</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 4</text></svg>"
+        },
+        {
+          "titre": "2 · Procédure : GE7.",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Méthode : Logistique et chaîne d'approvisionnement\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Méthode : Logistique et chaîne d'approvisionnement</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Prévoir la demande et les besoins</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Fixer stocks de sécurité et points de commande</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sélectionner et suivre les fournisseurs</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Organiser transport, réception et préparation</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mesurer taux de service, ruptures et coûts</text></svg>"
+        },
+        {
+          "titre": "3 · Distinction : GE7.",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Deux notions à distinguer\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Deux notions à distinguer</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Rupture</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Ventes perdues</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Client déçu</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Coût de réaction élevé</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Surstock</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Trésorerie immobilisée</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Frais de stockage</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Risque d'obsolescence</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-tc"
+      ],
+      "annees": [
+        "BUT2"
+      ],
+      "matiere": "Gestion",
+      "titre": "Chapitre GE8. · Qualité et amélioration continue dans l'activité commerciale",
+      "source": "Référentiel BUT « Techniques de commercialisation », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020) et programme national 2022 · plan comptable général, arrêté du 22 juin 1999 · Code de commerce et Code général des impôts · éduscol · UE gestion de la qualité · niveau 2 · outils de pilotage · notions : qualité, PDCA, cause racine",
+      "points": [
+        "La qualité est la capacité d'un produit ou d'un service à satisfaire les besoins explicites et implicites du client.",
+        "La démarche qualité implique toute l'organisation : direction, services commerciaux, logistique et fournisseurs.",
+        "La norme ISO 9001 définit un système de management de la qualité fondé sur l'orientation client, l'amélioration continue et la gestion des processus.",
+        "Le cycle PDCA structure l'amélioration : Plan (planifier), Do (réaliser), Check (vérifier), Act (améliorer).",
+        "La méthode des 5 pourquoi recherche la cause racine d'un problème en répétant la question « pourquoi ? » jusqu'à une action possible.",
+        "Le diagramme d'Ishikawa, ou diagramme poisson, classe les causes possibles par familles : méthodes, main-d'oeuvre, matériel, matières, mesures et environnement.",
+        "Le cercle de qualité réunit des salariés pour résoudre des problèmes locaux : il valorise l'expérience terrain et favorise l'adhésion.",
+        "Les indicateurs qualité sont le taux de conformité, le taux de réclamation, le délai de traitement et la satisfaction client.",
+        "Une non-conformité est écartée par rapport à une exigence : elle doit être identifiée, isolée, corrigée et documentée.",
+        "L'action corrective supprime la cause d'une non-conformité ; l'action préventive agit avant qu'un problème ne se produise.",
+        "Dans la distribution, la qualité concerne aussi la présentation, la disponibilité, l'hygiène et le comportement des vendeurs.",
+        "L'amélioration continue progresse par petits pas : un indicateur suivi et une action par cycle produisent des résultats plus durables qu'un grand projet unique."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que désigne « qualité » ?",
+          "options": [
+            "Cycle d'amélioration continue : planifier, réaliser, vérifier, améliorer.",
+            "Capacité d'un produit ou service à satisfaire les exigences et les attentes du client.",
+            "Cause profonde d'un problème, dont la suppression évite sa réapparition.",
+            "Écart entre une réalité observée et une exigence définie."
+          ],
+          "correct": 1,
+          "correction": "Capacité d'un produit ou service à satisfaire les exigences et les attentes du client. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Cycle d'amélioration continue : planifier, réaliser, vérifier, améliorer. » ?",
+          "options": [
+            "cause racine",
+            "non-conformité",
+            "action corrective",
+            "PDCA"
+          ],
+          "correct": 3,
+          "correction": "Cycle d'amélioration continue : planifier, réaliser, vérifier, améliorer. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « cause racine » ?",
+          "options": [
+            "Écart entre une réalité observée et une exigence définie.",
+            "Cause profonde d'un problème, dont la suppression évite sa réapparition.",
+            "Action visant à éliminer la cause d'une non-conformité constatée.",
+            "Groupe de salariés travaillant ensemble à résoudre des problèmes de qualité."
+          ],
+          "correct": 1,
+          "correction": "Cause profonde d'un problème, dont la suppression évite sa réapparition. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne « non-conformité » ?",
+          "options": [
+            "Action visant à éliminer la cause d'une non-conformité constatée.",
+            "Groupe de salariés travaillant ensemble à résoudre des problèmes de qualité.",
+            "Capacité d'un produit ou service à satisfaire les exigences et les attentes du client.",
+            "Écart entre une réalité observée et une exigence définie."
+          ],
+          "correct": 3,
+          "correction": "Écart entre une réalité observée et une exigence définie. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Action visant à éliminer la cause d'une non-conformité constatée. » ?",
+          "options": [
+            "cercle de qualité",
+            "action corrective",
+            "qualité",
+            "PDCA"
+          ],
+          "correct": 1,
+          "correction": "Action visant à éliminer la cause d'une non-conformité constatée. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « cercle de qualité » ?",
+          "options": [
+            "Capacité d'un produit ou service à satisfaire les exigences et les attentes du client.",
+            "Cycle d'amélioration continue : planifier, réaliser, vérifier, améliorer.",
+            "Cause profonde d'un problème, dont la suppression évite sa réapparition.",
+            "Groupe de salariés travaillant ensemble à résoudre des problèmes de qualité."
+          ],
+          "correct": 3,
+          "correction": "Groupe de salariés travaillant ensemble à résoudre des problèmes de qualité. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle méthode cherche la cause profonde en répétant la question « pourquoi ? » ?",
+          "options": [
+            "Le SWOT",
+            "Les 5 pourquoi",
+            "Le Business Model Canvas",
+            "Le Gantt"
+          ],
+          "correct": 1,
+          "correction": "Les 5 pourquoi approfondissent progressivement le diagnostic jusqu'à trouver une cause sur laquelle une action est possible."
+        },
+        {
+          "type": "texte",
+          "q": "Appliquer le PDCA à un taux de réclamation élevé en point de vente.",
+          "reponse": "Plan : mesurer le taux et identifier les motifs principaux. Do : former les vendeurs et clarifier les procédures d'accueil. Check : comparer le taux après un mois. Act : généraliser ce qui fonctionne et reprendre un nouveau cycle sur le motif restant.",
+          "correction": "On vérifie que les quatre phases sont présentes et qu'un indicateur permet de juger de l'effet des actions."
+        },
+        {
+          "type": "texte",
+          "q": "Différencier action corrective et action préventive avec un exemple commercial.",
+          "reponse": "Après des livraisons en retard, l'action corrective consiste à identifier la cause (transporteur défaillant) et à la supprimer en changeant de prestataire. L'action préventive consiste à mettre en place un suivi des délais avant tout nouveau retard, par exemple un tableau de bord fournisseur.",
+          "correction": "On oppose réagir à une non-conformité déjà constatée et empêcher qu'elle ne survienne."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "La qualité ne se contrôle pas à la fin : elle se construit dans chaque processus et s'améliore par des cycles courts et mesurés."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "PDCA : Plan → Do → Check → Act",
+          "leg": "norme ISO 9001 · PDCA · 5 pourquoi · diagramme d'Ishikawa · indicateurs qualité"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des notions",
+          "items": [
+            [
+              "Notion",
+              "Définition",
+              "Repère"
+            ],
+            [
+              "qualité",
+              "Capacité d'un produit ou service à satisfaire les exigences et les attentes du client.",
+              "Notion 1"
+            ],
+            [
+              "PDCA",
+              "Cycle d'amélioration continue : planifier, réaliser, vérifier, améliorer.",
+              "Notion 2"
+            ],
+            [
+              "cause racine",
+              "Cause profonde d'un problème, dont la suppression évite sa réapparition.",
+              "Notion 3"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir sur le chapitre",
+          "items": [
+            "qualité : Capacité d'un produit ou service à satisfaire les exigences et les attentes du client.",
+            "PDCA : Cycle d'amélioration continue : planifier, réaliser, vérifier, améliorer.",
+            "cause racine : Cause profonde d'un problème, dont la suppression évite sa réapparition.",
+            "non-conformité : Écart entre une réalité observée et une exigence définie."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Procéder étape par étape",
+          "items": [
+            "Écouter le client et mesurer la qualité",
+            "Cartographier les processus",
+            "Identifier les non-conformités et leurs causes",
+            "Mettre en œuvre des actions et vérifier",
+            "Capitaliser et relancer un cycle PDCA"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Corriger le symptôme sans chercher la cause",
+            "Confondre action corrective et préventive",
+            "Limiter la qualité au seul contrôle final",
+            "Négliger la satisfaction client dans les indicateurs"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class='cle'>4 phases</span> → PDCA",
+            "<span class='cle'>5 pourquoi</span> → recherche de la cause racine",
+            "<span class='cle'>6 familles</span> → causes d'Ishikawa",
+            "<span class='cle'>ISO 9001</span> → référence du système qualité"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Repères : GE8.",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Notions clés : Qualité et amélioration continue dans l'activité commerciale\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Notions clés : Qualité et amélioration continue dans l'activité commerciale</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Définition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repère</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">qualité</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Capacité d'un produit ou</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 1</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">PDCA</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Cycle d'amélioration</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 2</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">cause racine</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Cause profonde d'un</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 3</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">non-conformité</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Écart entre une réalité</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 4</text></svg>"
+        },
+        {
+          "titre": "2 · Procédure : GE8.",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Méthode : Qualité et amélioration continue dans l'activité commerciale\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Méthode : Qualité et amélioration continue dans l'activité commerciale</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Écouter le client et mesurer la qualité</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Cartographier les processus</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Identifier les non-conformités et leurs causes</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mettre en œuvre des actions et vérifier</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Capitaliser et relancer un cycle PDCA</text></svg>"
+        },
+        {
+          "titre": "3 · Distinction : GE8.",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Deux notions à distinguer\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Deux notions à distinguer</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Action corrective</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Réagit après le problème</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Supprime la cause identifiée</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Exemple : changer de transporteur</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Action préventive</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Agir avant le problème</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Renforce le contrôle en amont</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Exemple : tableau de bord des délais</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-tc"
+      ],
+      "annees": [
+        "BUT3"
+      ],
+      "matiere": "Gestion",
+      "titre": "Chapitre GE9. · Conduite du changement dans l'organisation commerciale",
+      "source": "Référentiel BUT « Techniques de commercialisation », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020) et programme national 2022 · plan comptable général, arrêté du 22 juin 1999 · Code de commerce et Code général des impôts · éduscol · UE management et conduite de projet · AC34 · niveau 3 · notions : conduite du changement, résistance, sponsor",
+      "points": [
+        "Le changement organisationnel modifie les outils, les processus, les compétences ou la culture de l'entreprise.",
+        "La conduite du changement vise à obtenir l'adhésion des équipes plutôt qu'à imposer une décision sans explication.",
+        "La résistance au changement est normale : elle exprime la peur de perdre des repères, des compétences ou du pouvoir.",
+        "Le diagnostic identifie ce qui doit changer, les acteurs concernés et les obstacles prévisibles.",
+        "La vision décrit l'état cible en termes compréhensibles par tous : à quoi ressemblera le travail après le changement ?",
+        "Le sponsor, souvent la direction, porte le projet et montre par son comportement que le changement est une priorité.",
+        "La communication doit répondre aux questions des salariés : pourquoi changer, que va-t-on modifier, quel est le calendrier, quel est mon rôle ?",
+        "La formation et l'accompagnement de terrain permettent d'acquérir les nouvelles compétences sans perdre en efficacité.",
+        "Impliquer les utilisateurs dès la conception du projet augmente la qualité des solutions et réduit la résistance.",
+        "Un projet de changement se pilote par des indicateurs d'adoption : taux d'utilisation d'un nouvel outil, respect des nouvelles procédures et satisfaction.",
+        "Les échecs viennent souvent d'un déficit de communication ou d'un manque de temps pour la montée en compétences, pas de la mauvaise qualité technique de la solution.",
+        "Le référentiel BUT TC au niveau 3 attend une capacité à conduire une solution client et à faire évoluer l'offre dans un environnement instable."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que désigne « conduite du changement » ?",
+          "options": [
+            "Opposition ou réticence des acteurs face à une modification de leurs habitudes ou de leur rôle.",
+            "Processus structuré d'accompagnement des personnes lors d'une transformation de l'organisation.",
+            "Responsable qui soutient officiellement le projet et mobilise les ressources nécessaires.",
+            "Description claire de l'état cible qui donne du sens au changement."
+          ],
+          "correct": 1,
+          "correction": "Processus structuré d'accompagnement des personnes lors d'une transformation de l'organisation. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Opposition ou réticence des acteurs face à une modification de leurs habitudes ou de leur rôle. » ?",
+          "options": [
+            "sponsor",
+            "vision",
+            "adhésion",
+            "résistance"
+          ],
+          "correct": 3,
+          "correction": "Opposition ou réticence des acteurs face à une modification de leurs habitudes ou de leur rôle. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « sponsor » ?",
+          "options": [
+            "Description claire de l'état cible qui donne du sens au changement.",
+            "Responsable qui soutient officiellement le projet et mobilise les ressources nécessaires.",
+            "Acceptation active du changement par les personnes concernées.",
+            "Mesure de l'utilisation réelle d'une nouvelle solution ou d'une nouvelle pratique."
+          ],
+          "correct": 1,
+          "correction": "Responsable qui soutient officiellement le projet et mobilise les ressources nécessaires. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne « vision » ?",
+          "options": [
+            "Acceptation active du changement par les personnes concernées.",
+            "Mesure de l'utilisation réelle d'une nouvelle solution ou d'une nouvelle pratique.",
+            "Processus structuré d'accompagnement des personnes lors d'une transformation de l'organisation.",
+            "Description claire de l'état cible qui donne du sens au changement."
+          ],
+          "correct": 3,
+          "correction": "Description claire de l'état cible qui donne du sens au changement. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Acceptation active du changement par les personnes concernées. » ?",
+          "options": [
+            "indicateur d'adoption",
+            "adhésion",
+            "conduite du changement",
+            "résistance"
+          ],
+          "correct": 1,
+          "correction": "Acceptation active du changement par les personnes concernées. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « indicateur d'adoption » ?",
+          "options": [
+            "Processus structuré d'accompagnement des personnes lors d'une transformation de l'organisation.",
+            "Opposition ou réticence des acteurs face à une modification de leurs habitudes ou de leur rôle.",
+            "Responsable qui soutient officiellement le projet et mobilise les ressources nécessaires.",
+            "Mesure de l'utilisation réelle d'une nouvelle solution ou d'une nouvelle pratique."
+          ],
+          "correct": 3,
+          "correction": "Mesure de l'utilisation réelle d'une nouvelle solution ou d'une nouvelle pratique. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle réaction est normale lors de l'annonce d'un changement organisationnel ?",
+          "options": [
+            "L'adhésion immédiate de tous",
+            "Une résistance plus ou moins forte",
+            "L'arrêt de l'activité",
+            "Une hausse automatique de la productivité"
+          ],
+          "correct": 1,
+          "correction": "La résistance est une réaction habituelle : elle doit être écoutée et comprise pour être traitée, pas ignorée."
+        },
+        {
+          "type": "texte",
+          "q": "Comment annoncer le remplacement d'un outil commercial utilisé depuis dix ans ?",
+          "reponse": "Expliquer les raisons du changement et les limites de l'outil actuel, présenter la vision et les bénéfices attendus, annoncer un calendrier de formation et un accompagnement, associer des utilisateurs référents au projet, puis mesurer l'adoption et recueillir les retours.",
+          "correction": "On combine sens, participation, formation et mesure : la seule note d'information ne suffit pas."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi la formation est-elle une étape critique du changement ?",
+          "reponse": "Parce que la nouvelle solution ne produit ses bénéfices que si les utilisateurs savent s'en servir. Sans montée en compétence, ils reviennent aux anciennes pratiques et le projet est perçu comme une contrainte supplémentaire.",
+          "correction": "On relie compétence, adoption et perception du projet par les équipes."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Conduire le changement, c'est expliquer le pourquoi, impliquer les équipes et accompagner les nouvelles pratiques jusqu'à leur adoption."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "Diagnostic → vision → communication → accompagnement → ancrage",
+          "leg": "résistance · parties prenantes · formation · sponsor · indicateurs d'adoption"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des notions",
+          "items": [
+            [
+              "Notion",
+              "Définition",
+              "Repère"
+            ],
+            [
+              "conduite du changement",
+              "Processus structuré d'accompagnement des personnes lors d'une transformation de l'organisation.",
+              "Notion 1"
+            ],
+            [
+              "résistance",
+              "Opposition ou réticence des acteurs face à une modification de leurs habitudes ou de leur rôle.",
+              "Notion 2"
+            ],
+            [
+              "sponsor",
+              "Responsable qui soutient officiellement le projet et mobilise les ressources nécessaires.",
+              "Notion 3"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir sur le chapitre",
+          "items": [
+            "conduite du changement : Processus structuré d'accompagnement des personnes lors d'une transformation de l'organisation.",
+            "résistance : Opposition ou réticence des acteurs face à une modification de leurs habitudes ou de leur rôle.",
+            "sponsor : Responsable qui soutient officiellement le projet et mobilise les ressources nécessaires.",
+            "vision : Description claire de l'état cible qui donne du sens au changement."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Procéder étape par étape",
+          "items": [
+            "Diagnostic et identification des acteurs",
+            "Définition d'une vision claire",
+            "Communication et implication des équipes",
+            "Formation et accompagnement terrain",
+            "Mesure de l'adoption et ancrage durable"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Imposer le changement sans explication",
+            "Ignorer la résistance des utilisateurs",
+            "Former après la mise en service seulement",
+            "Mesurer uniquement le respect de l'échéance"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class='cle'>5 étapes</span> → diagnostic à ancrage",
+            "<span class='cle'>AC34</span> → niveau 3 du référentiel BUT TC",
+            "<span class='cle'>1 risque</span> → la résistance au changement",
+            "<span class='cle'>1 mesure clé</span> → taux d'adoption de l'outil"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Repères : GE9.",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Notions clés : Conduite du changement dans l'organisation commerciale\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Notions clés : Conduite du changement dans l'organisation commerciale</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Définition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repère</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">conduite du changement</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Processus structuré</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 1</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">résistance</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Opposition ou réticence</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 2</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">sponsor</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Responsable qui soutient</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 3</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">vision</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Description claire de</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 4</text></svg>"
+        },
+        {
+          "titre": "2 · Procédure : GE9.",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Méthode : Conduite du changement dans l'organisation commerciale\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Méthode : Conduite du changement dans l'organisation commerciale</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Diagnostic et identification des acteurs</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définition d'une vision claire</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Communication et implication des équipes</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Formation et accompagnement terrain</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mesure de l'adoption et ancrage durable</text></svg>"
+        },
+        {
+          "titre": "3 · Distinction : GE9.",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Deux notions à distinguer\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Deux notions à distinguer</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Résistance</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Réaction normale</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Exprime une inquiétude</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Doit être écoutée</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Adhésion</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Acceptation active</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Soutient la mise en œuvre</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Se construit par la participation</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "but-tc"
+      ],
+      "annees": [
+        "BUT3"
+      ],
+      "matiere": "Gestion",
+      "titre": "Chapitre GE10. · Stratégie d'entreprise : SWOT, PESTEL et modèle économique",
+      "source": "Référentiel BUT « Techniques de commercialisation », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020) et programme national 2022 · plan comptable général, arrêté du 22 juin 1999 · Code de commerce et Code général des impôts · éduscol · UE stratégie / marketing stratégique · AC31.01-AC31.03 · niveau 3 · notions : stratégie, PESTEL, SWOT",
+      "points": [
+        "La stratégie d'entreprise détermine les objectifs durables et les moyens de les atteindre dans un environnement concurrentiel.",
+        "Le PESTEL analyse l'environnement macroéconomique : Politique, Économique, Socioculturel, Technologique, Écologique et Légal.",
+        "Le SWOT croise les éléments internes (forces, faiblesses) et externes (opportunités, menaces) pour faire émerger des options stratégiques.",
+        "Les stratégies SO exploitent une force pour saisir une opportunité ; ST utilisent une force pour contrer une menace ; WO visent à combler une faiblesse pour saisir une opportunité ; WT défendent contre les menaces.",
+        "L'avantage concurrentiel peut venir de la différenciation, de la maîtrise des coûts ou d'une position de niche.",
+        "La chaîne de valeur décompose l'entreprise en activités créatrices de valeur, de la logistique d'entrée au service après-vente.",
+        "Le modèle économique précise qui paie, pourquoi, comment l'offre est produite et distribuée, et comment l'entreprise gagne de l'argent.",
+        "Le Business Model Canvas résume neuf blocs : segments clients, propositions de valeur, canaux, relations clients, flux de revenus, ressources clés, activités clés, partenaires et structure de coûts.",
+        "Une stratégie marketing cohérente découle du positionnement choisi et se traduit par le mix et le plan d'action.",
+        "L'environnement instable impose une veille permanente et la préparation de scénarios plutôt qu'un plan unique figé.",
+        "La RSE devient un élément de stratégie lorsqu'elle modifie réellement l'offre, les coûts ou la relation avec les parties prenantes.",
+        "Le niveau 3 du BUT TC demande de construire une solution client étendue et de faire évoluer l'offre par des leviers de création de valeur."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que désigne « stratégie » ?",
+          "options": [
+            "Grille d'analyse de l'environnement : politique, économique, socioculturel, technologique, écologique, légal.",
+            "Choix durables déterminant les objectifs et les moyens de l'entreprise face à son environnement.",
+            "Matrice croisant forces et faiblesses internes avec opportunités et menaces externes.",
+            "Attribut permettant à l'entreprise de surpasser ses concurrents sur un marché."
+          ],
+          "correct": 1,
+          "correction": "Choix durables déterminant les objectifs et les moyens de l'entreprise face à son environnement. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Grille d'analyse de l'environnement : politique, économique, socioculturel, technologique, écologique, légal. » ?",
+          "options": [
+            "SWOT",
+            "avantage concurrentiel",
+            "modèle économique",
+            "PESTEL"
+          ],
+          "correct": 3,
+          "correction": "Grille d'analyse de l'environnement : politique, économique, socioculturel, technologique, écologique, légal. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « SWOT » ?",
+          "options": [
+            "Attribut permettant à l'entreprise de surpasser ses concurrents sur un marché.",
+            "Matrice croisant forces et faiblesses internes avec opportunités et menaces externes.",
+            "Description de la manière dont l'entreprise crée, délivre et capte de la valeur.",
+            "Suite d'activités qui transforment une ressource en offre valorisée par le client."
+          ],
+          "correct": 1,
+          "correction": "Matrice croisant forces et faiblesses internes avec opportunités et menaces externes. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne « avantage concurrentiel » ?",
+          "options": [
+            "Description de la manière dont l'entreprise crée, délivre et capte de la valeur.",
+            "Suite d'activités qui transforment une ressource en offre valorisée par le client.",
+            "Choix durables déterminant les objectifs et les moyens de l'entreprise face à son environnement.",
+            "Attribut permettant à l'entreprise de surpasser ses concurrents sur un marché."
+          ],
+          "correct": 3,
+          "correction": "Attribut permettant à l'entreprise de surpasser ses concurrents sur un marché. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme correspond à : « Description de la manière dont l'entreprise crée, délivre et capte de la valeur. » ?",
+          "options": [
+            "chaîne de valeur",
+            "modèle économique",
+            "stratégie",
+            "PESTEL"
+          ],
+          "correct": 1,
+          "correction": "Description de la manière dont l'entreprise crée, délivre et capte de la valeur. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle affirmation décrit correctement « chaîne de valeur » ?",
+          "options": [
+            "Choix durables déterminant les objectifs et les moyens de l'entreprise face à son environnement.",
+            "Grille d'analyse de l'environnement : politique, économique, socioculturel, technologique, écologique, légal.",
+            "Matrice croisant forces et faiblesses internes avec opportunités et menaces externes.",
+            "Suite d'activités qui transforment une ressource en offre valorisée par le client."
+          ],
+          "correct": 3,
+          "correction": "Suite d'activités qui transforment une ressource en offre valorisée par le client. Les autres propositions décrivent d'autres notions du chapitre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel outil analyse spécifiquement l'environnement macroéconomique ?",
+          "options": [
+            "Le SWOT",
+            "Le PESTEL",
+            "Le Gantt",
+            "Le diagramme d'Ishikawa"
+          ],
+          "correct": 1,
+          "correction": "Le PESTEL examine les six facteurs externes ; le SWOT combine ensuite ces signaux avec l'analyse interne."
+        },
+        {
+          "type": "texte",
+          "q": "Comment passer d'un SWOT à une option stratégique concrète ?",
+          "reponse": "Croiser les quadrants : une force majeure peut saisir une opportunité (SO), contrer une menace (ST), ou une faiblesse peut être comblée pour exploiter une opportunité (WO). Chaque option est ensuite évaluée selon sa faisabilité, son coût et sa cohérence avec le positionnement.",
+          "correction": "On exige le passage de l'analyse à une décision argumentée, pas la simple liste des cases du SWOT."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi un modèle économique doit-il être cohérent avec le positionnement ?",
+          "reponse": "Parce qu'une promesse premium suppose des ressources, des canaux et une structure de coûts capables de la tenir : vendre haut de gamme avec des coûts de service réduits dégrade l'expérience client et détruit la valeur perçue.",
+          "correction": "On relie la proposition de valeur aux ressources, aux coûts et aux canaux du modèle."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "La stratégie choisit où jouer et comment gagner, en appuyant le diagnostic sur des outils structurés et un modèle économique cohérent."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule à connaître",
+          "eq": "Diagnostic externe + interne → options stratégiques → choix → déploiement",
+          "leg": "PESTEL · SWOT · avantage concurrentiel · canvas · chaîne de valeur"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau des notions",
+          "items": [
+            [
+              "Notion",
+              "Définition",
+              "Repère"
+            ],
+            [
+              "stratégie",
+              "Choix durables déterminant les objectifs et les moyens de l'entreprise face à son environnement.",
+              "Notion 1"
+            ],
+            [
+              "PESTEL",
+              "Grille d'analyse de l'environnement : politique, économique, socioculturel, technologique, écologique, légal.",
+              "Notion 2"
+            ],
+            [
+              "SWOT",
+              "Matrice croisant forces et faiblesses internes avec opportunités et menaces externes.",
+              "Notion 3"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir sur le chapitre",
+          "items": [
+            "stratégie : Choix durables déterminant les objectifs et les moyens de l'entreprise face à son environnement.",
+            "PESTEL : Grille d'analyse de l'environnement : politique, économique, socioculturel, technologique, écologique, légal.",
+            "SWOT : Matrice croisant forces et faiblesses internes avec opportunités et menaces externes.",
+            "avantage concurrentiel : Attribut permettant à l'entreprise de surpasser ses concurrents sur un marché."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Procéder étape par étape",
+          "items": [
+            "Analyser PESTEL et les concurrents",
+            "Réaliser le diagnostic interne et le SWOT",
+            "Construire les options stratégiques",
+            "Choisir et traduire en modèle économique",
+            "Déployer, mesurer et réviser les scénarios"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Confondre diagnostic et décision",
+            "Limiter l'analyse au SWOT sans choix d'option",
+            "Copier le modèle économique d'un concurrent",
+            "Figer la stratégie malgré les signaux externes"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class='cle'>6 facteurs PESTEL</span> → environnement",
+            "<span class='cle'>4 stratégies SWOT</span> → SO, ST, WO, WT",
+            "<span class='cle'>9 blocs</span> → Business Model Canvas",
+            "<span class='cle'>AC31.02</span> → stratégie en environnement instable"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Repères : GE10.",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Notions clés : Stratégie d'entreprise : SWOT, PESTEL et modèle économique\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Notions clés : Stratégie d'entreprise : SWOT, PESTEL et modèle économique</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Définition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repère</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">stratégie</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choix durables</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 1</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">PESTEL</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Grille d'analyse de</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 2</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">SWOT</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Matrice croisant forces</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 3</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">avantage concurrentiel</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Attribut permettant à</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 4</text></svg>"
+        },
+        {
+          "titre": "2 · Procédure : GE10.",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Méthode : Stratégie d'entreprise : SWOT, PESTEL et modèle économique\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Méthode : Stratégie d'entreprise : SWOT, PESTEL et modèle économique</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Analyser PESTEL et les concurrents</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Réaliser le diagnostic interne et le SWOT</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Construire les options stratégiques</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choisir et traduire en modèle économique</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Déployer, mesurer et réviser les scénarios</text></svg>"
+        },
+        {
+          "titre": "3 · Distinction : GE10.",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Deux notions à distinguer\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Deux notions à distinguer</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Diagnostic</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">PESTEL et SWOT</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Comprendre la situation</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Précède le choix</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Modèle économique</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Crée et capte de la valeur</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">9 blocs structurants</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Traduit le choix stratégique</text></svg>"
+        }
+      ]
+    }
+  ]
+}
