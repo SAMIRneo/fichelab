@@ -397,7 +397,7 @@ F.append(fiche(
 
 F.append(fiche(
     FIL, ["IFSI1"], "Anatomie",
-    "Chapitre AT5. · Appareil respiratoire : voies aériennes et poumons",
+    "Chapitre IFA5. · Appareil respiratoire : voies aériennes et poumons",
     REF + " · trachée, bronches, alvéoles, plèvre, diaphragme",
     [
         "L'appareil respiratoire a pour fonction d'apporter l'oxygène à l'organisme et d'éliminer le dioxyde de carbone. Il comprend les voies aériennes supérieures et inférieures, les poumons et les muscles respiratoires.",
@@ -482,7 +482,7 @@ F.append(fiche(
 
 F.append(fiche(
     FIL, ["IFSI1"], "Anatomie",
-    "Chapitre AT6. · Appareil digestif : tube digestif et glandes annexes",
+    "Chapitre IFA6. · Appareil digestif : tube digestif et glandes annexes",
     REF + " · œsophage, estomac, intestin, foie, pancréas, péritoine",
     [
         "L'appareil digestif assure la digestion mécanique et chimique des aliments, l'absorption des nutriments et l'élimination des déchets. Il comprend le tube digestif et les glandes annexes.",
@@ -744,7 +744,7 @@ F.append(fiche(
 
 F.append(fiche(
     FIL, ["IFSI1"], "Physiologie",
-    "Chapitre PH2. · Physiologie cellulaire et transport membranaire",
+    "Chapitre IFP2. · Physiologie cellulaire et transport membranaire",
     REF + " · membrane plasmique, diffusion, pompe Na⁺/K⁺, osmose",
     [
         "La cellule est l'unité structurale et fonctionnelle de l'organisme. Sa membrane plasmique, formée d'une bicouche lipidique et de protéines, sépare le milieu intracellulaire du milieu extracellulaire.",

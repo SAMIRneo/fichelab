@@ -1,0 +1,854 @@
+# -*- coding: utf-8 -*-
+"""Genere data/bioalc-cg-part-B.json : fiches du controle groupe PC (BTS BIOALC).
+
+Lot 2 (suite du lot 1) : chapitres 9 a 15 du programme communique par l'etudiant.
+Model strict FICHE_UV : 12 points, 9 questions (7 QCM + 2 texte), 7 blocs, 3 SVG.
+Source : referentiel U4, arrete du 12 mars 2024 modifie du 24 juin 2025.
+"""
+import os
+import sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from fixtures import (fiche, qcm, qt, diag, svg_grille, svg_etapes,
+                      svg_compare, bloc, valider_et_ecrire)
+
+FIL = ["bts-bio"]
+AN = ["BTS2"]
+MAT = "Physique-chimie et instrumentation"
+REF = ("Contrôle groupé PC — BTS BIOALC, référentiel U4 physique-chimie "
+       "(arrêté 12 mars 2024 modifié 24 juin 2025) · programme officiel · "
+       "retour d'étudiant (novembre 2026)")
+
+F = []
+
+
+def make(titre, refs, points, questions, affichage, schema):
+    return fiche(FIL, AN, MAT, titre, REF + " · " + refs,
+                 points, questions, affichage, schema)
+
+
+# ===========================================================================
+# 9 — Cinetique : vitesse et temps de demi-reaction
+# ===========================================================================
+COURBE_T12 = """<svg viewBox="0 0 660 230" width="100%" role="img" aria-label="Courbe concentration temps avec tangente et temps de demi-reaction">
+<text x="16" y="24" fill="var(--ac)" font-size="14" font-weight="bold">Courbe [A] = f(t) : pente et T1/2</text>
+<line x1="60" y1="190" x2="612" y2="190" stroke="var(--fg)" stroke-width="2"/>
+<line x1="60" y1="190" x2="60" y2="44" stroke="var(--fg)" stroke-width="2"/>
+<text x="596" y="207" fill="var(--dim)" font-size="11">t (s)</text>
+<text x="20" y="52" fill="var(--dim)" font-size="11">[A]</text>
+<polyline points="60,55 110,94 160,120 210,138 260,151 310,160 360,168 410,174 460,178 510,182 560,184" fill="none" stroke="var(--ac)" stroke-width="3"/>
+<line x1="120" y1="96" x2="212" y2="150" stroke="var(--warn)" stroke-width="2"/>
+<text x="214" y="151" fill="var(--warn)" font-size="10">tangente</text>
+<line x1="60" y1="55" x2="160" y2="55" stroke="var(--dim)" stroke-width="1" stroke-dasharray="4 4"/>
+<line x1="60" y1="120" x2="160" y2="120" stroke="var(--dim)" stroke-width="1" stroke-dasharray="4 4"/>
+<line x1="160" y1="120" x2="160" y2="190" stroke="var(--dim)" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="12" y="59" fill="var(--fg)" font-size="11">[A]0</text>
+<text x="12" y="124" fill="var(--fg)" font-size="11">[A]0/2</text>
+<text x="148" y="207" fill="var(--ac)" font-size="11">T1/2</text>
+<text x="238" y="211" fill="var(--dim)" font-size="10">Pente de la tangente = v(t) ; pointilles = lecture de T1/2</text>
+</svg>"""
+
+F.append(make(
+    "Contrôle PC · 9 · Cinétique : vitesse de réaction et temps de demi-réaction T1/2",
+    "IUPAC Gold Book (rate of reaction, half-life, reaction order) · LibreTexts Physical Chemistry, integrated rate laws · cours U4 BTS BIOALC, suivi cinétique par absorbance",
+    [
+        "La cinétique chimique étudie la vitesse à laquelle un système évolue et les facteurs qui la modifient. Elle complète la thermodynamique : une réaction thermodynamiquement favorable peut être très lente si sa barrière énergétique est élevée.",
+        "Pour une réaction a·A + b·B → c·C + d·D, la vitesse volumique est v = −(1/a)·d[A]/dt = −(1/b)·d[B]/dt = (1/c)·d[C]/dt = (1/d)·d[D]/dt. Par convention elle est positive et s'exprime en mol·L⁻¹·s⁻¹ (ou mol·L⁻¹·min⁻¹).",
+        "La vitesse moyenne sur un intervalle Δt vaut v_moy = −Δ[A]/Δt pour un réactif A : graphiquement, c'est la pente de la sécante reliant deux points de la courbe [A] = f(t).",
+        "La vitesse instantanée à un instant t est v(t) = −d[A]/dt : c'est la pente de la tangente à la courbe [A] = f(t) en ce point. On trace la tangente, puis on calcule Δ[A]/Δt entre deux points éloignés de cette tangente (jamais deux points de la courbe).",
+        "Sur un graphe concentration/temps, la concentration d'un réactif diminue et celle d'un produit augmente. La pente est forte au début puis s'annule : les réactifs s'épuisent et la vitesse tend vers zéro en fin de réaction ou à l'équilibre.",
+        "Le temps de demi-réaction (ou demi-vie) T1/2 est le temps nécessaire pour que [A] passe de [A]₀ à [A]₀/2. Lecture graphique : tracer l'horizontale à [A]₀/2, lire l'abscisse du point d'intersection avec la courbe, puis projeter sur l'axe des temps.",
+        "Pour une réaction d'ordre 1 : [A](t) = [A]₀·e^(−k·t) et T1/2 = ln 2 / k ≈ 0,693 / k. La constante de vitesse k est en s⁻¹ et T1/2 ne dépend pas de la concentration initiale [A]₀.",
+        "La forme linéarisée ln[A] = ln[A]₀ − k·t donne une droite de pente −k. Tracer ln[A] = f(t) permet de vérifier l'ordre 1 et de mesurer k, même si la courbe [A] = f(t) n'est pas une droite.",
+        "Des demi-vies successives constantes signalent l'ordre 1. Si T1/2 dépend de [A]₀, l'ordre est différent : pour l'ordre 2, T1/2 = 1/(k·[A]₀) et la demi-vie double quand [A]₀ est divisée par deux.",
+        "Au laboratoire on suit une grandeur proportionnelle à la concentration : absorbance à λmax (loi de Beer-Lambert), conductivité, pH, volume de gaz dégagé ou prélèvements titrés. L'origine des temps correspond au mélange des réactifs.",
+        "Application numérique : si [A]₀ = 0,100 mol·L⁻¹ et [A] = 0,050 mol·L⁻¹ à t = 200 s, alors T1/2 = 200 s et k = 0,693/200 = 3,47 × 10⁻³ s⁻¹. Après deux demi-vies (400 s), [A] = 0,025 mol·L⁻¹.",
+        "Précautions : température constante, mélange rapide, blanc instrumental, pente lue sur la tangente et non sur la courbe, unité de temps cohérente avec celle de k (des secondes pour k en s⁻¹).",
+    ],
+    [
+        qcm("Quelle est l'unité d'une vitesse volumique de réaction ?",
+            ["mol·L⁻¹", "mol·L⁻¹·s⁻¹", "s⁻¹", "L·mol⁻¹·s⁻¹"], 1,
+            "La vitesse est une variation de concentration par unité de temps : mol·L⁻¹·s⁻¹ (ou mol·L⁻¹·min⁻¹). Le s⁻¹ est l'unité de k pour l'ordre 1."),
+        qcm("Comment obtenir la vitesse instantanée en un point d'une courbe [A] = f(t) ?",
+            ["En calculant [A]/t", "En prenant la pente de la tangente en ce point",
+             "En prenant la pente de la sécante début-fin", "En lisant l'ordonnée du point"], 1,
+            "La vitesse instantanée est la dérivée −d[A]/dt, donc la pente de la tangente. La sécante ne donne qu'une vitesse moyenne sur un intervalle."),
+        qcm("Que représente le temps de demi-réaction T1/2 ?",
+            ["Le temps de consommation complète de A", "Le temps pour que [A] passe de [A]₀ à [A]₀/2",
+             "Le temps pour que la vitesse double", "La moitié du temps de réaction totale"], 1,
+            "T1/2 est défini par [A](T1/2) = [A]₀/2 : c'est une lecture horizontale puis verticale sur le graphe [A] = f(t)."),
+        qcm("Suivi cinétique : [A]₀ = 0,080 mol·L⁻¹ et [A] = 0,040 mol·L⁻¹ à t = 150 s. Quelle est la constante k (ordre 1) ?",
+            ["4,62 × 10⁻³ s⁻¹", "9,24 × 10⁻³ s⁻¹", "2,31 × 10⁻³ s⁻¹", "0,150 s⁻¹"], 0,
+            "A mi-réaction, T1/2 = 150 s ; pour l'ordre 1, k = ln 2 / T1/2 = 0,693/150 = 4,62 × 10⁻³ s⁻¹.",
+            "Dosage spectrophotométrique d'un réactif limitant lors d'un TP de cinétique.",
+            True),
+        qcm("Pour une réaction d'ordre 1, que devient T1/2 si l'on double [A]₀ ?",
+            ["Elle double", "Elle est divisée par 2", "Elle reste la même", "Elle devient nulle"], 2,
+            "T1/2 = 0,693/k ne dépend que de k (donc de la température et du milieu), pas de la concentration initiale."),
+        qcm("Sur une courbe [A] = f(t) la pente est négative. Comment obtenir une vitesse positive de disparition de A ?",
+            ["Prendre l'opposé de la pente", "Changer le signe de [A]", "Tracer la courbe de [P]", "Ajouter k à la pente"], 0,
+            "d[A]/dt < 0 car A disparaît ; la vitesse de disparition est définie par v = −d[A]/dt > 0."),
+        qcm("La droite ln[A] = f(t) a pour pente −2,0 × 10⁻³ s⁻¹. Quelle vaut T1/2 ?",
+            ["Environ 347 s", "Environ 173 s", "Environ 693 s", "Environ 500 s"], 0,
+            "La pente vaut −k, donc k = 2,0 × 10⁻³ s⁻¹ et T1/2 = 0,693/k = 346,5 s, soit environ 347 s.",
+            "Exploitation d'un graphique semi-logarithmique lors du contrôle groupé.",
+            True),
+        qt("Expliquer pourquoi la tangente donne la vitesse instantanée alors que la sécante donne une vitesse moyenne. Indiquer comment lire T1/2 sur le graphe.",
+           "La dérivée d[A]/dt est la limite du rapport Δ[A]/Δt quand Δt tend vers 0 : elle est donc mesurée par la pente de la tangente au point considéré. La sécante entre deux points éloignés donne Δ[A]/Δt sur un intervalle fini, donc une vitesse moyenne dépendant de l'intervalle. Pour lire T1/2, on trace l'horizontale à [A]₀/2, on projette sur la courbe puis sur l'axe du temps.",
+           "On relie la notion de pente (tangente = dérivée, sécante = taux moyen) et la construction graphique en trois temps : [A]₀/2 → courbe → axe t."),
+        qt("Une réaction d'ordre 1 a k = 5,0 × 10⁻³ s⁻¹ et [A]₀ = 0,200 mol·L⁻¹. Calculer T1/2 puis [A] à t = 100 s (e^(−0,5) ≈ 0,607).",
+           "T1/2 = 0,693/(5,0 × 10⁻³) ≈ 139 s. À 100 s : [A] = [A]₀·e^(−k·t) = 0,200·e^(−0,5) = 0,200 × 0,607 ≈ 0,121 mol·L⁻¹.",
+           "Calcul classique d'ordre 1 : d'abord la demi-vie par 0,693/k, puis la concentration par la loi exponentielle avec kt = 0,5.",
+           "Contrôle de stabilité d'une solution : on suit la disparition du principe actif en fonction du temps.",
+           True),
+    ],
+    [
+        bloc("L'idée en une phrase",
+             texte="Une courbe concentration/temps se lit par sa pente : la tangente donne la vitesse à un instant, et la division par deux de la concentration donne T1/2."),
+        bloc("La formule à connaître",
+             eq="v(t) = −d[A]/dt   ·   [A](t) = [A]₀·e^(−k·t)   ·   T1/2 = ln 2 / k ≈ 0,693/k",
+             leg="v en mol·L⁻¹·s⁻¹ · k en s⁻¹ (ordre 1) · t en s · ln[A] = ln[A]₀ − k·t est une droite de pente −k"),
+        bloc("Tableau des trois lectures du graphe", items=[
+            ["Sécante", "Pente entre deux points", "Vitesse moyenne sur Δt"],
+            ["Tangente", "Pente en un point", "Vitesse instantanée v(t)"],
+            ["Horizontale [A]₀/2", "Intersection puis projection", "Temps de demi-réaction T1/2"]]),
+        bloc("À retenir sur la cinétique d'ordre 1", items=[
+            "La courbe [A] = f(t) décroît en exponentielle ; sa pente s'annule progressivement",
+            "T1/2 = 0,693/k est indépendante de [A]₀ : demi-vies successives égales",
+            "ln[A] = f(t) est une droite de pente −k : c'est le test graphique de l'ordre 1",
+            "La vitesse de formation d'un produit s'écrit +d[P]/dt, avec les coefficients stœchiométriques"]),
+        bloc("Lire un graphique, étape par étape", items=[
+            "Identifier la courbe : réactif (décroissante) ou produit (croissante)",
+            "Pour une vitesse instantanée, tracer la tangente au point choisi",
+            "Choisir deux points éloignés de la tangente et calculer |Δ[A]|/Δt",
+            "Pour T1/2, placer [A]₀/2, lire l'abscisse du point de la courbe puis projeter sur l'axe t",
+            "Vérifier la cohérence : k = 0,693/T1/2 doit redonner la pente de ln[A] = f(t)"]),
+        bloc("Pièges fréquents", items=[
+            "Calculer la pente sur la courbe au lieu de la tangente : on obtient une moyenne",
+            "Oublier le signe − dans v = −d[A]/dt pour un réactif",
+            "Lire T1/2 à l'abscisse où la courbe atteint zéro : c'est [A]₀/2 qu'il faut viser",
+            "Mélanger secondes et minutes entre k et le temps lu sur le graphe",
+            "Croire que T1/2 d'ordre 1 change avec la concentration initiale"]),
+        bloc("En chiffres (à savoir refaire)", items=[
+            '<span class="cle">[A]₀ = 0,100 ; [A] = 0,050 à 200 s</span> → T1/2 = 200 s',
+            '<span class="cle">T1/2 = 200 s</span> → k = 0,693/200 = 3,47 × 10⁻³ s⁻¹',
+            '<span class="cle">k = 2,0 × 10⁻³ s⁻¹</span> → T1/2 ≈ 347 s',
+            '<span class="cle">k = 5,0 × 10⁻³ s⁻¹, t = 100 s</span> → [A] = 0,200 × e^(−0,5) ≈ 0,121 mol·L⁻¹',
+            '<span class="cle">Deux demi-vies</span> → [A] = [A]₀/4']),
+    ],
+    [
+        diag("1 · Courbe, tangente et demi-vie", COURBE_T12),
+        diag("2 · Lire T1/2 sur un graphe", svg_etapes("Lecture graphique en 5 gestes", [
+            "Repérer la concentration initiale [A]₀ sur l'axe vertical",
+            "Tracer l'horizontale à la valeur [A]₀/2",
+            "Lire l'abscisse du point d'intersection avec la courbe",
+            "Projeter ce point sur l'axe des temps : c'est T1/2",
+            "En déduire k = 0,693/T1/2 si la réaction est d'ordre 1"])),
+        diag("3 · Moyenne ou instantanée", svg_compare("Deux façons de mesurer une pente",
+            ("Vitesse moyenne", ["Sécante entre deux points", "v_moy = −Δ[A]/Δt", "Dépend de l'intervalle choisi"]),
+            ("Vitesse instantanée", ["Tangente en un point", "v(t) = −d[A]/dt", "Valeur propre à chaque instant"]))),
+    ],
+))
+
+
+# ===========================================================================
+# 10 — Parametres modifiant la vitesse
+# ===========================================================================
+F.append(make(
+    "Contrôle PC · 10 · Paramètres modifiant la vitesse de réaction",
+    "IUPAC Gold Book (rate constant, activation energy, order of reaction) · LibreTexts Physical Chemistry, Arrhenius equation · cours U4 BTS BIOALC, lois de vitesse",
+    [
+        "Une loi de vitesse s'écrit v = k·[A]^α·[B]^β : α et β sont les ordres partiels, α + β l'ordre global. Seule l'expérience permet de les déterminer ; ils ne se déduisent pas des coefficients stœchiométriques (sauf mécanisme élémentaire).",
+        "La constante k dépend de la température, du catalyseur, du solvant et du milieu, mais pas des concentrations. L'unité de k dépend de l'ordre : s⁻¹ (ordre 1), L·mol⁻¹·s⁻¹ (ordre 2), mol·L⁻¹·s⁻¹ (ordre 0).",
+        "Concentration : augmenter [A] accroît le nombre de chocs efficaces par unité de temps, donc la vitesse. Ordre 0 : v = k (indépendante de [A]) ; ordre 1 : v = k·[A] ; ordre 2 : doubler [A] multiplie v par 4.",
+        "Température : à T plus élevée, une fraction plus grande de molécules possède l'énergie nécessaire pour franchir la barrière. Règle approchée de Van't Hoff : un échauffement de 10 °C multiplie souvent la vitesse par 2 à 3.",
+        "Loi d'Arrhenius : k = A·exp(−Ea/(R·T)), avec Ea l'énergie d'activation (J·mol⁻¹), R = 8,314 J·mol⁻¹·K⁻¹ et T en kelvin. Le facteur A traduit la fréquence et l'orientation des chocs.",
+        "Le tracé ln k = f(1/T) est une droite de pente −Ea/R et d'ordonnée à l'origine ln A. Plus Ea est grande, plus la vitesse est sensible à la température.",
+        "Catalyseur : il offre un chemin réactionnel d'énergie d'activation plus faible, donc il augmente k. Il n'est pas consommé, accélère le sens direct et le sens inverse, et ne modifie ni K° ni la composition à l'équilibre : il fait seulement gagner du temps.",
+        "Enzyme : catalyseur biologique protéique, très spécifique (site actif), saturable (Michaelis-Menten) et sensible au pH, à la température et aux inhibiteurs. Un inhibiteur diminue la vitesse enzymatique sans déplacer l'équilibre thermodynamique.",
+        "Surface : dans une réaction hétérogène (solide/gaz ou solide/liquide), broyer ou diviser un solide augmente sa surface de contact donc la vitesse. La surface n'intervient pas dans une réaction homogène en solution.",
+        "Pression : pour un gaz, P = c·R·T ; comprimer augmente la concentration molaire et donc la vitesse si l'ordre global est positif. L'effet est d'autant plus net que le nombre de moles gazeuses diminue au cours de la réaction.",
+        "Solvant et agitation : la polarité et la viscosité du solvant stabilisent plus ou moins l'état de transition et modifient la diffusion ; l'agitation réduit la couche limite autour d'un solide. Un solvant polaire aprotique renforce souvent un nucléophile anionique.",
+        "Autres facteurs : lumière (photochimie, radicaux libres), ultrasons, rayonnements. Méthode d'étude : ne faire varier qu'un paramètre à la fois, mesurer la vitesse initiale v₀, puis tracer les courbes appropriées pour isoler son effet.",
+    ],
+    [
+        qcm("Que modifie un catalyseur lors d'une réaction ?",
+            ["La valeur de K°", "L'énergie d'activation et la constante k", "La composition à l'équilibre", "Le signe de ΔrG°"], 1,
+            "Le catalyseur abaisse Ea et augmente k. Il accélère les deux sens de la réaction : l'équilibre (K°) et sa composition finale restent inchangés."),
+        qcm("Pour la loi v = k·[A]², que se passe-t-il si l'on double [A] ?",
+            ["v est divisée par 2", "v est multipliée par 2", "v est multipliée par 4", "v ne change pas"], 2,
+            "La réaction est d'ordre 2 par rapport à A : v ∝ [A]², donc 2² = 4."),
+        qcm("Quel est l'ordre global de la réaction de loi v = k·[A]²·[B] ?",
+            ["1", "2", "3", "5"], 2,
+            "On additionne les ordres partiels : 2 + 1 = 3. Les exposants sont expérimentaux et ne sont pas necessarily les coefficients de l'équation."),
+        qcm("Quelle est l'unité de k pour une réaction d'ordre 2 ?",
+            ["s⁻¹", "L·mol⁻¹·s⁻¹", "mol·L⁻¹·s⁻¹", "mol·L⁻¹"], 1,
+            "v (mol·L⁻¹·s⁻¹) = k·(mol·L⁻¹)², donc k = L·mol⁻¹·s⁻¹."),
+        qcm("On mesure v = k·[A]·[B] avec k = 2,0 L·mol⁻¹·s⁻¹, [A] = 0,10 et [B] = 0,20 mol·L⁻¹. Que vaut v ?",
+            ["0,0040 mol·L⁻¹·s⁻¹", "0,040 mol·L⁻¹·s⁻¹", "0,40 mol·L⁻¹·s⁻¹", "4,0 mol·L⁻¹·s⁻¹"], 1,
+            "v = 2,0 × 0,10 × 0,20 = 0,040 mol·L⁻¹·s⁻¹.",
+            "Contrôle groupé PC : exploitation d'une loi de vitesse déterminée en TP.",
+            True),
+        qcm("Que représente la pente du graphe ln k = f(1/T) (loi d'Arrhenius) ?",
+            ["−Ea/R", "Ea/R", "ln A", "−k"], 0,
+            "ln k = ln A − (Ea/R)·(1/T) : la droite a pour pente −Ea/R, ce qui permet de mesurer l'énergie d'activation."),
+        qcm("À 20 °C, k = 1,5 × 10⁻³ s⁻¹ pour une réaction d'ordre 1 avec [A] = 0,20 mol·L⁻¹. En appliquant la règle de Van't Hoff (facteur 2 pour +10 °C), que vaut v à 30 °C ?",
+            ["3,0 × 10⁻⁴ mol·L⁻¹·s⁻¹", "6,0 × 10⁻⁴ mol·L⁻¹·s⁻¹", "1,5 × 10⁻³ mol·L⁻¹·s⁻¹", "3,0 × 10⁻³ mol·L⁻¹·s⁻¹"], 1,
+            "k(30 °C) = 2 × 1,5 × 10⁻³ = 3,0 × 10⁻³ s⁻¹, puis v = k·[A] = 3,0 × 10⁻³ × 0,20 = 6,0 × 10⁻⁴ mol·L⁻¹·s⁻¹.",
+            "Étude de la stabilité thermique d'une solution, avec passage de 20 °C à 30 °C.",
+            True),
+        qt("Distinguer l'effet de la température et celui d'un catalyseur sur la constante k, puis dire pourquoi ni l'un ni l'autre ne modifie la composition à l'équilibre d'une réaction réversible_columns.",
+           "La température change k selon la loi d'Arrhenius en augmentant la fraction de molécules franchissant la barrière ; le catalyseur change k en abaissant Ea par un autre chemin réactionnel. Dans les deux cas, k augmente (sauf refroidissement), mais K° reste fixé par la température thermodynamic : le catalyseur accélère également les deux sens et la température modifie K° en déplaignant l'équilibre seulement si la réaction est exo- ou endothermique. Un catalyseur, lui, ne déplace jamais l'équilibre.",
+           "On distingue la cinétique (vitesse d'atteinte de l'équilibre) de la thermodynamique (position de l'équilibre). Attention : la température, elle, peut modifier K°, contrairement au catalyseur."),
+        qt("Déterminer l'ordre α et la constante k sachant que, à T constante, v₀ = 0,0020 mol·L⁻¹·s⁻¹ pour [A] = 0,10 mol·L⁻¹ et v₀ = 0,0080 mol·L⁻¹·s⁻¹ pour [A] = 0,20 mol·L⁻¹.",
+           "Quand [A] double, v₀ est multipliée par 4 : α = 2. Alors k = v₀/[A]² = 0,0020/(0,10)² = 0,20 L·mol⁻¹·s⁻¹ (vérification : 0,0080/(0,20)² = 0,20).",
+           "Comparer les rapports v₂/v₁ = (c₂/c₁)^α : 4 = 2^α donne α = 2, puis isoler k dans la loi de vitesse.",
+           "Exploitation de deux points d'une gamme cinétique lors d'un contrôle groupé.",
+           True),
+    ],
+    [
+        bloc("L'idée en une phrase",
+             texte="La vitesse dépend des concentrations (loi de vitesse) mais aussi de la température, du catalyseur, de la surface, de la pression et du solvant, qui agissent sur k ou sur les chocs."),
+        bloc("La formule à connaître",
+             eq="v = k·[A]^α·[B]^β   ·   k = A·exp(−Ea/(R·T))",
+             leg="α, β : ordres expérimentaux · T en K · R = 8,314 J·mol⁻¹·K⁻¹ · ln k = ln A − (Ea/R)·(1/T)"),
+        bloc("Tableau des paramètres et de leur action", items=[
+            ["Concentration", "Plus de chocs efficaces", "v augmente selon les ordres"],
+            ["Température", "Plus de molécules au-dessus de Ea", "k augmente (Arrhenius) ; K° peut changer"],
+            ["Catalyseur", "Chemin à plus faible Ea", "k augmente ; K° inchangé"],
+            ["Surface (solide)", "Plus de contacts", "v augmente en régime hétérogène"],
+            ["Pression (gaz)", "P = c·R·T : c augmente", "v augmente si ordre global > 0"],
+            ["Solvant", "Polarité, viscosité", "k et mécanisme modifiés"]]),
+        bloc("À retenir sur les facteurs", items=[
+            "k ne dépend pas des concentrations : celles-ci agissent through [A]^α dans la loi",
+            "Un catalyseur accélère les deux sens et ne déplace pas l'équilibre",
+            "Unité de k : s⁻¹ (ordre 1), L·mol⁻¹·s⁻¹ (ordre 2), mol·L⁻¹·s⁻¹ (ordre 0)",
+            "La règle des +10 °C (facteur 2 à 3) n'est qu'une approximation"]),
+        bloc("Déterminer une loi de vitesse, étape par étape", items=[
+            "Fixer T, solvant et catalyseur, puis mesurer la vitesse initiale v₀",
+            "Faire varier une seule concentration à la fois",
+            "Tracer log v₀ = f(log[A]) : la pente donne l'ordre α",
+            "Calculer k à partir d'une expérience : k = v₀/[A]^α·[B]^β",
+            "Vérifier la loi en prédisant la vitesse d'une expérience supplémentaire"]),
+        bloc("Pièges fréquents", items=[
+            "Confondre catalyseur (cinétique) et déplacement d'équilibre (thermodynamique)",
+            "Déduire les ordres des coefficients de l'équation bilan",
+            "Utiliser la température en °C dans la loi d'Arrhenius : elle doit être en K",
+            "Oublier que broyer un solide agit sur la surface, pas sur k intrinsèque",
+            "Croire qu'un gaz inerte à volume constant change la vitesse : les pressions partielles sont inchangées"]),
+        bloc("En chiffres (à savoir refaire)", items=[
+            '<span class="cle">v = k·[A]², [A] : 0,10 → 0,20</span> → v × 4',
+            '<span class="cle">k = 0,020 L·mol⁻¹·s⁻¹, [A] = 0,10</span> → v = 2,0 × 10⁻⁴ mol·L⁻¹·s⁻¹',
+            '<span class="cle">v₀ ×4 quand [A] ×2</span> → ordre α = 2',
+            '<span class="cle">k = 0,20 L·mol⁻¹·s⁻¹</span> → v = 0,0020 pour [A] = 0,10 mol·L⁻¹',
+            '<span class="cle">+10 °C, facteur 2</span> → k : 1,5 → 3,0 × 10⁻³ s⁻¹']),
+    ],
+    [
+        diag("1 · Six facteurs à connaître", svg_grille("Ce qui agit sur la vitesse",
+            ["Paramètre", "Mécanisme", "Effet principal"],
+            [["Concentration", "Chocs efficaces", "v = k·[A]^α"],
+             ["Température", "Fraction active", "k = A·e^(−Ea/RT)"],
+             ["Catalyseur", "Ea plus faible", "k augmente, K° invariant"],
+             ["Surface", "Contact solide", "v augmente si hétérogène"],
+             ["Pression", "c = P/(RT)", "v augmente (gaz)"],
+             ["Solvant", "Polarité, diffusion", "k et mécanisme"]])),
+        diag("2 · Méthode pour déterminer une loi", svg_etapes("De la mesure à la loi de vitesse", [
+            "Mesurer v₀ à température et milieu fixés",
+            "Faire varier un seul réactif à la fois",
+            "Tracer log v₀ = f(log[A]) et lire la pente α",
+            "Calculer k avec une expérience complète",
+            "Vérifier la loi sur une nouvelle expérience"])),
+        diag("3 · Température ou catalyseur", svg_compare("Deux façons d'augmenter k",
+            ("Température", ["Fraction de molécules actives ↑", "Loi d'Arrhenius", "Peut modifier K°"]),
+            ("Catalyseur", ["Ea abaissée", "Sens direct et inverse", "K° toujours inchangé"]))),
+    ],
+))
+
+
+# ===========================================================================
+# 11 — Exprimer K°, calculer avec les activites
+# ===========================================================================
+F.append(make(
+    "Contrôle PC · 11 · Exprimer K°, calculer avec les activités et conclure",
+    "IUPAC Gold Book (activity, standard state, equilibrium constant) · Atkins Physical Chemistry, chemical equilibrium · cours U4 BTS BIOALC, constantes d'équilibre",
+    [
+        "Pour une réaction réversible a·A + b·B ⇌ c·C + d·D, le quotient réactionnel s'écrit Q = (a_C^c·a_D^d)/(a_A^a·a_B^b), où a_i désigne l'activité de l'espèce i. À l'équilibre, et à température donnée, Q = K°.",
+        "L'activité d'un soluté est a_i = γ_i·c_i/c° avec c° = 1 mol·L⁻¹ (concentration standard). γ_i est le coefficient d'activité : γ = 1 en solution idéale ou très diluée ; γ ≠ 1 en solution concentrée ou fortement ionique.",
+        "Pour un gaz, a_i = γ_i·P_i/P° avec P° = 1 bar (ou fugacité aux hautes pressions). Pour un liquide pur, un solide pur et le solvant en excès, a = 1 : ils n'apparaissent donc pas dans l'expression de K°.",
+        "La constante thermodynamique K° = Π a_i^(ν_i) est sans unité, car les activités sont des grandeurs relatives. Son expression ne change pas si l'on multiplie les coefficients de l'équation : la valeur change par contre (K° devient (K°)ⁿ).",
+        "K° ne dépend que de la température (et du choix de l'état standard et du solvant). Elle ne dépend ni des concentrations initiales, ni d'un catalyseur, ni de la pression pour une réaction en solution diluée.",
+        "Relation fondamentale : ΔrG° = −R·T·ln K°, soit K° = exp(−ΔrG°/(R·T)). Si ΔrG° < 0, K° > 1 : les produits sont favorisés à l'équilibre ; si ΔrG° > 0, K° < 1 : les réactifs sont favorisés.",
+        "L'écart à l'équilibre s'écrit ΔrG = ΔrG° + R·T·ln Q = R·T·ln(Q/K°). Le signe de ΔrG donne le sens d'évolution spontanée : Q < K° → sens direct, Q > K° → sens inverse, Q = K° → système à l'équilibre.",
+        "En solution diluée (γ ≈ 1), on utilise l'approximation K° ≈ ([C]/c°)^c·([D]/c°)^d / ([A]/c°)^a·([B]/c°)^b. La constante Kc classique porte une unité si l'on omet de diviser par c° : d'où l'intérêt de K° sans unité.",
+        "Écriture correcte : eau solvant omise (a = 1), solide ou liquide pur omis, gaz écrits en pression réduite P/P°, solutés en concentration réduite c/c°. Les exposants sont les coefficients stœchiométriques de l'équation équilibrée.",
+        "Calcul typique : pour A + B ⇌ C avec c° = 1 mol·L⁻¹, c_A = 0,10, c_B = 0,20, c_C = 0,050 mol·L⁻¹ et γ = 1, Q = 0,050/(0,10 × 0,20) = 2,5. Si K° = 10, alors Q < K° : la réaction évolue dans le sens direct.",
+        "Avec des coefficients d'activité : si γ_C = 0,80 et γ_A = γ_B = 1, Q = (0,80 × 0,050)/(0,10 × 0,20) = 2,0. Ignorer γ peut conduire à une mauvaise conclusion sur le sens d'évolution en milieu ionique concentré.",
+        "Conclusion rédigée : « Q < K°, ΔrG < 0, le système évolue dans le sens direct jusqu'à ce que Q = K° ». On vérifie toujours la cohérence avec la règle de Le Chatelier et l'unité des grandeurs utilisées.",
+    ],
+    [
+        qcm("Quelle est l'unité de la constante thermodynamique K° ?",
+            ["mol·L⁻¹", "sans unité", "L·mol⁻¹", "J·mol⁻¹"], 1,
+            "K° est construite avec des activités, qui sont des rapports sans unité : K° est donc elle aussi sans unité."),
+        qcm("Comment s'écrit l'activité d'un soluté en solution ?",
+            ["a = γ·c/c°", "a = c·c°", "a = γ/c", "a = c/γ"], 0,
+            "a = γ·c/c°, avec c° = 1 mol·L⁻¹ ; γ = 1 en solution diluée idéale."),
+        qcm("Quelle est l'activité d'un solide pur ou d'un liquide pur ?",
+            ["0", "1", "Égale à sa concentration", "Égale à sa masse"], 1,
+            "Un corps pur a une activité égale à 1 : il n'apparaît donc pas dans l'expression de K°."),
+        qcm("Si ΔrG° < 0, que peut-on dire de K° ?",
+            ["K° < 0", "K° < 1", "K° > 1", "K° = 0"], 2,
+            "ΔrG° = −R·T·ln K° : un ΔrG° négatif donne ln K° positif, donc K° > 1 et les produits sont favorisés."),
+        qcm("A + B ⇌ C : c_A = 0,10, c_B = 0,20, c_C = 0,050 mol·L⁻¹ (γ = 1), K° = 10. Que conclure ?",
+            ["Q = 2,5 < K° : sens direct", "Q = 2,5 > K° : sens inverse", "Q = K° : équilibre", "Q = 25 > K° : sens inverse"], 0,
+            "Q = 0,050/(0,10 × 0,20) = 2,5 ; Q < K° = 10, donc ΔrG = R·T·ln(Q/K°) < 0 et le système évolue vers les produits.",
+            "Contrôle groupé PC : calcul du quotient réactionnel à partir des concentrations d'un mélange.",
+            True),
+        qcm("À 298 K, ΔrG° = −5,7 kJ·mol⁻¹. Quelle est la valeur approchée de K° (R = 8,314) ?",
+            ["environ 0,10", "environ 2,3", "environ 10", "environ 100"], 2,
+            "ln K° = 5700/(8,314 × 298) ≈ 2,30, donc K° = e^2,30 ≈ 10.",
+            "Conversion entre énergie libre standard et constante d'équilibre.",
+            True),
+        qcm("Si Q > K°, dans quel sens le système évolue-t-il spontanément ?",
+            ["Sens direct", "Sens inverse", "Il reste à l'équilibre", "Aucune évolution n'est possible"], 1,
+            "ΔrG = R·T·ln(Q/K°) > 0 : le sens direct n'est pas spontané, le système revient en arrière jusqu'à Q = K°."),
+        qt("Écrire l'expression de K° pour a·A + b·B ⇌ c·C + d·D avec des activités, et expliquer pourquoi l'eau solvant n'y figure pas quand la réaction a lieu en solution aqueuse.",
+           "K° = (a_C^c·a_D^d)/(a_A^a·a_B^b) = ([C]/c°)^c·([D]/c°)^d·γ_C^c·γ_D^d / ([A]/c°)^a·([B]/c°)^b·γ_A^a·γ_B^b. L'eau est le solvant : sa concentration varie très peu et son activité est conventionnellement égale à 1, donc sa présence dans le quotient ne changerait rien. Seules les espèces dont l'activité varie apparaissent dans K°.",
+           "On écrit le produit des activités des produits divisé par celui des réactifs, avec les coefficients comme exposants ; on rappelle que a(solvant pur) = 1."),
+        qt("A + B ⇌ C : c_A = 0,20, c_B = 0,10, c_C = 0,040 mol·L⁻¹, γ_C = 0,50, γ_A = γ_B = 1, K° = 2,0. Calculer Q et conclure.",
+           "Q = (γ_C·c_C/c°)/((γ_A·c_A/c°)·(γ_B·c_B/c°)) = (0,50 × 0,040)/(0,20 × 0,10) = 0,020/0,020 = 1,0. Comme Q = 1,0 < K° = 2,0, ΔrG < 0 : la réaction évolue dans le sens direct (formation de C) jusqu'à Q = 2,0.",
+           "On insère les coefficients d'activité dans le quotient avant de comparer à K° ; sans γ_C, on aurait trouvé Q = 2,0 et conclu à tort à l'équilibre.",
+           "Milieu ionique concentré d'un dosage : le coefficient d'activité du produit vaut 0,50.",
+           True),
+    ],
+    [
+        bloc("L'idée en une phrase",
+             texte="K° est le quotient des activités à l'équilibre : on calcule Q avec les concentrations corrigées par γ, puis on compare Q et K° pour dire dans quel sens la réaction va."),
+        bloc("La formule à connaître",
+             eq="K° = Π a_i^(ν_i)   ·   a_i = γ_i·c_i/c°   ·   ΔrG = R·T·ln(Q/K°)",
+             leg="c° = 1 mol·L⁻¹ · P° = 1 bar pour un gaz · K° sans unité · ΔrG° = −R·T·ln K°"),
+        bloc("Tableau des grandeurs à manipuler", items=[
+            ["a_i", "Activité sans unité", "γ·c/c° (soluté) ou P/P° (gaz)"],
+            ["Q", "Quotient réactionnel", "Même expression que K°, à un instant t"],
+            ["K°", "Constante d'équilibre", "Valeur de Q à l'équilibre, dépend de T"],
+            ["ΔrG", "Écart à l'équilibre", "R·T·ln(Q/K°), négatif = sens direct"]]),
+        bloc("À retenir pour écrire K°", items=[
+            "Les activités des corps purs et du solvant valent 1 : ils disparaissent de K°",
+            "Les exposants sont les coefficients de l'équation équilibrée",
+            "K° est sans unité ; Kc avec des concentrations brutes porte une unité",
+            "Un catalyseur ne change ni K° ni la composition à l'équilibre"]),
+        bloc("Calculer et conclure, étape par étape", items=[
+            "Écrire l'expression de Q à partir de l'équation équilibrée",
+            "Remplacer chaque activité par γ_i·c_i/c° ou γ_i·P_i/P°",
+            "Calculer Q et le comparer à K° à la même température",
+            "Déduire le signe de ΔrG = R·T·ln(Q/K°)",
+            "Rédiger : sens direct si Q < K°, sens inverse si Q > K°, équilibre si Q = K°"]),
+        bloc("Pièges fréquents", items=[
+            "Oublier de diviser par c° : K° doit rester sans unité",
+            "Faire apparaître l'eau ou un solide pur dans l'expression de K°",
+            "Ignorer γ en solution concentrée : la conclusion peut s'inverser",
+            "Comparer Q et K° calculés à des températures différentes",
+            "Déduire le sens d'évolution de la seule valeur de K° sans calculer Q"]),
+        bloc("En chiffres (à savoir refaire)", items=[
+            '<span class="cle">Q = 0,050/(0,10 × 0,20)</span> = 2,5 ; K° = 10 → sens direct',
+            '<span class="cle">γ_C = 0,80</span> → Q = 2,0 au lieu de 2,5',
+            '<span class="cle">ΔrG° = −5,7 kJ·mol⁻¹, T = 298 K</span> → K° ≈ 10',
+            '<span class="cle">Q = 1,0, K° = 2,0</span> → ΔrG < 0 → formation de C',
+            '<span class="cle">Q = K°</span> → système à l\'équilibre']),
+    ],
+    [
+        diag("1 · Écrire K° avec des activités", svg_grille("Quelle activité pour chaque espèce ?",
+            ["Espèce", "Activité", "Dans K°"],
+            [["Soluté", "γ·c/c°", "γ·c/c° à la puissance ν"],
+             ["Gaz", "γ·P/P°", "P/P° (fugacité si P élevée)"],
+             ["Solide pur", "1", "Absent"],
+             ["Solvant (eau)", "≈ 1", "Absent"]])),
+        diag("2 · De Q à la conclusion", svg_etapes("Raisonner avec le quotient réactionnel", [
+            "Écrire Q comme le produit des a_i^(ν_i) des produits sur ceux des réactifs",
+            "Calculer Q avec les concentrations et les coefficients γ",
+            "Comparer Q à K° à la même température",
+            "En déduire le signe de ΔrG = R·T·ln(Q/K°)",
+            "Conclure par une phrase : sens direct, inverse ou équilibre"])),
+        diag("3 · Comparer Q et K°", svg_compare("Trois cas possibles",
+            ("Q < K°", ["ΔrG < 0", "Sens direct", "Produits se forment"]),
+            ("Q > K°", ["ΔrG > 0", "Sens inverse", "Réactifs se reforment"]))),
+    ],
+))
+
+
+# ===========================================================================
+# 12 — Favoriser le sens direct ou indirect
+# ===========================================================================
+F.append(make(
+    "Contrôle PC · 12 · Favoriser le sens direct ou indirect (Le Chatelier)",
+    "IUPAC Gold Book (Le Chatelier principle, equilibrium displacement) · van't Hoff equation · cours U4 BTS BIOALC, déplacement d'équilibre",
+    [
+        "Le principe de Le Chatelier : un système à l'équilibre soumis à une perturbation évolue dans le sens qui s'oppose en partie à cette perturbation, jusqu'à un nouvel état d'équilibre. Si la température ne change pas, K° garde la même valeur.",
+        "Ajouter un réactif augmente le dénominateur de Q : Q devient inférieur à K°, donc la réaction va dans le sens direct et consomme une partie du réactif ajouté. Retirer un réactif donne Q > K° et un retour en arrière.",
+        "Ajouter un produit augmente le numérateur de Q : Q > K°, sens inverse. Retirer un produit (précipitation, extraction, évaporation, piégeage) diminue Q : Q < K°, sens direct. C'est le principe des synthèses déplacées par excès de réactif ou élimination de produit.",
+        "Compression d'un mélange gazeux : tous les termes sont multipliés par le même facteur. Si Δν = (c + d) − (a + b) < 0 (moins de moles gazeuses à droite), Q diminue et le sens direct est favorisé ; si Δν > 0, c'est le sens inverse.",
+        "Ajouter un gaz inerte à volume constant ne change pas les pressions partielles des réactifs : aucun déplacement. À pression totale constante, le volume augmente, les pressions partielles baissent et l'équilibre se déplace vers le plus grand nombre de moles gazeuses.",
+        "Température : K° dépend de T. Pour une réaction endothermique (ΔrH° > 0), augmenter T augmente K° et favorise le sens direct ; pour une réaction exothermique (ΔrH° < 0), augmenter T diminue K° et favorise le sens inverse. Refroidir produit l'effet contraire.",
+        "L'équation de van't Hoff ln(K₂/K₁) = −(ΔrH°/R)·(1/T₂ − 1/T₁) quantifie ce déplacement : le signe de ΔrH° détermine si K° croît ou décroît avec T.",
+        "Un catalyseur abaisse l'énergie d'activation mais n'a aucun effet sur Q ni sur K° : il accélère également les deux sens et permet d'atteindre plus vite le même équilibre. Ce n'est donc pas un moyen de favoriser un sens.",
+        "Diluer une solution diminue toutes les concentrations ; il faut réécrire Q avec les nouvelles valeurs et le comparer à K°. Le sens dépend de Δν pour une réaction en solution (par exemple l'hydrolyse d'un ester est favorisée par un grand excès d'eau).",
+        "La pression n'influe pratiquement pas sur un équilibre en solution diluée (volumes peu compressibles) : son effet est réservé aux équilibres gazeux.",
+        "Méthode infaillible : écrire Q après la perturbation, le comparer à K° à la même température, en déduire le sens d'évolution, puis vérifier que ce sens s'oppose bien à la perturbation (cohérence avec Le Chatelier).",
+        "Exemple industriel : synthèse de l'ammoniac N₂ + 3 H₂ ⇌ 2 NH₃ (exothermique, Δν = −2). Haute pression et température modérée favorisent le rendement, mais un compromis cinétique impose une température suffisante et un catalyseur.",
+    ],
+    [
+        qcm("Que dit le principe de Le Chatelier ?",
+            ["Un système évolue pour s'opposer en partie à la perturbation subie",
+             "Un système minimize toujours sa température",
+             "K° augmente dès qu'on ajoute un réactif",
+             "Un catalyseur déplace l'équilibre"], 0,
+            "Le système se rééquilibre en consommant une partie de ce qui a été ajouté ou en compensant ce qui a été retiré ; K° reste constante si T est inchangée."),
+        qcm("Dans A + B ⇌ C, qu'arrive-t-il quand on ajoute du A à l'équilibre ?",
+            ["Q augmente, sens inverse", "Q diminue, sens direct", "Q = K° : rien ne change", "K° augmente"], 1,
+            "A est au dénominateur de Q : l'ajouter diminue Q, donc Q < K° et le système consomme A (sens direct)."),
+        qcm("Quel geste favorise la formation de C dans A ⇌ C ?",
+            ["Ajouter C", "Retirer C au fur et à mesure", "Ajouter un catalyseur", "Doubler le volume d'un gaz inerte à V constant"], 1,
+            "Retirer C diminue Q : Q < K°, donc la réaction produit à nouveau C. L'élimination d'un produit déplace l'équilibre vers sa formation."),
+        qcm("Une réaction est exothermique. Que se passe-t-il si l'on augmente T ?",
+            ["K° augmente, sens direct favorisé", "K° diminue, sens inverse favorisé",
+             "K° ne change pas", "La réaction s'arrête"], 1,
+            "Pour ΔrH° < 0, la chaleur est un produit : élever T favorise la consommation de chaleur, donc le sens inverse ; K° diminue."),
+        qcm("Pour un équilibre gazeux avec Δν < 0, que provoque une compression ?",
+            ["Favorisation du sens inverse", "Favorisation du sens direct (moins de moles gazeuses)",
+             "Aucun déplacement", "Augmentation de K°"], 1,
+            "Comprimer multiplie toutes les pressions partielles ; Q évolue comme (facteur)^Δν. Si Δν < 0, Q diminue : sens direct, vers moins de moles."),
+        qcm("Quel est l'effet d'un catalyseur sur un système à l'équilibre ?",
+            ["Il déplace l'équilibre vers les produits", "Il augmente K°",
+             "Il n'accélère que le sens direct", "Il accélère les deux sens sans changer la composition"], 3,
+            "Le catalyseur agit sur la cinétique (Ea plus faible) et non sur la thermodynamique : Q, K° et la composition à l'équilibre restent identiques."),
+        qcm("A ⇌ B, K° = 4,0 ; [A] = 0,10 et [B] = 0,20 mol·L⁻¹. On ajoute A jusqu'à [A] = 0,30. Que conclure ?",
+            ["Q = 0,67 < 4 : sens direct", "Q = 1,5 < 4 : sens direct", "Q = 6,0 > 4 : sens inverse", "Q = 4 : équilibre"], 0,
+            "Après ajout, Q = [B]/[A] = 0,20/0,30 ≈ 0,67. Comme Q < K° = 4,0, le système évolue dans le sens direct et consomme une partie du A ajouté.",
+            "Contrôle groupé PC : comparaison quotient/constante après une perturbation de concentration.",
+            True),
+        qt("Expliquer pourquoi une augmentation de température déplace vers les produits un équilibre endothermique mais vers les réactifs un équilibre exothermique.",
+           "Pour une réaction endothermique (ΔrH° > 0), la chaleur est un réactif : l'ajouter (élever T) déplace l'équilibre dans le sens direct ; l'équation de van't Hoff donne alors ln(K₂/K₁) > 0, donc K° augmente. Pour une réaction exothermique (ΔrH° < 0), la chaleur est un produit : l'ajouter déplace l'équilibre en sens inverse et K° diminue. Dans les deux cas, le système s'oppose à la perturbation thermique.",
+           "On relie le signe de ΔrH°, la variation de K° (van't Hoff) et l'énoncé de Le Chatelier ; le catalyseur, lui, ne change jamais K°."),
+        qt("N₂ + 3 H₂ ⇌ 2 NH₃ a pour K° = 14,8. À un instant donné, [N₂] = 0,10, [H₂] = 0,30, [NH₃] = 0,20 mol·L⁻¹. Le volume est brutalement divisé par deux. Calculer Q avant et après compression et en déduire le sens d'évolution.",
+           "Avant : Q = [NH₃]²/([N₂]·[H₂]³) = 0,20²/(0,10 × 0,30³) = 0,04/0,0027 ≈ 14,8 = K° (équilibre). Après division du volume par 2, toutes les concentrations doublent : Q′ = 0,40²/(0,20 × 0,60³) = 0,16/0,0432 ≈ 3,7. Q′ < K° : le système évolue dans le sens direct, vers la formation d'ammoniac (Δν = 2 − 4 = −2, la compression favorise le côté qui a le moins de moles gazeuses).",
+           "On calcule le quotient avec les concentrations après compression ; multiplier toutes les concentrations par 2 multiplie Q par 2^Δν = 2^(−2) = 1/4, d'où 14,8/4 ≈ 3,7. Le sens trouvé est cohérent avec Le Chatelier.",
+           "Synthèse industrielle de l'ammoniac : choix de la pression pour améliorer le rendement.",
+           True),
+    ],
+    [
+        bloc("L'idée en une phrase",
+             texte="Après une perturbation, on recalcule Q, on le compare à K° (inchangée si T est fixée) et le système évolue pour ramener Q vers K°."),
+        bloc("La formule à connaître",
+             eq="Q < K° → sens direct   ·   Q > K° → sens inverse   ·   ΔrG = R·T·ln(Q/K°)",
+             leg="ln(K₂/K₁) = −(ΔrH°/R)·(1/T₂ − 1/T₁) : K° augmente avec T si la réaction est endothermique"),
+        bloc("Tableau des perturbations", items=[
+            ["Ajouter un réactif", "Q diminue", "Sens direct"],
+            ["Ajouter un produit", "Q augmente", "Sens inverse"],
+            ["Retirer un produit", "Q diminue", "Sens direct"],
+            ["Compression, Δν < 0", "Q diminue", "Sens direct"],
+            ["T ↑, réaction exothermique", "K° diminue", "Sens inverse"],
+            ["Catalyseur", "Q et K° inchangés", "Aucun déplacement"]]),
+        bloc("À retenir sur les déplacements", items=[
+            "Le Chatelier : le système s'oppose en partie à la perturbation, il ne l'annule pas totalement",
+            "Seule la température change la valeur de K° ; concentrations et pression changent Q",
+            "Un catalyseur ne déplace jamais un équilibre",
+            "Gaz inerte à V constant : pressions partielles inchangées, donc aucun effet"]),
+        bloc("Raisonner, étape par étape", items=[
+            "Écrire l'expression de Q pour l'équation équilibrée",
+            "Appliquer la perturbation et recalculer Q (ou K° si T change)",
+            "Comparer Q et K° à la même température",
+            "En déduire le sens d'évolution et nommer l'espèce consommée ou produite",
+            "Vérifier la cohérence avec l'énoncé qualitatif de Le Chatelier"]),
+        bloc("Pièges fréquents", items=[
+            "Dire que K° augmente quand on ajoute un réactif : seule T modifie K°",
+            "Croire que le catalyseur favorise le sens direct",
+            "Oublier de comparer Q et K° après dilution ou compression",
+            "Inverser l'effet de la température pour une réaction exothermique",
+            "Compter les moles de toutes les espèces, y compris les solides et liquides, pour Δν"]),
+        bloc("En chiffres (à savoir refaire)", items=[
+            '<span class="cle">A ⇌ B, K° = 4, [A] = 0,30, [B] = 0,20</span> → Q = 0,67 → direct',
+            '<span class="cle">Q = [NH₃]²/([N₂][H₂]³)</span> → 0,04/0,0027 ≈ 14,8',
+            '<span class="cle">Volume ÷2, Δν = −2</span> → Q divisé par 4 → 3,7 → direct',
+            '<span class="cle">Réaction exothermique + T ↑</span> → K° ↓ → sens inverse',
+            '<span class="cle">Excès de réactif</span> → Q ↓ → rendement augmenté']),
+    ],
+    [
+        diag("1 · Perturbation et sens d'évolution", svg_grille("Les cas les plus fréquents",
+            ["Perturbation", "Effet sur Q ou K°", "Sens favorisé"],
+            [["Ajouter A", "Q ↓", "Direct"],
+             ["Ajouter C", "Q ↑", "Inverse"],
+             ["Retirer C", "Q ↓", "Direct"],
+             ["Compression, Δν < 0", "Q ↓", "Direct"],
+             ["T ↑ (exothermique)", "K° ↓", "Inverse"],
+             ["Catalyseur", "Aucun", "Aucun"]])),
+        diag("2 · Température : exothermique / endothermique", svg_compare("Effet de la chaleur sur K°",
+            ("Exothermique ΔH° < 0", ["Chaleur = produit", "T ↑ → K° ↓", "Sens inverse favorisé"]),
+            ("Endothermique ΔH° > 0", ["Chaleur = réactif", "T ↑ → K° ↑", "Sens direct favorisé"]))),
+        diag("3 · Méthode de raisonnement", svg_etapes("Du trouble à la nouvelle équilibre", [
+            "Repérer la perturbation subie par le système",
+            "Recalculer Q avec les nouvelles concentrations ou pressions",
+            "Comparer Q à K° à la même température",
+            "Conclure sur le sens d'évolution",
+            "Vérifier avec le principe de Le Chatelier"])),
+    ],
+))
+
+
+# ===========================================================================
+# 13 — Nucleophile / electrophile
+# ===========================================================================
+F.append(make(
+    "Contrôle PC · 13 · Nucléophile / électrophile : sites réactifs et mécanismes",
+    "IUPAC Gold Book (nucleophile, electrophile, SN1, SN2, addition) · LibreTexts Organic Chemistry, nucleophilic substitution and carbonyl addition · cours U4 BTS BIOALC",
+    [
+        "Un nucléophile (Nu) est une espèce riche en électrons : ion négatif ou molécule possédant un doublet libre. Il donne une paire d'électrons à un centre pauvre en électrons : c'est une base de Lewis.",
+        "Un électrophile (E) est une espèce pauvre en électrons, capable d'accepter une paire d'électrons : c'est un acide de Lewis. Exemples : H⁺, NO₂⁺, carbocation R⁺, atome de carbone d'un carbonyle Cδ+, carbone d'un halogénoalcane R−X.",
+        "Nucléophiles courants : OH⁻, RO⁻, CN⁻, NH₃, amines R−NH₂, H₂O, ROH, halogénures I⁻ ou Br⁻, énolate. Les espèces anioniques sont généralement plus nucléophiles que leurs analogues neutres.",
+        "Le sens des réactions se dessine avec des flèches courbes : une flèche part du doublet du nucléophile vers l'électrophile (formation de liaison), une seconde flèche part d'une liaison ou d'un doublet vers l'atome qui s'en va (rupture de liaison). Les flèches représentent toujours le mouvement des électrons.",
+        "Substitution nucléophile : R−X + Nu⁻ → R−Nu + X⁻. Le nucléophile remplace le groupe partant X sur un carbone saturé. La cinétique et la stéréochimie permettent de distinguer SN2 et SN1.",
+        "SN2 : mécanisme concerté en une étape, v = k·[R−X]·[Nu⁻], attaque par le côté opposé au groupe partant, donc inversion de configuration (inversion de Walden). Favorisée sur un carbone primaire et avec un bon groupe partant.",
+        "SN1 : mécanisme en deux étapes avec intermédiaire carbocation plan, v = k·[R−X] (indépendant du nucléophile), formation majoritairement d'un mélange racémique. Favorisé sur un carbone tertiaire et en solvant polaire protique.",
+        "Addition nucléophile sur un carbonyle : le nucléophile attaque le carbone électrophile Cδ+, la double liaison C=O s'ouvre vers l'oxygène (alcoolate), puis une protonation donne un alcool. Aldéhydes et cétones réagissent ainsi.",
+        "Addition-élimination sur les dérivés carboxyliques (ester, chlorure d'acyle, amide) : le nucléophile attaque le carbonyle, puis le groupe partant (RO⁻, Cl⁻, NH₂⁻) est éliminé. C'est le mécanisme de l'estérification, de l'hydrolyse d'ester et de la formation de liaison peptide.",
+        "Un bon groupe partant est une base faible, stable après départ : I⁻, Br⁻, tosylate OTs⁻. Le groupement −OH est un mauvais groupe partant ; en milieu acide il est protoné en −OH₂⁺, puis part sous forme de H₂O.",
+        "La nucléophilie dépend de la charge, de la polarisabilité, de l'encombrement et du solvant : un solvant polaire aprotique (DMSO, DMF, acétonitrile) ne solvate pas fortement les anions et renforce leur nucléophilie ; un solvant protique les affaiblit par solvatation.",
+        "En BIOALC : hydrolyse d'esters et de peptides, alkylation de bases de l'ADN, réactions des groupements −OH (sérine), −NH₂ (lysine) et imidazole (histidine) dans les sites actifs enzymatiques. Repérer le site électrophile permet de prévoir le produit majeur.",
+    ],
+    [
+        qcm("Qu'est-ce qu'un nucléophile ?",
+            ["Une espèce pauvre en électrons", "Une espèce riche en électrons donneur d'une paire",
+             "Un catalyseur acide", "Un groupe partant"], 1,
+            "Le nucléophile possède un doublet libre ou une charge négative : il est donneur de paire d'électrons (base de Lewis) et attaque un centre électrophile."),
+        qcm("Lequel des ensembles suivants contient uniquement des électrophiles ?",
+            ["OH⁻, CN⁻, NH₃", "H⁺, NO₂⁺, R⁺, Cδ+ du carbonyle", "H₂O, ROH, I⁻", "Cl⁻, Br⁻, OTs⁻"], 1,
+            "H⁺, NO₂⁺, les carbocations et le carbone polarisé d'un C=O sont déficients en électrons : ce sont des acides de Lewis (électrophiles)."),
+        qcm("Dans un groupement carbonyle C=O, quelle est la partie électrophile ?",
+            ["L'oxygène δ−", "Le carbone δ+", "Les deux atomes également", "Aucune des deux"], 1,
+            "L'oxygène plus électronégatif attire le doublet π : le carbone devient δ+ et reçoit l'attaque du nucléophile."),
+        qcm("Quelle est la signature stéréochimique d'une substitution SN2 ?",
+            ["Racémisation", "Inversion de configuration", "Rétention complète", "Aucune modification"], 1,
+            "L'attaque se fait du côté opposé au groupe partant (attaque de Walden) : la configuration du carbone est inversée en une seule étape concertée."),
+        qcm("Quel est un bon groupe partant en substitution nucléophile ?",
+            ["OH⁻", "NH₂⁻", "I⁻ ou OTs⁻", "CH₃⁻"], 2,
+            "Un bon groupe partant est une base faible et stable : I⁻, Br⁻, tosylate. OH⁻ et NH₂⁻ sont de mauvais groupes partants."),
+        qcm("Quel solvant renforce la nucléophilie d'un anion comme CN⁻ ?",
+            ["Eau", "Éthanol", "DMSO ou DMF (polaire aprotique)", "Acide acétique"], 2,
+            "Un solvant polaire aprotique ne forme pas de liaisons hydrogène avec l'anion : celui-ci reste « nu » et plus réactif que dans un solvant protique."),
+        qcm("SN2 : k = 0,050 L·mol⁻¹·s⁻¹, [R−X] = 0,10 et [Nu⁻] = 0,20 mol·L⁻¹. Que vaut la vitesse ?",
+            ["1,0 × 10⁻³ mol·L⁻¹·s⁻¹", "2,0 × 10⁻³ mol·L⁻¹·s⁻¹", "5,0 × 10⁻³ mol·L⁻¹·s⁻¹", "0,010 mol·L⁻¹·s⁻¹"], 0,
+            "v = k·[R−X]·[Nu⁻] = 0,050 × 0,10 × 0,20 = 1,0 × 10⁻³ mol·L⁻¹·s⁻¹.",
+            "Cinétique d'une substitution nucléophile suivie lors d'un contrôle groupé.",
+            True),
+        qt("Décrire, avec les flèches électroniques, l'addition d'un nucléophile Nu⁻ sur un aldéhyde R−CHO puis la protonation finale. Nommer le produit obtenu.",
+           "La flèche part du doublet de Nu⁻ vers le carbone δ+ du carbonyle ; en même temps la flèche de la liaison π C=O va vers l'oxygène, donnant un alcoolate R−CH(O⁻)−Nu. Une protonation (par H₂O ou H₃O⁺) sur l'oxygène donne l'alcool R−CH(OH)−Nu. Le produit est un.adduit d'addition nucléophile, sous forme d'hémiacétal si Nu = OR.",
+           "On respecte le sens des flèches (du donneur vers l'accepteur), on ouvre la double liaison vers l'oxygène, puis on protonne l'alcoolate."),
+        qt("Une substitution sur un halogénoalcane a une cinétique v = k·[R−X] avec k = 2,0 × 10⁻³ s⁻¹ et [R−X] = 0,15 mol·L⁻¹. Calculer v, identifier le mécanisme et indiquer la stéréochimie attendue.",
+           "v = k·[R−X] = 2,0 × 10⁻³ × 0,15 = 3,0 × 10⁻⁴ mol·L⁻¹·s⁻¹. La vitesse est indépendante du nucléophile : il s'agit d'un mécanisme SN1 avec intermédiaire carbocation plans. L'attaque du nucléophile pouvant avoir lieu des deux côtés du carbocation, on observe une racémisation partielle ou complète.",
+           "L'ordre 1 en substrat et l'ordre 0 en nucléophile caractérisent SN1 ; la géométrie plane du carbocation explique la racémisation, à opposer à l'inversion du SN2.",
+           "Étude d'un mécanisme de substitution en milieu polaire protique.",
+           True),
+    ],
+    [
+        bloc("L'idée en une phrase",
+             texte="Un nucléophile riche en électrons attaque un électrophile pauvre en électrons : les flèches courbes racontent le mouvement de la paire d'électrons qui crée la nouvelle liaison."),
+        bloc("La formule à connaître",
+             eq="Nu⁻ + R−X → R−Nu + X⁻   ·   v(SN2) = k·[R−X]·[Nu⁻]   ·   v(SN1) = k·[R−X]",
+             leg="flèche du doublet du Nu vers le C électrophile · flèche de la liaison rompue vers le groupe partant"),
+        bloc("Tableau des espèces et des mécanismes", items=[
+            ["Nucléophile", "OH⁻, CN⁻, NH₃, H₂O, I⁻", "Donneur de paire (base de Lewis)"],
+            ["Électrophile", "H⁺, R⁺, C=O δ+, R−X", "Accepteur de paire (acide de Lewis)"],
+            ["SN2", "Concerté, substrat primaire", "Inversion, v = k·[RX]·[Nu]"],
+            ["SN1", "Carbocation, substrat tertiaire", "Racémisation, v = k·[RX]"],
+            ["Addition C=O", "Aldéhyde, cétone", "Alcoolate puis alcool"]]),
+        bloc("À retenir sur les sites réactifs", items=[
+            "Lire les charges partielles δ+ et δ− pour repérer qui attaque qui",
+            "Un nitrogène ou un oxygène avec doublet libre est souvent nucléophile",
+            "Un bon groupe partant est une base faible (I⁻, Br⁻, OTs⁻)",
+            "Un solvant polaire aprotique renforce un nucléophile anionique"]),
+        bloc("Dessiner un mécanisme, étape par étape", items=[
+            "Repérer le site électrophile (carbone δ+ ou charge +) et le nucléophile",
+            "Tracer la flèche du doublet du nucléophile vers ce carbone",
+            "Tracer la flèche de départ du groupe partant ou de la liaison π vers l'atome qui la reçoit",
+            "Équilibrer les charges et ajouter la protonation si nécessaire",
+            "Nommer le type de réaction : substitution, addition ou addition-élimination"]),
+        bloc("Pièges fréquents", items=[
+            "Faire partir une flèche d'un atome électrophile vers le nucléophile : les flèches suivent les électrons",
+            "Oublier la seconde flèche de rupture de liaison (carbone à 5 liaisons)",
+            "Confondre basicité et nucléophilie : liées mais distinctes",
+            "Croire que OH⁻ est un bon groupe partant : il faut le protoner en H₂O",
+            "Attribuer une racémisation à un mécanisme SN2 : c'est l'inversion qui est attendue"]),
+        bloc("En chiffres et en exemples (à savoir refaire)", items=[
+            '<span class="cle">v = 0,050 × 0,10 × 0,20</span> = 1,0 × 10⁻³ mol·L⁻¹·s⁻¹ (SN2)',
+            '<span class="cle">v = 0,0020 × 0,15</span> = 3,0 × 10⁻⁴ mol·L⁻¹·s⁻¹ (SN1)',
+            '<span class="cle">CH₃Br + OH⁻</span> → CH₃OH + Br⁻ (SN2)',
+            '<span class="cle">R−CHO + Nu⁻</span> → R−CH(O⁻)−Nu → R−CH(OH)−Nu',
+            '<span class="cle">R−COOR′ + H₂O</span> → R−COOH + R′OH (addition-élimination)']),
+    ],
+    [
+        diag("1 · Nucléophile contre électrophile", svg_compare("Deux partenaires complémentaires",
+            ("Nucléophile", ["Riche en électrons", "Doublet libre ou charge −", "OH⁻, CN⁻, NH₃, H₂O"]),
+            ("Électrophile", ["Pauvre en électrons", "Cδ+ ou charge +", "H⁺, R⁺, C=O, R−X"]))),
+        diag("2 · Trois mécanismes à distinguer", svg_grille("Substitution et addition",
+            ["Mécanisme", "Cinétique", "Stéréochimie / produit"],
+            [["SN2", "k[RX][Nu]", "Inversion de Walden"],
+             ["SN1", "k[RX]", "Carbocation, racémisation"],
+             ["Addition C=O", "Nu attaque Cδ+", "Alcoolate puis alcool"],
+             ["Addition-élimination", "Ester, acyl chloride", "Remplacement du groupe partant"]])),
+        diag("3 · Dessiner les flèches", svg_etapes("Les 5 gestes du mécanisme", [
+            "Repérer le nucléophile et le centre électrophile",
+            "Flèche du doublet du Nu vers l'électrophile",
+            "Flèche de la liaison π ou C−X vers l'atome de départ",
+            "Vérifier les charges et les octets",
+            "Ajouter la protonation puis nommer le produit"])),
+    ],
+))
+
+
+# ===========================================================================
+# 14 — Deux couples, deux pKa
+# ===========================================================================
+F.append(make(
+    "Contrôle PC · 14 · Deux couples, deux pKa : pourquoi la réaction fonctionne ?",
+    "IUPAC Gold Book (Brønsted acid, conjugate pair, pKa) · Henderson-Hasselbalch equation · cours U4 BTS BIOALC, équilibres acido-basiques",
+    [
+        "Un couple acide-base de Brønsted est formé d'un acide AH (donneur de proton) et de sa base conjuguée A⁻ (accepteur de proton) : AH ⇌ A⁻ + H⁺. Le transfert de proton est toujours réversible.",
+        "Plus un acide est fort, plus sa base conjuguée est faible, et inversement. Un pKa faible caractérise un acide fort (HCl : pKa ≈ −7) ; un pKa élevé caractérise un acide faible dont la base conjuguée est forte (NH₃ conjugate de NH4⁺, pKa ≈ 9,25).",
+        "Ka est la constante d'acidité : Ka = [H₃O⁺][A⁻]/[AH] dans l'eau à 25 °C, et pKa = −log Ka. Le couple H₃O⁺/H₂O a pKa = 0 ; le couple H₂O/OH⁻ a pKa = 14 dans la convention aqueuse usuelle.",
+        "Le diagramme de prédominance d'un couple se lit par comparaison du pH et du pKa : pH < pKa → AH prédomine ; pH > pKa → A⁻ prédomine ; pH = pKa → [AH] = [A⁻].",
+        "La relation de Henderson-Hasselbalch pH = pKa + log([A⁻]/[AH]) quantifye ce diagramme : un rapport de 10 donne pH = pKa + 1, un rapport de 0,1 donne pH = pKa − 1. La zone tampon efficace s'étend environ sur pKa ± 1.",
+        "Considérons deux couples AH/A⁻ et BH⁺/B. La réaction de transfert est AH + B ⇌ A⁻ + BH⁺ : l'acide du premier couple cède son proton à la base du second.",
+        "Le sens favorable est celui qui forme l'acide le plus faible et la base la plus faible : le proton va du couple au pKa le plus faible (acide le plus fort) vers le couple au pKa le plus élevé (base conjuguée la plus forte).",
+        "La constante d'équilibre du transfert se calcule par log K ≈ pKa(BH⁺) − pKa(AH) = ΔpKa. Si ΔpKa > 0, K > 1 et le sens direct est favorisé ; si ΔpKa < 0, la réaction est très peu avancée.",
+        "Exemple favorable : CH₃COOH (pKa = 4,76) + NH₃ (NH4⁺/NH₃, pKa = 9,25) → CH₃COO⁻ + NH4⁺. ΔpKa = 9,25 − 4,76 = 4,49, donc K ≈ 10^4,49 ≈ 3 × 10⁴ : la réaction est quasi totale.",
+        "Exemple défavorable : CH₃COOH + Cl⁻ → CH₃COO⁻ + HCl (pKa = −7). ΔpKa = −7 − 4,76 = −11,76, K ≈ 10⁻¹¹·⁷⁶ : le chlorure ne peut pas déprotoner l'acide acétique.",
+        "Couples utiles en BIOALC : H₂CO₃/HCO3⁻ pKa₁ = 6,35 ; H₂PO4⁻/HPO4²⁻ pKa₂ = 7,21 ; NH4⁺/NH₃ 9,25 ; acide lactique/lactate 3,86 ; acides aminés COOH ≈ 2 et NH3⁺ ≈ 9‑10.",
+        "Applications : choix d'un tampon dont le pKa est proche du pH visé, interprétation d'un pH isélectrique, extraction acide-base d'un principe actif, dosage acido-basique et suivi du pH sanguin (tampon bicarbonate/carbonique).",
+    ],
+    [
+        qcm("Qu'est-ce que la base conjuguée d'un acide AH ?",
+            ["L'espèce A⁻ qui a perdu un proton", "L'espèce AH₂⁺", "Un solvant", "Une espèce sans doublet libre"], 0,
+            "Dans le couple AH/A⁻, la base conjuguée A⁻ est ce qui reste après le départ d'un proton H⁺."),
+        qcm("Quelle affirmation est correcte ?",
+            ["Un pKa élevé = acide fort", "Un pKa faible = acide fort", "pKa = pH d'une solution pure", "Un acide fort a une base conjuguée forte"], 1,
+            "pKa = −log Ka : plus Ka est grande (acide fort), plus pKa est petit. La base conjuguée d'un acide fort est alors très faible."),
+        qcm("Dans un diagramme de prédominance, que se passe-t-il à pH = pKa ?",
+            ["AH prédomine seul", "A⁻ prédomine seule", "[AH] = [A⁻]", "La solution devient neutre"], 2,
+            "À pH = pKa, le rapport [A⁻]/[AH] = 10^(pH−pKa) = 1 : les deux formes sont en concentrations égales."),
+        qcm("Pour un couple de pKa 4,76, si [A⁻]/[AH] = 10, quel est le pH ?",
+            ["3,76", "4,76", "5,76", "14,76"], 2,
+            "pH = pKa + log(10) = 4,76 + 1 = 5,76."),
+        qcm("Acide lactique (pKa 3,86) + HCO3⁻ (H₂CO₃/HCO3⁻, pKa 6,35). Que conclure ?",
+            ["ΔpKa = 2,49, K ≈ 3 × 10², sens direct", "ΔpKa = −2,49, sens inverse",
+             "K ≈ 1, pas de réaction", "ΔpKa = 6,35, sens inverse"], 0,
+            "ΔpKa = pKa(acide produit H₂CO₃) − pKa(acide réactif) = 6,35 − 3,86 = 2,49 ; K ≈ 10^2,49 ≈ 3,1 × 10², le proton est transféré à HCO3⁻.",
+            "Contrôle groupé PC : prévision du sens d'un transfert de proton entre deux couples.",
+            True),
+        qcm("Entre deux couples, vers quel système le proton est-il transféré spontanément ?",
+            ["Vers le couple de pKa le plus faible", "Vers le couple de pKa le plus élevé",
+             "Toujours vers l'eau", "Aucune règle générale"], 1,
+            "Le proton passe de l'acide le plus fort (pKa faible) vers la base conjuguée de l'acide le plus faible (pKa élevé) : on forme les espèces les moins réactives."),
+        qcm("Tampon CH₃COOH/CH₃COO⁻ de pKa 4,76 avec [CH₃COO⁻]/[CH₃COOH] = 0,10. Quel est le pH ?",
+            ["3,76", "4,76", "5,76", "0,476"], 0,
+            "pH = 4,76 + log(0,10) = 4,76 − 1 = 3,76.",
+            "Préparation d'un tampon acétique pour un dosage en BIOALC.",
+            True),
+        qt("En utilisant deux couples acide-base, expliquer pourquoi la réaction d'un acide fort avec une base forte est quasi totale, alors qu'un acide faible ne réagit presque pas avec le chlorure.",
+           "Écrivons AH + B ⇌ A⁻ + BH⁺. Avec HCl (pKa ≈ −7) et OH⁻ (H₂O, pKa 14), ΔpKa = 14 − (−7) = 21, donc K ≈ 10^21 : le proton passe de HCl vers OH⁻ et la réaction est quasi complète. Avec l'acide acétique (pKa 4,76) et Cl⁻ (HCl, pKa −7), ΔpKa = −7 − 4,76 = −11,76, K ≈ 10⁻¹¹·⁷⁶ : le sens direct est défavorisé. Le système forme toujours l'acide et la base les plus faibles, c'est-à-dire ceux dont le pKa est le plus élevé pour l'acide formé.",
+           "On compare les pKa des deux acides engagés : log K = pKa(acide produit) − pKa(acide réactif), et on interprète l'ordre de grandeur de K."),
+        qt("Un tampon phosphate H₂PO4⁻/HPO4²⁻ a pKa₂ = 7,21. À pH = 7,80, calculer le rapport [HPO4²⁻]/[H₂PO4⁻], puis la concentration de HPO4²⁻ si la concentration totale en phosphate vaut 0,10 mol·L⁻¹.",
+           "log([HPO4²⁻]/[H₂PO4⁻]) = 7,80 − 7,21 = 0,59, donc le rapport vaut 10^0,59 ≈ 3,9. Si [HPO4²⁻] + [H₂PO4⁻] = 0,10, alors [HPO4²⁻] = 0,10 × 3,9/(1 + 3,9) = 0,10 × 3,9/4,9 ≈ 0,080 mol·L⁻¹.",
+           "On applique Henderson-Hasselbalch pour obtenir le rapport, puis on le combine avec la conservation de la matière (somme des deux formes).",
+           "Contrôle de la forme dominante d'un tampon phosphate à pH voisin du pH physiologique.",
+           True),
+    ],
+    [
+        bloc("L'idée en une phrase",
+             texte="Avec deux couples, la réaction fonctionne si le proton passe de l'acide au pKa faible vers la base conjuguée de l'acide au pKa élevé : on forme les espèces les plus faibles."),
+        bloc("La formule à connaître",
+             eq="pH = pKa + log([A⁻]/[AH])   ·   log K ≈ pKa(BH⁺) − pKa(AH)",
+             leg="ΔpKa > 0 → K > 1 → sens direct favorable · pH < pKa : AH prédomine · pH > pKa : A⁻ prédomine"),
+        bloc("Tableau des deux couples en présence", items=[
+            ["Couple 1", "AH / A⁻", "Acide réactif AH, pKa(AH)"],
+            ["Couple 2", "BH⁺ / B", "Base réactive B, pKa(BH⁺)"],
+            ["Transfert", "AH + B ⇌ A⁻ + BH⁺", "Proton de AH vers B"],
+            ["Bilan", "log K = pKa(BH⁺) − pKa(AH)", "Sens direct si ΔpKa > 0"]]),
+        bloc("À retenir sur les pKa", items=[
+            "pKa faible = acide fort = base conjuguée faible",
+            "pH = pKa : les deux formes du couple sont en concentrations égales",
+            "Une zone tampon efficace couvre environ pKa ± 1",
+            "D/L, R/S et pKa sont des notions distinctes : ne pas les mélanger"]),
+        bloc("Décider du sens d'un transfert, étape par étape", items=[
+            "Identifier les deux couples et écrire AH/A⁻ et BH⁺/B",
+            "Repérer l'acide réactif AH et la base réactive B",
+            "Lire les deux pKa et calculer ΔpKa = pKa(BH⁺) − pKa(AH)",
+            "En déduire K ≈ 10^ΔpKa et le sens favorisé",
+            "Vérifier : le système doit former l'acide et la base les plus faibles"]),
+        bloc("Pièges fréquents", items=[
+            "Retrancher les pKa dans le mauvais sens : pKa(acide produit) − pKa(acide réactif)",
+            "Croire que le proton va de la base vers l'acide",
+            "Confondre le pKa d'un couple avec le pH de la solution",
+            "Utiliser log([AH]/[A⁻]) au lieu de log([A⁻]/[AH]) dans Henderson-Hasselbalch",
+            "Oublier que l'eau solvante n'entre pas dans le calcul sauf si elle est réactif ou produit"]),
+        bloc("En chiffres (à savoir refaire)", items=[
+            '<span class="cle">CH₃COOH/NH₃</span> → ΔpKa = 9,25 − 4,76 = 4,49 → K ≈ 3 × 10⁴',
+            '<span class="cle">CH₃COOH/Cl⁻</span> → ΔpKa = −7 − 4,76 ≈ −11,8 → quasi aucune réaction',
+            '<span class="cle">Acide lactique/HCO3⁻</span> → ΔpKa = 2,49 → K ≈ 3,1 × 10²',
+            '<span class="cle">pH = pKa − 1</span> → [A⁻]/[AH] = 0,10',
+            '<span class="cle">pH 7,80, pKa 7,21</span> → rapport ≈ 3,9 → [base] ≈ 0,080 mol·L⁻¹']),
+    ],
+    [
+        diag("1 · Deux couples face à face", svg_compare("Avant et après transfert de proton",
+            ("Couple 1 : AH / A⁻", ["AH : acide réactif", "pKa faible = acide fort", "Après : A⁻, base faible"]),
+            ("Couple 2 : BH⁺ / B", ["B : base réactive", "pKa élevé = base forte", "Après : BH⁺, acide faible"]))),
+        diag("2 · Diagramme de prédominance", svg_grille("Lire le couple selon le pH",
+            ["Condition", "Forme majoritaire", "Rapport [A⁻]/[AH]"],
+            [["pH < pKa", "AH (acide)", "Inférieur à 1"],
+             ["pH = pKa", "AH = A⁻", "Égal à 1"],
+             ["pH > pKa", "A⁻ (base)", "Supérieur à 1"],
+             ["pH = pKa + 1", "A⁻ nettement majoritaire", "Égal à 10"],
+             ["pH = pKa − 1", "AH nettement majoritaire", "Égal à 0,1"]])),
+        diag("3 · Décider du sens", svg_etapes("Le transfert de proton en 4 étapes", [
+            "Écrire les deux couples AH/A⁻ et BH⁺/B",
+            "Identifier l'acide réactif AH et la base B",
+            "Calculer ΔpKa = pKa(BH⁺) − pKa(AH)",
+            "Conclure : ΔpKa > 0 → sens direct, sinon sens inverse"])),
+    ],
+))
+
+
+# ===========================================================================
+# 15 — Projection de Fischer
+# ===========================================================================
+FISCHER_CROSS = """<svg viewBox="0 0 660 240" width="100%" role="img" aria-label="Projection de Fischer du D-glyceraldehyde avec convention avant arriere">
+<text x="16" y="24" fill="var(--ac)" font-size="14" font-weight="bold">Projection de Fischer : la croix et ses conventions</text>
+<line x1="330" y1="52" x2="330" y2="194" stroke="var(--ac)" stroke-width="3"/>
+<line x1="250" y1="123" x2="410" y2="123" stroke="var(--ac)" stroke-width="3"/>
+<circle cx="330" cy="123" r="5" fill="var(--ac)"/>
+<text x="330" y="44" text-anchor="middle" fill="var(--fg)" font-size="12">CHO (C1)</text>
+<text x="330" y="214" text-anchor="middle" fill="var(--fg)" font-size="12">CH2OH</text>
+<text x="242" y="128" text-anchor="end" fill="var(--fg)" font-size="12">OH</text>
+<text x="418" y="128" fill="var(--fg)" font-size="12">H</text>
+<text x="450" y="66" fill="var(--warn)" font-size="11">Horizontal : vers l'observateur</text>
+<text x="450" y="92" fill="var(--warn)" font-size="11">Vertical : derriere le plan</text>
+<text x="450" y="126" fill="var(--dim)" font-size="11">Rotation de 180° : autorisee</text>
+<text x="450" y="152" fill="var(--dim)" font-size="11">Rotation de 90° : interdite</text>
+<text x="16" y="232" fill="var(--dim)" font-size="10">D-glyceraldehyde : OH a droite du dernier centre asymetrique (penultieme carbone)</text>
+</svg>"""
+
+F.append(make(
+    "Contrôle PC · 15 · Une projection de Fischer à dessiner (stéréochimie)",
+    "IUPAC Gold Book (Fischer projection, enantiomer, CIP priority) · LibreTexts Organic Chemistry, stereochemistry · cours U4 BTS BIOALC, representation des molecules chirales",
+    [
+        "La projection de Fischer représente une molécule à centre(s) asymétrique(s) sous forme d'une croix : le carbone chiral est au centre, la chaîne carbonée est sur l'axe vertical et les deux autres substituts sur l'axe horizontal.",
+        "Convention fondamentale : les liaisons horizontales pointent vers l'observateur (vers l'avant), les liaisons verticales pointent derrière le plan de la feuille. C'est une convention de projection, pas une perspective发生的 par hasard.",
+        "Règle de placement : la chaîne carbonée la plus longue est verticale, avec le carbone le plus oxydé en haut (C1 : CHO ou COOH) et la chaîne se poursuit vers le bas. On place ensuite les substituts de chaque centre asymétrique sur les branches horizontales.",
+        "Une rotation de 180° de la projection dans le plan de la feuille conserve la même molécule. Une rotation de 90° inverse la configuration : c'est l'énantiomère. Il ne faut jamais faire tourner une projection de Fischer d'un quart de tour pour la lire.",
+        "Pour lire la configuration R/S, on classe les quatre substituts par priorité CIP (numéro atomique décroissant, en tenant compte des atomes suivants en cas d'égalité), puis on regarde le sens 1 → 2 → 3.",
+        "Si le substitut de priorité la plus faible (4) est sur une liaison verticale (donc vers l'arrière), sens horaire 1→2→3 = R et sens antihoraire = S. S'il est horizontal (vers l'avant), on inverse le résultat.",
+        "Échanger deux substituts sur un centre inverse la configuration ; deux échanges successifs redonnent la configuration initiale. L'énantiomère d'une projection s'obtient en inversant tous les centres (image miroir par rapport à l'axe vertical).",
+        "Conversion : pour passer d'une représentation en zigzag à une projection de Fischer, on oriente la chaîne verticale puis on rabat les substituts vers l'avant. La projection de Newman peut servir d'intermédiaire pour vérifier la conformation.",
+        "Sucres : le nombre maximal de stéréoisomères vaut 2^n avec n le nombre de centres asymétriques (4 pour un aldohexose, soit 16 stéréoisomères et 8 paires d'énantiomères).",
+        "D/L d'un sucre se lit au dernier centre asymétrique (avant-dernier carbone) : OH à droite = D, OH à gauche = L. Cette notation n'a rien à voir avec le signe de la rotation optique (+)/(−) ni avec la configuration R/S.",
+        "Acides aminés : projection avec COOH en haut, radical R en bas et NH₂ à gauche pour les L-acides aminés naturels (glycine achirale exceptée). La cystéine est L bien que sa configuration CIP soit R, à cause du soufre prioritaire.",
+        "En BIOALC, savoir dessiner et lire une projection de Fischer permet d'identifier un glucose ou un acide aminé, de reconnaître son énantiomère et de vérifier une configuration lors d'un contrôle de stéréochimie.",
+    ],
+    [
+        qcm("Dans une projection de Fischer, que représentent les liaisons horizontales ?",
+            ["Des liaisons derrière le plan", "Des liaisons vers l'observateur",
+             "Des liaisons dans le plan sans convention", "Des doubles liaisons"], 1,
+            "Convention de Fischer : horizontales = avant (vers l'observateur), verticales = arrière (derrière le plan)."),
+        qcm("Quelle rotation d'une projection de Fischer conserve la même configuration ?",
+            ["90°", "180°", "Toutes les rotations", "Aucune rotation"], 1,
+            "Une rotation de 180° est équivalente à deux échanges : la configuration est conservée. Une rotation de 90° inverse la configuration."),
+        qcm("Où place-t-on le carbone le plus oxydé dans une projection de Fischer ?",
+            ["En bas", "En haut", "À gauche", "À droite"], 1,
+            "La chaîne carbonée est verticale et le carbone le plus oxydé (CHO, COOH) se place en haut, à l'opposé de l'extrémité CH2OH."),
+        qcm("Comment déterminer D ou L pour un sucre ?",
+            ["Avec le sens de rotation optique", "Avec la position de OH sur le dernier centre asymétrique",
+             "Avec le nombre de carbones", "Avec la configuration R/S du premier carbone"], 1,
+            "OH à droite sur le dernier centre asymétrique (avant-dernier carbone) = D ; OH à gauche = L. Cela ne préjuge pas du signe optique."),
+        qcm("Un aldohexose possède 4 centres asymétriques. Combien de stéréoisomères existe-t-il au maximum ?",
+            ["4", "8", "16", "32"], 2,
+            "Le nombre maximal vaut 2^n = 2^4 = 16 stéréoisomères, répartis en 8 paires d'énantiomères (en l'absence de symétrie interne).",
+            "Contrôle groupé PC : dénombrement des stéréoisomères d'un sucre.",
+            True),
+        qcm("Dans une projection de Fischer, le substitut le moins prioritaire est vertical et 1→2→3 est antihoraire. Quelle est la configuration ?",
+            ["R", "S", "D", "L"], 1,
+            "Substitut 4 en position verticale (arrière) : on lit directement le sens ; antihoraire = S. S'il était horizontal, il faudrait inverser."),
+        qcm("Une molécule sans symétrie possède 3 centres asymétriques. Combien de paires d'énantiomères forme-t-elle ?",
+            ["3", "4", "6", "8"], 1,
+            "2^3 = 8 stéréoisomères, soit 8/2 = 4 paires d'énantiomères.",
+            "Exercice de dénombrement stéréochimique du contrôle groupé.",
+            True),
+        qt("Décrire la projection de Fischer du D-glycéraldéhyde en précisant la convention des liaisons et la règle D/L.",
+           "On place CHO en haut (C1), CH2OH en bas, et le carbone central à l'intersection : OH à droite et H à gauche. Les liaisons horizontales (OH, H) sont dirigées vers l'observateur, les liaisons verticales (CHO, CH2OH) vers l'arrière. Le D-glycéraldéhyde a son OH sur le dernier (et unique) centre asymétrique à droite : c'est la référence de la série D des sucres.",
+           "On vérifie les trois éléments : croix, convention avant/arrière, position de OH à droite pour la série D."),
+        qt("Expliquer pourquoi échanger deux substituts sur un centre asymétrique inverse la configuration, et comment obtenir l'énantiomère d'une projection comportant deux centres.",
+           "Un échange modifie l'ordre spatial des trois substituts prioritaires par rapport au quatrième : le sens de lecture 1→2→3 s'inverse, donc R devient S (ou S devient R). Deux échanges restaurent l'ordre initial. Pour obtenir l'énantiomère d'une projection à deux centres, on inverse chaque centre (image miroir) : échanger à gauche et à droite les substituts horizontaux sur les deux croix, sans toucher à la chaîne verticale.",
+           "On relie l'inversion à la règle de lecture R/S et à la représentation miroir ; on rappelle qu'une rotation de 90° ferait aussi l'énantiomère mais n'est pas une lecture licite."),
+    ],
+    [
+        bloc("L'idée en une phrase",
+             texte="Une projection de Fischer est une croix : les branches horizontales avancent vers nous, les verticales reculent, et un quart de tour变换 tout en miroir."),
+        bloc("La formule à connaître",
+             eq="Chaîne verticale (C1 en haut)   ·   horizontaux = avant   ·   verticaux = arrière",
+             leg="Rotation 180° = même stéréoisomère · rotation 90° = énantiomère · nombre maxi de stéréoisomères = 2^n"),
+        bloc("Tableau des règles de la croix", items=[
+            ["Vertical", "Chaîne carbonée, C1 en haut", "Liaisons vers l'arrière"],
+            ["Horizontal", "Les deux autres substituts", "Liaisons vers l'avant"],
+            ["Rotation 180°", "Projection équivalente", "Même configuration"],
+            ["Rotation 90°", "Image miroir", "Configuration inversée"],
+            ["Échange simple", "Deux substituts permutés", "Configuration inversée"]]),
+        bloc("À retenir sur la lecture", items=[
+            "Priorité CIP : numéro atomique décroissant, puis atomes suivants",
+            "Substitut 4 vertical : horaire = R, antihoraire = S ; 4 horizontal : inverser",
+            "D/L se lit au dernier centre asymétrique d'un sucre, pas au signe optique",
+            "Acides aminés naturels : NH₂ à gauche (sauf glycine) et R en bas"]),
+        bloc("Dessiner une projection, étape par étape", items=[
+            "Tracer la croix et placer la chaîne carbonée verticalement",
+            "Mettre le carbone le plus oxydé (CHO ou COOH) en haut",
+            "Placer les substituts de chaque centre sur les branches horizontales",
+            "Vérifier la convention : horizontaux avant, verticaux arrière",
+            "Lire R/S ou D/L et en déduire l'énantiomère si demandé"]),
+        bloc("Pièges fréquents", items=[
+            "Faire tourner la projection de 90° en croyant qu'elle représente la même molécule",
+            "Oublier que les liaisons horizontales sont en avant : erreur de R/S garantie",
+            "Confondre D/L avec (+)/(−) ou avec R/S",
+            "Placer le radical R d'un acide aminé en haut à la place du COOH",
+            "Compter les stéréoisomères sans tenir compte d'un éventuel plan de symétrie"]),
+        bloc("En exemples (à savoir refaire)", items=[
+            '<span class="cle">D-glycéraldéhyde</span> : CHO haut, CH2OH bas, OH à droite',
+            '<span class="cle">L-glycéraldéhyde</span> : OH à gauche',
+            '<span class="cle">Rotation 180°</span> : même composé ; <span class="cle">90°</span> : énantiomère',
+            '<span class="cle">Aldohexose, 4 centres</span> : 2^4 = 16 stéréoisomères',
+            '<span class="cle">L-acide aminé</span> : COOH haut, R bas, NH₂ à gauche']),
+    ],
+    [
+        diag("1 · La croix de Fischer", FISCHER_CROSS),
+        diag("2 · Règles de lecture", svg_grille("Projection et stéréochimie",
+            ["Élément", "Règle", "Conséquence"],
+            [["Horizontal", "Vers l'observateur", "Priorité 4 devant → inverser R/S"],
+             ["Vertical", "Derrière le plan", "Priorité 4 derrière → lire directement"],
+             ["Rotation 180°", "Deux échanges", "Même stéréoisomère"],
+             ["Rotation 90°", "Un échange", "Énantiomère"],
+             ["n centres", "2^n configurations", "16 pour un aldohexose"]])),
+        diag("3 · Rotation autorisée ou non", svg_compare("Deux rotations très différentes",
+            ("Rotation de 180°", ["Projection identique", "Configuration conservée", "Lecture autorisée"]),
+            ("Rotation de 90°", ["Image miroir", "Configuration inversée", "Nouvel énantiomère"]))),
+    ],
+))
+
+
+# Verifications specifiques au lot B avant ecriture
+assert len(F) == 7, "attendu 7 fiches"
+for i, f in enumerate(F, 9):
+    assert f["filieres"] == ["bts-bio"] and f["annees"] == ["BTS2"], i
+    assert f["matiere"] == "Physique-chimie et instrumentation", i
+    assert f["titre"].startswith("Contrôle PC · "), i
+    assert len(f["points"]) == 12, (i, "points", len(f["points"]))
+    assert len(f["questions"]) == 9, (i, "questions")
+    assert sum(q["type"] == "qcm" for q in f["questions"]) == 7, i
+    assert sum(q["type"] == "texte" for q in f["questions"]) == 2, i
+    assert sum(q.get("calcul") and q.get("contexte") for q in f["questions"]) >= 2, i
+    assert len(f["affichage"]) == 7, i
+    assert len(f["schema"]) == 3, i
+
+valider_et_ecrire(F, "bioalc-cg-part-B.json")

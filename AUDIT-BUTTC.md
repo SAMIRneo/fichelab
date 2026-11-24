@@ -111,10 +111,13 @@ et les notions du chapitre.
 1. `BUTTC-PROGRAMME.md`, annoncé comme déjà livré, est **absent du disque**
    (recherche récursive dans `fichelab/`). Non recréé : instruction « ne pas
    refaire ». À restaurer si le document est attendu dans la livraison.
-2. Les lots `but-tc` ne sont **pas encore injectés** dans `index.html`
-   (catalogue embarqué inchangé, 4 filières prototype). Injection hors
-   périmètre de cet audit : `index.html` et `inject_app.py` n'ont pas été
-   modifiés.
+2. Les lots `but-tc` ne sont **pas encore injectés** dans `index.html`.
+   Le catalogue embarqué compte 881 fiches dont 395 prototypes, répartis
+   entre 5 filières (`bts-bio`, `bts-mco`, `generale`, `lic-droit`, `pass`),
+   aucune pour `but-tc`. Injection hors périmètre de cet audit :
+   `index.html` et `inject_app.py` n'ont pas été modifiés par cette session
+   (des changements concurrents d'une autre session ont été constatés sur
+   ces deux fichiers pendant l'audit).
 
 ## Modalité d'exécution
 

@@ -31,7 +31,7 @@ def _filieres_nouvelles():
 
 
 # Si non vide, seules ces filieres sont integrees (utile quand d'autres equipes ecrivent encore).
-FILIERES_A_INTEGRER = ["generale", "bts-mco", "pass", "lic-droit"]
+FILIERES_A_INTEGRER = ["generale", "bts-mco", "pass", "lic-droit", "infirmier", "but-tc", "cpge-mpsi", "bts-ndrc"]
 
 PROTO_FILIERES = (sorted({"bts-bio"} | set(FILIERES_A_INTEGRER))
                   if FILIERES_A_INTEGRER else _filieres_nouvelles())
@@ -55,6 +55,7 @@ def build_extra():
     # Les filieres converties ne gardent que leurs fiches prototype dans le catalogue.
     out = [f for f in out if not any(x in PROTO_FILIERES for x in f.get("filieres", []))]
     for p in sorted(glob.glob(os.path.join(BASE, "bioalc-mat-part-*.json")) +
+                    glob.glob(os.path.join(BASE, "bioalc-cg-*.json")) +
                     glob.glob(os.path.join(BASE, "physchim-part-*.json"))):
         with open(p, encoding="utf-8") as f:
             out += json.load(f)["fiches"]
