@@ -30,7 +30,11 @@ def _filieres_nouvelles():
     return sorted(out)
 
 
-PROTO_FILIERES = _filieres_nouvelles()
+# Si non vide, seules ces filieres sont integrees (utile quand d'autres equipes ecrivent encore).
+FILIERES_A_INTEGRER = ["generale", "bts-mco", "pass", "lic-droit"]
+
+PROTO_FILIERES = (sorted({"bts-bio"} | set(FILIERES_A_INTEGRER))
+                  if FILIERES_A_INTEGRER else _filieres_nouvelles())
 
 
 def load(name):
@@ -57,7 +61,11 @@ def build_extra():
     nouveaux = []
     for p in NOUVEAUX:
         with open(p, encoding="utf-8") as f:
-            nouveaux += json.load(f)["fiches"]
+            fiches = json.load(f)["fiches"]
+        if FILIERES_A_INTEGRER:
+            fiches = [fc for fc in fiches
+                      if any(x in FILIERES_A_INTEGRER for x in fc.get("filieres", []))]
+        nouveaux += fiches
     return out, nouveaux
 
 

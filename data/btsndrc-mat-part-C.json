@@ -1,0 +1,1194 @@
+{
+  "fiches": [
+    {
+      "filieres": [
+        "bts-ndrc"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Droit",
+      "titre": "DR1 · Contrat et obligations dans la relation commerciale",
+      "source": "Arrêté du 19 février 2018 modifié (NOR ESRS1803333A, BO du 15 mars 2018), BTS « Négociation et digitalisation de la relation client » (RNCP 38368) · Référentiel de certification U1 à U6 (annexes I a, I b, II a, II b), arrêtés modificatifs des 13 décembre 2023, 19 mars 2024 et 8 juillet 2024 · éduscol, ressources BTS NDRC",
+      "points": [
+        "Le contrat est un accord de volontés entre deux ou plusieurs personnes destiné à créer, modifier ou éteindre des obligations (article 1101 du Code civil).",
+        "Un contrat est valable si le consentement est sain, la personne a la capacité juridique, le contenu est licite et la forme est respectée quand la loi l'exige.",
+        "Le vice du consentement (erreur, dol, violence) peut entraîner l'annulation du contrat ; l'erreur n'est annulable que si elle porte sur une qualité essentielle de la chose.",
+        "L'article 1103 pose que les contrats légalement formés tiennent lieu de loi à ceux qui les ont faits : la partie doit exécuter sa prestation.",
+        "L'article 1104 impose d'exécuter le contrat de bonne foi : cette obligation s'applique à la négociation, à la formation et à l'exécution.",
+        "L'inexécution donne lieu à des sanctions : l'exception d'inexécution (suspendre sa prestation), la résolution (mettre fin au contrat) et les dommages-intérêts.",
+        "Les dommages-intérêts visent à réparer intégralement le préjudice prévisible et direct, sans enrichir la victime ni laisser de perte non réparée.",
+        "Une clause qui prive une partie de l'essentiel de son engagement est réputée non écrite ; dans un contrat d'adhésion, une clause créant un déséquilibre significatif est également réputée non écrite.",
+        "L'article 1195 permet de demander une renégociation en cas de changement de circonstances imprévisible et bouleversant l'équilibre contractuel, puis une résolution ou une adaptation par le juge.",
+        "La responsabilité contractuelle suppose une faute, un dommage et un lien de causalité ; le créancier doit prouver le manquement du débiteur.",
+        "En prospection et négociation, la bonne foi interdit les fausses promesses et la rétention d'information déterminante dans le consentement du client.",
+        "Exemple : un fournisseur qui ne livre pas peut voir le contrat résolu et devoir des dommages-intérêts correspondant au surcoût subi par le client pour se réapprovisionner."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel article du Code civil énonce que le contrat tient lieu de loi aux parties ?",
+          "options": [
+            "L'article 1101",
+            "L'article 1103",
+            "L'article 1195",
+            "L'article 1231-1"
+          ],
+          "correct": 1,
+          "correction": "L'article 1103 du Code civil dispose que les contrats légalement formés tiennent lieu de loi à ceux qui les ont faits."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel vice du consentement suppose une fausse représentation de la réalité ?",
+          "options": [
+            "L'erreur",
+            "Le dol",
+            "La violence",
+            "La capacité"
+          ],
+          "correct": 0,
+          "correction": "L'erreur est une fausse croyance sur un élément essentiel ; le dol est une manipulation volontaire par manoeuvres ou mensonges."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel principe impose d'exécuter le contrat de bonne foi ?",
+          "options": [
+            "L'article 1104",
+            "L'article 1101",
+            "L'article 1170",
+            "L'article 1217"
+          ],
+          "correct": 0,
+          "correction": "L'article 1104 du Code civil impose la bonne foi dans la négociation, la formation et l'exécution du contrat."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle sanction suspend l'exécution de sa propre prestation ?",
+          "options": [
+            "La résolution",
+            "L'exception d'inexécution",
+            "Les dommages-intérêts",
+            "L'annulation"
+          ],
+          "correct": 1,
+          "correction": "L'exception d'inexécution permet au créancier de suspendre sa prestation jusqu'à l'exécution par l'autre partie."
+        },
+        {
+          "type": "qcm",
+          "q": "Que réparent les dommages-intérêts contractuels ?",
+          "options": [
+            "Tous les préjudices même indirects",
+            "Le préjudice direct, certain et légitime",
+            "Les seuls frais de justice",
+            "Le prix du contrat"
+          ],
+          "correct": 1,
+          "correction": "La réparation couvre le dommage direct et prévisible, à l'exclusion des préjudices trop indirects ou hypothétiques."
+        },
+        {
+          "type": "qcm",
+          "q": "Que se passe-t-il pour une clause réputée non écrite ?",
+          "options": [
+            "Le contrat est annulé entièrement",
+            "La clause est écartée, le reste subsiste",
+            "La clause devient obligatoire",
+            "Le juge la réduit de moitié"
+          ],
+          "correct": 1,
+          "correction": "Une clause réputée non écrite est considérée comme n'ayant jamais existé ; le reste du contrat reste en vigueur."
+        },
+        {
+          "type": "qcm",
+          "q": "Dans quel cas l'article 1195 peut-il jouer ?",
+          "options": [
+            "Un simple changement de prix prévu",
+            "Un bouleversement imprévisible de l'équilibre",
+            "Une erreur dans l'offre",
+            "Un retard de paiement"
+          ],
+          "correct": 1,
+          "correction": "L'imprévision exige un changement de circonstances imprévisible qui bouleverse l'économie du contrat."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle preuve incombe au créancier dans une action en responsabilité ?",
+          "options": [
+            "La preuve de son seul dommage",
+            "Le manquement, le dommage et le lien de causalité",
+            "La preuve de la bonne foi du débiteur",
+            "Aucune preuve"
+          ],
+          "correct": 1,
+          "correction": "Le créancier doit établir la faute contractuelle, le dommage subi et le lien de causalité entre eux."
+        },
+        {
+          "type": "texte",
+          "q": "Distinguer exception d'inexécution et résolution du contrat.",
+          "reponse": "L'exception d'inexécution est une mesure provisoire : le créancier suspend sa propre prestation tant que l'autre partie n'exécute pas, sans rompre le contrat. La résolution met définitivement fin au contrat et dispense les parties de leurs obligations futures, sans préjudice des dommages-intérêts. La première conserve la relation, la seconde l'éteint.",
+          "correction": "On oppose une suspension temporaire à une extinction définitive du contrat."
+        },
+        {
+          "type": "texte",
+          "q": "Un fournisseur ne livre pas et le client paie 500 € de plus chez un autre fournisseur. Analyser les sanctions possibles.",
+          "reponse": "Le client peut d'abord invoquer l'exception d'inexécution pour suspendre son paiement. Il peut ensuite demander la résolution du contrat pour inexécution et réclamer des dommages-intérêts. Le préjudice de 500 € correspond au surcoût direct et prévisible lié au réapprovisionnement ; il devra justifier ce montant. La bonne foi impose au fournisseur d'informer rapidement de son incapacité afin de limiter le dommage.",
+          "correction": "On enchaîne exception, résolution et réparation, puis on vérifie la preuve du préjudice."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Un contrat oblige, mais il s'exécute de bonne foi : quand la prestation manque, le droit offre d'abord la suspension, puis la résolution et la réparation."
+        },
+        {
+          "type": "formule",
+          "titre": "L'essentiel en une formule",
+          "eq": "Sanctions",
+          "leg": "Exception d'inexécution → résolution → dommages-intérêts|La bonne foi encadre la négociation, la formation et l'exécution."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Notion",
+              "Article",
+              "Effet"
+            ],
+            [
+              "Contrat",
+              "1101",
+              "Accord de volontes"
+            ],
+            [
+              "Loi des parties",
+              "1103",
+              "Obligation d executer"
+            ],
+            [
+              "Bonne foi",
+              "1104",
+              "Execution loyale"
+            ],
+            [
+              "Imprevision",
+              "1195",
+              "Renegociation"
+            ],
+            [
+              "Reparation",
+              "1231-1",
+              "Dommages-interets"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Verifier la validite du contrat",
+            "Identifier la prestation due",
+            "Constater le manquement et la mise en demeure",
+            "Choisir la sanction adaptee",
+            "Justifier le montant du prejudice"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode pas à pas",
+          "items": [
+            "Lire les clauses et la forme",
+            "Determiner les obligations de chaque partie",
+            "Documenter l inexécution",
+            "Mettre en demeure avant d agir",
+            "Estimer le dommage reparable"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Promettre un avantage que l on sait faux",
+            "Celer une information determinante",
+            "Refuser toute renegociation malgre l imprévision",
+            "Confondre resolution et exception",
+            "Réclamer un prejudice hypothetique"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples chiffrés",
+          "items": [
+            "Surcout de 500 € apres defaillance",
+            "Mise en demeure ecrite avant action",
+            "Exception = suspension du paiement",
+            "Resolution = fin du contrat",
+            "Dommages = prejudice direct et prouve"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Notions contractuelles",
+          "svg": "<svg viewBox=\"0 0 660 220\" width=\"100%\" role=\"img\" aria-label=\"Notions contractuelles\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Notions contractuelles</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Article</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Effet</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Contrat</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">1101</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Accord de volontes</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Loi des parties</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">1103</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Obligation d executer</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Bonne foi</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">1104</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Execution loyale</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Imprevision</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">1195</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Renegociation</text><rect x=\"16\" y=\"184\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"202\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Reparation</text><rect x=\"225\" y=\"184\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"202\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">1231-1</text><rect x=\"434\" y=\"184\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"202\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Dommages-interets</text></svg>"
+        },
+        {
+          "titre": "2 · Réagir à l'inexécution",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Réagir à l'inexécution\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Réagir à l'inexécution</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Lire les clauses et la forme</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Determiner les obligations de chaque partie</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Documenter l inexécution</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mettre en demeure avant d agir</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Estimer le dommage reparable</text></svg>"
+        },
+        {
+          "titre": "3 · Exécution loyale / fautive",
+          "svg": "<svg viewBox=\"0 0 660 124\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Exécution loyale / fautive\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Exécution loyale / fautive</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">À faire</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Lire les clauses et la forme</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Determiner les obligations de chaque</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">À éviter</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Promettre un avantage que l on sait faux</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Celer une information determinante</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ndrc"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Droit",
+      "titre": "DR2 · Droit de la consommation et pratiques commerciales",
+      "source": "Arrêté du 19 février 2018 modifié (NOR ESRS1803333A, BO du 15 mars 2018), BTS « Négociation et digitalisation de la relation client » (RNCP 38368) · Référentiel de certification U1 à U6 (annexes I a, I b, II a, II b), arrêtés modificatifs des 13 décembre 2023, 19 mars 2024 et 8 juillet 2024 · éduscol, ressources BTS NDRC",
+      "points": [
+        "Le Code de la consommation protège le consommateur, défini comme toute personne agissant à des fins étrangères à son activité professionnelle.",
+        "Avant la conclusion du contrat, le professionnel doit fournir une information claire et lisible sur les caractéristiques du bien, le prix, les frais, le délai de livraison et les garanties.",
+        "Les pratiques commerciales trompeuses consistent à induire le consommateur en erreur par des affirmations fausses ou des omissions sur des éléments déterminants (article L. 121-1 et suivants).",
+        "Une pratique commerciale agressive exploite une situation de vulnérabilité, une contrainte ou un harcèlement pour obtenir une décision d'achat.",
+        "En cas d'achat à distance ou hors établissement, le consommateur dispose en principe d'un délai de rétractation de 14 jours à compter de la livraison ou de la signature.",
+        "Le professionnel doit informer le consommateur de ce droit avant la commande et lui fournir un formulaire de rétractation.",
+        "Les clauses abusives créent un déséquilibre significatif entre les droits et obligations des parties ; elles sont réputées non écrites (article L. 212-1).",
+        "La garantie légale de conformité dure deux ans et s'applique aux biens neufs ; le consommateur peut exiger réparation, remplacement ou, à défaut, remboursement.",
+        "La garantie commerciale est une promesse volontaire du vendeur ou du fabricant : elle ne peut pas réduire les droits issus de la garantie légale.",
+        "Le prix doit être indiqué de manière lisible et exhaustive : les frais supplémentaires non mentionnés ne peuvent pas être facturés.",
+        "En BTS NDRC, le commercial doit présenter l'offre sans optimisation trompeuse, vérifier l'information précontractuelle et connaître le délai de rétractation.",
+        "Exemple : afficher 29 € puis ajouter 9 € de frais de dossier au moment du paiement constitue une pratique trompeuse par omission de prix."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Qui est un consommateur au sens du Code de la consommation ?",
+          "options": [
+            "Toute personne qui achète pour son activité",
+            "Toute personne agissant à des fins étrangères à son activité professionnelle",
+            "Toute entreprise",
+            "Le seul vendeur"
+          ],
+          "correct": 1,
+          "correction": "Le consommateur agit à des fins personnelles, étrangères à son activité professionnelle."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel délai de rétractation s'applique en principe à un achat en ligne ?",
+          "options": [
+            "7 jours",
+            "14 jours",
+            "30 jours",
+            "Aucun délai"
+          ],
+          "correct": 1,
+          "correction": "Le délai légal de rétractation est de 14 jours pour les contrats à distance et hors établissement."
+        },
+        {
+          "type": "qcm",
+          "q": "Quand doit-on informer le consommateur de son droit de rétractation ?",
+          "options": [
+            "Après la livraison",
+            "Avant la conclusion du contrat",
+            "Uniquement sur demande",
+            "Jamais"
+          ],
+          "correct": 1,
+          "correction": "L'information précontractuelle est obligatoire avant la commande, avec un formulaire de rétractation."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle pratique est trompeuse par omission ?",
+          "options": [
+            "Afficher un prix complet",
+            "Cacher des frais de dossier",
+            "Préciser le délai de livraison",
+            "Mentionner la garantie"
+          ],
+          "correct": 1,
+          "correction": "Omettre une information déterminante comme le prix total est une pratique trompeuse."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la durée de la garantie légale de conformité pour un bien neuf ?",
+          "options": [
+            "6 mois",
+            "1 an",
+            "2 ans",
+            "5 ans"
+          ],
+          "correct": 2,
+          "correction": "La garantie légale de conformité des biens neufs est de deux ans."
+        },
+        {
+          "type": "qcm",
+          "q": "Une garantie commerciale peut-elle réduire la garantie légale ?",
+          "options": [
+            "Oui, si le contrat le prévoit",
+            "Non",
+            "Uniquement pour les professionnels",
+            "Uniquement après 6 mois"
+          ],
+          "correct": 1,
+          "correction": "La garantie commerciale s'ajoute aux droits légaux et ne peut pas les réduire."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est l'effet d'une clause abusive ?",
+          "options": [
+            "Elle est réputée non écrite",
+            "Elle s'applique malgré tout",
+            "Elle annule tout le contrat",
+            "Elle devient une garantie"
+          ],
+          "correct": 0,
+          "correction": "Une clause abusive est réputée non écrite ; le reste du contrat demeure."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel réflexe adopter avant de conclure une vente à distance ?",
+          "options": [
+            "Vérifier l'information précontractuelle et le droit de rétractation",
+            "Omettre les frais",
+            "Accélérer le paiement",
+            "Supprimer la facture"
+          ],
+          "correct": 0,
+          "correction": "Le commercial doit s'assurer que le client a reçu les informations obligatoires et connaît son délai de rétractation."
+        },
+        {
+          "type": "texte",
+          "q": "Distinguer pratique trompeuse et pratique agressive.",
+          "reponse": "Une pratique trompeuse induit le consommateur en erreur par une affirmation fausse ou une omission d'information déterminante, ce qui fausse sa décision. Une pratique agressive obtient la décision par la contrainte, le harcèlement ou l'exploitation d'une situation de vulnérabilité. Les deux sont interdites, mais la première agit sur l'information et la seconde sur la liberté de décision.",
+          "correction": "On oppose l'atteinte à l'information et l'atteinte à la liberté de choisir."
+        },
+        {
+          "type": "texte",
+          "q": "Un site affiche 29 € puis ajoute 9 € de frais au paiement, soit 38 €. Qualifier la pratique et indiquer les conséquences.",
+          "reponse": "L'affichage d'un prix incomplet est une pratique commerciale trompeuse par omission d'une information déterminante sur le prix total : le consommateur croit payer 29 € alors qu'il en paie 38, soit une hausse de 31 %. Les frais non annoncés ne peuvent pas être facturés et l'entreprise s'expose à des sanctions administratives ou pénales, à une action du consommateur et à une obligation de mise en conformité. Le prix doit être affiché toutes taxes et frais compris avant la commande.",
+          "correction": "On qualifie la pratique, on chiffre l'écart et on énonce les conséquences juridiques et commerciales."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Informer avant de vendre n'est pas une formalité : c'est la condition d'un consentement valable et d'une relation durable."
+        },
+        {
+          "type": "formule",
+          "titre": "L'essentiel en une formule",
+          "eq": "Protection du consommateur",
+          "leg": "Information précontractuelle + rétractation 14 j + garantie 2 ans|Les clauses abusives sont réputées non écrites."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Droit",
+              "Délai / durée",
+              "Point de vigilance"
+            ],
+            [
+              "Information",
+              "Avant la commande",
+              "Prix total et frais"
+            ],
+            [
+              "Rétractation",
+              "14 jours",
+              "Formulaire fourni"
+            ],
+            [
+              "Conformité",
+              "2 ans",
+              "Bien neuf"
+            ],
+            [
+              "Clause abusive",
+              "Non écrite",
+              "Déséquilibre"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Verifier les mentions obligatoires",
+            "Afficher le prix complet",
+            "Joindre le formulaire de retrait",
+            "Expliquer la garantie legale",
+            "Conserver la preuve de l information"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode pas à pas",
+          "items": [
+            "Rédiger une offre lisible",
+            "Vérifier prix, frais et délais",
+            "Mentionner le droit de rétractation",
+            "Présenter les garanties",
+            "Conserver une trace de l information"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Cacher les frais jusqu au paiement",
+            "Affirmer un avantage faux",
+            "Presser un client vulnerable",
+            "Réduire la garantie legale par une clause",
+            "Omettre le formulaire de retrait"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples chiffrés",
+          "items": [
+            "29 € affichés + 9 € caches = 38 €",
+            "Soit + 31 % au moment du paiement",
+            "Rétractation : 14 jours",
+            "Garantie légale : 2 ans",
+            "Clause abusive = non écrite"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Droits du consommateur",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Droits du consommateur\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Droits du consommateur</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Droit</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Délai / durée</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Point de vigilance</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Information</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Avant la commande</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Prix total et frais</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rétractation</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">14 jours</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Formulaire fourni</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Conformité</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">2 ans</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Bien neuf</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Clause abusive</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Non écrite</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Déséquilibre</text></svg>"
+        },
+        {
+          "titre": "2 · Conclure en conformité",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Conclure en conformité\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Conclure en conformité</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rédiger une offre lisible</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Vérifier prix, frais et délais</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mentionner le droit de rétractation</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Présenter les garanties</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Conserver une trace de l information</text></svg>"
+        },
+        {
+          "titre": "3 · Information claire / trompeuse",
+          "svg": "<svg viewBox=\"0 0 660 124\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Information claire / trompeuse\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Information claire / trompeuse</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">À faire</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Rédiger une offre lisible</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Vérifier prix, frais et délais</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">À éviter</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Cacher les frais jusqu au paiement</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Affirmer un avantage faux</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ndrc"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Droit",
+      "titre": "DR3 · Concurrence et relations de distribution",
+      "source": "Arrêté du 19 février 2018 modifié (NOR ESRS1803333A, BO du 15 mars 2018), BTS « Négociation et digitalisation de la relation client » (RNCP 38368) · Référentiel de certification U1 à U6 (annexes I a, I b, II a, II b), arrêtés modificatifs des 13 décembre 2023, 19 mars 2024 et 8 juillet 2024 · éduscol, ressources BTS NDRC",
+      "points": [
+        "Le droit de la concurrence garantit la liberté d'accès au marché et interdit les comportements qui faussent le jeu concurrentiel.",
+        "L'article L. 410-1 du Code de commerce pose le principe de la liberté de la concurrence, sous réserve des règles propres à certains secteurs.",
+        "Les ententes entre entreprises concurrentes sont interdites lorsqu'elles ont pour objet ou effet de restreindre la concurrence, notamment sur les prix ou la répartition des marchés.",
+        "L'abus de position dominante consiste, pour une entreprise puissante, à exploiter sa situation pour écarter des concurrents ou imposer des conditions disproportionnées.",
+        "Les pratiques restrictives de concurrence visent notamment le déséquilibre significatif dans un contrat et la rupture brutale d'une relation commerciale établie.",
+        "La rupture d'une relation commerciale établie doit être notifiée par écrit avec un préavis tenant compte de l'ancienneté de la relation ; une durée minimale de trois mois est prévue par le texte.",
+        "Un fournisseur ne peut pas soumettre l'octroi d'un avantage à l'achat d'un autre produit sans justification : c'est la vente conditionnée, en principe interdite.",
+        "Les prix ne peuvent pas être imposés au revendeur par le fournisseur, sauf exception légale : le revendeur fixe librement son prix de revente.",
+        "La violation de ces règles peut être sanctionnée par l'Autorité de la concurrence et donner lieu à des dommages-intérêts pour les victimes.",
+        "Les contrats de distribution (concession, franchise) organisent la relation entre le fournisseur et le revendeur ; la franchise implique une marque commune et un savoir-faire.",
+        "Avant de signer un contrat de franchise, le candidat doit recevoir un document d'information précontractuel suffisamment tôt pour disposer d'un délai de réflexion.",
+        "Exemple : un distributeur rompt sans préavis une relation de cinq ans représentant 30 % du chiffre du fournisseur : la rupture est probablement brutale et ouvrira droit à indemnisation."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel principe pose l'article L. 410-1 du Code de commerce ?",
+          "options": [
+            "La liberté de la concurrence",
+            "Le prix imposé",
+            "Le monopole",
+            "La vente conditionnée"
+          ],
+          "correct": 0,
+          "correction": "L'article L. 410-1 énonce la liberté de la concurrence, principle fondateur du droit commercial."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce qu'une entente entre concurrents ?",
+          "options": [
+            "Un accord sur les prix interdit en principe",
+            "Une vente au détail",
+            "Un contrat de travail",
+            "Une garantie légale"
+          ],
+          "correct": 0,
+          "correction": "Un accord entre concurrents sur les prix ou le partage du marché est une entente interdite lorsqu'elle restreint la concurrence."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel préavis minimal s'applique à la rupture d'une relation établie ?",
+          "options": [
+            "Aucun préavis",
+            "Trois mois",
+            "Un an",
+            "Dix ans"
+          ],
+          "correct": 1,
+          "correction": "Le texte prévoit un préavis écrit tenant compte de la relation, avec une durée minimale de trois mois."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce que la vente conditionnée ?",
+          "options": [
+            "Subordonner un avantage à l'achat d'un autre produit",
+            "Vendre à perte",
+            "Imposer un prix de revente",
+            "Refuser une remise"
+          ],
+          "correct": 0,
+          "correction": "La vente conditionnée soumet l'octroi d'un avantage à l'achat d'un autre produit ou service, ce qui est en principe interdit."
+        },
+        {
+          "type": "qcm",
+          "q": "Un fournisseur peut-il imposer un prix de revente ?",
+          "options": [
+            "Toujours",
+            "En principe non",
+            "Uniquement en franchise",
+            "Uniquement en ligne"
+          ],
+          "correct": 1,
+          "correction": "Le revendeur fixe librement ses prix ; l'imposition de prix de revente est en principe interdite."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle autorité sanctionne les pratiques anticoncurrentielles en France ?",
+          "options": [
+            "La CNIL",
+            "L'Autorité de la concurrence",
+            "L'URSSAF",
+            "Le tribunal des affaires de sécurité sociale"
+          ],
+          "correct": 1,
+          "correction": "L'Autorité de la concurrence instruit et sanctionne ententes, abus de position dominante et pratiques restrictives."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel document doit recevoir un candidat à la franchise ?",
+          "options": [
+            "Un document d'information précontractuel",
+            "Une facture",
+            "Un bulletin de salaire",
+            "Un avis d'imposition"
+          ],
+          "correct": 0,
+          "correction": "La réglementation impose la remise d'un document d'information avant la signature ou le versement de fonds."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le risque d'une rupture sans préavis ?",
+          "options": [
+            "Aucun risque",
+            "Une action en dommages-intérêts",
+            "Une hausse de la marge",
+            "Une garantie automatique"
+          ],
+          "correct": 1,
+          "correction": "Une rupture brutale d'une relation établie peut être sanctionnée et donner lieu à indemnisation du préjudice."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer la différence entre entente et abus de position dominante.",
+          "reponse": "Une entente est un accord ou une concertation entre plusieurs entreprises, généralement concurrentes, pour restreindre la concurrence, par exemple sur les prix. L'abus de position dominante est le comportement unilatéral d'une entreprise détenant un pouvoir de marché, qui exploite cette position pour écarter des rivaux ou imposer des conditions abusives. La première implique plusieurs acteurs, la seconde un seul acteur puissant.",
+          "correction": "On oppose un accord entre entreprises à un comportement unilatéral d'une entreprise dominante."
+        },
+        {
+          "type": "texte",
+          "q": "Un fournisseur met fin à une relation de cinq ans sans préavis ; le revendeur réalisait 30 % de son chiffre avec cette marque. Analyser la situation.",
+          "reponse": "La relation étant ancienne et stabilisée, sa rupture totale et immédiate sans préavis écrit constitue probablement une rupture brutale au sens de l'article L. 442-1 du Code de commerce. Le préavis minimal légal est de trois mois et doit tenir compte de l'ancienneté. Le revendeur peut demander des dommages-intérêts correspondant au préjudice subi, par exemple la perte de marge sur la période de préavis et les frais de réorganisation. Le fournisseur doit dokumenter les motifs de la rupture et proposer un préavis adapté.",
+          "correction": "On qualifie la rupture, on rappelle le préavis et on évalue le préjudice indemnizable."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "La concurrence protège le jeu du marché : ni accord entre rivaux, ni abus de puissance, ni rupture brutale d'un partenaire."
+        },
+        {
+          "type": "formule",
+          "titre": "L'essentiel en une formule",
+          "eq": "Interdictions",
+          "leg": "Ententes · abus de position dominante · ventes conditionnées · rupture brutale|Préavis écrit, au moins trois mois."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Pratique",
+              "Interdiction",
+              "Sanction"
+            ],
+            [
+              "Entente sur les prix",
+              "Interdite",
+              "Autorité de la concurrence"
+            ],
+            [
+              "Abus dominant",
+              "Interdit",
+              "Sanctions et dommages"
+            ],
+            [
+              "Vente conditionnee",
+              "Interdite en principe",
+              "Action en concurrence"
+            ],
+            [
+              "Rupture brutale",
+              "Préavis requis",
+              "Dommages-interets"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Qualifier la pratique observe",
+            "Verifier la base legale",
+            "Evaluer les effets sur le marche",
+            "Identifier les sanctions possibles",
+            "Mettre en conformite le contrat"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode pas à pas",
+          "items": [
+            "Cartographier les relations commerciales",
+            "Verifier les clauses du contrat de distribution",
+            "Respecter le preavis ecrit",
+            "Former les equipes commerciales",
+            "Documenter les decisions de rupture"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "S aligner sur les prix concurrents par accord",
+            "Imposer un prix au revendeur",
+            "Rompre sans preavis ecrit",
+            "Subordonner une remise a un achat",
+            "Omettre le document d information en franchise"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples chiffrés",
+          "items": [
+            "Relation de 5 ans, 30 % du CA du revendeur",
+            "Preavis minimal : 3 mois",
+            "Rupture brutale → indemnisation",
+            "Prix de revente libre",
+            "Document precontractuel avant signature"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Règles de concurrence",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Règles de concurrence\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Règles de concurrence</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Pratique</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Interdiction</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sanction</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Entente sur les prix</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Interdite</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Autorité de la</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Abus dominant</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Interdit</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sanctions et dommages</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Vente conditionnee</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Interdite en principe</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Action en concurrence</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rupture brutale</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Préavis requis</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Dommages-interets</text></svg>"
+        },
+        {
+          "titre": "2 · Sécuriser la distribution",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Sécuriser la distribution\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Sécuriser la distribution</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Cartographier les relations commerciales</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Verifier les clauses du contrat de distribution</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Respecter le preavis ecrit</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Former les equipes commerciales</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Documenter les decisions de rupture</text></svg>"
+        },
+        {
+          "titre": "3 · Pratique licite / interdite",
+          "svg": "<svg viewBox=\"0 0 660 124\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Pratique licite / interdite\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Pratique licite / interdite</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">À faire</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Cartographier les relations commerciales</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Verifier les clauses du contrat de</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">À éviter</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">S aligner sur les prix concurrents par</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Imposer un prix au revendeur</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ndrc"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Droit",
+      "titre": "DR4 · Droit social et contrat de travail",
+      "source": "Arrêté du 19 février 2018 modifié (NOR ESRS1803333A, BO du 15 mars 2018), BTS « Négociation et digitalisation de la relation client » (RNCP 38368) · Référentiel de certification U1 à U6 (annexes I a, I b, II a, II b), arrêtés modificatifs des 13 décembre 2023, 19 mars 2024 et 8 juillet 2024 · éduscol, ressources BTS NDRC",
+      "points": [
+        "Le contrat de travail est une convention par laquelle une personne s'engage à travailler pour le compte d'une autre, sous sa direction et son contrôle, moyennant une rémunération.",
+        "Trois critères caractérisent le contrat de travail : la prestation de travail, la rémunération et le lien de subordination.",
+        "Le CDI est le contrat de droit commun, sans durée déterminée ; le CDD est conclu pour une durée limitée et ne peut répondre qu'à des motifs prévus par la loi.",
+        "La période d'essai permet à l'employeur d'évaluer le salarié et à celui-ci de tester l'emploi ; sa durée est limitée et doit être prévue au contrat.",
+        "La durée légale du travail est de 35 heures par semaine ; les heures supplémentaires donnent droit à une majoration de salaire ou à un repos compensateur.",
+        "Le salaire doit être au moins égal au SMIC et respecter la convention collective applicable ; le principe « à travail égal, salaire égal » s'applique.",
+        "Le salarié bénéficie de congés payés, de jours de repos, d'une protection sociale et du droit à la formation professionnelle.",
+        "L'employeur doit assurer la sécurité et protéger la santé physique et mentale des travailleurs ; le DUERP recense les risques professionnels.",
+        "Le licenciement doit respecter une procédure : convocation à un entretien préalable, entretien, puis notification écrite avec indication du motif.",
+        "Un licenciement sans cause réelle et sérieuse expose l'employeur à des dommages-intérêts ; la rupture conventionnelle est une modalité de départ négociée et homologuée.",
+        "En management commercial, le responsable doit connaître ces règles pour conduire les entretiens, fixer les objectifs et éviter les pratiques discriminatoires.",
+        "Exemple : un commercial recruté en CDD pour remplacer une salariée en congé maternité répond à un motif légal de recours au CDD."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quels sont les trois critères du contrat de travail ?",
+          "options": [
+            "Préstation, rémunération, subordination",
+            "Bénéfice, stock, prix",
+            "Client, produit, marché",
+            "Formation, diplôme, âge"
+          ],
+          "correct": 0,
+          "correction": "Le contrat de travail suppose une prestation de travail, une rémunération et un lien de subordination."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le contrat de droit commun ?",
+          "options": [
+            "Le CDD",
+            "Le CDI",
+            "Le contrat d'apprentissage",
+            "Le contrat saisonnier"
+          ],
+          "correct": 1,
+          "correction": "Le CDI est le contrat de droit commun, conclu sans durée déterminée."
+        },
+        {
+          "type": "qcm",
+          "q": "Un CDD peut-il être utilisé pour remplacer une salariée en congé maternité ?",
+          "options": [
+            "Oui, c'est un motif prévu",
+            "Non, jamais",
+            "Oui, sans limite de durée",
+            "Uniquement en CDI"
+          ],
+          "correct": 0,
+          "correction": "Le remplacement d'un salarié absent, notamment en congé maternité, est un motif autorisé de CDD."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la durée légale hebdomadaire du travail ?",
+          "options": [
+            "35 heures",
+            "39 heures",
+            "40 heures",
+            "32 heures"
+          ],
+          "correct": 0,
+          "correction": "La durée légale est de 35 heures par semaine ; au-delà, les heures supplémentaires sont majorées ou compensées."
+        },
+        {
+          "type": "qcm",
+          "q": "Que garantit le principe « à travail égal, salaire égal » ?",
+          "options": [
+            "Une rémunération identique sans exceptions",
+            "Une égalité de traitement pour un travail de valeur égale",
+            "Le salaire le plus haut",
+            "Une prime automatique"
+          ],
+          "correct": 1,
+          "correction": "Il interdit les écarts de rémunération non justifiés entre salariés effectuant un travail de valeur égale."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la première étape d'un licenciement individuel ?",
+          "options": [
+            "La notification écrite",
+            "La convocation à l'entretien préalable",
+            "Le préavis",
+            "Le solde de tout compte"
+          ],
+          "correct": 1,
+          "correction": "Le salarié doit d'abord être convoqué à un entretien préalable avant toute notification de licenciement."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce que le DUERP ?",
+          "options": [
+            "Un document d'évaluation des risques professionnels",
+            "Un contrat de vente",
+            "Une facture",
+            "Un bulletin de paie"
+          ],
+          "correct": 0,
+          "correction": "Le document unique d'évaluation des risques professionnels recense et évalue les risques auxquels les salariés sont exposés."
+        },
+        {
+          "type": "qcm",
+          "q": "Que se passe-t-il en cas de licenciement sans cause réelle et sérieuse ?",
+          "options": [
+            "Rien",
+            "Des dommages-intérêts peuvent être dus",
+            "Le contrat continue automatiquement",
+            "Une amende pour le salarié"
+          ],
+          "correct": 1,
+          "correction": "Un licenciement dépourvu de cause réelle et sérieuse peut donner lieu à des dommages-intérêts."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer la différence entre licenciement et rupture conventionnelle.",
+          "reponse": "Le licenciement est une rupture décidée unilatéralement par l'employeur, qui doit respecter une procédure et justifier d'une cause réelle et sérieuse. La rupture conventionnelle est un accord entre l'employeur et le salarié sur le principe et les conditions du départ ; elle est homologuée par l'administration et ouvre droit aux indemnités légales. La première est un acte unilatéral encadré, la seconde un accord négocié.",
+          "correction": "On oppose une décision unilatérale à un départ consenti et homologué."
+        },
+        {
+          "type": "texte",
+          "q": "Un commercial travaille 42 heures une semaine. Calculer les heures supplémentaires et expliquer les obligations de l'employeur.",
+          "reponse": "Les heures supplémentaires sont de 42 − 35 = 7 heures. L'employeur doit les rémunérer avec la majoration légale de 25 % pour les premières heures (50 % au-delà d'un certain seuil selon la convention collective) ou accorder un repos compensateur équivalent. Il doit les déclarer et respecter les durées maximales de travail et de repos quotidien. Le contrat et le bulletin de salaire doivent refléter ces heures.",
+          "correction": "On calcule l'écart avec 35 heures, puis on rappelle majoration, compensation et traçabilité."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Manager une équipe commerciale, c'est aussi appliquer le droit du travail : contrat, temps, salaire et procédure de départ encadrés."
+        },
+        {
+          "type": "formule",
+          "titre": "L'essentiel en une formule",
+          "eq": "Contrat de travail",
+          "leg": "Prestation + rémunération + subordination|35 h, SMIC, congés et sécurité : socle légal et conventionnel."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Thème",
+              "Règle",
+              "Risque"
+            ],
+            [
+              "CDD",
+              "Motif prevu par la loi",
+              "Requalification en CDI"
+            ],
+            [
+              "Temps de travail",
+              "35 heures legales",
+              "Heures non payees"
+            ],
+            [
+              "Salaire",
+              "SMIC et convention",
+              "Inégalite de traitement"
+            ],
+            [
+              "Licenciement",
+              "Entretien puis notification",
+              "Dommages-interets"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Verifier le type de contrat",
+            "Suivre les heures et les repos",
+            "Appliquer la convention collective",
+            "Conduire l entretien selon la procedure",
+            "Documenter les decisions"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode pas à pas",
+          "items": [
+            "Rédiger le contrat et la période d essai",
+            "Organiser le temps de travail",
+            "Fixer la rémunération selon la grille",
+            "Assurer la sécurité et la formation",
+            "Respecter la procédure de rupture"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Utiliser un CDD sans motif legal",
+            "Oublier la majoration des heures supplémentaires",
+            "Fixer un salaire sous le SMIC",
+            "Licencier sans entretien préalable",
+            "Ignorer les risques professionnels"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples chiffrés",
+          "items": [
+            "42 h − 35 h = 7 h supplementaires",
+            "Majoration legal de 25 %",
+            "CDD remplacement = motif autorise",
+            "Preavis et entretien obligatoires",
+            "DUERP mis a jour chaque annee"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Le contrat de travail",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Le contrat de travail\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Le contrat de travail</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Thème</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Règle</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Risque</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">CDD</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Motif prevu par la loi</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Requalification en CDI</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Temps de travail</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">35 heures legales</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Heures non payees</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Salaire</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">SMIC et convention</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Inégalite de traitement</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Licenciement</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Entretien puis</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Dommages-interets</text></svg>"
+        },
+        {
+          "titre": "2 · Manager dans la légalité",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Manager dans la légalité\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Manager dans la légalité</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rédiger le contrat et la période d essai</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Organiser le temps de travail</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Fixer la rémunération selon la grille</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Assurer la sécurité et la formation</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Respecter la procédure de rupture</text></svg>"
+        },
+        {
+          "titre": "3 · Pratique conforme / risquée",
+          "svg": "<svg viewBox=\"0 0 660 124\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Pratique conforme / risquée\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Pratique conforme / risquée</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">À faire</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Rédiger le contrat et la période d essai</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Organiser le temps de travail</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">À éviter</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Utiliser un CDD sans motif legal</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Oublier la majoration des heures</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ndrc"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Droit",
+      "titre": "DR5 · Responsabilité et protection des données",
+      "source": "Arrêté du 19 février 2018 modifié (NOR ESRS1803333A, BO du 15 mars 2018), BTS « Négociation et digitalisation de la relation client » (RNCP 38368) · Référentiel de certification U1 à U6 (annexes I a, I b, II a, II b), arrêtés modificatifs des 13 décembre 2023, 19 mars 2024 et 8 juillet 2024 · éduscol, ressources BTS NDRC",
+      "points": [
+        "La responsabilité civile oblige une personne à réparer le dommage causé à autrui, sur le fondement contractuel ou délictuel.",
+        "En matière délictuelle, la responsabilité suppose une faute, un dommage et un lien de causalité ; certains régimes spéciaux reposent sur la seule garde de la chose.",
+        "La responsabilité du fait des produits défectueux permet d'indemniser le consommateur sans prouver la faute du producteur, mais obligation de prouver le défaut et le dommage.",
+        "Le RGPD (règlement UE 2016/679) et la loi Informatique et Libertés encadrent les traitements de données personnelles en France.",
+        "Les données sensibles (santé, opinions, origine, religion, données biométriques) bénéficient d'un régime renforcé et sont en principe interdites de traitement, sauf exception.",
+        "Le responsable de traitement doit mettre en oeuvre des mesures techniques et organisationnelles appropriées : chiffrement, contrôle des accès, journalisation et sauvegardes.",
+        "Les sous-traitants qui traitent des données pour le compte de l'entreprise doivent être liés par un contrat précisant objet, durée, finalité et obligations de sécurité.",
+        "Les sanctions administratives peuvent atteindre 20 millions d'euros ou 4 % du chiffre d'affaires annuel mondial pour les violations les plus graves.",
+        "Le délégué à la protection des données conseille l'organisation, surveille la conformité et sert d'interlocuteur avec l'autorité de contrôle.",
+        "En cas de violation de données, le responsable doit documenter l'incident et notifier la CNIL dans les 72 heures si un risque existe pour les personnes.",
+        "En BTS NDRC, le commercial engage la responsabilité de l'entreprise par ses propos et ses traitements de données : exactitude des informations, réserves sur les promesses et respect des droits.",
+        "Exemple : une base de prospects conservée trois ans sans justification ni information expose l'entreprise à une mise en demeure et à une amende."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quels éléments caractérisent la responsabilité délictuelle ?",
+          "options": [
+            "Faute, dommage, lien de causalité",
+            "Contrat, prix, livraison",
+            "Client, marge, stock",
+            "Salarie, salaire, primes"
+          ],
+          "correct": 0,
+          "correction": "La responsabilité délictuelle repose sur une faute, un dommage et un lien de causalité entre eux."
+        },
+        {
+          "type": "qcm",
+          "q": "Que doit prouver un consommateur dans une action pour produit défectueux ?",
+          "options": [
+            "La faute du producteur",
+            "Le défaut, le dommage et le lien",
+            "Le prix du produit",
+            "La publicité vue"
+          ],
+          "correct": 1,
+          "correction": "Ce régime dispense de prouver la faute mais exige de caractériser le défaut, le dommage et le lien de causalité."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle donnée est sensible au sens du RGPD ?",
+          "options": [
+            "Une adresse e-mail professionnelle",
+            "Une donnée de santé",
+            "Un code postal",
+            "Un numéro de commande"
+          ],
+          "correct": 1,
+          "correction": "Les données de santé, d'opinion, d'origine ou biométriques sont sensibles et bénéficient d'un régime renforcé."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle mesure technique relève de la sécurité des traitements ?",
+          "options": [
+            "Le chiffrement et le contrôle des accès",
+            "La publicité",
+            "Le prix bas",
+            "Le logo"
+          ],
+          "correct": 0,
+          "correction": "Le RGPD impose des mesures appropriées comme le chiffrement, la journalisation et la limitation des accès."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel plafond de sanction administrative prévoit le RGPD ?",
+          "options": [
+            "20 000 € ou 1 % du CA",
+            "20 M€ ou 4 % du CA mondial",
+            "500 €",
+            "Aucune limite"
+          ],
+          "correct": 1,
+          "correction": "Les violations les plus graves peuvent être sanctionnées jusqu'à 20 millions d'euros ou 4 % du chiffre d'affaires annuel mondial."
+        },
+        {
+          "type": "qcm",
+          "q": "Que doit contenir un contrat de sous-traitance de données ?",
+          "options": [
+            "Le prix uniquement",
+            "L'objet, la durée, la finalité et les obligations de sécurité",
+            "Le nombre de salariés",
+            "La couleur du logo"
+          ],
+          "correct": 1,
+          "correction": "Le contrat doit préciser l'objet, la durée, la nature et la finalité du traitement, les types de données et les obligations du sous-traitant."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le délai de notification d'une violation à la CNIL ?",
+          "options": [
+            "24 heures",
+            "72 heures",
+            "8 jours",
+            "30 jours"
+          ],
+          "correct": 1,
+          "correction": "La notification à l'autorité de contrôle doit intervenir dans les 72 heures lorsqu'il existe un risque pour les personnes."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le rôle du DPO ?",
+          "options": [
+            "Vendre les données",
+            "Conseiller et contrôler la conformité",
+            "Remplacer le service juridique",
+            "Fixer les prix"
+          ],
+          "correct": 1,
+          "correction": "Le délégué à la protection des données conseille, surveille la conformité et fait le lien avec l'autorité de contrôle."
+        },
+        {
+          "type": "texte",
+          "q": "Distinguer responsabilité contractuelle et responsabilité délictuelle.",
+          "reponse": "La responsabilité contractuelle s'applique entre parties liées par un contrat : le créancier doit prouver l'inexécution d'une obligation contractuelle. La responsabilité délictuelle s'applique en l'absence de contrat, lorsque la faute de l'auteur cause un dommage à autrui ; elle repose sur faute, dommage et lien de causalité. Le concours des deux responsabilités est exclu entre les mêmes parties pour le même dommage.",
+          "correction": "On oppose l'inexécution d'un contrat à la faute extracontractuelle."
+        },
+        {
+          "type": "texte",
+          "q": "Une base de 10 000 prospects est conservée depuis trois ans sans justification ni information des personnes. Analyser le risque.",
+          "reponse": "La conservation illimitée viole le principe de limitation de la conservation des données et, si les personnes n'ont pas été informées, le principe de transparence. Les données sont traitées sans base légale vérifiable pour une prospection ancienne. L'entreprise s'expose à une mise en demeure de la CNIL, à une amende pouvant atteindre 20 M€ ou 4 % du chiffre d'affaires mondial, et à des actions d'exercice des droits (effacement, opposition). La mise en conformité suppose de documenter la finalité, d'informer les personnes, de purger les données obsolètes et de tracer la décision.",
+          "correction": "On identifie les principes violés, les sanctions encourues et les mesures de remise en conformité."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "La responsabilité ne s'arrête pas à la vente : elle couvre la qualité de l'information donnée et la garde des données reçues."
+        },
+        {
+          "type": "formule",
+          "titre": "L'essentiel en une formule",
+          "eq": "Responsabilité et données",
+          "leg": "Faute + dommage + lien · RGPD : finalité, minimisation, sécurité, droits|Sanction jusqu'à 20 M€ ou 4 % du CA mondial."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Domaine",
+              "Règle clé",
+              "Risque"
+            ],
+            [
+              "Responsabilité",
+              "Faute, dommage, lien",
+              "Dommages-intérêts"
+            ],
+            [
+              "Produit",
+              "Defaut sans faute a prouver",
+              "Rappel et indemnisation"
+            ],
+            [
+              "Donnees",
+              "Finalite et conservation limitee",
+              "Amende RGPD"
+            ],
+            [
+              "Sous-traitance",
+              "Contrat ecrit obligatoire",
+              "Responsabilité solidaire"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Identifier le fondement de la responsabilité",
+            "Verifier les obligations de securite",
+            "Documenter les traitements",
+            "Traiter les droits des personnes",
+            "Notifier toute violation sous 72 h"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode pas à pas",
+          "items": [
+            "Cartographier les donnees collectees",
+            "Etablir les finalites et bases legales",
+            "Signer les contrats de sous-traitance",
+            "Former les equipes commerciales",
+            "Tester la procedure de notification"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Conserver une base sans limite de duree",
+            "Traiter des donnees sensibles sans exception",
+            "Confier des donnees sans contrat",
+            "Ignorer une demande d effacement",
+            "Attendre plus de 72 h pour notifier"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples chiffrés",
+          "items": [
+            "10 000 prospects × 3 ans sans justification",
+            "Sanction maximale : 20 M€ ou 4 % du CA",
+            "Notification CNIL : 72 h",
+            "Donnees sensibles : regime renforce",
+            "Contrat de sous-traitance ecrit"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Fondements de la responsabilité",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Fondements de la responsabilité\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Fondements de la responsabilité</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Domaine</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Règle clé</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Risque</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Responsabilité</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Faute, dommage, lien</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Dommages-intérêts</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Produit</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Defaut sans faute a</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rappel et indemnisation</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Donnees</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Finalite et conservation</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Amende RGPD</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sous-traitance</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Contrat ecrit</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Responsabilité solidaire</text></svg>"
+        },
+        {
+          "titre": "2 · Se conformer au RGPD",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Se conformer au RGPD\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Se conformer au RGPD</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Cartographier les donnees collectees</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Etablir les finalites et bases legales</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Signer les contrats de sous-traitance</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Former les equipes commerciales</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Tester la procedure de notification</text></svg>"
+        },
+        {
+          "titre": "3 · Conformité / sanction",
+          "svg": "<svg viewBox=\"0 0 660 124\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Conformité / sanction\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Conformité / sanction</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">À faire</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Cartographier les donnees collectees</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Etablir les finalites et bases legales</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">À éviter</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Conserver une base sans limite de duree</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Traiter des donnees sensibles sans</text></svg>"
+        }
+      ]
+    }
+  ]
+}

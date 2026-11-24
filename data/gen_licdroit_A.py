@@ -899,7 +899,7 @@ F.append(build(
         ("Pleine juridiction", ["Réformation", "Indemnité", "Appréciation complète"]))]))
 
 F.append(build(
-    L2, "Droit", "DRB4. · L'Union européenne : institutions et sources", REF_D,
+    L2, "Droit", "DR4. · L'Union européenne : institutions et sources", REF_D,
     [
         "L'Union européenne est une organisation internationale régionale créée par le traité de Maastricht (1992), qui succède aux Communautés européennes. Elle repose sur des traités fondateurs et dispose d'un ordre juridique propre.",
         "Les traités fondateurs sont le TUE (Traité sur l'Union européenne) et le TFUE (Traité sur le fonctionnement de l'Union européenne), complétés par la Charte des droits fondamentaux et les protocoles annexés.",
@@ -983,7 +983,7 @@ F.append(build(
         ("Directive", ["Résultat contraignant", "Moyens libres", "Transposition requise"]))]))
 
 F.append(build(
-    L2, "Droit", "DRB5. · Le droit international public : sujets et sources", REF_D,
+    L2, "Droit", "DR5. · Le droit international public : sujets et sources", REF_D,
     [
         "Le droit international public est l'ensemble des règles qui régissent les relations entre les États et les autres sujets de la communauté internationale. Il repose sur le principe de l'égalité souveraine des États (art. 2 §1 de la Charte des Nations unies).",
         "Les sujets principaux du droit international sont les États. La souveraineté implique l'indépendance politique, l'intégrité territoriale et l'absence de subordination à un pouvoir supérieur.",
@@ -1067,7 +1067,7 @@ F.append(build(
         ("Coutume", ["Non écrit", "Pratique + opinio juris", "Oblige tous"]))]))
 
 F.append(build(
-    L2, "Droit", "DRB6. · Le contrat de travail", REF_D,
+    L2, "Droit", "DR6. · Le contrat de travail", REF_D,
     [
         "Le contrat de travail est une convention par laquelle une personne, le salarié, s'engage à travailler pour le compte et sous la direction d'une autre, l'employeur, moyennant une rémunération (art. L.1221-1 du Code du travail).",
         "Le contrat de travail se caractérise par trois éléments : une prestation de travail, une rémunération et un lien de subordination. Ce dernier est le critère déterminant : il implique un pouvoir de direction, de contrôle et de sanction de l'employeur.",
@@ -1150,7 +1150,7 @@ F.append(build(
         ("CDD", ["Durée déterminée", "Motif légal", "Pas d'emploi permanent"]))]))
 
 F.append(build(
-    L2, "Droit", "DRB7. · Le procès civil et les voies de recours", REF_D,
+    L2, "Droit", "DR7. · Le procès civil et les voies de recours", REF_D,
     [
         "Le procès civil est l'ensemble des étapes par lesquelles les justiciables soumettent un litige de droit privé à l'autorité judiciaire afin d'obtenir une décision. Il est régi par le Code de procédure civile.",
         "Le principe du contradictoire impose que chaque partie puisse connaître et discuter les arguments et les preuves de l'autre. Il est garanti par l'article 6 de la Convention européenne des droits de l'homme.",
@@ -1233,7 +1233,7 @@ F.append(build(
         ("Cassation", ["Droit seul", "Cour de cassation", "Cassation + renvoi"]))]))
 
 F.append(build(
-    L2, "Droit", "DRB8. · Droit de l'Union et libertés fondamentales", REF_D,
+    L2, "Droit", "DR8. · Droit de l'Union et libertés fondamentales", REF_D,
     [
         "La Charte des droits fondamentaux de l'Union européenne, proclamée à Nice en 2000 et rendue obligatoire par le traité de Lisbonne en 2009, constitue le catalogue des droits de la personne dans l'ordre juridique de l'Union (art. 6 TUE).",
         "La Charte s'adresse d'abord aux institutions et organes de l'Union dans l'exercice de leurs compétences, ainsi qu'aux États membres lorsqu'ils mettent en œuvre le droit de l'Union (art. 51 Charte).",
@@ -1318,7 +1318,7 @@ F.append(build(
         ("CEDH", ["Cour EDH (Strasbourg)", "Convention 1950", "Tous les États du Conseil de l'Europe"]))]))
 
 F.append(build(
-    L3, "Droit", "DRB9. · Responsabilité internationale et droit humanitaire", REF_D,
+    L3, "Droit", "DR9. · Responsabilité internationale et droit humanitaire", REF_D,
     [
         "La responsabilité internationale est l'obligation pour un sujet de droit international de réparer le dommage causé à un autre sujet par un fait illicite qui lui est imputable. Elle a été codifiée par la Commission du droit international (CDI) en 2001.",
         "Un fait internationalement illicite existe lorsqu'un acte ou une omission est attribuable à un État et constitue une violation d'une obligation internationale de cet État (art. 2 du projet d'articles de la CDI de 2001).",
@@ -1402,7 +1402,7 @@ F.append(build(
         ("Humanitaire", ["Limitations à la guerre", "Protection des personnes", "Genève 1949"]))]))
 
 F.append(build(
-    L3, "Droit", "DRB10. · Protection sociale et dialogue social", REF_D,
+    L3, "Droit", "DR10. · Protection sociale et dialogue social", REF_D,
     [
         "La protection sociale désigne l'ensemble des mécanismes par lesquels la collectivité protège les individus contre les risques sociaux : maladie, vieillesse, chômage, accidents du travail, invalidité, maternité et pauvreté.",
         "Le système français de protection sociale repose sur le principe de solidarité : les cotisations des actifs financent les prestations servies aux ayants droit. Il a été fondé sur les lois de 1945 créant la Sécurité sociale.",
@@ -1488,7 +1488,7 @@ F.append(build(
         ("Convention collective", ["Négociée", "Plus favorable autorisé", "Branche ou entreprise"]))]))
 
 F.append(build(
-    L2, "Droit", "DRB1. · L'organisation judiciaire civile", REF_D,
+    L2, "Droit", "DR1. · L'organisation judiciaire civile", REF_D,
     [
         "L'organisation judiciaire française distingue deux ordres de juridictions : l'ordre judiciaire, compétent pour le droit privé et la matière pénale, et l'ordre administratif, compétent pour les litiges impliquant l'administration.",
         "L'ordre judiciaire est structuré en trois degrés : les juridictions de premier degré (tribunal judiciaire, tribunal de commerce, conseil de prud'hommes), les cours d'appel et la Cour de cassation.",
@@ -1571,7 +1571,7 @@ F.append(build(
         ("Conseil d'État", ["Ordre administratif", "Litiges administration", "Avis au gouvernement"]))]))
 
 F.append(build(
-    L2, "Droit", "DRB2. · La Constitution et le bloc de constitutionnalité", REF_D,
+    L2, "Droit", "DR2. · La Constitution et le bloc de constitutionnalité", REF_D,
     [
         "La Constitution du 4 octobre 1958 est la loi fondamentale de la Ve République. Elle fixe l'organisation des pouvoirs publics, leurs compétences et les droits et libertés des citoyens.",
         "Le préambule de la Constitution renvoie à la Déclaration des droits de l'homme et du citoyen de 1789, au préambule de la Constitution du 27 octobre 1946 et à la Charte de l'environnement de 2004. Ces textes forment le « bloc de constitutionnalité ».",
@@ -1657,7 +1657,7 @@ F.append(build(
         ("Art. 61-1 (QPC)", ["Après entrée en vigueur", "Saisine par un justiciable", "Abrogation possible"]))]))
 
 F.append(build(
-    L3, "Droit", "DRB3. · Les institutions de la Ve République", REF_D,
+    L3, "Droit", "DR3. · Les institutions de la Ve République", REF_D,
     [
         "La Ve République, instaurée par la Constitution du 4 octobre 1958, repose sur un régime semi-présidentiel : un Président de la République élu au suffrage universel direct et un Gouvernement responsable devant le Parlement.",
         "Le Président de la République est élu pour un mandat de cinq ans au suffrage universel direct depuis la réforme de 1962. Il nomme le Premier ministre et, sur proposition de celui-ci, les membres du Gouvernement.",

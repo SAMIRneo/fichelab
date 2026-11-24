@@ -1,8 +1,9 @@
-Fiches totales dans EXTRA_FICHES : 843
-Nouvelles fiches ajoutees : 239 (dont 239 prototype)
-Filieres converties : bts-bio, bts-mco, generale, pass
-Fichiers sources ajoutes : generale-mat-part-A.json, generale-mat-part-B.json, generale-mat-part-C.json, generale-mat-part-D.json, generale-mat-part-E.json, generale-mat-part-F.json, generale-mat-part-G.json, mco-mat-part-A.json, mco-mat-part-B.json, mco-mat-part-C.json, mco-mat-part-D.json, pass-mat-part-A.json, pass-mat-part-B.json, pass-mat-part-C.json
+Fiches totales dans EXTRA_FICHES : 881
+Nouvelles fiches ajoutees : 299 (dont 299 prototype)
+Filieres converties : bts-bio, bts-mco, generale, lic-droit, pass
+Fichiers sources ajoutes : btsndrc-mat-part-A.json, btsndrc-mat-part-B.json, btsndrc-mat-part-C.json, buttc-mat-part-A.json, buttc-mat-part-B.json, buttc-mat-part-C.json, cpge-mat-part-A.json, cpge-mat-part-B.json, generale-mat-part-A.json, generale-mat-part-B.json, generale-mat-part-C.json, generale-mat-part-D.json, generale-mat-part-E.json, generale-mat-part-F.json, generale-mat-part-G.json, infirmier-mat-part-A.json, infirmier-mat-part-B.json, licdroit-mat-part-A.json, licdroit-mat-part-B.json, licdroit-mat-part-C.json, mco-mat-part-A.json, mco-mat-part-B.json, mco-mat-part-C.json, mco-mat-part-D.json, pass-mat-part-A.json, pass-mat-part-B.json, pass-mat-part-C.json
   bts-bio : 79 anciennes fiches texte brut retirees a la migration
   bts-mco : 72 anciennes fiches texte brut retirees a la migration
   generale : 178 anciennes fiches texte brut retirees a la migration
+  lic-droit : 22 anciennes fiches texte brut retirees a la migration
   pass : 13 anciennes fiches texte brut retirees a la migration

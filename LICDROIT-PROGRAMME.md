@@ -71,6 +71,8 @@ Les matières FicheLab de la filière suivent les **grands domaines classiques d
 
 ## 4. Suivi des lots
 
+> Note d'organisation : l'outil de sous-délégation n'étant pas disponible dans les sessions enfants, le responsable de filière a rédigé les lots directement. Les 10 doublons de préfixes `DRB1.`–`DRB10.` entre les lots A et B ont été corrigés en renommant `DRB…` en `DR…` dans `gen_licdroit_A.py`, puis le lot A a été régénéré. Situation finale : 60 fiches, 0 doublon.
+
 | Lot | Générateur | Sortie JSON | Matières | Statut |
 |---|---|---|---|---|
 | A | `data/gen_licdroit_A.py` | `data/licdroit-mat-part-A.json` | Droit (10), Économie (10) | ✅ généré (20) |
