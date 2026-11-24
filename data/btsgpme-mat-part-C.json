@@ -1839,6 +1839,926 @@
           "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : AN4 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">AN4 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Discours structuré</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Intro</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Points</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Conclusion</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Lexique gestion</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Turnover</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Cash flow</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Staff</text></svg>"
         }
       ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Communication",
+      "titre": "CO1. Communication écrite professionnelle en PME",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "La communication écrite est le premier vecteur de circulation de l'information dans une PME : notes, courriers, comptes rendus et messages.",
+        "Un message professionnel efficace répond à quatre questions : pour qui, pourquoi, quoi et comment.",
+        "Le destinataire détermine le ton, le niveau de détail et le degré de formalisme.",
+        "La finalité peut être informative, décisionnelle, contractuelle ou relationnelle ; elle commande la structure.",
+        "La structure pyramidale place la conclusion ou la demande au début, puis les justifications et les détails.",
+        "Un objet précis et une date permettent de classer et de retrouver le document.",
+        "La clarté prime : phrases courtes, vocabulaire métier maîtrisé, listes pour les actions et les responsables.",
+        "La forme soignée (orthographe, ponctuation, mise en page) contribue à la crédibilité de l'entreprise.",
+        "Les écrits professionnels sont des pièces accusables : ils peuvent être produits en cas de litige.",
+        "La confidentialité impose de limiter la diffusion des documents sensibles : paie, contrats, données clients.",
+        "Les modèles et trames accélèrent la rédaction, mais doivent être adaptés à chaque situation.",
+        "Le référentiel GPME attend une analyse de la situation de communication et des documents de qualité professionnelle."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelles questions structurent la préparation d'un message ?",
+          "options": [
+            "Pour qui, pourquoi, quoi, comment",
+            "Quand, où, combien, pourquoi",
+            "Qui, quoi, TVA, prix",
+            "Quel, quelle, quels, quelles"
+          ],
+          "correct": 0,
+          "correction": "Destinataire, finalité, contenu et forme sont les quatre dimensions de base."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce que la structure pyramidale ?",
+          "options": [
+            "L'essentiel au début",
+            "La conclusion à la fin seulement",
+            "Un texte sous forme de pyramide",
+            "Une phrase par ligne"
+          ],
+          "correct": 0,
+          "correction": "Elle permet au lecteur d'accéder immédiatement à l'information utile."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel élément facilite le classement d'un courrier ?",
+          "options": [
+            "L'objet",
+            "La couleur",
+            "Le nombre de mots",
+            "La signature"
+          ],
+          "correct": 0,
+          "correction": "L'objet indique le dossier et le motif du message."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel ton adopter pour un courrier à un client important ?",
+          "options": [
+            "Familier",
+            "Formel et courtois",
+            "Ironique",
+            "Neutre et froid"
+          ],
+          "correct": 1,
+          "correction": "Le registre formel protège l'image de l'entreprise."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi les écrits sont-ils des pièces accusables ?",
+          "options": [
+            "Ils peuvent prouver un engagement",
+            "Ils sont gratuits",
+            "Ils sont toujours longs",
+            "Ils remplacent le contrat"
+          ],
+          "correct": 0,
+          "correction": "Une confirmation écrite peut être produite comme preuve d'un accord."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel document circule le plus dans une PME ?",
+          "options": [
+            "Le courrier recommandé",
+            "L'e-mail et la note interne",
+            "Le bilan",
+            "L'annexe comptable"
+          ],
+          "correct": 1,
+          "correction": "Les messages courts et les notes internes sont les outils quotidiens de coordination."
+        },
+        {
+          "type": "qcm",
+          "q": "Que faire d'un modèle de courrier récurrent ?",
+          "options": [
+            "L'utiliser tel quel",
+            "L'adapter au destinataire et au contexte",
+            "Le supprimer",
+            "Le remplacer par un appel"
+          ],
+          "correct": 1,
+          "correction": "Une trame est utile mais doit être personnalisée."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel risque présente une diffusion trop large d'un document ?",
+          "options": [
+            "Une perte de temps",
+            "Une fuite de données confidentielles",
+            "Une hausse de la TVA",
+            "Une baisse du capital"
+          ],
+          "correct": 1,
+          "correction": "La maîtrise des destinataires est une règle de confidentialité."
+        },
+        {
+          "type": "texte",
+          "q": "Analyser une situation de communication : une note interne mal comprise par les salariés. Proposer une amélioration.",
+          "reponse": "On identifie le destinataire réel, la finalité de la note et les informations jugées essentielles. La note gagne à être plus courte, avec un objet précis, une demande ou une décision en tête, des actions listées avec responsables et délais, et un vocabulaire explicite. Une relecture par un collègue permet de vérifier la compréhension.",
+          "correction": "On part de l'analyse de la situation pour proposer une réécriture structurée et testée."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi un écrit professionnel doit-il être relu avant diffusion ?",
+          "reponse": "Parce qu'une erreur de montant, de date ou de destinataire peut entraîner un malentendu, un litige ou une perte de confiance. La relecture vérifie aussi le ton, la cohérence et la présence des pièces jointes. C'est un réflexe de qualité et de responsabilité dans une PME.",
+          "correction": "On relie la relecture à la fiabilité de l'information et à la protection de l'entreprise."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "La communication écrite est le premier vecteur de circulation de l'information dans une PME : notes, courriers, comptes rendus et messages."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "Message professionnel = destinataire + finalité + structure pyramidale + forme soignée.",
+          "leg": "Écrit = preuve : objet, date, destinataires et diffusion maîtrisée."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Dimension",
+              "Question",
+              "Effet"
+            ],
+            [
+              "Destinataire",
+              "Pour qui ?",
+              "Ton"
+            ],
+            [
+              "Finalité",
+              "Pourquoi ?",
+              "Structure"
+            ],
+            [
+              "Forme",
+              "Comment ?",
+              "Crédibilité"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            "La finalité peut être informative, décisionnelle, contractuelle ou relationnelle ; elle commande la structure.",
+            "La structure pyramidale place la conclusion ou la demande au début, puis les justifications et les détails.",
+            "Un objet précis et une date permettent de classer et de retrouver le document.",
+            "La clarté prime : phrases courtes, vocabulaire métier maîtrisé, listes pour les actions et les responsables.",
+            "La forme soignée (orthographe, ponctuation, mise en page) contribue à la crédibilité de l'entreprise."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Analyser la situation de communication",
+            "Définir destinataire et finalité",
+            "Choisir la structure et les informations clés",
+            "Rédiger avec clarté et registre adapté",
+            "Relire et maîtriser la diffusion"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Noer la demande sous les détails",
+            "Oublier la date ou l'objet",
+            "Diffuser à tous par défaut",
+            "Négliger la relecture"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "Objet : décision sur la procédure de relance",
+            "Demande en première phrase, détails ensuite",
+            "Actions listées avec responsable et échéance",
+            "Diffusion limitée à la direction et au service commercial"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · CO1 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"CO1 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">CO1 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Dimension</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Question</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Effet</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Destinataire</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Pour qui ?</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Ton</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Finalité</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Pourquoi ?</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Structure</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Forme</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Comment ?</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Crédibilité</text></svg>"
+        },
+        {
+          "titre": "2 · CO1 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : CO1 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">CO1 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Analyser la situation de communication</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir destinataire et finalité</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choisir la structure et les informations clés</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rédiger avec clarté et registre adapté</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Relire et maîtriser la diffusion</text></svg>"
+        },
+        {
+          "titre": "3 · CO1 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : CO1 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">CO1 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Écrit efficace</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Essentiel en tête</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Actions identifiées</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Langue correcte</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Écrit défaillant</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Information noyée</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Ton inadapté</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Destinataires flous</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Communication",
+      "titre": "CO2. Réunions et communication orale",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "La réunion est un outil de coordination : elle permet de partager une information, de décider ou de résoudre un problème.",
+        "Une réunion efficace commence par un objectif clair et un ordre du jour diffusé à l'avance.",
+        "Les participants utiles sont identifiés : trop de participants réduisent l'efficacité et la responsabilité.",
+        "Le déroulement respecte un cadre : accueil, ordre du jour, points traités, décisions, actions et clôture à l'heure.",
+        "Un animateur veille au temps de parole et au retour à l'objectif ; un secrétaire prend note des décisions.",
+        "Le compte rendu distingue les informations, les décisions et les actions avec responsable et échéance.",
+        "L'écoute active suppose de reformuler, de poser des questions ouvertes et de ne pas interrompre.",
+        "La communication orale s'appuie aussi sur des éléments non verbaux : posture, regard, ton de voix et gestes.",
+        "Un désaccord se gère en séparant les faits des opinions et en recherchant une solution acceptable.",
+        "Après la réunion, l'information doit être diffusée aux absents et les actions suivies dans un tableau de bord.",
+        "Une réunion qui ne débouche sur aucune décision ou action est une perte de temps pour la PME.",
+        "Le référentiel attend une communication orale pertinente et une animation des relations professionnelles internes."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est le premier élément d'une réunion efficace ?",
+          "options": [
+            "Un objectif clair",
+            "Une salle grande",
+            "Beaucoup de participants",
+            "Un long discours"
+          ],
+          "correct": 0,
+          "correction": "Sans objectif, la réunion dérive et ne produit pas de décision."
+        },
+        {
+          "type": "qcm",
+          "q": "À quoi sert l'ordre du jour ?",
+          "options": [
+            "À structurer et cadrer la réunion",
+            "À remplacer le compte rendu",
+            "À calculer la TVA",
+            "À désigner le client"
+          ],
+          "correct": 0,
+          "correction": "Il est diffusé à l'avance pour préparer les participants."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel rôle tient le secrétaire de séance ?",
+          "options": [
+            "Prendre note des décisions et actions",
+            "Diriger l'entreprise",
+            "Facturer le client",
+            "Signer le contrat"
+          ],
+          "correct": 0,
+          "correction": "Il garantit la trace écrite de la réunion."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce que l'écoute active ?",
+          "options": [
+            "Écouter sans rien dire",
+            "Reformuler et poser des questions",
+            "Parler plus que les autres",
+            "Interrompre pour corriger"
+          ],
+          "correct": 1,
+          "correction": "La reformulation et les questions ouvertes confirment la compréhension."
+        },
+        {
+          "type": "qcm",
+          "q": "Que doit contenir un compte rendu ?",
+          "options": [
+            "Décisions, responsables, délais",
+            "Les seules opinions",
+            "Le bilan annuel",
+            " La TVA"
+          ],
+          "correct": 0,
+          "correction": "Il trace ce qui a été décidé et le suivi attendu."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel élément non verbal influence la communication ?",
+          "options": [
+            "Le ton de voix",
+            "La police de caractères",
+            "Le taux d'IS",
+            "Le numéro de facture"
+          ],
+          "correct": 0,
+          "correction": "Posture, regard et ton de voix renforcent ou contredisent le message."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment gérer un désaccord en réunion ?",
+          "options": [
+            "Séparer faits et opinions et chercher une solution",
+            "Imposer son point de vue",
+            "Interrompre la réunion",
+            "Ignorer la remarque"
+          ],
+          "correct": 0,
+          "correction": "La distinction faits/opinions permet un débat constructif."
+        },
+        {
+          "type": "qcm",
+          "q": "Que faire des actions décidées ?",
+          "options": [
+            "Les oublier",
+            "Les suivre avec responsable et échéance",
+            "Les transmettre au client",
+            "Les facturer"
+          ],
+          "correct": 1,
+          "correction": "Le suivi transforme la parole en résultat."
+        },
+        {
+          "type": "texte",
+          "q": "Décrire les étapes d'une réunion de service dans une PME.",
+          "reponse": "On fixe l'objectif et on diffuse l'ordre du jour ; on réunit les seules personnes utiles ; on anime la séance en respectant les points et le temps ; on note les décisions et les actions ; on clôt à l'heure ; on diffuse le compte rendu aux participants et aux absents ; on suit les actions dans un tableau de bord.",
+          "correction": "On couvre la préparation, le déroulement, la restitution et le suivi."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer pourquoi une réunion sans compte rendu perd une partie de son efficacité.",
+          "reponse": "Sans trace écrite, les décisions peuvent être interprétées différemment, les responsables oublient leurs engagements et les absents ne sont pas informés. Le compte rendu crée une mémoire collective et permet le suivi des actions ; il sécurise aussi la circulation de l'information dans la PME.",
+          "correction": "On relie la trace écrite à la mémoire, au suivi et à la responsabilité."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "La réunion est un outil de coordination : elle permet de partager une information, de décider ou de résoudre un problème."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "Réunion = objectif + ordre du jour + animation + décisions + compte rendu + suivi.",
+          "leg": "Écoute active = reformuler + question ouverte + respect du tour de parole."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Phase",
+              "Action",
+              "Livrable"
+            ],
+            [
+              "Avant",
+              "Fixer l'objectif",
+              "Ordre du jour"
+            ],
+            [
+              "Pendant",
+              "Animer et écouter",
+              "Décisions"
+            ],
+            [
+              "Après",
+              "Diffuser et suivre",
+              "Compte rendu"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            "Le déroulement respecte un cadre : accueil, ordre du jour, points traités, décisions, actions et clôture à l'heure.",
+            "Un animateur veille au temps de parole et au retour à l'objectif ; un secrétaire prend note des décisions.",
+            "Le compte rendu distingue les informations, les décisions et les actions avec responsable et échéance.",
+            "L'écoute active suppose de reformuler, de poser des questions ouvertes et de ne pas interrompre.",
+            "La communication orale s'appuie aussi sur des éléments non verbaux : posture, regard, ton de voix et gestes."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Définir l'objectif de la réunion",
+            "Préparer l'ordre du jour et les participants",
+            "Animer les échanges dans le temps imparti",
+            "Noter décisions, responsables et délais",
+            "Diffuser le compte rendu et suivre les actions"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Réunir trop de personnes",
+            "Ne pas diffuser l'ordre du jour",
+            "Confondre information et décision",
+            "Ne pas suivre les actions décidées"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "Réunion de 45 minutes, 5 participants",
+            "Ordre du jour : 3 points",
+            "Décision : relance à J+2, responsable : service commercial",
+            "Compte rendu diffusé sous 24 h"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · CO2 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"CO2 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">CO2 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Phase</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Action</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Livrable</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Avant</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Fixer l'objectif</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Ordre du jour</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Pendant</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Animer et écouter</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Décisions</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Après</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Diffuser et suivre</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Compte rendu</text></svg>"
+        },
+        {
+          "titre": "2 · CO2 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : CO2 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">CO2 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir l'objectif de la réunion</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Préparer l'ordre du jour et les participants</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Animer les échanges dans le temps imparti</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Noter décisions, responsables et délais</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Diffuser le compte rendu et suivre les actions</text></svg>"
+        },
+        {
+          "titre": "3 · CO2 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : CO2 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">CO2 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Réunion utile</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Décisions prises</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Actions suivies</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Temps maîtrisé</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Réunion inefficace</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Sans objectif</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Trop de participants</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Aucune trace</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Communication",
+      "titre": "CO3. Plan de communication interne de la PME",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "Un plan de communication interne organise les messages adressés aux salariés pour soutenir le fonctionnement et le changement.",
+        "Il s'inscrit dans la stratégie de l'entreprise et respecte sa culture et ses valeurs.",
+        "Le diagnostic identifie les besoins d'information, les canaux existants, les publics et les points de blocage.",
+        "Les objectifs de communication sont précis : informer, mobiliser, expliquer une décision ou accompagner un changement.",
+        "Les cibles internes peuvent être la direction, les managers, les salariés, les nouveaux arrivants ou une équipe projet.",
+        "Le message est défini par son contenu, son ton, sa preuve et son appel à l'action.",
+        "Les canaux sont choisis selon l'urgence et la nature du message : réunion, e-mail, intranet, tableau d'affichage, messagerie instantanée.",
+        "Un calendrier éditorial planifie les temps forts et évite la saturation d'informations.",
+        "La quantification du plan repose sur des indicateurs : taux d'ouverture, participation, compréhension, niveau de satisfaction.",
+        "La communication de crise ou de changement exige rapidité, transparence et cohérence des discours.",
+        "La contribution au déploiement du plan de communication est une compétence du bloc RNCP38363BC04.",
+        "Un plan trop ambitieux est rarement appliqué : mieux vaut peu d'actions régulières et mesurées."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la première étape d'un plan de communication ?",
+          "options": [
+            "Diffuser un message",
+            "Établir un diagnostic des besoins",
+            "Acheter des logiciels",
+            "Organiser une fête"
+          ],
+          "correct": 1,
+          "correction": "Le diagnostic identifie publics, besoins et canaux avant toute action."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est un objectif de communication interne ?",
+          "options": [
+            "Informer et mobiliser les salariés",
+            "Augmenter la TVA",
+            "Supprimer les réunions",
+            "Remplacer le dirigeant"
+          ],
+          "correct": 0,
+          "correction": "Les objectifs visent la circulation de l'information et l'adhésion."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel canal convient à une information urgente ?",
+          "options": [
+            "L'affichage papier",
+            "La messagerie instantanée ou l'e-mail",
+            "Le rapport annuel",
+            "Le bilan"
+          ],
+          "correct": 1,
+          "correction": "L'urgence appelle un canal rapide et traçable."
+        },
+        {
+          "type": "qcm",
+          "q": "Que contient un calendrier éditorial ?",
+          "options": [
+            "Les dates et les messages prévus",
+            "Les comptes de la PME",
+            "Les factures clients",
+            "Le plan comptable"
+          ],
+          "correct": 0,
+          "correction": "Il planifie les temps de communication et évite la saturation."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel indicateur mesure la communication interne ?",
+          "options": [
+            "Le taux de participation",
+            "Le taux d'IS",
+            "Le BFR",
+            "Le capital"
+          ],
+          "correct": 0,
+          "correction": "Participation, ouverture et compréhension évaluent la réception des messages."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle qualité est attendue en communication de changement ?",
+          "options": [
+            "La transparence",
+            "Le secret",
+            "Le silence",
+            "L'ironie"
+          ],
+          "correct": 0,
+          "correction": "Expliquer les raisons et les effets du changement favorise l'adhésion."
+        },
+        {
+          "type": "qcm",
+          "q": "À quel bloc RNCP38363 se rattache le plan de communication ?",
+          "options": [
+            "BC01",
+            "BC02",
+            "BC03",
+            "BC04"
+          ],
+          "correct": 3,
+          "correction": "Le bloc BC04 inclut l'accompagnement du plan de communication de la PME."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi limiter le nombre d'actions de communication ?",
+          "options": [
+            "Pour réduire la charge et garantir l'exécution",
+            "Pour supprimer les réunions",
+            "Pour augmenter les impôts",
+            "Pour éviter tout message"
+          ],
+          "correct": 0,
+          "correction": "Un plan réaliste est mieux appliqué et mesuré qu'un plan trop ambitieux."
+        },
+        {
+          "type": "texte",
+          "q": "Construire un plan de communication interne pour accompagner l'arrivée d'un nouveau logiciel.",
+          "reponse": "Diagnostic : les salariés utilisent des fichiers dispersés. Objectif : informer et former avant la migration. Cibles : tous les salariés, avec un focus sur les utilisateurs du tableur. Canaux : réunion de présentation, e-mail récapitulatif, tutoriel court sur l'intranet. Calendrier : annonce à J-15, formation à J-7, support à J+1. Indicateurs : participation, nombre de questions, taux d'utilisation du logiciel à un mois.",
+          "correction": "On relie diagnostic, cibles, messages, canaux, calendrier et indicateurs."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer pourquoi la cohérence des discours est essentielle dans une PME.",
+          "reponse": "Dans une structure petite, chaque salarié parle au nom de l'entreprise. Si la direction, le manager et le service commercial tiennent des discours contradictoires, la confiance diminue et les rumeurs se diffusent. La cohérence repose sur des messages écrits, une clarification des rôles et une remontée des questions vers la direction.",
+          "correction": "On relie cohérence, confiance et circulation de l'information."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Un plan de communication interne organise les messages adressés aux salariés pour soutenir le fonctionnement et le changement."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "Plan de communication = diagnostic + objectifs + cibles + canaux + calendrier + indicateurs.",
+          "leg": "Changement = rapidité + transparence + cohérence des discours."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Élément",
+              "Question",
+              "Exemple"
+            ],
+            [
+              "Diagnostic",
+              "Quel besoin ?",
+              "Fichiers dispersés"
+            ],
+            [
+              "Cible",
+              "À qui ?",
+              "Salariés"
+            ],
+            [
+              "Canal",
+              "Comment ?",
+              "Réunion + e-mail"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            "Les objectifs de communication sont précis : informer, mobiliser, expliquer une décision ou accompagner un changement.",
+            "Les cibles internes peuvent être la direction, les managers, les salariés, les nouveaux arrivants ou une équipe projet.",
+            "Le message est défini par son contenu, son ton, sa preuve et son appel à l'action.",
+            "Les canaux sont choisis selon l'urgence et la nature du message : réunion, e-mail, intranet, tableau d'affichage, messagerie instantanée.",
+            "Un calendrier éditorial planifie les temps forts et évite la saturation d'informations."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Réaliser le diagnostic des besoins",
+            "Définir objectifs et publics",
+            "Construire le message et choisir les canaux",
+            "Établir le calendrier de diffusion",
+            "Mesurer et ajuster le plan"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Diffuser sans diagnostic",
+            "Multiplier les canaux sans coordonnation",
+            "Oublier les indicateurs",
+            "Laisser circuler des discours contradictoires"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "Annonce à J-15, formation à J-7, support à J+1",
+            "Canaux : réunion, e-mail, intranet",
+            "Indicateur : taux d'utilisation du logiciel à un mois",
+            "Objectif : 100 % des salariés informés avant migration"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · CO3 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"CO3 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">CO3 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Élément</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Question</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Exemple</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Diagnostic</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Quel besoin ?</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Fichiers dispersés</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Cible</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">À qui ?</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Salariés</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Canal</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Comment ?</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Réunion + e-mail</text></svg>"
+        },
+        {
+          "titre": "2 · CO3 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : CO3 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">CO3 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Réaliser le diagnostic des besoins</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir objectifs et publics</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Construire le message et choisir les canaux</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Établir le calendrier de diffusion</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mesurer et ajuster le plan</text></svg>"
+        },
+        {
+          "titre": "3 · CO3 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : CO3 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">CO3 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Communication descendante</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Direction vers salariés</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Information</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Décisions</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Communication ascendante</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Salariés vers direction</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Remontée</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Alertes</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Communication",
+      "titre": "CO4. Communication digitale et protection des données",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "La communication digitale recouvre les messages diffusés par courriel, site web, réseaux sociaux et outils collaboratifs.",
+        "Elle offre une portée large et une mesure précise, mais elle expose l'entreprise à des risques juridiques et réputationnels.",
+        "Une publication doit être préparée : objectif, cible, ton, support, preuve et appel à l'action.",
+        "L'identité visuelle et le ton de marque doivent rester cohérents sur tous les canaux.",
+        "Les données collectées en ligne (formulaires, cookies, inscriptions) sont des données personnelles encadrées par le RGPD.",
+        "Tout traitement doit avoir une finalité déterminée et une base légale : consentement, contrat, obligation légale ou intérêt légitime.",
+        "Le consentement doit être libre, éclairé, spécifique et univoque ; il peut être retiré.",
+        "La politique de confidentialité informe les personnes de la finalité, de la durée de conservation et de leurs droits.",
+        "Les droits des personnes comprennent l'accès, la rectification, l'effacement, l'opposition et la portabilité.",
+        "Une fuite de données doit être notifiée à la CNIL dans les 72 heures lorsque le risque le justifie.",
+        "Les indicateurs digitaux (taux d'ouverture, clics, conversions) pilotent l'efficacité de la communication.",
+        "Le bloc RNCP38363BC04 attend une contribution au plan de communication et une utilisation adaptée des outils numériques."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est un avantage de la communication digitale ?",
+          "options": [
+            "La mesure précise des résultats",
+            "La suppression des risques",
+            "L'absence de réglementation",
+            "La gratuité garantie"
+          ],
+          "correct": 0,
+          "correction": "Les outils digitaux permettent de suivre ouvertures, clics et conversions."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle base légale suppose un consentement libre et éclairé ?",
+          "options": [
+            "Le consentement",
+            "L'obligation légale",
+            "Le contrat",
+            "L'intérêt légitime"
+          ],
+          "correct": 0,
+          "correction": "Le consentement doit être spécifique, univoque et retirable."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle information doit figurer dans une politique de confidentialité ?",
+          "options": [
+            "La finalité des traitements",
+            "Le prix des produits",
+            "Le capital social",
+            "Le bilan annuel"
+          ],
+          "correct": 0,
+          "correction": "Finalité, durée de conservation et droits des personnes sont essentielles."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel droit permet d'effacer ses données ?",
+          "options": [
+            "Le droit d'accès",
+            "Le droit à l'effacement",
+            "Le droit d'opposition",
+            "Le droit de rectification"
+          ],
+          "correct": 1,
+          "correction": "Le droit à l'effacement (ou à l'oubli) est prévu par le RGPD."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel délai pour notifier une violation de données à la CNIL ?",
+          "options": [
+            "24 heures",
+            "72 heures",
+            "7 jours",
+            "1 mois"
+          ],
+          "correct": 1,
+          "correction": "La notification doit intervenir dans les 72 heures après connaissance du risque."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel indicateur mesure l'efficacité d'un e-mail ?",
+          "options": [
+            "Le taux d'ouverture",
+            "Le taux d'IS",
+            "Le BFR",
+            "Le capital"
+          ],
+          "correct": 0,
+          "correction": "Taux d'ouverture, clics et conversions sont des indicateurs digitaux."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel risque présente une publication non préparée ?",
+          "options": [
+            "Une atteinte à l'image de l'entreprise",
+            "Une hausse du chiffre d'affaires",
+            "Une baisse de la TVA",
+            "Un bilan équilibré"
+          ],
+          "correct": 0,
+          "correction": "Un message inadapté peut nuire à la réputation et à la relation client."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi garder un ton cohérent sur tous les canaux ?",
+          "options": [
+            "Pour renforcer l'identité de la marque",
+            "Pour supprimer les impôts",
+            "Pour éviter la relecture",
+            "Pour réduire le capital"
+          ],
+          "correct": 0,
+          "correction": "La cohérence renforce la reconnaissance et la confiance."
+        },
+        {
+          "type": "texte",
+          "q": "Une PME collecte des adresses e-mail via un formulaire de newsletter. Décrire les obligations à respecter.",
+          "reponse": "Elle doit indiquer la finalité (envoi de la newsletter), recueillir un consentement libre et éclairé par case non pré-cochée, préciser la durée de conservation, permettre le désabonnement et l'exercice des droits, sécuriser la base de données et tenir un registre des traitements. Les données ne doivent pas être revendues à des tiers sans base légale.",
+          "correction": "On mobilise finalité, consentement, information, droits et sécurité."
+        },
+        {
+          "type": "texte",
+          "q": "Comment mesurer l'efficacité d'une campagne digitale et réagir aux résultats ?",
+          "reponse": "On suit le taux d'ouverture, le taux de clic, le taux de transformation et le coût par contact. Si le taux d'ouverture est faible, on teste un nouvel objet ; si les clics sont nombreux mais les conversions faibles, on revoit la page de destination ou l'appel à l'action. Les résultats sont comparés aux objectifs et intégrés au tableau de bord.",
+          "correction": "On relie indicateurs, diagnostic et actions correctrices."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "La communication digitale recouvre les messages diffusés par courriel, site web, réseaux sociaux et outils collaboratifs."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "Communication digitale = message + canal + mesure + conformité RGPD.",
+          "leg": "RGPD = finalité + base légale + consentement + droits + sécurité (notification 72 h)."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Élément",
+              "Outil",
+              "Risque"
+            ],
+            [
+              "Message",
+              "Réseaux sociaux",
+              "Image"
+            ],
+            [
+              "Données",
+              "Formulaire",
+              "RGPD"
+            ],
+            [
+              "Mesure",
+              "Statistiques",
+              "Mauvaise cible"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            "L'identité visuelle et le ton de marque doivent rester cohérents sur tous les canaux.",
+            "Les données collectées en ligne (formulaires, cookies, inscriptions) sont des données personnelles encadrées par le RGPD.",
+            "Tout traitement doit avoir une finalité déterminée et une base légale : consentement, contrat, obligation légale ou intérêt légitime.",
+            "Le consentement doit être libre, éclairé, spécifique et univoque ; il peut être retiré.",
+            "La politique de confidentialité informe les personnes de la finalité, de la durée de conservation et de leurs droits."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Définir objectif et cible",
+            "Vérifier la base légale des données collectées",
+            "Préparer le message et le support",
+            "Diffuser avec cohérence de ton",
+            "Mesurer et corriger la campagne"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Collecter des données sans information",
+            "Précocher une case de consentement",
+            "Oublier le désabonnement",
+            "Ignorer les indicateurs de campagne"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "Newsletter : consentement par case vide",
+            "Durée de conservation : 3 ans",
+            "Notification CNIL : 72 heures",
+            "Taux d'ouverture : 32 %"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · CO4 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"CO4 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">CO4 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Élément</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Outil</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Risque</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Message</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Réseaux sociaux</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Image</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Données</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Formulaire</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">RGPD</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mesure</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Statistiques</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mauvaise cible</text></svg>"
+        },
+        {
+          "titre": "2 · CO4 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : CO4 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">CO4 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir objectif et cible</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Vérifier la base légale des données collectées</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Préparer le message et le support</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Diffuser avec cohérence de ton</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mesurer et corriger la campagne</text></svg>"
+        },
+        {
+          "titre": "3 · CO4 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : CO4 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">CO4 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Communication digitale</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Portée large</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Mesure</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Risque réputationnel</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Protection des données</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Consentement</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Droits</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Sécurité</text></svg>"
+        }
+      ]
     }
   ]
 }

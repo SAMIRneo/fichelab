@@ -568,5 +568,189 @@ C("Conflit et crise se gèrent par l'écoute, les faits, une décision tracée e
   "Compromis~Satisfaction partielle~Collaboration~Solution commune",
   "Position~Demande affichée~Intérêt~Besoin réel"))
 
+# ============================================================ ME1
+add("ME1", "Analyser une situation professionnelle : méthode en 4 étapes", "Méthodologie", ["BTS1"],
+S("L'analyse de situation est une démarche structurée pour comprendre un problème réel avant de proposer une solution."
+  "|La première étape consiste à collecter les faits : qui, quoi, quand, où, combien, dans quel contexte et avec quelles contraintes."
+  "|La deuxième étape distingue les faits observés, les hypothèses et les opinions : cette séparation évite de confondre cause et symptôme."
+  "|La troisième étape identifie les acteurs, leurs rôles, leurs intérêts et leurs relations : un problème technique est souvent aussi un problème organisationnel."
+  "|La quatrième étape formule le problème sous forme de question et détermine les critères de réussite de la solution."
+  "|Un arbre des causes ou un diagramme d'Ishikawa permet de classer les causes possibles par famille : méthodes, main-d'œuvre, matériel, milieu, mesures."
+  "|La méthode des 5 Pourquoi creuse une cause en répétant la question jusqu'à atteindre une cause racine actionnable."
+  "|Le principe de Pareto aide à prioriser : 20 % des causes produisent souvent 80 % des effets."
+  "|Une bonne analyse s'appuie sur des données chiffrées : volumes, délais, taux d'erreur, coûts et fréquence des incidents."
+  "|La solution proposée doit être réaliste : ressources disponibles, compétences, délai, coût et acceptabilité par les utilisateurs."
+  "|La démarche se documente : une note d'analyse retrace le contexte, les faits, les causes retenues, les options et la recommandation."
+  "|Cette méthode est transférable à tous les domaines du BTS CIEL : incident réseau, échec de recette, conflit d'équipe ou arbitrage de budget."),
+[QC("Quelle est la première étape de l'analyse de situation ?", "Proposer une solution~Collecter les faits~Rédiger la conclusion~Blâmer un acteur", 1,
+     "On ne peut analyser qu'à partir de faits établis et documentés."),
+ QC("Quel outil classe les causes par familles ?", "Le diagramme d'Ishikawa~Le diagramme de Gantt~Le camembert~La matrice BCG", 0,
+     "L'Ishikawa, ou arbre des causes, classe les causes en 5M."),
+ QC("Que vise la méthode des 5 Pourquoi ?", "Trouver cinq coupables~Atteindre la cause racine~Remplir un formulaire~Réduire le nombre de réunions", 1,
+     "La répétition du questionnement permet de dépasser les symptômes."),
+ QC("Que signifie le principe de Pareto ?", "Toutes les causes ont le même poids~Une minorité de causes produit la majorité des effets~Il faut traiter toutes les causes~Les effets sont toujours égaux", 1,
+     "La règle 80/20 guide la priorisation des actions."),
+ QC("Que faut-il distinguer absolument ?", "Faits, hypothèses et opinions~Jours et mois~Serveurs et postes~Chefs et employés", 0,
+     "Cette distinction garantit la rigueur de l'analyse."),
+ QC("Quel critère ne concerne pas la faisabilité d'une solution ?", "Le coût~Le délai~Les compétences disponibles~La couleur du diaporama", 3,
+     "La faisabilité porte sur les ressources, le temps et l'acceptabilité."),
+ QC("Quelles sont les familles de l'Ishikawa ?", "Méthodes, main-d'œuvre, matériel, milieu, mesures~Prix, qualité, délai, marque, service~Ciel, terre, mer, air, feu~Mail, web, réseau, serveur, poste", 0,
+     "Les 5M sont la référence classique du diagramme des causes."),
+ QC("Que contient une note d'analyse ?", "Contexte, faits, causes, options, recommandation~Seulement une opinion~Des blagues~Une simple signature", 0,
+     "La note retrace la démarche et conduit à une recommandation argumentée."),
+ QT("Une entreprise constate une hausse des tickets « imprimante hors service ». Appliquer la méthode d'analyse en quatre étapes.",
+    "Étape 1, collecte des faits : relever le nombre de tickets par semaine, les modèles concernés, les étages, les heures, les messages d'erreur et les délais d'intervention. Étape 2, distinction : les faits sont les volumes et les codes d'erreur ; l'hypothèse est le manque de toner ; l'opinion est « le matériel est de mauvaise qualité ». Étape 3, acteurs : utilisateurs, service support, fournisseur de cartouches, responsable des achats, chacun avec un rôle et des contraintes. Étape 4, formulation : « Quelle est la cause de la hausse des pannes d'impression et quelle action réduit les tickets de 50 % en un mois ? » avec des critères de réussite chiffrés. On approfondit avec un Ishikawa et un Pareto avant de recommander, par exemple, un contrat de maintenance ou une commande groupée de consommables.",
+    "On suit les quatre étapes, on illustre chacune avec des éléments concrets et on formule une question avec critères."),
+ QT("Expliquer la différence entre cause et symptôme, et pourquoi la confusion est fréquente dans le support informatique.",
+    "Le symptôme est ce que l'on observe : « le poste ne se connecte plus au réseau », « le serveur est lent ». La cause est le mécanisme qui produit le symptôme : câble endommagé, DHCP saturé, processus consommateur de CPU. La confusion est fréquente car le support est sous pression : on applique une action visible qui fait disparaître le symptôme, comme redémarrer le poste, sans chercher pourquoi le problème revient. Le redémarrage traite l'effet, pas la cause. Une démarche structurée avec les 5 Pourquoi et des données chiffrées permet de remonter à la cause racine et d'éviter la récidive, ce qui réduit la charge à long terme même si le diagnostic prend quelques minutes de plus.",
+    "On définit les deux notions, on explique la pression du support et l'illusion du redémarrage, puis la valeur de la cause racine.")],
+C("Analyser une situation, c'est passer des faits aux causes puis à une recommandation faisable, en séparant observations, hypothèses et opinions.",
+  "4 étapes : faits · distinction · acteurs · question et critères",
+  "Ishikawa 5M · 5 Pourquoi · Pareto 80/20 · note d'analyse",
+  "Faits~Observations vérifiables~Hypothèse~Explication à vérifier~Ishikawa~Causes par familles~5 Pourquoi~Cause racine~Pareto~Priorité 80/20",
+  "Collecter les faits chiffrés|Séparer faits et hypothèses|Cartographier les acteurs|Rechercher la cause racine|Formuler et documenter la recommandation",
+  "Confondre symptôme et cause|Blâmer un acteur sans preuve|Proposer avant d'avoir analysé|Négliger les critères de réussite",
+  "Tickets imprimante~Exemple d'analyse~5M~Familles de causes~50 %~Objectif chiffré~Redémarrage~Traitement du symptôme~Note~Trace écrite",
+  "Symptôme~Effet observé~Cause~Mécanisme profond",
+  "Fait~Vérifiable~Opinion~Jugement personnel"))
+
+# ============================================================ ME2
+add("ME2", "Résolution de problème et outils d'amélioration continue", "Méthodologie", ["BTS1"],
+S("La résolution de problème est une démarche itérative qui vise à supprimer durablement un écart entre l'état actuel et l'état souhaité."
+  "|Le cycle PDCA structure l'amélioration : Planifier, Faire, Vérifier, Agir, puis recommencer."
+  "|Dans sa version étendue DMAIC (Define, Measure, Analyze, Improve, Control), la méthode Six Sigma formalise les étapes d'un projet d'amélioration."
+  "|La première étape définit le problème, le périmètre, les parties prenantes et l'objectif chiffré."
+  "|La mesure s'appuie sur des données fiables : volumétrie, délais, taux de défaut, coût par incident et satisfaction utilisateur."
+  "|L'analyse identifie la cause racine avec l'Ishikawa, les 5 Pourquoi et une validation par les données."
+  "|L'amélioration propose une action, la teste à petite échelle puis généralise si les résultats sont concluants."
+  "|Le contrôle met en place des indicateurs de suivi et une procédure pour éviter le retour au problème initial."
+  "|Un indicateur pertinent est spécifique, mesurable, accessible, régulier et relié à une décision."
+  "|La boucle de retour d'expérience transforme l'incident en connaissance : causes, actions, résultats et enseignements sont archivés."
+  "|Les outils de la qualité incluent également la fiche de recueil de données, l'histogramme, le diagramme de Pareto et la carte de contrôle."
+  "|En informatique, cette démarche s'applique aussi bien à la réduction des incidents qu'à l'amélioration du parcours utilisateur ou de la productivité de l'équipe."),
+[QC("Que signifie PDCA ?", "Plan, Do, Check, Act~Plan, Data, Control, Audit~Prepare, Decide, Check, Apply~Projet, Développement, Contrôle, Analyse", 0,
+     "PDCA correspond à Planifier, Faire, Vérifier, Agir."),
+ QC("Que signifie la lettre A dans DMAIC ?", "Analyse~Améliorer~Auditer~Attendre", 1,
+     "DMAIC : Define, Measure, Analyze, Improve, Control ; Improve signifie améliorer."),
+ QC("Quel est l'objet de l'étape Mesurer ?", "Proposer une solution~Collecter des données fiables sur le problème~Clore le projet~Former les utilisateurs", 1,
+     "On quantifie l'écart avant de chercher des causes."),
+ QC("Quel outil valide la cause racine ?", "Une opinion~Les données et un test~Une rumeur~Le hasard", 1,
+     "Une cause n'est retenue que si les données et un essai la confirment."),
+ QC("Pourquoi tester une action à petite échelle ?", "Pour augmenter le coût~Pour limiter le risque avant généralisation~Pour éviter les indicateurs~Pour supprimer la documentation", 1,
+     "Le test pilote permet de vérifier l'effet et d'ajuster avant déploiement."),
+ QC("Quel est le rôle de l'étape Contrôle ?", "Oublier le problème~Éviter la réapparition avec des indicateurs~Recommencer à zéro~Supprimer les procédures", 1,
+     "Le contrôle institutionnalise la nouvelle méthode et suit les indicateurs."),
+ QC("Quelle qualité d'un indicateur est essentielle ?", "Il doit être complexe~Il doit être mesurable et relié à une décision~Il doit changer chaque jour~Il doit être secret", 1,
+     "Un indicateur inexploitable ne pilote rien."),
+ QC("Quel est l'apport du retour d'expérience ?", "Supprimer les incidents~Transformer l'incident en connaissance réutilisable~Remplacer les procédures~Réduire les effectifs", 1,
+     "Le REX capitalise causes, actions et enseignements pour l'avenir."),
+ QT("Une équipe support met en place une base de connaissances pour réduire les tickets répétitifs. Décrire la démarche PDCA complète.",
+    "Plan : mesurer le nombre de tickets récurrents sur un mois, identifier les dix questions les plus fréquentes, fixer un objectif de baisse de 30 % et désigner un responsable. Do : rédiger dix fiches courtes et validées, les publier dans la base, les lier au ticket et informer l'équipe. Check : après un mois, comparer le volume de tickets récurrents, mesurer le taux de consultation des fiches et recueillir le retour des utilisateurs et des techniciens. Act : corriger les fiches les moins utiles, ajouter de nouveaux sujets, intégrer la mise à jour de la base dans la procédure d'incident et recommencer le cycle avec un nouvel objectif. Les résultats et les décisions sont archivés dans le compte rendu d'amélioration.",
+    "On décrit les quatre phases avec objectifs, actions, mesure et capitalisation, avec des indicateurs."),
+ QT("Expliquer pourquoi une action correctrice peut échouer malgré une bonne intention.",
+    "Une action peut échouer parce qu'elle traite le symptôme plutôt que la cause racine, parce que la cause n'a pas été validée par les données, ou parce que le contexte a changé. Elle peut aussi être inadaptée aux ressources : procédure trop longue, outils manquants, compétences insuffisantes ou charge de travail qui décourage son application. La résistance au changement est un facteur majeur : les utilisateurs reviennent à leurs habitudes si la nouvelle méthode n'est ni expliquée ni soutenue. Enfin, sans indicateur de suivi, on ne détecte pas que l'action ne fonctionne pas et on la maintient malgré les signaux contraires. Le cycle PDCA et un test pilote réduisent ces risques en imposant mesure, ajustement et capitalisation.",
+    "On cite cause mal identifiée, ressources, résistance au changement et absence d'indicateurs.")],
+C("L'amélioration continue est un cycle : mesurer, analyser, tester, contrôler, puis recommencer avec des preuves et des indicateurs.",
+  "PDCA = Plan, Do, Check, Act · DMAIC = Define, Measure, Analyze, Improve, Control",
+  "Cause racine · test pilote · indicateur pertinent · retour d'expérience",
+  "PDCA~Cycle d'amélioration~DMAIC~Méthode structurée~Mesure~Données fiables~Cause racine~Validation par essai~Contrôle~Indicateurs de suivi",
+  "Définir l'écart et l'objectif|Mesurer la situation|Analyser la cause|Test puis généraliser|Contrôler et recommencer",
+  "Agir sans mesurer|Confondre cause et symptôme|Généraliser sans test|Ne jamais vérifier l'effet",
+  "30 %~Objectif de baisse~10 fiches~Base de connaissances~1 mois~Période de mesure~REX~Capitalisation~Pareto~Priorisation",
+  "PDCA~Amélioration itérative~DMAIC~Version détaillée",
+  "Action correctrice~Traite la cause~Action palliative~Traite le symptôme"))
+
+# ============================================================ ME3
+add("ME3", "Recherche documentaire et évaluation des sources", "Méthodologie", ["BTS1"],
+S("La recherche documentaire vise à trouver l'information fiable et pertinente nécessaire à une décision ou à un rapport."
+  "|Elle commence par l'analyse du besoin : question précise, mots-clés, période, type de document et niveau de fiabilité requis."
+  "|Les sources primaires sont les textes officiels, les données brutes et les témoignages directs ; les sources secondaires les commentent ou les synthétisent."
+  "|Pour le BTS CIEL, les sources de référence sont le BO, Légifrance, l'ANSSI, la CNIL, éduscol, les RFC, les normes ISO et les documentations constructeurs."
+  "|Un moteur de recherche donne des résultats classés par pertinence, mais le classement n'est pas une garantie de fiabilité."
+  "|Les opérateurs de recherche améliorent la précision : guillemets pour une expression exacte, site: pour limiter à un domaine, signe moins pour exclure un terme."
+  "|L'évaluation d'une source repose sur quatre critères : autorité, actualité, pertinence et exactitude."
+  "|La date de publication et la date de mise à jour sont déterminantes pour les normes, les versions logicielles et les textes réglementaires."
+  "|Les réseaux sociaux, forums et blogs peuvent orienter la recherche mais ne constituent pas une preuve : ils doivent être recoupés avec une source officielle."
+  "|Le plagiat consiste à reprendre des idées ou des mots sans citation : il doit être évité par une reformulation et une référence explicite."
+  "|La bibliographie indique les sources consultées avec leur titre, leur auteur ou organisme, leur date et leur URL."
+  "|Une veille efficace limite le nombre de sources à quelques références fiables et organise leur suivi dans le temps."),
+[QC("Quel est un exemple de source primaire ?", "Un blog d'opinion~Un texte officiel publié au Journal officiel~Un résumé de cours~Une vidéo humoristique", 1,
+     "Les textes officiels et les données brutes sont des sources primaires."),
+ QC("Quel opérateur limite une recherche à un site précis ?", "site:~guillemets~moins~ET", 0,
+     "L'opérateur site: suivi d'un domaine restreint les résultats."),
+ QC("Quels critères évaluent une source ?", "Autorité, actualité, pertinence, exactitude~Longueur, couleur, police, taille~Prix, marque, pays, langue~Auteur, hasard, mode, chance", 0,
+     "Ces quatre critères constituent une grille d'évaluation classique."),
+ QC("Quelle source est préférable pour une question de sécurité ?", "Un forum anonyme~Un bulletin ANSSI~Une publication publicitaire~Un commentaire isolé", 1,
+     "L'ANSSI est une autorité nationale compétente en cybersécurité."),
+ QC("Que désigne le plagiat ?", "Citer sa source~Reprendre sans citation~Reformuler en citant~Consulter plusieurs sources", 1,
+     "L'absence de citation transforme la reprise en plagiat."),
+ QC("Que doit contenir une bibliographie ?", "Titre, auteur ou organisme, date et URL~Une simple liste de noms~Des couleurs~La date du jour uniquement", 0,
+     "Ces éléments permettent de retrouver et de dater la source."),
+ QC("Pourquoi vérifier la date d'une norme ?", "Les normes changent rarement mais une version obsolète peut être remplacée~Les dates n'ont aucune importance~Pour compléter la bibliographie~Pour choisir une couleur", 0,
+     "Une version ancienne peut ne plus être en vigueur."),
+ QC("Quel est un rôle des moteurs de recherche ?", "Garantir la vérité~Classer des résultats selon une pertinence calculée~Certifier les sources~Remplacer l'esprit critique", 1,
+     "Le classement est une aide, pas une validation de fiabilité."),
+ QT("Un étudiant prépare un exposé sur le RGPD en BTS CIEL. Proposer une stratégie de recherche en cinq étapes.",
+    "Il définit d'abord sa question : quelles obligations du RGPD concernent une entreprise qui traite des données de salariés ? Il choisit ensuite des mots-clés français et anglais : RGPD, responsable de traitement, sous-traitant, registre, notification 72 heures, article 28. Il limite la recherche à des domaines fiables avec site:legifrance.gouv.fr, site:cnil.fr et site:eduscol.education.fr, puis complète avec un manuel ou une documentation spécialisée. Il évalue chaque source retenue selon l'autorité de l'organisme, sa date de mise à jour et sa pertinence par rapport à sa question, en écartant les blogs non référencés. Enfin, il lit les textes, note les références exactes avec URL et date de consultation, construit son plan et rédige en reformulant avec des citations courtes pour les formules légales.",
+    "On attend définition de la question, mots-clés, sources officielles, grille d'évaluation et bibliographie."),
+ QT("Expliquer pourquoi un forum peut être utile sans pouvoir servir de preuve dans un rapport technique.",
+    "Un forum donne accès à des retours d'expérience concrets, à des messages d'erreur réels et à des pistes de diagnostic que les documentations officielles ne détaillent pas toujours. Il peut orienter la recherche et faire gagner du temps. En revanche, l'information n'y est pas vérifiée : elle peut être obsolète, inexacte, propre à un environnement particulier ou simplement fausse. Un rapport technique engage la responsabilité de son auteur : les affirmations doivent être étayées par des sources vérifiables et à jour. L'usage correct consiste donc à recouper la piste trouvée sur un forum avec une documentation constructeur, une RFC, un avis ANSSI ou un texte réglementaire, puis à citer uniquement la source fiable dans le rapport.",
+    "On reconnaît l'intérêt pratique du forum, puis on exige recoupement et citation de sources vérifiables.")],
+C("La recherche documentaire combine requêtes précises et esprit critique : autorité, date et recoupement déterminent la fiabilité.",
+  "Sources primaires = textes officiels et données brutes",
+  "site: · guillemets · ANSSI/CNIL/Légifrance/BO · bibliographie",
+  "Besoin~Question et mots-clés~Source primaire~Texte officiel~Source secondaire~Commentaire~Opérateur~site: et guillemets~Autorité~Critère de fiabilité",
+  "Analyser le besoin|Choisir mots-clés et opérateurs|Repérer les sources officielles|Évaluer autorité et date|Recouper et citer",
+  "Croire le premier résultat|Utiliser un forum comme preuve|Oublier la date de publication|Reprendre un texte sans citation",
+  "72 heures~Délai RGPD~Article 28~Sous-traitance~CNIL~Autorité de contrôle~Légifrance~Texte officiel~URL~Référence bibliographique~BO~Bulletin officiel",
+  "Source primaire~Document d'origine~Source secondaire~Analyse ou synthèse",
+  "Pertinence~Répond à la question~Exactitude~Information vérifiée"))
+
+# ============================================================ ME4
+add("ME4", "Préparer et réussir sa soutenance de projet", "Méthodologie", ["BTS2"],
+S("La soutenance de projet est un exercice de communication qui évalue la démarche suivie autant que le résultat obtenu."
+  "|En option IR du BTS CIEL, l'épreuve E6 évalue la valorisation de la donnée et la cybersécurité à travers un projet technique et sa présentation."
+  "|Le dossier de synthèse présente le contexte, le besoin, les choix techniques, la réalisation, les tests et le bilan, avec des annexes lisibles."
+  "|L'oral suit généralement une structure : introduction, contexte et besoin, analyse et choix, réalisation, résultats, limites et conclusion."
+  "|Le temps est une contrainte forte : il faut répéter avec un chronomètre et prévoir une marge pour les questions du jury."
+  "|Un support visuel sobre accompagne le propos : une idée par diapositive, des schémas d'architecture lisibles et des chiffres clés."
+  "|Le schéma d'architecture doit montrer les équipements, les liens, les adresses et les flux, avec une légende claire."
+  "|La démonstration technique, si elle est prévue, doit être préparée et accompagnée d'un plan B en cas de problème réseau ou matériel."
+  "|Le jury attend une explicitation des choix : pourquoi ce protocole, cette topologie, cette règle de sécurité, cette méthode de test ?"
+  "|Les limites du projet doivent être assumées : contraintes de temps, de budget, de compatibilité ou de sécurité non traitée."
+  "|La gestion du stress repose sur la préparation, la respiration, un débit modéré et l'usage de fiches de mots-clés plutôt que d'un texte intégral."
+  "|Une soutenance réussie se conclut par une synthèse courte et une ouverture sur les évolutions possibles du projet."),
+[QC("Que privilégie le jury lors d'une soutenance ?", "La seule beauté du diaporama~La démarche, les choix et les résultats expliqués~La longueur de l'oral~Le nombre de diapositives", 1,
+     "Le jury évalue la compréhension et la justification de la démarche."),
+ QC("Que contient un dossier de synthèse ?", "Contexte, besoin, choix, réalisation, tests, bilan et annexes~Uniquement des photos~Une liste de cours~Le programme de l'année", 0,
+     "Le dossier retrace tout le cycle du projet et renvoie aux preuves en annexe."),
+ QC("Quelle règle pour un support visuel efficace ?", "Une idée par diapositive~Dix paragraphes par diapositive~Des polices minuscules~Aucun titre", 0,
+     "La clarté visuelle permet au jury de suivre sans effort."),
+ QC("Quel élément doit apparaître sur un schéma d'architecture ?", "Les équipements, liens, adresses et une légende~Une photo du bâtiment~La liste des étudiants~Le prix des câbles", 0,
+     "Un schéma technique lisible est un livrable central du projet IR."),
+ QC("Pourquoi prévoir un plan B pour la démonstration ?", "Pour impressionner le jury~Pour faire face à une panne réseau ou matérielle~Pour allonger l'oral~Pour éviter les questions", 1,
+     "Une capture ou une vidéo de secours sécurise la démonstration."),
+ QC("Quelle question du jury faut-il anticiper ?", "Pourquoi ce choix technique plutôt qu'un autre ?~Quel est votre plat préféré ?~Quelle heure est-il ?~Combien de diapositives avez-vous ?", 0,
+     "La justification des choix techniques est au cœur de l'évaluation."),
+ QC("Comment gérer le stress avant un oral ?", "Répéter chronométré et préparer des mots-clés~Lire un texte intégral~Ne pas dormir~Éviter toute répétition", 0,
+     "La préparation et une bonne respiration réduisent le stress."),
+ QC("Que faire de ses fiches de mots-clés ?", "Les lire intégralement~S'en servir comme appui visuel~Les cacher au jury~Les réciter par cœur", 1,
+     "Les fiches soutiennent l'oral sans le remplacer."),
+ QT("Construire le plan d'un oral de 15 minutes pour un projet de sécurisation d'un réseau d'entreprise.",
+    "Introduction (1 min) : présentation, titre du projet et annonce du plan. Contexte et besoin (2 min) : l'entreprise, les 40 postes, les deux serveurs, l'absence de segmentation et les incidents constatés. Analyse et choix (4 min) : risques identifiés, comparaison des solutions envisageables, choix des VLAN, du firewall, de la MFA et de la supervision, avec justification. Réalisation (4 min) : schéma d'architecture, plan d'adressage, configuration, tests de connectivité et de restriction des flux, démonstration courte si possible. Résultats et limites (2 min) : indicateurs de conformité, éléments non traités et contraintes. Conclusion (1 min) : bilan, apports personnels et évolutions possibles. On garde environ cinq minutes pour les questions en prévoyant une marge dans la répétition.",
+    "On propose une répartition des 15 minutes avec une place pour la justification, les limites et les questions."),
+ QT("Expliquer comment répondre à une question du jury à laquelle on ne connaît pas la réponse.",
+    "On commence par reformuler la question pour s'assurer de l'avoir comprise et on garde une posture calme : reconnaître une limite n'est pas un échec. On distingue ensuite ce que l'on sait de ce que l'on ignore : on expose les éléments de réponse solides, les hypothèses raisonnables et la méthode que l'on utiliserait pour vérifier, par exemple consulter la documentation constructeur, tester en laboratoire ou s'appuyer sur une norme. On peut proposer une piste de réponse argumentée en la présentant comme telle, puis indiquer ce que l'on ferait différemment avec plus de temps. Cette honnêteté est appréciée car elle montre l'esprit critique et la rigueur, qualités attendues d'un futur technicien.",
+    "On préconise reformulation, distinction entre su et ignoré, méthode de vérification et honnêteté assumée.")],
+C("Une soutenance réussie raconte une démarche, justifie des choix, montre des preuves et assume les limites dans un temps maîtrisé.",
+  "Oral = contexte · analyse et choix · réalisation · résultats · limites",
+  "Dossier de synthèse · schéma d'architecture · démonstration · plan B · gestion du stress",
+  "Dossier~Synthèse écrite du projet~Oral~Présentation structurée~Schéma~Architecture et flux~Choix techniques~Justification~Limites~Contraintes assumées",
+  "Rédiger le dossier et les annexes|Construire un plan chronométré|Préparer schémas et démonstration|Répéter avec des mots-clés|Anticiper les questions",
+  "Lire un texte intégral|Surcharger les diapositives|Ignorer les limites du projet|Improviser la démonstration",
+  "15 minutes~Durée d'oral~40 postes~Exemple de contexte~5 minutes~Marge pour les questions~Plan B~Capture de secours~E6~Unité de projet IR",
+  "Démonstration~Preuve de fonctionnement~Schéma~Preuve de conception",
+  "Chronomètre~Maîtrise du temps~Mots-clés~Appui à l'oral"))
+
 # FIN DES LOTS
 valider_et_ecrire(F, "btsciel-mat-part-C.json")

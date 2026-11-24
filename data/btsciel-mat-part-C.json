@@ -2651,6 +2651,890 @@
           "svg": "<svg viewBox=\"0 0 660 124\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Gestion des conflits et communication de crise\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Gestion des conflits et communication de crise</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('Compromis', ['Satisfaction</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Collaboration</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">['Solution commune']</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('Position', ['Demande</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Intérêt</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">['Besoin réel']</text></svg>"
         }
       ]
+    },
+    {
+      "filieres": [
+        "bts-ciel"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Méthodologie",
+      "titre": "ME1 · Analyser une situation professionnelle : méthode en 4 étapes",
+      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "points": [
+        "L'analyse de situation est une démarche structurée pour comprendre un problème réel avant de proposer une solution.",
+        "La première étape consiste à collecter les faits : qui, quoi, quand, où, combien, dans quel contexte et avec quelles contraintes.",
+        "La deuxième étape distingue les faits observés, les hypothèses et les opinions : cette séparation évite de confondre cause et symptôme.",
+        "La troisième étape identifie les acteurs, leurs rôles, leurs intérêts et leurs relations : un problème technique est souvent aussi un problème organisationnel.",
+        "La quatrième étape formule le problème sous forme de question et détermine les critères de réussite de la solution.",
+        "Un arbre des causes ou un diagramme d'Ishikawa permet de classer les causes possibles par famille : méthodes, main-d'œuvre, matériel, milieu, mesures.",
+        "La méthode des 5 Pourquoi creuse une cause en répétant la question jusqu'à atteindre une cause racine actionnable.",
+        "Le principe de Pareto aide à prioriser : 20 % des causes produisent souvent 80 % des effets.",
+        "Une bonne analyse s'appuie sur des données chiffrées : volumes, délais, taux d'erreur, coûts et fréquence des incidents.",
+        "La solution proposée doit être réaliste : ressources disponibles, compétences, délai, coût et acceptabilité par les utilisateurs.",
+        "La démarche se documente : une note d'analyse retrace le contexte, les faits, les causes retenues, les options et la recommandation.",
+        "Cette méthode est transférable à tous les domaines du BTS CIEL : incident réseau, échec de recette, conflit d'équipe ou arbitrage de budget."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la première étape de l'analyse de situation ?",
+          "options": [
+            "Proposer une solution",
+            "Collecter les faits",
+            "Rédiger la conclusion",
+            "Blâmer un acteur"
+          ],
+          "correct": 1,
+          "correction": "On ne peut analyser qu'à partir de faits établis et documentés."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel outil classe les causes par familles ?",
+          "options": [
+            "Le diagramme d'Ishikawa",
+            "Le diagramme de Gantt",
+            "Le camembert",
+            "La matrice BCG"
+          ],
+          "correct": 0,
+          "correction": "L'Ishikawa, ou arbre des causes, classe les causes en 5M."
+        },
+        {
+          "type": "qcm",
+          "q": "Que vise la méthode des 5 Pourquoi ?",
+          "options": [
+            "Trouver cinq coupables",
+            "Atteindre la cause racine",
+            "Remplir un formulaire",
+            "Réduire le nombre de réunions"
+          ],
+          "correct": 1,
+          "correction": "La répétition du questionnement permet de dépasser les symptômes."
+        },
+        {
+          "type": "qcm",
+          "q": "Que signifie le principe de Pareto ?",
+          "options": [
+            "Toutes les causes ont le même poids",
+            "Une minorité de causes produit la majorité des effets",
+            "Il faut traiter toutes les causes",
+            "Les effets sont toujours égaux"
+          ],
+          "correct": 1,
+          "correction": "La règle 80/20 guide la priorisation des actions."
+        },
+        {
+          "type": "qcm",
+          "q": "Que faut-il distinguer absolument ?",
+          "options": [
+            "Faits, hypothèses et opinions",
+            "Jours et mois",
+            "Serveurs et postes",
+            "Chefs et employés"
+          ],
+          "correct": 0,
+          "correction": "Cette distinction garantit la rigueur de l'analyse."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel critère ne concerne pas la faisabilité d'une solution ?",
+          "options": [
+            "Le coût",
+            "Le délai",
+            "Les compétences disponibles",
+            "La couleur du diaporama"
+          ],
+          "correct": 3,
+          "correction": "La faisabilité porte sur les ressources, le temps et l'acceptabilité."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelles sont les familles de l'Ishikawa ?",
+          "options": [
+            "Méthodes, main-d'œuvre, matériel, milieu, mesures",
+            "Prix, qualité, délai, marque, service",
+            "Ciel, terre, mer, air, feu",
+            "Mail, web, réseau, serveur, poste"
+          ],
+          "correct": 0,
+          "correction": "Les 5M sont la référence classique du diagramme des causes."
+        },
+        {
+          "type": "qcm",
+          "q": "Que contient une note d'analyse ?",
+          "options": [
+            "Contexte, faits, causes, options, recommandation",
+            "Seulement une opinion",
+            "Des blagues",
+            "Une simple signature"
+          ],
+          "correct": 0,
+          "correction": "La note retrace la démarche et conduit à une recommandation argumentée."
+        },
+        {
+          "type": "texte",
+          "q": "Une entreprise constate une hausse des tickets « imprimante hors service ». Appliquer la méthode d'analyse en quatre étapes.",
+          "reponse": "Étape 1, collecte des faits : relever le nombre de tickets par semaine, les modèles concernés, les étages, les heures, les messages d'erreur et les délais d'intervention. Étape 2, distinction : les faits sont les volumes et les codes d'erreur ; l'hypothèse est le manque de toner ; l'opinion est « le matériel est de mauvaise qualité ». Étape 3, acteurs : utilisateurs, service support, fournisseur de cartouches, responsable des achats, chacun avec un rôle et des contraintes. Étape 4, formulation : « Quelle est la cause de la hausse des pannes d'impression et quelle action réduit les tickets de 50 % en un mois ? » avec des critères de réussite chiffrés. On approfondit avec un Ishikawa et un Pareto avant de recommander, par exemple, un contrat de maintenance ou une commande groupée de consommables.",
+          "correction": "On suit les quatre étapes, on illustre chacune avec des éléments concrets et on formule une question avec critères."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer la différence entre cause et symptôme, et pourquoi la confusion est fréquente dans le support informatique.",
+          "reponse": "Le symptôme est ce que l'on observe : « le poste ne se connecte plus au réseau », « le serveur est lent ». La cause est le mécanisme qui produit le symptôme : câble endommagé, DHCP saturé, processus consommateur de CPU. La confusion est fréquente car le support est sous pression : on applique une action visible qui fait disparaître le symptôme, comme redémarrer le poste, sans chercher pourquoi le problème revient. Le redémarrage traite l'effet, pas la cause. Une démarche structurée avec les 5 Pourquoi et des données chiffrées permet de remonter à la cause racine et d'éviter la récidive, ce qui réduit la charge à long terme même si le diagnostic prend quelques minutes de plus.",
+          "correction": "On définit les deux notions, on explique la pression du support et l'illusion du redémarrage, puis la valeur de la cause racine."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "Analyser une situation, c'est passer des faits aux causes puis à une recommandation faisable, en séparant observations, hypothèses et opinions."
+        },
+        {
+          "type": "formule",
+          "titre": "La notion a maitriser",
+          "eq": "4 étapes : faits · distinction · acteurs · question et critères",
+          "leg": "Ishikawa 5M · 5 Pourquoi · Pareto 80/20 · note d'analyse"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Faits",
+              "Observations vérifiables",
+              "Hypothèse"
+            ],
+            [
+              "Explication à vérifier",
+              "Ishikawa",
+              "Causes par familles"
+            ],
+            [
+              "5 Pourquoi",
+              "Cause racine",
+              "Pareto"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Les points essentiels du chapitre",
+          "items": [
+            "La première étape consiste à collecter les faits : qui, quoi, quand, où, combien, dans quel contexte et avec quelles contraintes.",
+            "La deuxième étape distingue les faits observés, les hypothèses et les opinions : cette séparation évite de confondre cause et symptôme.",
+            "La troisième étape identifie les acteurs, leurs rôles, leurs intérêts et leurs relations : un problème technique est souvent aussi un problème organisationnel.",
+            "La quatrième étape formule le problème sous forme de question et détermine les critères de réussite de la solution."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La demarche pas a pas",
+          "items": [
+            "Collecter les faits chiffrés",
+            "Séparer faits et hypothèses",
+            "Cartographier les acteurs",
+            "Rechercher la cause racine",
+            "Formuler et documenter la recommandation"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges et erreurs frequentes",
+          "items": [
+            "Confondre symptôme et cause",
+            "Blâmer un acteur sans preuve",
+            "Proposer avant d'avoir analysé",
+            "Négliger les critères de réussite"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En situation : exemples chiffres",
+          "items": [
+            "Tickets imprimante : <span class=\"cle\">Exemple d'analyse</span>"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Analyser une situation professionnelle",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Analyser une situation professionnelle\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Analyser une situation professionnelle</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Definition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repere</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Faits</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Observations vérifiables</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Hypothèse</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Explication à vérifier</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Ishikawa</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Causes par familles</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">5 Pourquoi</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Cause racine</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Pareto</text></svg>"
+        },
+        {
+          "titre": "2 · Demarche",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Procedure : Analyser une situation professionnelle\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Procedure : Analyser une situation professionnelle</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Collecter les faits chiffrés</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Séparer faits et hypothèses</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Cartographier les acteurs</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rechercher la cause racine</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Formuler et documenter la recommandation</text></svg>"
+        },
+        {
+          "titre": "3 · A distinguer",
+          "svg": "<svg viewBox=\"0 0 660 124\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Analyser une situation professionnelle\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Analyser une situation professionnelle</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('Symptôme', ['Effet</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Cause</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">['Mécanisme profond']</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('Fait', ['Vérifiable'])</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Opinion</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">['Jugement personnel']</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ciel"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Méthodologie",
+      "titre": "ME2 · Résolution de problème et outils d'amélioration continue",
+      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "points": [
+        "La résolution de problème est une démarche itérative qui vise à supprimer durablement un écart entre l'état actuel et l'état souhaité.",
+        "Le cycle PDCA structure l'amélioration : Planifier, Faire, Vérifier, Agir, puis recommencer.",
+        "Dans sa version étendue DMAIC (Define, Measure, Analyze, Improve, Control), la méthode Six Sigma formalise les étapes d'un projet d'amélioration.",
+        "La première étape définit le problème, le périmètre, les parties prenantes et l'objectif chiffré.",
+        "La mesure s'appuie sur des données fiables : volumétrie, délais, taux de défaut, coût par incident et satisfaction utilisateur.",
+        "L'analyse identifie la cause racine avec l'Ishikawa, les 5 Pourquoi et une validation par les données.",
+        "L'amélioration propose une action, la teste à petite échelle puis généralise si les résultats sont concluants.",
+        "Le contrôle met en place des indicateurs de suivi et une procédure pour éviter le retour au problème initial.",
+        "Un indicateur pertinent est spécifique, mesurable, accessible, régulier et relié à une décision.",
+        "La boucle de retour d'expérience transforme l'incident en connaissance : causes, actions, résultats et enseignements sont archivés.",
+        "Les outils de la qualité incluent également la fiche de recueil de données, l'histogramme, le diagramme de Pareto et la carte de contrôle.",
+        "En informatique, cette démarche s'applique aussi bien à la réduction des incidents qu'à l'amélioration du parcours utilisateur ou de la productivité de l'équipe."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que signifie PDCA ?",
+          "options": [
+            "Plan, Do, Check, Act",
+            "Plan, Data, Control, Audit",
+            "Prepare, Decide, Check, Apply",
+            "Projet, Développement, Contrôle, Analyse"
+          ],
+          "correct": 0,
+          "correction": "PDCA correspond à Planifier, Faire, Vérifier, Agir."
+        },
+        {
+          "type": "qcm",
+          "q": "Que signifie la lettre A dans DMAIC ?",
+          "options": [
+            "Analyse",
+            "Améliorer",
+            "Auditer",
+            "Attendre"
+          ],
+          "correct": 1,
+          "correction": "DMAIC : Define, Measure, Analyze, Improve, Control ; Improve signifie améliorer."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est l'objet de l'étape Mesurer ?",
+          "options": [
+            "Proposer une solution",
+            "Collecter des données fiables sur le problème",
+            "Clore le projet",
+            "Former les utilisateurs"
+          ],
+          "correct": 1,
+          "correction": "On quantifie l'écart avant de chercher des causes."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel outil valide la cause racine ?",
+          "options": [
+            "Une opinion",
+            "Les données et un test",
+            "Une rumeur",
+            "Le hasard"
+          ],
+          "correct": 1,
+          "correction": "Une cause n'est retenue que si les données et un essai la confirment."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi tester une action à petite échelle ?",
+          "options": [
+            "Pour augmenter le coût",
+            "Pour limiter le risque avant généralisation",
+            "Pour éviter les indicateurs",
+            "Pour supprimer la documentation"
+          ],
+          "correct": 1,
+          "correction": "Le test pilote permet de vérifier l'effet et d'ajuster avant déploiement."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le rôle de l'étape Contrôle ?",
+          "options": [
+            "Oublier le problème",
+            "Éviter la réapparition avec des indicateurs",
+            "Recommencer à zéro",
+            "Supprimer les procédures"
+          ],
+          "correct": 1,
+          "correction": "Le contrôle institutionnalise la nouvelle méthode et suit les indicateurs."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle qualité d'un indicateur est essentielle ?",
+          "options": [
+            "Il doit être complexe",
+            "Il doit être mesurable et relié à une décision",
+            "Il doit changer chaque jour",
+            "Il doit être secret"
+          ],
+          "correct": 1,
+          "correction": "Un indicateur inexploitable ne pilote rien."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est l'apport du retour d'expérience ?",
+          "options": [
+            "Supprimer les incidents",
+            "Transformer l'incident en connaissance réutilisable",
+            "Remplacer les procédures",
+            "Réduire les effectifs"
+          ],
+          "correct": 1,
+          "correction": "Le REX capitalise causes, actions et enseignements pour l'avenir."
+        },
+        {
+          "type": "texte",
+          "q": "Une équipe support met en place une base de connaissances pour réduire les tickets répétitifs. Décrire la démarche PDCA complète.",
+          "reponse": "Plan : mesurer le nombre de tickets récurrents sur un mois, identifier les dix questions les plus fréquentes, fixer un objectif de baisse de 30 % et désigner un responsable. Do : rédiger dix fiches courtes et validées, les publier dans la base, les lier au ticket et informer l'équipe. Check : après un mois, comparer le volume de tickets récurrents, mesurer le taux de consultation des fiches et recueillir le retour des utilisateurs et des techniciens. Act : corriger les fiches les moins utiles, ajouter de nouveaux sujets, intégrer la mise à jour de la base dans la procédure d'incident et recommencer le cycle avec un nouvel objectif. Les résultats et les décisions sont archivés dans le compte rendu d'amélioration.",
+          "correction": "On décrit les quatre phases avec objectifs, actions, mesure et capitalisation, avec des indicateurs."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer pourquoi une action correctrice peut échouer malgré une bonne intention.",
+          "reponse": "Une action peut échouer parce qu'elle traite le symptôme plutôt que la cause racine, parce que la cause n'a pas été validée par les données, ou parce que le contexte a changé. Elle peut aussi être inadaptée aux ressources : procédure trop longue, outils manquants, compétences insuffisantes ou charge de travail qui décourage son application. La résistance au changement est un facteur majeur : les utilisateurs reviennent à leurs habitudes si la nouvelle méthode n'est ni expliquée ni soutenue. Enfin, sans indicateur de suivi, on ne détecte pas que l'action ne fonctionne pas et on la maintient malgré les signaux contraires. Le cycle PDCA et un test pilote réduisent ces risques en imposant mesure, ajustement et capitalisation.",
+          "correction": "On cite cause mal identifiée, ressources, résistance au changement et absence d'indicateurs."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "L'amélioration continue est un cycle : mesurer, analyser, tester, contrôler, puis recommencer avec des preuves et des indicateurs."
+        },
+        {
+          "type": "formule",
+          "titre": "La notion a maitriser",
+          "eq": "PDCA = Plan, Do, Check, Act · DMAIC = Define, Measure, Analyze, Improve, Control",
+          "leg": "Cause racine · test pilote · indicateur pertinent · retour d'expérience"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "PDCA",
+              "Cycle d'amélioration",
+              "DMAIC"
+            ],
+            [
+              "Méthode structurée",
+              "Mesure",
+              "Données fiables"
+            ],
+            [
+              "Cause racine",
+              "Validation par essai",
+              "Contrôle"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Les points essentiels du chapitre",
+          "items": [
+            "Le cycle PDCA structure l'amélioration : Planifier, Faire, Vérifier, Agir, puis recommencer.",
+            "Dans sa version étendue DMAIC (Define, Measure, Analyze, Improve, Control), la méthode Six Sigma formalise les étapes d'un projet d'amélioration.",
+            "La première étape définit le problème, le périmètre, les parties prenantes et l'objectif chiffré.",
+            "La mesure s'appuie sur des données fiables : volumétrie, délais, taux de défaut, coût par incident et satisfaction utilisateur."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La demarche pas a pas",
+          "items": [
+            "Définir l'écart et l'objectif",
+            "Mesurer la situation",
+            "Analyser la cause",
+            "Test puis généraliser",
+            "Contrôler et recommencer"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges et erreurs frequentes",
+          "items": [
+            "Agir sans mesurer",
+            "Confondre cause et symptôme",
+            "Généraliser sans test",
+            "Ne jamais vérifier l'effet"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En situation : exemples chiffres",
+          "items": [
+            "30 % : <span class=\"cle\">Objectif de baisse</span>"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Résolution de problème et outils d'amélioration continue",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Résolution de problème et outils d'amélioration continue\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Résolution de problème et outils d'amélioration continue</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Definition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repere</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">PDCA</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Cycle d'amélioration</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">DMAIC</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Méthode structurée</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mesure</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Données fiables</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Cause racine</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Validation par essai</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Contrôle</text></svg>"
+        },
+        {
+          "titre": "2 · Demarche",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Procedure : Résolution de problème et outils d'amélioration continue\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Procedure : Résolution de problème et outils d'amélioration continue</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir l'écart et l'objectif</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mesurer la situation</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Analyser la cause</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Test puis généraliser</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Contrôler et recommencer</text></svg>"
+        },
+        {
+          "titre": "3 · A distinguer",
+          "svg": "<svg viewBox=\"0 0 660 124\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Résolution de problème et outils d'amélioration continue\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Résolution de problème et outils d'amélioration continue</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('PDCA', ['Amélioration</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">DMAIC</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">['Version détaillée']</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('Action correctrice',</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Action palliative</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">['Traite le symptôme']</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ciel"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Méthodologie",
+      "titre": "ME3 · Recherche documentaire et évaluation des sources",
+      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "points": [
+        "La recherche documentaire vise à trouver l'information fiable et pertinente nécessaire à une décision ou à un rapport.",
+        "Elle commence par l'analyse du besoin : question précise, mots-clés, période, type de document et niveau de fiabilité requis.",
+        "Les sources primaires sont les textes officiels, les données brutes et les témoignages directs ; les sources secondaires les commentent ou les synthétisent.",
+        "Pour le BTS CIEL, les sources de référence sont le BO, Légifrance, l'ANSSI, la CNIL, éduscol, les RFC, les normes ISO et les documentations constructeurs.",
+        "Un moteur de recherche donne des résultats classés par pertinence, mais le classement n'est pas une garantie de fiabilité.",
+        "Les opérateurs de recherche améliorent la précision : guillemets pour une expression exacte, site: pour limiter à un domaine, signe moins pour exclure un terme.",
+        "L'évaluation d'une source repose sur quatre critères : autorité, actualité, pertinence et exactitude.",
+        "La date de publication et la date de mise à jour sont déterminantes pour les normes, les versions logicielles et les textes réglementaires.",
+        "Les réseaux sociaux, forums et blogs peuvent orienter la recherche mais ne constituent pas une preuve : ils doivent être recoupés avec une source officielle.",
+        "Le plagiat consiste à reprendre des idées ou des mots sans citation : il doit être évité par une reformulation et une référence explicite.",
+        "La bibliographie indique les sources consultées avec leur titre, leur auteur ou organisme, leur date et leur URL.",
+        "Une veille efficace limite le nombre de sources à quelques références fiables et organise leur suivi dans le temps."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est un exemple de source primaire ?",
+          "options": [
+            "Un blog d'opinion",
+            "Un texte officiel publié au Journal officiel",
+            "Un résumé de cours",
+            "Une vidéo humoristique"
+          ],
+          "correct": 1,
+          "correction": "Les textes officiels et les données brutes sont des sources primaires."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel opérateur limite une recherche à un site précis ?",
+          "options": [
+            "site:",
+            "guillemets",
+            "moins",
+            "ET"
+          ],
+          "correct": 0,
+          "correction": "L'opérateur site: suivi d'un domaine restreint les résultats."
+        },
+        {
+          "type": "qcm",
+          "q": "Quels critères évaluent une source ?",
+          "options": [
+            "Autorité, actualité, pertinence, exactitude",
+            "Longueur, couleur, police, taille",
+            "Prix, marque, pays, langue",
+            "Auteur, hasard, mode, chance"
+          ],
+          "correct": 0,
+          "correction": "Ces quatre critères constituent une grille d'évaluation classique."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle source est préférable pour une question de sécurité ?",
+          "options": [
+            "Un forum anonyme",
+            "Un bulletin ANSSI",
+            "Une publication publicitaire",
+            "Un commentaire isolé"
+          ],
+          "correct": 1,
+          "correction": "L'ANSSI est une autorité nationale compétente en cybersécurité."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne le plagiat ?",
+          "options": [
+            "Citer sa source",
+            "Reprendre sans citation",
+            "Reformuler en citant",
+            "Consulter plusieurs sources"
+          ],
+          "correct": 1,
+          "correction": "L'absence de citation transforme la reprise en plagiat."
+        },
+        {
+          "type": "qcm",
+          "q": "Que doit contenir une bibliographie ?",
+          "options": [
+            "Titre, auteur ou organisme, date et URL",
+            "Une simple liste de noms",
+            "Des couleurs",
+            "La date du jour uniquement"
+          ],
+          "correct": 0,
+          "correction": "Ces éléments permettent de retrouver et de dater la source."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi vérifier la date d'une norme ?",
+          "options": [
+            "Les normes changent rarement mais une version obsolète peut être remplacée",
+            "Les dates n'ont aucune importance",
+            "Pour compléter la bibliographie",
+            "Pour choisir une couleur"
+          ],
+          "correct": 0,
+          "correction": "Une version ancienne peut ne plus être en vigueur."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est un rôle des moteurs de recherche ?",
+          "options": [
+            "Garantir la vérité",
+            "Classer des résultats selon une pertinence calculée",
+            "Certifier les sources",
+            "Remplacer l'esprit critique"
+          ],
+          "correct": 1,
+          "correction": "Le classement est une aide, pas une validation de fiabilité."
+        },
+        {
+          "type": "texte",
+          "q": "Un étudiant prépare un exposé sur le RGPD en BTS CIEL. Proposer une stratégie de recherche en cinq étapes.",
+          "reponse": "Il définit d'abord sa question : quelles obligations du RGPD concernent une entreprise qui traite des données de salariés ? Il choisit ensuite des mots-clés français et anglais : RGPD, responsable de traitement, sous-traitant, registre, notification 72 heures, article 28. Il limite la recherche à des domaines fiables avec site:legifrance.gouv.fr, site:cnil.fr et site:eduscol.education.fr, puis complète avec un manuel ou une documentation spécialisée. Il évalue chaque source retenue selon l'autorité de l'organisme, sa date de mise à jour et sa pertinence par rapport à sa question, en écartant les blogs non référencés. Enfin, il lit les textes, note les références exactes avec URL et date de consultation, construit son plan et rédige en reformulant avec des citations courtes pour les formules légales.",
+          "correction": "On attend définition de la question, mots-clés, sources officielles, grille d'évaluation et bibliographie."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer pourquoi un forum peut être utile sans pouvoir servir de preuve dans un rapport technique.",
+          "reponse": "Un forum donne accès à des retours d'expérience concrets, à des messages d'erreur réels et à des pistes de diagnostic que les documentations officielles ne détaillent pas toujours. Il peut orienter la recherche et faire gagner du temps. En revanche, l'information n'y est pas vérifiée : elle peut être obsolète, inexacte, propre à un environnement particulier ou simplement fausse. Un rapport technique engage la responsabilité de son auteur : les affirmations doivent être étayées par des sources vérifiables et à jour. L'usage correct consiste donc à recouper la piste trouvée sur un forum avec une documentation constructeur, une RFC, un avis ANSSI ou un texte réglementaire, puis à citer uniquement la source fiable dans le rapport.",
+          "correction": "On reconnaît l'intérêt pratique du forum, puis on exige recoupement et citation de sources vérifiables."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "La recherche documentaire combine requêtes précises et esprit critique : autorité, date et recoupement déterminent la fiabilité."
+        },
+        {
+          "type": "formule",
+          "titre": "La notion a maitriser",
+          "eq": "Sources primaires = textes officiels et données brutes",
+          "leg": "site: · guillemets · ANSSI/CNIL/Légifrance/BO · bibliographie"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Besoin",
+              "Question et mots-clés",
+              "Source primaire"
+            ],
+            [
+              "Texte officiel",
+              "Source secondaire",
+              "Commentaire"
+            ],
+            [
+              "Opérateur",
+              "site: et guillemets",
+              "Autorité"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Les points essentiels du chapitre",
+          "items": [
+            "Elle commence par l'analyse du besoin : question précise, mots-clés, période, type de document et niveau de fiabilité requis.",
+            "Les sources primaires sont les textes officiels, les données brutes et les témoignages directs ; les sources secondaires les commentent ou les synthétisent.",
+            "Pour le BTS CIEL, les sources de référence sont le BO, Légifrance, l'ANSSI, la CNIL, éduscol, les RFC, les normes ISO et les documentations constructeurs.",
+            "Un moteur de recherche donne des résultats classés par pertinence, mais le classement n'est pas une garantie de fiabilité."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La demarche pas a pas",
+          "items": [
+            "Analyser le besoin",
+            "Choisir mots-clés et opérateurs",
+            "Repérer les sources officielles",
+            "Évaluer autorité et date",
+            "Recouper et citer"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges et erreurs frequentes",
+          "items": [
+            "Croire le premier résultat",
+            "Utiliser un forum comme preuve",
+            "Oublier la date de publication",
+            "Reprendre un texte sans citation"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En situation : exemples chiffres",
+          "items": [
+            "72 heures : <span class=\"cle\">Délai RGPD</span>"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Recherche documentaire et évaluation des sources",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Recherche documentaire et évaluation des sources\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Recherche documentaire et évaluation des sources</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Definition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repere</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Besoin</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Question et mots-clés</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Source primaire</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Texte officiel</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Source secondaire</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Commentaire</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Opérateur</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">site: et guillemets</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Autorité</text></svg>"
+        },
+        {
+          "titre": "2 · Demarche",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Procedure : Recherche documentaire et évaluation des sources\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Procedure : Recherche documentaire et évaluation des sources</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Analyser le besoin</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choisir mots-clés et opérateurs</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Repérer les sources officielles</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Évaluer autorité et date</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Recouper et citer</text></svg>"
+        },
+        {
+          "titre": "3 · A distinguer",
+          "svg": "<svg viewBox=\"0 0 660 124\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Recherche documentaire et évaluation des sources\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Recherche documentaire et évaluation des sources</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('Source primaire', [&quot;Document</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Source secondaire</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">['Analyse ou synthèse']</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('Pertinence', ['Répond à la</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Exactitude</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">['Information vérifiée']</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ciel"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Méthodologie",
+      "titre": "ME4 · Préparer et réussir sa soutenance de projet",
+      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "points": [
+        "La soutenance de projet est un exercice de communication qui évalue la démarche suivie autant que le résultat obtenu.",
+        "En option IR du BTS CIEL, l'épreuve E6 évalue la valorisation de la donnée et la cybersécurité à travers un projet technique et sa présentation.",
+        "Le dossier de synthèse présente le contexte, le besoin, les choix techniques, la réalisation, les tests et le bilan, avec des annexes lisibles.",
+        "L'oral suit généralement une structure : introduction, contexte et besoin, analyse et choix, réalisation, résultats, limites et conclusion.",
+        "Le temps est une contrainte forte : il faut répéter avec un chronomètre et prévoir une marge pour les questions du jury.",
+        "Un support visuel sobre accompagne le propos : une idée par diapositive, des schémas d'architecture lisibles et des chiffres clés.",
+        "Le schéma d'architecture doit montrer les équipements, les liens, les adresses et les flux, avec une légende claire.",
+        "La démonstration technique, si elle est prévue, doit être préparée et accompagnée d'un plan B en cas de problème réseau ou matériel.",
+        "Le jury attend une explicitation des choix : pourquoi ce protocole, cette topologie, cette règle de sécurité, cette méthode de test ?",
+        "Les limites du projet doivent être assumées : contraintes de temps, de budget, de compatibilité ou de sécurité non traitée.",
+        "La gestion du stress repose sur la préparation, la respiration, un débit modéré et l'usage de fiches de mots-clés plutôt que d'un texte intégral.",
+        "Une soutenance réussie se conclut par une synthèse courte et une ouverture sur les évolutions possibles du projet."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que privilégie le jury lors d'une soutenance ?",
+          "options": [
+            "La seule beauté du diaporama",
+            "La démarche, les choix et les résultats expliqués",
+            "La longueur de l'oral",
+            "Le nombre de diapositives"
+          ],
+          "correct": 1,
+          "correction": "Le jury évalue la compréhension et la justification de la démarche."
+        },
+        {
+          "type": "qcm",
+          "q": "Que contient un dossier de synthèse ?",
+          "options": [
+            "Contexte, besoin, choix, réalisation, tests, bilan et annexes",
+            "Uniquement des photos",
+            "Une liste de cours",
+            "Le programme de l'année"
+          ],
+          "correct": 0,
+          "correction": "Le dossier retrace tout le cycle du projet et renvoie aux preuves en annexe."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle règle pour un support visuel efficace ?",
+          "options": [
+            "Une idée par diapositive",
+            "Dix paragraphes par diapositive",
+            "Des polices minuscules",
+            "Aucun titre"
+          ],
+          "correct": 0,
+          "correction": "La clarté visuelle permet au jury de suivre sans effort."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel élément doit apparaître sur un schéma d'architecture ?",
+          "options": [
+            "Les équipements, liens, adresses et une légende",
+            "Une photo du bâtiment",
+            "La liste des étudiants",
+            "Le prix des câbles"
+          ],
+          "correct": 0,
+          "correction": "Un schéma technique lisible est un livrable central du projet IR."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi prévoir un plan B pour la démonstration ?",
+          "options": [
+            "Pour impressionner le jury",
+            "Pour faire face à une panne réseau ou matérielle",
+            "Pour allonger l'oral",
+            "Pour éviter les questions"
+          ],
+          "correct": 1,
+          "correction": "Une capture ou une vidéo de secours sécurise la démonstration."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle question du jury faut-il anticiper ?",
+          "options": [
+            "Pourquoi ce choix technique plutôt qu'un autre ?",
+            "Quel est votre plat préféré ?",
+            "Quelle heure est-il ?",
+            "Combien de diapositives avez-vous ?"
+          ],
+          "correct": 0,
+          "correction": "La justification des choix techniques est au cœur de l'évaluation."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment gérer le stress avant un oral ?",
+          "options": [
+            "Répéter chronométré et préparer des mots-clés",
+            "Lire un texte intégral",
+            "Ne pas dormir",
+            "Éviter toute répétition"
+          ],
+          "correct": 0,
+          "correction": "La préparation et une bonne respiration réduisent le stress."
+        },
+        {
+          "type": "qcm",
+          "q": "Que faire de ses fiches de mots-clés ?",
+          "options": [
+            "Les lire intégralement",
+            "S'en servir comme appui visuel",
+            "Les cacher au jury",
+            "Les réciter par cœur"
+          ],
+          "correct": 1,
+          "correction": "Les fiches soutiennent l'oral sans le remplacer."
+        },
+        {
+          "type": "texte",
+          "q": "Construire le plan d'un oral de 15 minutes pour un projet de sécurisation d'un réseau d'entreprise.",
+          "reponse": "Introduction (1 min) : présentation, titre du projet et annonce du plan. Contexte et besoin (2 min) : l'entreprise, les 40 postes, les deux serveurs, l'absence de segmentation et les incidents constatés. Analyse et choix (4 min) : risques identifiés, comparaison des solutions envisageables, choix des VLAN, du firewall, de la MFA et de la supervision, avec justification. Réalisation (4 min) : schéma d'architecture, plan d'adressage, configuration, tests de connectivité et de restriction des flux, démonstration courte si possible. Résultats et limites (2 min) : indicateurs de conformité, éléments non traités et contraintes. Conclusion (1 min) : bilan, apports personnels et évolutions possibles. On garde environ cinq minutes pour les questions en prévoyant une marge dans la répétition.",
+          "correction": "On propose une répartition des 15 minutes avec une place pour la justification, les limites et les questions."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer comment répondre à une question du jury à laquelle on ne connaît pas la réponse.",
+          "reponse": "On commence par reformuler la question pour s'assurer de l'avoir comprise et on garde une posture calme : reconnaître une limite n'est pas un échec. On distingue ensuite ce que l'on sait de ce que l'on ignore : on expose les éléments de réponse solides, les hypothèses raisonnables et la méthode que l'on utiliserait pour vérifier, par exemple consulter la documentation constructeur, tester en laboratoire ou s'appuyer sur une norme. On peut proposer une piste de réponse argumentée en la présentant comme telle, puis indiquer ce que l'on ferait différemment avec plus de temps. Cette honnêteté est appréciée car elle montre l'esprit critique et la rigueur, qualités attendues d'un futur technicien.",
+          "correction": "On préconise reformulation, distinction entre su et ignoré, méthode de vérification et honnêteté assumée."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "Une soutenance réussie raconte une démarche, justifie des choix, montre des preuves et assume les limites dans un temps maîtrisé."
+        },
+        {
+          "type": "formule",
+          "titre": "La notion a maitriser",
+          "eq": "Oral = contexte · analyse et choix · réalisation · résultats · limites",
+          "leg": "Dossier de synthèse · schéma d'architecture · démonstration · plan B · gestion du stress"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Dossier",
+              "Synthèse écrite du projet",
+              "Oral"
+            ],
+            [
+              "Présentation structurée",
+              "Schéma",
+              "Architecture et flux"
+            ],
+            [
+              "Choix techniques",
+              "Justification",
+              "Limites"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Les points essentiels du chapitre",
+          "items": [
+            "En option IR du BTS CIEL, l'épreuve E6 évalue la valorisation de la donnée et la cybersécurité à travers un projet technique et sa présentation.",
+            "Le dossier de synthèse présente le contexte, le besoin, les choix techniques, la réalisation, les tests et le bilan, avec des annexes lisibles.",
+            "L'oral suit généralement une structure : introduction, contexte et besoin, analyse et choix, réalisation, résultats, limites et conclusion.",
+            "Le temps est une contrainte forte : il faut répéter avec un chronomètre et prévoir une marge pour les questions du jury."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La demarche pas a pas",
+          "items": [
+            "Rédiger le dossier et les annexes",
+            "Construire un plan chronométré",
+            "Préparer schémas et démonstration",
+            "Répéter avec des mots-clés",
+            "Anticiper les questions"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges et erreurs frequentes",
+          "items": [
+            "Lire un texte intégral",
+            "Surcharger les diapositives",
+            "Ignorer les limites du projet",
+            "Improviser la démonstration"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En situation : exemples chiffres",
+          "items": [
+            "15 minutes : <span class=\"cle\">Durée d'oral</span>"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Préparer et réussir sa soutenance de projet",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Préparer et réussir sa soutenance de projet\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Préparer et réussir sa soutenance de projet</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Definition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repere</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Dossier</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Synthèse écrite du</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Oral</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Présentation structurée</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Schéma</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Architecture et flux</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choix techniques</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Justification</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Limites</text></svg>"
+        },
+        {
+          "titre": "2 · Demarche",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Procedure : Préparer et réussir sa soutenance de projet\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Procedure : Préparer et réussir sa soutenance de projet</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rédiger le dossier et les annexes</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Construire un plan chronométré</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Préparer schémas et démonstration</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Répéter avec des mots-clés</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Anticiper les questions</text></svg>"
+        },
+        {
+          "titre": "3 · A distinguer",
+          "svg": "<svg viewBox=\"0 0 660 124\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Préparer et réussir sa soutenance de projet\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Préparer et réussir sa soutenance de projet</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('Démonstration', ['Preuve de</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Schéma</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">['Preuve de conception']</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('Chronomètre', ['Maîtrise du</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Mots-clés</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">[&quot;Appui à l'oral&quot;]</text></svg>"
+        }
+      ]
     }
   ]
 }
