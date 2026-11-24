@@ -1048,7 +1048,7 @@ add("EC4", "Conjoncture, croissance et inflation", "Économie", ["BTS2"],
        ["Emploi", "Pouvoir d'achat", "Offre"]])),
  diag("3 · Inflation et change", svg_compare("Deux effets",
       ("Inflation", ["Coûts plus élevés", "Clause d'indexation"]),
-      ("Change", ["Recette convertie", "Couverture"])),
+      ("Change", ["Recette convertie", "Couverture"]))),
 ])
 
 # ============================================================ EC5
@@ -1965,7 +1965,7 @@ add("MS3", "Probabilités et décision commerciale", "Maths / stats", ["BTS2"],
 
 
 # ============================================================ MS4
-add("MS4", "Séries temporelles et prévisions de ventes", "Maths / stats", ["BTS2"],
+add("MS4", "Séries temporelles et prévisions commerciales (BTS CI)", "Maths / stats", ["BTS2"],
 [
  "Une série temporelle est une suite de mesures relevées dans le temps : ventes mensuelles, commandes, cours de change ou délais.",
  "Elle sert à repérer une tendance, une saisonnalité et des variations irrégulières pour construire des prévisions.",

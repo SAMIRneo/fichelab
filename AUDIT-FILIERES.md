@@ -6,12 +6,12 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 
 | Controle | Valeur | Attendu |
 |---|---|---|
-| Catalogue EXTRA_FICHES | 1289 | lisible |
-| Fiches prototype | 934 | = 96 BIOALC + nouvelles |
+| Catalogue EXTRA_FICHES | 1335 | lisible |
+| Fiches prototype | 994 | = 96 BIOALC + nouvelles |
 | Annales bibliotheque | 60 | lisible |
-| Filieres converties | 14 | bts-bio, bts-mco, bts-ndrc, but-gea, but-tc, cpge-mpsi, cpge-pci, generale, infirmier, lic-droit, lic-eco, lic-psycho, lic-staps, pass |
-| Questions prototype | 8572 | toutes corrigees |
-| Schemas SVG | 2766 | XML valide, sans script |
+| Filieres converties | 15 | bts-bio, bts-ci, bts-mco, bts-ndrc, but-gea, but-tc, cpge-mpsi, cpge-pci, generale, infirmier, lic-droit, lic-eco, lic-psycho, lic-staps, pass |
+| Questions prototype | 9172 | toutes corrigees |
+| Schemas SVG | 2946 | XML valide, sans script |
 | Ordre des 7 blocs | 1 | variantes (doit etre 1) |
 | Titles uniques | 0 | doublons (doit etre 0) |
 | Vrais examens filtres | 12 | bts-bio uniquement |
@@ -19,6 +19,7 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 ## Couverture par filiere
 
 **bts-bio** : 111 prototypes (BTS1:58, BTS2:69)
+**bts-ci** : 60 prototypes (BTS1:23, BTS2:37)
 **bts-mco** : 82 prototypes (BTS1:52, BTS2:62)
 **bts-ndrc** : 60 prototypes (BTS1:24, BTS2:36)
 **but-gea** : 60 prototypes (BUT1:22, BUT2:22, BUT3:16)
@@ -42,9 +43,9 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 ## Verifications
 
 - Syntaxe JavaScript : **OK**
-- Schemas SVG : 2766, tous analysables en XML et sans script/on*/javascript:
-- Blocs d'affichage : 934 fiche(s), ordre strict identique
-- Questions : 8572, toutes avec correction
+- Schemas SVG : 2946, tous analysables en XML et sans script/on*/javascript:
+- Blocs d'affichage : 994 fiche(s), ordre strict identique
+- Questions : 9172, toutes avec correction
 - Migrations : filtre prototype + nettoyage + ajout automatique generalises
 
 ## Problemes detectes
