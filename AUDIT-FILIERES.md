@@ -6,19 +6,19 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 
 | Controle | Valeur | Attendu |
 |---|---|---|
-| Catalogue EXTRA_FICHES | 1052 | lisible |
-| Fiches prototype | 623 | = 96 BIOALC + nouvelles |
+| Catalogue EXTRA_FICHES | 1067 | lisible |
+| Fiches prototype | 638 | = 96 BIOALC + nouvelles |
 | Annales bibliotheque | 60 | lisible |
 | Filieres converties | 9 | bts-bio, bts-mco, bts-ndrc, but-tc, cpge-mpsi, generale, infirmier, lic-droit, pass |
-| Questions prototype | 5773 | toutes corrigees |
-| Schemas SVG | 1833 | XML valide, sans script |
+| Questions prototype | 5908 | toutes corrigees |
+| Schemas SVG | 1878 | XML valide, sans script |
 | Ordre des 7 blocs | 1 | variantes (doit etre 1) |
 | Titles uniques | 0 | doublons (doit etre 0) |
 | Vrais examens filtres | 12 | bts-bio uniquement |
 
 ## Couverture par filiere
 
-**bts-bio** : 96 prototypes (BTS1:50, BTS2:54)
+**bts-bio** : 111 prototypes (BTS1:58, BTS2:69)
 **bts-mco** : 82 prototypes (BTS1:52, BTS2:62)
 **bts-ndrc** : 60 prototypes (BTS1:24, BTS2:36)
 **but-tc** : 50 prototypes (BUT1:19, BUT2:30, BUT3:16)
@@ -37,9 +37,9 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 ## Verifications
 
 - Syntaxe JavaScript : **OK**
-- Schemas SVG : 1833, tous analysables en XML et sans script/on*/javascript:
-- Blocs d'affichage : 623 fiche(s), ordre strict identique
-- Questions : 5773, toutes avec correction
+- Schemas SVG : 1878, tous analysables en XML et sans script/on*/javascript:
+- Blocs d'affichage : 638 fiche(s), ordre strict identique
+- Questions : 5908, toutes avec correction
 - Migrations : filtre prototype + nettoyage + ajout automatique generalises
 
 ## Problemes detectes

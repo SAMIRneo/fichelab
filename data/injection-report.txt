@@ -1,4 +1,4 @@
-Fiches totales dans EXTRA_FICHES : 1052
+Fiches totales dans EXTRA_FICHES : 1067
 Nouvelles fiches ajoutees : 527 (dont 527 prototype)
 Filieres converties : bts-bio, bts-mco, bts-ndrc, but-tc, cpge-mpsi, generale, infirmier, lic-droit, pass
 Fichiers sources ajoutes : btsndrc-mat-part-A.json, btsndrc-mat-part-B.json, btsndrc-mat-part-C.json, buttc-mat-part-A.json, buttc-mat-part-B.json, buttc-mat-part-C.json, cpge-mat-part-A.json, cpge-mat-part-B.json, cpge-mat-part-C.json, generale-mat-part-A.json, generale-mat-part-B.json, generale-mat-part-C.json, generale-mat-part-D.json, generale-mat-part-E.json, generale-mat-part-F.json, generale-mat-part-G.json, infirmier-mat-part-A.json, infirmier-mat-part-B.json, infirmier-mat-part-C.json, licdroit-mat-part-A.json, licdroit-mat-part-B.json, licdroit-mat-part-C.json, mco-mat-part-A.json, mco-mat-part-B.json, mco-mat-part-C.json, mco-mat-part-D.json, pass-mat-part-A.json, pass-mat-part-B.json, pass-mat-part-C.json

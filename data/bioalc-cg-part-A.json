@@ -1,0 +1,1842 @@
+{
+  "fiches": [
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Physique-chimie et instrumentation",
+      "titre": "Contrôle PC · Nomenclature et règle R",
+      "source": "Contrôle groupé PC — BTS BIOALC, référentiel U4 physique-chimie (arrêté 12 mars 2024 modifié 24 juin 2025) · programme officiel · retour d'étudiant (novembre 2026) · références utiles : IUPAC Gold Book et Blue Book, PubChem, LibreTexts Chemistry, Chimactiv (AgroParisTech), documents d'accompagnement ac-Rennes/ac-Toulouse",
+      "points": [
+        "En chimie organique, R– désigne le « reste » hydrocarboné (radical alkyle) auquel est fixé un groupement caractéristique : R–OH (alcool), R–CHO (aldéhyde), R–COOH (acide carboxylique), R–NH₂ (amine). Lire une formule, c'est repérer ce R et la fonction portée.",
+        "La « règle R » du contrôle est la règle de priorité : on donne le suffixe au groupement caractéristique le plus prioritaire, et tous les autres groupements sont énoncés en préfixes. Elle prime sur le nombre de carbones du squelette.",
+        "Ordre de priorité utile (du plus au moins prioritaire) : acide carboxylique −COOH > ester −COO− > aldéhyde −CHO > cétone >C=O > alcool −OH > amine −NH₂ > alcène C=C > halogéno, nitro, alkoxy.",
+        "La nomenclature IUPAC suit toujours la même suite : choisir la fonction principale, prendre la chaîne la plus longue qui la contient, numéroter pour lui donner l'indice le plus bas, puis nommer les substituants en préfixes.",
+        "Préfixes carbonés : 1 méth-, 2 éth-, 3 prop-, 4 but-, 5 pent-, 6 hex-, 7 hept-, 8 oct-, 9 non-, 10 déc-. Suffixes : -ane (saturé), -ène (double liaison), -yne (triple liaison), -ol, -al, -one, -oïque, -oate, -amine, -amide.",
+        "La numérotation donne l'indice le plus bas à la fonction principale, puis à l'insaturation, puis aux substituants ; en cas d'égalité, on compare les listes d'indices terme à terme : c'est la règle du premier point de différence.",
+        "Les substituants se citent par ordre alphabétique : 3-éthyl-2-méthylhexane. Les préfixes multiplicateurs di-, tri-, tétra- sont ignorés pour cet ordre (mais bis-, tris- comptent pour les substituants complexes).",
+        "Un cycle se nomme avec le préfixe cyclo- (cyclohexane, cyclohex-1-ène) et sert de squelette s'il a au moins autant de carbones que la chaîne ouverte. Le benzène donne phénol (hydroxybenzène), toluène (méthylbenzène), acide benzoïque.",
+        "Un ester se nomme en deux mots, acide puis alcool : CH₃COOCH₂CH₃ est l'éthanoate d'éthyle (nom usuel : acétate d'éthyle). La partie « …oate » vient de l'acide, le radical « …yle » vient de l'alcool.",
+        "Un amide dérive d'un acide carboxylique par remplacement de −OH par −NH₂ : CH₃CONH₂ = éthanamide (acétamide). Une amine est nommée -amine (suffixe) ou amino- (préfixe) selon sa priorité.",
+        "La formule brute ne suffit pas à identifier un composé : C₂H₆O convient aussi bien à l'éthanol CH₃CH₂OH qu'à l'oxyde de diméthyle CH₃OCH₃. Il faut la formule développée et le nom IUPAC pour lever l'ambiguïté.",
+        "Au laboratoire, nom IUPAC et numéro CAS doivent concorder sur la fiche de données de sécurité et le certificat d'analyse : une erreur de nommage change le réactif commandé et fausse l'interprétation d'un spectre IR."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Dans les écritures R−OH, R−CHO et R−COOH, que représente R ?",
+          "options": [
+            "Le reste hydrocarboné (radical alkyle) lié à la fonction",
+            "Un atome d'oxygène",
+            "Le numéro d'indice du carbone",
+            "Une double liaison"
+          ],
+          "correct": 0,
+          "correction": "R est le reste de la molécule, généralement une chaîne carbonée (alkyle) : c'est le support sur lequel se fixe le groupement caractéristique."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la fonction prioritaire dans HO−CH₂−COOH et quel nom en résulte ?",
+          "options": [
+            "Le hydroxyle → éthanol",
+            "Le carboxyle → acide hydroxyéthanoïque",
+            "L'amine → acide aminoéthanoïque",
+            "La cétone → hydroxypropanone"
+          ],
+          "correct": 1,
+          "correction": "−COOH est plus prioritaire que −OH : il donne le suffixe « acide …oïque » et le hydroxyle devient le préfixe hydroxy-. On obtient l'acide hydroxyéthanoïque (acide glycolique)."
+        },
+        {
+          "type": "qcm",
+          "q": "Nommer CH₃−CH(CH₃)−CH₂−CH₃.",
+          "options": [
+            "3-méthylbutane",
+            "2-méthylbutane",
+            "2-méthylpropane",
+            "pentane"
+          ],
+          "correct": 1,
+          "correction": "La chaîne la plus longue a 4 carbones (butane) ; en numérotant par l'extrémité la plus proche du méthyle, celui-ci est en position 2 → 2-méthylbutane."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le nom IUPAC de CH₃COOCH₂CH₃ ?",
+          "options": [
+            "Éthanoate d'éthyle",
+            "Méthanoate d'éthyle",
+            "Éthanoate de méthyle",
+            "Propanoate d'éthyle"
+          ],
+          "correct": 0,
+          "correction": "La partie acide est l'acide éthanoïque → éthanoate ; la partie alcool est l'éthanol → éthyle. L'ordre est acide puis alcool : éthanoate d'éthyle (acétate d'éthyle en nom usuel)."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel suffixe IUPAC correspond à un aldéhyde ?",
+          "options": [
+            "-ol",
+            "-al",
+            "-one",
+            "-oïque"
+          ],
+          "correct": 1,
+          "correction": "Aldéhyde → -al (éthanal, butanal) ; -one désigne une cétone, -ol un alcool et -oïque un acide carboxylique."
+        },
+        {
+          "type": "qcm",
+          "q": "Nommer CH₃−CH(OH)−CH₂−CHO.",
+          "options": [
+            "2-hydroxybutanal",
+            "3-hydroxybutanal",
+            "3-hydroxybutanone",
+            "3-hydroxybutan-1-ol"
+          ],
+          "correct": 1,
+          "correction": "L'aldéhyde est prioritaire : la chaîne est le butanal, numérotée depuis −CHO (C1). Le hydroxyle est donc en C3 → 3-hydroxybutanal."
+        },
+        {
+          "type": "qcm",
+          "q": "Un acide hydroxycarboxylique possède 6 atomes de carbone, un groupement −COOH et un groupement −OH. Quelle est sa formule brute ?",
+          "options": [
+            "C₆H₁₂O₃",
+            "C₆H₁₀O₃",
+            "C₆H₁₂O₂",
+            "C₅H₁₂O₃"
+          ],
+          "correct": 0,
+          "correction": "L'acide hexanoïque est C₆H₁₂O₂ ; remplacer un H par −OH ajoute un oxygène sans changer le nombre d'hydrogènes → C₆H₁₂O₃.",
+          "contexte": "Vérification d'une fiche de données de sécurité : la formule brute doit être cohérente avec le nom IUPAC de l'acide hydroxyhexanoïque.",
+          "calcul": true
+        },
+        {
+          "type": "texte",
+          "q": "Détailler la méthode pour nommer HO−CH₂−CH₂−NH₂ et donner son nom IUPAC.",
+          "reponse": "1) Fonctions présentes : −OH et −NH₂. 2) Priorité : −OH > −NH₂, donc suffixe -ol. 3) Chaîne mère : 2 carbones → éthane, numérotée pour placer −OH en C1 → éthan-1-ol. 4) −NH₂ devient le préfixe amino- en C2. Nom : 2-aminoéthan-1-ol (nom usuel : éthanolamine).",
+          "correction": "On applique la règle R : le groupement prioritaire donne le suffixe et l'autre devient un préfixe ; la numérotation donne l'indice 1 au hydroxyle."
+        },
+        {
+          "type": "texte",
+          "q": "Un alcane linéaire contient 8 atomes de carbone. Calculer sa formule brute et sa masse molaire (M(C) = 12, M(H) = 1).",
+          "reponse": "Formule générale CₙH₂ₙ₊₂ → C₈H₁₈. M = 8×12 + 18×1 = 96 + 18 = 114 g/mol.",
+          "correction": "Pour un alcane acyclique saturé, H = 2n + 2 = 18 ; la masse molaire s'obtient en additionnant les masses atomiques.",
+          "contexte": "Contrôle d'étiquetage d'un solvant pétrolier : la formule et la masse molaire servent à vérifier la fiche technique.",
+          "calcul": true
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Nommer une molécule, c'est d'abord désigner sa fonction prioritaire (la « règle R »), puis décrire le squelette qui la porte."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule et la règle",
+          "eq": "Nom IUPAC = préfixes (substituants) + squelette + suffixe (fonction prioritaire) + indices",
+          "leg": "R = radical alkyle · priorité décroissante : −COOH > −COO− > −CHO > >C=O > −OH > −NH₂ > C=C"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Élément du nom",
+              "Rôle",
+              "Exemple"
+            ],
+            [
+              "R−",
+              "Radical (reste)",
+              "R−OH = alcool"
+            ],
+            [
+              "Préfixe",
+              "Substituant",
+              "3-méthyl…"
+            ],
+            [
+              "Squelette",
+              "Chaîne / cycle",
+              "hexane, cyclohexane"
+            ],
+            [
+              "Suffixe",
+              "Fonction prioritaire",
+              "-oïque, -al, -ol"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Priorité : acide > ester > aldéhyde > cétone > alcool > amine > alcène > halogène.",
+            "La fonction prioritaire donne le suffixe ; toutes les autres deviennent des préfixes.",
+            "Choisir la chaîne la plus longue contenant cette fonction, puis le plus grand nombre d'insaturations.",
+            "Numéroter au plus petit indice possible ; départager avec le premier point de différence.",
+            "Citer les substituants par ordre alphabétique (di-, tri- ignorés)."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode, étape par étape",
+          "items": [
+            "Repérer tous les groupements caractéristiques de la formule.",
+            "Désigner le groupement le plus prioritaire : c'est le suffixe (règle R).",
+            "Choisir la chaîne (ou le cycle) la plus longue qui le contient.",
+            "Numéroter depuis l'extrémité qui donne l'indice le plus bas à la fonction.",
+            "Ajouter les substituants en préfixes alphabétiques, puis vérifier la formule brute."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Croire que la chaîne la plus longue suffit : la fonction prioritaire prime toujours (règle R).",
+            "Confondre acétate d'éthyle (usuel) et éthanoate d'éthyle (IUPAC).",
+            "Numéroter en faveur d'un substituant au détriment de la fonction principale.",
+            "Oublier les parenthèses autour d'un substituant complexe.",
+            "Penser que deux formules brutes identiques désignent la même molécule (isomérie)."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">HO−CH₂−COOH</span> → acide hydroxyéthanoïque (glycolique)",
+            "<span class=\"cle\">CH₃COOCH₂CH₃</span> → éthanoate d’éthyle",
+            "<span class=\"cle\">CH₃−CH(CH₃)−CH₂−CH₃</span> → 2-méthylbutane",
+            "<span class=\"cle\">CH₃−CH(OH)−CH₂−CHO</span> → 3-hydroxybutanal",
+            "<span class=\"cle\">C₈H₁₈</span> → M = 114 g/mol"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · La règle R en un coup d'œil",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Priorité des fonctions et suffixe\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Priorité des fonctions et suffixe</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Priorité</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Groupe</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Suffixe / préfixe</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">1</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">−COOH</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">acide …oïque</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">2</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">−CHO</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">-al</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">3</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">−OH</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">-ol / hydroxy</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">4</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">−NH₂</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">-amine / amino</text></svg>"
+        },
+        {
+          "titre": "2 · Nommer étape par étape",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : De la formule au nom\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">De la formule au nom</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Repérer toutes les fonctions présentes</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choisir la fonction prioritaire (règle R)</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Prendre la chaîne la plus longue qui la porte</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Numéroter au plus petit indice</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Citer les substituants par ordre alphabétique</text></svg>"
+        },
+        {
+          "titre": "3 · Chaîne et cycle",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : squelette ouvert / fermé\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">squelette ouvert / fermé</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Chaîne</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Sujet : -ane, -ène</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Ex. : butane, but-2-ène</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Numérotation aux extrémités</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Cycle</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Préfixe cyclo-</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Ex. : cyclohexane</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Sommets = carbones</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Physique-chimie et instrumentation",
+      "titre": "Contrôle PC · Polymères, polyesters et estérification",
+      "source": "Contrôle groupé PC — BTS BIOALC, référentiel U4 physique-chimie (arrêté 12 mars 2024 modifié 24 juin 2025) · programme officiel · retour d'étudiant (novembre 2026) · références utiles : IUPAC Gold Book et Blue Book, PubChem, LibreTexts Chemistry, Chimactiv (AgroParisTech), documents d'accompagnement ac-Rennes/ac-Toulouse",
+      "points": [
+        "L'estérification de Fischer met en jeu un acide carboxylique et un alcool : R−COOH + R′−OH ⇌ R−COO−R′ + H₂O. Elle est catalysée par un acide fort (H₂SO₄) et favorisée par la chaleur.",
+        "C'est une réaction réversible : l'équilibre est déplacé vers l'ester par excès d'alcool (ou d'acide) et par élimination de l'eau formée (Le Châtelier).",
+        "Le groupement ester −COO− se nomme « …oate de …yle » : la première partie vient de l'acide, la seconde de l'alcool (éthanoate d'éthyle).",
+        "Un acide monocarboxylique et un monoalcool donnent un monoester et une molécule d'eau ; un diacide et un diol peuvent former un polyester.",
+        "La polycondensation assemble des monomères bifonctionnels en éliminant à chaque liaison une petite molécule (eau, HCl, méthanol) — à distinguer de la polyaddition, sans élimination de sous-produit.",
+        "Le poly(éthylène téréphtalate) (PET) résulte de la polycondensation de l'acide téréphtalique (HOOC−C₆H₄−COOH) et de l'éthylène glycol (HO−CH₂CH₂−OH) : c'est un polyester.",
+        "Le degré de polymérisation DP est le nombre de motifs répétés dans la chaîne ; la masse molaire du polymère croît avec DP, la masse des extrémités devenant négligeable pour les longues chaînes.",
+        "Pour n molécules de diacide et n molécules de diol formant une chaîne linéaire, il se forme 2n−1 liaisons ester, donc 2n−1 molécules d'eau ; on approxime souvent par n eaux par motif pour une longue chaîne.",
+        "Un hydroxyacide peut s'estérifier lui-même (estérification intramoléculaire) pour donner une lactone, cycle ester à 5 ou 6 atomes.",
+        "La saponification est l'hydrolyse basique de l'ester : R−COO−R′ + HO⁻ → R−COO⁻ + R′−OH. Irréversible, elle donne un carboxylate (savon) et un alcool.",
+        "Un triglycéride est un triester du glycérol et de trois acides gras : sa formation élimine 3 molécules d'eau ; sa saponification libère glycérol et 3 ions carboxylates. L'indice de saponification est la masse de KOH (mg) nécessaire pour hydrolyser 1 g de graisse.",
+        "Au laboratoire, suivre la réaction par IR (C=O ester vers 1740 cm⁻¹, acide vers 1710 cm⁻¹), par chromatographie ou par dosage de l'acidité résiduelle."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quels sont les produits de l'estérification d'un acide carboxylique par un alcool ?",
+          "options": [
+            "Un ester et de l'eau",
+            "Un sel et de l'eau",
+            "Un amide et de l'ammoniac",
+            "Un aldéhyde et de l'hydrogène"
+          ],
+          "correct": 0,
+          "correction": "La réaction R−COOH + R′−OH ⇌ R−COO−R′ + H₂O donne un ester et de l'eau ; elle est catalysée par un acide fort."
+        },
+        {
+          "type": "qcm",
+          "q": "Combien de molécules d'eau sont éliminées lors de la formation d'un triglycéride à partir du glycérol et de 3 acides gras ?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "6"
+          ],
+          "correct": 2,
+          "correction": "Le glycérol porte trois −OH : chaque estérification élimine une molécule d'eau, donc 3 eaux au total pour 3 acides gras."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le nom IUPAC de CH₃COOCH₃ ?",
+          "options": [
+            "Éthanoate de méthyle",
+            "Méthanoate d'éthyle",
+            "Éthanoate d'éthyle",
+            "Propanoate de méthyle"
+          ],
+          "correct": 0,
+          "correction": "La partie acide (CH₃COOH) donne éthanoate et la partie alcool (CH₃OH) donne méthyle : éthanoate de méthyle."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment déplacer l'équilibre d'estérification vers l'ester ?",
+          "options": [
+            "Ajouter de l'eau",
+            "Utiliser un excès d'alcool et éliminer l'eau",
+            "Refroidir et supprimer le catalyseur",
+            "Ajouter une base forte"
+          ],
+          "correct": 1,
+          "correction": "D'après Le Châtelier, un excès d'un réactif ou le retrait d'un produit (l'eau) déplace l'équilibre vers la formation de l'ester."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle réaction donne un polyester ?",
+          "options": [
+            "Polyaddition d'alcènes",
+            "Polycondensation d'un diacide et d'un diol",
+            "Combustion d'un hydrocarbon",
+            "Hydrolyse d'un amide"
+          ],
+          "correct": 1,
+          "correction": "Un diacide et un diol (au moins deux fonctions chacun) se condensent en éliminant de l'eau à chaque liaison ester : c'est une polycondensation."
+        },
+        {
+          "type": "qcm",
+          "q": "Quels monomères forment le PET ?",
+          "options": [
+            "Éthène et propène",
+            "Acide téréphtalique et éthylène glycol",
+            "Acide acétique et méthanol",
+            "Glucose et fructose"
+          ],
+          "correct": 1,
+          "correction": "Le PET est le poly(éthylène téréphtalate) : il provient de la polycondensation de l'acide téréphtalique et de l'éthylène glycol."
+        },
+        {
+          "type": "qcm",
+          "q": "On mélange 0,20 mol d'acide éthanoïque et 0,50 mol d'éthanol. Quelle quantité maximale d'éthanoate d'éthyle peut-on former ?",
+          "options": [
+            "0,20 mol",
+            "0,50 mol",
+            "0,70 mol",
+            "0,25 mol"
+          ],
+          "correct": 0,
+          "correction": "La stœchiométrie est 1:1 ; l'acide est le réactif limitant (0,20 < 0,50) → au plus 0,20 mol d'ester, l'équilibre n'étant jamais total.",
+          "contexte": "Synthèse d'un ester arôme au laboratoire : on identifie le réactif limitant avant de calculer le rendement.",
+          "calcul": true
+        },
+        {
+          "type": "texte",
+          "q": "Une chaîne de polyester est construite avec n = 10 molécules d'acide téréphtalique (M = 166 g/mol) et 10 d'éthylène glycol (M = 62 g/mol). Calculer le nombre de molécules d'eau éliminées et la masse molaire de cette chaîne.",
+          "reponse": "Liaisons ester = 2n − 1 = 19 → 19 molécules d'eau éliminées. Masse des monomères = 10×166 + 10×62 = 2280 g ; masse de la chaîne = 2280 − 19×18 = 1938 g/mol.",
+          "correction": "Pour une chaîne linéaire alternée, le nombre de liaisons vaut 2n−1 ; on retranche la masse de chaque eau éliminée de la somme des masses de monomères.",
+          "contexte": "Calcul de la masse molaire d'un lot de polymère pour un contrôle de conformité.",
+          "calcul": true
+        },
+        {
+          "type": "texte",
+          "q": "Distinguer estérification et saponification ; écrire l'équation de la saponification de l'éthanoate d'éthyle par la soude.",
+          "reponse": "Estérification : acide + alcool ⇌ ester + eau (catalyse acide, réversible). Saponification : ester + HO⁻ → carboxylate + alcool (irréversible). CH₃COOCH₂CH₃ + NaOH → CH₃COONa + CH₃CH₂OH.",
+          "correction": "La saponification consomme la base et forme un carboxylate, ce qui rend la réaction totale ; l'estérification est un équilibre catalysé par un acide."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "L'estérification fabrique un ester et de l'eau ; sa répétition entre monomères bifonctionnels construit un polyester."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule et la règle",
+          "eq": "R−COOH + R′−OH ⇌ R−COO−R′ + H₂O",
+          "leg": "Catalyse H₂SO₄, chaleur · équilibre déplacé par excès d'alcool ou élimination d'eau · saponification : ester + HO⁻ → carboxylate + alcool"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Réaction",
+              "Réactifs",
+              "Produit"
+            ],
+            [
+              "Estérification",
+              "Acide + alcool",
+              "Ester + eau"
+            ],
+            [
+              "Polycondensation",
+              "Diacide + diol",
+              "Polyester + eau"
+            ],
+            [
+              "Saponification",
+              "Ester + base",
+              "Carboxylate + alcool"
+            ],
+            [
+              "Polyaddition",
+              "Monomères insaturés",
+              "Polymère sans sous-produit"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Un ester se nomme « …oate de …yle » (partie acide puis partie alcool).",
+            "La polycondensation élimine une petite molécule à chaque liaison.",
+            "Le PET est un polyester issu de l'acide téréphtalique et de l'éthylène glycol.",
+            "Un triglycéride = glycérol + 3 acides gras = 3 esters, 3 eaux éliminées.",
+            "L'indice de saponification (mg KOH/g) mesure la masse de graisse hydrolysable."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode, étape par étape",
+          "items": [
+            "Identifier les fonctions des monomères (acide, alcool, nombre de fonctions).",
+            "Écrire l'équation d'estérification et compter l'eau éliminée.",
+            "Déplacer l'équilibre (excès de réactif, élimination d'eau).",
+            "Pour un polymère, compter les liaisons : 2n−1 eaux pour n diacide + n diol.",
+            "Vérifier la structure par IR et nommer l'ester formé."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Oublier que l'estérification est réversible : le rendement n'est jamais 100 %.",
+            "Confondre polycondensation (avec élimination) et polyaddition (sans élimination).",
+            "Compter n eaux au lieu de 2n−1 pour une chaîne linéaire courte.",
+            "Croire que la saponification est réversible : le carboxylate rend la réaction totale.",
+            "Inverser l'ordre du nom d'un ester : on dit éthanoate d'éthyle."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">CH₃COOH + C₂H₅OH</span> ⇌ CH₃COOC₂H₅ + H₂O",
+            "<span class=\"cle\">PET</span> : acide téréphtalique + éthylène glycol",
+            "<span class=\"cle\">n = 10</span> → 19 eaux, M ≈ 1938 g/mol",
+            "<span class=\"cle\">Triglycéride</span> : 3 esters, 3 eaux",
+            "<span class=\"cle\">IR</span> : C=O ester ≈ 1740 cm⁻¹"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Estérification : l'équilibre",
+          "svg": "<svg viewBox=\"0 0 660 116\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : De l'acide à l'ester\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">De l'acide à l'ester</text><defs><marker id=\"fl36661\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"89.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Acide + alcool</text><text x=\"89.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Fonctions −COOH</text><text x=\"89.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">et −OH</text><line x1=\"163\" y1=\"75\" x2=\"175\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl36661)\"/><rect x=\"176\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"249.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Catalyse acide</text><text x=\"249.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">H₂SO₄, chaleur</text><line x1=\"323\" y1=\"75\" x2=\"335\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl36661)\"/><rect x=\"336\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"409.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Équilibre</text><text x=\"409.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Excès d'alcool</text><text x=\"409.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">ou retrait d'eau</text><line x1=\"483\" y1=\"75\" x2=\"495\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl36661)\"/><rect x=\"496\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"569.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Ester + eau</text><text x=\"569.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Nom : …oate de</text><text x=\"569.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">…yle</text></svg>"
+        },
+        {
+          "titre": "2 · Polycondensation du PET",
+          "svg": "<svg viewBox=\"0 0 660 176\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Construire un polyester\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Construire un polyester</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choisir un diacide et un diol (2 fonctions chacun)</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Former une liaison ester en éliminant H₂O</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Répéter : 2n−1 eaux pour n + n monomères</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Obtenir une chaîne : le PET (polyéthylène téréphtalate)</text></svg>"
+        },
+        {
+          "titre": "3 · Estérification / saponification",
+          "svg": "<svg viewBox=\"0 0 660 176\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : deux sens de réaction\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">deux sens de réaction</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Estérification</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Acide + alcool</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Catalyse H₂SO₄</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Réversible</text><rect x=\"16\" y=\"138\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"154\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Donne ester + eau</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Saponification</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Ester + base (HO⁻)</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Irréversible</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Donne carboxylate</text><rect x=\"338\" y=\"138\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"154\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">+ alcool</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Physique-chimie et instrumentation",
+      "titre": "Contrôle PC · Classes d'alcool, familles et groupements",
+      "source": "Contrôle groupé PC — BTS BIOALC, référentiel U4 physique-chimie (arrêté 12 mars 2024 modifié 24 juin 2025) · programme officiel · retour d'étudiant (novembre 2026) · références utiles : IUPAC Gold Book et Blue Book, PubChem, LibreTexts Chemistry, Chimactiv (AgroParisTech), documents d'accompagnement ac-Rennes/ac-Toulouse",
+      "points": [
+        "Un groupement caractéristique (ou fonction) est un atome ou un groupe d'atomes qui confère à la molécule des propriétés chimiques particulières : −OH (alcool), −CHO (aldéhyde), >C=O (cétone), −COOH (acide), −COO− (ester), −NH₂ (amine), −CONH₂ (amide), C=C (alcène).",
+        "Un alcool porte un groupement hydroxyle −OH fixé sur un carbone saturé (hybridation sp³) : sa formule générale est R−OH.",
+        "La classe d'un alcool se détermine en comptant les atomes de carbone directement liés au carbone porteur du −OH : 1 = primaire, 2 = secondaire, 3 = tertiaire.",
+        "Le méthanol CH₃OH (zéro carbone voisin) est un cas limite, généralement rangé parmi les alcools primaires par convention.",
+        "Exemples : éthanol CH₃CH₂OH (primaire), propan-2-ol CH₃CH(OH)CH₃ (secondaire), 2-méthylpropan-2-ol (CH₃)₃COH (tertiaire), cyclohexanol (secondaire).",
+        "Les alcools établissent des liaisons hydrogène entre leurs groupements −OH : leurs points d'ébullition sont élevés et les courtes chaînes sont solubles dans l'eau.",
+        "L'oxydation douce (KMnO₄, K₂Cr₂O₇, CuO) donne : alcool primaire → aldéhyde → acide carboxylique ; alcool secondaire → cétone ; alcool tertiaire → pas de réaction (aucun H porté par le carbone −OH).",
+        "Le passage de l'orange au vert du dichromate (Cr₂O₇²⁻ → Cr³⁺) signale l'oxydation d'un alcool primaire ou secondaire.",
+        "Un aldéhyde −CHO se détecte par le réactif de Tollens (miroir d'argent) ou par Fehling (précipité rouge de Cu₂O) ; les cétones ne donnent pas ces tests.",
+        "Un acide carboxylique −COOH est un acide faible (pKa ≈ 4,76 pour l'acide éthanoïque) : il réagit avec les bases pour former un carboxylate et de l'eau.",
+        "Une amine −NH₂ est basique (pKa ≈ 9,25 pour NH₄⁺) : en milieu acide elle donne R−NH₃⁺ ; un amide −CONH₂ est peu basique car la paire de l'azote est délocalisée vers le carbonyle.",
+        "Le test à l'iodoforme (I₂/NaOH) donne un précipité jaune de CHI₃ avec les méthyl-cétones CH₃CO−R et les alcools CH₃CH(OH)−R : c'est un test de l'éthanol et du propan-2-ol. En IR, O−H donne une bande large vers 3200−3600 cm⁻¹, C=O vers 1700−1750 cm⁻¹ et N−H vers 3300 cm⁻¹."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel groupement caractéristique définit un alcool ?",
+          "options": [
+            "−COOH",
+            "−OH",
+            "−NH₂",
+            "−CHO"
+          ],
+          "correct": 1,
+          "correction": "Un alcool est un dérivé de l'eau R−OH : le groupement hydroxyle est lié à un carbone saturé."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la classe du propan-2-ol CH₃CH(OH)CH₃ ?",
+          "options": [
+            "Primaire",
+            "Secondaire",
+            "Tertiaire",
+            "Quaternaire"
+          ],
+          "correct": 1,
+          "correction": "Le carbone portant −OH est lié à deux atomes de carbone (les deux CH₃) : c'est un alcool secondaire."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel alcool résiste à une oxydation douce ?",
+          "options": [
+            "Éthanol",
+            "Propan-1-ol",
+            "2-méthylpropan-2-ol",
+            "Propan-2-ol"
+          ],
+          "correct": 2,
+          "correction": "Le 2-méthylpropan-2-ol (tert-butanol) est tertiaire : le carbone −OH n'a aucun hydrogène, donc pas d'oxydation douce."
+        },
+        {
+          "type": "qcm",
+          "q": "Que donne d'abord l'oxydation ménagée d'un alcool primaire ?",
+          "options": [
+            "Une cétone",
+            "Un aldéhyde",
+            "Un ester",
+            "Un alcane"
+          ],
+          "correct": 1,
+          "correction": "Alcool primaire → aldéhyde → acide carboxylique ; un alcool secondaire donne directement une cétone."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel réactif donne un miroir d'argent avec un aldéhyde ?",
+          "options": [
+            "Le réactif de Tollens",
+            "Le réactif de Fehling",
+            "Le brome",
+            "Le dichromate seul"
+          ],
+          "correct": 0,
+          "correction": "Le réactif de Tollens (ammoniacat d'argent) est réduit par les aldéhydes en argent métallique : c'est le « miroir d'argent »."
+        },
+        {
+          "type": "qcm",
+          "q": "À quoi correspond une bande IR large vers 3200−3600 cm⁻¹ ?",
+          "options": [
+            "À une liaison C=O",
+            "À une liaison O−H d'alcool",
+            "À une liaison C=C",
+            "À une liaison C−H"
+          ],
+          "correct": 1,
+          "correction": "La bande large O−H (3200−3600 cm⁻¹) est caractéristique des alcools ; le C=O donne une bande fine vers 1700−1750 cm⁻¹."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle masse d'éthanol (M = 46 g/mol) faut-il pour préparer 0,25 mol de solution ?",
+          "options": [
+            "11,5 g",
+            "23,0 g",
+            "46,0 g",
+            "0,25 g"
+          ],
+          "correct": 0,
+          "correction": "m = n × M = 0,25 × 46 = 11,5 g d'éthanol.",
+          "contexte": "Préparation d'une solution mère d'éthanol pour un dosage ; la masse est pesée au laboratoire.",
+          "calcul": true
+        },
+        {
+          "type": "texte",
+          "q": "Déterminer la classe du 2-méthylpropan-2-ol et du cyclohexanol en justifiant.",
+          "reponse": "(CH₃)₃COH : le carbone portant −OH est lié à trois carbones (les trois CH₃) → alcool tertiaire. Cyclohexanol : ce même carbone est lié à deux carbones du cycle → alcool secondaire.",
+          "correction": "On compte les liaisons C−C partant du carbone-hydroxyle ; le nombre d'hydrogènes portés par ce carbone donne la même information (0 pour tertiaire, 1 pour secondaire, 2 pour primaire)."
+        },
+        {
+          "type": "texte",
+          "q": "Écrire le bilan de l'oxydation complète de l'éthanol en acide éthanoïque et calculer la quantité d'O₂ consommée pour 0,10 mol d'éthanol.",
+          "reponse": "Bilan équilibré : CH₃CH₂OH + O₂ → CH₃COOH + H₂O (C₂H₆O + O₂ → C₂H₄O₂ + H₂O). Il faut 1 mol d'O₂ par mol d'éthanol : pour 0,10 mol, on consomme 0,10 mol d'O₂.",
+          "correction": "On vérifie l'équilibre en atomes de carbone, hydrogène et oxygène avant d'appliquer la stœchiométrie 1:1.",
+          "contexte": "Contrôle de la consommation d'oxygène lors d'un test d'oxydation d'un alcool.",
+          "calcul": true
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "La classe d'un alcool (primaire, secondaire, tertiaire) se lit sur le carbone qui porte le −OH et commande son oxydation."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule et la règle",
+          "eq": "R−OH + [O] → aldéhyde (primaire) → acide   ·   secondaire → cétone   ·   tertiaire → pas d'oxydation",
+          "leg": "Comptage des carbones voisins du C−OH : 1 = primaire, 2 = secondaire, 3 = tertiaire"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Classe",
+              "Carbone −OH lié à",
+              "Exemple"
+            ],
+            [
+              "Primaire",
+              "1 C",
+              "Éthanol CH₃CH₂OH"
+            ],
+            [
+              "Secondaire",
+              "2 C",
+              "Propan-2-ol"
+            ],
+            [
+              "Tertiaire",
+              "3 C",
+              "(CH₃)₃COH"
+            ],
+            [
+              "Cyclique",
+              "2 C du cycle",
+              "Cyclohexanol"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Fonctions à reconnaître : −OH, −CHO, >C=O, −COOH, −COO−, −NH₂, −CONH₂, C=C.",
+            "Les alcools primaires s'oxydent en aldéhydes puis en acides carboxyliques.",
+            "Un alcool secondaire donne une cétone ; un alcool tertiaire résiste à l'oxydation douce.",
+            "Tollens (miroir d'argent) et Fehling (Cu₂O rouge) révèlent les aldéhydes.",
+            "IR : O−H large 3200−3600 cm⁻¹, C=O 1700−1750 cm⁻¹, N−H ≈ 3300 cm⁻¹."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode, étape par étape",
+          "items": [
+            "Repérer le groupement caractéristique porté par la molécule.",
+            "Pour un alcool, identifier le carbone lié à −OH.",
+            "Compter les carbones directement voisins : 1 / 2 / 3 → primaire / secondaire / tertiaire.",
+            "Prédire le produit d'oxydation d'après cette classe.",
+            "Confirmer par un test chimique ou une bande IR."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Compter les carbones de toute la chaîne au lieu des seuls voisins du C−OH.",
+            "Oublier que le méthanol (0 voisin) est traité comme un alcool primaire.",
+            "Croire qu'un alcool tertiaire s'oxyde comme les autres : il n'a pas de H sur le C−OH.",
+            "Confondre aldéhyde et cétone : seul l'aldéhyde donne le miroir de Tollens.",
+            "Oublier que l'acide carboxylique est un acide faible (pKa ≈ 4,8), pas un acide fort."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">CH₃CH₂OH</span> → primaire → éthanal → acide éthanoïque",
+            "<span class=\"cle\">CH₃CH(OH)CH₃</span> → secondaire → propanone",
+            "<span class=\"cle\">(CH₃)₃COH</span> → tertiaire → pas d’oxydation",
+            "<span class=\"cle\">0,25 mol d’éthanol</span> → 11,5 g",
+            "<span class=\"cle\">I₂/NaOH</span> → CHI₃ jaune (éthanol, propan-2-ol)"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Les trois classes d'alcool",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Classe et oxydation\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Classe et oxydation</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Classe</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">C voisins</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Oxydation</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Primaire</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">1</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Aldéhyde puis acide</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Secondaire</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">2</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Cétone</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Tertiaire</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">3</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Aucune</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Méthanol</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">0</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Comme primaire</text></svg>"
+        },
+        {
+          "titre": "2 · De l'alcool au produit",
+          "svg": "<svg viewBox=\"0 0 660 116\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : Oxydation selon la classe\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Oxydation selon la classe</text><defs><marker id=\"fl58601\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"89.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Alcool</text><text x=\"89.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">primaire</text><text x=\"89.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">1 C voisin</text><line x1=\"163\" y1=\"75\" x2=\"175\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl58601)\"/><rect x=\"176\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"249.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Aldéhyde</text><text x=\"249.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">−CHO, Tollens +</text><line x1=\"323\" y1=\"75\" x2=\"335\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl58601)\"/><rect x=\"336\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"409.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Acide</text><text x=\"409.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">carboxylique</text><text x=\"409.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">−COOH, pKa ≈ 4,8</text><line x1=\"483\" y1=\"75\" x2=\"495\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl58601)\"/><rect x=\"496\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"569.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Tertiaire</text><text x=\"569.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Pas d'oxydation</text></svg>"
+        },
+        {
+          "titre": "3 · Familles et groupements",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : alcool / acide et amine\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">alcool / acide et amine</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Alcool −OH</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Liaison H entre molécules</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">IR : bande large 3200−3600</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Primaire, secondaire, tertiaire</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Acide −COOH</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Acide faible pKa ≈ 4,8</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">IR : C=O vers 1710</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Donne un carboxylate</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Physique-chimie et instrumentation",
+      "titre": "Contrôle PC · Topologie : nommer ou dessiner une molécule",
+      "source": "Contrôle groupé PC — BTS BIOALC, référentiel U4 physique-chimie (arrêté 12 mars 2024 modifié 24 juin 2025) · programme officiel · retour d'étudiant (novembre 2026) · références utiles : IUPAC Gold Book et Blue Book, PubChem, LibreTexts Chemistry, Chimactiv (AgroParisTech), documents d'accompagnement ac-Rennes/ac-Toulouse",
+      "points": [
+        "Lire une formule topologique, c'est reconnaître la connectivité : quels atomes sont reliés, où se trouvent les ramifications et les cycles, sans dessiner les hydrogènes liés aux carbones.",
+        "Dans un squelette en zigzag, chaque sommet et chaque extrémité de segment représente un atome de carbone ; les atomes d'hétéroéléments (O, N, Cl…) sont écrits explicitement.",
+        "Le carbone est tétravalent (4 liaisons covalentes) : CH₃ en bout de chaîne, CH₂ dans la chaîne, CH à une ramification, C quaternaire à une jonction. L'oxygène est divalent, l'azote trivalent.",
+        "Une chaîne est linéaire ou ramifiée ; un substituant (radical) est un fragment fixé sur la chaîne : méthyle −CH₃, éthyle −C₂H₅, isopropyle −CH(CH₃)₂.",
+        "Pour nommer, on choisit la chaîne continue la plus longue contenant la fonction prioritaire et le plus grand nombre de doubles liaisons : c'est le squelette parent.",
+        "On numérote depuis l'extrémité qui donne les indices les plus bas à la fonction, puis aux insaturations, puis aux substituants (règle du premier point de différence).",
+        "Pour dessiner à partir d'un nom, écrire d'abord le squelette (préfixe = nombre de carbones), placer la fonction à l'indice donné, ajouter les substituants, puis compléter les hydrogènes pour satisfaire la valence de chaque atome.",
+        "Un cycle se dessine comme un polygone dont chaque sommet est un carbone : cyclopropane (3), cyclobutane (4), cyclopentane (5), cyclohexane (6). Le préfixe cyclo- est ajouté au nom.",
+        "Le benzène C₆H₆ est un hexagone à 3 doubles liaisons alternées (ou cercle de délocalisation) : C₆H₅−OH = phénol, C₆H₅−CH₃ = toluène, C₆H₅−COOH = acide benzoïque.",
+        "Deux dessins différents peuvent représenter la même molécule : la rotation autour des liaisons simples ne change pas la connectivité. Seuls changent de place les atomes liés dans une isomérie de position ou de chaîne.",
+        "Vérification systématique : compter les atomes de chaque élément et comparer à la formule brute ; contrôler la valence (4 pour C, 2 pour O, 3 pour N, 1 pour H et les halogènes).",
+        "Le degré d'insaturation DBE = (2C + 2 + N − H − X)/2 indique le nombre total de cycles et de doubles liaisons : DBE = 0 pour un alcane acyclique, 1 pour un alcène ou un cycloalcane, 4 pour le benzène."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Dans un squelette en zigzag, que représentent les sommets ?",
+          "options": [
+            "Des atomes de carbone aux hydrogènes implicites",
+            "Des atomes d'oxygène",
+            "Des doubles liaisons",
+            "Des hydrogènes"
+          ],
+          "correct": 0,
+          "correction": "Chaque sommet ou extrémité de trait est un carbone ; les H liés aux carbones sont implicites et les hétéroatomes sont écrits."
+        },
+        {
+          "type": "qcm",
+          "q": "Combien de liaisons covalentes un carbone neutre forme-t-il ?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correct": 3,
+          "correction": "Le carbone est tétravalent : 4 liaisons covalentes, d'où CH₃, CH₂, CH ou C quaternaire selon le nombre de voisins carbonés."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le nom du composé CH₃−CH(CH₃)−CH₂−CH₂−CH₃ ?",
+          "options": [
+            "2-méthylbutane",
+            "2-méthylpentane",
+            "3-méthylpentane",
+            "hexane"
+          ],
+          "correct": 1,
+          "correction": "La chaîne la plus longue compte 5 carbones (pentane) et le méthyle est sur le carbone 2 en numérotant depuis l'extrémité la plus proche."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment dessiner le cyclohexanol ?",
+          "options": [
+            "Un hexagone avec un −OH sur un sommet",
+            "Un pentagone avec un −OH au centre",
+            "Une chaîne de 6 C avec −OH au milieu",
+            "Un cercle avec 6 H"
+          ],
+          "correct": 0,
+          "correction": "Le cyclohexane est un hexagone dont les sommets sont des carbones ; remplacer un H d'un sommet par −OH donne le cyclohexanol."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle formule représente le 2-méthylpropane ?",
+          "options": [
+            "(CH₃)₃CH",
+            "CH₃CH₂CH₂CH₃",
+            "(CH₃)₂CHCH₂CH₃",
+            "CH₃CH(CH₃)CH₂CH₃"
+          ],
+          "correct": 0,
+          "correction": "Le 2-méthylpropane (isobutane) a un carbone central lié à trois CH₃ et un H : (CH₃)₃CH, soit 4 carbones au total."
+        },
+        {
+          "type": "qcm",
+          "q": "Combien de carbones contient le benzène ?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "correct": 2,
+          "correction": "Le benzène C₆H₆ est un cycle à 6 carbones avec 3 doubles liaisons alternées."
+        },
+        {
+          "type": "qcm",
+          "q": "Un alcane linéaire a 7 carbones. Quelles sont sa formule brute et sa masse molaire ?",
+          "options": [
+            "C₇H₁₄ et 98 g/mol",
+            "C₇H₁₆ et 100 g/mol",
+            "C₇H₁₆ et 98 g/mol",
+            "C₇H₁₄ et 100 g/mol"
+          ],
+          "correct": 1,
+          "correction": "Alcane acyclique : CₙH₂ₙ₊₂ → C₇H₁₆ ; M = 7×12 + 16×1 = 84 + 16 = 100 g/mol.",
+          "contexte": "Identification d'un solvant d'extraction à partir de son étiquette et de sa formule brute.",
+          "calcul": true
+        },
+        {
+          "type": "texte",
+          "q": "Décrire le dessin du 3-éthyl-2-méthylhexane et compter ses atomes de carbone.",
+          "reponse": "Tracer une chaîne de 6 carbones en zigzag (hexane) ; placer un groupement méthyle −CH₃ sur le carbone 2 et un groupement éthyle −CH₂CH₃ sur le carbone 3 ; compléter les hydrogènes. Total des carbones = 6 + 1 + 2 = 9, soit la formule C₉H₂₀.",
+          "correction": "Le nom donne le squelette, les substituants et leurs positions ; la formule brute se déduit de l'alcane correspondant C₉H₂₀.",
+          "contexte": "Vérification d'une structure dessinée par un étudiant avant analyse spectroscopique."
+        },
+        {
+          "type": "texte",
+          "q": "Un composé a pour formule C₄H₁₀O. Calculer son DBE et en déduire s'il peut contenir un cycle ou une double liaison.",
+          "reponse": "DBE = (2×4 + 2 − 10)/2 = 0 : aucun cycle, aucune double liaison. Le composé est donc un alcool saturé (butanol…) ou un éther saturé.",
+          "correction": "L'oxygène n'intervient pas dans le DBE ; un DBE nul impose une structure acyclique entièrement saturée.",
+          "contexte": "Interprétation d'une formule brute avant l'analyse IR d'un solvant.",
+          "calcul": true
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Nommer ou dessiner une molécule revient à lire sa connectivité : squelette, ramifications, cycles et groupements."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule et la règle",
+          "eq": "DBE = (2C + 2 + N − H − X) / 2",
+          "leg": "C, N, H, X = nombres d'atomes · l'oxygène n'intervient pas · DBE = nombre de cycles + doubles liaisons"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Repère",
+              "Signification",
+              "Exemple"
+            ],
+            [
+              "Sommet",
+              "Atome de carbone",
+              "Hexagone = 6 C"
+            ],
+            [
+              "Extrémité",
+              "Carbone en bout de chaîne",
+              "CH₃ terminal"
+            ],
+            [
+              "Hétéroatome",
+              "Écrit explicitement",
+              "−OH, −NH₂"
+            ],
+            [
+              "Double trait",
+              "Double liaison",
+              "C=C"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Carbone : 4 liaisons ; oxygène : 2 ; azote : 3 ; hydrogène et halogènes : 1.",
+            "Chaîne parent = la plus longue qui contient la fonction prioritaire et le maximum d'insaturations.",
+            "Numéroter au plus petit indice pour la fonction, puis les insaturations, puis les substituants.",
+            "Un cycle se nomme cyclo-… et se dessine en polygone (sommets = carbones).",
+            "Le benzène C₆H₆ (3 doubles liaisons) donne phénol, toluène, acide benzoïque."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode, étape par étape",
+          "items": [
+            "Lire la formule ou le nom fourni et repérer les hétéroatomes.",
+            "Choisir la chaîne (ou le cycle) parent et la numéroter.",
+            "Placer la fonction principale et les substituants aux indices indiqués.",
+            "Compléter les liaisons avec des hydrogènes en respectant les valences.",
+            "Compter les atomes et vérifier la formule brute et le DBE."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Oublier les hydrogènes implicites sur les sommets du squelette.",
+            "Prendre une ramification pour la chaîne principale : choisir la plus longue.",
+            "Dessiner un cycle avec un carbone au centre du polygone : les sommets seuls sont des carbones.",
+            "Compter les deux traits d'une double liaison comme deux carbones distincts.",
+            "Confondre deux dessins par rotation d'une même molécule avec des isomères."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">CH₃−CH(CH₃)−CH₂−CH₂−CH₃</span> → 2-méthylpentane",
+            "<span class=\"cle\">3-éthyl-2-méthylhexane</span> → 9 C, C₉H₂₀",
+            "<span class=\"cle\">C₇H₁₆</span> → M = 100 g/mol",
+            "<span class=\"cle\">C₄H₁₀O</span> → DBE = 0, ni cycle ni C=C"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Lire un squelette",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Code d'un dessin topologique\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Code d'un dessin topologique</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Symbole</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Lecture</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Exemple</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sommet</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Carbone</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Hexagone = 6 C</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Bout de trait</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Carbone terminal</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">CH₃</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">O, N écrits</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Hétéroatome</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">OH, NH₂</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Deux traits</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Double liaison</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">C=C</text></svg>"
+        },
+        {
+          "titre": "2 · Dessiner à partir du nom",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Du nom au dessin\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Du nom au dessin</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Écrire le squelette parent (nombre de carbones)</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Numéroter depuis l'extrémité correcte</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Placer la fonction et les substituants</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Compléter les hydrogènes selon la valence</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Compter les atomes et vérifier le DBE</text></svg>"
+        },
+        {
+          "titre": "3 · Chaîne ou cycle",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : formes de squelettes\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">formes de squelettes</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Chaîne</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Zigzag linéaire ou ramifié</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Bouts = CH₃</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Ex. : 2-méthylpentane</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Cycle</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Polygone fermé</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Sommets = carbones</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Ex. : cyclohexane</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Physique-chimie et instrumentation",
+      "titre": "Contrôle PC · Doubles liaisons, instauration et stéréochimie E/Z",
+      "source": "Contrôle groupé PC — BTS BIOALC, référentiel U4 physique-chimie (arrêté 12 mars 2024 modifié 24 juin 2025) · programme officiel · retour d'étudiant (novembre 2026) · références utiles : IUPAC Gold Book et Blue Book, PubChem, LibreTexts Chemistry, Chimactiv (AgroParisTech), documents d'accompagnement ac-Rennes/ac-Toulouse",
+      "points": [
+        "Une double liaison C=C (instauration) est formée d'une liaison σ et d'une liaison π issue du recouvrement latéral d'orbitales p ; elle interdit la rotation libre (barrière ≈ 250 kJ/mol).",
+        "Les deux carbones d'une double liaison sont hybridés sp², trigonaux plans : les angles entre substituants valent environ 120° et les atomes liés à chaque carbone sont coplanaires.",
+        "Un alcène acyclique à une seule double liaison répond à la formule CₙH₂ₙ ; son degré d'insaturation vaut 1.",
+        "La double liaison étant rigide, deux arrangements différents des substituants sont possibles : ce sont les stéréoisomères E et Z (isomérie géométrique).",
+        "La règle CIP classe les deux substituants de chaque carbone : priorité au plus grand numéro atomique (I > Br > Cl > O > N > C > H) ; en cas d'égalité, on compare les atomes suivants jusqu'au premier point de différence.",
+        "Si les deux substituants prioritaires sont du même côté du plan de la double liaison, la configuration est Z (zusammen) ; s'ils sont de part et d'autre, elle est E (entgegen).",
+        "Le couple cis/trans est un cas particulier de E/Z : dans le but-2-ène CH₃−CH=CH−CH₃, chaque carbone porte CH₃ et H ; cis correspond à (Z), trans à (E).",
+        "Les isomères E et Z ont des propriétés différentes (températures de fusion et d'ébullition, spectres IR et RMN) : l'isomère E, plus symétrique et moins encombré, est généralement le plus stable.",
+        "En biologie, l'acide oléique est cis-9-octadécénoïque (Z) et l'acide élaïdique en est l'isomère trans (E) : la géométrie de la double liaison modifie la fluidité des membranes.",
+        "La nomenclature indique la position puis la configuration : (E)-but-2-ène, (Z)-but-2-ène, (2E,4Z)-hexa-2,4-diène.",
+        "La double liaison se détecte par décoloration du brome (Br₂ en solution, brun → incolore, addition électrophile) ou par le test de Baeyer (KMnO₄ dilué froid, violet → brun, diol vicinal).",
+        "Les doubles liaisons conjuguées (alternées C=C−C=C) absorbent dans l'UV ; plus la conjugaison est longue, plus λmax augmente — lien direct avec la spectrophotométrie U4."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Combien de liaisons composent une double liaison C=C ?",
+          "options": [
+            "Deux liaisons σ",
+            "Une liaison σ et une liaison π",
+            "Deux liaisons π",
+            "Une liaison ionique"
+          ],
+          "correct": 1,
+          "correction": "La liaison σ résulte d'un recouvrement axial, la liaison π d'un recouvrement latéral d'orbitales p ; c'est la π qui bloque la rotation."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est l'hybridation des carbones d'un alcène ?",
+          "options": [
+            "sp",
+            "sp²",
+            "sp³",
+            "sp³d"
+          ],
+          "correct": 1,
+          "correction": "Les carbones d'une double liaison sont sp² : géométrie trigonale plane, angles d'environ 120°."
+        },
+        {
+          "type": "qcm",
+          "q": "Dans le (E)-but-2-ène, les groupements CH₃ sont…",
+          "options": [
+            "Du même côté de la double liaison",
+            "De part et d'autre",
+            "Perpendiculaires au plan",
+            "Liés au même carbone"
+          ],
+          "correct": 1,
+          "correction": "E (entgegen) signifie que les substituants prioritaires (ici les CH₃) sont opposés : c'est le trans-but-2-ène."
+        },
+        {
+          "type": "qcm",
+          "q": "Selon la règle CIP, comment classer deux substituants ?",
+          "options": [
+            "Par leur masse molaire",
+            "Par le numéro atomique de l'atome lié, puis des suivants",
+            "Par leur longueur",
+            "Par leur couleur"
+          ],
+          "correct": 1,
+          "correction": "On compare d'abord le numéro atomique de l'atome directement lié au carbone de la double liaison, puis les atomes suivants au premier point de différence."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel réactif se décolore en présence d'une double liaison C=C ?",
+          "options": [
+            "Le brome Br₂",
+            "Le chlorure de sodium",
+            "L'eau distillée",
+            "Le sulfate de cuivre"
+          ],
+          "correct": 0,
+          "correction": "Le brome s'ajoute électrophilement sur la double liaison : la solution brune devient incolore (test de la double liaison)."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la formule générale d'un alcène acyclique mono-insaturé ?",
+          "options": [
+            "CₙH₂ₙ₊₂",
+            "CₙH₂ₙ",
+            "CₙH₂ₙ₋₂",
+            "CₙH₂ₙO"
+          ],
+          "correct": 1,
+          "correction": "Une double liaison retire deux hydrogènes à l'alcane : CₙH₂ₙ₊₂ devient CₙH₂ₙ (DBE = 1)."
+        },
+        {
+          "type": "qcm",
+          "q": "L'acide oléique a pour formule C₁₈H₃₄O₂. Quel est son DBE et que représente-t-il ?",
+          "options": [
+            "1 : une seule double liaison C=C",
+            "2 : une C=C et le C=O du carboxyle",
+            "3 : deux C=C et un C=O",
+            "0 : aucune insaturation"
+          ],
+          "correct": 1,
+          "correction": "DBE = (2×18 + 2 − 34)/2 = 2 : une double liaison C=C et la double liaison C=O du groupement −COOH.",
+          "contexte": "Lecture de l'étiquette d'une huile végétale : distinguer la double liaison C=C du carbonyle du carboxyle.",
+          "calcul": true
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer pourquoi le but-2-ène possède deux stéréoisomères et comment les nommer.",
+          "reponse": "La double liaison C=C interdit la rotation, donc les deux CH₃ peuvent être du même côté (cis = (Z)-but-2-ène) ou de part et d'autre (trans = (E)-but-2-ène). Selon CIP, chaque CH₃ prime sur l'H voisin : prioritaires du même côté → Z, opposés → E.",
+          "correction": "Le but-1-ène n'a pas d'isomérie E/Z car l'un des carbones de la double liaison porte deux hydrogènes identiques."
+        },
+        {
+          "type": "texte",
+          "q": "Un hydrocarbon a 6 atomes de carbone et 10 atomes d'hydrogène. Calculer son DBE et proposer deux structures possibles.",
+          "reponse": "DBE = (2×6 + 2 − 10)/2 = 2. Deux insaturations sont possibles : un diène acyclique (hexa-1,3-diène, hexa-1,4-diène) ou un cycloalcène (cyclohexène : 1 cycle + 1 double liaison), ou encore deux cycles.",
+          "correction": "Chaque cycle ou double liaison compte 1 unité de DBE ; le déficit en hydrogène par rapport à CₙH₂ₙ₊₂ mesure l'insaturation totale.",
+          "contexte": "Identification d'un hydrocarbon par sa formule brute lors d'un contrôle de solvant.",
+          "calcul": true
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "La double liaison est rigide et plane : c'est cette rigidité qui crée l'isomérie E/Z."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule et la règle",
+          "eq": "CIP : même côté → Z (cis)   ·   côtés opposés → E (trans)",
+          "leg": "Priorité CIP : I > Br > Cl > O > N > C > H · DBE d'un alcène acyclique = 1 · formule CₙH₂ₙ"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Notion",
+              "Signification",
+              "Exemple"
+            ],
+            [
+              "C=C",
+              "1 liaison σ + 1 π",
+              "Rotation bloquée"
+            ],
+            [
+              "sp²",
+              "Trigonal plan",
+              "Angles ≈ 120°"
+            ],
+            [
+              "CIP",
+              "Règle de priorité",
+              "O > N > C > H"
+            ],
+            [
+              "Z / E",
+              "Même côté / opposés",
+              "(Z)-but-2-ène"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "La double liaison empêche la rotation : deux configurations distinctes E et Z.",
+            "Pour chaque C, on classe les substituants par numéro atomique décroissant (CIP).",
+            "Z (zusammen) = substituants prioritaires du même côté ; E (entgegen) = opposés.",
+            "cis/trans est le cas particulier où chaque C porte un H et un groupe identique.",
+            "E est généralement plus stable que Z (moins d'encombrement stérique)."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode, étape par étape",
+          "items": [
+            "Repérer la double liaison et vérifier que chaque carbone porte deux substituants différents.",
+            "Pour chaque carbone, appliquer la règle CIP et désigner le substituant prioritaire.",
+            "Comparer les positions des deux substituants prioritaires : même côté → Z, opposés → E.",
+            "Écrire la configuration devant le nom : (E)-but-2-ène.",
+            "Confirmer par une propriété ou un test (brome, IR, RMN, point de fusion)."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Appliquer cis/trans alors que les deux substituants d'un carbone sont identiques : pas d'isomérie.",
+            "Oublier de comparer les atomes suivants quand deux substituants commencent par le même atome.",
+            "Confondre E/Z avec l'isomérie optique (chiralité sur un carbone sp³).",
+            "Croire que l'équivalence cis = Z est universelle : elle suppose un H de chaque côté.",
+            "Compter le C=O d'un acide carboxylique comme une insaturation C=C dans un DBE."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">But-2-ène</span> : cis = (Z), trans = (E)",
+            "<span class=\"cle\">C₁₈H₃₄O₂</span> → DBE = 2 (C=C + C=O)",
+            "<span class=\"cle\">C₆H₁₀</span> → DBE = 2 (diène ou cycle + C=C)",
+            "<span class=\"cle\">Br₂</span> brun → incolore : test de la double liaison"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · De l'instauration au stéréoisomère",
+          "svg": "<svg viewBox=\"0 0 660 116\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : Rigidité et géométrie\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Rigidité et géométrie</text><defs><marker id=\"fl96162\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"89.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Double liaison</text><text x=\"89.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">C=C</text><text x=\"89.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">σ + π, rotation</text><text x=\"89.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">bloquée</text><line x1=\"163\" y1=\"75\" x2=\"175\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl96162)\"/><rect x=\"176\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"249.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Carbone sp²</text><text x=\"249.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Trigonal plan,</text><text x=\"249.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">120°</text><line x1=\"323\" y1=\"75\" x2=\"335\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl96162)\"/><rect x=\"336\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"409.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Règle CIP</text><text x=\"409.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Classer les</text><text x=\"409.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">substituants</text><line x1=\"483\" y1=\"75\" x2=\"495\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl96162)\"/><rect x=\"496\" y=\"52\" width=\"146\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"569.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Configuration</text><text x=\"569.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Même côté Z,</text><text x=\"569.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">opposés E</text></svg>"
+        },
+        {
+          "titre": "2 · E ou Z ?",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : deux configurations du but-2-ène\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">deux configurations du but-2-ène</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Z (cis)</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">CH₃ du même côté</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Rotation interdite</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Point de fusion plus bas</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">E (trans)</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">CH₃ de part et d'autre</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Plus stable</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Point de fusion plus élevé</text></svg>"
+        },
+        {
+          "titre": "3 · DBE et insaturation",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Compter les insaturations\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Compter les insaturations</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Formule</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">DBE</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Structure</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">CₙH₂ₙ₊₂</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">0</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Alcane</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">CₙH₂ₙ</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">1</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Alcène ou cycle</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">C₆H₆</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">4</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Benzène</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">C₁₈H₃₄O₂</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">2</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">C=C + C=O</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Physique-chimie et instrumentation",
+      "titre": "Contrôle PC · Zones polaires et apolaires d'une molécule",
+      "source": "Contrôle groupé PC — BTS BIOALC, référentiel U4 physique-chimie (arrêté 12 mars 2024 modifié 24 juin 2025) · programme officiel · retour d'étudiant (novembre 2026) · références utiles : IUPAC Gold Book et Blue Book, PubChem, LibreTexts Chemistry, Chimactiv (AgroParisTech), documents d'accompagnement ac-Rennes/ac-Toulouse",
+      "points": [
+        "Une liaison chimique est polaire lorsque les atomes liés ont des électronégativités différentes ; l'électronégativité croît vers le haut et la droite du tableau périodique (F > O > N ≈ Cl > C > H).",
+        "Une liaison polaire porte un moment dipolaire μ orienté vers l'atome le plus électronégatif ; l'unité usuelle est le débye (1 D ≈ 3,34×10⁻³⁰ C·m).",
+        "Une molécule est polaire si la somme vectorielle de ses moments de liaison n'est pas nulle : la géométrie compte. CO₂, linéaire et symétrique, est apolaire ; H₂O, coudée, est polaire.",
+        "Les groupements hydrophiles (polaires ou ioniques) −OH, −NH₂, −COOH, −COO⁻, −PO₄³⁻ forment des liaisons hydrogène ou des interactions ion-dipôle avec l'eau.",
+        "Les groupements lipophiles (apolaires) sont les chaînes et cycles hydrocarbonés −CH₃, −CH₂−, C₆H₅− : ils n'interagissent avec l'eau que par des forces de dispersion faibles.",
+        "Règle « semblable dissout semblable » : un soluté polaire ou ionique se dissout dans un solvant polaire (eau, éthanol), un soluté apolaire dans un solvant apolaire (hexane, éther, chloroforme).",
+        "L'eau et l'éthanol sont miscibles en toute proportion grâce aux liaisons H entre −OH et H₂O ; l'eau et l'hexane sont immiscibles et forment deux phases (l'hexane, moins dense, surnage).",
+        "Une molécule amphiphile possède une tête polaire et une queue hydrocarbonée apolaire : savons (R−COO⁻Na⁺), phospholipides, détergents.",
+        "Dans l'eau, les amphiphiles forment des micelles au-delà de la concentration micellaire critique (CMC) : queues vers l'intérieur, têtes polaires tournées vers l'eau. Ils forment des bicouches en membrane.",
+        "Le coefficient de partage octanol/eau, log P = log₁₀(C_octanol/C_eau), mesure l'hydrophobie : log P > 0 = préférence pour la phase apolaire, log P < 0 = préférence pour l'eau.",
+        "La solubilité des alcools dans l'eau décroît quand la chaîne s'allonge : méthanol, éthanol et propan-1-ol sont miscibles, alors que le butan-1-ol n'est que partiellement soluble — la partie apolaire devient dominante.",
+        "Au laboratoire, la polarité commande le choix du solvant d'extraction liquide-liquide, de la phase mobile en HPLC (phase inversée C18 : greffon apolaire, éluant polaire) et du colorant utilisé sur une lame de microscope."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle liaison est la plus polaire ?",
+          "options": [
+            "C−C",
+            "C−H",
+            "C−O",
+            "O−H"
+          ],
+          "correct": 3,
+          "correction": "L'écart d'électronégativité est maximal pour O−H (≈ 1,24) ; C−C est apolaire et C−H très peu polaire."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi le dioxyde de carbone CO₂ est-il apolaire ?",
+          "options": [
+            "Il ne contient que des liaisons apolaires",
+            "Ses deux dipôles C=O s'annulent par symétrie linéaire",
+            "Il est ionique",
+            "Il possède un hydroxyle"
+          ],
+          "correct": 1,
+          "correction": "Les liaisons C=O sont polaires, mais la molécule est linéaire et symétrique : les deux moments dipolaires opposés se compensent."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel groupement rend une molécule hydrophile ?",
+          "options": [
+            "−CH₃",
+            "−C₆H₅",
+            "−OH",
+            "−CH₂−"
+          ],
+          "correct": 2,
+          "correction": "Le groupement −OH forme des liaisons hydrogène avec l'eau ; les groupements hydrocarbonés sont au contraire hydrophobes."
+        },
+        {
+          "type": "qcm",
+          "q": "Que se passe-t-il quand on mélange eau et hexane ?",
+          "options": [
+            "Une seule phase homogène",
+            "Deux phases distinctes",
+            "Une réaction d'estérification",
+            "Un précipité de sel"
+          ],
+          "correct": 1,
+          "correction": "L'eau est polaire et l'hexane apolaire : ils sont immiscibles et donnent deux phases, l'hexane (d < 1) formant la phase supérieure."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la définition d'une molécule amphiphile ?",
+          "options": [
+            "Tête polaire et queue apolaire",
+            "Deux têtes polaires",
+            "Aucun dipôle",
+            "Uniquement des liaisons ioniques"
+          ],
+          "correct": 0,
+          "correction": "Un amphiphile porte à la fois une zone hydrophile (tête) et une zone lipophile (queue) : savons, phospholipides, détergents."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la signification de log P = 2 ?",
+          "options": [
+            "La molécule est deux fois plus soluble dans l'eau",
+            "C_octanol / C_eau = 100",
+            "La molécule est neutre",
+            "Le pH vaut 2"
+          ],
+          "correct": 1,
+          "correction": "log P est un logarithme décimal : log P = 2 → C_octanol/C_eau = 10² = 100, la molécule est 100 fois plus concentrée dans l'octanol."
+        },
+        {
+          "type": "qcm",
+          "q": "Une solution contient 2,0 g de NaCl dissous dans 50 mL d'eau. Quelle est sa concentration massique ?",
+          "options": [
+            "4,0 g/L",
+            "40 g/L",
+            "0,040 g/L",
+            "100 g/L"
+          ],
+          "correct": 1,
+          "correction": "c = m/V = 2,0 g / 0,050 L = 40 g/L ; les ions Na⁺ et Cl⁻ sont hydratés et donc fortement hydrophiles.",
+          "contexte": "Préparation d'une solution ionique pour un essai de solubilité et de conductimétrie.",
+          "calcul": true
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer le comportement du stéarate de sodium (CH₃(CH₂)₁₆COO⁻Na⁺) dans l'eau et dans l'huile.",
+          "reponse": "La tête carboxylate −COO⁻Na⁺ est ionique et polaire : elle s'hydrate dans l'eau. La longue queue CH₃(CH₂)₁₆− est apolaire : elle se rassemble vers l'intérieur des micelles, au-delà de la CMC, ou vers l'huile. Dans l'huile, la queue se dissout et la tête reste à l'interface. Cette double affinité explique le rôle d'émulsifiant et de savon.",
+          "correction": "L'amphiphilie associe deux affinités opposées dans la même molécule : c'est le principe des micelles, des bicouches membranaires et du nettoyage."
+        },
+        {
+          "type": "texte",
+          "q": "Une substance a un log P = 2,0. Quel est le rapport des concentrations à l'équilibre entre octanol et eau ? Que conclure sur sa solubilité ?",
+          "reponse": "log P = log₁₀(C_oct/C_eau) = 2 → C_oct/C_eau = 10² = 100. La substance est 100 fois plus concentrée dans l'octanol : elle est fortement lipophile et peu soluble dans l'eau.",
+          "correction": "Le log P est un logarithme décimal : un écart d'une unité multiplie le rapport des concentrations par 10.",
+          "contexte": "Choix d'un solvant d'extraction liquide-liquide pour un composé organique peu polaire.",
+          "calcul": true
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "La polarité d'une molécule décide de sa solubilité : on oppose zones hydrophiles (polaires) et zones lipophiles (apolaires)."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule et la règle",
+          "eq": "log P = log₁₀ ( C_octanol / C_eau )",
+          "leg": "log P > 0 : lipophile (octanol) · log P < 0 : hydrophile (eau) · C₁V₁ = C₂V₂ pour les dilutions"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Groupement",
+              "Affinité",
+              "Interaction avec l'eau"
+            ],
+            [
+              "−OH, −NH₂",
+              "Polaires",
+              "Liaisons hydrogène"
+            ],
+            [
+              "−COO⁻, ions",
+              "Polaires / ioniques",
+              "Ion-dipôle"
+            ],
+            [
+              "−CH₃, −CH₂−",
+              "Apolaires",
+              "Dispersion faible"
+            ],
+            [
+              "C₆H₅−",
+              "Apolaire",
+              "Hydrophobe"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Électronégativité : F > O > N ≈ Cl > C > H ; une liaison polaire porte un dipôle.",
+            "CO₂ linéaire est apolaire ; H₂O coudée est polaire : la géométrie compte.",
+            "Semblable dissout semblable : polaire dans l'eau, apolaire dans l'hexane.",
+            "Un amphiphile a une tête polaire et une queue apolaire : micelles au-delà de la CMC.",
+            "log P compare les solubilités octanol/eau ; les alcools courts sont miscibles à l'eau."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode, étape par étape",
+          "items": [
+            "Repérer les liaisons et comparer les électronégativités.",
+            "Faire la somme vectorielle des dipôles en tenant compte de la géométrie.",
+            "Classer les groupements en hydrophiles / lipophiles.",
+            "Prédire la solubilité et la miscibilité (semblable dissout semblable).",
+            "Si la molécule a deux zones, prévoir la formation de micelles ou de bicouches."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Croire qu'une molécule avec des liaisons polaires est toujours polaire : CO₂ est apolaire.",
+            "Oublier que la longueur de la chaîne hydrocarbonée réduit la solubilité d'un alcool.",
+            "Confondre log P (rapport de concentrations) et pKa (acidité).",
+            "Penser qu'un savon est soluble parce qu'il est « gras » : sa tête ionique est hydratée.",
+            "Oublier que l'hexane, moins dense que l'eau, forme la phase supérieure."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">H₂O vs CO₂</span> : coudée polaire / linéaire apolaire",
+            "<span class=\"cle\">Eau + éthanol</span> : miscibles ; eau + hexane : 2 phases",
+            "<span class=\"cle\">log P = 2</span> → C_oct/C_eau = 100",
+            "<span class=\"cle\">2,0 g/50 mL</span> → 40 g/L de NaCl",
+            "<span class=\"cle\">Stéarate</span> : tête COO⁻ + queue C₁₇ → micelle"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Polaire ou apolaire ?",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : deux types de zones\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">deux types de zones</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Polaire / hydrophile</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">−OH, −NH₂, −COO⁻</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Liaisons H avec l'eau</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Ethanol, sels miscibles</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Apolaire / lipophile</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">−CH₃, −CH₂−, cycles</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Forces de dispersion</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Hexane, huiles</text></svg>"
+        },
+        {
+          "titre": "2 · Lire le coefficient de partage",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"log P et solubilité\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">log P et solubilité</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">log P</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">C_oct / C_eau</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Affinité</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">−1</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">0,1</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Hydrophile</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">0</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">1</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Équilibré</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">1</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">10</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Lipophile</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">2</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">100</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Très lipophile</text></svg>"
+        },
+        {
+          "titre": "3 · La micelle d'un amphiphile",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Du savon à la micelle\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Du savon à la micelle</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Tête carboxylate polaire, queue hydrocarbonée</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Dans l'eau, la tête s'hydrate</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Les queues se rassemblent vers l'intérieur</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Une micelle se forme au-delà de la CMC</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">L'huile est piégée au centre : rôle détergent</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Physique-chimie et instrumentation",
+      "titre": "Contrôle PC · Dosage avec indicateur coloré et phrase de résultat",
+      "source": "Contrôle groupé PC — BTS BIOALC, référentiel U4 physique-chimie (arrêté 12 mars 2024 modifié 24 juin 2025) · programme officiel · retour d'étudiant (novembre 2026) · références utiles : IUPAC Gold Book et Blue Book, PubChem, LibreTexts Chemistry, Chimactiv (AgroParisTech), documents d'accompagnement ac-Rennes/ac-Toulouse",
+      "points": [
+        "Un titrage (dosage volumétrique) ajoute progressivement une solution titrante de concentration connue à un volume mesuré d'analyte, jusqu'à l'équivalence.",
+        "L'équivalence (point stœchiométrique) est atteinte lorsque la quantité de titrant introduite correspond exactement à la quantité d'analyte selon l'équation de la réaction ; ce n'est pas nécessairement pH = 7.",
+        "Le virage est le changement de couleur observé : il n'est pas l'équivalence mais doit être très proche si l'indicateur est bien choisi.",
+        "Un indicateur coloré est un acide ou une base faible dont les deux formes ont des couleurs différentes ; sa zone de virage s'étend environ sur pKa ± 1.",
+        "Indicateurs courants : phénolphtaléine 8,2−10,0 (incolore → rose), méthylorange 3,1−4,4 (rouge → jaune), tropeoline OO 1,3−3,2.",
+        "Choisir l'indicateur : sa zone de virage doit être incluse dans le saut de pH de la courbe. Acide fort/base forte : saut ≈ 3−11 (les deux indicateurs conviennent) ; acide faible/base forte : saut basique (phénolphtaléine) ; base faible/acide fort : saut acide (méthylorange).",
+        "Équation de titrage : H⁺ + HO⁻ → H₂O pour un acide fort et une base forte ; R−COOH + HO⁻ → R−COO⁻ + H₂O pour un acide carboxylique (stœchiométrie 1:1).",
+        "À l'équivalence, pour une réaction 1:1 : c(analyte) = c(titrant) × V_eq / V(analyte), avec tous les volumes en litres ; sinon, introduire les coefficients de l'équation.",
+        "Mode opératoire : rincer la burette au titrant, la pipette à l'analyte, ajouter rapidement puis goutte à goutte près du virage, faire au moins 3 essais concordants et noter le volume de virage.",
+        "La courbe pH = f(V_titrant) présente un saut quasi vertical ; le point d'équivalence est au milieu du saut (point d'inflexion). Un pH-mètre remplace l'indicateur pour une solution colorée ou trouble.",
+        "La phrase de résultat attendue comporte trois temps : le volume lu au virage, le calcul des quantités de matière à l'équivalence, la concentration finale avec son unité — puis une phrase de conclusion (« la solution titre … mol·L⁻¹ »).",
+        "L'exploitation compare le résultat à la valeur attendue ou à une norme, calcule un écart relatif et conclut à la conformité ; on indique aussi l'incertitude sur V_eq (≈ ± 0,05 mL avec une burette)."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Qu'appelle-t-on équivalence lors d'un titrage ?",
+          "options": [
+            "Le moment où la solution change de couleur",
+            "Le point où les quantités sont stœchiométriques",
+            "Le moment où le pH vaut forcément 7",
+            "Le début de l'ajout du titrant"
+          ],
+          "correct": 1,
+          "correction": "L'équivalence est le point stœchiométrique : n(titrant) correspond exactement à n(analyte) selon l'équation, quel que soit le pH."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la zone de virage de la phénolphtaléine ?",
+          "options": [
+            "3,1 − 4,4 (rouge → jaune)",
+            "8,2 − 10,0 (incolore → rose)",
+            "1,3 − 3,2 (rouge → jaune)",
+            "6,0 − 7,6 (jaune → bleu)"
+          ],
+          "correct": 1,
+          "correction": "La phénolphtaléine vire de incolore à rose entre pH 8,2 et 10,0 : elle convient aux titrages en milieu basique."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel indicateur choisir pour doser un acide faible par une base forte ?",
+          "options": [
+            "Le méthylorange",
+            "La phénolphtaléine",
+            "Le bleu de méthylène",
+            "Aucun indicateur"
+          ],
+          "correct": 1,
+          "correction": "À l'équivalence d'un acide faible avec une base forte, le pH est supérieur à 7 : le saut est basique, donc la phénolphtaléine (8,2−10) convient."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce qu'un indicateur coloré ?",
+          "options": [
+            "Un acide ou une base faible dont les deux formes ont des couleurs différentes",
+            "Un colorant qui ne change jamais de teinte",
+            "Un réactif qui précipite toujours",
+            "Une solution de concentration connue"
+          ],
+          "correct": 0,
+          "correction": "L'indicateur est un acide/base faible : les formes HIn et In⁻ ont des couleurs distinctes, d'où le virage sur environ pKa ± 1."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi ajouter le titrant goutte à goutte près du virage ?",
+          "options": [
+            "Pour accélérer la réaction",
+            "Pour ne pas dépasser l'équivalence et gagner en précision",
+            "Pour diluer l'indicateur",
+            "Pour refroidir la solution"
+          ],
+          "correct": 1,
+          "correction": "Une seule goutte peut représenter un volume non négligeable : ralentir près du virage évite de dépasser l'équivalence et améliore la précision de V_eq."
+        },
+        {
+          "type": "qcm",
+          "q": "Pour une réaction 1:1, comment calculer la concentration de l'analyte ?",
+          "options": [
+            "c(analyte) = c(titrant) × V_eq / V(analyte)",
+            "c(analyte) = c(titrant) × V(analyte) / V_eq",
+            "c(analyte) = V_eq / V(analyte)",
+            "c(analyte) = c(titrant) + V_eq"
+          ],
+          "correct": 0,
+          "correction": "À l'équivalence 1:1, n(analyte) = n(titrant) = c(titrant)·V_eq ; comme n = c(analyte)·V(analyte), on isole c(analyte)."
+        },
+        {
+          "type": "qcm",
+          "q": "Dosage de 10,0 mL d'HCl par une soude 0,100 mol/L : virage à 12,5 mL. Quelle est c(HCl) ?",
+          "options": [
+            "0,080 mol/L",
+            "0,100 mol/L",
+            "0,125 mol/L",
+            "0,250 mol/L"
+          ],
+          "correct": 2,
+          "correction": "n(NaOH) = 0,100 × 0,0125 = 1,25×10⁻³ mol = n(HCl) ; c(HCl) = 1,25×10⁻³ / 0,0100 = 0,125 mol/L (H⁺ + HO⁻ → H₂O, 1:1).",
+          "contexte": "Contrôle d'une solution d'acide chlorhydrique reçue en réactif ; l'indicateur utilisé est la phénolphtaléine.",
+          "calcul": true
+        },
+        {
+          "type": "texte",
+          "q": "Dosage de 10,0 mL d'acide éthanoïque par NaOH 0,100 mol/L : virage à 8,00 mL. Rédiger le calcul et la phrase de résultat.",
+          "reponse": "n(NaOH) = 0,100 × 0,00800 = 8,00×10⁻⁴ mol. L'équation R−COOH + HO⁻ → R−COO⁻ + H₂O est 1:1, donc n(acide) = 8,00×10⁻⁴ mol. c(acide) = 8,00×10⁻⁴ / 0,0100 = 0,0800 mol/L. Phrase : « Le virage a lieu pour 8,00 mL de soude 0,100 mol/L ; la solution d'acide éthanoïque titre 0,0800 mol·L⁻¹. »",
+          "correction": "Choisir la phénolphtaléine (saut basique pour acide faible + base forte) ; exprimer la concentration avec trois chiffres significatifs et rédiger une phrase de conclusion complète.",
+          "contexte": "Remise d'un résultat de titrage sur un compte-rendu de contrôle qualité.",
+          "calcul": true
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer la différence entre équivalence et virage, et donner la règle de choix de l'indicateur.",
+          "reponse": "L'équivalence est le point stœchiométrique (n(titrant) = n(analyte) / coefficients) ; le virage est le changement de couleur de l'indicateur, qui doit tomber dans le saut de pH. On choisit un indicateur dont la zone de virage (pKa ± 1) est incluse dans ce saut : phénolphtaléine pour acide faible/base forte, méthylorange pour base faible/acide fort.",
+          "correction": "Ne pas confondre les deux notions : un mauvais indicateur donne un virage éloigné de l'équivalence et donc une erreur systématique sur le résultat."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Un bon titrage, c'est un indicateur bien choisi, un volume de virage précis et une phrase de résultat claire."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule et la règle",
+          "eq": "c(analyte) = c(titrant) × V_eq / V(analyte)    (réaction 1:1)",
+          "leg": "n = c·V en litre · à l'équivalence : n(titrant) = n(analyte) · zone de virage = pKa ± 1"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Indicateur",
+              "Zone de virage",
+              "Couleurs"
+            ],
+            [
+              "Phénolphtaléine",
+              "8,2 − 10,0",
+              "Incolore → rose"
+            ],
+            [
+              "Méthylorange",
+              "3,1 − 4,4",
+              "Rouge → jaune"
+            ],
+            [
+              "Tropeoline OO",
+              "1,3 − 3,2",
+              "Rouge → jaune"
+            ],
+            [
+              "pH-mètre",
+              "Toute la courbe",
+              "Pas de couleur"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Équivalence = quantités stœchiométriques ; virage = changement de couleur.",
+            "La zone de virage de l'indicateur doit être dans le saut de pH.",
+            "Acide faible + base forte → phénolphtaléine ; base faible + acide fort → méthylorange.",
+            "Acide fort + base forte → pH équivalence = 7, saut ≈ 3−11.",
+            "Toujours 3 essais concordants et une phrase de conclusion chiffrée."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode, étape par étape",
+          "items": [
+            "Rincer la burette au titrant et remplir sans bulles ; noter c(titrant).",
+            "Prélever V(analyte) à la pipette et ajouter quelques gouttes d'indicateur.",
+            "Titrer rapidement puis goutte à goutte jusqu'au virage stable ; noter V_eq.",
+            "À l'équivalence, calculer n(titrant) = c·V_eq puis n(analyte) via l'équation.",
+            "En déduire c(analyte) et rédiger la phrase de résultat avec l'unité."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Confondre virage et équivalence : le virage n'est qu'un signal, parfois décalé.",
+            "Choisir la phénolphtaléine pour un dosage en milieu acide (saut mal couvert).",
+            "Oublier de convertir les mL en L dans n = c·V.",
+            "Arrêter le titrage à la première coloration fugace : attendre une teinte stable.",
+            "Omettre la phrase de conclusion ou l'unité mol·L⁻¹ dans le compte-rendu."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">H⁺ + HO⁻ → H₂O</span> : 1:1, équivalence à pH 7",
+            "<span class=\"cle\">10,0 mL HCl, 12,5 mL NaOH 0,100 M</span> → 0,125 mol/L",
+            "<span class=\"cle\">10,0 mL acide éthanoïque, 8,00 mL</span> → 0,0800 mol/L",
+            "<span class=\"cle\">n = c·V</span> : 0,100 × 0,0125 = 1,25×10⁻³ mol",
+            "<span class=\"cle\">Phrase</span> : « La solution titre 0,125 mol·L⁻¹. »"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Choisir l'indicateur",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : saut de pH et virage\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">saut de pH et virage</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Acide faible + base forte</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Saut basique (pH &gt; 7)</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Phénolphtaléine 8,2−10</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Virage incolore → rose</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Base faible + acide fort</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Saut acide (pH &lt; 7)</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Méthylorange 3,1−4,4</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Virage rouge → jaune</text></svg>"
+        },
+        {
+          "titre": "2 · Le titrage étape par étape",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Du virage à la phrase de résultat\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Du virage à la phrase de résultat</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rincer la burette au titrant, remplir sans bulle</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Prélever l'analyte à la pipette, ajouter l'indicateur</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Titrer puis ajouter goutte à goutte près du virage</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Noter V_eq et calculer n = c·V à l'équivalence</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">En déduire c(analyte) et rédiger la conclusion</text></svg>"
+        },
+        {
+          "titre": "3 · Équivalence et virage",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Deux notions à distinguer\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Deux notions à distinguer</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Définition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Comment le voir</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Équivalence</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Quantités</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Milieu du saut de pH</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Virage</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Changement de couleur</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Teinte stable de</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Calcul</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">n = c·V</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Volume lu à la burette</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-bio"
+      ],
+      "annees": [
+        "BTS1",
+        "BTS2"
+      ],
+      "matiere": "Physique-chimie et instrumentation",
+      "titre": "Contrôle PC · Tracés et observations microscopiques",
+      "source": "Contrôle groupé PC — BTS BIOALC, référentiel U4 physique-chimie (arrêté 12 mars 2024 modifié 24 juin 2025) · programme officiel · retour d'étudiant (novembre 2026) · références utiles : IUPAC Gold Book et Blue Book, PubChem, LibreTexts Chemistry, Chimactiv (AgroParisTech), documents d'accompagnement ac-Rennes/ac-Toulouse",
+      "points": [
+        "Le microscope optique donne une image agrandie et inversée (haut/bas et gauche/droite) de l'objet ; le grossissement total vaut grossissement de l'objectif × grossissement de l'oculaire.",
+        "Le pouvoir de résolution est limité par la diffraction : d ≈ 0,61 λ / NA (Abbe), soit environ 0,2 µm en lumière visible ; le microscope électronique atteint quelques nm.",
+        "Les objectifs courants sont ×10, ×40 et ×100 (immersion) ; avec un oculaire ×10, les grossissements totaux valent respectivement ×100, ×400 et ×1000.",
+        "Régler l'éclairage et le diaphragme pour le contraste, faire la mise au point au macrométrique sous faible grossissement, puis uniquement au micrométrique sous fort grossissement.",
+        "Une lame est préparée avec un échantillon mince (coupe ou frottis), éventuellement fixé et coloré : les colorants polaires (cristal violet, fuchsine, bleu de méthylène) se fixent sur les structures polaires et augmentent le contraste.",
+        "Monter l'échantillon entre lame et lamelle sans bulles d'air ; une bulle se reconnaît à son contour sombre et ne doit pas être confondue avec une structure biologique.",
+        "Échelles : 1 mm = 1000 µm = 10⁶ nm ; bactérie ≈ 1−5 µm, globule rouge ≈ 7 µm, noyau ≈ 5−10 µm, cellule eucaryote ≈ 10−100 µm.",
+        "Mesurer : calibrer l'oculaire avec un micromètre de platine (ex. 1 division = 10 µm à l'objectif ×40), compter les divisions occupées par l'objet, puis multiplier par la valeur d'une division.",
+        "Le schéma d'observation se fait au crayon : proportionné, net, avec titre, date, grossissement total, barre d'échelle et annotations par lignes droites ; on dessine uniquement ce qui est observé.",
+        "Décrire avant d'interpréter : forme, taille, couleur, disposition des cellules, présence d'un noyau, d'une paroi, de flagelles ou de spores ; puis relier la structure observée à sa fonction.",
+        "Reconnaître les tracés fréquents : cellules épithéliales jointives, fibres musculaires striées, hyphes fongiques ramifiés, cristaux (oxalate de calcium) ou bactéries de formes cocci/bacilles.",
+        "Pour un dénombrement (cellule de Malassez, hématimètre), c = n / (V compté × facteur de dilution) ; exprimer en cellules/mL et tenir compte de l'incertitude de comptage (≈ √n)."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Comment calculer le grossissement total d'un microscope ?",
+          "options": [
+            "Objectif + oculaire",
+            "Objectif × oculaire",
+            "Objectif / oculaire",
+            "Oculaire seul"
+          ],
+          "correct": 1,
+          "correction": "Le grossissement total est le produit du grossissement de l'objectif par celui de l'oculaire (ex. 40 × 10 = ×400)."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment est l'image observée au microscope optique ?",
+          "options": [
+            "Droite et réduite",
+            "Inversée et agrandie",
+            "Inversée et réduite",
+            "Droite et agrandie"
+          ],
+          "correct": 1,
+          "correction": "La formation de l'image donne une inversion haut/bas et gauche/droite, avec un agrandissement."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la taille typique d'une bactérie ?",
+          "options": [
+            "0,1 nm",
+            "1 − 5 µm",
+            "100 µm",
+            "1 mm"
+          ],
+          "correct": 1,
+          "correction": "Une bactérie mesure environ 1 à 5 µm ; les cellules eucaryotes sont plus grandes (10−100 µm)."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le rôle d'une coloration d'une lame ?",
+          "options": [
+            "Augmenter le contraste",
+            "Augmenter le grossissement",
+            "Réduire la résolution",
+            "Stériliser l'échantillon"
+          ],
+          "correct": 0,
+          "correction": "Les colorants polaires se fixent sur les structures polaires et augmentent le contraste, sans changer le grossissement."
+        },
+        {
+          "type": "qcm",
+          "q": "Que doit comporter un schéma d'observation ?",
+          "options": [
+            "Uniquement un titre",
+            "Grossissement, échelle et annotations",
+            "Une photo couleur",
+            "Le nom de l'étudiant uniquement"
+          ],
+          "correct": 1,
+          "correction": "Le schéma doit être daté, titré, proportionné, avec le grossissement total, une barre d'échelle et des annotations claires."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi ne pas utiliser le bouton macrométrique avec l'objectif ×40 ?",
+          "options": [
+            "Il n'existe plus de mise au point",
+            "Risque d'écraser la lame ou l'objectif",
+            "L'image devient floue à jamais",
+            "Le grossissement change"
+          ],
+          "correct": 1,
+          "correction": "Sous fort grossissement, la distance de travail est très faible : le macrométrique peut écraser la lame et endommager l'objectif ; on utilise le micrométrique."
+        },
+        {
+          "type": "qcm",
+          "q": "Avec un oculaire ×10 et un objectif ×40, quel est le grossissement total et la taille apparente d'une cellule de 20 µm ?",
+          "options": [
+            "×400 et 8 mm",
+            "×50 et 0,8 mm",
+            "×400 et 0,08 mm",
+            "×40 et 8 mm"
+          ],
+          "correct": 0,
+          "correction": "G = 10 × 40 = 400 ; taille apparente = 20 µm × 400 = 8000 µm = 8 mm.",
+          "contexte": "Lecture d'une lame de cellules épithéliales au microscope du laboratoire.",
+          "calcul": true
+        },
+        {
+          "type": "texte",
+          "q": "Lors d'un dénombrement sur cellule de Malassez, on compte 80 cellules dans un volume de 10⁻⁶ mL ; l'échantillon a été dilué au 1/10. Quelle est la concentration de l'échantillon initial ?",
+          "reponse": "Sans dilution : c = 80 / 10⁻⁶ = 8×10⁷ cellules/mL. La dilution au 1/10 multiplie la concentration par 10 : c(initiale) = 8×10⁸ cellules/mL.",
+          "correction": "La concentration de l'échantillon initial s'obtient en multipliant par l'inverse du facteur de dilution ; l'incertitude de comptage est d'environ √80 ≈ 9 cellules.",
+          "contexte": "Dénombrement de cellules sur cellule de Malassez lors d'un contrôle de culture.",
+          "calcul": true
+        },
+        {
+          "type": "texte",
+          "q": "Décrire la démarche pour passer de l'observation microscopique au schéma puis à l'interprétation.",
+          "reponse": "1) Observer sous faible puis fort grossissement, en réglant lumière et mise au point. 2) Dessiner au crayon ce qui est vu, en proportions, avec titre, date, grossissement, barre d'échelle et annotations. 3) Décrire forme, taille, couleur et disposition, en éliminant les artefacts (bulles, plis). 4) Interpréter en reliant structure et fonction : noyau = matériel génétique, paroi = rigidité, flagelle = mobilité, spores = résistance.",
+          "correction": "Le schéma doit être une reproduction fidèle de l'image observée : ne jamais dessiner ce qu'on s'attend à voir plutôt que ce qui est réellement visible."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Observer au microscope, c'est régler, mesurer, dessiner ce qu'on voit, puis interpréter en reliant structure et fonction."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule et la règle",
+          "eq": "G_total = G_objectif × G_oculaire      c = n / (V_compté × facteur de dilution)",
+          "leg": "1 mm = 1000 µm = 10⁶ nm · d ≈ 0,61 λ / NA · V en mL pour une concentration en cellules/mL"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Élément",
+              "Règle",
+              "Exemple"
+            ],
+            [
+              "Grossissement",
+              "Objectif × oculaire",
+              "40 × 10 = ×400"
+            ],
+            [
+              "Image",
+              "Agrandie et inversée",
+              "Dessiner l'image vue"
+            ],
+            [
+              "Échelle",
+              "À indiquer sur le schéma",
+              "Barre de 10 µm"
+            ],
+            [
+              "Résolution",
+              "≈ 0,2 µm en lumière visible",
+              "Bactéries visibles"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir",
+          "items": [
+            "Bactérie 1−5 µm · globule rouge ≈ 7 µm · cellule ≈ 10−100 µm · noyau 5−10 µm.",
+            "Mise au point au macrométrique sous ×10, puis au micrométrique sous ×40.",
+            "Une bulle d'air a un contour sombre : c'est un artefact, pas une structure.",
+            "Le schéma comporte titre, date, grossissement, échelle et annotations.",
+            "Décrire (forme, taille, couleur, disposition) avant d'interpréter (structure ↔ fonction)."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Méthode, étape par étape",
+          "items": [
+            "Placer la lame entre lame et lamelle, sans bulle, sur la platine.",
+            "Régler l'éclairage et le diaphragme, puis la mise au point sous faible grossissement.",
+            "Passer à l'objectif ×40 et affiner uniquement au micrométrique.",
+            "Observer, mesurer avec l'oculaire calibré et noter les dimensions.",
+            "Dessiner le schéma, légender, puis rédiger l'interprétation."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Utiliser le macrométrique sous ×40 : risque d'écraser la lame.",
+            "Oublier l'inversion de l'image en comparant avec une photo de référence.",
+            "Dessiner ce qu'on « sait » être présent au lieu de ce qui est vu.",
+            "Confondre une bulle d'air ou un pli avec une structure cellulaire.",
+            "Omettre le facteur de dilution dans un dénombrement de cellules."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En chiffres (à savoir refaire)",
+          "items": [
+            "<span class=\"cle\">40 × 10</span> → ×400 ; 20 µm → 8 mm apparente",
+            "<span class=\"cle\">80 cellules / 10⁻⁶ mL, dilution 1/10</span> → 8×10⁸ cellules/mL",
+            "<span class=\"cle\">1 division oculaire = 10 µm</span> → 3 divisions = 30 µm",
+            "<span class=\"cle\">Bactérie</span> ≈ 1−5 µm · <span class=\"cle\">noyau</span> ≈ 5−10 µm"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Régler et observer",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Observer une lame\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Observer une lame</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Monter l'échantillon entre lame et lamelle</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Régler éclairage et diaphragme</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mise au point au macrométrique sous ×10</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Passer au ×40 et au micrométrique</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Schématiser, mesurer, interpréter</text></svg>"
+        },
+        {
+          "titre": "2 · Grossissement et échelle",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Du réel à l'image\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Du réel à l'image</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Objectif</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Grossissement total</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">20 µm devient</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">×10</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">×100</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">2 mm</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">×40</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">×400</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">8 mm</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">×100</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">×1000</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">20 mm</text></svg>"
+        },
+        {
+          "titre": "3 · Décrire puis interpréter",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : observation / interprétation\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">observation / interprétation</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Description</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Forme, taille, couleur</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Disposition des cellules</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Noyau, paroi, flagelles</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Interprétation</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Noyau → matériel génétique</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Paroi → rigidité</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Flagelle → mobilité</text></svg>"
+        }
+      ]
+    }
+  ]
+}

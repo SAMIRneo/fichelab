@@ -179,7 +179,7 @@ F.append(make(
             "La réaction est d'ordre 2 par rapport à A : v ∝ [A]², donc 2² = 4."),
         qcm("Quel est l'ordre global de la réaction de loi v = k·[A]²·[B] ?",
             ["1", "2", "3", "5"], 2,
-            "On additionne les ordres partiels : 2 + 1 = 3. Les exposants sont expérimentaux et ne sont pas necessarily les coefficients de l'équation."),
+            "On additionne les ordres partiels : 2 + 1 = 3. Les exposants sont déterminés expérimentalement et ne sont pas nécessairement les coefficients de l'équation."),
         qcm("Quelle est l'unité de k pour une réaction d'ordre 2 ?",
             ["s⁻¹", "L·mol⁻¹·s⁻¹", "mol·L⁻¹·s⁻¹", "mol·L⁻¹"], 1,
             "v (mol·L⁻¹·s⁻¹) = k·(mol·L⁻¹)², donc k = L·mol⁻¹·s⁻¹."),
@@ -196,9 +196,9 @@ F.append(make(
             "k(30 °C) = 2 × 1,5 × 10⁻³ = 3,0 × 10⁻³ s⁻¹, puis v = k·[A] = 3,0 × 10⁻³ × 0,20 = 6,0 × 10⁻⁴ mol·L⁻¹·s⁻¹.",
             "Étude de la stabilité thermique d'une solution, avec passage de 20 °C à 30 °C.",
             True),
-        qt("Distinguer l'effet de la température et celui d'un catalyseur sur la constante k, puis dire pourquoi ni l'un ni l'autre ne modifie la composition à l'équilibre d'une réaction réversible_columns.",
-           "La température change k selon la loi d'Arrhenius en augmentant la fraction de molécules franchissant la barrière ; le catalyseur change k en abaissant Ea par un autre chemin réactionnel. Dans les deux cas, k augmente (sauf refroidissement), mais K° reste fixé par la température thermodynamic : le catalyseur accélère également les deux sens et la température modifie K° en déplaignant l'équilibre seulement si la réaction est exo- ou endothermique. Un catalyseur, lui, ne déplace jamais l'équilibre.",
-           "On distingue la cinétique (vitesse d'atteinte de l'équilibre) de la thermodynamique (position de l'équilibre). Attention : la température, elle, peut modifier K°, contrairement au catalyseur."),
+        qt("Distinguer l'effet de la température et celui d'un catalyseur sur la constante k, puis préciser lequel des deux peut déplacer l'équilibre d'une réaction réversible.",
+           "La température change k selon la loi d'Arrhenius en augmentant la fraction de molécules franchissant la barrière ; le catalyseur change k en abaissant Ea par un autre chemin réactionnel. Le catalyseur accélère également les deux sens : K° et la composition à l'équilibre restent inchangés, seul le temps d'atteinte diminue. La température, elle, modifie aussi K° (équation de van't Hoff) si la réaction est exo- ou endothermique : elle peut donc déplacer l'équilibre.",
+           "On distingue la cinétique (vitesse d'atteinte de l'équilibre) de la thermodynamique (position de l'équilibre). Le piège classique est de croire que le catalyseur déplace l'équilibre : seul le changement de température peut modifier K°."),
         qt("Déterminer l'ordre α et la constante k sachant que, à T constante, v₀ = 0,0020 mol·L⁻¹·s⁻¹ pour [A] = 0,10 mol·L⁻¹ et v₀ = 0,0080 mol·L⁻¹·s⁻¹ pour [A] = 0,20 mol·L⁻¹.",
            "Quand [A] double, v₀ est multipliée par 4 : α = 2. Alors k = v₀/[A]² = 0,0020/(0,10)² = 0,20 L·mol⁻¹·s⁻¹ (vérification : 0,0080/(0,20)² = 0,20).",
            "Comparer les rapports v₂/v₁ = (c₂/c₁)^α : 4 = 2^α donne α = 2, puis isoler k dans la loi de vitesse.",
@@ -219,11 +219,11 @@ F.append(make(
             ["Pression (gaz)", "P = c·R·T : c augmente", "v augmente si ordre global > 0"],
             ["Solvant", "Polarité, viscosité", "k et mécanisme modifiés"]]),
         bloc("À retenir sur les facteurs", items=[
-            "k ne dépend pas des concentrations : celles-ci agissent through [A]^α dans la loi",
+            "k ne dépend pas des concentrations : celles-ci agissent via les facteurs [A]^α dans la loi",
             "Un catalyseur accélère les deux sens et ne déplace pas l'équilibre",
             "Unité de k : s⁻¹ (ordre 1), L·mol⁻¹·s⁻¹ (ordre 2), mol·L⁻¹·s⁻¹ (ordre 0)",
             "La règle des +10 °C (facteur 2 à 3) n'est qu'une approximation"]),
-        bloc("Déterminer une loi de vitesse, étape par étape", items=[
+        bloc("Mesurer et exploiter la cinétique, étape par étape", items=[
             "Fixer T, solvant et catalyseur, puis mesurer la vitesse initiale v₀",
             "Faire varier une seule concentration à la fois",
             "Tracer log v₀ = f(log[A]) : la pente donne l'ordre α",
@@ -482,7 +482,7 @@ F.append(make(
         diag("2 · Température : exothermique / endothermique", svg_compare("Effet de la chaleur sur K°",
             ("Exothermique ΔH° < 0", ["Chaleur = produit", "T ↑ → K° ↓", "Sens inverse favorisé"]),
             ("Endothermique ΔH° > 0", ["Chaleur = réactif", "T ↑ → K° ↑", "Sens direct favorisé"]))),
-        diag("3 · Méthode de raisonnement", svg_etapes("Du trouble à la nouvelle équilibre", [
+        diag("3 · Méthode de raisonnement", svg_etapes("Du trouble au nouvel équilibre", [
             "Repérer la perturbation subie par le système",
             "Recalculer Q avec les nouvelles concentrations ou pressions",
             "Comparer Q à K° à la même température",
@@ -538,7 +538,7 @@ F.append(make(
             "Cinétique d'une substitution nucléophile suivie lors d'un contrôle groupé.",
             True),
         qt("Décrire, avec les flèches électroniques, l'addition d'un nucléophile Nu⁻ sur un aldéhyde R−CHO puis la protonation finale. Nommer le produit obtenu.",
-           "La flèche part du doublet de Nu⁻ vers le carbone δ+ du carbonyle ; en même temps la flèche de la liaison π C=O va vers l'oxygène, donnant un alcoolate R−CH(O⁻)−Nu. Une protonation (par H₂O ou H₃O⁺) sur l'oxygène donne l'alcool R−CH(OH)−Nu. Le produit est un.adduit d'addition nucléophile, sous forme d'hémiacétal si Nu = OR.",
+           "La flèche part du doublet de Nu⁻ vers le carbone δ+ du carbonyle ; en même temps la flèche de la liaison π C=O va vers l'oxygène, donnant un alcoolate R−CH(O⁻)−Nu. Une protonation (par H₂O ou H₃O⁺) sur l'oxygène donne l'alcool R−CH(OH)−Nu. Le produit est un adduit d'addition nucléophile, sous forme d'hémiacétal si Nu = OR.",
            "On respecte le sens des flèches (du donneur vers l'accepteur), on ouvre la double liaison vers l'oxygène, puis on protonne l'alcoolate."),
         qt("Une substitution sur un halogénoalcane a une cinétique v = k·[R−X] avec k = 2,0 × 10⁻³ s⁻¹ et [R−X] = 0,15 mol·L⁻¹. Calculer v, identifier le mécanisme et indiquer la stéréochimie attendue.",
            "v = k·[R−X] = 2,0 × 10⁻³ × 0,15 = 3,0 × 10⁻⁴ mol·L⁻¹·s⁻¹. La vitesse est indépendante du nucléophile : il s'agit d'un mécanisme SN1 avec intermédiaire carbocation plans. L'attaque du nucléophile pouvant avoir lieu des deux côtés du carbocation, on observe une racémisation partielle ou complète.",
@@ -613,7 +613,7 @@ F.append(make(
         "Plus un acide est fort, plus sa base conjuguée est faible, et inversement. Un pKa faible caractérise un acide fort (HCl : pKa ≈ −7) ; un pKa élevé caractérise un acide faible dont la base conjuguée est forte (NH₃ conjugate de NH4⁺, pKa ≈ 9,25).",
         "Ka est la constante d'acidité : Ka = [H₃O⁺][A⁻]/[AH] dans l'eau à 25 °C, et pKa = −log Ka. Le couple H₃O⁺/H₂O a pKa = 0 ; le couple H₂O/OH⁻ a pKa = 14 dans la convention aqueuse usuelle.",
         "Le diagramme de prédominance d'un couple se lit par comparaison du pH et du pKa : pH < pKa → AH prédomine ; pH > pKa → A⁻ prédomine ; pH = pKa → [AH] = [A⁻].",
-        "La relation de Henderson-Hasselbalch pH = pKa + log([A⁻]/[AH]) quantifye ce diagramme : un rapport de 10 donne pH = pKa + 1, un rapport de 0,1 donne pH = pKa − 1. La zone tampon efficace s'étend environ sur pKa ± 1.",
+        "La relation de Henderson-Hasselbalch pH = pKa + log([A⁻]/[AH]) quantifie ce diagramme : un rapport de 10 donne pH = pKa + 1, un rapport de 0,1 donne pH = pKa − 1. La zone tampon efficace s'étend environ sur pKa ± 1.",
         "Considérons deux couples AH/A⁻ et BH⁺/B. La réaction de transfert est AH + B ⇌ A⁻ + BH⁺ : l'acide du premier couple cède son proton à la base du second.",
         "Le sens favorable est celui qui forme l'acide le plus faible et la base la plus faible : le proton va du couple au pKa le plus faible (acide le plus fort) vers le couple au pKa le plus élevé (base conjuguée la plus forte).",
         "La constante d'équilibre du transfert se calcule par log K ≈ pKa(BH⁺) − pKa(AH) = ΔpKa. Si ΔpKa > 0, K > 1 et le sens direct est favorisé ; si ΔpKa < 0, la réaction est très peu avancée.",
@@ -738,7 +738,7 @@ F.append(make(
     "IUPAC Gold Book (Fischer projection, enantiomer, CIP priority) · LibreTexts Organic Chemistry, stereochemistry · cours U4 BTS BIOALC, representation des molecules chirales",
     [
         "La projection de Fischer représente une molécule à centre(s) asymétrique(s) sous forme d'une croix : le carbone chiral est au centre, la chaîne carbonée est sur l'axe vertical et les deux autres substituts sur l'axe horizontal.",
-        "Convention fondamentale : les liaisons horizontales pointent vers l'observateur (vers l'avant), les liaisons verticales pointent derrière le plan de la feuille. C'est une convention de projection, pas une perspective发生的 par hasard.",
+        "Convention fondamentale : les liaisons horizontales pointent vers l'observateur (vers l'avant), les liaisons verticales pointent derrière le plan de la feuille. C'est une convention de projection, et non une perspective quelconque.",
         "Règle de placement : la chaîne carbonée la plus longue est verticale, avec le carbone le plus oxydé en haut (C1 : CHO ou COOH) et la chaîne se poursuit vers le bas. On place ensuite les substituts de chaque centre asymétrique sur les branches horizontales.",
         "Une rotation de 180° de la projection dans le plan de la feuille conserve la même molécule. Une rotation de 90° inverse la configuration : c'est l'énantiomère. Il ne faut jamais faire tourner une projection de Fischer d'un quart de tour pour la lire.",
         "Pour lire la configuration R/S, on classe les quatre substituts par priorité CIP (numéro atomique décroissant, en tenant compte des atomes suivants en cas d'égalité), puis on regarde le sens 1 → 2 → 3.",
@@ -787,11 +787,11 @@ F.append(make(
     ],
     [
         bloc("L'idée en une phrase",
-             texte="Une projection de Fischer est une croix : les branches horizontales avancent vers nous, les verticales reculent, et un quart de tour变换 tout en miroir."),
+             texte="Une projection de Fischer est une croix : les branches horizontales avancent vers nous, les verticales reculent, et un quart de tour donne l'image miroir."),
         bloc("La formule à connaître",
              eq="Chaîne verticale (C1 en haut)   ·   horizontaux = avant   ·   verticaux = arrière",
              leg="Rotation 180° = même stéréoisomère · rotation 90° = énantiomère · nombre maxi de stéréoisomères = 2^n"),
-        bloc("Tableau des règles de la croix", items=[
+        bloc("Tableau de la croix et de ses conventions", items=[
             ["Vertical", "Chaîne carbonée, C1 en haut", "Liaisons vers l'arrière"],
             ["Horizontal", "Les deux autres substituts", "Liaisons vers l'avant"],
             ["Rotation 180°", "Projection équivalente", "Même configuration"],
@@ -847,7 +847,7 @@ for i, f in enumerate(F, 9):
     assert len(f["questions"]) == 9, (i, "questions")
     assert sum(q["type"] == "qcm" for q in f["questions"]) == 7, i
     assert sum(q["type"] == "texte" for q in f["questions"]) == 2, i
-    assert sum(q.get("calcul") and q.get("contexte") for q in f["questions"]) >= 2, i
+    assert sum(bool(q.get("calcul") and q.get("contexte")) for q in f["questions"]) >= 2, i
     assert len(f["affichage"]) == 7, i
     assert len(f["schema"]) == 3, i
 
