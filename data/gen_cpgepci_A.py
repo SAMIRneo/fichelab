@@ -1531,7 +1531,7 @@ add("2e", "Physique",
     "Chapitre PH8. · Électricité : circuits et lois (PCSI2)",
     REF_P + " · notions : courant, tension, loi d'Ohm, résistance, condensateur, circuit RC",
     [
-        "Le courant électrique est un déplacement ordered de charges : l'intensité I, exprimée en ampères, est le débit de charge à travers une section, I = dq/dt.",
+        "Le courant électrique est un déplacement ordonné de charges : l'intensité I, exprimée en ampères, est le débit de charge à travers une section, I = dq/dt.",
         "La tension U entre deux points est la différence de potentiel électrique : elle se mesure en volts avec un voltmètre branché en dérivation.",
         "La loi d'Ohm énonce que, pour un conducteur ohmique à température constante, la tension à ses bornes est proportionnelle à l'intensité qui le traverse : U = R I.",
         "La résistance R se mesure en ohms ; elle dépend de la longueur L et de la section S du conducteur par R = ρ L/S, où ρ est la résistivité du matériau.",

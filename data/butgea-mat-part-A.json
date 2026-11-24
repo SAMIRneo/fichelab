@@ -8,7 +8,7 @@
         "BUT1"
       ],
       "matiere": "Gestion",
-      "titre": "Chapitre GE1. · Gestion d'entreprise : fonctions et création de valeur",
+      "titre": "Chapitre GEA GE1. · Gestion d'entreprise : fonctions et création de valeur",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressources R1.01/R1.03 · environnement et management · notions : création de valeur, partie prenante, modèle économique",
       "points": [
         "L'entreprise est une organisation de moyens humains, matériels et financiers qui produit des biens ou des services pour des clients et vise, en général, un résultat économique.",
@@ -237,7 +237,7 @@
         "BUT1"
       ],
       "matiere": "Gestion",
-      "titre": "Chapitre GE2. · Organisation : structure, responsabilité et coordination",
+      "titre": "Chapitre GEA GE2. · Organisation : structure, responsabilité et coordination",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R1.04 · management d'activités · notions : division du travail, délégation, unité de commande",
       "points": [
         "L'organisation désigne la manière dont les tâches sont réparties, regroupées et coordonnées entre les membres de l'entreprise.",
@@ -465,7 +465,7 @@
         "BUT1"
       ],
       "matiere": "Gestion",
-      "titre": "Chapitre GE3. · Ressources humaines : recrutement, formation et rémunération",
+      "titre": "Chapitre GEA GE3. · Ressources humaines : recrutement, formation et rémunération",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R1.03 · gestion des ressources humaines · notions : GPEC, fiche de poste, turn-over",
       "points": [
         "La gestion des ressources humaines (GRH) couvre le recrutement, la formation, la rémunération, l'évaluation, la mobilité et les relations sociales.",
@@ -694,7 +694,7 @@
         "BUT2"
       ],
       "matiere": "Gestion",
-      "titre": "Chapitre GE4. · Contrôle de gestion : objectifs, écarts et indicateurs",
+      "titre": "Chapitre GEA GE4. · Contrôle de gestion : objectifs, écarts et indicateurs",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R2.09 · parcours GC2F / CG2P · notions : contrôle de gestion, indicateur, tableau de bord",
       "points": [
         "Le contrôle de gestion est un système d'aide à la décision qui transforme la stratégie en objectifs chiffrés et en indicateurs suivis.",
@@ -923,7 +923,7 @@
         "BUT2"
       ],
       "matiere": "Gestion",
-      "titre": "Chapitre GE5. · Budget prévisionnel : construction, suivi et contrôle",
+      "titre": "Chapitre GEA GE5. · Budget prévisionnel : construction, suivi et contrôle",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R2.09 · parcours GC2F · notions : budget de trésorerie, budget base zéro, budget incrémental",
       "points": [
         "Un budget est une prévision chiffrée des produits et des charges d'une période, généralement l'exercice annuel.",
@@ -1152,7 +1152,7 @@
         "BUT2"
       ],
       "matiere": "Gestion",
-      "titre": "Chapitre GE6. · Analyse des coûts : classification, coût complet et ABC",
+      "titre": "Chapitre GEA GE6. · Analyse des coûts : classification, coût complet et ABC",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R2.09 · contrôle de gestion / parcours GC2F · notions : coût direct, coût indirect, unité d'œuvre",
       "points": [
         "Un coût direct est affecté sans ambiguïté à un produit, un service ou un client ; un coût indirect nécessite une répartition.",
@@ -1381,7 +1381,7 @@
         "BUT2"
       ],
       "matiere": "Gestion",
-      "titre": "Chapitre GE7. · Performance et indicateurs : du tableau de bord au BSC",
+      "titre": "Chapitre GEA GE7. · Performance et indicateurs : du tableau de bord au BSC",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R2.09 · pilotage de la performance · notions : efficacité, efficience, balanced scorecard",
       "points": [
         "La performance combine l'efficacité (atteinte des objectifs) et l'efficience (consommation de ressources pour y parvenir).",
@@ -1609,7 +1609,7 @@
         "BUT3"
       ],
       "matiere": "Gestion",
-      "titre": "Chapitre GE8. · Conduite de projet : cycle, parties prenantes et planning",
+      "titre": "Chapitre GEA GE8. · Conduite de projet : cycle, parties prenantes et planning",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R3.09 · parcours CG2P · notions : cahier des charges, chemin critique, jalon",
       "points": [
         "Un projet est une démarche temporaire entreprise pour créer un résultat unique, avec des contraintes de coût, de délai et de qualité.",
@@ -1837,7 +1837,7 @@
         "BUT3"
       ],
       "matiere": "Gestion",
-      "titre": "Chapitre GE9. · Qualité et amélioration continue : PDCA, 5S et ISO 9001",
+      "titre": "Chapitre GEA GE9. · Qualité et amélioration continue : PDCA, 5S et ISO 9001",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R3.06 · parcours GEMA / qualité · notions : qualité, PDCA, 5S",
       "points": [
         "La qualité est l'aptitude d'un produit ou d'un service à satisfaire des besoins explicites ou implicites, selon la norme ISO 9000.",
@@ -2066,7 +2066,7 @@
         "BUT3"
       ],
       "matiere": "Gestion",
-      "titre": "Chapitre GE10. · Management : fonctions, leadership et conduite du changement",
+      "titre": "Chapitre GEA GE10. · Management : fonctions, leadership et conduite du changement",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R1.03 / R6 · parcours GEMA · notions : management, leadership, délégation",
       "points": [
         "Le management vise à atteindre les objectifs de l'organisation en mobilisant les ressources humaines et matérielles disponibles.",
@@ -2294,7 +2294,7 @@
         "BUT1"
       ],
       "matiere": "Comptabilité",
-      "titre": "Chapitre CP1. · Bilan : actif, passif et équilibre comptable",
+      "titre": "Chapitre GEA CP1. · Bilan : actif, passif et équilibre comptable",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R1.07 · plan comptable général, arrêté du 22 juin 1999 · notions : actif, passif, capitaux propres",
       "points": [
         "Le bilan présente à une date donnée l'actif, qui décrit les emplois, et le passif, qui décrit les ressources qui les financent.",
@@ -2523,7 +2523,7 @@
         "BUT1"
       ],
       "matiere": "Comptabilité",
-      "titre": "Chapitre CP2. · Compte de résultat : produits, charges et résultat",
+      "titre": "Chapitre GEA CP2. · Compte de résultat : produits, charges et résultat",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R1.07 · plan comptable général · notions : compte de résultat, chiffre d'affaires, résultat d'exploitation",
       "points": [
         "Le compte de résultat retrace l'ensemble des produits et des charges de l'exercice, quelle que soit la date de leur encaissement.",
@@ -2752,7 +2752,7 @@
         "BUT1"
       ],
       "matiere": "Comptabilité",
-      "titre": "Chapitre CP3. · Plan comptable général : classes de comptes et principes",
+      "titre": "Chapitre GEA CP3. · Plan comptable général : classes de comptes et principes",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R1.07 · arrêté du 22 juin 1999 · notions : plan comptable général, partie double, image fidèle",
       "points": [
         "Le Plan comptable général (PCG), arrêté du 22 juin 1999, définit la nomenclature et les règles de tenue des comptes.",
@@ -2980,7 +2980,7 @@
         "BUT1"
       ],
       "matiere": "Comptabilité",
-      "titre": "Chapitre CP4. · TVA : collectée, déductible et déclaration",
+      "titre": "Chapitre GEA CP4. · TVA : collectée, déductible et déclaration",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R1.07 · Code général des impôts, PCG · notions : TVA collectée, TVA déductible, crédit de TVA",
       "points": [
         "La taxe sur la valeur ajoutée (TVA) est un impôt indirect sur la consommation, supporté in fine par le client final.",
@@ -3092,7 +3092,7 @@
         {
           "type": "texte",
           "q": "Pourquoi la TVA n'est-elle pas un coût pour l'entreprise assujettie ?",
-          "reponse": "Parce que la TVA collectée sur les ventes est due à l'État et la TVA payée sur les achats est déductible : l'entreprise ne supporte que le solde transient et non l'impôt lui-même. Le coût apparaît seulement pour les opérations exonérées ou non déductibles et pour le client final non assujetti.",
+          "reponse": "Parce que la TVA collectée sur les ventes est due à l'État et la TVA payée sur les achats est déductible : l'entreprise ne supporte que le solde transitoire et non l'impôt lui-même. Le coût apparaît seulement pour les opérations exonérées ou non déductibles et pour le client final non assujetti.",
           "correction": "La réponse doit expliquer la neutralité du mécanisme et les exceptions.",
           "contexte": "MÉCANISME DE LA TVA"
         },
@@ -3209,7 +3209,7 @@
         "BUT1"
       ],
       "matiere": "Comptabilité",
-      "titre": "Chapitre CP5. · Comptabilité analytique : centres de coûts et unités d'œuvre",
+      "titre": "Chapitre GEA CP5. · Comptabilité analytique : centres de coûts et unités d'œuvre",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R1.07 / R2.09 · contrôle de gestion · notions : comptabilité analytique, centre de coûts, unité d'œuvre",
       "points": [
         "La comptabilité financière décrit le patrimoine et le résultat de l'entreprise ; la comptabilité analytique explique la formation des coûts et des marges.",
@@ -3438,7 +3438,7 @@
         "BUT2"
       ],
       "matiere": "Comptabilité",
-      "titre": "Chapitre CP6. · Coûts et marges : marge unitaire et marge sur coûts variables",
+      "titre": "Chapitre GEA CP6. · Coûts et marges : marge unitaire et marge sur coûts variables",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R2.09 · parcours GC2F · notions : marge unitaire, MCV, taux de MCV",
       "points": [
         "La marge unitaire est la différence entre le prix de vente unitaire et le coût d'achat ou de revient unitaire.",
@@ -3667,7 +3667,7 @@
         "BUT2"
       ],
       "matiere": "Comptabilité",
-      "titre": "Chapitre CP7. · Seuil de rentabilité : point mort et marges de sécurité",
+      "titre": "Chapitre GEA CP7. · Seuil de rentabilité : point mort et marges de sécurité",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R2.09 · parcours GC2F · notions : seuil de rentabilité, charge fixe, taux de MCV",
       "points": [
         "Le seuil de rentabilité, ou point mort, correspond au niveau d'activité où le résultat est nul.",
@@ -3896,7 +3896,7 @@
         "BUT2"
       ],
       "matiere": "Comptabilité",
-      "titre": "Chapitre CP8. · Budget de trésorerie : prévoir les encaissements et décaissements",
+      "titre": "Chapitre GEA CP8. · Budget de trésorerie : prévoir les encaissements et décaissements",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R2.09 · parcours GC2F · notions : trésorerie, encaissement, décaissement",
       "points": [
         "La trésorerie désigne les disponibilités immédiatement utilisables : comptes bancaires, caisse et placements à court terme.",
@@ -4125,7 +4125,7 @@
         "BUT3"
       ],
       "matiere": "Comptabilité",
-      "titre": "Chapitre CP9. · Analyse financière : structure, rentabilité et trésorerie",
+      "titre": "Chapitre GEA CP9. · Analyse financière : structure, rentabilité et trésorerie",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R3 · parcours GC2F / diagnostic financier · notions : fonds de roulement, besoin en fonds de roulement, trésorerie nette",
       "points": [
         "L'analyse financière transforme les données des comptes annuels en indicateurs de décision pour les dirigeants, les banquiers et les investisseurs.",
@@ -4354,7 +4354,7 @@
         "BUT3"
       ],
       "matiere": "Comptabilité",
-      "titre": "Chapitre CP10. · Diagnostic d'entreprise : croiser bilan, résultat et trésorerie",
+      "titre": "Chapitre GEA CP10. · Diagnostic d'entreprise : croiser bilan, résultat et trésorerie",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R3 · parcours GC2F / GEMA · notions : diagnostic, SWOT, CAF",
       "points": [
         "Le diagnostic d'entreprise est une analyse structurée de la situation financière et stratégique, destinée à éclairer une décision.",
@@ -4487,7 +4487,7 @@
         {
           "type": "formule",
           "titre": "La formule à connaître",
-          "eq": "Diagnostic = constat + cause +-action",
+          "eq": "Diagnostic = constat + cause + action",
           "leg": "une conclusion sans recommandation chiffrée n'est pas un diagnostic"
         },
         {

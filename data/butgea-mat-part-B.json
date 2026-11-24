@@ -8,7 +8,7 @@
         "BUT1"
       ],
       "matiere": "Droit",
-      "titre": "Chapitre DR1. · Introduction au droit : règles, sources et hiérarchie",
+      "titre": "Chapitre GEA DR1. · Introduction au droit : règles, sources et hiérarchie",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R1.01/R1.02 · environnement juridique, Code civil · notions : règle de droit, droit subjectif, hiérarchie des normes",
       "points": [
         "Une règle de droit est une norme générale et impersonnelle, éditée par une autorité publique et assortie d'une sanction.",
@@ -236,7 +236,7 @@
         "BUT1"
       ],
       "matiere": "Droit",
-      "titre": "Chapitre DR2. · Droit des obligations : formation et validité du contrat",
+      "titre": "Chapitre GEA DR2. · Droit des obligations : formation et validité du contrat",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R1.02 · Code civil, articles 1101 et suivants · notions : contrat, offre, acceptation",
       "points": [
         "L'article 1101 du Code civil définit le contrat comme une convention par laquelle une ou plusieurs personnes s'obligent à donner, faire ou ne pas faire quelque chose.",
@@ -464,12 +464,12 @@
         "BUT2"
       ],
       "matiere": "Droit",
-      "titre": "Chapitre DR3. · Exécution, inexécution et responsabilité contractuelle",
+      "titre": "Chapitre GEA DR3. · Exécution, inexécution et responsabilité contractuelle",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R1.02 / R2 · Code civil, articles 1217 et suivants · notions : obligation de moyens, obligation de résultat, mise en demeure",
       "points": [
         "L'article 1103 du Code civil énonce que les contrats légalement formés tiennent lieu de loi à ceux qui les ont faits.",
         "Le contrat doit être exécuté de bonne foi : cette obligation s'applique à la négociation, à la formation et à l'exécution.",
-        "Une obligation de moyens impose de mobiliser les ressources adaptées, sans garantir le résultat ; une obligation de résultat garantit un outcome précis.",
+        "Une obligation de moyens impose de mobiliser les ressources adaptées, sans garantir le résultat ; une obligation de résultat garantit un résultat précis.",
         "L'inexécution peut être totale, partielle, tardive ou défectueuse : chaque hypothèse ouvre des recours distincts.",
         "La mise en demeure est l'acte par lequel le créancier interpelle le débiteur pour l'inviter à exécuter son obligation.",
         "Après mise en demeure, le créancier peut demander l'exécution forcée, la réduction du prix, la résolution du contrat ou des dommages-intérêts.",
@@ -692,7 +692,7 @@
         "BUT2"
       ],
       "matiere": "Droit",
-      "titre": "Chapitre DR4. · Droit des sociétés : formes, capital et gouvernance",
+      "titre": "Chapitre GEA DR4. · Droit des sociétés : formes, capital et gouvernance",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R2 · Code de commerce, articles L210-1 et suivants · notions : personnalité juridique, responsabilité limitée, statuts",
       "points": [
         "Une société est un groupement de personnes qui mettent en commun des apports pour exercer une activité économique et en partager les bénéfices.",
@@ -920,7 +920,7 @@
         "BUT2"
       ],
       "matiere": "Droit",
-      "titre": "Chapitre DR5. · Droit commercial et concurrence : pratiques et régulation",
+      "titre": "Chapitre GEA DR5. · Droit commercial et concurrence : pratiques et régulation",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R1.02 · Code de commerce, Code de la consommation · notions : acte de commerce, pratique restrictive, préavis",
       "points": [
         "Le droit commercial régit les actes de commerce et les commerçants, définis par l'article L121-1 du Code de commerce.",
@@ -1148,7 +1148,7 @@
         "BUT3"
       ],
       "matiere": "Droit",
-      "titre": "Chapitre DR6. · Droit de la consommation : information et protection du consommateur",
+      "titre": "Chapitre GEA DR6. · Droit de la consommation : information et protection du consommateur",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R3 · Code de la consommation, articles L111-1 et suivants · notions : consommateur, droit de rétractation, clause abusive",
       "points": [
         "Est consommateur toute personne physique qui agit à des fins qui n'entrent pas dans le cadre de son activité commerciale, industrielle, artisanale ou libérale.",
@@ -1376,7 +1376,7 @@
         "BUT3"
       ],
       "matiere": "Droit",
-      "titre": "Chapitre DR7. · Droit du travail : contrat, durée et protection du salarié",
+      "titre": "Chapitre GEA DR7. · Droit du travail : contrat, durée et protection du salarié",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R3 · parcours GPRH, Code du travail · notions : contrat de travail, CDI, CDD",
       "points": [
         "Le contrat de travail est une convention par laquelle une personne s'engage à travailler pour une autre, sous sa direction et son contrôle, contre une rémunération.",
@@ -1605,7 +1605,7 @@
         "BUT1"
       ],
       "matiere": "Marketing",
-      "titre": "Chapitre MK1. · Étude de marché : cadrage et collecte des données",
+      "titre": "Chapitre GEA MK1. · Étude de marché : cadrage et collecte des données",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R1.05 · marketing, études et diagnostic · notions : données secondaires, données primaires, échantillon",
       "points": [
         "L'étude de marché recueille et analyse des informations sur les clients, les concurrents et l'environnement pour éclairer une décision.",
@@ -1833,7 +1833,7 @@
         "BUT1"
       ],
       "matiere": "Marketing",
-      "titre": "Chapitre MK2. · Segmentation, ciblage et positionnement",
+      "titre": "Chapitre GEA MK2. · Segmentation, ciblage et positionnement",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R1.05 / R2 · marketing stratégique, STP · notions : segmentation, ciblage, positionnement",
       "points": [
         "Un marché est hétérogène : les consommateurs n'ont pas les mêmes besoins, ressources ou comportements d'achat.",
@@ -2061,7 +2061,7 @@
         "BUT1"
       ],
       "matiere": "Marketing",
-      "titre": "Chapitre MK3. · Mix marketing : les 4P et leur cohérence",
+      "titre": "Chapitre GEA MK3. · Mix marketing : les 4P et leur cohérence",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R1.05 · marketing opérationnel · notions : marketing mix, produit, prix",
       "points": [
         "Le marketing mix désigne l'ensemble des outils contrôlables que l'entreprise combine pour obtenir une réponse favorable de sa cible.",
@@ -2289,7 +2289,7 @@
         "BUT2"
       ],
       "matiere": "Marketing",
-      "titre": "Chapitre MK4. · Politique produit : gamme, marque et cycle de vie",
+      "titre": "Chapitre GEA MK4. · Politique produit : gamme, marque et cycle de vie",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R2 · marketing produit · notions : gamme, marque, cycle de vie",
       "points": [
         "Le produit est un bien ou un service capable de satisfaire un besoin ; il se définit par ses caractéristiques fonctionnelles et symboliques.",
@@ -2517,7 +2517,7 @@
         "BUT2"
       ],
       "matiere": "Marketing",
-      "titre": "Chapitre MK5. · Politique de prix : fixation, remises et élasticité",
+      "titre": "Chapitre GEA MK5. · Politique de prix : fixation, remises et élasticité",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R2 · marketing et contrôle de gestion · notions : prix de revient, valeur perçue, élasticité-prix",
       "points": [
         "La fixation du prix est une décision stratégique qui influence la demande, la marge, le positionnement et la réaction des concurrents.",
@@ -2746,7 +2746,7 @@
         "BUT2"
       ],
       "matiere": "Marketing",
-      "titre": "Chapitre MK6. · Distribution et merchandising : rendre l'offre accessible",
+      "titre": "Chapitre GEA MK6. · Distribution et merchandising : rendre l'offre accessible",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R2 · distribution et logistique commerciale · notions : circuit direct, distribution intensive, distribution sélective",
       "points": [
         "La distribution désigne l'ensemble des activités qui rendent un produit disponible au bon endroit et au bon moment.",
@@ -2974,7 +2974,7 @@
         "BUT3"
       ],
       "matiere": "Marketing",
-      "titre": "Chapitre MK7. · Marketing digital : canaux, données et indicateurs",
+      "titre": "Chapitre GEA MK7. · Marketing digital : canaux, données et indicateurs",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R3 · marketing digital et transformation numérique · notions : SEO, SEA, CTR",
       "points": [
         "Le marketing digital utilise les canaux numériques pour informer, convaincre, vendre et fidéliser les clients.",
@@ -3203,7 +3203,7 @@
         "BUT1"
       ],
       "matiere": "Communication",
-      "titre": "Chapitre CO1. · Communication écrite professionnelle : note, courriel et compte rendu",
+      "titre": "Chapitre GEA CO1. · Communication écrite professionnelle : note, courriel et compte rendu",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R1.07 · expression et communication écrite · notions : note de service, compte rendu, procès-verbal",
       "points": [
         "La communication écrite interne utilise des genres codifiés : note de service, note interne, compte rendu, procès-verbal et rapport.",
@@ -3227,10 +3227,10 @@
             "Relation objective de faits ou d'une réunion.",
             "Document interne structuré adressé à une équipe ou un service.",
             "Compte officiel des délibérations d'une assemblée.",
-            "Ligne qui résume le purpose d'un courriel ou d'une note."
+            "Ligne qui résume l'objet d'un courriel ou d'une note."
           ],
           "correct": 1,
-          "correction": "Réponse correcte : note de service — Document interne structuré adressé à une équipe ou un service.. Les autres propositions décrivent compte rendu : Relation objective de faits ou d'une réunion. ; procès-verbal : Compte officiel des délibérations d'une assemblée. ; objet : Ligne qui résume le purpose d'un courriel ou d'une note..",
+          "correction": "Réponse correcte : note de service — Document interne structuré adressé à une équipe ou un service.. Les autres propositions décrivent compte rendu : Relation objective de faits ou d'une réunion. ; procès-verbal : Compte officiel des délibérations d'une assemblée. ; objet : Ligne qui résume l'objet d'un courriel ou d'une note..",
           "contexte": "Notion du programme BUT GEA, chapitre étudié."
         },
         {
@@ -3243,20 +3243,20 @@
             "pièce jointe"
           ],
           "correct": 0,
-          "correction": "Réponse correcte : compte rendu — Relation objective de faits ou d'une réunion.. Les autres propositions décrivent procès-verbal : Compte officiel des délibérations d'une assemblée. ; objet : Ligne qui résume le purpose d'un courriel ou d'une note. ; pièce jointe : Document transmis avec un message et nommé clairement..",
+          "correction": "Réponse correcte : compte rendu — Relation objective de faits ou d'une réunion.. Les autres propositions décrivent procès-verbal : Compte officiel des délibérations d'une assemblée. ; objet : Ligne qui résume l'objet d'un courriel ou d'une note. ; pièce jointe : Document transmis avec un message et nommé clairement..",
           "contexte": "Notion du programme BUT GEA, chapitre étudié."
         },
         {
           "type": "qcm",
           "q": "Quelle affirmation décrit correctement « procès-verbal » ?",
           "options": [
-            "Ligne qui résume le purpose d'un courriel ou d'une note.",
+            "Ligne qui résume l'objet d'un courriel ou d'une note.",
             "Document transmis avec un message et nommé clairement.",
             "Niveau de style adapté au destinataire.",
             "Compte officiel des délibérations d'une assemblée."
           ],
           "correct": 3,
-          "correction": "Réponse correcte : procès-verbal — Compte officiel des délibérations d'une assemblée.. Les autres propositions décrivent objet : Ligne qui résume le purpose d'un courriel ou d'une note. ; pièce jointe : Document transmis avec un message et nommé clairement. ; registre de langue : Niveau de style adapté au destinataire..",
+          "correction": "Réponse correcte : procès-verbal — Compte officiel des délibérations d'une assemblée.. Les autres propositions décrivent objet : Ligne qui résume l'objet d'un courriel ou d'une note. ; pièce jointe : Document transmis avec un message et nommé clairement. ; registre de langue : Niveau de style adapté au destinataire..",
           "contexte": "Notion du programme BUT GEA, chapitre étudié."
         },
         {
@@ -3265,11 +3265,11 @@
           "options": [
             "Document transmis avec un message et nommé clairement.",
             "Niveau de style adapté au destinataire.",
-            "Ligne qui résume le purpose d'un courriel ou d'une note.",
+            "Ligne qui résume l'objet d'un courriel ou d'une note.",
             "Document interne structuré adressé à une équipe ou un service."
           ],
           "correct": 2,
-          "correction": "Réponse correcte : objet — Ligne qui résume le purpose d'un courriel ou d'une note.. Les autres propositions décrivent pièce jointe : Document transmis avec un message et nommé clairement. ; registre de langue : Niveau de style adapté au destinataire. ; note de service : Document interne structuré adressé à une équipe ou un service..",
+          "correction": "Réponse correcte : objet — Ligne qui résume l'objet d'un courriel ou d'une note.. Les autres propositions décrivent pièce jointe : Document transmis avec un message et nommé clairement. ; registre de langue : Niveau de style adapté au destinataire. ; note de service : Document interne structuré adressé à une équipe ou un service..",
           "contexte": "Notion du programme BUT GEA, chapitre étudié."
         },
         {
@@ -3371,7 +3371,7 @@
             "note de service : Document interne structuré adressé à une équipe ou un service.",
             "compte rendu : Relation objective de faits ou d'une réunion.",
             "procès-verbal : Compte officiel des délibérations d'une assemblée.",
-            "objet : Ligne qui résume le purpose d'un courriel ou d'une note."
+            "objet : Ligne qui résume l'objet d'un courriel ou d'une note."
           ]
         },
         {
@@ -3411,7 +3411,7 @@
       "schema": [
         {
           "titre": "1 · Repères : CO1.",
-          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Notions clés : Communication écrite professionnelle : note, courriel et compte rendu\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Notions clés : Communication écrite professionnelle : note, courriel et compte rendu</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Définition courte</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repère</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">note de service</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Document interne</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 1</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">compte rendu</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Relation objective de</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 2</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">procès-verbal</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Compte officiel des</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 3</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">objet</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Ligne qui résume le</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 4</text></svg>"
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"Notions clés : Communication écrite professionnelle : note, courriel et compte rendu\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Notions clés : Communication écrite professionnelle : note, courriel et compte rendu</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Définition courte</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repère</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">note de service</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Document interne</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 1</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">compte rendu</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Relation objective de</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 2</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">procès-verbal</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Compte officiel des</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 3</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">objet</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Ligne qui résume l'objet</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notion 4</text></svg>"
         },
         {
           "titre": "2 · Procédure : CO1.",
@@ -3431,7 +3431,7 @@
         "BUT1"
       ],
       "matiere": "Communication",
-      "titre": "Chapitre CO2. · Communication orale et animation de réunion",
+      "titre": "Chapitre GEA CO2. · Communication orale et animation de réunion",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R1.04 · communication et management d'équipe · notions : feed-back, bruit, ordre du jour",
       "points": [
         "La communication orale est immédiate et interactive : elle permet de reformuler, de questionner et de capter les réactions.",
@@ -3659,7 +3659,7 @@
         "BUT2"
       ],
       "matiere": "Communication",
-      "titre": "Chapitre CO3. · Négociation et relation client",
+      "titre": "Chapitre GEA CO3. · Négociation et relation client",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R2 · relation client et négociation commerciale · notions : négociation, position, intérêt",
       "points": [
         "La négociation est un échange entre deux ou plusieurs parties visant à parvenir à un accord sur des intérêts divergents ou complémentaires.",
@@ -3887,7 +3887,7 @@
         "BUT2"
       ],
       "matiere": "Communication",
-      "titre": "Chapitre CO4. · Communication interne et conduite du changement",
+      "titre": "Chapitre GEA CO4. · Communication interne et conduite du changement",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R2/R3 · management et GPRH · notions : communication interne, conduite du changement, résistance",
       "points": [
         "La communication interne diffuse l'information, crée du lien et construit une culture commune au sein de l'organisation.",
@@ -4115,7 +4115,7 @@
         "BUT3"
       ],
       "matiere": "Communication",
-      "titre": "Chapitre CO5. · Communication de crise et e-réputation",
+      "titre": "Chapitre GEA CO5. · Communication de crise et e-réputation",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R3 · communication et environnement numérique · notions : crise, cellule de crise, porte-parole",
       "points": [
         "Une crise est une situation soudaine et incertaine qui menace la continuité de l'activité ou la réputation de l'organisation.",
@@ -4343,7 +4343,7 @@
         "BUT3"
       ],
       "matiere": "Communication",
-      "titre": "Chapitre CO6. · Soutenance et présentation : convaincre un jury",
+      "titre": "Chapitre GEA CO6. · Soutenance et présentation : convaincre un jury",
       "source": "Référentiel BUT « Gestion des entreprises et des administrations », arrêté du 11 mars 2020 (BO n°12 du 19 mars 2020), programme national et ressources R1 à R6 · éduscol, iut.fr, onisep.fr · Ressource R3 · expression orale et évaluation des compétences · notions : soutenance, jury, fond",
       "points": [
         "La soutenance est un exercice de communication orale où le candidat présente un travail et répond aux questions d'un jury.",

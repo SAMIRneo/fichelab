@@ -10,7 +10,7 @@
 
 La licence d'économie et gestion est un diplôme national de **180 ECTS, six semestres**. Les référentiels DGESIP/RNCP de la mention Économie attendent la mobilisation des grands domaines : **microéconomie, macroéconomie, monnaie et finance, politique économique, histoire et pensée économiques, économie internationale**, complétés par les **méthodes quantitatives**, les **usages numériques** et l'**expression écrite et orale**. La mention Économie et gestion y ajoute comptabilité, finance, marketing, stratégie, GRH et systèmes d'information.
 
-Les matières FicheLab de la filière reprenent **exactement les intitulés du questionnaire** : `Économie`, `Statistiques`, `Droit`, `Informatique`, `Méthodologie universitaire`, `Français`, `Anglais`, `Psychologie`, `Maths / stats`.
+Les matières FicheLab de la filière reprennent **exactement les intitulés du questionnaire** : `Économie`, `Statistiques`, `Droit`, `Informatique`, `Méthodologie universitaire`, `Français`, `Anglais`, `Psychologie`, `Maths / stats`.
 
 **Règle d'or :** chaque information générée démarre « à vérifier » avec sa source officielle. Les fiches sont construites à partir du modèle `data/gen_generale_modele.py` et de la bibliothèque `data/fixtures.py`.
 
