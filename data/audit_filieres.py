@@ -141,6 +141,24 @@ def main():
     if not all(a.get("filieres") for a in reelles):
         problems.append("vrais examens sans filiere declaree")
     checks.append(("Vrais examens filtres", len(reelles), "bts-bio uniquement"))
+
+    # 8. non-regression BIOALC (audit de certification 24/11)
+    brut_bio = [f for f in fiches if "bts-bio" in f.get("filieres", [])
+                and not (f.get("affichage") and f.get("schema"))]
+    if brut_bio:
+        problems.append("BIOALC: %d fiches texte brut dans le catalogue" % len(brut_bio))
+    cg = [f for f in protos if f.get("titre", "").startswith("Contrôle PC ·")]
+    if len(cg) != 15:
+        problems.append("BIOALC: %d/15 fiches Contrôle PC" % len(cg))
+    if any("BTS1" not in f.get("annees", []) for f in cg):
+        problems.append("BIOALC: fiches Contrôle PC absentes pour BTS1")
+    ann_sans_source = [a for a in annales if "bts-bio" in a.get("filieres", [])
+                       and a.get("type") == "genere" and not a.get("source")]
+    if ann_sans_source:
+        problems.append("BIOALC: %d annales genere sans source" % len(ann_sans_source))
+    checks.append(("BIOALC fiches texte brut", len(brut_bio), "0"))
+    checks.append(("BIOALC Contrôle PC", len(cg), "15 visibles BTS1+BTS2"))
+    checks.append(("BIOALC annales sans source", len(ann_sans_source), "0"))
     for name in ["const KEY='mcos-fichelab:data'", "function fichesPour(p)", "function renderBlocs(f)"]:
         if name not in src:
             problems.append("marqueur code manquant : %s" % name)

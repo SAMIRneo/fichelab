@@ -1,0 +1,1844 @@
+{
+  "fiches": [
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Français",
+      "titre": "PF1. Synthèse de documents : méthode et restitution",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "La synthèse de documents consiste à produire un texte personnel, objectif et structuré à partir d'un dossier documentaire.",
+        "Elle ne recopie pas les documents : elle dégage les idées essentielles et les articule autour d'une problématique.",
+        "La première lecture identifie le thème, la nature des documents et la question posée.",
+        "La lecture analytique repère les idées principales, les arguments, les exemples et les désaccords éventuels entre les textes.",
+        "Un plan de synthèse organise les idées en deux ou trois axes ; il doit être équilibré et progressif.",
+        "La rédaction suit une introduction (amorce, problématique, annonce du plan), des parties et une conclusion qui répond à la question.",
+        "Le style est impersonnel : on évite le « je », les jugements de valeur et les paraphrases longues.",
+        "Les connecteurs logiques (d'abord, toutefois, ainsi) rendent visible l'architecture du raisonnement.",
+        "Chaque affirmation importante est attribuée : « selon le document 2 », « l'auteur souligne que ».",
+        "La longueur et la durée sont fixées par le sujet : il faut respecter la consigne et gérer son temps.",
+        "Une relecture finale vérifie la ponctuation, l'orthographe, les accords et l'absence de contre-sens.",
+        "Cet exercice est au cœur de l'épreuve E1 de culture générale et expression du BTS GPME."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est le but d'une synthèse de documents ?",
+          "options": [
+            "Recopier les textes",
+            "Produire un texte personnel à partir des documents",
+            "Donner son avis",
+            "Résumer un seul document"
+          ],
+          "correct": 1,
+          "correction": "La synthèse combine les informations du dossier en un texte neuf et objective."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'appelle-t-on problématique ?",
+          "options": [
+            "Une citation",
+            "La question centrale à laquelle répond la synthèse",
+            "Une conclusion",
+            "Une liste de sources"
+          ],
+          "correct": 1,
+          "correction": "La problématique oriente le plan et la réponse."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel plan est généralement attendu ?",
+          "options": [
+            "Un plan en deux ou trois axes équilibrés",
+            "Une suite de citations",
+            "Un plan chronologique imposé",
+            "Une seule grande partie"
+          ],
+          "correct": 0,
+          "correction": "Deux ou trois axes clairs permettent de structurer les idées sans les disperser."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel registre est attendu dans une synthèse ?",
+          "options": [
+            "Familier",
+            "Impersonnel et objectif",
+            "Ironique",
+            "Publicitaire"
+          ],
+          "correct": 1,
+          "correction": "Le « je » et les jugements de valeur sont évités."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment introduire une idée empruntée à un document ?",
+          "options": [
+            "Sans mention",
+            "En citant la source ou l'auteur",
+            "En la transformant complètement",
+            "En la mettant entre guillemets sans source"
+          ],
+          "correct": 1,
+          "correction": "L'attribution garantit la traçabilité et la fidélité au dossier."
+        },
+        {
+          "type": "qcm",
+          "q": "À quoi servent les connecteurs logiques ?",
+          "options": [
+            "À allonger le texte",
+            "À rendre visible la structure du raisonnement",
+            "À éviter la ponctuation",
+            "À remplacer les titres"
+          ],
+          "correct": 1,
+          "correction": "Ils signalent l'opposition, la cause, la conséquence ou l'illustration."
+        },
+        {
+          "type": "qcm",
+          "q": "Que vérifie la relecture finale ?",
+          "options": [
+            "Le nombre de pages seulement",
+            "Orthographe, ponctuation et cohérence",
+            "La couleur du dossier",
+            "Le prix du document"
+          ],
+          "correct": 1,
+          "correction": "La forme contribue à la qualité et à la lisibilité de la copie."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel réflexe adopter face à deux documents contradictoires ?",
+          "options": [
+            "Ignorer le second",
+            "Présenter les deux positions et les articuler",
+            "Choisir arbitrairement",
+            "Les recopier tous les deux"
+          ],
+          "correct": 1,
+          "correction": "Les tensions entre sources sont des éléments intéressants de la problématique."
+        },
+        {
+          "type": "texte",
+          "q": "Décrire la méthode en quatre étapes pour réussir une synthèse de documents.",
+          "reponse": "On lit d'abord la commande et les documents pour dégager le thème et la problématique ; on relève ensuite les idées essentielles et les exemples en les attribuant ; on construit un plan en deux ou trois axes progressifs ; on rédige en style impersonnel avec des connecteurs, puis on relit pour vérifier fidélité et forme.",
+          "correction": "On suit la séquence lecture, repérage, planification, rédaction et relecture."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi une synthèse ne doit-elle pas être une simple juxtaposition de résumés ?",
+          "reponse": "Parce que le dossier pose une question : les idées doivent être sélectionnées, hiérarchisées et articulées pour y répondre. Une juxtaposition de résumés reste au niveau des documents et ne produit pas de réponse personnelle et structurée, ce que le jury attend.",
+          "correction": "On oppose la restitution mécanique à la construction d'une réponse argumentée."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "La synthèse de documents consiste à produire un texte personnel, objectif et structuré à partir d'un dossier documentaire."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "Synthèse = lecture du dossier + problématique + plan + rédaction objective.",
+          "leg": "Idées essentielles + connecteurs + attribution des sources = synthèse réussie."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Étape",
+              "Action",
+              "Résultat"
+            ],
+            [
+              "Lire",
+              "Dégager le thème",
+              "Problématique"
+            ],
+            [
+              "Repérer",
+              "Idées et exemples",
+              "Notes"
+            ],
+            [
+              "Rédiger",
+              "Axes et connecteurs",
+              "Texte"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            "La lecture analytique repère les idées principales, les arguments, les exemples et les désaccords éventuels entre les textes.",
+            "Un plan de synthèse organise les idées en deux ou trois axes ; il doit être équilibré et progressif.",
+            "La rédaction suit une introduction (amorce, problématique, annonce du plan), des parties et une conclusion qui répond à la question.",
+            "Le style est impersonnel : on évite le « je », les jugements de valeur et les paraphrases longues.",
+            "Les connecteurs logiques (d'abord, toutefois, ainsi) rendent visible l'architecture du raisonnement."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Lire la consigne et identifier la question",
+            "Parcourir rapidement tous les documents",
+            "Relever les idées et les désaccords",
+            "Construire un plan équilibré",
+            "Rédiger puis relire la copie"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Recopier des phrases entières",
+            "Introduire son opinion personnelle",
+            "Oublier la consigne de longueur",
+            "Négliger la relecture"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "Dossier : 3 documents, 1 question",
+            "Plan : 2 axes, 3 sous-parties chacun",
+            "Connecteurs : d'abord, ensuite, toutefois, ainsi",
+            "Attribution : « selon le document 2 »"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · PF1 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"PF1 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">PF1 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Étape</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Action</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Résultat</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Lire</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Dégager le thème</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Problématique</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Repérer</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Idées et exemples</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notes</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rédiger</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Axes et connecteurs</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Texte</text></svg>"
+        },
+        {
+          "titre": "2 · PF1 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : PF1 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">PF1 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Lire la consigne et identifier la question</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Parcourir rapidement tous les documents</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Relever les idées et les désaccords</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Construire un plan équilibré</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rédiger puis relire la copie</text></svg>"
+        },
+        {
+          "titre": "3 · PF1 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : PF1 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">PF1 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Synthèse</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Texte personnel</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Objectivité</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Problématique</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Résumé</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Reprise d'un texte</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Paraphrase</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Pas de plan d'ensemble</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Français",
+      "titre": "PF2. Analyse de situation et argumentation écrite",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "L'analyse de situation consiste à décrire un contexte professionnel, à identifier un problème et à proposer une réponse argumentée.",
+        "La première étape est la lecture attentive du dossier : acteurs, faits, contraintes et enjeux.",
+        "On distingue les faits observables des interprétations : le jury attend une analyse, pas une affirmation sans preuve.",
+        "Une bonne problématique transforme le thème en question précise et circonscrite.",
+        "La thèse est la réponse apportée à la problématique ; elle doit être claire et défendue tout au long du texte.",
+        "Les arguments s'organisent en axes : chaque axe avance une raison étayée par un exemple ou une donnée du dossier.",
+        "La méthode ARE (Affirmation, Réalisation, Explication) structure un paragraphe argumentatif.",
+        "Les exemples tirés du dossier ou de l'expérience professionnelle rendent l'argument concret.",
+        "Les objections peuvent être anticipées et réfutées : cela renforce la crédibilité de la démonstration.",
+        "La conclusion apporte une réponse synthétique et peut ouvrir sur une action concrète pour la PME.",
+        "La clarté de la langue et la correction orthographique sont évaluées au même titre que le contenu.",
+        "Cette compétence est transférable aux notes et comptes rendus adressés à la direction."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que faut-il distinguer en premier dans une analyse de situation ?",
+          "options": [
+            "Les faits et les interprétations",
+            "Les prix et la TVA",
+            "Les clients et les fournisseurs",
+            "Le début et la fin du dossier"
+          ],
+          "correct": 0,
+          "correction": "Une analyse repose sur des faits identifiés avant toute interprétation."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le rôle de la problématique ?",
+          "options": [
+            "Décorer la copie",
+            "Transformer le thème en question précise",
+            "Remplacer la conclusion",
+            "Citer un auteur"
+          ],
+          "correct": 1,
+          "correction": "Elle cadre la réponse et guide le plan."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne la thèse ?",
+          "options": [
+            "Un document du dossier",
+            "La réponse défendue à la problématique",
+            "Un titre de paragraphe",
+            "Une donnée chiffrée"
+          ],
+          "correct": 1,
+          "correction": "La thèse est l'idée directrice que l'on s'engage à démontrer."
+        },
+        {
+          "type": "qcm",
+          "q": "Que signifie la méthode ARE ?",
+          "options": [
+            "Affirmation, Réalisation, Explication",
+            "Analyse, Réponse, Exemple",
+            "Argument, Réfutation, Essai",
+            "Amorce, Raison, Exemple"
+          ],
+          "correct": 0,
+          "correction": "Elle structure le paragraphe : on énonce, on illustre, on explique."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi anticiper une objection ?",
+          "options": [
+            "Pour allonger le texte",
+            "Pour renforcer la crédibilité de l'argumentation",
+            "Pour éviter la conclusion",
+            "Pour citer plus de documents"
+          ],
+          "correct": 1,
+          "correction": "Réfuter une objection montre que la réponse a été éprouvée."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est un bon support d'argument ?",
+          "options": [
+            "Une donnée du dossier",
+            "Une rumeur",
+            "Une opinion sans preuve",
+            "Une affirmation générale"
+          ],
+          "correct": 0,
+          "correction": "Les éléments du dossier constituent des preuves recevables."
+        },
+        {
+          "type": "qcm",
+          "q": "Que doit faire la conclusion ?",
+          "options": [
+            "Répondre synthétiquement et ouvrir sur une action",
+            "Reprendre l'introduction mot pour mot",
+            "Poser une nouvelle question sans réponse",
+            "Supprimer les exemples"
+          ],
+          "correct": 0,
+          "correction": "Elle clôt la démonstration et peut proposer une piste opérationnelle."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel aspect est évalué en plus du contenu ?",
+          "options": [
+            "La correction de la langue",
+            "La longueur maximale",
+            "Le nombre de citations",
+            "La couleur de la copie"
+          ],
+          "correct": 0,
+          "correction": "Orthographe, syntaxe et clarté sont des critères importants."
+        },
+        {
+          "type": "texte",
+          "q": "Analyser une situation : décrire la démarche complète du dossier à la conclusion.",
+          "reponse": "On lit le dossier et relève acteurs, faits et contraintes ; on formule une problématique précise ; on choisit une thèse ; on construit deux ou trois axes d'arguments appuyés sur des exemples ; on réfute une objection si elle est pertinente ; on conclut en répondant à la question et en proposant une action réalisable dans la PME.",
+          "correction": "On décrit une progression en six temps en liant analyse, argumentation et décision."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi une affirmation sans exemple est-elle faible dans une argumentation ?",
+          "reponse": "Parce qu'elle reste une opinion : sans fait, donnée ou exemple tiré du dossier, le lecteur ne peut pas vérifier ni adhérer. L'exemple transforme l'affirmation en démonstration et montre que l'auteur a mobilisé les pièces du dossier, ce qui est précisément attendu dans l'épreuve de culture générale.",
+          "correction": "On relie la preuve à la crédibilité et à l'exploitation du dossier."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "L'analyse de situation consiste à décrire un contexte professionnel, à identifier un problème et à proposer une réponse argumentée."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "Analyse = faits + problématique + thèse + arguments + conclusion actionnable.",
+          "leg": "Paragraphe ARE = Affirmation, Réalisation (exemple), Explication."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Étape",
+              "Objectif",
+              "Outil"
+            ],
+            [
+              "Lire",
+              "Comprendre",
+              "Relevé"
+            ],
+            [
+              "Problématiser",
+              "Questionner",
+              "Question"
+            ],
+            [
+              "Conclure",
+              "Répondre",
+              "Action"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            "Une bonne problématique transforme le thème en question précise et circonscrite.",
+            "La thèse est la réponse apportée à la problématique ; elle doit être claire et défendue tout au long du texte.",
+            "Les arguments s'organisent en axes : chaque axe avance une raison étayée par un exemple ou une donnée du dossier.",
+            "La méthode ARE (Affirmation, Réalisation, Explication) structure un paragraphe argumentatif.",
+            "Les exemples tirés du dossier ou de l'expérience professionnelle rendent l'argument concret."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Lire le dossier et dégager les faits",
+            "Formuler la problématique",
+            "Choisir une thèse claire",
+            "Construire des axes avec exemples",
+            "Conclure et proposer une action"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Confondre fait et interprétation",
+            "Poser une problématique trop large",
+            "Avancer une thèse sans la défendre",
+            "Oublier de conclure"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "Problématique : comment réduire les impayés sans détériorer la relation client ?",
+            "Thèse : la relance préventive est plus efficace que la relance tardive",
+            "Exemple : acompte de 30 % et relance à J+2",
+            "Conclusion : généraliser la procédure à tous les clients"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · PF2 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"PF2 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">PF2 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Étape</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Objectif</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Outil</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Lire</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Comprendre</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Relevé</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Problématiser</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Questionner</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Question</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Conclure</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Répondre</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Action</text></svg>"
+        },
+        {
+          "titre": "2 · PF2 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : PF2 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">PF2 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Lire le dossier et dégager les faits</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Formuler la problématique</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choisir une thèse claire</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Construire des axes avec exemples</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Conclure et proposer une action</text></svg>"
+        },
+        {
+          "titre": "3 · PF2 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : PF2 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">PF2 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Fait</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Observable</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Vérifiable</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Donné par le dossier</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Interprétation</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Analyse</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Dépend du raisonnement</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">À justifier</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Français",
+      "titre": "PF3. Écrits professionnels : note, compte rendu, courrier",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "Dans une PME, la qualité des écrits professionnels conditionne la circulation de l'information et la crédibilité du service.",
+        "Un écrit professionnel répond à une finalité précise : informer, demander, décider, rendre compte ou convaincre.",
+        "La note de service ou note interne est courte, datée, adressée à un destinataire identifié et organisée en parties.",
+        "Le compte rendu restitue fidèlement une réunion : date, participants, ordre du jour, décisions, actions, responsables et délais.",
+        "Un courrier professionnel respecte un formalisme : expéditeur, destinataire, objet, corps, formule de politesse et signature.",
+        "L'objet doit être précis : il permet au destinataire de classer et de prioriser le message.",
+        "La structure pyramidale place l'information essentielle au début : conclusion ou demande avant les détails.",
+        "Les phrases courtes, les listes et les titres améliorent la lisibilité d'un document de gestion.",
+        "La syntaxe et l'orthographe sont particulièrement surveillées dans les écrits adressés à la direction ou aux partenaires.",
+        "Le registre s'adapte au destinataire : plus formel pour un client, plus direct pour une note interne.",
+        "Les écrits sont des pièces de traçabilité : ils doivent être datés, archivés et accessibles aux personnes habilitées.",
+        "Le référentiel GPME attend des documents écrits de qualité professionnelle dans le respect des règles et des valeurs de l'entreprise."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est le premier réflexe avant d'écrire une note ?",
+          "options": [
+            "Choisir une police",
+            "Définir la finalité et le destinataire",
+            "Écrire longuement",
+            "Ajouter des images"
+          ],
+          "correct": 1,
+          "correction": "Finalité et destinataire déterminent le contenu et le ton."
+        },
+        {
+          "type": "qcm",
+          "q": "Que doit contenir un compte rendu de réunion ?",
+          "options": [
+            "Décisions, actions, responsables, délais",
+            "Les seules opinions",
+            "La TVA",
+            "Le bilan complet"
+          ],
+          "correct": 0,
+          "correction": "Le compte rendu trace ce qui a été décidé et qui fait quoi, quand."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la fonction de l'objet dans un courrier ?",
+          "options": [
+            "Décorer",
+            "Identifier le sujet et permettre le classement",
+            "Remplacer la signature",
+            "Indiquer le prix"
+          ],
+          "correct": 1,
+          "correction": "L'objet doit être précis et court."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce que la structure pyramidale ?",
+          "options": [
+            "Placer l'information essentielle au début",
+            "Écrire en pyramidale",
+            "Mettre la conclusion à la fin uniquement",
+            "Utiliser trois paragraphs"
+          ],
+          "correct": 0,
+          "correction": "Elle permet une lecture rapide et efficace, surtout en contexte professionnel."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel registre adopter pour un courrier client ?",
+          "options": [
+            "Familier",
+            "Formel et courtois",
+            "Ironique",
+            "Très abbrege"
+          ],
+          "correct": 1,
+          "correction": "Le ton s'adapte au destinataire et à l'enjeu de la relation."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi dater et archiver un écrit professionnel ?",
+          "options": [
+            "Pour la traçabilité",
+            "Pour augmenter la TVA",
+            "Pour le rendre plus long",
+            "Pour éviter la relecture"
+          ],
+          "correct": 0,
+          "correction": "La date et l'archivage rendent l'information opposable et retrouvable."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est un défaut majeur d'une note interne ?",
+          "options": [
+            "Une information essentielle noyée dans les détails",
+            "Un objet précis",
+            "Des actions identifiées",
+            "Une signature"
+          ],
+          "correct": 0,
+          "correction": "L'essentiel doit apparaître immédiatement."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel document rend compte d'une réunion ?",
+          "options": [
+            "Un devis",
+            "Un compte rendu",
+            "Une facture",
+            "Un bulletin de salaire"
+          ],
+          "correct": 1,
+          "correction": "Le compte rendu est le support de restitution et de suivi des décisions."
+        },
+        {
+          "type": "texte",
+          "q": "Rédiger le plan d'une note interne demandant une procédure de relance des impayés.",
+          "reponse": "Objet : mise en place d'une procédure de relance des factures échues. Destinataire : direction. Première partie : constat (délai moyen, montant des impayés). Deuxième partie : proposition (relance à J+2, appel à J+10, responsabilités). Troisième partie : coût et calendrier de mise en oeuvre. Conclusion : demande de décision avec date butoir.",
+          "correction": "On organise la note autour du constat, de la proposition et de la demande de décision."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer les différences entre note interne, compte rendu et courrier client.",
+          "reponse": "La note interne est un outil de pilotage adressé à un collègue ou à la direction ; le compte rendu restitue collectivement une réunion et ses actions ; le courrier client est un écrit externe plus formel, orienté relation et image. Ils diffèrent par le destinataire, le ton, le niveau de formalisme et la finalité.",
+          "correction": "On compare destinataire, finalité, ton et contenu des trois types d'écrits."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Dans une PME, la qualité des écrits professionnels conditionne la circulation de l'information et la crédibilité du service."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "Écrit professionnel = finalité + destinataire + structure pyramidale + traçabilité.",
+          "leg": "Compte rendu = décisions + actions + responsables + délais."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              " écrit",
+              "Destinataire",
+              "Finalité"
+            ],
+            [
+              "Note",
+              "Interne",
+              "Décider"
+            ],
+            [
+              "Compte rendu",
+              "Équipe",
+              "Tracer"
+            ],
+            [
+              "Courrier",
+              "Externe",
+              "Relation"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            "Le compte rendu restitue fidèlement une réunion : date, participants, ordre du jour, décisions, actions, responsables et délais.",
+            "Un courrier professionnel respecte un formalisme : expéditeur, destinataire, objet, corps, formule de politesse et signature.",
+            "L'objet doit être précis : il permet au destinataire de classer et de prioriser le message.",
+            "La structure pyramidale place l'information essentielle au début : conclusion ou demande avant les détails.",
+            "Les phrases courtes, les listes et les titres améliorent la lisibilité d'un document de gestion."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Définir finalité et destinataire",
+            "Rassembler les faits et les données",
+            "Construire un plan clair et court",
+            "Rédiger avec un registre adapté",
+            "Relire, dater et archiver"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Noyer l'essentiel au milieu du texte",
+            "Oublier l'objet du courrier",
+            "Rédiger un compte rendu sans responsables",
+            "Négliger la relecture"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "Objet : relance des factures échues",
+            "Constat : délai moyen 68 jours",
+            "Action : relance à J+2 et appel à J+10",
+            "Formule de politesse adaptée au client"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · PF3 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"PF3 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">PF3 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">écrit</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Destinataire</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Finalité</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Note</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Interne</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Décider</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Compte rendu</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Équipe</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Tracer</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Courrier</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Externe</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Relation</text></svg>"
+        },
+        {
+          "titre": "2 · PF3 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : PF3 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">PF3 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir finalité et destinataire</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rassembler les faits et les données</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Construire un plan clair et court</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rédiger avec un registre adapté</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Relire, dater et archiver</text></svg>"
+        },
+        {
+          "titre": "3 · PF3 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : PF3 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">PF3 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Écrit interne</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Note</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Compte rendu</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Pilotage</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Écrit externe</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Courrier</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Client</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Image de la PME</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Français",
+      "titre": "PF4. Culture générale et essai argumenté",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "L'essai de culture générale demande une réflexion structurée sur un thème de société, en lien avec le programme et le dossier éventuel.",
+        "Le thème est volontairement large : il faut le circonscrire par une problématique claire.",
+        "La définition des termes du sujet est une étape indispensable pour éviter le hors-sujet.",
+        "Le plan peut être dialectique (thèse, antithèse, synthèse) ou thématique (axes progressifs).",
+        "Une culture générale solide mobilise des références : auteurs, concepts, événements, chiffres et exemples contemporains.",
+        "Les références doivent être intégrées et expliquées, pas simplement citées pour faire savant.",
+        "L'argumentation alterne idées générales et exemples précis, issus du programme ou de l'actualité.",
+        "L'ouverture finale élargit la réponse sans introduire une nouvelle problématique non traitée.",
+        "La langue doit être correcte, claire et adaptée au registre de l'examen.",
+        "La gestion du temps est déterminante : plan rapide, rédaction, relecture.",
+        "Le BTS GPME évalue cette capacité dans l'épreuve E1, en lien avec les attendus de l'épreuve de synthèse.",
+        "Un essai réussi se juge à la pertinence de la problématique, à la progression du plan et à la qualité des exemples."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la première étape d'un essai sur un thème large ?",
+          "options": [
+            "Écrire la conclusion",
+            "Définir les termes et circonscrire le sujet",
+            "Citer un auteur au hasard",
+            "Choisir une longueur"
+          ],
+          "correct": 1,
+          "correction": "Sans définition et délimitation, le risque de hors-sujet est élevé."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce qu'un plan dialectique ?",
+          "options": [
+            "Thèse, antithèse, synthèse",
+            "Trois exemples",
+            "Introduction, corps, conclusion",
+            "Question, réponse, ouverture"
+          ],
+          "correct": 0,
+          "correction": "Le plan dialectique confronte deux positions avant de proposer une synthèse."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment intégrer une référence culturelle ?",
+          "options": [
+            "La citer sans explication",
+            "L'expliquer et la relier à l'argument",
+            "La mettre en note de bas de page",
+            "L'éviter"
+          ],
+          "correct": 1,
+          "correction": "Une référence ne vaut que si elle est comprise et mise au service du raisonnement."
+        },
+        {
+          "type": "qcm",
+          "q": "Que doit apporter un exemple précis ?",
+          "options": [
+            "Une illustration concrète de l'idée",
+            "Une page supplémentaire",
+            "Une citation de plus",
+            "Une nouvelle problématique"
+          ],
+          "correct": 0,
+          "correction": "L'exemple rend l'argument tangible et vérifiable."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le rôle de l'ouverture ?",
+          "options": [
+            "Élargir la réponse sans déplacer le sujet",
+            "Introduire un nouveau plan",
+            "Remplacer la conclusion",
+            "Supprimer les exemples"
+          ],
+          "correct": 0,
+          "correction": "Elle prolonge la réflexion sans rouvrir le débat principal."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel critère est déterminant pour le jury ?",
+          "options": [
+            "La pertinence de la problématique et du plan",
+            "Le nombre de pages",
+            "La calligraphie",
+            "Le nombre de citations"
+          ],
+          "correct": 0,
+          "correction": "La structure de la pensée prime sur le volume."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel registre est attendu dans un essai d'examen ?",
+          "options": [
+            "Familier",
+            "Clair et soutenu",
+            "Publicitaire",
+            "Ironique"
+          ],
+          "correct": 1,
+          "correction": "Un registre soutenu mais lisible convient à l'exercice."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi gérer son temps ?",
+          "options": [
+            "Pour pouvoir relire et corriger",
+            "Pour écrire moins",
+            "Pour sauter l'introduction",
+            "Pour éviter la conclusion"
+          ],
+          "correct": 0,
+          "correction": "Une copie relue est nettement plus performante."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer comment passer d'un thème général à une problématique d'essai.",
+          "reponse": "On définit d'abord les termes du sujet, on repère les tensions ou les questions qu'il soulève, puis on choisit un angle précis et formulable en une question. Cette question devient la problématique, à laquelle le plan et les arguments répondent. Un thème comme « le travail » peut ainsi devenir : « comment le numérique transforme-t-il la valeur du travail ? ».",
+          "correction": "On décrit le chemin définition, tension, question, plan."
+        },
+        {
+          "type": "texte",
+          "q": "Un étudiant rédige une copie avec beaucoup de citations mais aucune progression d'idées. Que lui conseiller ?",
+          "reponse": "Il doit d'abord construire un plan avec deux ou trois axes progressifs, puis intégrer les citations comme des appuis à ses arguments et non comme une fin. Chaque paragraphe doit avancer une idée, être illustré par un exemple et être expliqué. Une relecture finale vérifiera la cohérence de la démonstration.",
+          "correction": "On privilégie la structure et l'exploitation des références au détriment de l'accumulation."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "L'essai de culture générale demande une réflexion structurée sur un thème de société, en lien avec le programme et le dossier éventuel."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "Essai = définition + problématique + plan progressif + exemples + ouverture.",
+          "leg": "Plan dialectique = thèse / antithèse / synthèse."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Étape",
+              "Action",
+              "Risque"
+            ],
+            [
+              "Définir",
+              "Cadrer les termes",
+              "Hors-sujet"
+            ],
+            [
+              "Problématiser",
+              "Poser la question",
+              "Sujet trop large"
+            ],
+            [
+              "Argumenter",
+              "Idées + exemples",
+              "Citations vides"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            "Le plan peut être dialectique (thèse, antithèse, synthèse) ou thématique (axes progressifs).",
+            "Une culture générale solide mobilise des références : auteurs, concepts, événements, chiffres et exemples contemporains.",
+            "Les références doivent être intégrées et expliquées, pas simplement citées pour faire savant.",
+            "L'argumentation alterne idées générales et exemples précis, issus du programme ou de l'actualité.",
+            "L'ouverture finale élargit la réponse sans introduire une nouvelle problématique non traitée."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Lire le sujet et définir les termes",
+            "Dégager une tension et formuler la question",
+            "Construire un plan progressif",
+            "Rédiger des paragraphes argumentés",
+            "Conclure, ouvrir et relire"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Réciter un cours sans répondre au sujet",
+            "Accumuler les citations",
+            "Oublier de définir les termes",
+            "Introduire une nouvelle question en conclusion"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "Thème : le travail → question : valeur ou sens ?",
+            "Plan dialectique en trois parties",
+            "Référence expliquée et reliée à l'argument",
+            "Ouverture sur les mutations du marché du travail"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · PF4 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"PF4 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">PF4 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Étape</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Action</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Risque</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Cadrer les termes</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Hors-sujet</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Problématiser</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Poser la question</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sujet trop large</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Argumenter</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Idées + exemples</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Citations vides</text></svg>"
+        },
+        {
+          "titre": "2 · PF4 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : PF4 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">PF4 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Lire le sujet et définir les termes</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Dégager une tension et formuler la question</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Construire un plan progressif</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rédiger des paragraphes argumentés</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Conclure, ouvrir et relire</text></svg>"
+        },
+        {
+          "titre": "3 · PF4 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : PF4 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">PF4 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Plan dialectique</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Thèse</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Antithèse</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Synthèse</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Plan thématique</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Axes progressifs</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Exemples</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Cohérence</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Anglais professionnel",
+      "titre": "AN1. Compréhension de documents professionnels en anglais",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "La compétence d'anglais professionnel vise à comprendre et produire des documents liés à la vie de l'entreprise.",
+        "Les documents courants sont les e-mails, les devis, les bons de commande, les factures, les contrats et les avis clients.",
+        "Une lecture efficace commence par une lecture rapide (skimming) pour identifier le thème et l'objet du document.",
+        "La lecture détaillée (scanning) repère les informations précises : dates, montants, noms, conditions et délais.",
+        "Le vocabulaire clé de la gestion comprend : order, invoice, delivery, payment, discount, supplier, customer, stock.",
+        "Les faux amis sont fréquents : « actually » signifie « vraiment » et non « actuellement » ; « to assist » signifie « aider ».",
+        "Les temps du contrat et de la commande utilisent souvent le présent simple et le futur : « we confirm the order », « delivery will take place ».",
+        "Les modalités expriment l'obligation ou la possibilité : « must », « have to », « can », « may ».",
+        "La voix passive est fréquente dans les documents professionnels : « the invoice was sent on Monday ».",
+        "Les abréviations usuelles sont : ASAP (dès que possible), ETA (date d'arrivée estimée), TBC (à confirmer), cc (copie).",
+        "Il faut distinguer les informations explicites des inférences : la compréhension repose sur le texte, pas sur une supposition.",
+        "L'épreuve E2 du BTS GPME évalue la compréhension de l'écrit et de l'oral dans des situations professionnelles."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que signifie le verbe « to skim » dans une méthode de lecture ?",
+          "options": [
+            "Lire en détail",
+            "Lire rapidement pour l'essentiel",
+            "Traduire mot à mot",
+            "Écrire un résumé"
+          ],
+          "correct": 1,
+          "correction": "Le skimming donne une vue d'ensemble ; le scanning cherche une information précise."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le sens de « actually » ?",
+          "options": [
+            "Actuellement",
+            "Vraiment, en fait",
+            "Jamais",
+            "Rapidement"
+          ],
+          "correct": 1,
+          "correction": "« Actually » est un faux ami : il signifie « en réalité, vraiment »."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne « invoice » ?",
+          "options": [
+            "Une commande",
+            "Une facture",
+            "Un contrat",
+            "Un devis"
+          ],
+          "correct": 1,
+          "correction": "Invoice = facture ; order = commande ; quotation ou estimate = devis."
+        },
+        {
+          "type": "qcm",
+          "q": "« The invoice was sent » est une phrase :",
+          "options": [
+            "Active",
+            "Passive",
+            "Interrogative",
+            "Négative"
+          ],
+          "correct": 1,
+          "correction": "La structure be + participe passé exprime le passif."
+        },
+        {
+          "type": "qcm",
+          "q": "Que signifie l'abréviation « ETA » ?",
+          "options": [
+            "Date d'expédition estimée",
+            "Heure ou date d'arrivée estimée",
+            "Montant total dû",
+            "Numéro de commande"
+          ],
+          "correct": 1,
+          "correction": "ETA = estimated time of arrival."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel mot signifie « fournisseur » ?",
+          "options": [
+            "Customer",
+            "Supplier",
+            "Employee",
+            "Manager"
+          ],
+          "correct": 1,
+          "correction": "Supplier = fournisseur ; customer = client ; employee = salarié."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel modal exprime une obligation ?",
+          "options": [
+            "May",
+            "Must",
+            "Might",
+            "Could"
+          ],
+          "correct": 1,
+          "correction": "Must et have to expriment l'obligation ; may exprime une possibilité ou une autorisation."
+        },
+        {
+          "type": "qcm",
+          "q": "Que faut-il faire face à une information non explicite ?",
+          "options": [
+            "L'inventer",
+            "L'inférer prudemment à partir du texte",
+            "L'ignorer",
+            "La traduire littéralement"
+          ],
+          "correct": 1,
+          "correction": "Une inférence doit rester appuyée sur des éléments du document."
+        },
+        {
+          "type": "texte",
+          "q": "Décrire la méthode à suivre pour comprendre un e-mail professionnel en anglais.",
+          "reponse": "On lit d'abord l'objet et l'expéditeur pour identifier le contexte, on parcourt le texte pour dégager le thème, on repère ensuite les informations clés (dates, montants, actions demandées), on identifie le vocabulaire technique et les modaux, puis on reformule le message en français en distinguant faits et demandes.",
+          "correction": "On combine skimming, scanning, vocabulaire spécialisé et reformulation fidèle."
+        },
+        {
+          "type": "texte",
+          "q": "Un e-mail indique : « The goods will be delivered on Friday, please check the invoice attached. » Traduire et dégager les deux actions à prévoir.",
+          "reponse": "Traduction : « Les marchandises seront livrées vendredi, veuillez vérifier la facture ci-jointe. » Actions : préparer la réception de la commande vendredi et vérifier la facture jointe (montant, TVA, référence).",
+          "correction": "On traduit fidèlement le futur et l'impératif de politesse, puis on transforme l'information en tâches concrètes."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "La compétence d'anglais professionnel vise à comprendre et produire des documents liés à la vie de l'entreprise."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "Compréhension = skimming + scanning + vocabulaire métier + inférence prudente.",
+          "leg": "Invoice = facture ; supplier = fournisseur ; must = obligation ; ETA = arrivée estimée."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Terme",
+              "Sens",
+              "Usage"
+            ],
+            [
+              "Invoice",
+              "Facture",
+              "Paiement"
+            ],
+            [
+              "Order",
+              "Commande",
+              "Vente"
+            ],
+            [
+              "Supplier",
+              "Fournisseur",
+              "Achat"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            "La lecture détaillée (scanning) repère les informations précises : dates, montants, noms, conditions et délais.",
+            "Le vocabulaire clé de la gestion comprend : order, invoice, delivery, payment, discount, supplier, customer, stock.",
+            "Les faux amis sont fréquents : « actually » signifie « vraiment » et non « actuellement » ; « to assist » signifie « aider ».",
+            "Les temps du contrat et de la commande utilisent souvent le présent simple et le futur : « we confirm the order », « delivery will take place ».",
+            "Les modalités expriment l'obligation ou la possibilité : « must », « have to », « can », « may »."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Lire l'objet et l'expéditeur",
+            "Parcourir le document pour le thème",
+            "Repérer dates, montants et actions",
+            "Identifier vocabulaire et modaux",
+            "Reformuler en français"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Traduire mot à mot",
+            "Confondre actually et actuellement",
+            "Inventer une information absente",
+            "Ignorer la voix passive"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "Invoice n° 2026-14 dated 3 March",
+            "Delivery on Friday",
+            "Payment within 30 days",
+            "Please find attached the quotation"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · AN1 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"AN1 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">AN1 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Terme</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sens</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Usage</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Invoice</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Facture</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Paiement</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Order</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Commande</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Vente</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Supplier</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Fournisseur</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Achat</text></svg>"
+        },
+        {
+          "titre": "2 · AN1 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : AN1 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">AN1 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Lire l'objet et l'expéditeur</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Parcourir le document pour le thème</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Repérer dates, montants et actions</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Identifier vocabulaire et modaux</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Reformuler en français</text></svg>"
+        },
+        {
+          "titre": "3 · AN1 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : AN1 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">AN1 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Skimming</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Vue d'ensemble</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Objet</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Idée principale</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Scanning</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Détail</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Date, montant</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Information précise</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Anglais professionnel",
+      "titre": "AN2. E-mail professionnel et lexique de la gestion",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "L'e-mail professionnel en anglais suit une structure codifiée qui reflète le niveau de formalisme et la relation avec le destinataire.",
+        "L'objet (subject line) doit être court et précis : « Order n°245 - delivery delay » plutôt que « Hello ».",
+        "La formule d'appel varie : « Dear Mr Smith » (formel), « Dear Anne » (standard), « Hi Tom » (informel).",
+        "Le corps se compose d'une ouverture (raison du message), d'un développement et d'une demande ou d'une conclusion.",
+        "Les formules utiles : « I am writing to... », « Could you please... », « We would like to... », « Thank you for... ».",
+        "La politesse britannique utilise volontiers des atténuations : « I would be grateful if... », « Would it be possible to... ».",
+        "Le registre doit rester professionnel même dans un échange rapide : éviter les abréviations de messagerie personnelle.",
+        "Les pièces jointes s'annoncent : « Please find attached the invoice / the quotation / the contract. »",
+        "La signature inclut le nom, la fonction, l'entreprise et les coordonnées ; elle peut être standardisée en bas de message.",
+        "Les mots de la gestion courante : payment terms, due date, discount, VAT, net price, gross price, remittance, overdue.",
+        "La relecture vérifie l'orthographe, les nombres, les dates et le destinataire avant l'envoi.",
+        "Une mauvaise traduction ou un ton inadapté peut nuire à la relation commerciale avec un partenaire anglophone."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel objet d'e-mail est le plus professionnel ?",
+          "options": [
+            "Hello",
+            "Urgent!!!",
+            "Order 245 - delivery delay",
+            "Yesterday"
+          ],
+          "correct": 2,
+          "correction": "L'objet précise le dossier et le motif, ce qui facilite le classement et la réponse."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle formule d'appel est formelle ?",
+          "options": [
+            "Hi Tom",
+            "Dear Mr Smith",
+            "Hello guys",
+            "Yo"
+          ],
+          "correct": 1,
+          "correction": "Dear + titre et nom de famille convient à un correspondant formel."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment annoncer une pièce jointe ?",
+          "options": [
+            "Look at this",
+            "Please find attached the invoice",
+            "Here it is",
+            "See file"
+          ],
+          "correct": 1,
+          "correction": "La formule standard est « Please find attached... »."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle expression atténue une demande ?",
+          "options": [
+            "Give me the file",
+            "Would it be possible to send the file?",
+            "Send it now",
+            "I need it"
+          ],
+          "correct": 1,
+          "correction": "Les formes interrogatives et conditionnelles sont plus polies."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le sens de « payment terms » ?",
+          "options": [
+            "Les conditions de paiement",
+            "Le montant de la TVA",
+            "La date de livraison",
+            "Le nom du fournisseur"
+          ],
+          "correct": 0,
+          "correction": "Payment terms désigne les conditions et délais de paiement."
+        },
+        {
+          "type": "qcm",
+          "q": "Que signifie « overdue » ?",
+          "options": [
+            "Payé d'avance",
+            "En retard (échéance dépassée)",
+            "Annulé",
+            "Confirmé"
+          ],
+          "correct": 1,
+          "correction": "An overdue invoice est une facture échue non payée."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle information ne doit pas être oubliée dans une signature ?",
+          "options": [
+            "La fonction et les coordonnées",
+            "Le prix du produit",
+            "La TVA",
+            "Le numéro de commande"
+          ],
+          "correct": 0,
+          "correction": "La signature professionnelle identifie l'expéditeur et permet de le recontacter."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel réflexe avant d'envoyer ?",
+          "options": [
+            "Relire destinataire, dates et montants",
+            "Ajouter des emojis",
+            "Supprimer l'objet",
+            "Écrire en majuscules"
+          ],
+          "correct": 0,
+          "correction": "La relecture évite les erreurs coûteuses dans un message contractuel."
+        },
+        {
+          "type": "texte",
+          "q": "Rédiger un e-mail court pour demander à un fournisseur anglais de confirmer une date de livraison.",
+          "reponse": "Objet : Order 245 - delivery date confirmation. Dear Mr Brown, I am writing to confirm the delivery date of order 245. Could you please let us know whether the goods will arrive before 15 June? We would be grateful for an early reply. Thank you for your help. Kind regards, [nom, fonction, entreprise].",
+          "correction": "On respecte objet, formule d'appel, raison du message, demande polie, remerciement et signature."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer l'importance du registre dans un e-mail professionnel anglais.",
+          "reponse": "Le registre signale le niveau de formalisme et le respect du interlocuteur. Une demande trop directe peut paraître impolie ; une formule trop familière peut nuire à la crédibilité. Les formes conditionnelles et les expressions de politesse adaptent le message au statut du destinataire tout en restant claires.",
+          "correction": "On relie registre, relation commerciale et efficacité du message."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "L'e-mail professionnel en anglais suit une structure codifiée qui reflète le niveau de formalisme et la relation avec le destinataire."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "E-mail = objet précis + appel adapté + demande polie + signature complète.",
+          "leg": "Please find attached... ; Could you please... ; payment terms ; overdue."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Partie",
+              "Formule",
+              "Rôle"
+            ],
+            [
+              "Objet",
+              "Order 245 - delay",
+              "Classer"
+            ],
+            [
+              "Appel",
+              "Dear Mr Smith",
+              "S'adresser"
+            ],
+            [
+              "Signature",
+              "Nom et fonction",
+              "Identifier"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            "Le corps se compose d'une ouverture (raison du message), d'un développement et d'une demande ou d'une conclusion.",
+            "Les formules utiles : « I am writing to... », « Could you please... », « We would like to... », « Thank you for... ».",
+            "La politesse britannique utilise volontiers des atténuations : « I would be grateful if... », « Would it be possible to... ».",
+            "Le registre doit rester professionnel même dans un échange rapide : éviter les abréviations de messagerie personnelle.",
+            "Les pièces jointes s'annoncent : « Please find attached the invoice / the quotation / the contract. »"
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Choisir l'objet précis",
+            "Choisir la formule d'appel selon le destinataire",
+            "Énoncer la raison du message",
+            "Formuler la demande avec politesse",
+            "Annoncer les pièces jointes et relire"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Objet vide ou vague",
+            "Confondre invoice et order",
+            "Oublier la pièce jointe annoncée",
+            "Envoyer sans relire le destinataire"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "Subject: Order 245 - delivery delay",
+            "Dear Ms Clark, I am writing to...",
+            "Please find attached the invoice.",
+            "Kind regards, Anne Dubois, Office Manager"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · AN2 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"AN2 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">AN2 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Partie</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Formule</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rôle</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Objet</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Order 245 - delay</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Classer</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Appel</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Dear Mr Smith</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">S'adresser</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Signature</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Nom et fonction</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Identifier</text></svg>"
+        },
+        {
+          "titre": "2 · AN2 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : AN2 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">AN2 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choisir l'objet précis</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choisir la formule d'appel selon le destinataire</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Énoncer la raison du message</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Formuler la demande avec politesse</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Annoncer les pièces jointes et relire</text></svg>"
+        },
+        {
+          "titre": "3 · AN2 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : AN2 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">AN2 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Registre formel</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Dear Mr/Ms</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Would you</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Kind regards</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Registre standard</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Hi</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Could you</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Best regards</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Anglais professionnel",
+      "titre": "AN3. Traiter une réclamation client en anglais",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "Traiter une réclamation en anglais exige de l'empathie, de la clarté et une proposition de réparation précise.",
+        "La première étape est l'accusé de réception : « Thank you for your message. We are sorry for the inconvenience. »",
+        "Il faut reformuler le problème pour montrer qu'il a été compris : « You mentioned that the delivery was late. »",
+        " Les excuses professionnelles restent mesurées : on reconnaît le désagrément sans admettre une responsabilité juridique non vérifiée.",
+        "La vérification des faits porte sur la commande, la facture, le bon de livraison et les échanges précédents.",
+        "La solution peut être : replacement, refund, credit note, discount ou additional delivery cost.",
+        "Une proposition claire précise ce qui est fait, par qui et dans quel délai : « We will replace the item within 5 working days. »",
+        "Les termes utiles : complaint, claim, damaged goods, missing item, delay, refund, replacement, goodwill gesture.",
+        "Le ton reste courtois même si le client est agressif : on ne répond pas sur le ton de la défiance.",
+        "La clôture confirme la solution et propose un contact : « Please let us know if the solution is acceptable. »",
+        "Le suivi interne trace la réclamation et alimente les indicateurs qualité du bloc BC02.",
+        "Une réponse rapide et structurée protège la relation client et l'image de la PME."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la première phrase d'une réponse à réclamation ?",
+          "options": [
+            "This is not our fault",
+            "Thank you for your message, we are sorry for the inconvenience",
+            "You made a mistake",
+            "Wait for our answer"
+          ],
+          "correct": 1,
+          "correction": "On accuse réception avec courtoisie avant toute discussion."
+        },
+        {
+          "type": "qcm",
+          "q": "Que signifie « goodwill gesture » ?",
+          "options": [
+            "Une sanction",
+            "Un geste commercial",
+            "Une facture",
+            "Un contrat"
+          ],
+          "correct": 1,
+          "correction": "C'est une compensation commerciale offerte pour restaurer la satisfaction."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel terme désigne un produit endommagé ?",
+          "options": [
+            "Missing item",
+            "Damaged goods",
+            "Late payment",
+            "New order"
+          ],
+          "correct": 1,
+          "correction": "Damaged goods = marchandises endommagées ; missing item = article manquant."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle formulation est précise pour une solution ?",
+          "options": [
+            "We will see",
+            "We will replace the item within 5 working days",
+            "Maybe later",
+            "It depends"
+          ],
+          "correct": 1,
+          "correction": "Une solution professionnelle indique l'action et le délai."
+        },
+        {
+          "type": "qcm",
+          "q": "Que faut-il faire avant de proposer une réparation ?",
+          "options": [
+            "Vérifier les faits et les pièces",
+            "Refuser la réclamation",
+            "Répondre immédiatement sans vérifier",
+            "Augmenter le prix"
+          ],
+          "correct": 0,
+          "correction": "La vérification évite une promesse inadaptée ou coûteuse."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel mot signifie « remboursement » ?",
+          "options": [
+            "Refund",
+            "Discount",
+            "Delivery",
+            "Invoice"
+          ],
+          "correct": 0,
+          "correction": "Refund = remboursement ; discount = remise ; credit note = avoir."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel ton adopter face à un client mécontent ?",
+          "options": [
+            "Ironique",
+            "Courtois et factuel",
+            "Froid et distant",
+            "Familier"
+          ],
+          "correct": 1,
+          "correction": "Le professionnalisme et le calme facilitent la résolution."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel indicateur peut suivre une réclamation ?",
+          "options": [
+            "Le délai de traitement",
+            "Le taux d'IS",
+            "Le capital social",
+            "La TVA"
+          ],
+          "correct": 0,
+          "correction": "Le délai et le taux de résolution alimentent le pilotage qualité."
+        },
+        {
+          "type": "texte",
+          "q": "Rédiger une réponse courte à un client qui signale une livraison incomplète.",
+          "reponse": "Objet : Your order 245 - missing item. Dear Mr Green, Thank you for your message. We are sorry for the inconvenience. We understand that one item is missing from your delivery of 3 June. We have checked your order and will send the missing item by express delivery tomorrow at no extra cost. Please let us know if this solution is acceptable. Kind regards, [signature].",
+          "correction": "On accuse réception, on reformule, on vérifie, on propose une action datée et on clôt poliment."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi ne pas admettre trop vite la responsabilité juridique dans une réponse ?",
+          "reponse": "Les faits doivent d'abord être vérifiés : une excuse commerciale exprime l'empathie, mais une reconnaissance de responsabilité peut engager l'entreprise sur le plan contractuel et assurantiel. La PME peut présenter ses regrets et proposer une réparation sans qualifier juridiquement le litige avant analyse interne.",
+          "correction": "On distingue empathie commerciale et admission juridique, et on souligne l'importance de la vérification."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Traiter une réclamation en anglais exige de l'empathie, de la clarté et une proposition de réparation précise."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "Réclamation = accusé de réception + reformulation + vérification + réparation + suivi.",
+          "leg": "Refund = remboursement ; replacement = remplacement ; credit note = avoir."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Étape",
+              "Formule",
+              "Objectif"
+            ],
+            [
+              "Accuser",
+              "Thank you for...",
+              "Rassurer"
+            ],
+            [
+              "Vérifier",
+              "We have checked...",
+              "Décider"
+            ],
+            [
+              "Réparer",
+              "We will replace...",
+              "Satisfaire"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            " Les excuses professionnelles restent mesurées : on reconnaît le désagrément sans admettre une responsabilité juridique non vérifiée.",
+            "La vérification des faits porte sur la commande, la facture, le bon de livraison et les échanges précédents.",
+            "La solution peut être : replacement, refund, credit note, discount ou additional delivery cost.",
+            "Une proposition claire précise ce qui est fait, par qui et dans quel délai : « We will replace the item within 5 working days. »",
+            "Les termes utiles : complaint, claim, damaged goods, missing item, delay, refund, replacement, goodwill gesture."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Accuser réception avec empathie",
+            "Reformuler le problème pour confirmer la compréhension",
+            "Vérifier les pièces et les faits",
+            "Proposer une réparation précise et datée",
+            "Clôturer et tracer la réclamation"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Répondre sur un ton agressif",
+            "Promettre avant vérification",
+            "Oublier le délai dans la proposition",
+            "Ne pas tracer la réclamation"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "Thank you for your message",
+            "One item is missing from the delivery",
+            "We will replace it within 5 working days",
+            "Claim registered and followed up"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · AN3 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"AN3 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">AN3 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Étape</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Formule</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Objectif</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Accuser</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Thank you for...</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rassurer</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Vérifier</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">We have checked...</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Décider</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Réparer</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">We will replace...</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Satisfaire</text></svg>"
+        },
+        {
+          "titre": "2 · AN3 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : AN3 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">AN3 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Accuser réception avec empathie</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Reformuler le problème pour confirmer la compréhension</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Vérifier les pièces et les faits</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Proposer une réparation précise et datée</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Clôturer et tracer la réclamation</text></svg>"
+        },
+        {
+          "titre": "3 · AN3 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : AN3 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">AN3 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Empathie</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Sorry for the inconvenience</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Compréhension</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Ton courtois</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Réparation</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Refund, replacement</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Délai précis</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Gesture commercial</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Anglais professionnel",
+      "titre": "AN4. Présentation orale et vocabulaire de gestion",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "La production orale en anglais professionnel évalue la capacité à présenter une situation de gestion de façon claire et structurée.",
+        "Une présentation se compose d'une introduction, de deux ou trois points et d'une conclusion avec recommandation.",
+        "Les phrases d'introduction utiles : « I am going to present... », « My presentation is about... ».",
+        "Les connecteurs structurent le discours : « first », « then », « however », « finally ».",
+        "Le vocabulaire de la gestion : turnover, profit, costs, cash flow, staff, recruitment, customer satisfaction, market share.",
+        "Les chiffres s'énoncent clairement : « 12.5 % », « one thousand two hundred euros », « an increase of 10 % ».",
+        "La prononciation et le rythme comptent autant que la grammaire : il vaut mieux des phrases simples et correctes.",
+        "Les diapositives doivent rester sobres : un titre, peu de mots, un chiffre clé par écran.",
+        "La conclusion formule une recommandation : « I recommend implementing a monthly review. »",
+        "Les questions du jury peuvent porter sur le contenu, le vocabulaire ou la justification d'une décision.",
+        "Une hésitation peut être gérée avec des phrases de transition : « Let me check my notes », « In other words... ».",
+        "L'épreuve E2 comprend une production orale : la préparation d'un plan et d'un lexique est un atout réel."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle phrase introduce une présentation ?",
+          "options": [
+            "I am going to present...",
+            "I have no idea",
+            "It is raining",
+            "Maybe tomorrow"
+          ],
+          "correct": 0,
+          "correction": "C'est une formule simple et professionnelle pour annoncer le sujet."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel connecteur marque une opposition ?",
+          "options": [
+            "First",
+            "However",
+            "Then",
+            "Finally"
+          ],
+          "correct": 1,
+          "correction": "However introduit une nuance ou une opposition."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel mot signifie « chiffre d'affaires » ?",
+          "options": [
+            "Profit",
+            "Turnover",
+            "Cost",
+            "Staff"
+          ],
+          "correct": 1,
+          "correction": "Turnover = chiffre d'affaires ; profit = bénéfice ; costs = coûts."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment dire « une hausse de 10 % » ?",
+          "options": [
+            "A decrease of 10 %",
+            "An increase of 10 %",
+            "A cost of 10 %",
+            "A rate of 10 %"
+          ],
+          "correct": 1,
+          "correction": "Increase = hausse ; decrease = baisse."
+        },
+        {
+          "type": "qcm",
+          "q": "Que doit contenir une conclusion de présentation ?",
+          "options": [
+            "Une recommandation",
+            "Une nouvelle problématique",
+            "Une citation longue",
+            "Une blague"
+          ],
+          "correct": 0,
+          "correction": "On termine par une synthèse et une recommandation actionnable."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est une bonne règle pour les diapositives ?",
+          "options": [
+            "Beaucoup de texte",
+            "Peu de mots et un chiffre clé",
+            "Aucun titre",
+            "Des paragraphes longs"
+          ],
+          "correct": 1,
+          "correction": "La diapositive appuie l'oral, elle ne le remplace pas."
+        },
+        {
+          "type": "qcm",
+          "q": "Que faire face à une hésitation ?",
+          "options": [
+            "Se taire",
+            "Utiliser une phrase de transition",
+            "Lire la diapositive",
+            "Changer de sujet"
+          ],
+          "correct": 1,
+          "correction": "Une transition simple maintient le fil du discours."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle compétence est évaluée en production orale ?",
+          "options": [
+            "La clarté et la structure",
+            "La longueur du silence",
+            "Le nombre de diapositives",
+            "La couleur de la salle"
+          ],
+          "correct": 0,
+          "correction": "Le jury apprécie la structure, la clarté et la pertinence des réponses."
+        },
+        {
+          "type": "texte",
+          "q": "Construire le plan d'une courte présentation orale sur l'évolution du chiffre d'affaires d'une PME.",
+          "reponse": "Introduction : « I am going to present the turnover evolution of our company. » Point 1 : chiffres des deux dernières années avec un increase of 12 %. Point 2 : explication (new customers, higher prices). Point 3 : limit (late payments). Conclusion : « I recommend a monthly review of cash flow. »",
+          "correction": "On structure en introduction, trois points et recommandation, avec le vocabulaire anglais clé."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer pourquoi des phrases simples et correctes sont préférables à des phrases complexes à l'oral.",
+          "reponse": "À l'oral, la compréhension immédiate prime. Une phrase simple réduit le risque d'erreur grammaticale et facilite la prononciation ; le jury valorise la clarté et la pertinence du propos. Les connecteurs et le vocabulaire métier suffisent à donner un niveau professionnel sans alourdir le discours.",
+          "correction": "On met en avant la clarté, la maîtrise et l'efficacité de la communication orale."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "La production orale en anglais professionnel évalue la capacité à présenter une situation de gestion de façon claire et structurée."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "Présentation = introduction + points structurés + chiffres + recommandation.",
+          "leg": "First / however / finally ; turnover, costs, cash flow, increase, decrease."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Partie",
+              "Formule",
+              "Contenu"
+            ],
+            [
+              "Intro",
+              "I am going to present",
+              "Sujet"
+            ],
+            [
+              "Points",
+              "First, then, however",
+              "Idées"
+            ],
+            [
+              "Conclusion",
+              "I recommend",
+              "Action"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            "Les connecteurs structurent le discours : « first », « then », « however », « finally ».",
+            "Le vocabulaire de la gestion : turnover, profit, costs, cash flow, staff, recruitment, customer satisfaction, market share.",
+            "Les chiffres s'énoncent clairement : « 12.5 % », « one thousand two hundred euros », « an increase of 10 % ».",
+            "La prononciation et le rythme comptent autant que la grammaire : il vaut mieux des phrases simples et correctes.",
+            "Les diapositives doivent rester sobres : un titre, peu de mots, un chiffre clé par écran."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Préparer un plan en trois points",
+            "Apprendre le vocabulaire clé de la gestion",
+            "Énoncer les chiffres clairement",
+            "Utiliser des connecteurs pour structurer",
+            "Conclure par une recommandation"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Lire un texte entier",
+            "Surcharger les diapositives",
+            "Multiplier les phrases complexes",
+            "Oublier la recommandation finale"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "I am going to present the turnover",
+            "An increase of 12 % in 2026",
+            "However, late payments are increasing",
+            "I recommend a monthly cash-flow review"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · AN4 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"AN4 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">AN4 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Partie</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Formule</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Contenu</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Intro</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">I am going to present</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sujet</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Points</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">First, then, however</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Idées</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Conclusion</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">I recommend</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Action</text></svg>"
+        },
+        {
+          "titre": "2 · AN4 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : AN4 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">AN4 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Préparer un plan en trois points</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Apprendre le vocabulaire clé de la gestion</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Énoncer les chiffres clairement</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Utiliser des connecteurs pour structurer</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Conclure par une recommandation</text></svg>"
+        },
+        {
+          "titre": "3 · AN4 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : AN4 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">AN4 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Discours structuré</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Intro</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Points</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Conclusion</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Lexique gestion</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Turnover</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Cash flow</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Staff</text></svg>"
+        }
+      ]
+    }
+  ]
+}

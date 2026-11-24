@@ -1,0 +1,576 @@
+# -*- coding: utf-8 -*-
+"""Licence Mathématiques — lot C : Français (5), Anglais (5),
+Psychologie (5), Économie (5).
+
+Génère licmaths-mat-part-C.json au format prototype FicheLab.
+Sources : arrêté du 6 avril 2021, BO spécial n° 7 du 17 février 2022,
+éduscol, CECRL (Conseil de l'Europe), APA, INSEE, Banque de France.
+"""
+import os
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from gen_licmaths_common import build, reference
+from fixtures import valider_et_ecrire
+
+FIL = ["lic-maths"]
+L1, L2, L3 = ["L1"], ["L2"], ["L3"]
+REF_F = reference("programmes de lettres et de rhétorique de licence · norme ISO 690")
+REF_A = reference("Cadre européen commun de référence pour les langues, Conseil de l'Europe")
+REF_P = reference("référentiel de licence de psychologie · APA, Publication Manual")
+REF_E = reference("INSEE, comptes nationaux · Banque de France, politique monétaire")
+
+F = []
+
+def add(an, mat, rec, ref):
+    F.append(build(FIL, an, mat, rec, ref))
+
+# ==================== FRANÇAIS — PF1. à PF5. ================================
+
+add(L1, "Français", dict(
+ p="LMPF1", t="Expression écrite et syntaxe française",
+ idea="Écrire clairement en français suppose de maîtriser la structure de la phrase, l'accord des constituants et la ponctuation, afin que le lecteur reconstruise sans effort le sens voulu.",
+ eq="sujet + verbe + complément ; accord en genre et en nombre",
+ leg="phrase simple / complexe · proposition · ponctuation",
+ facts=[
+  ("Phrase simple", "une seule proposition", "Une phrase simple contient un seul verbe conjugué et exprime une idée complète : « Le chercheur observe le phénomène. »"),
+  ("Phrase complexe", "plusieurs propositions", "Les propositions sont reliées par une conjonction ou un pronom relatif : la subordonnée dépend de la principale."),
+  ("Accord sujet-verbe", "le verbe s'accorde avec son sujet", "L'accord se fait en personne et en nombre ; un sujet collectif ou une coordonnation demande une attention particulière."),
+  ("Accord du participe passé", "avec avoir : accord avec le COD antéposé", "Avec l'auxiliaire être, le participe s'accorde avec le sujet ; avec avoir, seulement si le complément d'objet direct précède le verbe."),
+  ("Ponctuation", "virgule, point, deux-points", "Les deux-points annoncent une explication ou une énumération ; la virgule sépare des éléments de même fonction."),
+  ("Pronoms relatifs", "qui, que, dont, où", "Le pronom relatif relie une subordonnée à son antécédent ; « dont » introduit un complément introduit par la préposition de."),
+  ("Registre", " courant, soutenu, familier", "Le registre doit convenir au contexte : un rapport universitaire évite le registre familier et privilégie la précision."),
+ ],
+ grille=(["Élément", "Règle", "Exemple"],
+   [["Accord", "Sujet-verbe", "Les résultats..."], ["Ponctuation", "Deux-points", " Conclusion :"], ["Registre", "Soutenu", "« toutefois »"]]),
+ list=["Une phrase complexe contient plusieurs verbes conjugués.", "Le participe passé avec avoir s'accorde avec le COD placé avant.", "Les deux-points introduisent une suite logique ou une énumération.", "Le registre doit être adapté à la situation d'écriture."],
+ steps=["Lire la phrase et repérer les verbes.", "Identifier le sujet de chaque verbe.", "Vérifier les accords en genre et en nombre.", "Contrôler la ponctuation et les liaisons.", "Relire à voix haute pour détecter les heurts."],
+ trap=["Accorder le verbe avec un complément proche plutôt qu'avec le sujet.", "Confondre « dont » et « que ».", "Multiplier les virgules sans fonction.", "Employer un registre familier dans un rapport."],
+ ex=["Les résultats confirment l'hypothèse.", "La méthode que nous avons employée...", "Deux séries ont été comparées : A et B.", "Toutefois, cette conclusion reste partielle."],
+ schemas=[("g", "Anatomie de la phrase", ["Élément", "Fonction", "Exemple"],
+             [["Sujet", "Qui ?", "Le chercheur"], ["Verbe", "Action", "observe"], ["COD", "Quoi ?", "le phénomène"]]),
+          ("e", "Relire une copie", ["Repérer les verbes", "Vérifier les sujets", "Contrôler les accords", "Corriger la ponctuation", "Relire à voix haute"]),
+          ("c", "Phrase simple / complexe", ("Simple", ["Un verbe conjugué", "Une idée", "Ponctuation courte"]),
+             ("Complexe", ["Plusieurs verbes", "Subordonnée", "Liens explicites"]))],
+), REF_F)
+
+add(L1, "Français", dict(
+ p="LMPF2", t="Analyse de texte et argumentation",
+ idea="Analyser un texte, c'est repérer sa thèse, ses arguments et ses procédés rhétoriques, puis évaluer la cohérence du raisonnement avant de construire une réponse personnelle.",
+ eq="thèse + arguments + exemples + conclusion partielle",
+ leg="thèse : idée défendue · argument : raison · procédé : moyen d'expression",
+ facts=[
+  ("Thèse", "idée centrale défendue", "La thèse est l'affirmation que l'auteur cherche à faire admettre ; elle peut être explicite ou déduite des exemples."),
+  ("Argument", "raison à l'appui de la thèse", "Un argument justifie la thèse ; il doit être distingué d'un simple exemple, qui l'illustre sans la prouver."),
+  ("Exemple", "cas concret", "L'exemple rend l'argument sensible : un seul exemple ne démontre pas une affirmation universelle."),
+  ("Procédés rhétoriques", "métaphore, comparaison, antithèse", "Les procédés produisent un effet de sens : l'antithèse met en opposition deux idées, la métaphore opère un transfert."),
+  ("Connecteurs logiques", "or, donc, mais, car", "Les connecteurs structurent le raisonnement : « car » introduit une cause, « donc » une conséquence."),
+  ("Registre et ton", "polémique, ironique, neutre", "Le ton révèle la posture de l'auteur : l'ironie dit le contraire de ce qu'elle affirme pour produire un effet critique."),
+  ("Analyse critique", "cohérence et limites", "Évaluer un texte, c'est vérifier la validité des liens entre arguments et thèse et relever les éventuelles contradictions."),
+ ],
+ grille=(["Élément", "Repérage", "Fonction"],
+   [["Thèse", "Idée directrice", "Convaincre"], ["Argument", "Raison", "Justifier"], ["Exemple", "Cas concret", "Illustrer"]]),
+ list=["Un exemple illustre, un argument justifie.", "Les connecteurs révèlent la structure logique.", "L'ironie affirme le contraire de ce qu'elle dit.", "Une analyse critique évalue la cohérence du texte."],
+ steps=["Lire le texte entièrement sans le découper.", "Repérer la thèse et la question traitée.", "Relever arguments et exemples.", "Identifier les procédés et leur effet.", "Rédiger une réponse structurée et argumentée."],
+ trap=["Confondre thèse et argument.", "Prendre un exemple pour une preuve universelle.", "Ignorer le ton et l'ironie.", "Résumer le texte au lieu de l'analyser."],
+ ex=["« Or » marque une opposition logique", "Antithèse : croissance / précarité", "Ironie : « belle réussite » pour un échec", "Un exemple chiffré appuie un argument"],
+ schemas=[("g", "Structure d'un texte", ["Élément", "Question", "Rôle"],
+             [["Thèse", "Que défend-on ?", "Convaincre"], ["Argument", "Pourquoi ?", "Justifier"], ["Exemple", "Comment ?", "Illustrer"]]),
+          ("e", "Analyser un texte", ["Lecture globale", "Repérer la thèse", "Relever les arguments", "Observer les procédés", "Évaluer la cohérence"]),
+          ("c", "Argument / exemple", ("Argument", ["Raison générale", "Justifie la thèse", "Universel"]),
+             ("Exemple", ["Cas particulier", "Illustre", "Pas une preuve"]))],
+), REF_F)
+
+add(L2, "Français", dict(
+ p="LMPF3", t="Rhétorique et style scientifique",
+ idea="Le style scientifique vise la clarté, la précision et la reproductibilité : il préfère les termes définis, les phrases lisibles et une argumentation explicite aux effets rhétoriques.",
+ eq="précision + cohérence + économie de moyens",
+ leg="définition : sens explicite · connecteur : lien logique · modalisation : degré de certitude",
+ facts=[
+  ("Clarté", "une idée par phrase", "Une phrase longue et imbriquée nuit à la compréhension : on privilégie des unités de sens courtes et ordonnés."),
+  ("Précision terminologique", "employer le mot exact", "Chaque discipline a un vocabulaire technique : utiliser le terme consacré évite l'ambiguïté du langage courant."),
+  ("Modalisation", " « peut », « semble », « il est démontré que »", "Les modalisateurs indiquent le degré de certitude : distinguer une hypothèse d'un résultat établi est essentiel."),
+  ("Définitions", "poser le sens des termes", "Définir un terme avant de l'employer permet au lecteur de suivre le raisonnement sans deviner."),
+  ("Cohérence", "liens explicites entre les parties", "Les connecteurs logiques et les reprises nominales rendent visible la progression de l'argumentation."),
+  ("Économie", "supprimer le superflu", "Les répétitions inutiles et les formules creuses affaiblissent le texte : une révision vise à resserrer l'expression."),
+  ("Rhétorique scientifique", "convaincre par la preuve", "En science, la persuasion repose sur la qualité des données et des raisonnements, non sur l'emphase ou l'image."),
+ ],
+ grille=(["Exigence", "Moyen", "Effet"],
+   [["Clarté", "Phrases courtes", "Lecture facile"], ["Précision", "Termes définis", "Sans ambiguïté"], ["Modalisation", "Degré de certitude", "Honnêteté"]]),
+ list=["Une idée par phrase facilite la lecture.", "Définir un terme avant de l'employer.", "La modalisation indique le niveau de certitude.", "La preuve remplace l'emphase en sciences."],
+ steps=["Définir les termes clés du sujet.", "Écrire des phrases courtes et ordonnées.", "Relier les parties par des connecteurs.", "Moduler les affirmations selon les preuves.", "Réviser pour supprimer le superflu."],
+ trap=["Employer un terme technique sans le définir.", "Confondre hypothèse et résultat démontré.", "Multiplier les adjectifs valorisants.", "Négliger les transitions entre paragraphes."],
+ ex=["« Ces résultats suggèrent... » (hypothèse)", "« Il est démontré que... » (résultat)", "Définir « convergence » avant de l'utiliser", "Remplacer « très grand » par une valeur chiffrée"],
+ schemas=[("g", "Qualités du style", ["Exigence", "Outil", "Résultat"],
+             [["Clarté", "Phrases courtes", "Lisibilité"], ["Précision", "Termes définis", "Rigueur"], ["Modalisation", "Nuance", "Honnêteté"]]),
+          ("s", "Rédiger un texte scientifique", [("Définitions", "Phrases claires"), ("Connecteurs", "Modalisation"), ("Révision", "Texte final")]),
+          ("c", "Style scientifique /emphatique", ("Scientifique", ["Termes définis", "Preuves", "Nuance"]),
+             ("Emphatique", ["Adjectifs valorisants", "Effets oratoires", "Peu de preuves"]))],
+), REF_F)
+
+add(["L2", "L3"], "Français", dict(
+ p="LMPF4", t="Résumé et note de synthèse",
+ idea="Le résumé condense fidèlement un texte en conservant ses idées essentielles ; la note de synthèse croise plusieurs documents et organise l'information selon un plan imposé par la question.",
+ eq="résumé = thèse + points essentiels ; synthèse = plan + apports croisés",
+ leg="fidélité : ne rien ajouter · objectivité : ne pas commenter · exhaustivité : ne rien omettre d'essentiel",
+ facts=[
+  ("Fidélité", "restituer sans déformer", "Le résumé doit rendre le sens de l'original sans y ajouter d'interprétation personnelle ni en modifier la portée."),
+  ("Objectivité", "effacer le « je »", "On ne juge pas le texte : on emploie des verbes de présentation comme « l'auteur affirme » ou « le document précise »."),
+  ("Idées essentielles", "hiérarchiser l'information", "On distingue l'idée directrice des exemples et des digressions : seules les premières figurent dans le résumé."),
+  ("Longueur imposée", "respecter la consigne", "Une consigne de 200 mots est un cadre : dépasser la limite est une erreur, trop court est une perte d'information."),
+  ("Note de synthèse", "croiser plusieurs documents", "La synthèse confronte des sources différentes, relève leurs convergences et leurs divergences, et répond à une problématique."),
+  ("Plan", "deux ou trois parties", "Un plan clair et équilibré organise la synthèse ; chaque partie répond à un sous-aspect de la question posée."),
+  ("Verbes de liaison", "cependant, de même, en revanche", "Ils rendent visibles les relations entre documents : opposition, convergence, complémentarité."),
+ ],
+ grille=(["Exercice", "Entrée", "Sortie"],
+   [["Résumé", "Un texte", "L'essentiel"], ["Synthèse", "Plusieurs documents", "Un plan"]]),
+ list=["Un résumé n'ajoute rien au texte d'origine.", "La synthèse croise les documents, elle ne les juxtapose pas.", "La longueur imposée fait partie de la consigne.", "Les connecteurs explicitent les relations entre sources."],
+ steps=["Lire tous les documents et dégager la problématique.", "Relever les idées essentielles de chaque texte.", "Construire un plan équilibré en 2 ou 3 parties.", "Rédiger au présent, sans « je ».", "Vérifier la longueur et les relations entre documents."],
+ trap=["Introduire une opinion personnelle dans un résumé.", "Procéder par collage de citations.", "Oublier de répondre à la problématique posée.", "Dépasser le nombre de mots imposé."],
+ ex=["« L'auteur souligne que... »", "Deux documents convergents sur une même cause", "Plan : causes / conséquences / remèdes", "« En revanche, le document 2 conteste... »"],
+ schemas=[("g", "Résumé ou synthèse", ["Exercice", "Sources", "Travail"],
+             [["Résumé", "Un texte", "Condenser"], ["Synthèse", "Plusieurs textes", "Croiser"]]),
+          ("e", "Rédiger une synthèse", ["Lire les documents", "Dégager la problématique", "Construire un plan", "Rédiger objectivement", "Vérifier la consigne"]),
+          ("c", "Fidélité / subjectivité", ("Fidèle", ["Sans ajout", "Verbes de présentation", "Idées essentielles"]),
+             ("Subjectif", ["Opinion personnelle", "Jugement", "Déformation"]))],
+), REF_F)
+
+add(L3, "Français", dict(
+ p="LMPF5", t="Communication écrite professionnelle",
+ idea="Un écrit professionnel est un acte de gestion : il doit être lisible, hiérarchisé et adaptable à son destinataire, avec un objet clair dès les premières lignes.",
+ eq="objet + contexte + demande + actions + clôture",
+ leg="destinataire : lecteur visé · objet : ligne d'objet · pièce jointe : document référencé",
+ facts=[
+  ("Destinataire", "adapter le ton et le niveau", "Identifier le lecteur (collègue, responsable, client) détermine le degré de formalisme et les informations à rappeler."),
+  ("Objet", "ligne d'objet précise", "L'objet doit énoncer en quelques mots le sujet et, si possible, l'action attendue : il conditionne le traitement du message."),
+  ("Structure", "contexte, fait, demande", "Un bon message commence par le contexte utile, énonce le fait puis formule clairement la demande ou la décision."),
+  ("Hiérarchie", "paragraphes et listes", "Découper l'information en paragraphes courts ou en listes permet un balayage rapide et évite l'enfouissement."),
+  ("Formulation", "phrases courtes et verbes d'action", "Préférer « Merci de transmettre... » à une tournure vague : l'action et son auteur doivent être identifiables."),
+  ("Pièces jointes", "référencées et nommées", "Annoncer chaque pièce jointe dans le corps du message et lui donner un nom explicite facilite l'archivage."),
+  ("Relance", "polie et datée", "Une relance rappelle l'objet initial, la date de la demande et le délai souhaité, sans formuler de reproche."),
+ ],
+ grille=(["Partie", "Contenu", "Objectif"],
+   [["Objet", "Sujet + action", "Orienter"], ["Corps", "Contexte, fait, demande", "Informer"], ["Clôture", "Délai, politesse", "Conclure"]]),
+ list=["L'objet doit être compréhensible sans lire le message.", "Une demande se formule explicitement.", "Les pièces jointes sont annoncées dans le corps.", "Une relance reste courtoise et factuelle."],
+ steps=["Identifier le destinataire et l'objectif.", "Rédiger un objet précis.", "Exposer contexte, fait et demande.", "Hiérarchiser avec des listes courtes.", "Relire avant envoi et vérifier les pièces jointes."],
+ trap=["Oublier l'objet ou le laisser vague.", "Enfouir la demande à la fin d'un long paragraphe.", "Joindre un fichier sans l'annoncer.", "Employer un ton inadapté au destinataire."],
+ ex=["Objet : « Demande de validation - rapport L3 - 24/11 »", "« Merci de transmettre avant vendredi »", "Liste des trois points à valider", "Relance : « je me permets de relancer ma demande du 12... »"],
+ schemas=[("g", "Anatomie d'un courriel", ["Partie", "Contenu", "Rôle"],
+             [["Objet", "Sujet + action", "Orienter"], ["Corps", "Contexte + demande", "Informer"], ["Clôture", "Délai", "Conclure"]]),
+          ("e", "Écrire un message", ["Identifier le destinataire", "Rédiger l'objet", "Exposer puis demander", "Vérifier les jointes", "Relire"]),
+          ("c", "Message clair / confuse", ("Clair", ["Objet précis", "Demande explicite", "Paragraphes courts"]),
+             ("Confus", ["Objet vague", "Demande enfouie", "Bloc dense"]))],
+), REF_F)
+
+# ==================== ANGLAIS — AN1. à AN5. =================================
+
+add(L1, "Anglais", dict(
+ p="LMAN1", t="Vocabulaire mathématique anglais",
+ idea="Le vocabulaire mathématique anglais suit des règles de formation régulières : préfixes, suffixes et termes grecs ou latins permettent de déduire le sens de nombreux mots techniques.",
+ eq="limit, continuous, sequence, proof, vector space",
+ leg="terme français / terme anglais · faux amis à surveiller",
+ facts=[
+  ("Notions de base", "limit, function, derivative", "Limit désigne une limite, function une fonction et derivative une dérivée : ces termes reviennent dans tous les cours de mathématiques en anglais."),
+  ("Structures", "sequence, series, vector space", "A sequence est une suite, a series une série et un espace vectoriel se dit vector space : la distinction est essentielle."),
+  ("Opérations", "sum, product, integral", "Sum est une somme, product un produit et integral une intégrale ; l'intégrale définie se dit definite integral."),
+  ("Preuve", "proof, theorem, lemma", "A proof est une démonstration, un theorem un théorème et un lemma un lemme : un corollary est un corollaire."),
+  ("Suffixes", "-able, -ous, -ity", "Continuous (continu), integrable (intégrable) et continuity (continuité) montrent comment les suffixes forment adjectifs et noms."),
+  ("Faux amis", "actually ≠ actuellement", "Actually signifie « en réalité », et non « actuellement » (currently) : la confusion est fréquente dans un rapport écrit."),
+  ("Article et pluriel", "a function, the functions", "L'anglais utilise l'article pour désigner un objet mathématique ; les noms au pluriel prennent généralement un -s."),
+ ],
+ grille=(["Français", "Anglais", "Remarque"],
+   [["Suite", "Sequence", "≠ series"], ["Démonstration", "Proof", "Verbe : prove"], ["Continu", "Continuous", "Nom : continuity"]]),
+ list=["Sequence et series désignent deux objets différents.", "Proof est le nom, prove le verbe.", "Les suffixes -ous et -ity forment adjectifs et noms.", "Actually ne signifie pas « actuellement »."],
+ steps=["Repérer le terme français à traduire.", "Choisir le terme technique anglais exact.", "Vérifier la classe grammaticale (nom, verbe, adjectif).", "Attention aux faux amis courants.", "Employer le mot dans une phrase de cours."],
+ trap=["Confondre sequence et series.", "Traduire « actuellement » par actually.", "Employer « demonstration » pour une preuve mathématique.", "Oublier l'article devant un nom comptable."],
+ ex=["The sequence converges to zero.", "We give a proof of the theorem.", "The function is continuous on I.", "The integral is definite."],
+ schemas=[("g", "Paires de vocabulaire", ["Français", "Anglais", "Piège"],
+             [["Suite", "Sequence", "≠ series"], ["Preuve", "Proof", "≠ demonstration"], ["Actuellement", "Currently", "≠ actually"]]),
+          ("s", "Traduire un terme", [("Terme français", "Classe grammaticale"), ("Terme anglais", "Faux ami"), ("Phrase", "Emploi")]),
+          ("c", "Vrai ami / faux ami", ("Vrai ami", ["Sens proche", "continuous", "Contexte technique"]),
+             ("Faux ami", ["Sens différent", "actually", "Attention"]))],
+), REF_A)
+
+add(["L1", "L2"], "Anglais", dict(
+ p="LMAN2", t="Lecture d'articles scientifiques anglais",
+ idea="Lire un article scientifique en anglais demande de repérer la structure IMRaD et de distinguer les résultats établis des hypothèses, sans se laisser freiner par le vocabulaire spécialisé.",
+ eq="Introduction - Methods - Results - Discussion",
+ leg="abstract : résumé · keywords : mots-clés · figure : illustration",
+ facts=[
+  ("Structure IMRaD", "Introduction, Methods, Results, Discussion", "La plupart des articles suivent ce plan : on trouve successivement le contexte, la méthode, les résultats et leur interprétation."),
+  ("Abstract", "résumé de l'article", "L'abstract énonce l'objectif, la méthode, le principal résultat et la conclusion : le lire en premier permet de décider de la pertinence de l'article."),
+  ("Mots-clés", "keywords", "Les keywords situent l'article dans un champ et facilitent la recherche d'autres travaux sur le même sujet."),
+  ("Temps et voix", "passif au passé pour la méthode", "La méthode est souvent décrite au passé et à la voix passive ; les généralités sont au présent."),
+  ("Modaux", "may, suggest, seem", "Les modaux expriment un degré d'incertitude : « the results suggest that... » n'affirme pas une certitude."),
+  ("Figures et tableaux", "lire la légende", "La légende (caption) et les axes portent l'essentiel de l'information : les lire avant le texte permet de comprendre le résultat."),
+  ("Lecture sélective", "skimming puis scanning", "On parcourt d'abord le titre et l'abstract, puis on cherche les passages précis répondant à sa question."),
+ ],
+ grille=(["Section", "Question", "Temps"],
+   [["Introduction", "Pourquoi ?", "Présent"], ["Methods", "Comment ?", "Passif"], ["Results", "Quoi ?", "Passé"]]),
+ list=["L'abstract résume objectif, méthode et résultat.", "IMRaD structure la majorité des articles.", "Les modaux indiquent un degré de certitude.", "Lire les légendes avant le texte aide à comprendre."],
+ steps=["Lire le titre, l'abstract et les mots-clés.", "Repérer les sections IMRaD.", "Lire les légendes de figures et tableaux.", "Identifier les affirmations et leur degré de certitude.", "Noter les limites mentionnées dans la discussion."],
+ trap=["Traduire mot à mot chaque phrase du texte.", "Confondre « suggest » et « prove ».", "Ignorer la section Discussion et ses limites.", "Ne pas lire les axes d'une figure."],
+ ex=["« The results suggest a correlation. »", "Methods written in the passive voice", "Figure 2 : caption and axes", "Skimming the abstract first"],
+ schemas=[("g", "Plan IMRaD", ["Section", "Question", "Contenu"],
+             [["Introduction", "Pourquoi ?", "Contexte"], ["Methods", "Comment ?", "Protocole"], ["Results", "Quoi ?", "Données"]]),
+          ("s", "Lire un article", [("Abstract", "Sections"), ("Figures", "Résultats"), ("Discussion", "Limites")]),
+          ("c", "Certitude / prudence", ("Certitude", ["prove", "show", "Résultat établi"]),
+             ("Prudence", ["suggest", "may", "Hypothèse"]))],
+), REF_A)
+
+add(L2, "Anglais", dict(
+ p="LMAN3", t="Expression écrite scientifique en anglais",
+ idea="Écrire en anglais scientifique exige une structure claire, des phrases directes et un vocabulaire précis : la lisibilité prime sur la recherche de tournures complexes.",
+ eq="topic sentence + support + concluding sentence",
+ leg="paragraph : paragraphe · hedging : nuance · signposting : balisage",
+ facts=[
+  ("Paragraphe", "une idée principale", "Un paragraphe commence par une phrase directrice (topic sentence), la développe, puis se termine par une transition ou une conclusion partielle."),
+  ("Voix active", "préférer « we show that »", "La voix active rend l'agent visible et les phrases plus courtes ; la voix passive reste utile pour la méthode."),
+  ("Hedging", "nuancer les affirmations", "Les expressions « may », « appears to », « to our knowledge » indiquent prudemment le degré de certitude."),
+  ("Signposting", "baliser le texte", "Des connecteurs comme « however », « therefore », « in contrast » guident le lecteur dans l'argumentation."),
+  ("Concision", "éviter les redondances", "« In order to » peut devenir « to », et « due to the fact that » devient « because » : la concision renforce la clarté."),
+  ("Articles", "a, an, the", "Les articles sont fréquents en anglais : « a sequence » (indéfini), « the sequence » (défini connu)."),
+  ("Citations", "cite and reference", "Toute affirmation empruntée doit être citée (auteur, année) et figurer dans la liste de références."),
+ ],
+ grille=(["Outil", "Exemple", "Fonction"],
+   [["Topic sentence", "This section shows...", "Orienter"], ["Hedging", "may suggest", "Nuancer"], ["Signposting", "However,", "Lier"]]),
+ list=["Une idée principale par paragraphe.", "La voix active rend le texte plus direct.", "Le hedging évite les affirmations excessives.", "Les connecteurs balisent le raisonnement."],
+ steps=["Définir l'idée directrice du paragraphe.", "Écrire des phrases courtes à la voix active.", "Nuancer les affirmations avec des modaux.", "Insérer des connecteurs entre les parties.", "Relire pour supprimer les redondances."],
+ trap=["Multiplier les phrases subordonnées longues.", "Omettre les articles devant les noms comptables.", "Affirmer avec certitude sans preuve.", "Plagier une formulation sans la citer."],
+ ex=["We show that the sequence converges.", "These results may depend on the sample.", "However, the method remains limited.", "In order to → to"],
+ schemas=[("g", "Paragraphe efficace", ["Partie", "Rôle", "Exemple"],
+             [["Topic", "Idée directrice", "We show that..."], ["Support", "Développement", "The data indicate..."], ["Lien", "Transition", "However,"]]),
+          ("s", "Rédiger en anglais", [("Idée", "Phrases courtes"), ("Nuance", "Connecteurs"), ("Relecture", "Concision")]),
+          ("c", "Voix active / passive", ("Active", ["We show", "Direct", "Court"]),
+             ("Passive", ["Was measured", "Méthode", "Agent effacé"]))],
+), REF_A)
+
+add(L2, "Anglais", dict(
+ p="LMAN4", t="Communication orale en anglais",
+ idea="Parler en anglais scientifique suppose de savoir introduire son sujet, enchaîner les parties et répondre aux questions avec des formules simples et claires, même avec un vocabulaire limité.",
+ eq="intro → signposting → development → conclusion → questions",
+ leg="signposting : annoncer la structure · filler : mot de transition",
+ facts=[
+  ("Introduction", "annoncer le sujet", "Une introduction courte énonce le sujet et le plan : « Today I will present... » pose le cadre sans entrer dans les détails."),
+  ("Signposting", "annoncer les étapes", "« First », « then », « finally » et « moving on to » aident l'auditoire à suivre : ce balisage remplace les titres écrits."),
+  ("Phrases courtes", "une idée à la fois", "À l'oral, des phrases courtes sont plus faciles à prononcer et à comprendre que des structures imbriquées."),
+  ("Prononciation", "rythme et mots-clés", "Insister sur les mots-clés et marquer des pauses vaut mieux qu'une prononciation parfaite mais monotone."),
+  ("Questions", "formules de réponse", "« That's an interesting question », « I don't have the exact figure, but... » permettent de répondre sans improviser un chiffre."),
+  ("Support visuel", "parler du slide", "Le support doit être commenté, non lu : « As you can see on this figure... » relie la parole à l'image."),
+  ("Temps", "respecter la durée", "Répéter avec un chronomètre permet d'ajuster le détail des exemples à la durée disponible."),
+ ],
+ grille=(["Phase", "Formule", "Rôle"],
+   [["Intro", "Today I will...", "Cadrer"], ["Liaison", "Moving on to...", "Enchaîner"], ["Question", "I don't have...", "Répondre"]]),
+ list=["Annoncer le plan dès le début.", "Les connecteurs sont indispensables à l'oral.", "Une réponse peut admettre l'incertitude.", "Le support est commenté, pas lu."],
+ steps=["Préparer une introduction et un plan en 3 points.", "Apprendre quelques formules de liaison.", "Répéter à voix haute avec un chronomètre.", "Prévoir une réponse pour les questions fréquentes.", "Commenter chaque diapositive plutôt que la lire."],
+ trap=["Lire intégralement ses notes.", "Improviser un chiffre dont on n'est pas sûr.", "Négliger les transitions entre parties.", "Parler trop vite pour « avoir l'air fluent »."],
+ ex=["« Today I will present three points. »", "« First... Second... Finally... »", "« As you can see on this figure... »", "« I don't have the exact figure here. »"],
+ schemas=[("g", "Formules utiles", ["Moment", "Formule", "Usage"],
+             [["Intro", "Today I will...", "Cadrer"], ["Liaison", "Moving on...", "Enchaîner"], ["Question", "That's a good point...", "Répondre"]]),
+          ("e", "Préparer un oral", [("Introduction", "Plan en 3 points"), ("Formules", "Répétition chronométrée"), ("Questions", "Conclusion")]),
+          ("c", "Oral clair / confus", ("Clair", ["Plan annoncé", "Connecteurs", "Pauses"]),
+             ("Confus", ["Improvisation", "Pas de liaison", "Dépassement"]))],
+), REF_A)
+
+add(L3, "Anglais", dict(
+ p="LMAN5", t="Anglais pour la recherche et les conférences",
+ idea="Dans un contexte de recherche international, l'anglais sert à présenter ses travaux, comprendre les questions du public et construire une collaboration avec des mots justes et une posture claire.",
+ eq="elevator pitch + poster + questions + follow-up",
+ leg="pitch : présentation très courte · follow-up : message après l'échange",
+ facts=[
+  ("Elevator pitch", "présentation en 30 secondes", "Un pitch énonce le problème, la méthode et le résultat principal : il doit être compréhensible par un non-spécialiste."),
+  ("Poster", "visuel structuré", "Un poster de conférence suit l'ordre du raisonnement : titre, objectif, méthode, résultats, conclusion et remerciements."),
+  ("Questions du public", "écouter et reformuler", "Reformuler la question (« If I understand correctly, you are asking about... ») gagne du temps et sécurise la réponse."),
+  ("Réseau", "échanger avec les pairs", "Se présenter en une phrase et expliquer son travail en deux phrases suffit pour engager une conversation scientifique."),
+  ("Courriel de suivi", "remercier et préciser", "Après une conférence, un court message de remerciement rappelle le sujet évoqué et propose une suite concrète."),
+  ("Termes normalisés", "utiliser le vocabulaire du domaine", "Employer les termes consacrés (dataset, benchmark, reproducibility) évite les malentendus avec des collègues étrangers."),
+  ("Humilité", "reconnaître les limites", "Dire « this is a limitation of our study » est apprécié : la crédibilité vient de la franchise sur les limites."),
+ ],
+ grille=(["Situation", "Formule", "Objectif"],
+   [["Pitch", "My work studies...", "Se présenter"], ["Question", "If I understand...", "Reformuler"], ["Suivi", "Thank you for...", "Relancer"]]),
+ list=["Un pitch tient en 30 secondes.", "Reformuler une question sécurise la réponse.", "Un suivi écrit doit proposer une suite concrète.", "Reconnaître ses limites renforce la crédibilité."],
+ steps=["Préparer un pitch de 30 secondes.", "Structurer le poster ou la présentation.", "Répéter la reformulation des questions.", "Échanger avec les participants.", "Envoyer un court message de suivi."],
+ trap=["Réciter un texte appris par cœur.", "Éviter toute question sous prétexte de temps.", "Employer un jargon incompréhensible pour l'auditoire.", "Oublier de remercier ou de relancer."],
+ ex=["« My work studies the convergence of sequences. »", "« If I understand correctly... »", "Poster : title, aim, method, results", "« Thank you for our discussion; I will send the preprint. »"],
+ schemas=[("g", "Outils de conférence", ["Outil", "Durée", "But"],
+             [["Pitch", "30 secondes", "Se présenter"], ["Poster", "Visuel", "Montrer"], ["Suivi", "Courriel", "Collaborer"]]),
+          ("s", "De la conférence au réseau", [("Pitch", "Présentation"), ("Questions", "Échange"), ("Suivi", "Collaboration")]),
+          ("c", "Présentation / échange", ("Présentation", ["Pitch ou poster", "Message préparé", "Résultats"]),
+             ("Échange", ["Questions", "Reformulation", "Suite concrète"]))],
+), REF_A)
+
+# ==================== PSYCHOLOGIE — PSY1. à PSY5. ===========================
+
+add(L1, "Psychologie", dict(
+ p="LMPSY1", t="Introduction à la psychologie cognitive",
+ idea="La psychologie cognitive étudie les processus mentaux — perception, attention, mémoire, raisonnement — en les modélisant comme des traitements de l'information.",
+ eq="entrée → traitement → sortie ; capacité attentionnelle limitée",
+ leg="schéma : structure de connaissance · biais : déviation systématique",
+ facts=[
+  ("Objet", "les processus mentaux", "La psychologie cognitive s'intéresse à la façon dont l'esprit acquiert, traite et restitue l'information, plus qu'au contenu des pensées."),
+  ("Modèle du traitement", "entrée, traitement, sortie", "Le cerveau est modélisé comme un système qui reçoit des stimulations, les transforme et produit une réponse ou une décision."),
+  ("Attention", "ressource limitée", "L'attention est sélective et de capacité limitée : on ne peut traiter simultanément qu'une quantité restreinte d'informations."),
+  ("Mémoire de travail", "maintien et manipulation", "La mémoire de travail maintient temporairement l'information et la manipule ; sa capacité est d'environ 4 éléments groupés."),
+  ("Schémas", "structures de connaissance", "Les schémas organisent les connaissances acquises et guident l'interprétation des nouvelles situations."),
+  ("Biais cognitifs", "déviations systématiques", "Certains raccourcis mentaux produisent des erreurs prévisibles, comme le biais de confirmation ou l'ancrage."),
+  ("Méthodes", "expériences et temps de réaction", "L'expérimentation et la mesure du temps de réaction permettent d'inférer les étapes d'un traitement invisible."),
+ ],
+ grille=(["Processus", "Fonction", "Limite"],
+   [["Attention", "Sélectionner", "Capacité limitée"], ["Mémoire de travail", "Manipuler", "4 éléments"], ["Schéma", "Interpréter", "Biais"]]),
+ list=["L'attention est une ressource limitée.", "La mémoire de travail maintient et manipule.", "Les schémas guident l'interprétation.", "Un biais est une déviation systématique, pas une erreur aléatoire."],
+ steps=["Définir le processus mental étudié.", "Formuler une hypothèse mesurable.", "Choisir une tâche expérimentale adaptée.", "Mesurer temps de réaction et erreurs.", "Interpréter les résultats en terme de modèle."],
+ trap=["Confondre attention et conscience.", "Croire que la mémoire de travail est illimitée.", "Prendre un biais pour une erreur due à la fatigue.", "Déduire un mécanisme d'une seule observation."],
+ ex=["Effet Stroop : interférence automatique", "Empan de 7 ± 2 (Miller), revu à ~4 (Cowan)", "Biais d'ancrage dans une estimation", "Temps de réaction plus long pour une tâche difficile"],
+ schemas=[("g", "Modèle de traitement", ["Étape", "Processus", "Exemple"],
+             [["Entrée", "Perception", "Stimulus"], ["Traitement", "Attention", "Sélection"], ["Sortie", "Réponse", "Décision"]]),
+          ("s", "Étudier un processus", [("Hypothèse", "Tâche"), ("Mesures", "Temps, erreurs"), ("Modèle", "Conclusion")]),
+          ("c", "Traitement automatique / contrôlé", ("Automatique", ["Rapide", "Involontaire", "Peu coûteux"]),
+             ("Contrôlé", ["Lent", "Volontaire", "Coûteux"]))],
+), REF_P)
+
+add(L1, "Psychologie", dict(
+ p="LMPSY2", t="Psychologie du développement",
+ idea="Le développement psychologique décrit les changements systématiques des capacités cognitives et socio-émotionnelles au cours de la vie, selon des étapes et sous l'influence de l'environnement.",
+ eq="assimilation ↔ accommodation → équilibration (Piaget)",
+ leg="stade : période organisationnée · maturation · apprentissage",
+ facts=[
+  ("Développement cognitif", "changements dans la pensée", "Il concerne l'évolution des structures mentales : de la perception sensorimotrice au raisonnement abstrait."),
+  ("Théorie de Piaget", "stades successifs", "L'enfant construit ses connaissances par assimilation et accommodation ; les stades sensorimoteur, préopératoire, opératoire concret et formel se succèdent."),
+  ("Assimilation", "intégrer au connu", "L'assimilation consiste à interpréter une nouvelle situation avec les schémas existants, sans les modifier."),
+  ("Accommodation", "modifier ses schémas", "L'accommodation ajuste les schémas existants pour tenir compte d'une situation qui ne s'y conforme pas."),
+  ("Théorie de Vygotski", "rôle du social", "Le développement résulte d'interactions sociales : la zone de développement proximal sépare ce que l'enfant fait seul de ce qu'il accomplit avec de l'aide."),
+  ("Attachement", "lien avec le donneur de soins", "L'attachement décrit le lien émotionnel qui s'établit avec le parent : il influence l'exploration et la régulation des émotions."),
+  ("Nature et culture", "interaction", "Le développement résulte de l'interaction entre maturation biologique et expériences sociales : ni l'un ni l'autre n'agit seul."),
+ ],
+ grille=(["Stade (Piaget)", "Âge approx.", "Acquisition"],
+   [["Sensorimoteur", "0-2 ans", "Objet permanent"], ["Préopératoire", "2-7 ans", "Symbolisation"], ["Opératoire concret", "7-12 ans", "Conservation"]]),
+ list=["Assimilation et accommodation sont complémentaires.", "Vygotski insiste sur le rôle du social.", "La zone proximale mesure le potentiel d'apprentissage.", "L'attachement influence l'exploration."],
+ steps=["Situer le comportement dans une étape du développement.", "Déterminer les schémas impliqués.", "Analyser le rôle des interactions sociales.", "Distinguer maturation et apprentissage.", "Interpréter sans surestimer l'âge."],
+ trap=["Appliquer les stades de Piaget comme des dates fixes.", "Confondre assimilation et accommodation.", "Négliger les différences individuelles.", "Réduire le développement à la seule maturation."],
+ ex=["Conservation des quantités vers 7-12 ans", "Aide d'un adulte dans la zone proximale", "Attachement sécure et exploration", "Égocentrisme préopératoire"],
+ schemas=[("g", "Les stades", ["Stade", "Âge", "Acquisition"],
+             [["Sensorimoteur", "0-2 ans", "Objet permanent"], ["Préopératoire", "2-7 ans", "Symboles"], ["Opératoire formel", "12 ans+", "Abstraction"]]),
+          ("s", "Construire une connaissance", [("Assimilation", "Déséquilibre"), ("Accommodation", "Équilibration")]),
+          ("c", "Piaget / Vygotski", ("Piaget", ["Stades universels", "Construction individuelle", "Équilibration"]),
+             ("Vygotski", ["Rôle social", "Zone proximale", "Médiation"]))],
+ ), REF_P)
+
+add(L2, "Psychologie", dict(
+ p="LMPSY3", t="Psychologie sociale",
+ idea="La psychologie sociale étudie comment les situations sociales et les interactions influencent les pensées, les émotions et les comportements des individus.",
+ eq="situation ↔ cognition ↔ comportement",
+ leg="conformité · influence · identité sociale · biais d'attribution",
+ facts=[
+  ("Influence sociale", "conformité et obéissance", "Les expériences de conformité montrent que le groupe peut modifier le jugement individuel, même lorsque la réponse est évidente."),
+  ("Conformité", "adhérer au groupe", "La conformité peut être informative (on cherche à avoir raison) ou normative (on cherche à être accepté)."),
+  ("Biais d'attribution", "expliquer le comportement d'autrui", "On tend à expliquer les actions d'autrui par des traits de personnalité et les siennes par la situation : c'est l'erreur fondamentale d'attribution."),
+  ("Dissonance cognitive", "inconfort des idées contradictoires", "Lorsque deux cognitions sont incompatibles, un état de tension apparaît que l'individu cherche à réduire."),
+  ("Identité sociale", "appartenance à un groupe", "L'appartenance à un groupe et la comparaison avec d'autres groupes structurent l'estime de soi et les comportements."),
+  ("Stéréotype", "généralisation sur un groupe", "Un stéréotype est une croyance simplificatrice sur un groupe ; il peut produire une menace stéréotypée et dégrader la performance."),
+  ("Dynamique de groupe", "rôles et normes", "Les normes de groupe et les rôles influencent la prise de décision ; la pensée de groupe peut exclure les opinions divergentes."),
+ ],
+ grille=(["Phénomène", "Mécanisme", "Effet"],
+   [["Conformité", "Pression du groupe", "Alignement"], ["Attribution", "Biais fondamental", "Jugement"], ["Dissonance", "Conflit cognitif", "Réduction"]]),
+ list=["La conformité peut être normative ou informative.", "L'erreur fondamentale favorise les explications dispositionnelles.", "La dissonance motive un changement d'attitude.", "Les stéréotypes peuvent affecter la performance."],
+ steps=["Décrire la situation sociale.", "Identifier les acteurs et les normes.", "Repérer les biais d'attribution possibles.", "Analyser les mécanismes d'influence.", "Relier les observations au comportement observé."],
+ trap=["Expliquer un comportement uniquement par la personnalité.", "Confondre conformité et obéissance à une autorité.", "Ignorer le rôle des normes implicites du groupe.", "Traiter un stéréotype comme une donnée factuelle."],
+ ex=["Expérience de conformité d'Asch", "« Il a échoué parce qu'il est maladroit »", "Justifier un achat après coup (dissonance)", "Menace stéréotypée avant un test"],
+ schemas=[("g", "Influences sociales", ["Phénomène", "Question", "Effet"],
+             [["Conformité", "Suivre le groupe ?", "Alignement"], ["Attribution", "Pourquoi ?", "Biais"], ["Identité", "À qui appartient-on ?", "Comparaison"]]),
+          ("s", "Analyser une situation", [("Situation", "Normes"), ("Cognitions", "Biais"), ("Comportement", "Effet")]),
+          ("c", "Attribution dispositionnelle / situationnelle", ("Dispositionnelle", ["Trait personnel", "Erreur fondamentale", "Autrui"]),
+             ("Situationnelle", ["Contexte", "Contraintes", "Soi"]))],
+), REF_P)
+
+add(["L2", "L3"], "Psychologie", dict(
+ p="LMPSY4", t="Cognition mathématique et apprentissage",
+ idea="L'apprentissage des mathématiques repose sur la construction de représentations mentales et sur la coordination entre compréhension conceptuelle et maîtrise procédurale.",
+ eq="compréhension conceptuelle + procédures + pratique espacée",
+ leg="représentation : image mentale · transfert : réutilisation · conceptual change",
+ facts=[
+  ("Représentations mentales", "images et schémas", "Les apprenants se construisent des représentations des objets mathématiques ; leur richesse conditionne la compréhension des notions abstraites."),
+  ("Conceptuel et procédural", "comprendre et appliquer", "Savoir appliquer une règle ne garantit pas la compréhension : les deux dimensions se développent en interaction."),
+  ("Erreurs", "révélatrices des conceptions", "Une erreur persistante trahit souvent une conception erronée de l'élève, qu'il faut expliciter plutôt que corriger mécaniquement."),
+  ("Transfert", "réutiliser un savoir", "Le transfert d'une notion d'un contexte à un autre n'est pas automatique : il dépend de la variété des situations d'apprentissage."),
+  ("Changement conceptuel", "réorganiser ses idées", "Apprendre peut exiger de restructurer une conception ancienne, ce qui suppose de prendre conscience de son insuffisance."),
+  ("Pratique espacée", "revoir à intervalles", "La répétition espacée et l'auto-évaluation améliorent la rétention des concepts et des procédures plus que la relecture massive."),
+  ("Anxiété mathématique", "émotion et performance", "L'anxiété peut occuper la mémoire de travail et réduire la performance : elle agit sur le traitement, pas seulement sur la motivation."),
+ ],
+ grille=(["Dimension", "Question", "Levier"],
+   [["Conceptuel", "Comprendre ?", "Représentations"], ["Procédural", "Appliquer ?", "Exercices"], ["Transfert", "Réutiliser ?", "Variété"]]),
+ list=["Une procédure maîtrisée ne prouve pas la compréhension.", "Les erreurs révèlent des conceptions sous-jacentes.", "Le transfert doit être entraîné.", "L'anxiété consomme des ressources cognitives."],
+ steps=["Repérer la conception de l'apprenant.", "Confronter la procédure à la compréhension.", "Proposer des situations variées.", "Favoriser le rappel espacé et l'auto-test.", "Accompagner les émotions liées à la tâche."],
+ trap=["Corriger une erreur sans en chercher la cause.", "Entraîner uniquement la procédure.", "Supposer que le transfert est automatique.", "Ignorer l'effet de l'anxiété sur la mémoire de travail."],
+ ex=["« 0,5 > 0,25 car 25 est plus grand que 5 »", "Dérivation comprise vs appliquée", "Transfert d'une suite à une série", "Auto-test espacé en fin de semaine"],
+ schemas=[("g", "Apprendre les maths", ["Dimension", "Indicateur", "Levier"],
+             [["Conceptuel", "Expliquer", "Représentations"], ["Procédural", "Résoudre", "Exercices"], ["Transfert", "Réutiliser", "Variété"]]),
+          ("s", "Construire une notion", [("Conception", "Conflit"), ("Réorganisation", "Pratique"), ("Transfert", "Rétention")]),
+          ("c", "Erreur aléatoire / conception", ("Aléatoire", ["Inattention", "Variable", "Correction simple"]),
+             ("Conception", ["Systématique", "Cohérente pour l'élève", "À expliciter"]))],
+), REF_P)
+
+add(L3, "Psychologie", dict(
+ p="LMPSY5", t="Motivation et apprentissage",
+ idea="La motivation ne se réduit pas à la volonté : elle résulte de l'interaction entre les besoins, les objectifs, le sentiment de compétence et la valeur accordée à la tâche.",
+ eq="motivation = valeur perçue × expectative × soutien",
+ leg="intrinsèque : pour l'activité elle-même · extrinsèque : pour une récompense",
+ facts=[
+  ("Motivation intrinsèque", "intérêt pour la tâche", "L'activité est menée pour le plaisir ou l'intérêt qu'elle procure : elle favorise la persistance et la qualité du traitement."),
+  ("Motivation extrinsèque", "récompense ou sanction", "Le comportement vise une conséquence externe (note, salaire) : elle peut soutenir l'engagement mais parfois déplacer l'intérêt initial."),
+  ("Sentiment de compétence", "croire en sa réussite", "L'attente de réussite (self-efficacy) prédit la persistance : une tâche trop difficile ou trop facile la diminue."),
+  ("Théorie de l'autodétermination", "autonomie, compétence, lien", "La motivation durable est favorisée lorsque l'environnement soutient l'autonomie, la compétence et le lien social."),
+  ("Objectifs", "maîtrise ou performance", "Un objectif de maîtrise vise l'apprentissage ; un objectif de performance vise l'apparence de compétence et peut accroître l'anxiété."),
+  ("Rétroaction", "feedback informatif", "Un retour centré sur la stratégie et le progrès est plus motivant qu'un simple jugement de valeur ou une note."),
+  ("Autonomie", "contrôle perçu", "Offrir un choix réel et expliquer le sens d'une tâche renforce l'engagement, même pour des activités contraignantes."),
+ ],
+ grille=(["Type", "Source", "Effet"],
+   [["Intrinsèque", "Intérêt", "Persistance"], ["Extrinsèque", "Récompense", "Engagement"], ["Autodétermination", "Autonomie", "Durabilité"]]),
+ list=["La motivation est multidimensionnelle.", "Le sentiment de compétence prédit la persistance.", "Un feedback sur la stratégie est plus utile qu'un jugement.", "L'autonomie soutient la motivation durable."],
+ steps=["Repérer le type de motivation dominant.", "Évaluer le sentiment de compétence.", "Expliquer le sens et les objectifs de la tâche.", "Offrir des choix et un feedback informatif.", "Réévaluer régulièrement l'engagement."],
+ trap=["Réduire la motivation à la seule volonté.", "Croire que toute récompense renforce l'intérêt.", "Donner uniquement des notes comme retour.", "Imposer sans expliquer le sens de la tâche."],
+ ex=["Lire un article par curiosité (intrinsèque)", "Travailler pour une bourse (extrinsèque)", "Feedback : « ta méthode de recherche est efficace »", "Choisir l'ordre des exercices"],
+ schemas=[("g", "Sources de motivation", ["Type", "Question", "Levier"],
+             [["Intrinsèque", "Intérêt ?", "Curiosité"], ["Extrinsèque", "Récompense ?", "Objectif"], ["Autonomie", "Choix ?", "Sens"]]),
+          ("s", "Soutenir l'engagement", [("Compétence", "Objectifs"), ("Feedback", "Autonomie"), ("Persistance", "Résultat")]),
+          ("c", "Objectif de maîtrise / de performance", ("Maîtrise", ["Apprendre", "Progrès", "Persistance"]),
+             ("Performance", ["Paraître compétent", "Comparaison", "Anxiété"]))],
+), REF_P)
+
+# ==================== ÉCONOMIE — EC1. à EC5. ================================
+
+add(L1, "Économie", dict(
+ p="LMEC1", t="Offre et demande : formation des prix",
+ idea="Sur un marché concurrentiel, le prix résulte de la rencontre entre l'offre des producteurs et la demande des consommateurs ; l'équilibre se situe à l'intersection des deux courbes.",
+ eq="Qd(p) = Qo(p) ⇒ p* (prix d'équilibre)",
+ leg="Qd : quantité demandée · Qo : quantité offerte · p* : prix d'équilibre",
+ facts=[
+  ("Loi de la demande", "prix ↑ ⇒ quantité demandée ↓", "À prix plus élevé, les consommateurs achètent moins : la courbe de demande est décroissante."),
+  ("Loi de l'offre", "prix ↑ ⇒ quantité offerte ↑", "À prix plus élevé, les producteurs vendent davantage : la courbe d'offre est croissante."),
+  ("Équilibre", "Qd(p*) = Qo(p*)", "Au prix d'équilibre, les quantités offertes et demandées coïncident : il n'y a ni excédent ni pénurie."),
+  ("Déséquilibre", "excédent ou pénurie", "Si le prix est supérieur à p*, l'offre dépasse la demande (excédent) ; s'il est inférieur, la demande dépasse l'offre (pénurie)."),
+  ("Mouvement le long de la courbe", "variation du prix", "Une variation du prix propre du bien déplace la quantité sur une courbe donnée : c'est un mouvement, pas un déplacement de courbe."),
+  ("Déplacement de la courbe", "changement d'un autre facteur", "Revenu, goûts, prix des autres biens ou technologie déplacent la courbe tout entière."),
+  ("Fonction de demande", "Qd = a − b·p", "L'équation linéaire permet de calculer l'équilibre par résolution : on égale offre et demande."),
+ ],
+ grille=(["Prix", "Offre / demande", "Situation"],
+   [["p < p*", "Qd > Qo", "Pénurie"], ["p = p*", "Qd = Qo", "Équilibre"], ["p > p*", "Qo > Qd", "Excédent"]]),
+ list=["La courbe de demande est décroissante, celle d'offre croissante.", "À l'équilibre, offre et demande s'égalisent.", "Un changement de prix déplace la quantité sur la courbe.", "Un changement d'un autre facteur déplace la courbe."],
+ steps=["Identifier le bien et le marché.", "Tracer ou écrire les fonctions d'offre et de demande.", "Égaliser les quantités.", "Résoudre pour obtenir p* puis Q*.", "Interpréter les effets d'un choc."],
+ trap=["Confondre mouvement et déplacement de courbe.", "Croire qu'un prix imposé inférieur à p* crée un excédent.", "Oublier que l'équilibre porte sur les quantités.", "Appliquer la loi de la demande à un bien de Veblen sans précaution."],
+ ex=["Qd=100−2p, Qo=20+2p ⇒ p*=20", "Prix imposé bas ⇒ file d'attente", "Hausse du revenu ⇒ déplacement de la demande", "Baisse du coût de production ⇒ déplacement de l'offre"],
+ schemas=[("g", "L'équilibre", ["Prix", "Quantités", "État"],
+             [["p<p*", "Qd>Qo", "Pénurie"], ["p=p*", "Qd=Qo", "Équilibre"], ["p>p*", "Qo>Qd", "Excédent"]]),
+          ("s", "Former un prix", [("Offre", "Demande"), ("Intersection", "p* et Q*"), ("Choc", "Nouvel équilibre")]),
+          ("c", "Mouvement / déplacement", ("Mouvement", ["Prix du bien change", "Le long de la courbe", "Quantité varie"]),
+             ("Déplacement", ["Autre facteur", "Courbe entière", "Nouvelle relation"]))],
+), REF_E)
+
+add(L1, "Économie", dict(
+ p="LMEC2", t="Élasticités et décisions de prix",
+ idea="L'élasticité-prix mesure la sensibilité de la demande à une variation de prix : elle détermine si une hausse de prix augmente ou diminue le chiffre d'affaires.",
+ eq="ε = (ΔQd/Qd) / (Δp/p) ; CA = p·Qd",
+ leg="ε : élasticité (valeur absolue) · ε>1 : élastique · ε<1 : inélastique",
+ facts=[
+  ("Élasticité-prix", "sensibilité de la quantité", "L'élasticité rapporte la variation relative de la quantité demandée à la variation relative du prix ; c'est un nombre sans unité."),
+  ("Demande élastique", "|ε| > 1", "La quantité réagit plus que le prix : une hausse de prix fait baisser le chiffre d'affaires."),
+  ("Demande inélastique", "|ε| < 1", "La quantité réagit moins que le prix : une hausse de prix augmente le chiffre d'affaires."),
+  ("Élasticité unitaire", "|ε| = 1", "Les variations relatives s'équilibrent : le chiffre d'affaires reste constant lors d'une petite variation de prix."),
+  ("Déterminants", "substituabilité et nécessité", "Un bien avec beaucoup de substituts est plus élastique ; un bien nécessaire ou peu coûteux dans le budget est moins élastique."),
+  ("Élasticité-revenu", "sensibilité au revenu", "Un bien normal a une élasticité-revenu positive ; un bien inférieur une élasticité négative."),
+  ("Revenu total", "CA = p × Q", "L'effet prix et l'effet quantité s'opposent : l'élasticité détermine quel effet domine."),
+ ],
+ grille=(["Élasticité", "Réaction", "Hausse de prix"],
+   [["|ε|>1", "Fort", "CA baisse"], ["|ε|=1", "Proportionnelle", "CA stable"], ["|ε|<1", "Faible", "CA monte"]]),
+ list=["L'élasticité est une grandeur relative, sans unité.", "Pour ε>1, prix et chiffre d'affaires varient en sens contraires.", "La substituabilité augmente l'élasticité.", "L'horizon temporel influence l'élasticité."],
+ steps=["Calculer les variations relatives de Q et p.", "En déduire l'élasticité.", "Comparer sa valeur absolue à 1.", "Déterminer l'effet sur le chiffre d'affaires.", "Décider d'une stratégie de prix."],
+ trap=["Confondre pente et élasticité.", "Oublier la valeur absolue dans la comparaison à 1.", "Croire qu'une demande est toujours élastique.", "Ignorer l'effet des substituts et du délai."],
+ ex=["ε=−2 : +10 % de prix ⇒ −20 % de quantité", "Médicament : demande peu élastique", "CA : 10×100 = 1000 avant hausse", "Bien inférieur : élasticité-revenu négative"],
+ schemas=[("g", "Décider du prix", ["Élasticité", "Réaction Q", "Chiffre d'affaires"],
+             [["|ε|>1", "Forte", "Baisse si prix ↑"], ["|ε|=1", "Égale", "Stable"], ["|ε|<1", "Faible", "Hausse si prix ↑"]]),
+          ("s", "Calculer l'élasticité", [("Variations", " relatives"), ("Ratio", "ε"), ("Décision", "Prix")]),
+          ("c", "Élastique / inélastique", ("Élastique", ["|ε|>1", "Substituts", "Sensible au prix"]),
+             ("Inélastique", ["|ε|<1", "Nécessité", "Peu sensible"]))],
+), REF_E)
+
+add(L2, "Économie", dict(
+ p="LMEC3", t="Structures de marché et concurrence",
+ idea="La structure d'un marché — nombre d'acteurs, barrières à l'entrée, différenciation des produits — détermine le pouvoir de fixation des prix et les stratégies des entreprises.",
+ eq="concurrence parfaite : p = Coût marginal",
+ leg="barrières à l'entrée · pouvoir de marché · monopole, oligopole",
+ facts=[
+  ("Concurrence parfaite", "producteurs prix-preneurs", "De nombreux producteurs offrent un produit homogène : chacun subit le prix du marché et produit jusqu'à Coût marginal = prix."),
+  ("Monopole", "un seul producteur", "Le producteur fixe le prix ou la quantité ; il fait face à toute la demande du marché et dispose d'un pouvoir de prix."),
+  ("Oligopole", "quelques producteurs", "Les décisions des firmes sont interdépendantes : le comportement d'un concurrent influence les prix et quantités des autres."),
+  ("Concurrence monopolistique", "produits différenciés", "De nombreuses firmes offrent des produits légèrement différents : la différenciation donne un pouvoir de prix limité."),
+  ("Barrières à l'entrée", "obstacles à la concurrence", "Économies d'échelle, brevets ou coûts de spécialisation protègent les firmes installées et peuvent entretenir un pouvoir de marché."),
+  ("Pouvoir de marché", "écart prix-coût marginal", "Plus l'écart entre prix et coût marginal est grand, plus la firme dispose de pouvoir sur le prix."),
+  ("Bien-être", "surplus et perte sèche", "Le monopole réduit la quantité et augmente le prix par rapport à la concurrence : il apparaît une perte de bien-être (perte sèche)."),
+ ],
+ grille=(["Marché", "Nombre de firmes", "Prix"],
+   [["Concurrence parfaite", "Nombreux", "Donné"], ["Monopole", "Une", "Fixé"], ["Oligopole", "Quelques", "Interdépendant"]]),
+ list=["En concurrence parfaite, p = Coût marginal.", "Le monopole fixe prix ou quantité, pas les deux.", "En oligopole, les stratégies sont interdépendantes.", "Les barrières à l'entrée entretiennent le pouvoir de marché."],
+ steps=["Compter les producteurs et les consommateurs.", "Évaluer l'homogénéité du produit.", "Repérer les barrières à l'entrée.", "Déterminer le pouvoir de prix.", "Comparer quantité et prix à la concurrence parfaite."],
+ trap=["Confondre oligopole et monopole.", "Croire qu'un monopole peut fixer prix et quantité simultanément.", "Ignorer la différenciation des produits.", "Oublier la perte sèche liée au pouvoir de marché."],
+ ex=["Marché du blé : concurrence proche de parfaite", "Monopole d'un réseau local", "Oligopole des télécommunications", "Brevet comme barrière à l'entrée"],
+ schemas=[("g", "Quatre structures", ["Marché", "Firmes", "Pouvoir prix"],
+             [["Concurrence", "Nombreuses", "Nul"], ["Monopole", "Une", "Fort"], ["Oligopole", "Quelques", "Interdépendant"]]),
+          ("e", "Analyser un marché", [("Nombre d'acteurs", "Produit"), ("Barrières", "Pouvoir prix"), ("Bien-être", "Conclusion")]),
+          ("c", "Concurrence / monopole", ("Concurrence", ["p=Cmarg", "Quantité élevée", "Pas de perte sèche"]),
+             ("Monopole", ["p>Cmarg", "Quantité réduite", "Perte sèche"]))],
+), REF_E)
+
+add(L2, "Économie", dict(
+ p="LMEC4", t="Comptes nationaux et PIB",
+ idea="Le PIB mesure la valeur produite sur un territoire pendant une période : sa comptabilisation suit des conventions précises et trois optiques complémentaires.",
+ eq="PIB = somme des valeurs ajoutées = consommation + investissement + solde commercial",
+ leg="valeur ajoutée = production − consommations intermédiaires · PIB réel vs nominal",
+ facts=[
+  ("PIB", "produit intérieur brut", "Le PIB additionne les valeurs ajoutées des unités résidentes sur le territoire pendant une période donnée, généralement l'année."),
+  ("Valeur ajoutée", "production − consommations intermédiaires", "Elle mesure la richesse créée par une unité de production : la somme des valeurs ajoutées donne le PIB."),
+  ("Optique de la production", "somme des VA", "On totalise les valeurs ajoutées de tous les secteurs, la TVA et les impôts sur les produits."),
+  ("Optique de la dépense", "C + I + G + (X − M)", "Le PIB se décompose en consommation des ménages, investissement, dépenses publiques et solde commercial."),
+  ("Optique du revenu", "salaires + profits + impôts", "La valeur ajoutée se répartit entre rémunération du travail, excédent brut d'exploitation et impôts."),
+  ("PIB nominal et réel", "corriger de l'inflation", "Le PIB nominal est évalué aux prix courants ; le PIB réel est corrigé de l'inflation pour mesurer le volume."),
+  ("Limites du PIB", "hors marché et bien-être", "Le PIB ne mesure ni les activités non marchandes non comptabilisées, ni la qualité de vie, ni les dommages environnementaux."),
+ ],
+ grille=(["Optique", "Formule", "Question"],
+   [["Production", "ΣVA", "Qui produit ?"], ["Dépense", "C+I+G+X−M", "Qui achète ?"], ["Revenu", "Salaires+profits", "Qui gagne ?"]]),
+ list=["Le PIB est un flux annuel, pas un stock.", "Les trois optiques donnent le même total.", "Le PIB réel corrige l'effet des prix.", "Le PIB n'est pas un indicateur de bien-être."],
+ steps=["Délimiter le territoire et la période.", "Calculer les valeurs ajoutées.", "Vérifier par l'optique de la dépense.", "Distinguer PIB nominal et PIB réel.", "Commenter les limites de l'indicateur."],
+ trap=["Additionner les productions sans déduire les consommations intermédiaires.", "Confondre PIB et PNB.", "Oublier de corriger l'inflation pour comparer deux années.", "Interpréter le PIB comme un indicateur de bonheur."],
+ ex=["VA = 200 − 80 = 120", "PIB = C+I+G+(X−M)", "PIB réel = PIB nominal / déflateur", "Le bénévolat n'entre pas dans le PIB"],
+ schemas=[("g", "Trois optiques", ["Optique", "Formule", "Question"],
+             [["Production", "ΣVA", "Qui produit ?"], ["Dépense", "C+I+G+X−M", "Qui achète ?"], ["Revenu", "Salaires+profits", "Qui gagne ?"]]),
+          ("e", "Calculer le PIB", [("Délimiter", "Production"), ("VA", "Dépense"), ("Revenu", "Comparaison")]),
+          ("c", "PIB nominal / réel", ("Nominal", ["Prix courants", "Subit l'inflation", "peut croître sans volume"]),
+             ("Réel", ["Prix constants", "Corrigé", "Mesure le volume"]))],
+), REF_E)
+
+add(L3, "Économie", dict(
+ p="LMEC5", t="Inflation, chômage et politiques économiques",
+ idea="Inflation et chômage sont deux indicateurs de déséquilibre macroéconomique ; les politiques monétaire et budgétaire cherchent à stabiliser l'activité, parfois au prix d'arbitrages difficiles.",
+ eq="π ≈ (montée des prix) ; taux de chômage = chômeurs / population active",
+ leg="politique monétaire : taux et masse monétaire · politique budgétaire : dépenses et impôts",
+ facts=[
+  ("Inflation", "hausse générale et durable des prix", "Elle réduit le pouvoir d'achat si les revenus suivent moins vite que les prix ; elle se mesure à partir d'un indice de prix."),
+  ("Mesure de l'inflation", "variation de l'IPC", "L'indice des prix à la consommation suit un panier de biens ; l'inflation est la variation annuelle de cet indice."),
+  ("Chômage", "sans emploi, disponible et en recherche", "Le taux de chômage rapporte le nombre de chômeurs à la population active : il ne mesure pas l'emploi de mauvaise qualité."),
+  ("Types de chômage", "frictionnel, structurel, conjoncturel", "Le chômage frictionnel vient de la recherche d'emploi, le structurel d'une inadéquation des compétences, le conjoncturel d'une insuffisance de demande."),
+  ("Courbe de Phillips", "arbitrage inflation-chômage", "À court terme, une baisse du chômage peut s'accompagner d'une hausse de l'inflation ; cet arbitrage n'est pas stable à long terme."),
+  ("Politique monétaire", "taux directeurs", "Une banque centrale relève ses taux pour freiner l'inflation, ou les baisse pour soutenir l'activité, avec des délais d'effet."),
+  ("Politique budgétaire", "dépenses et fiscalité", "L'État peut augmenter les dépenses ou baisser les impôts pour relancer la demande, mais il accroît alors son déficit."),
+ ],
+ grille=(["Indicateur", "Mesure", "Problème"],
+   [["Inflation", "Variation IPC", "Pouvoir d'achat"], ["Chômage", "Chômeurs/actifs", "Emploi"], ["Croissance", "PIB réel", "Activité"]]),
+ list=["L'inflation est une hausse générale et durable des prix.", "Le chômage structurel vient d'une inadéquation des compétences.", "La politique monétaire agit avec des délais.", "La politique budgétaire peut creuser le déficit public."],
+ steps=["Mesurer l'indicateur et son évolution.", "Identifier le type de déséquilibre.", "Choisir l'instrument adapté.", "Anticiper les délais et effets indésirables.", "Évaluer les arbitrages entre objectifs."],
+ trap=["Confondre inflation et hausse d'un seul prix.", "Croire que le taux de chômage mesure tous les sans-emploi.", "Ignorer les délais de la politique monétaire.", "Supposer que la courbe de Phillips est stable à long terme."],
+ ex=["IPC +2 % sur un an", "Chômage conjoncturel en récession", "Hausse des taux directeurs pour freiner l'inflation", "Relance budgétaire par la dépense publique"],
+ schemas=[("g", "Deux déséquilibres", ["Indicateur", "Mesure", "Risque"],
+             [["Inflation", "Variation IPC", "Pouvoir d'achat"], ["Chômage", "Chômeurs/actifs", "Revenus"], ["Arbitrage", "Phillips", "Délais"]]),
+          ("s", "Stabiliser l'économie", [("Diagnostic", "Objectif"), ("Instrument", "Délais"), ("Arbitrage", "Évaluation")]),
+          ("c", "Monétaire / budgétaire", ("Monétaire", ["Taux directeurs", "Banque centrale", "Délais longs"]),
+             ("Budgétaire", ["Dépenses, impôts", "État", "Déficit"]))],
+ ), REF_E)
+
+valider_et_ecrire(F, "licmaths-mat-part-C.json")

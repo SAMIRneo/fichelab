@@ -12,7 +12,7 @@ from fixtures import (fiche, qcm, qt, diag, svg_grille, svg_etapes,
                       svg_compare, bloc, valider_et_ecrire)
 
 FIL = ["bts-bio"]
-AN = ["BTS2"]
+AN = ["BTS1","BTS2"]
 MAT = "Physique-chimie et instrumentation"
 REF = ("Contrôle groupé PC — BTS BIOALC, référentiel U4 physique-chimie "
        "(arrêté 12 mars 2024 modifié 24 juin 2025) · programme officiel · "
@@ -48,7 +48,7 @@ COURBE_T12 = """<svg viewBox="0 0 660 230" width="100%" role="img" aria-label="C
 </svg>"""
 
 F.append(make(
-    "Contrôle PC · 9 · Cinétique : vitesse de réaction et temps de demi-réaction T1/2",
+    "Contrôle PC · Cinétique : vitesse de réaction et temps de demi-réaction T1/2",
     "IUPAC Gold Book (rate of reaction, half-life, reaction order) · LibreTexts Physical Chemistry, integrated rate laws · cours U4 BTS BIOALC, suivi cinétique par absorbance",
     [
         "La cinétique chimique étudie la vitesse à laquelle un système évolue et les facteurs qui la modifient. Elle complète la thermodynamique : une réaction thermodynamiquement favorable peut être très lente si sa barrière énergétique est élevée.",
@@ -154,7 +154,7 @@ F.append(make(
 # 10 — Parametres modifiant la vitesse
 # ===========================================================================
 F.append(make(
-    "Contrôle PC · 10 · Paramètres modifiant la vitesse de réaction",
+    "Contrôle PC · Paramètres modifiant la vitesse de réaction",
     "IUPAC Gold Book (rate constant, activation energy, order of reaction) · LibreTexts Physical Chemistry, Arrhenius equation · cours U4 BTS BIOALC, lois de vitesse",
     [
         "Une loi de vitesse s'écrit v = k·[A]^α·[B]^β : α et β sont les ordres partiels, α + β l'ordre global. Seule l'expérience permet de les déterminer ; ils ne se déduisent pas des coefficients stœchiométriques (sauf mécanisme élémentaire).",
@@ -268,7 +268,7 @@ F.append(make(
 # 11 — Exprimer K°, calculer avec les activites
 # ===========================================================================
 F.append(make(
-    "Contrôle PC · 11 · Exprimer K°, calculer avec les activités et conclure",
+    "Contrôle PC · Exprimer K°, calculer avec les activités et conclure",
     "IUPAC Gold Book (activity, standard state, equilibrium constant) · Atkins Physical Chemistry, chemical equilibrium · cours U4 BTS BIOALC, constantes d'équilibre",
     [
         "Pour une réaction réversible a·A + b·B ⇌ c·C + d·D, le quotient réactionnel s'écrit Q = (a_C^c·a_D^d)/(a_A^a·a_B^b), où a_i désigne l'activité de l'espèce i. À l'équilibre, et à température donnée, Q = K°.",
@@ -378,7 +378,7 @@ F.append(make(
 # 12 — Favoriser le sens direct ou indirect
 # ===========================================================================
 F.append(make(
-    "Contrôle PC · 12 · Favoriser le sens direct ou indirect (Le Chatelier)",
+    "Contrôle PC · Favoriser le sens direct ou indirect (Le Chatelier)",
     "IUPAC Gold Book (Le Chatelier principle, equilibrium displacement) · van't Hoff equation · cours U4 BTS BIOALC, déplacement d'équilibre",
     [
         "Le principe de Le Chatelier : un système à l'équilibre soumis à une perturbation évolue dans le sens qui s'oppose en partie à cette perturbation, jusqu'à un nouvel état d'équilibre. Si la température ne change pas, K° garde la même valeur.",
@@ -496,7 +496,7 @@ F.append(make(
 # 13 — Nucleophile / electrophile
 # ===========================================================================
 F.append(make(
-    "Contrôle PC · 13 · Nucléophile / électrophile : sites réactifs et mécanismes",
+    "Contrôle PC · Nucléophile / électrophile : sites réactifs et mécanismes",
     "IUPAC Gold Book (nucleophile, electrophile, SN1, SN2, addition) · LibreTexts Organic Chemistry, nucleophilic substitution and carbonyl addition · cours U4 BTS BIOALC",
     [
         "Un nucléophile (Nu) est une espèce riche en électrons : ion négatif ou molécule possédant un doublet libre. Il donne une paire d'électrons à un centre pauvre en électrons : c'est une base de Lewis.",
@@ -606,7 +606,7 @@ F.append(make(
 # 14 — Deux couples, deux pKa
 # ===========================================================================
 F.append(make(
-    "Contrôle PC · 14 · Deux couples, deux pKa : pourquoi la réaction fonctionne ?",
+    "Contrôle PC · Deux couples, deux pKa : pourquoi la réaction fonctionne ?",
     "IUPAC Gold Book (Brønsted acid, conjugate pair, pKa) · Henderson-Hasselbalch equation · cours U4 BTS BIOALC, équilibres acido-basiques",
     [
         "Un couple acide-base de Brønsted est formé d'un acide AH (donneur de proton) et de sa base conjuguée A⁻ (accepteur de proton) : AH ⇌ A⁻ + H⁺. Le transfert de proton est toujours réversible.",
@@ -734,7 +734,7 @@ FISCHER_CROSS = """<svg viewBox="0 0 660 240" width="100%" role="img" aria-label
 </svg>"""
 
 F.append(make(
-    "Contrôle PC · 15 · Une projection de Fischer à dessiner (stéréochimie)",
+    "Contrôle PC · Une projection de Fischer à dessiner (stéréochimie)",
     "IUPAC Gold Book (Fischer projection, enantiomer, CIP priority) · LibreTexts Organic Chemistry, stereochemistry · cours U4 BTS BIOALC, representation des molecules chirales",
     [
         "La projection de Fischer représente une molécule à centre(s) asymétrique(s) sous forme d'une croix : le carbone chiral est au centre, la chaîne carbonée est sur l'axe vertical et les deux autres substituts sur l'axe horizontal.",
@@ -840,7 +840,7 @@ F.append(make(
 # Verifications specifiques au lot B avant ecriture
 assert len(F) == 7, "attendu 7 fiches"
 for i, f in enumerate(F, 9):
-    assert f["filieres"] == ["bts-bio"] and f["annees"] == ["BTS2"], i
+    assert f["filieres"] == ["bts-bio"] and f["annees"] == ["BTS1","BTS2"], i
     assert f["matiere"] == "Physique-chimie et instrumentation", i
     assert f["titre"].startswith("Contrôle PC · "), i
     assert len(f["points"]) == 12, (i, "points", len(f["points"]))
