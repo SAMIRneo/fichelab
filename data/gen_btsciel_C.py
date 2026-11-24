@@ -109,7 +109,7 @@ C("L'analyse de situation transforme un cas professionnel en une réponse struct
   "Thèse~Position défendue~Antithèse~Position adverse"))
 
 # ============================================================ PF3
-add("PF3", "Expression écrite professionnelle : note, courriel et compte rendu", "Français", ["BTS1"],
+add("PF3", "Expression écrite professionnelle : note, courriel et compte rendu", "Français", ["BTS2"],
 S("L'écrit professionnel vise l'efficacité : transmettre une information exacte, à un destinataire précis, dans un format attendu et dans un délai court."
   "|La note de synthèse ou de cadrage présente une situation, une analyse et des recommandations dans un format court et hiérarchisé."
   "|Le courriel professionnel comporte un objet précis, une formule d'appel, un corps structuré, une demande explicite et une formule de politesse."
@@ -661,7 +661,7 @@ C("L'amélioration continue est un cycle : mesurer, analyser, tester, contrôler
   "Action correctrice~Traite la cause~Action palliative~Traite le symptôme"))
 
 # ============================================================ ME3
-add("ME3", "Recherche documentaire et évaluation des sources", "Méthodologie", ["BTS1"],
+add("ME3", "Recherche documentaire et évaluation des sources", "Méthodologie", ["BTS2"],
 S("La recherche documentaire vise à trouver l'information fiable et pertinente nécessaire à une décision ou à un rapport."
   "|Elle commence par l'analyse du besoin : question précise, mots-clés, période, type de document et niveau de fiabilité requis."
   "|Les sources primaires sont les textes officiels, les données brutes et les témoignages directs ; les sources secondaires les commentent ou les synthétisent."
@@ -751,6 +751,190 @@ C("Une soutenance réussie raconte une démarche, justifie des choix, montre des
   "15 minutes~Durée d'oral~40 postes~Exemple de contexte~5 minutes~Marge pour les questions~Plan B~Capture de secours~E6~Unité de projet IR",
   "Démonstration~Preuve de fonctionnement~Schéma~Preuve de conception",
   "Chronomètre~Maîtrise du temps~Mots-clés~Appui à l'oral"))
+
+# ============================================================ CG1
+add("CG1", "Comptabilité générale : bilan et compte de résultat", "Comptabilité et gestion", ["BTS1"],
+S("La comptabilité générale enregistre, classe et synthétise les opérations d'une organisation selon le plan comptable général."
+  "|Le bilan décrit à une date donnée l'actif, c'est-à-dire ce que l'entreprise possède, et le passif, c'est-à-dire où elle a trouvé les ressources pour le financer."
+  "|L'actif se divise en actif immobilisé (usage durable) et actif circulant (stocks, créances, disponibilités)."
+  "|Le passif comprend les capitaux propres, les provisions et les dettes, classées selon leur échéance."
+  "|Le principe de dualité impose que chaque opération modifie au moins deux comptes pour un montant égal : l'égalité actif = passif est toujours respectée."
+  "|Le compte de résultat retrace les produits et les charges de l'exercice et fait ressortir le résultat : produit = recette, charge = dépense."
+  "|Le résultat se calcule par différence entre les produits et les charges ; il est bénéficiaire si les produits l'emportent."
+  "|Le plan comptable général organise les comptes en classes : 1 capitaux, 2 immobilisations, 3 stocks, 4 tiers, 5 comptes financiers, 6 charges, 7 produits."
+  "|Le principe de indépendance des exercices impose de rattacher chaque opération à la période qui la concerne, quel que soit le paiement."
+  "|Les amortissements répartissent la valeur d'une immobilisation sur sa durée d'utilisation : ils représentent l'usure et la perte de valeur."
+  "|Les provisions constatent des risques ou des charges probables dont le montant ou l'échéance est incertain."
+  "|Pour un projet informatique, distinguer une dépense d'investissement (immobilisation) et une dépense de fonctionnement (charge) est un arbitrage comptable important."),
+[QC("Que décrit le bilan ?", "Les seules recettes de l'année~Actif et passif à une date donnée~Les salaires~Les seuls clients", 1,
+     "Le bilan est un état patrimonial à une date précise."),
+ QC("Quel principe impose l'égalité actif = passif ?", "La dualité~La continuité~La prudence~La régularité", 0,
+     "Chaque opération affecte au moins deux comptes pour un montant égal."),
+ QC("Dans quelle classe du PCG se trouvent les charges ?", "Classe 1~Classe 4~Classe 6~Classe 7", 2,
+     "La classe 6 regroupe les charges ; la classe 7 les produits."),
+ QC("Que calcule le compte de résultat ?", "Le résultat de l'exercice~Le nombre de salariés~La valeur des immobilisations~La trésorerie disponible", 0,
+     "Il fait ressortir le bénéfice ou la perte par différence produits - charges."),
+ QC("Qu'est-ce qu'un amortissement ?", "Un impôt~La répartition de la valeur d'une immobilisation sur sa durée de vie~Une subvention~Une dette", 1,
+     "L'amortissement constate l'usure ou l'obsolescence d'un actif immobilisé."),
+ QC("Quel est un élément de l'actif circulant ?", "Un terrain~Une créance client~Un brevet~Une immobilisation corporelle", 1,
+     "Les créances, stocks et disponibilités forment l'actif circulant."),
+ QC("Que constate une provision ?", "Un produit certain~Un risque ou une charge probable~Une recette exceptionnelle~Un capital", 1,
+     "La provision répond au principe de prudence."),
+ QC("Comment classer l'achat d'un serveur utilisé trois ans ?", "Charge de fonctionnement~Immobilisation amortissable~Produit~Provision", 1,
+     "Un équipement durable est immobilisé puis amorti sur sa durée d'utilisation."),
+ QT("Une entreprise achète un serveur 12 000 € hors taxes, utilisé pendant trois ans, avec une valeur résiduelle nulle. Expliquer le traitement comptable et calculer l'amortissement annuel en mode linéaire.",
+    "Le serveur est une immobilisation corporelle : il est inscrit à l'actif du bilan pour 12 000 € et financé par un compte de dettes ou de trésorerie, ce qui respecte la dualité. Il n'est pas comptabilisé directement en charge car il rend des services sur plusieurs exercices. En mode linéaire, l'amortissement annuel vaut (valeur d'origine − valeur résiduelle) / durée d'utilisation, soit (12 000 − 0) / 3 = 4 000 € par an. Chaque année, une charge d'amortissement de 4 000 € est constatée au compte de résultat et un amortissement cumulé vient réduire la valeur nette comptable au bilan. Après trois ans, la valeur nette est nulle et le serveur peut être sorti de l'actif.",
+    "On qualifie l'immobilisation, on rappelle la dualité, puis on calcule 12 000 / 3 = 4 000 € par an."),
+ QT("Expliquer la différence entre le résultat comptable et la trésorerie, et pourquoi une entreprise bénéficiaire peut manquer de liquidités.",
+    "Le résultat comptable est calculé selon la indépendance des exercices : les produits sont rattachés à la période de la vente, même si le client paie plus tard, et les charges à celle de la consommation, même si le fournisseur n'est pas encore réglé. La trésorerie, elle, enregistre les mouvements d'argent réels. Une entreprise peut donc être bénéficiaire tout en ayant un besoin de trésorerie : ses clients paient à 60 jours alors qu'elle règle ses fournisseurs et ses salaires à 30 jours. Les stocks immobilisent aussi des liquidités, et les investissements génèrent des décaissements immédiats alors que leurs effets s'étalent sur plusieurs années. Le suivi du besoin en fonds de roulement et du plan de trésorerie complète le compte de résultat pour piloter l'entreprise.",
+    "On oppose rattachement à l'exercice et mouvements réels, puis on cite délais de paiement, stocks et investissements.")],
+C("La comptabilité générale décrit le patrimoine au bilan et l'activité au compte de résultat, selon la dualité et la indépendance des exercices.",
+  "Actif = passif · résultat = produits − charges",
+  "PCG classes 1 à 7 · amortissements · provisions",
+  "Actif~Biens et droits~Passif~Financements~Dualité~Deux comptes par opération~Compte de résultat~Produits et charges~Amortissement~Usure de l'actif",
+  "Identifier la nature de l'opération|Choisir les comptes du PCG|Respecter la dualité|Rattacher à la bonne période|Synthétiser dans les états financiers",
+  "Confondre charge et immobilisation|Oublier la TVA dans un prix HT|Ignorer la date de rattachement|Croire que bénéfice et trésorerie sont identiques",
+  "12 000 €~Coût du serveur~3 ans~Durée d'utilisation~4 000 €~Amortissement annuel~60 jours~Délai client~Classe 6~Charges~Classe 7~Produits",
+  "Bilan~Patrimoine à une date~Compte de résultat~Activité sur une période",
+  "Amortissement~Perte de valeur progressive~Provision~Risque probable"))
+
+# ============================================================ CG2
+add("CG2", "Coûts et contrôle de gestion appliqués à l'informatique", "Comptabilité et gestion", ["BTS1"],
+S("Le contrôle de gestion aide les responsables à piloter l'activité en comparant les objectifs et les réalisations."
+  "|Un centre de coûts est une unité à laquelle on affecte des charges : un service, un projet, une application ou un site."
+  "|Le coût complet d'un service informatique additionne les coûts directs et une part des coûts indirects répartie selon une clé de répartition."
+  "|Les clés de répartition courantes sont le nombre d'utilisateurs, le temps de traitement, la surface, le nombre de postes ou le volume de données."
+  "|Le coût variable évolue avec l'activité ; le coût fixe reste constant dans une plage d'activité donnée."
+  "|Le coût marginal correspond au coût d'une unité supplémentaire de service, par exemple une machine virtuelle de plus."
+  "|La marge sur coûts variables aide à décider d'une tarification interne ou d'une externalisation."
+  "|Le budget prévisionnel est exprimé en coûts et en volumes : il sert de référence pour mesurer les écarts."
+  "|L'analyse des écarts distingue un écart de volume (activité différente du prévu) et un écart de prix ou de coût unitaire."
+  "|Un écart défavorable peut venir d'un surcoût de licences, d'une panne prolongée ou d'une sous-estimation du temps de développement."
+  "|Les indicateurs de pilotage incluent le coût par ticket, le coût par poste et par an, le taux d'utilisation des ressources et le respect du budget."
+  "|Le contrôle de gestion ne vise pas seulement à réduire les coûts : il évalue aussi la valeur produite par le système d'information."),
+[QC("Qu'appelle-t-on un centre de coûts ?", "Un service auquel on affecte des charges~Un logiciel de facturation~Un serveur de base de données~Un client important", 0,
+     "Le centre de coûts est une unité de suivi des charges."),
+ QC("Quelle est une clé de répartition ?", "Le nombre d'utilisateurs~La couleur des bureaux~Le hasard~Le nom du fournisseur", 0,
+     "Une clé doit être pertinente et mesurable : utilisateurs, temps, volume ou surface."),
+ QC("Que désigne un coût marginal ?", "Le coût moyen~Le coût d'une unité supplémentaire~Le coût total~Le coût fixe", 1,
+     "C'est l'augmentation de coût due à une unité de plus."),
+ QC("Quel écart est lié à une activité différente du prévu ?", "Un écart de prix~Un écart de volume~Un écart de change~Un écart de qualité", 1,
+     "L'écart de volume traduit une différence de quantité d'activité."),
+ QC("Quel indicateur mesure le coût de la maintenance ?", "Le coût par ticket~Le nombre de câbles~La taille du bureau~Le nombre de réunions", 0,
+     "Le coût par ticket est un indicateur courant du support."),
+ QC("Comment calculer un coût complet ?", "Coûts directs seulement~Coûts directs plus part des coûts indirects~Charges futures~Seuls les salaires", 1,
+     "Le coût complet inclut les charges directes et une quote-part des charges indirectes."),
+ QC("Que permet la marge sur coûts variables ?", "De supprimer les coûts fixes~D'aider à une décision de prix ou d'externalisation~De calculer un amortissement~De rédiger un contrat", 1,
+     "Elle indique la contribution de chaque unité à la couverture des frais fixes."),
+ QC("Quel objectif dépasse la seule réduction des coûts ?", "Évaluer la valeur produite par le SI~Supprimer tout investissement~Réduire les effectifs à zéro~Ignorer la qualité", 0,
+     "Le contrôle de gestion relie coût et valeur pour éclairer la décision."),
+ QT("Un service informatique a 120 000 € de coûts indirects à répartir entre trois départements de 40, 60 et 80 utilisateurs. Calculer les quote-parts selon la clé nombre d'utilisateurs.",
+    "Le nombre total d'utilisateurs est 40 + 60 + 80 = 180. Le coût par utilisateur est 120 000 / 180 = 666,67 €. Le département A supporte 40 × 666,67 = 26 666,67 €, le département B 60 × 666,67 = 40 000 € et le département C 80 × 666,67 = 53 333,33 €. La somme des trois quote-parts vaut bien 120 000 €. On vérifie que la clé choisie est pertinente : si les coûts sont liés aux licences par utilisateur, cette clé est adaptée ; s'ils viennent surtout de l'énergie des serveurs, une clé fondée sur la consommation de ressources serait plus juste.",
+    "On calcule la clé unitaire, les trois quote-parts, on vérifie la somme et on discute de la pertinence de la clé."),
+ QT("Expliquer comment analyser un écart de budget sur une année et proposer des actions correctives.",
+    "On compare d'abord le budget prévu et le réalisé poste par poste : licences, matériel, prestations, salaires, énergie. On mesure l'écart en valeur et en pourcentage, puis on le décompose : écart de volume, par exemple plus de postes que prévu, et écart de prix, par exemple une hausse du tarif d'hébergement. On identifie ensuite les causes : croissance non budgétée, panne coûteuse, retard de projet, erreur d'estimation ou changement de fournisseur. Les actions correctrices peuvent être une renégociation contractuelle, une optimisation des ressources cloud, un étalement des achats, une révision du périmètre ou une provision complémentaire. On documente l'analyse, on informe la direction et on révise le budget des prochaines années avec des hypothèses plus réalistes.",
+    "On décompose l'écart en volume et prix, on cherche les causes, puis on propose et documente des actions.")],
+C("Le contrôle de gestion relie coûts et activité : centres de coûts, clés de répartition et analyse des écarts guident la décision.",
+  "Coût complet = directs + quote-part des indirects",
+  "Centre de coûts · clé de répartition · coût marginal · écart volume/prix",
+  "Centre de coûts~Unité de suivi~Coût direct~Affecté au service~Coût indirect~Réparti~Clé~Utilisateurs ou volume~Écart de volume~Activité différente~Écart de prix~Coût unitaire différent",
+  "Définir les centres de coûts|Choisir une clé de répartition|Calculer les coûts complets|Comparer prévu et réalisé|Expliquer et corriger les écarts",
+  "Répartir au hasard|Confondre écart de prix et de volume|Ne regarder que le total|Oublier de documenter l'analyse",
+  "120 000 €~Charges indirectes~180 utilisateurs~Total de la clé~666,67 €~Coût par utilisateur~40/60/80~Quote-parts~Ticket~Indicateur de support",
+  "Coût fixe~Constant dans une plage~Coût variable~Dépend de l'activité",
+  "Coût complet~Toutes charges~Coût marginal~Une unité de plus"))
+
+# ============================================================ CG3
+add("CG3", "Budget prévisionnel et suivi budgétaire d'un projet SI", "Comptabilité et gestion", ["BTS2"],
+S("Le budget prévisionnel traduit en chiffres les ressources nécessaires à une activité ou à un projet sur une période donnée."
+  "|Il distingue les dépenses d'investissement, comme l'achat de serveurs, et les dépenses de fonctionnement, comme les licences annuelles ou la maintenance."
+  "|Un budget se construit à partir d'hypothèses explicites : volumes, prix unitaires,effectifs, durée, taux d'inflation et calendrier."
+  "|Le principe de précaution recommande de prévoir une réserve pour imprévus, souvent exprimée en pourcentage du budget total."
+  "|Le budget est un outil de prévision mais aussi de contrôle : il sert de référence pour mesurer les écarts en cours de projet."
+  "|Le suivi budgétaire compare les dépenses engagées, les dépenses réalisées et le budget consommé à chaque jalon."
+  "|Le taux de consommation budgétaire rapporte le montant dépensé au budget prévu à la même date."
+  "|Un dépassement peut venir d'un retard, d'une augmentation des prix, d'un périmètre élargi ou d'une sous-estimation initiale."
+  "|La règle des 50/50 aide à détecter un dérapage : à 50 % du temps, le projet ne devrait pas avoir consommé plus de 50 % du budget sans résultat correspondant."
+  "|Toute révision budgétaire doit être justifiée, validée et tracée : on tient un historique des versions du budget."
+  "|Le budget intègre aussi les recettes ou les économies attendues, ce qui permet de calculer une marge prévisionnelle."
+  "|Pour le technicien CIEL, savoir lire et alimenter un budget est utile dans la gestion d'un parc, d'un projet de migration ou d'un contrat de maintenance."),
+[QC("Quelle dépense est un investissement ?", "L'achat d'un serveur durable~Le loyer du bureau~La facture d'électricité~Un abonnement mensuel", 0,
+     "Un équipement durable est immobilisé ; les autres exemples sont des charges de fonctionnement."),
+ QC("Quelle hypothèse ne pas expliciter dans un budget ?", "Le nombre de postes~Le prix unitaire~Le taux d'inflation~La couleur du logo", 3,
+     "Les hypothèses chiffrées doivent être documentées et vérifiables."),
+ QC("À quoi sert une réserve pour imprévus ?", "À masquer les erreurs~À absorber les aléas et risques identifiés~À supprimer le contrôle~À augmenter le résultat", 1,
+     "La provision pour imprévus sécurise le budget face à l'incertitude."),
+ QC("Comment calculer le taux de consommation ?", "Budget prévu divisé par dépenses~Dépenses divisées par budget prévu~Dépenses plus budget~Budget moins dépenses", 1,
+     "C'est le rapport entre montant dépensé et montant budgété à la même date."),
+ QC("Que révèle une révision budgétaire non tracée ?", "Une bonne pratique~Un manque de rigueur et de contrôle~Une économie~Une certification", 1,
+     "L'historique des versions est indispensable à la traçabilité."),
+ QC("Quel est un signe de dérapage ?", "Le budget consommé reste en dessous du jalon~Le budget consommé dépasse nettement l'avancement~Aucun écart~Les jalons sont respectés", 1,
+     "Une consommation supérieure à l'avancement signale un risque."),
+ QC("Quel indicateur complète le suivi des dépenses ?", "Le nombre de réunions~L'avancement des livrables et les jalons~Le nombre de câbles~La taille de l'équipe", 1,
+     "Il faut rapprocher coût et avancement réel pour juger la situation."),
+ QC("Pourquoi prévoir des recettes ou économies dans le budget ?", "Pour calculer une marge prévisionnelle~Pour éviter de dépenser~Pour supprimer les impôts~Pour remplacer le bilan", 0,
+     "La différence entre recettes et coûts donne la marge attendue du projet."),
+ QT("Un projet a un budget de 100 000 € sur 10 mois. À mi-parcours, 65 000 € sont dépensés et 40 % des livrables sont terminés. Analyser la situation.",
+    "À 5 mois, l'avancement attendu est d'environ 50 %, mais seulement 40 % des livrables sont terminés : le projet a du retard. Le budget consommé atteint 65 % alors que l'avancement réel est de 40 % : le taux de consommation est très supérieur à la progression, ce qui indique un dérapage financier. Selon la règle des 50/50, à 50 % du temps, la consommation ne devrait pas dépasser 50 % sans résultat correspondant. On recherche les causes : prestataire payé d'avance, achat de licences annuelles au démarrage, sous-estimation des heures de développement ou retard pris sur un livrable critique. Le coût à l'achèvement projeté, si la tendance se maintient, dépasse 100 000 €. Des actions sont nécessaires : rééchelonner les paiements, renégocier une prestation, réduire un périmètre non prioritaire et réviser le budget avec l'accord du commanditaire.",
+    "On compare temps, avancement et consommation, on mobilise la règle des 50/50, on cherche les causes et on propose des actions."),
+ QT("Expliquer la démarche de construction d'un budget prévisionnel pour la maintenance d'un parc de 200 postes.",
+    "On définit d'abord le périmètre : nombre de postes, sites, durée de douze mois et niveau de service attendu. On recense les postes de dépense : licences et abonnements, maintenance matérielle, pièces de rechange, prestations externes, formation, outils de supervision et éventuel renouvellement. Pour chaque poste, on précise l'hypothèse : 200 licences à un tarif unitaire, un coût moyen d'intervention multiplié par un nombre estimé de tickets, une provision pour pannes. On ajoute une réserve pour imprévus de 5 à 10 % et on ventile les montants par mois pour obtenir un calendrier de décaissements. On documente les hypothèses, on fait valider le budget, puis on met en place un tableau de suivi mensuel avec budget, réalisé et écart. Enfin, on prévoit une revue trimestrielle pour ajuster les hypothèses.",
+    "On attend périmètre, postes de dépense, hypothèses chiffrées, réserve, ventilation mensuelle, validation et suivi.")],
+C("Le budget est une prévision chiffrée et un outil de contrôle : on suit à la fois les dépenses et l'avancement réel.",
+  "Taux de consommation = dépenses / budget prévu",
+  "Investissement vs fonctionnement · réserve pour imprévus · règle des 50/50",
+  "Budget~Prévision chiffrée~Investissement~Dépense durable~Fonctionnement~Dépense courante~Réserve~Provision pour aléas~Suivi~Prévu et réalisé",
+  "Définir le périmètre|Chiffrer chaque poste|Prévoir une réserve|Suivre consommation et avancement|Réviser en justifiant",
+  "Oublier les hypothèses|Supprimer la réserve|Comparer sans tenir compte du calendrier|Modifier le budget sans trace",
+  "100 000 €~Budget sur 10 mois~65 000 €~Dépensé à mi-parcours~40 %~Avancement réel~50/50~Règle d'alerte~200 postes~Exemple de parc",
+  "Budget prévu~Référence~Réalisé~Montant dépensé",
+  "Écart défavorable~Dépense supérieure au prévu~Écart favorable~Dépense inférieure"))
+
+# ============================================================ CG4
+add("CG4", "Analyse financière et indicateurs de performance", "Comptabilité et gestion", ["BTS2"],
+S("L'analyse financière interprète les états comptables pour évaluer la santé et la performance d'une organisation."
+  "|Le fonds de roulement net global se calcule par ressources durables moins emplois durables : il mesure la marge de sécurité financière à long terme."
+  "|Le besoin en fonds de roulement correspond aux ressources immobilisées par le cycle d'exploitation : stocks et créances moins dettes d'exploitation."
+  "|La trésorerie nette égale fonds de roulement net global moins besoin en fonds de roulement : elle traduit la capacité à payer à court terme."
+  "|Une trésorerie négative signale un risque de cessation de paiements, même si l'entreprise est bénéficiaire."
+  "|Le résultat d'exploitation mesure la performance de l'activité courante, hors éléments financiers et exceptionnels."
+  "|La marge commerciale et la marge sur coûts variables indiquent la capacité de chaque vente à contribuer aux frais fixes et au résultat."
+  "|Le taux de marge se calcule en rapportant la marge au chiffre d'affaires : il s'exprime en pourcentage."
+  "|Le seuil de rentabilité correspond au chiffre d'affaires pour lequel le résultat est nul."
+  "|Les ratios d'endettement et de couverture des intérêts apprécient la capacité de l'entreprise à honorer ses dettes."
+  "|L'analyse doit être comparative : dans le temps, par rapport au budget et par rapport aux entreprises du même secteur."
+  "|Les limites du bilan doivent être signalées : les valeurs comptables peuvent différer de la valeur de marché, et les actifs immatériels sont parfois sous-estimés."),
+[QC("Comment calculer le fonds de roulement net global ?", "Ressources durables moins emplois durables~Créances moins dettes~Produits moins charges~Actif moins passif", 0,
+     "Le FRNG est la différence entre ressources durables et emplois durables."),
+ QC("Que mesure le besoin en fonds de roulement ?", "Les ressources immobilisées par l'exploitation~Les seules immobilisations~Le résultat~Les capitaux propres", 0,
+     "Le BFR traduit l'écart entre décaissements et encaissements d'exploitation."),
+ QC("Quelle formule donne la trésorerie nette ?", "FRNG plus BFR~FRNG moins BFR~BFR moins FRNG~Résultat divisé par CA", 1,
+     "La trésorerie nette est la différence entre le fonds de roulement et le besoin en fonds de roulement."),
+ QC("Une entreprise bénéficiaire peut-elle être en cessation de paiements ?", "Non, jamais~Oui, si sa trésorerie est insuffisante~Oui, mais seulement en cas de perte~Non, si elle a des clients", 1,
+     "Le résultat et la trésorerie sont deux dimensions distinctes."),
+ QC("Comment calculer un taux de marge ?", "Marge multipliée par chiffre d'affaires~Marge divisée par chiffre d'affaires~Chiffre d'affaires divisé par marge~Marge plus chiffre d'affaires", 1,
+     "Le taux de marge rapporte la marge au chiffre d'affaires."),
+ QC("Que représente le seuil de rentabilité ?", "Le chiffre d'affaires où le résultat est nul~Le montant des dettes~La trésorerie minimale~Le budget de maintenance", 0,
+     "Au seuil, les recettes couvrent exactement tous les coûts."),
+ QC("Quel ratio apprécie la capacité à payer les intérêts ?", "La couverture des intérêts~Le taux de marge~Le BFR~Le chiffre d'affaires", 0,
+     "La couverture des intérêts rapporte le résultat d'exploitation aux charges financières."),
+ QC("Pourquoi comparer les ratios dans le temps ?", "Pour détecter une tendance et une dégradation~Pour remplacer le bilan~Pour supprimer les charges~Pour augmenter le résultat", 0,
+     "L'analyse dynamique révèle les évolutions qu'un chiffre isolé ne montre pas."),
+ QT("Une entreprise a des ressources durables de 500 000 €, des emplois durables de 380 000 € et un BFR de 160 000 €. Calculer le FRNG et la trésorerie nette, puis interpréter.",
+    "Le fonds de roulement net global vaut 500 000 − 380 000 = 120 000 € : les ressources durables financent les emplois durables avec une marge positive de 120 000 €. La trésorerie nette vaut FRNG − BFR = 120 000 − 160 000 = −40 000 €. Elle est négative : le besoin de financement lié au cycle d'exploitation dépasse la marge de sécurité. L'entreprise devra recourir à des concours bancaires à court terme ou réduire son BFR, par exemple en raccourcissant les délais de paiement clients, en diminuant les stocks ou en négociant ses délais fournisseurs. Une trésorerie négative persistante peut conduire à un risque de cessation de paiements malgré un résultat comptable positif.",
+    "On calcule 120 000 € puis −40 000 €, et on propose des pistes de réduction du BFR ou de financement."),
+ QT("Expliquer pourquoi l'analyse financière doit être comparative et assortie de limites.",
+    "Un ratio isolé n'a guère de sens : une marge de 10 % peut être excellente dans un secteur et insuffisante dans un autre. Il faut comparer les indicateurs dans le temps pour repérer une tendance, par rapport au budget pour mesurer l'écart et par rapport à des entreprises comparables pour se situer. Il faut aussi énoncer les limites : le bilan donne des valeurs historiques et comptables, qui peuvent différer de la valeur actuelle ; les immobilisations sont amorties selon des modalités choisies ; les actifs immatériels comme la marque ou le savoir-faire sont souvent sous-estimés ; enfin, les ratios ne disent rien de la qualité de la relation client ou de la sécurité du système d'information. L'analyse financière est donc un éclairage, pas une vérité complète.",
+    "On justifie les comparaisons temporelles, budgétaires et sectorielles, puis on cite les limites comptables et qualitatives.")],
+C("L'analyse financière relie FRNG, BFR et trésorerie pour juger la santé de l'entreprise et éclairer ses arbitrages d'investissement.",
+  "FRNG = ressources durables − emplois durables",
+  "Trésorerie = FRNG − BFR · seuil = CA où résultat = 0",
+  "FRNG~Marge de sécurité~BFR~Besoin d'exploitation~Trésorerie~Capacité de paiement~Résultat~Performance~Seuil~Point mort~Ratio~Indicateur comparatif",
+  "Calculer les agrégats|Interpréter les soldes|Comparer dans le temps et au budget|Repérer les limites|Éclairer la décision",
+  "Confondre résultat et trésorerie|Ignorer un BFR croissant|Lire un ratio sans comparaison|Oublier les limites du bilan",
+  "500 000 €~Ressources durables~380 000 €~Emplois durables~120 000 €~FRNG~160 000 €~BFR~−40 000 €~Trésorerie nette~Seuil~Résultat nul",
+  "FRNG positif~Marge de sécurité~Trésorerie négative~Risque de paiement",
+  "Analyse statique~Photo à une date~Analyse dynamique~Suivi dans le temps"))
 
 # FIN DES LOTS
 valider_et_ecrire(F, "btsciel-mat-part-C.json")

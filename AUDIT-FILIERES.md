@@ -6,12 +6,12 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 
 | Controle | Valeur | Attendu |
 |---|---|---|
-| Catalogue EXTRA_FICHES | 1460 | lisible |
-| Fiches prototype | 1174 | = 96 BIOALC + nouvelles |
+| Catalogue EXTRA_FICHES | 1553 | lisible |
+| Fiches prototype | 1294 | = 96 BIOALC + nouvelles |
 | Annales bibliotheque | 60 | lisible |
-| Filieres converties | 18 | bts-bio, bts-ci, bts-mco, bts-ndrc, bts-sio, but-gea, but-info, but-tc, cpge-mpsi, cpge-pci, generale, infirmier, lic-droit, lic-eco, lic-maths, lic-psycho, lic-staps, pass |
-| Questions prototype | 10852 | toutes corrigees |
-| Schemas SVG | 3486 | XML valide, sans script |
+| Filieres converties | 20 | bts-bio, bts-ci, bts-ciel, bts-gpme, bts-mco, bts-ndrc, bts-sio, but-gea, but-info, but-tc, cpge-mpsi, cpge-pci, generale, infirmier, lic-droit, lic-eco, lic-maths, lic-psycho, lic-staps, pass |
+| Questions prototype | 12052 | toutes corrigees |
+| Schemas SVG | 3846 | XML valide, sans script |
 | Ordre des 7 blocs | 1 | variantes (doit etre 1) |
 | Titles uniques | 0 | doublons (doit etre 0) |
 | Vrais examens filtres | 12 | bts-bio uniquement |
@@ -23,6 +23,8 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 
 **bts-bio** : 111 prototypes (BTS1:65, BTS2:69)
 **bts-ci** : 60 prototypes (BTS1:23, BTS2:37)
+**bts-ciel** : 60 prototypes (BTS1:29, BTS2:31)
+**bts-gpme** : 60 prototypes (BTS1:31, BTS2:31)
 **bts-mco** : 82 prototypes (BTS1:52, BTS2:62)
 **bts-ndrc** : 60 prototypes (BTS1:24, BTS2:36)
 **bts-sio** : 60 prototypes (BTS1:27, BTS2:33)
@@ -49,9 +51,9 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 ## Verifications
 
 - Syntaxe JavaScript : **OK**
-- Schemas SVG : 3486, tous analysables en XML et sans script/on*/javascript:
-- Blocs d'affichage : 1174 fiche(s), ordre strict identique
-- Questions : 10852, toutes avec correction
+- Schemas SVG : 3846, tous analysables en XML et sans script/on*/javascript:
+- Blocs d'affichage : 1294 fiche(s), ordre strict identique
+- Questions : 12052, toutes avec correction
 - Migrations : filtre prototype + nettoyage + ajout automatique generalises
 
 ## Problemes detectes

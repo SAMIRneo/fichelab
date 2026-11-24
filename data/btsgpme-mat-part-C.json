@@ -2499,7 +2499,7 @@
           "titre": "Pièges fréquents",
           "items": [
             "Diffuser sans diagnostic",
-            "Multiplier les canaux sans coordonnation",
+            "Multiplier les canaux sans coordination",
             "Oublier les indicateurs",
             "Laisser circuler des discours contradictoires"
           ]
@@ -2757,6 +2757,1846 @@
         {
           "titre": "3 · CO4 · deux lectures",
           "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : CO4 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">CO4 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Communication digitale</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Portée large</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Mesure</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Risque réputationnel</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Protection des données</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Consentement</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Droits</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Sécurité</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Informatique",
+      "titre": "IN1. Système d'information et outils bureautiques",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "Le système d'information de la PME comprend les outils, les données, les procédures et les personnes qui produisent l'information de gestion.",
+        "Un SI simple associe traitement de texte, tableur, messagerie, gestionnaire de fichiers et logiciel comptable.",
+        "La bureautique désigne les outils logiciels utilisés pour produire et partager des documents.",
+        "Un document bien nommé et classé selon une convention facilite la recherche et la traçabilité.",
+        "Les dossiers partagés et les outils collaboratifs permettent de travailler à plusieurs sur un même fichier.",
+        "Le versionnage évite les confusions entre plusieurs copies d'un même document : une seule version fait foi.",
+        "Les droits d'accès doivent correspondre aux responsabilités : lecture, modification ou administration.",
+        "La saisie doit être contrôlée : une donnée erronée se propage dans tous les documents qui l'utilisent.",
+        "Les raccourcis clavier et les modèles de documents augmentent la productivité sans nuire à la qualité.",
+        "La sauvegarde régulière protège les fichiers contre la panne, l'erreur humaine et les logiciels malveillants.",
+        "La contribution à la qualité du SI est une compétence du bloc RNCP38363BC04.",
+        "Un outil maîtrisé est plus utile qu'un logiciel complexe mal utilisé : la formation des utilisateurs est essentielle."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que désigne le système d'information d'une PME ?",
+          "options": [
+            "Le seul ordinateur du dirigeant",
+            "Outils, données et procédures de gestion",
+            "Le bilan annuel",
+            "Le plan comptable"
+          ],
+          "correct": 1,
+          "correction": "Le SI est un ensemble organisé au service de la décision."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est un outil bureautique courant ?",
+          "options": [
+            "Un tableur",
+            "Un tour",
+            "Un compresseur",
+            "Un four"
+          ],
+          "correct": 0,
+          "correction": "Traitement de texte, tableur et messagerie sont des outils bureautiques."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi nommer les fichiers de façon normalisée ?",
+          "options": [
+            "Pour les retrouver et les classer",
+            "Pour les rendre plus grands",
+            "Pour éviter la sauvegarde",
+            "Pour augmenter la TVA"
+          ],
+          "correct": 0,
+          "correction": "Une convention de nommage améliore la recherche et la traçabilité."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est l'intérêt du versionnage ?",
+          "options": [
+            "Éviter plusieurs versions concurrentes d'un même document",
+            "Supprimer les sauvegardes",
+            "Remplacer le tableur",
+            "Réduire les impôts"
+          ],
+          "correct": 0,
+          "correction": "Une version de référence évite les contradictions entre collègues."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel droit d'accès donne seulement la possibilité de consulter ?",
+          "options": [
+            "Administration",
+            "Modification",
+            "Lecture",
+            "Suppression"
+          ],
+          "correct": 2,
+          "correction": "Le droit de lecture permet de consulter sans modifier."
+        },
+        {
+          "type": "qcm",
+          "q": "Que faire face à une donnée erronée dans un fichier partagé ?",
+          "options": [
+            "La corriger et vérifier les documents liés",
+            "L'ignorer",
+            "Supprimer le fichier",
+            "Créer une nouvelle version sans indication"
+          ],
+          "correct": 0,
+          "correction": "Une erreur peut se propager : il faut corriger la source et contrôler les dépendances."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est un bénéfice d'un modèle de document ?",
+          "options": [
+            "Gagner du temps et harmoniser la présentation",
+            "Supprimer la relecture",
+            "Éviter les signatures",
+            "Remplacer le procès-verbal"
+          ],
+          "correct": 0,
+          "correction": "Les modèles standardisent la forme et accélèrent la production."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel bloc RNCP est lié à la qualité du SI ?",
+          "options": [
+            "BC01",
+            "BC02",
+            "BC03",
+            "BC04"
+          ],
+          "correct": 3,
+          "correction": "Le bloc BC04 mentionne la contribution à la qualité du système d'information."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer les composantes d'un système d'information dans une PME et leur rôle.",
+          "reponse": "Le SI comprend des outils (logiciels, matériel), des données (clients, commandes, comptes), des procédures (saisie, contrôle, classement) et des personnes (utilisateurs, responsables). Les outils traitent les données, les procédures garantissent leur fiabilité et les personnes produisent et utilisent l'information pour décider.",
+          "correction": "On cite les quatre composantes et on explique comment elles produisent une information exploitable."
+        },
+        {
+          "type": "texte",
+          "q": "Une PME constate que trois versions d'un même devis circulent. Proposer une organisation corrective.",
+          "reponse": "Désigner un emplacement unique de référence, adopter une convention de nommage avec date et version, attribuer les droits de modification à une seule personne, archiver les anciennes versions dans un dossier distinct, informer les utilisateurs et vérifier les devis envoyés aux clients. Un contrôle hebdomadaire évite la récidive.",
+          "correction": "On agit sur le stockage, le nommage, les droits et la communication."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Le système d'information de la PME comprend les outils, les données, les procédures et les personnes qui produisent l'information de gestion."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "SI = outils + données + procédures + personnes, au service de la décision.",
+          "leg": "Fiabilité = version unique + droits adaptés + contrôle des données + sauvegardes."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Composante",
+              "Exemple",
+              "Rôle"
+            ],
+            [
+              "Outils",
+              "Tableur",
+              "Traiter"
+            ],
+            [
+              "Données",
+              "Clients",
+              "Informer"
+            ],
+            [
+              "Procédures",
+              "Contrôle",
+              "Fiabiliser"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            "Un document bien nommé et classé selon une convention facilite la recherche et la traçabilité.",
+            "Les dossiers partagés et les outils collaboratifs permettent de travailler à plusieurs sur un même fichier.",
+            "Le versionnage évite les confusions entre plusieurs copies d'un même document : une seule version fait foi.",
+            "Les droits d'accès doivent correspondre aux responsabilités : lecture, modification ou administration.",
+            "La saisie doit être contrôlée : une donnée erronée se propage dans tous les documents qui l'utilisent."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Recenser les outils et les fichiers",
+            "Définir une convention de nommage",
+            "Organiser les dossiers partagés et les versions",
+            "Attribuer les droits d'accès",
+            "Sauvegarder et former les utilisateurs"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Laisser plusieurs versions concurrentes",
+            "Donner les mêmes droits à tous",
+            "Négliger la formation",
+            "Oublier les sauvegardes"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "Nom de fichier : Devis_ClientX_2026-11_v2",
+            "Dossier unique de référence pour les devis",
+            "Droits : lecture pour tous, modification pour le service commercial",
+            "Sauvegarde quotidienne vérifiée"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · IN1 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"IN1 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">IN1 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Composante</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Exemple</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rôle</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Outils</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Tableur</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Traiter</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Données</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Clients</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Informer</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Procédures</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Contrôle</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Fiabiliser</text></svg>"
+        },
+        {
+          "titre": "2 · IN1 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : IN1 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">IN1 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Recenser les outils et les fichiers</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir une convention de nommage</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Organiser les dossiers partagés et les versions</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Attribuer les droits d'accès</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sauvegarder et former les utilisateurs</text></svg>"
+        },
+        {
+          "titre": "3 · IN1 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : IN1 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">IN1 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Bureautique</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Documents</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Tableur</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Messagerie</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">SI</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Données partagées</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Procédures</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Décision</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Informatique",
+      "titre": "IN2. Tableur : fonctions et modèles de gestion",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "Le tableur est l'outil le plus utilisé dans une PME pour organiser des données et effectuer des calculs.",
+        "Une feuille de calcul organise les informations en lignes et colonnes : chaque cellule possède une adresse (A1, B3).",
+        "Une formule commence par le signe = et peut combiner des références, des opérateurs et des fonctions.",
+        "Les références relatives s'adaptent lors d'une copie ; les références absolues (avec $) restent fixes.",
+        "Les fonctions essentielles sont SOMME, MOYENNE, NB, SI, SOMME.SI, RECHERCHEV ou EQUIV.",
+        "La fonction SI teste une condition et renvoie une valeur selon le résultat : =SI(A1>100; « Élevé »; « Faible »).",
+        "Les graphiques (histogramme, camembert, courbe) rendent les données lisibles pour la direction.",
+        "Un modèle de tableur doit séparer les données saisies, les calculs et les résultats présentés.",
+        "Les cellules de saisie peuvent être protégées ou colorées pour éviter les modifications accidentelles de formules.",
+        "La mise en forme conditionnelle signale automatiquement les valeurs critiques, par exemple un solde négatif.",
+        "Un tableur de gestion doit être documenté : source des données, signification des colonnes et formules clés.",
+        "Une erreur de formule ou de référence peut fausser un budget : une vérification croisée avec la comptabilité reste nécessaire."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Comment commence une formule dans un tableur ?",
+          "options": [
+            "Avec le signe =",
+            "Avec une virgule",
+            "Avec un tiret",
+            "Avec un guillemet"
+          ],
+          "correct": 0,
+          "correction": "Le signe = déclenche le calcul."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne une référence absolue ?",
+          "options": [
+            "Une référence qui ne bouge pas lors d'une copie",
+            "Une cellule vide",
+            "Une formule interdite",
+            "Une feuille protégée"
+          ],
+          "correct": 0,
+          "correction": "On utilise le symbole $ pour figer la ligne ou la colonne."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle fonction additionne une plage de cellules ?",
+          "options": [
+            "MOYENNE",
+            "SOMME",
+            "NB",
+            "SI"
+          ],
+          "correct": 1,
+          "correction": "=SOMME(A1:A10) calcule le total de la plage."
+        },
+        {
+          "type": "qcm",
+          "q": "Que fait la fonction SI ?",
+          "options": [
+            "Teste une condition et renvoie une valeur",
+            "Additionne deux cellules",
+            "Trie les données",
+            "Crée un graphique"
+          ],
+          "correct": 0,
+          "correction": "SI(condition; valeur si vrai; valeur si faux)."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel graphique convient à une répartition en pourcentage ?",
+          "options": [
+            "Le camembert",
+            "La courbe",
+            "Le nuage",
+            "Le Gantt"
+          ],
+          "correct": 0,
+          "correction": "Le camembert visualise les parts d'un ensemble."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi protéger les cellules de calcul ?",
+          "options": [
+            "Pour éviter la modification accidentelle des formules",
+            "Pour supprimer les données",
+            "Pour augmenter la mémoire",
+            "Pour cacher la feuille"
+          ],
+          "correct": 0,
+          "correction": "La protection préserve l'intégrité du modèle."
+        },
+        {
+          "type": "qcm",
+          "q": "Que permet la mise en forme conditionnelle ?",
+          "options": [
+            "Colorier automatiquement selon une règle",
+            "Effacer les erreurs",
+            "Calculer la TVA",
+            "Trier par date"
+          ],
+          "correct": 0,
+          "correction": "Elle signale par exemple les soldes négatifs ou les écarts importants."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel contrôle reste nécessaire après un calcul automatisé ?",
+          "options": [
+            "Une vérification croisée avec une autre source",
+            "Aucun contrôle",
+            "La suppression des formules",
+            "Le changement de police"
+          ],
+          "correct": 0,
+          "correction": "L'outil calcule ce qu'on lui demande : la pertinence et la saisie doivent être vérifiées."
+        },
+        {
+          "type": "texte",
+          "q": "Un tableau contient des ventes en A2:A13 et le taux de TVA en B1. Écrire la formule calculant le TTC en C2 et expliquer la copie vers le bas.",
+          "reponse": "Formule : =A2*(1+$B$1). La référence A2 est relative : elle devient A3, A4... lors de la copie vers le bas. La référence $B$1 est absolue : elle désigne toujours la cellule contenant le taux de TVA.",
+          "correction": "On distingue référence relative et absolue et on justifie l'usage du symbole $."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi documenter un tableur de gestion ?",
+          "reponse": "Parce qu'un modèle peut être utilisé par plusieurs personnes et survive à son auteur. La documentation précise la source des données, le sens des colonnes, les hypothèses et les formules clés : elle permet la vérification, la reprise par un collègue et la fiabilité du budget ou du tableau de bord.",
+          "correction": "On relie documentation, continuité, contrôle et fiabilité de l'information."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Le tableur est l'outil le plus utilisé dans une PME pour organiser des données et effectuer des calculs."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "Tableur = cellules + formules + fonctions + graphiques + contrôle.",
+          "leg": "Référence relative = A1 ; référence absolue = $A$1 ; SOMME, SI, MOYENNE."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Élément",
+              "Exemple",
+              "Rôle"
+            ],
+            [
+              "Cellule",
+              "A1",
+              "Stocker"
+            ],
+            [
+              "Formule",
+              "=SOMME(A1:A10)",
+              "Calculer"
+            ],
+            [
+              "Graphique",
+              "Camembert",
+              "Lire"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            "Les références relatives s'adaptent lors d'une copie ; les références absolues (avec $) restent fixes.",
+            "Les fonctions essentielles sont SOMME, MOYENNE, NB, SI, SOMME.SI, RECHERCHEV ou EQUIV.",
+            "La fonction SI teste une condition et renvoie une valeur selon le résultat : =SI(A1>100; « Élevé »; « Faible »).",
+            "Les graphiques (histogramme, camembert, courbe) rendent les données lisibles pour la direction.",
+            "Un modèle de tableur doit séparer les données saisies, les calculs et les résultats présentés."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Organiser les données en colonnes claires",
+            "Séparer saisie, calculs et restitution",
+            "Écrire les formules avec références adaptées",
+            "Ajouter graphiques et mises en forme conditionnelle",
+            "Documenter et vérifier le modèle"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Oublier le signe =",
+            "Copier une formule sans vérifier les références",
+            "Modifier une cellule de calcul",
+            "Ne pas documenter les sources"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "=A2*(1+$B$1)",
+            "=SOMME(B2:B13)",
+            "=SI(C2>100;\"Élevé\";\"Faible\")",
+            "Solde négatif coloré en rouge"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · IN2 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"IN2 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">IN2 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Élément</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Exemple</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rôle</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Cellule</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">A1</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Stocker</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Formule</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">=SOMME(A1:A10)</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Calculer</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Graphique</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Camembert</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Lire</text></svg>"
+        },
+        {
+          "titre": "2 · IN2 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : IN2 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">IN2 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Organiser les données en colonnes claires</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Séparer saisie, calculs et restitution</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Écrire les formules avec références adaptées</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Ajouter graphiques et mises en forme conditionnelle</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Documenter et vérifier le modèle</text></svg>"
+        },
+        {
+          "titre": "3 · IN2 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : IN2 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">IN2 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Référence relative</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">A1</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Évolue à la copie</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Calculs par ligne</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Référence absolue</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">$A$1</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Fixe</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Paramètres communs</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Informatique",
+      "titre": "IN3. PGI et suivi des opérations commerciales",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "Un PGI (progiciel de gestion intégré) est un logiciel qui couvre plusieurs fonctions de l'entreprise autour d'une base de données commune.",
+        "Les modules courants sont la comptabilité, les ventes, les achats, les stocks, la paie et la relation client.",
+        "L'intégration permet de saisir une information une seule fois et de la retrouver dans tous les modules concernés.",
+        "Le cycle client comprend la prospection, le devis, la commande, le bon de livraison, la facture et la relance.",
+        "Le cycle fournisseur comprend la demande de prix, la commande, la réception, la facture et le paiement.",
+        "Une fiche client complète contient les coordonnées, les conditions de vente, l'historique et les encours.",
+        "Le suivi des commandes suppose de connaître les statuts : en cours, expédiée, livrée, facturée, réglée.",
+        "Les tableaux de bord du PGI affichent le chiffre d'affaires, les délais, les impayés et les stocks.",
+        "Le paramétrage (plan comptable, taux de TVA, conditions, droits) détermine la qualité des informations produites.",
+        "Une erreur de paramétrage ou de saisie se répercute dans tous les modules : des contrôles périodiques sont nécessaires.",
+        "Le bloc RNCP38363BC04 attend une contribution à la qualité du système d'information.",
+        "La maîtrise du PGI facilite les situations d'évaluation professionnelle de l'épreuve E4."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est un module de PGI ?",
+          "options": [
+            "La comptabilité",
+            "Le jardinage",
+            "La cuisine",
+            "La peinture"
+          ],
+          "correct": 0,
+          "correction": "Les modules couvrent les fonctions de gestion : comptabilité, ventes, achats, stocks, paie."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le principal avantage de l'intégration ?",
+          "options": [
+            "Éviter les ressaisies",
+            "Supprimer les clients",
+            "Augmenter la TVA",
+            "Réduire le capital"
+          ],
+          "correct": 0,
+          "correction": "Une seule saisie alimente les différents modules."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la séquence du cycle client ?",
+          "options": [
+            "Devis, commande, livraison, facture, relance",
+            "Facture, devis, commande, relance",
+            "Paiement, livraison, devis",
+            "Commande, paiement, prospect"
+          ],
+          "correct": 0,
+          "correction": "Le cycle suit l'avancement commercial jusqu'au recouvrement."
+        },
+        {
+          "type": "qcm",
+          "q": "Que contient une fiche client ?",
+          "options": [
+            "Coordonnées, conditions, historique et encours",
+            "Le bilan de l'entreprise",
+            "La paie des salariés",
+            "Le plan comptable"
+          ],
+          "correct": 0,
+          "correction": "Ces informations permettent de suivre la relation et le risque client."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel statut signifie que la facture a été réglée ?",
+          "options": [
+            "En cours",
+            "Expédiée",
+            "Réglée",
+            "En attente"
+          ],
+          "correct": 2,
+          "correction": "Le statut « réglée » clôt le cycle de facturation."
+        },
+        {
+          "type": "qcm",
+          "q": "Que faut-il contrôler après un paramétrage ?",
+          "options": [
+            "Les comptes, taux et droits configurés",
+            "La couleur de l'écran",
+            "Le nombre de claviers",
+            "La taille du bureau"
+          ],
+          "correct": 0,
+          "correction": "Un paramétrage erroné fausse toutes les opérations ultérieures."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel indicateur suit le risque client ?",
+          "options": [
+            "L'encours et le délai de règlement",
+            "Le capital social",
+            "L'amortissement",
+            "Le taux d'IS"
+          ],
+          "correct": 0,
+          "correction": "L'encours et l'ancienneté des créances signalent le risque d'impayé."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel bloc RNCP38363 est concerné par le SI ?",
+          "options": [
+            "BC01",
+            "BC02",
+            "BC03",
+            "BC04"
+          ],
+          "correct": 3,
+          "correction": "Le bloc BC04 porte sur l'amélioration du système d'information."
+        },
+        {
+          "type": "texte",
+          "q": "Décrire le parcours d'une commande client dans un PGI et les informations produites.",
+          "reponse": "Le devis est converti en commande ; le stock est réservé ; le bon de livraison est édité ; la facture est générée avec la TVA ; l'écriture comptable est transmise ; le règlement est lettré ; le tableau de bord met à jour le CA, le délai de règlement et l'encours client. Chaque étape est horodatée et consultable.",
+          "correction": "On suit les modules et les informations produites à chaque étape du cycle."
+        },
+        {
+          "type": "texte",
+          "q": "Une PME constate que la TVA d'une facture est erronée. Quelle démarche de contrôle mettre en place ?",
+          "reponse": "Vérifier le paramétrage du taux de TVA, contrôler la nature de l'opération et le code taxe utilisé, corriger la facture par un avoir et une nouvelle facture si nécessaire, former l'utilisateur, puis programmer un contrôle mensuel des taux appliqués et un rapprochement avec la déclaration.",
+          "correction": "On agit sur la cause paramétrage, sur la correction documentaire et sur le contrôle préventif."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Un PGI (progiciel de gestion intégré) est un logiciel qui couvre plusieurs fonctions de l'entreprise autour d'une base de données commune."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "PGI = modules intégrés + base commune + paramétrage + contrôles.",
+          "leg": "Cycle client : devis → commande → livraison → facture → relance."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Module",
+              "Donnée",
+              "Sortie"
+            ],
+            [
+              "Ventes",
+              "Commande",
+              "Facture"
+            ],
+            [
+              "Comptabilité",
+              "Écriture",
+              "Compte"
+            ],
+            [
+              "Stocks",
+              "Mouvement",
+              "Disponible"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            "Le cycle client comprend la prospection, le devis, la commande, le bon de livraison, la facture et la relance.",
+            "Le cycle fournisseur comprend la demande de prix, la commande, la réception, la facture et le paiement.",
+            "Une fiche client complète contient les coordonnées, les conditions de vente, l'historique et les encours.",
+            "Le suivi des commandes suppose de connaître les statuts : en cours, expédiée, livrée, facturée, réglée.",
+            "Les tableaux de bord du PGI affichent le chiffre d'affaires, les délais, les impayés et les stocks."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Paramétrer comptes, taux et droits",
+            "Créer les fiches clients et produits",
+            "Saisir devis et commandes",
+            "Suivre livraisons, factures et règlements",
+            "Contrôler les données et exploiter les tableaux de bord"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Saisir la même commande dans deux modules",
+            "Négliger le paramétrage initial",
+            "Ne pas lettrer les règlements",
+            "Croire que le PGI supprime les erreurs"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "Commande 245 : statut expédiée puis facturée",
+            "TVA 20 % appliquée au taux paramétré",
+            "Encours client : 8 400 €",
+            "Caution : vérification mensuelle des taux"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · IN3 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"IN3 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">IN3 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Module</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Donnée</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sortie</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Ventes</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Commande</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Facture</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Comptabilité</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Écriture</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Compte</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Stocks</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mouvement</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Disponible</text></svg>"
+        },
+        {
+          "titre": "2 · IN3 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : IN3 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">IN3 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Paramétrer comptes, taux et droits</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Créer les fiches clients et produits</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Saisir devis et commandes</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Suivre livraisons, factures et règlements</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Contrôler les données et exploiter les tableaux de bord</text></svg>"
+        },
+        {
+          "titre": "3 · IN3 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : IN3 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">IN3 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Cycles</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Client</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Fournisseur</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Facturation</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Contrôles</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Paramétrage</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Saisie</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Rapprochement</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Informatique",
+      "titre": "IN4. Cybersécurité, sauvegardes et conformité",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "La PME est exposée aux risques numériques : phishing, rançongiciel, vol d'identifiants, perte de données et panne.",
+        "La confidentialité, l'intégrité et la disponibilité sont les trois objectifs de la sécurité de l'information.",
+        "Une politique de mots de passe impose des mots longs, uniques et stockés dans un gestionnaire, avec authentification à deux facteurs.",
+        "Le phishing utilise un message trompeur pour obtenir des identifiants ou déclencher une action : il faut vérifier l'expéditeur et les liens.",
+        "Un rançongiciel chiffre les données et exige une rançon : la sauvegarde est la principale parade.",
+        "La règle des 3-2-1 recommande trois copies, sur deux supports différents, dont une hors ligne.",
+        "Les mises à jour systèmes et logiciels corrigent les failles de sécurité : elles doivent être appliquées régulièrement.",
+        "Les droits d'accès suivent le principe de moindre privilège : chacun ne voit que ce dont il a besoin.",
+        "Les appareils mobiles doivent être sécurisés : verrouillage, chiffrement et procédure en cas de perte.",
+        "Le RGPD impose des mesures techniques et organisationnelles adaptées au risque et la notification des violations à la CNIL sous 72 heures.",
+        "Un plan de reprise définit les priorités de restauration et les responsables en cas d'incident.",
+        "La sensibilisation des utilisateurs est le levier le plus efficace : la sécurité est l'affaire de tous."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quels sont les trois objectifs de la sécurité de l'information ?",
+          "options": [
+            "Confidentialité, intégrité, disponibilité",
+            "Vitesse, prix, couleur",
+            "TVA, IS, CFE",
+            "Achat, vente, stock"
+          ],
+          "correct": 0,
+          "correction": "Ces trois piliers sont la base de la sécurité des systèmes d'information."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce qu'une attaque par phishing ?",
+          "options": [
+            "Un message trompeur pour voler des identifiants",
+            "Une panne de disque",
+            "Une erreur de formule",
+            "Une hausse des prix"
+          ],
+          "correct": 0,
+          "correction": "Le phishing exploite la confiance de l'utilisateur."
+        },
+        {
+          "type": "qcm",
+          "q": "Que recommande la règle des 3-2-1 ?",
+          "options": [
+            "3 copies, 2 supports, 1 hors ligne",
+            "3 mots de passe, 2 écrans, 1 serveur",
+            "3 jours, 2 semaines, 1 mois",
+            "3 utilisateurs, 2 logiciels, 1 imprimante"
+          ],
+          "correct": 0,
+          "correction": "Cette règle protège contre la perte de données et le rançongiciel."
+        },
+        {
+          "type": "qcm",
+          "q": "Que fait un rançongiciel ?",
+          "options": [
+            "Il chiffre les données et demande une rançon",
+            "Il accélère le tableur",
+            "Il annule les factures",
+            "Il augmente la TVA"
+          ],
+          "correct": 0,
+          "correction": "La sauvegarde hors ligne permet de restaurer sans payer."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce que l'authentification à deux facteurs ?",
+          "options": [
+            "Un mot de passe plus deux identifiants",
+            "Un second moyen de vérification en plus du mot de passe",
+            "Deux mots de passe identiques",
+            "Une signature manuscrite"
+          ],
+          "correct": 1,
+          "correction": "Elle combine quelque chose que l'on sait et quelque chose que l'on possède ou que l'on est."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel principe régit les droits d'accès ?",
+          "options": [
+            "Moindre privilège",
+            "Accès total à tous",
+            "Aucun droit",
+            "Droit illimité au dirigeant"
+          ],
+          "correct": 0,
+          "correction": "Chaque utilisateur dispose seulement des droits nécessaires à sa mission."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel délai pour notifier une violation de données à la CNIL ?",
+          "options": [
+            "24 h",
+            "72 h",
+            "7 jours",
+            "30 jours"
+          ],
+          "correct": 1,
+          "correction": "La notification doit intervenir dans les 72 heures lorsque le risque le justifie."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le levier le plus efficace contre le phishing ?",
+          "options": [
+            "La sensibilisation des utilisateurs",
+            "L'achat d'un nouvel ordinateur",
+            "Le changement de couleur du site",
+            "La hausse du capital"
+          ],
+          "correct": 0,
+          "correction": "La formation permet de repérer les messages suspects avant de cliquer."
+        },
+        {
+          "type": "texte",
+          "q": "Une PME reçoit un e-mail demandant de confirmer un mot de passe bancaire. Décrire la réaction adaptée.",
+          "reponse": "Ne pas cliquer sur le lien, vérifier l'expéditeur et l'adresse du site, contacter la banque par un canal officiel distinct, signaler le message au service informatique ou au responsable, supprimer le message après signalement et, si un identifiant a été saisi, le changer immédiatement.",
+          "correction": "On applique les réflexes de vérification, de signalement et de remédiation."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer la règle des 3-2-1 et son intérêt face à un rançongiciel.",
+          "reponse": "Elle recommande trois copies des données, sur deux supports différents, dont une conservée hors ligne. Si un rançongiciel chiffre les fichiers de l'ordinateur et du serveur, la copie hors ligne reste intacte : elle permet de restaurer l'activité sans payer la rançon et de reprendre le travail rapidement.",
+          "correction": "On décrit la règle et on montre comment elle neutralise le risque."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "La PME est exposée aux risques numériques : phishing, rançongiciel, vol d'identifiants, perte de données et panne."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "Sécurité = confidentialité + intégrité + disponibilité.",
+          "leg": "Règle 3-2-1 : 3 copies, 2 supports, 1 hors ligne ; notification CNIL 72 h."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Risque",
+              "Outil",
+              "Réflexe"
+            ],
+            [
+              "Phishing",
+              "Vérification",
+              "Ne pas cliquer"
+            ],
+            [
+              "Rançongiciel",
+              "Sauvegarde",
+              "Restaurer"
+            ],
+            [
+              "Erreur",
+              "Droits",
+              "Limiter"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            "Le phishing utilise un message trompeur pour obtenir des identifiants ou déclencher une action : il faut vérifier l'expéditeur et les liens.",
+            "Un rançongiciel chiffre les données et exige une rançon : la sauvegarde est la principale parade.",
+            "La règle des 3-2-1 recommande trois copies, sur deux supports différents, dont une hors ligne.",
+            "Les mises à jour systèmes et logiciels corrigent les failles de sécurité : elles doivent être appliquées régulièrement.",
+            "Les droits d'accès suivent le principe de moindre privilège : chacun ne voit que ce dont il a besoin."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Identifier les actifs et les risques",
+            "Mettre en place mots de passe et doublé facteur",
+            "Configurer sauvegardes et mises à jour",
+            "Limiter les droits et sécuriser les mobiles",
+            "Former, tester et documenter le plan de reprise"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Cliquer sur un lien suspect",
+            "Conserver une seule copie des données",
+            "Partager son mot de passe",
+            "Ignorer une notification de violation"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "3 copies : ordinateur, serveur, disque hors ligne",
+            "Double authentification activée pour la messagerie",
+            "Mise à jour hebdomadaire des logiciels",
+            "Violation notifiée à la CNIL sous 72 h"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · IN4 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"IN4 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">IN4 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Risque</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Outil</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Réflexe</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Phishing</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Vérification</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Ne pas cliquer</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rançongiciel</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sauvegarde</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Restaurer</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Erreur</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Droits</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Limiter</text></svg>"
+        },
+        {
+          "titre": "2 · IN4 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : IN4 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">IN4 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Identifier les actifs et les risques</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mettre en place mots de passe et doublé facteur</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Configurer sauvegardes et mises à jour</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Limiter les droits et sécuriser les mobiles</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Former, tester et documenter le plan de reprise</text></svg>"
+        },
+        {
+          "titre": "3 · IN4 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : IN4 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">IN4 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Prévention</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Mots de passe</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Mises à jour</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Formation</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Restauration</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Sauvegardes</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Plan de reprise</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Test</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Marketing",
+      "titre": "MK1. Étude de marché et segmentation en PME",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "L'étude de marché recueille et analyse des informations sur les clients, les concurrents et l'environnement commercial.",
+        "Les données secondaires existent déjà : Insee, panels, rapports sectoriels, données internes de vente.",
+        "Les données primaires sont collectées pour l'étude : questionnaire, entretien, observation, test produit.",
+        "Le questionnaire doit être clair, court, neutre et testé avant diffusion pour éviter les biais.",
+        "La segmentation divise le marché en groupes de clients aux besoins homogènes.",
+        "Les critères de segmentation classiques sont géographiques, démographiques, psychographiques et comportementaux.",
+        "Le ciblage évalue l'attractivité de chaque segment : taille, croissance, concurrence, accessibilité et rentabilité.",
+        "Le positionnement est la place que l'entreprise souhaite occuper dans l'esprit de la cible.",
+        "Une étude fiable distingue les faits des opinions et précise la taille de l'échantillon et la méthode utilisée.",
+        "Les résultats orientent les décisions : produit, prix, distribution, communication et priorisation des prospects.",
+        "Le bloc RNCP38363BC04 inclut la participation au développement commercial de la PME.",
+        "Une étude reste utile seulement si elle débouche sur une décision : la restitution doit être synthétique et actionnable."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est un exemple de donnée secondaire ?",
+          "options": [
+            "Un questionnaire créé pour l'étude",
+            "Un rapport Insee",
+            "Un entretien client",
+            "Une observation en magasin"
+          ],
+          "correct": 1,
+          "correction": "Les données secondaires existent avant l'étude et sont réutilisées."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel critère de segmentation est comportemental ?",
+          "options": [
+            "La fréquence d'achat",
+            "L'âge",
+            "La région",
+            "Le niveau de revenu"
+          ],
+          "correct": 0,
+          "correction": "La fréquence, l'usage et la fidélité relèvent du comportement."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne le ciblage ?",
+          "options": [
+            "Le choix des segments à satisfaire",
+            "La fabrication du produit",
+            "La fixation de la TVA",
+            "Le recrutement"
+          ],
+          "correct": 0,
+          "correction": "On évalue l'attractivité des segments puis on choisit la cible."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est l'objectif du pré-test d'un questionnaire ?",
+          "options": [
+            "Vérifier la clarté des questions",
+            "Augmenter le prix",
+            "Supprimer la concurrence",
+            "Clore les comptes"
+          ],
+          "correct": 0,
+          "correction": "Le pré-test révèle les ambiguïtés et estime la durée de réponse."
+        },
+        {
+          "type": "qcm",
+          "q": "Lequel est un critère d'attractivité d'un segment ?",
+          "options": [
+            "Sa taille et sa croissance",
+            "La couleur du logo",
+            "Le nombre de pages du rapport",
+            "Le taux d'IS"
+          ],
+          "correct": 0,
+          "correction": "On regarde aussi la concurrence, l'accessibilité et la rentabilité."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment appelle-t-on la place souhaitée dans l'esprit de la cible ?",
+          "options": [
+            "Le positionnement",
+            "Le chiffre d'affaires",
+            "Le BFR",
+            "La marge"
+          ],
+          "correct": 0,
+          "correction": "Le positionnement définit la perception distinctive recherchée."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est un risque d'un échantillon biaisé ?",
+          "options": [
+            "Des conclusions erronées",
+            "Une baisse de la TVA",
+            "Une hausse du capital",
+            "Une facture conforme"
+          ],
+          "correct": 0,
+          "correction": "Si l'échantillon ne représente pas la cible, les résultats ne sont pas généralisables."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle compétence du RNCP38363 est mobilisée ?",
+          "options": [
+            "BC01",
+            "BC02",
+            "BC03",
+            "BC04"
+          ],
+          "correct": 3,
+          "correction": "Le bloc BC04 comprend la participation au développement commercial."
+        },
+        {
+          "type": "texte",
+          "q": "Comparer données primaires et données secondaires et indiquer quand les utiliser.",
+          "reponse": "Les données secondaires existent déjà et sont rapides et peu coûteuses à obtenir : on les utilise d'abord pour cadrer l'étude. Les données primaires sont collectées spécifiquement pour répondre à la question posée : elles coûtent plus cher et prennent plus de temps, mais elles sont adaptées au problème. Une bonne étude combine les deux.",
+          "correction": "On compare coût, délai, adaptabilité et complémentarité des deux types de données."
+        },
+        {
+          "type": "texte",
+          "q": "Une PME souhaite savoir pourquoi elle perd des clients. Proposer une démarche d'étude en quatre étapes.",
+          "reponse": "Définir la question et la cible (clients perdus sur 12 mois) ; exploiter les données internes (factures, réclamations) ; interroger un échantillon par entretiens ou questionnaire court sur les motifs de départ ; analyser les résultats par segment et proposer des actions (qualité, prix, délai) avec indicateurs de suivi.",
+          "correction": "On suit une démarche complète définition, données, collecte, analyse et décision."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "L'étude de marché recueille et analyse des informations sur les clients, les concurrents et l'environnement commercial."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "Étude = données secondaires + primaires → segmentation → ciblage → positionnement.",
+          "leg": "Critères : géographique, démographique, psychographique, comportemental."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Donnée",
+              "Exemple",
+              "Atout"
+            ],
+            [
+              "Secondaire",
+              "Insee",
+              "Rapide"
+            ],
+            [
+              "Primaire",
+              "Questionnaire",
+              "Adapté"
+            ],
+            [
+              "Segment",
+              "Clientèle",
+              "Cible"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            "Le questionnaire doit être clair, court, neutre et testé avant diffusion pour éviter les biais.",
+            "La segmentation divise le marché en groupes de clients aux besoins homogènes.",
+            "Les critères de segmentation classiques sont géographiques, démographiques, psychographiques et comportementaux.",
+            "Le ciblage évalue l'attractivité de chaque segment : taille, croissance, concurrence, accessibilité et rentabilité.",
+            "Le positionnement est la place que l'entreprise souhaite occuper dans l'esprit de la cible."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Définir la question et la cible",
+            "Exploiter les données secondaires",
+            "Collecter des données primaires fiables",
+            "Segmenter et évaluer les segments",
+            "Restituer des recommandations actionnables"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Confondre ciblage et segmentation",
+            "Interroger un échantillon non représentatif",
+            "Poser des questions suggestives",
+            "Ne pas exploiter les résultats"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "Données Insee + questionnaires clients",
+            "Segment : artisans de moins de 10 salariés",
+            "Cible : 120 clients potentiels identifiés",
+            "Positionnement : réactivité et proximité"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · MK1 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"MK1 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">MK1 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Donnée</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Exemple</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Atout</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Secondaire</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Insee</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rapide</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Primaire</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Questionnaire</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Adapté</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Segment</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Clientèle</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Cible</text></svg>"
+        },
+        {
+          "titre": "2 · MK1 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : MK1 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">MK1 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir la question et la cible</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Exploiter les données secondaires</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Collecter des données primaires fiables</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Segmenter et évaluer les segments</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Restituer des recommandations actionnables</text></svg>"
+        },
+        {
+          "titre": "3 · MK1 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : MK1 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">MK1 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Segmentation</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Groupes homogènes</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Critères variés</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Ciblage</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Positionnement</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Perception cible</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Différenciation</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Choix stratégique</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Marketing",
+      "titre": "MK2. Mix marketing et positionnement",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "Le marketing vise à créer de la valeur pour le client et pour l'entreprise en adaptant l'offre à un besoin identifié.",
+        "Le mix marketing classique articule quatre leviers : Produit, Prix, Place (distribution), Promotion (communication) : les 4 P.",
+        "Le produit comprend la qualité, la gamme, la marque, l'emballage et les services associés.",
+        "Le prix doit couvrir les coûts, être acceptable pour la cible et cohérent avec le positionnement.",
+        "La place désigne les canaux de distribution : magasin, site web, revendeurs, plateformes, force de vente.",
+        "La promotion recouvre publicité, promotion des ventes, relations publiques, communication digitale et force de vente.",
+        "Une décision marketing cohérente aligne les quatre leviers autour d'une même promesse.",
+        "La différenciation distingue l'offre des concurrents par la qualité, le service, l'innovation ou l'image.",
+        "Le cycle de vie du produit comporte introduction, croissance, maturité et déclin ; les leviers évoluent à chaque étape.",
+        "Le positionnement se vérifie auprès des clients : perception réelle et perception souhaitée peuvent différer.",
+        "Dans une PME, le budget marketing limité impose de concentrer les efforts sur le segment prioritaire.",
+        "Le suivi repose sur des indicateurs : ventes, part de marché, taux de transformation, satisfaction et marge."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que désignent les 4 P du marketing ?",
+          "options": [
+            "Produit, Prix, Place, Promotion",
+            "Production, Prix, Personnel, Profit",
+            "Public, Publicité, Promotion, Place",
+            "Prix, Provision, Production, Publicité"
+          ],
+          "correct": 0,
+          "correction": "Les 4 P sont les leviers orchestrés par l'entreprise."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel levier concerne la distribution ?",
+          "options": [
+            "Produit",
+            "Prix",
+            "Place",
+            "Promotion"
+          ],
+          "correct": 2,
+          "correction": "Place désigne les canaux par lesquels l'offre atteint le client."
+        },
+        {
+          "type": "qcm",
+          "q": "Un prix doit notamment :",
+          "options": [
+            "Couvrir les coûts et être acceptable pour la cible",
+            "Être le plus bas du marché",
+            "Ignorer la concurrence",
+            "Être fixé par la TVA"
+          ],
+          "correct": 0,
+          "correction": "Le prix résulte d'un arbitrage entre coût, valeur perçue et concurrence."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel élément relève du produit ?",
+          "options": [
+            "La garantie",
+            "Le taux d'IS",
+            "Le BFR",
+            "Le capital social"
+          ],
+          "correct": 0,
+          "correction": "La garantie et le service après-vente font partie de l'offre produit."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment appelle-t-on l'action de se distinguer des concurrents ?",
+          "options": [
+            "La différenciation",
+            "La standardisation",
+            "La centralisation",
+            "La liquidation"
+          ],
+          "correct": 0,
+          "correction": "La différenciation s'appuie sur une caractéristique valorisée par la cible."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est une phase du cycle de vie d'un produit ?",
+          "options": [
+            "La maturité",
+            "La TVA",
+            "La paie",
+            "La clôture"
+          ],
+          "correct": 0,
+          "correction": "Introduction, croissance, maturité, déclin sont les quatre phases classiques."
+        },
+        {
+          "type": "qcm",
+          "q": "Que vérifie-t-on pour valider un positionnement ?",
+          "options": [
+            "La perception réelle des clients",
+            "Le capital social",
+            "Le nombre de salariés",
+            "Le taux d'imposition"
+          ],
+          "correct": 0,
+          "correction": "Une étude de perception compare image souhaitée et image perçue."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi concentrer les efforts dans une PME ?",
+          "options": [
+            "Parce que le budget est limité",
+            "Parce que la concurrence est absente",
+            "Parce que les clients sont identiques",
+            "Parce que la TVA est nulle"
+          ],
+          "correct": 0,
+          "correction": "La rareté des ressources impose de prioriser le segment et les leviers les plus efficaces."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer comment les 4 P doivent être cohérents avec un positionnement de qualité supérieure.",
+          "reponse": "Un positionnement haut de gamme suppose un produit soigné et garanti, un prix élevé cohérent avec la valeur perçue, une distribution sélective qui préserve l'image et une promotion mettant en avant le savoir-faire plutôt que le prix le plus bas. Une incohérence, par exemple une promotion permanente de -50 %, détruit la perception de qualité.",
+          "correction": "On relie chaque levier à la promesse de positionnement et on montre l'effet d'une incohérence."
+        },
+        {
+          "type": "texte",
+          "q": "Une PME lance un nouveau produit. Décrire les décisions du mix marketing à prendre.",
+          "reponse": "Produit : définir la gamme, la marque, l'emballage et les services. Prix : calculer un prix de vente couvrant les coûts et acceptable pour la cible. Place : choisir les canaux (boutique, site, revendeurs). Promotion : prévoir les supports de communication et les actions de vente. Ces décisions doivent ensuite être suivies par des indicateurs.",
+          "correction": "On passe en revue les quatre leviers et on mentionne le suivi."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Le marketing vise à créer de la valeur pour le client et pour l'entreprise en adaptant l'offre à un besoin identifié."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "Mix marketing = Produit + Prix + Place + Promotion, cohérents avec le positionnement.",
+          "leg": "Cycle de vie = introduction, croissance, maturité, déclin."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Levier",
+              "Décision",
+              "Indicateur"
+            ],
+            [
+              "Produit",
+              "Gamme, garantie",
+              "Satisfaction"
+            ],
+            [
+              "Prix",
+              "Niveau, remise",
+              "Marge"
+            ],
+            [
+              "Promotion",
+              "Supports",
+              "Transformation"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            "Le prix doit couvrir les coûts, être acceptable pour la cible et cohérent avec le positionnement.",
+            "La place désigne les canaux de distribution : magasin, site web, revendeurs, plateformes, force de vente.",
+            "La promotion recouvre publicité, promotion des ventes, relations publiques, communication digitale et force de vente.",
+            "Une décision marketing cohérente aligne les quatre leviers autour d'une même promesse.",
+            "La différenciation distingue l'offre des concurrents par la qualité, le service, l'innovation ou l'image."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Choisir la cible et le positionnement",
+            "Définir le produit et les services associés",
+            "Fixer le prix au regard des coûts et de la valeur perçue",
+            "Choisir les canaux de distribution",
+            "Construire la communication et mesurer les résultats"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Fixer un prix sans tenir compte des coûts",
+            "Multiplier les canaux sans cohérence",
+            "Confondre promotion et prix",
+            "Ignorer le cycle de vie"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "Gamme 3 produits avec garantie 2 ans",
+            "Prix 49 € HT cohérent avec la valeur perçue",
+            "Distribution : boutique + site web",
+            "Promotion : démonstrations et e-mails ciblés"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · MK2 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"MK2 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">MK2 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Levier</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Décision</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Indicateur</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Produit</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Gamme, garantie</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Satisfaction</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Prix</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Niveau, remise</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Marge</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Promotion</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Supports</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Transformation</text></svg>"
+        },
+        {
+          "titre": "2 · MK2 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : MK2 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">MK2 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choisir la cible et le positionnement</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir le produit et les services associés</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Fixer le prix au regard des coûts et de la valeur perçue</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choisir les canaux de distribution</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Construire la communication et mesurer les résultats</text></svg>"
+        },
+        {
+          "titre": "3 · MK2 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : MK2 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">MK2 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">4 P</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Produit</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Prix</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Place, Promotion</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Positionnement</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Perception cible</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Différenciation</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Cohérence</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Marketing",
+      "titre": "MK3. Fidélisation et relation client",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "Fidéliser un client coûte généralement moins cher que d'en acquérir un nouveau : la relation s'inscrit dans la durée.",
+        "La fidélisation vise à augmenter la fréquence d'achat, le panier moyen et la durée de la relation.",
+        "La satisfaction est l'écart perçu entre les attentes du client et l'expérience vécue.",
+        "La qualité perçue dépend de la fiabilité, de la réactivité, du conseil et de la cohérence des points de contact.",
+        "Une réclamation bien traitée peut renforcer la fidélité : c'est le paradoxe de la récupération.",
+        "Le parcours client décrit les étapes : prise de connaissance, décision d'achat, livraison, usage, service après-vente et recommandation.",
+        "La personnalisation adapte l'offre et le message au profil du client, avec des données collectées conformément au RGPD.",
+        "Les outils de fidélisation comprennent la carte de fidélité, les offres personnalisées, le suivi après vente et les programmes de parrainage.",
+        "Le taux de rétention mesure la part des clients conservés sur une période ; le taux d'attrition mesure la part perdue.",
+        "La valeur vie client (LTV) estime le chiffre d'affaires ou la marge générée sur toute la durée de la relation.",
+        "Le NPS (Net Promoter Score) mesure la probabilité de recommandation sur une échelle de 0 à 10.",
+        "Le bloc RNCP38363BC01 couvre la relation client et le maintien et développement de la relation."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Pourquoi la fidélisation est-elle avantageuse ?",
+          "options": [
+            "Elle coûte moins cher que l'acquisition",
+            "Elle supprime les réclamations",
+            "Elle augmente les impôts",
+            "Elle réduit le CA"
+          ],
+          "correct": 0,
+          "correction": "Un client fidèle achète à nouveau et recommande l'entreprise."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment définir la satisfaction ?",
+          "options": [
+            "Écart entre attentes et expérience perçue",
+            "Prix le plus bas",
+            "Nombre de clients",
+            "Taux de TVA"
+          ],
+          "correct": 0,
+          "correction": "Un client est satisfait si l'expérience répond ou dépasse ses attentes."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel indicateur mesure la probabilité de recommandation ?",
+          "options": [
+            "Le NPS",
+            "Le BFR",
+            "Le taux d'IS",
+            "Le capital"
+          ],
+          "correct": 0,
+          "correction": "Le NPS classe les clients entre détracteurs, neutres et promoteurs."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment calculer le taux de rétention ?",
+          "options": [
+            "Clients conservés / clients au début de la période",
+            "CA / nombre de clients",
+            "Réclamations / ventes",
+            "Marge / dettes"
+          ],
+          "correct": 0,
+          "correction": "Le taux d'attrition est son complément."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne la valeur vie client ?",
+          "options": [
+            "La marge ou le CA généré sur toute la relation",
+            "Le prix d'un produit",
+            "Le capital social",
+            "La durée du contrat de travail"
+          ],
+          "correct": 0,
+          "correction": "La LTV aide à arbitrer l'effort d'acquisition et de fidélisation."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est un outil de fidélisation ?",
+          "options": [
+            "Un programme de parrainage",
+            "Une facture",
+            "Un bulletin de salaire",
+            "Un bilan"
+          ],
+          "correct": 0,
+          "correction": "Carte de fidélité, parrainage et suivi après vente sont des leviers classiques."
+        },
+        {
+          "type": "qcm",
+          "q": "La personnalisation doit respecter :",
+          "options": [
+            "Le RGPD",
+            "Le plan comptable",
+            "Le code du travail",
+            "La TVA"
+          ],
+          "correct": 0,
+          "correction": "Les données clients doivent avoir une finalité légale et être sécurisées."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel bloc RNCP38363 concerne la relation client ?",
+          "options": [
+            "BC01",
+            "BC02",
+            "BC03",
+            "BC04"
+          ],
+          "correct": 0,
+          "correction": "Le bloc BC01 porte sur la gestion de la relation avec les clients et fournisseurs."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer le paradoxe de la récupération après une réclamation.",
+          "reponse": "Un client mécontent dont la réclamation est traitée rapidement et généreusement peut devenir plus fidèle qu'un client n'ayant jamais rencontré de problème : l'entreprise a montré sa réactivité et sa capacité à réparer. Cela suppose une écoute réelle, une solution claire et un suivi, sans quoi la confiance est définitivement perdue.",
+          "correction": "On relie qualité de récupération, confiance et fidélité."
+        },
+        {
+          "type": "texte",
+          "q": "Une PME veut réduire son taux d'attrition de 20 % à 12 %. Proposer un plan d'action avec indicateurs.",
+          "reponse": "Diagnostiquer les motifs de départ par entretiens et analyse des réclamations ; améliorer les points critiques (délai, qualité, accueil) ; mettre en place un suivi après vente et une relance des clients inactifs ; former les équipes ; mesurer chaque mois le taux de rétention, le NPS et le délai de traitement des réclamations.",
+          "correction": "On structure le plan diagnostic, actions, indicateurs et suivi."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Fidéliser un client coûte généralement moins cher que d'en acquérir un nouveau : la relation s'inscrit dans la durée."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "Fidélisation = satisfaction + qualité perçue + personnalisation + suivi.",
+          "leg": "Rétention = clients conservés / clients initiaux ; NPS = recommandation ; LTV = valeur vie client."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Indicateur",
+              "Mesure",
+              "Action"
+            ],
+            [
+              "Rétention",
+              "Clients gardés",
+              "Relance"
+            ],
+            [
+              "NPS",
+              "Recommandation",
+              "Amélioration"
+            ],
+            [
+              "LTV",
+              "Valeur cumulée",
+              "Priorisation"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            "La qualité perçue dépend de la fiabilité, de la réactivité, du conseil et de la cohérence des points de contact.",
+            "Une réclamation bien traitée peut renforcer la fidélité : c'est le paradoxe de la récupération.",
+            "Le parcours client décrit les étapes : prise de connaissance, décision d'achat, livraison, usage, service après-vente et recommandation.",
+            "La personnalisation adapte l'offre et le message au profil du client, avec des données collectées conformément au RGPD.",
+            "Les outils de fidélisation comprennent la carte de fidélité, les offres personnalisées, le suivi après vente et les programmes de parrainage."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Mesurer la rétention et analyser les départs",
+            "Identifier les points critiques du parcours",
+            "Améliorer la qualité et la réactivité",
+            "Mettre en place des actions personnalisées conformes au RGPD",
+            "Suivre NPS, réclamations et taux de rétention"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Confondre satisfaction et fidélité",
+            "Utiliser les données clients sans base légale",
+            "Ignorer les clients inactifs",
+            "Ne pas suivre les réclamations"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "Rétention = 88 clients conservés / 100 = 88 %",
+            "NPS : 40 % promoteurs − 20 % détracteurs = 20",
+            "LTV : 5 ans × 4 achats × 60 € = 1 200 €",
+            "Réclamation traitée en 48 h et confirmée par écrit"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · MK3 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"MK3 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">MK3 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Indicateur</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mesure</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Action</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rétention</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Clients gardés</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Relance</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">NPS</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Recommandation</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Amélioration</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">LTV</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Valeur cumulée</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Priorisation</text></svg>"
+        },
+        {
+          "titre": "2 · MK3 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : MK3 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">MK3 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mesurer la rétention et analyser les départs</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Identifier les points critiques du parcours</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Améliorer la qualité et la réactivité</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mettre en place des actions personnalisées conformes au RGPD</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Suivre NPS, réclamations et taux de rétention</text></svg>"
+        },
+        {
+          "titre": "3 · MK3 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : MK3 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">MK3 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Satisfaction</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Attentes vs expérience</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Qualité perçue</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Réclamation</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Fidélisation</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Rétention</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">LTV</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Recommandation</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-gpme"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Marketing",
+      "titre": "MK4. Développement commercial et indicateurs marketing",
+      "source": "Arrêté du 26 janvier 2017 portant création du BTS « gestion de la PME » (BO du 2 février 2017), modifié par l'arrêté du 19 février 2018 (JORF n°0054 du 6 mars 2018) · culture générale et expression, arrêté du 16 novembre 2006 · programme CEJM du 15 février 2018 · RNCP38363 · éduscol",
+      "points": [
+        "Le développement commercial vise à accroître le chiffre d'affaires en acquérant de nouveaux clients et en développant les clients existants.",
+        "La prospection identifie et contacte des prospects : salons, réseau, référencement, annonces, recommandations et bases de données.",
+        "La qualification d'un prospect vérifie son besoin, son budget, son autorité de décision et son calendrier : la méthode BANT.",
+        "Le tunnel de vente suit les étapes : prospects, contacts, devis, négociation, commandes, puis clients fidèles.",
+        "Le taux de transformation rapporte le nombre de devis signés au nombre de devis envoyés.",
+        "Le panier moyen se calcule en divisant le chiffre d'affaires par le nombre de commandes ou de clients.",
+        "Un plan d'action commercial précise les objectifs, les cibles, les actions, les responsables, le budget et les délais.",
+        "Le suivi commercial repose sur un tableau de bord : devis en cours, taux de transformation, CA par client et délai de vente.",
+        "Le prix n'est pas le seul levier : upsell (montée en gamme) et cross-sell (vente croisée) développent le portefeuille existant.",
+        "Une politique de prix cohérente protège la marge : les remises doivent être encadrées et validées.",
+        "Le bloc RNCP38363BC04 inclut la participation au développement commercial et à la fidélisation de la clientèle.",
+        "Les résultats doivent être analysés par segment pour concentrer les efforts sur les clients les plus rentables."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que vérifie la méthode BANT ?",
+          "options": [
+            "Budget, Autorité, Besoin, Temps",
+            "Bilan, Actif, Net, Taux",
+            "Achat, Assurance, Nouveau, TVA",
+            "Bénéfice, Amortissement, Net, Titre"
+          ],
+          "correct": 0,
+          "correction": "BANT qualifie le prospect sur quatre dimensions."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment calculer le taux de transformation ?",
+          "options": [
+            "Devis signés / devis envoyés",
+            "CA / clients",
+            "Clients / prospects",
+            "Marge / CA"
+          ],
+          "correct": 0,
+          "correction": "Il mesure l'efficacité de la phase de négociation."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est un levier de développement sur le portefeuille existant ?",
+          "options": [
+            "Le cross-sell",
+            "La TVA",
+            "Le bilan",
+            "Le capital"
+          ],
+          "correct": 0,
+          "correction": "La vente croisée propose un produit complémentaire au client actuel."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle information n'est pas utile dans un plan d'action commercial ?",
+          "options": [
+            "La couleur des diapositives",
+            "L'objectif chiffré",
+            "Les responsables",
+            "Le budget"
+          ],
+          "correct": 0,
+          "correction": "Un plan d'action repose sur des éléments opérationnels et mesurables."
+        },
+        {
+          "type": "qcm",
+          "q": "Que mesure le panier moyen ?",
+          "options": [
+            "Le CA par commande ou par client",
+            "Le taux d'IS",
+            "Le BFR",
+            "Le capital social"
+          ],
+          "correct": 0,
+          "correction": "C'est un indicateur du montant moyen des achats."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi encadrer les remises ?",
+          "options": [
+            "Pour préserver la marge",
+            "Pour supprimer la TVA",
+            "Pour fermer le bilan",
+            "Pour éviter les clients"
+          ],
+          "correct": 0,
+          "correction": "Une remise non contrôlée réduit la marge et peut dégrader le positionnement."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est un indicateur du tableau de bord commercial ?",
+          "options": [
+            "Devis en cours et délai de vente",
+            "Taux d'IS",
+            "Amortissement",
+            "Capital"
+          ],
+          "correct": 0,
+          "correction": "Ces indicateurs pilotent l'avancement du tunnel de vente."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel bloc RNCP38363 est mobilisé ?",
+          "options": [
+            "BC01",
+            "BC02",
+            "BC03",
+            "BC04"
+          ],
+          "correct": 3,
+          "correction": "Le bloc BC04 inclut le développement commercial et la fidélisation."
+        },
+        {
+          "type": "texte",
+          "q": "Construire un tunnel de vente simple avec des indicateurs à chaque étape.",
+          "reponse": "Prospects (nombre identifié, source), contacts (nombre de rendez-vous), devis (nombre envoyés), négociation (devis en cours et ancienneté), commandes (taux de transformation), clients fidèles (taux de réachat et LTV). Chaque indicateur est suivi mensuellement et comparé à l'objectif du plan d'action.",
+          "correction": "On décrit les étapes du tunnel et on associe un indicateur mesurable à chacune."
+        },
+        {
+          "type": "texte",
+          "q": "Un plan d'action commercial prévoit +15 % de CA. Définir les objectifs, actions et indicateurs de suivi.",
+          "reponse": "Objectifs : +15 % de CA, dont +10 % sur les clients existants et +5 % sur de nouveaux clients. Actions : qualifier 50 prospects par mois via le réseau, relancer les anciens clients, proposer une offre groupée, former l'équipe à la vente croisée, cadrer les remises. Indicateurs : devis envoyés, taux de transformation, panier moyen, CA par segment, marge et délai de vente, suivis chaque semaine.",
+          "correction": "On relie objectifs chiffrés, actions opérationnelles et indicateurs de pilotage."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idée en une phrase",
+          "texte": "Le développement commercial vise à accroître le chiffre d'affaires en acquérant de nouveaux clients et en développant les clients existants."
+        },
+        {
+          "type": "formule",
+          "titre": "La règle ou formule clé",
+          "eq": "Développement = prospection + qualification + tunnel de vente + fidélisation.",
+          "leg": "Taux de transformation = devis signés / devis envoyés ; panier moyen = CA / commandes."
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de synthèse",
+          "items": [
+            [
+              "Étape",
+              "Indicateur",
+              "Leviers"
+            ],
+            [
+              "Prospection",
+              "Contacts",
+              "Réseau"
+            ],
+            [
+              "Devis",
+              "Transformation",
+              "Négociation"
+            ],
+            [
+              "Client",
+              "Réachat",
+              "Cross-sell"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "À retenir pour l'examen",
+          "items": [
+            "Le tunnel de vente suit les étapes : prospects, contacts, devis, négociation, commandes, puis clients fidèles.",
+            "Le taux de transformation rapporte le nombre de devis signés au nombre de devis envoyés.",
+            "Le panier moyen se calcule en divisant le chiffre d'affaires par le nombre de commandes ou de clients.",
+            "Un plan d'action commercial précise les objectifs, les cibles, les actions, les responsables, le budget et les délais.",
+            "Le suivi commercial repose sur un tableau de bord : devis en cours, taux de transformation, CA par client et délai de vente."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La méthode en cinq étapes",
+          "items": [
+            "Définir un objectif chiffré",
+            "Qualifier les prospects (BANT)",
+            "Planifier actions, budget et responsables",
+            "Suivre le tunnel de vente et les indicateurs",
+            "Analyser la rentabilité par segment"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pièges fréquents",
+          "items": [
+            "Confondre prospect et client",
+            "Négliger la qualification",
+            "Accorder des remises sans contrôle",
+            "Ne pas mesurer le taux de transformation"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples à refaire",
+          "items": [
+            "50 prospects qualifiés / mois",
+            "Taux de transformation : 25 %",
+            "Panier moyen : 180 €",
+            "Objectif : +15 % de CA et marge maintenue à 35 %"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · MK4 · l'essentiel en tableau",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"MK4 · repères\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">MK4 · repères</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Étape</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Indicateur</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Leviers</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Prospection</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Contacts</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Réseau</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Devis</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Transformation</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Négociation</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Client</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Réachat</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Cross-sell</text></svg>"
+        },
+        {
+          "titre": "2 · MK4 · méthode",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : MK4 · démarche\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">MK4 · démarche</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir un objectif chiffré</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Qualifier les prospects (BANT)</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Planifier actions, budget et responsables</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Suivre le tunnel de vente et les indicateurs</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Analyser la rentabilité par segment</text></svg>"
+        },
+        {
+          "titre": "3 · MK4 · deux lectures",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : MK4 · comparaison\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">MK4 · comparaison</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Acquisition</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Prospection</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Qualification</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Transformation</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Développement</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Cross-sell</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Upsell</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Fidélisation</text></svg>"
         }
       ]
     }

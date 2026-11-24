@@ -14,14 +14,14 @@ from fixtures import (fiche, qcm, qt, diag, svg_grille, svg_etapes,
 FIL = ["bts-ciel"]
 
 REF = (
-    "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de "
-    "delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » "
-    "(NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete "
-    "du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete "
-    "du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. "
-    "Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, "
-    "option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. "
-    "SOURCES.md : 53 416 voeux Parcoursup 2026."
+    "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions "
+    "de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, "
+    "JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 "
+    "relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté "
+    "du 4 juin 2013 (mathématiques BTS) cités comme références de travail. "
+    "Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, "
+    "option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. "
+    "SOURCES.md : 53 416 vœux Parcoursup 2026."
 )
 
 

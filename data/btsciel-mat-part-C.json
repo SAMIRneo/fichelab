@@ -9,7 +9,7 @@
       ],
       "matiere": "Français",
       "titre": "PF1 · Synthèse de documents : méthode et restitution",
-      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
       "points": [
         "La synthèse de documents consiste à restituer l'essentiel de plusieurs textes portant sur un même sujet, sous forme d'un document nouveau et structuré.",
         "L'unité U1 de culture générale et expression du BTS s'appuie sur l'arrêté du 16 novembre 2006 qui définit les capacités attendues.",
@@ -230,7 +230,7 @@
       ],
       "matiere": "Français",
       "titre": "PF2 · Analyse de situation et argumentation écrite",
-      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
       "points": [
         "L'analyse de situation demande de comprendre un problème professionnel, d'identifier les enjeux et de proposer une position argumentée et nuancée.",
         "Le sujet prend appui sur un dossier documentaire ou sur une mise en situation décrivant un contexte d'entreprise.",
@@ -447,11 +447,11 @@
         "bts-ciel"
       ],
       "annees": [
-        "BTS1"
+        "BTS2"
       ],
       "matiere": "Français",
       "titre": "PF3 · Expression écrite professionnelle : note, courriel et compte rendu",
-      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
       "points": [
         "L'écrit professionnel vise l'efficacité : transmettre une information exacte, à un destinataire précis, dans un format attendu et dans un délai court.",
         "La note de synthèse ou de cadrage présente une situation, une analyse et des recommandations dans un format court et hiérarchisé.",
@@ -672,7 +672,7 @@
       ],
       "matiere": "Français",
       "titre": "PF4 · Culture générale et expression : enjeux numériques et société",
-      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
       "points": [
         "La culture générale vise à situer une question technique dans son contexte historique, social, économique et éthique.",
         "Pour un BTS CIEL, les thèmes récurrents concernent la place du numérique, la protection de la vie privée, le travail, la santé et l'environnement.",
@@ -893,7 +893,7 @@
       ],
       "matiere": "Anglais professionnel",
       "titre": "AN1 · Comprendre un document technique en anglais",
-      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
       "points": [
         "L'anglais technique est une langue de spécialité : elle emprunte au vocabulaire courant mais lui donne un sens précis, souvent différent.",
         "L'unité U2 du BTS CIEL renvoie à l'arrêté du 22 juillet 2008 modifié, qui fixe le programme d'anglais des BTS du secteur industriel.",
@@ -1114,7 +1114,7 @@
       ],
       "matiere": "Anglais professionnel",
       "titre": "AN2 · Lexique technique : réseaux, systèmes et cybersécurité",
-      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
       "points": [
         "Le vocabulaire technique anglais est en grande partie normalisé par les RFC, les normes et les documentations des éditeurs.",
         "En réseau, les termes essentiels sont host, router, switch, gateway, subnet mask, packet, frame, bandwidth, latency et throughput.",
@@ -1335,7 +1335,7 @@
       ],
       "matiere": "Anglais professionnel",
       "titre": "AN3 · Écrire un courriel et un rapport d'incident en anglais",
-      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
       "points": [
         "L'écriture professionnelle en anglais privilégie la clarté, la concision et la politesse directe.",
         "Un courriel comprend un objet informatif, une formule d'appel (Dear Mrs Smith, Hi Paul), un corps structuré et une formule de clôture (Kind regards, Best regards).",
@@ -1556,7 +1556,7 @@
       ],
       "matiere": "Anglais professionnel",
       "titre": "AN4 · Présentation technique et soutenance en anglais",
-      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
       "points": [
         "La présentation technique en anglais vise à faire comprendre un projet, un incident ou une solution à un public international.",
         "La préparation commence par l'analyse du public : collègues techniques, direction ou client externe n'ont pas les mêmes attentes ni le même vocabulaire.",
@@ -1777,7 +1777,7 @@
       ],
       "matiere": "Communication",
       "titre": "CO1 · Communication professionnelle et relation client",
-      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
       "points": [
         "La communication professionnelle est un processus d'échange d'informations entre acteurs dans un contexte de travail, avec un objectif et des contraintes.",
         "Le modèle classique de la communication distingue un émetteur, un message, un canal, un récepteur, du bruit et un feedback.",
@@ -1998,7 +1998,7 @@
       ],
       "matiere": "Communication",
       "titre": "CO2 · Communication écrite et numérique en équipe",
-      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
       "points": [
         "La communication écrite en équipe technique doit être courte, structurée et consultable par tous les membres concernés.",
         "Les canaux se complètent : le courriel pour les échanges formels et archivés, la messagerie instantanée pour les questions rapides, le ticketing pour le suivi d'incident et la documentation partagée pour les procédures.",
@@ -2219,7 +2219,7 @@
       ],
       "matiere": "Communication",
       "titre": "CO3 · Animer une réunion et communiquer à l'oral",
-      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
       "points": [
         "Animer une réunion, c'est conduire un groupe vers un résultat déterminé dans un temps défini.",
         "La préparation fixe l'objectif, les participants nécessaires, l'ordre du jour, la durée, les documents à lire et le rôle de chacun.",
@@ -2440,7 +2440,7 @@
       ],
       "matiere": "Communication",
       "titre": "CO4 · Gestion des conflits et communication de crise",
-      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
       "points": [
         "Un conflit est une opposition d'intérêts, de points de vue ou de besoins entre personnes ou entre services.",
         "Il n'est pas nécessairement négatif : un désaccord technique traité correctement améliore souvent la décision finale.",
@@ -2661,7 +2661,7 @@
       ],
       "matiere": "Méthodologie",
       "titre": "ME1 · Analyser une situation professionnelle : méthode en 4 étapes",
-      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
       "points": [
         "L'analyse de situation est une démarche structurée pour comprendre un problème réel avant de proposer une solution.",
         "La première étape consiste à collecter les faits : qui, quoi, quand, où, combien, dans quel contexte et avec quelles contraintes.",
@@ -2882,7 +2882,7 @@
       ],
       "matiere": "Méthodologie",
       "titre": "ME2 · Résolution de problème et outils d'amélioration continue",
-      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
       "points": [
         "La résolution de problème est une démarche itérative qui vise à supprimer durablement un écart entre l'état actuel et l'état souhaité.",
         "Le cycle PDCA structure l'amélioration : Planifier, Faire, Vérifier, Agir, puis recommencer.",
@@ -3099,11 +3099,11 @@
         "bts-ciel"
       ],
       "annees": [
-        "BTS1"
+        "BTS2"
       ],
       "matiere": "Méthodologie",
       "titre": "ME3 · Recherche documentaire et évaluation des sources",
-      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
       "points": [
         "La recherche documentaire vise à trouver l'information fiable et pertinente nécessaire à une décision ou à un rapport.",
         "Elle commence par l'analyse du besoin : question précise, mots-clés, période, type de document et niveau de fiabilité requis.",
@@ -3324,7 +3324,7 @@
       ],
       "matiere": "Méthodologie",
       "titre": "ME4 · Préparer et réussir sa soutenance de projet",
-      "source": "Reference : arrete du 25 janvier 2023 portant definition et fixation des conditions de delivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 fevrier 2023, 1re session 2025), succedant a l'arrete du 15 novembre 2013 relatif au BTS Systemes numeriques ; arrete du 19 juillet 2019 et arrete du 4 juin 2013 (mathematiques BTS) cites dans le cahier des charges comme references de travail. Bulletin officiel special, eduscol (ressources BTS, option A Informatique et reseaux / IR, option B Electronique et reseaux / ELC-ER), France competences RNCP37391, ANSSI et CNIL. SOURCES.md : 53 416 voeux Parcoursup 2026.",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
       "points": [
         "La soutenance de projet est un exercice de communication qui évalue la démarche suivie autant que le résultat obtenu.",
         "En option IR du BTS CIEL, l'épreuve E6 évalue la valorisation de la donnée et la cybersécurité à travers un projet technique et sa présentation.",
@@ -3533,6 +3533,890 @@
         {
           "titre": "3 · A distinguer",
           "svg": "<svg viewBox=\"0 0 660 124\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Préparer et réussir sa soutenance de projet\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Préparer et réussir sa soutenance de projet</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('Démonstration', ['Preuve de</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Schéma</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">['Preuve de conception']</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('Chronomètre', ['Maîtrise du</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Mots-clés</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">[&quot;Appui à l'oral&quot;]</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ciel"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Comptabilité et gestion",
+      "titre": "CG1 · Comptabilité générale : bilan et compte de résultat",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
+      "points": [
+        "La comptabilité générale enregistre, classe et synthétise les opérations d'une organisation selon le plan comptable général.",
+        "Le bilan décrit à une date donnée l'actif, c'est-à-dire ce que l'entreprise possède, et le passif, c'est-à-dire où elle a trouvé les ressources pour le financer.",
+        "L'actif se divise en actif immobilisé (usage durable) et actif circulant (stocks, créances, disponibilités).",
+        "Le passif comprend les capitaux propres, les provisions et les dettes, classées selon leur échéance.",
+        "Le principe de dualité impose que chaque opération modifie au moins deux comptes pour un montant égal : l'égalité actif = passif est toujours respectée.",
+        "Le compte de résultat retrace les produits et les charges de l'exercice et fait ressortir le résultat : produit = recette, charge = dépense.",
+        "Le résultat se calcule par différence entre les produits et les charges ; il est bénéficiaire si les produits l'emportent.",
+        "Le plan comptable général organise les comptes en classes : 1 capitaux, 2 immobilisations, 3 stocks, 4 tiers, 5 comptes financiers, 6 charges, 7 produits.",
+        "Le principe de indépendance des exercices impose de rattacher chaque opération à la période qui la concerne, quel que soit le paiement.",
+        "Les amortissements répartissent la valeur d'une immobilisation sur sa durée d'utilisation : ils représentent l'usure et la perte de valeur.",
+        "Les provisions constatent des risques ou des charges probables dont le montant ou l'échéance est incertain.",
+        "Pour un projet informatique, distinguer une dépense d'investissement (immobilisation) et une dépense de fonctionnement (charge) est un arbitrage comptable important."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que décrit le bilan ?",
+          "options": [
+            "Les seules recettes de l'année",
+            "Actif et passif à une date donnée",
+            "Les salaires",
+            "Les seuls clients"
+          ],
+          "correct": 1,
+          "correction": "Le bilan est un état patrimonial à une date précise."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel principe impose l'égalité actif = passif ?",
+          "options": [
+            "La dualité",
+            "La continuité",
+            "La prudence",
+            "La régularité"
+          ],
+          "correct": 0,
+          "correction": "Chaque opération affecte au moins deux comptes pour un montant égal."
+        },
+        {
+          "type": "qcm",
+          "q": "Dans quelle classe du PCG se trouvent les charges ?",
+          "options": [
+            "Classe 1",
+            "Classe 4",
+            "Classe 6",
+            "Classe 7"
+          ],
+          "correct": 2,
+          "correction": "La classe 6 regroupe les charges ; la classe 7 les produits."
+        },
+        {
+          "type": "qcm",
+          "q": "Que calcule le compte de résultat ?",
+          "options": [
+            "Le résultat de l'exercice",
+            "Le nombre de salariés",
+            "La valeur des immobilisations",
+            "La trésorerie disponible"
+          ],
+          "correct": 0,
+          "correction": "Il fait ressortir le bénéfice ou la perte par différence produits - charges."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce qu'un amortissement ?",
+          "options": [
+            "Un impôt",
+            "La répartition de la valeur d'une immobilisation sur sa durée de vie",
+            "Une subvention",
+            "Une dette"
+          ],
+          "correct": 1,
+          "correction": "L'amortissement constate l'usure ou l'obsolescence d'un actif immobilisé."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est un élément de l'actif circulant ?",
+          "options": [
+            "Un terrain",
+            "Une créance client",
+            "Un brevet",
+            "Une immobilisation corporelle"
+          ],
+          "correct": 1,
+          "correction": "Les créances, stocks et disponibilités forment l'actif circulant."
+        },
+        {
+          "type": "qcm",
+          "q": "Que constate une provision ?",
+          "options": [
+            "Un produit certain",
+            "Un risque ou une charge probable",
+            "Une recette exceptionnelle",
+            "Un capital"
+          ],
+          "correct": 1,
+          "correction": "La provision répond au principe de prudence."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment classer l'achat d'un serveur utilisé trois ans ?",
+          "options": [
+            "Charge de fonctionnement",
+            "Immobilisation amortissable",
+            "Produit",
+            "Provision"
+          ],
+          "correct": 1,
+          "correction": "Un équipement durable est immobilisé puis amorti sur sa durée d'utilisation."
+        },
+        {
+          "type": "texte",
+          "q": "Une entreprise achète un serveur 12 000 € hors taxes, utilisé pendant trois ans, avec une valeur résiduelle nulle. Expliquer le traitement comptable et calculer l'amortissement annuel en mode linéaire.",
+          "reponse": "Le serveur est une immobilisation corporelle : il est inscrit à l'actif du bilan pour 12 000 € et financé par un compte de dettes ou de trésorerie, ce qui respecte la dualité. Il n'est pas comptabilisé directement en charge car il rend des services sur plusieurs exercices. En mode linéaire, l'amortissement annuel vaut (valeur d'origine − valeur résiduelle) / durée d'utilisation, soit (12 000 − 0) / 3 = 4 000 € par an. Chaque année, une charge d'amortissement de 4 000 € est constatée au compte de résultat et un amortissement cumulé vient réduire la valeur nette comptable au bilan. Après trois ans, la valeur nette est nulle et le serveur peut être sorti de l'actif.",
+          "correction": "On qualifie l'immobilisation, on rappelle la dualité, puis on calcule 12 000 / 3 = 4 000 € par an."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer la différence entre le résultat comptable et la trésorerie, et pourquoi une entreprise bénéficiaire peut manquer de liquidités.",
+          "reponse": "Le résultat comptable est calculé selon la indépendance des exercices : les produits sont rattachés à la période de la vente, même si le client paie plus tard, et les charges à celle de la consommation, même si le fournisseur n'est pas encore réglé. La trésorerie, elle, enregistre les mouvements d'argent réels. Une entreprise peut donc être bénéficiaire tout en ayant un besoin de trésorerie : ses clients paient à 60 jours alors qu'elle règle ses fournisseurs et ses salaires à 30 jours. Les stocks immobilisent aussi des liquidités, et les investissements génèrent des décaissements immédiats alors que leurs effets s'étalent sur plusieurs années. Le suivi du besoin en fonds de roulement et du plan de trésorerie complète le compte de résultat pour piloter l'entreprise.",
+          "correction": "On oppose rattachement à l'exercice et mouvements réels, puis on cite délais de paiement, stocks et investissements."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "La comptabilité générale décrit le patrimoine au bilan et l'activité au compte de résultat, selon la dualité et la indépendance des exercices."
+        },
+        {
+          "type": "formule",
+          "titre": "La notion a maitriser",
+          "eq": "Actif = passif · résultat = produits − charges",
+          "leg": "PCG classes 1 à 7 · amortissements · provisions"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Actif",
+              "Biens et droits",
+              "Passif"
+            ],
+            [
+              "Financements",
+              "Dualité",
+              "Deux comptes par opération"
+            ],
+            [
+              "Compte de résultat",
+              "Produits et charges",
+              "Amortissement"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Les points essentiels du chapitre",
+          "items": [
+            "Le bilan décrit à une date donnée l'actif, c'est-à-dire ce que l'entreprise possède, et le passif, c'est-à-dire où elle a trouvé les ressources pour le financer.",
+            "L'actif se divise en actif immobilisé (usage durable) et actif circulant (stocks, créances, disponibilités).",
+            "Le passif comprend les capitaux propres, les provisions et les dettes, classées selon leur échéance.",
+            "Le principe de dualité impose que chaque opération modifie au moins deux comptes pour un montant égal : l'égalité actif = passif est toujours respectée."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La demarche pas a pas",
+          "items": [
+            "Identifier la nature de l'opération",
+            "Choisir les comptes du PCG",
+            "Respecter la dualité",
+            "Rattacher à la bonne période",
+            "Synthétiser dans les états financiers"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges et erreurs frequentes",
+          "items": [
+            "Confondre charge et immobilisation",
+            "Oublier la TVA dans un prix HT",
+            "Ignorer la date de rattachement",
+            "Croire que bénéfice et trésorerie sont identiques"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En situation : exemples chiffres",
+          "items": [
+            "12 000 € : <span class=\"cle\">Coût du serveur</span>"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Comptabilité générale",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Comptabilité générale\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Comptabilité générale</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Definition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repere</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Actif</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Biens et droits</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Passif</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Financements</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Dualité</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Deux comptes par</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Compte de résultat</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Produits et charges</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Amortissement</text></svg>"
+        },
+        {
+          "titre": "2 · Demarche",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Procedure : Comptabilité générale\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Procedure : Comptabilité générale</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Identifier la nature de l'opération</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choisir les comptes du PCG</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Respecter la dualité</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rattacher à la bonne période</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Synthétiser dans les états financiers</text></svg>"
+        },
+        {
+          "titre": "3 · A distinguer",
+          "svg": "<svg viewBox=\"0 0 660 124\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Comptabilité générale\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Comptabilité générale</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('Bilan', ['Patrimoine à une</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Compte de résultat</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">['Activité sur une période']</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('Amortissement', ['Perte de</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Provision</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">['Risque probable']</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ciel"
+      ],
+      "annees": [
+        "BTS1"
+      ],
+      "matiere": "Comptabilité et gestion",
+      "titre": "CG2 · Coûts et contrôle de gestion appliqués à l'informatique",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
+      "points": [
+        "Le contrôle de gestion aide les responsables à piloter l'activité en comparant les objectifs et les réalisations.",
+        "Un centre de coûts est une unité à laquelle on affecte des charges : un service, un projet, une application ou un site.",
+        "Le coût complet d'un service informatique additionne les coûts directs et une part des coûts indirects répartie selon une clé de répartition.",
+        "Les clés de répartition courantes sont le nombre d'utilisateurs, le temps de traitement, la surface, le nombre de postes ou le volume de données.",
+        "Le coût variable évolue avec l'activité ; le coût fixe reste constant dans une plage d'activité donnée.",
+        "Le coût marginal correspond au coût d'une unité supplémentaire de service, par exemple une machine virtuelle de plus.",
+        "La marge sur coûts variables aide à décider d'une tarification interne ou d'une externalisation.",
+        "Le budget prévisionnel est exprimé en coûts et en volumes : il sert de référence pour mesurer les écarts.",
+        "L'analyse des écarts distingue un écart de volume (activité différente du prévu) et un écart de prix ou de coût unitaire.",
+        "Un écart défavorable peut venir d'un surcoût de licences, d'une panne prolongée ou d'une sous-estimation du temps de développement.",
+        "Les indicateurs de pilotage incluent le coût par ticket, le coût par poste et par an, le taux d'utilisation des ressources et le respect du budget.",
+        "Le contrôle de gestion ne vise pas seulement à réduire les coûts : il évalue aussi la valeur produite par le système d'information."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Qu'appelle-t-on un centre de coûts ?",
+          "options": [
+            "Un service auquel on affecte des charges",
+            "Un logiciel de facturation",
+            "Un serveur de base de données",
+            "Un client important"
+          ],
+          "correct": 0,
+          "correction": "Le centre de coûts est une unité de suivi des charges."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est une clé de répartition ?",
+          "options": [
+            "Le nombre d'utilisateurs",
+            "La couleur des bureaux",
+            "Le hasard",
+            "Le nom du fournisseur"
+          ],
+          "correct": 0,
+          "correction": "Une clé doit être pertinente et mesurable : utilisateurs, temps, volume ou surface."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne un coût marginal ?",
+          "options": [
+            "Le coût moyen",
+            "Le coût d'une unité supplémentaire",
+            "Le coût total",
+            "Le coût fixe"
+          ],
+          "correct": 1,
+          "correction": "C'est l'augmentation de coût due à une unité de plus."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel écart est lié à une activité différente du prévu ?",
+          "options": [
+            "Un écart de prix",
+            "Un écart de volume",
+            "Un écart de change",
+            "Un écart de qualité"
+          ],
+          "correct": 1,
+          "correction": "L'écart de volume traduit une différence de quantité d'activité."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel indicateur mesure le coût de la maintenance ?",
+          "options": [
+            "Le coût par ticket",
+            "Le nombre de câbles",
+            "La taille du bureau",
+            "Le nombre de réunions"
+          ],
+          "correct": 0,
+          "correction": "Le coût par ticket est un indicateur courant du support."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment calculer un coût complet ?",
+          "options": [
+            "Coûts directs seulement",
+            "Coûts directs plus part des coûts indirects",
+            "Charges futures",
+            "Seuls les salaires"
+          ],
+          "correct": 1,
+          "correction": "Le coût complet inclut les charges directes et une quote-part des charges indirectes."
+        },
+        {
+          "type": "qcm",
+          "q": "Que permet la marge sur coûts variables ?",
+          "options": [
+            "De supprimer les coûts fixes",
+            "D'aider à une décision de prix ou d'externalisation",
+            "De calculer un amortissement",
+            "De rédiger un contrat"
+          ],
+          "correct": 1,
+          "correction": "Elle indique la contribution de chaque unité à la couverture des frais fixes."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel objectif dépasse la seule réduction des coûts ?",
+          "options": [
+            "Évaluer la valeur produite par le SI",
+            "Supprimer tout investissement",
+            "Réduire les effectifs à zéro",
+            "Ignorer la qualité"
+          ],
+          "correct": 0,
+          "correction": "Le contrôle de gestion relie coût et valeur pour éclairer la décision."
+        },
+        {
+          "type": "texte",
+          "q": "Un service informatique a 120 000 € de coûts indirects à répartir entre trois départements de 40, 60 et 80 utilisateurs. Calculer les quote-parts selon la clé nombre d'utilisateurs.",
+          "reponse": "Le nombre total d'utilisateurs est 40 + 60 + 80 = 180. Le coût par utilisateur est 120 000 / 180 = 666,67 €. Le département A supporte 40 × 666,67 = 26 666,67 €, le département B 60 × 666,67 = 40 000 € et le département C 80 × 666,67 = 53 333,33 €. La somme des trois quote-parts vaut bien 120 000 €. On vérifie que la clé choisie est pertinente : si les coûts sont liés aux licences par utilisateur, cette clé est adaptée ; s'ils viennent surtout de l'énergie des serveurs, une clé fondée sur la consommation de ressources serait plus juste.",
+          "correction": "On calcule la clé unitaire, les trois quote-parts, on vérifie la somme et on discute de la pertinence de la clé."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer comment analyser un écart de budget sur une année et proposer des actions correctives.",
+          "reponse": "On compare d'abord le budget prévu et le réalisé poste par poste : licences, matériel, prestations, salaires, énergie. On mesure l'écart en valeur et en pourcentage, puis on le décompose : écart de volume, par exemple plus de postes que prévu, et écart de prix, par exemple une hausse du tarif d'hébergement. On identifie ensuite les causes : croissance non budgétée, panne coûteuse, retard de projet, erreur d'estimation ou changement de fournisseur. Les actions correctrices peuvent être une renégociation contractuelle, une optimisation des ressources cloud, un étalement des achats, une révision du périmètre ou une provision complémentaire. On documente l'analyse, on informe la direction et on révise le budget des prochaines années avec des hypothèses plus réalistes.",
+          "correction": "On décompose l'écart en volume et prix, on cherche les causes, puis on propose et documente des actions."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "Le contrôle de gestion relie coûts et activité : centres de coûts, clés de répartition et analyse des écarts guident la décision."
+        },
+        {
+          "type": "formule",
+          "titre": "La notion a maitriser",
+          "eq": "Coût complet = directs + quote-part des indirects",
+          "leg": "Centre de coûts · clé de répartition · coût marginal · écart volume/prix"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Centre de coûts",
+              "Unité de suivi",
+              "Coût direct"
+            ],
+            [
+              "Affecté au service",
+              "Coût indirect",
+              "Réparti"
+            ],
+            [
+              "Clé",
+              "Utilisateurs ou volume",
+              "Écart de volume"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Les points essentiels du chapitre",
+          "items": [
+            "Un centre de coûts est une unité à laquelle on affecte des charges : un service, un projet, une application ou un site.",
+            "Le coût complet d'un service informatique additionne les coûts directs et une part des coûts indirects répartie selon une clé de répartition.",
+            "Les clés de répartition courantes sont le nombre d'utilisateurs, le temps de traitement, la surface, le nombre de postes ou le volume de données.",
+            "Le coût variable évolue avec l'activité ; le coût fixe reste constant dans une plage d'activité donnée."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La demarche pas a pas",
+          "items": [
+            "Définir les centres de coûts",
+            "Choisir une clé de répartition",
+            "Calculer les coûts complets",
+            "Comparer prévu et réalisé",
+            "Expliquer et corriger les écarts"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges et erreurs frequentes",
+          "items": [
+            "Répartir au hasard",
+            "Confondre écart de prix et de volume",
+            "Ne regarder que le total",
+            "Oublier de documenter l'analyse"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En situation : exemples chiffres",
+          "items": [
+            "120 000 € : <span class=\"cle\">Charges indirectes</span>"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Coûts et contrôle de gestion appliqués à l'informatique",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Coûts et contrôle de gestion appliqués à l'informatique\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Coûts et contrôle de gestion appliqués à l'informatique</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Definition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repere</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Centre de coûts</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Unité de suivi</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Coût direct</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Affecté au service</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Coût indirect</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Réparti</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Clé</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Utilisateurs ou volume</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Écart de volume</text></svg>"
+        },
+        {
+          "titre": "2 · Demarche",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Procedure : Coûts et contrôle de gestion appliqués à l'informatique\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Procedure : Coûts et contrôle de gestion appliqués à l'informatique</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir les centres de coûts</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choisir une clé de répartition</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Calculer les coûts complets</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Comparer prévu et réalisé</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Expliquer et corriger les écarts</text></svg>"
+        },
+        {
+          "titre": "3 · A distinguer",
+          "svg": "<svg viewBox=\"0 0 660 124\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Coûts et contrôle de gestion appliqués à l'informatique\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Coûts et contrôle de gestion appliqués à l'informatique</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('Coût fixe', ['Constant dans</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Coût variable</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">[&quot;Dépend de l'activité&quot;]</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('Coût complet', ['Toutes</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Coût marginal</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">['Une unité de plus']</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ciel"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Comptabilité et gestion",
+      "titre": "CG3 · Budget prévisionnel et suivi budgétaire d'un projet SI",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
+      "points": [
+        "Le budget prévisionnel traduit en chiffres les ressources nécessaires à une activité ou à un projet sur une période donnée.",
+        "Il distingue les dépenses d'investissement, comme l'achat de serveurs, et les dépenses de fonctionnement, comme les licences annuelles ou la maintenance.",
+        "Un budget se construit à partir d'hypothèses explicites : volumes, prix unitaires,effectifs, durée, taux d'inflation et calendrier.",
+        "Le principe de précaution recommande de prévoir une réserve pour imprévus, souvent exprimée en pourcentage du budget total.",
+        "Le budget est un outil de prévision mais aussi de contrôle : il sert de référence pour mesurer les écarts en cours de projet.",
+        "Le suivi budgétaire compare les dépenses engagées, les dépenses réalisées et le budget consommé à chaque jalon.",
+        "Le taux de consommation budgétaire rapporte le montant dépensé au budget prévu à la même date.",
+        "Un dépassement peut venir d'un retard, d'une augmentation des prix, d'un périmètre élargi ou d'une sous-estimation initiale.",
+        "La règle des 50/50 aide à détecter un dérapage : à 50 % du temps, le projet ne devrait pas avoir consommé plus de 50 % du budget sans résultat correspondant.",
+        "Toute révision budgétaire doit être justifiée, validée et tracée : on tient un historique des versions du budget.",
+        "Le budget intègre aussi les recettes ou les économies attendues, ce qui permet de calculer une marge prévisionnelle.",
+        "Pour le technicien CIEL, savoir lire et alimenter un budget est utile dans la gestion d'un parc, d'un projet de migration ou d'un contrat de maintenance."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle dépense est un investissement ?",
+          "options": [
+            "L'achat d'un serveur durable",
+            "Le loyer du bureau",
+            "La facture d'électricité",
+            "Un abonnement mensuel"
+          ],
+          "correct": 0,
+          "correction": "Un équipement durable est immobilisé ; les autres exemples sont des charges de fonctionnement."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle hypothèse ne pas expliciter dans un budget ?",
+          "options": [
+            "Le nombre de postes",
+            "Le prix unitaire",
+            "Le taux d'inflation",
+            "La couleur du logo"
+          ],
+          "correct": 3,
+          "correction": "Les hypothèses chiffrées doivent être documentées et vérifiables."
+        },
+        {
+          "type": "qcm",
+          "q": "À quoi sert une réserve pour imprévus ?",
+          "options": [
+            "À masquer les erreurs",
+            "À absorber les aléas et risques identifiés",
+            "À supprimer le contrôle",
+            "À augmenter le résultat"
+          ],
+          "correct": 1,
+          "correction": "La provision pour imprévus sécurise le budget face à l'incertitude."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment calculer le taux de consommation ?",
+          "options": [
+            "Budget prévu divisé par dépenses",
+            "Dépenses divisées par budget prévu",
+            "Dépenses plus budget",
+            "Budget moins dépenses"
+          ],
+          "correct": 1,
+          "correction": "C'est le rapport entre montant dépensé et montant budgété à la même date."
+        },
+        {
+          "type": "qcm",
+          "q": "Que révèle une révision budgétaire non tracée ?",
+          "options": [
+            "Une bonne pratique",
+            "Un manque de rigueur et de contrôle",
+            "Une économie",
+            "Une certification"
+          ],
+          "correct": 1,
+          "correction": "L'historique des versions est indispensable à la traçabilité."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est un signe de dérapage ?",
+          "options": [
+            "Le budget consommé reste en dessous du jalon",
+            "Le budget consommé dépasse nettement l'avancement",
+            "Aucun écart",
+            "Les jalons sont respectés"
+          ],
+          "correct": 1,
+          "correction": "Une consommation supérieure à l'avancement signale un risque."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel indicateur complète le suivi des dépenses ?",
+          "options": [
+            "Le nombre de réunions",
+            "L'avancement des livrables et les jalons",
+            "Le nombre de câbles",
+            "La taille de l'équipe"
+          ],
+          "correct": 1,
+          "correction": "Il faut rapprocher coût et avancement réel pour juger la situation."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi prévoir des recettes ou économies dans le budget ?",
+          "options": [
+            "Pour calculer une marge prévisionnelle",
+            "Pour éviter de dépenser",
+            "Pour supprimer les impôts",
+            "Pour remplacer le bilan"
+          ],
+          "correct": 0,
+          "correction": "La différence entre recettes et coûts donne la marge attendue du projet."
+        },
+        {
+          "type": "texte",
+          "q": "Un projet a un budget de 100 000 € sur 10 mois. À mi-parcours, 65 000 € sont dépensés et 40 % des livrables sont terminés. Analyser la situation.",
+          "reponse": "À 5 mois, l'avancement attendu est d'environ 50 %, mais seulement 40 % des livrables sont terminés : le projet a du retard. Le budget consommé atteint 65 % alors que l'avancement réel est de 40 % : le taux de consommation est très supérieur à la progression, ce qui indique un dérapage financier. Selon la règle des 50/50, à 50 % du temps, la consommation ne devrait pas dépasser 50 % sans résultat correspondant. On recherche les causes : prestataire payé d'avance, achat de licences annuelles au démarrage, sous-estimation des heures de développement ou retard pris sur un livrable critique. Le coût à l'achèvement projeté, si la tendance se maintient, dépasse 100 000 €. Des actions sont nécessaires : rééchelonner les paiements, renégocier une prestation, réduire un périmètre non prioritaire et réviser le budget avec l'accord du commanditaire.",
+          "correction": "On compare temps, avancement et consommation, on mobilise la règle des 50/50, on cherche les causes et on propose des actions."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer la démarche de construction d'un budget prévisionnel pour la maintenance d'un parc de 200 postes.",
+          "reponse": "On définit d'abord le périmètre : nombre de postes, sites, durée de douze mois et niveau de service attendu. On recense les postes de dépense : licences et abonnements, maintenance matérielle, pièces de rechange, prestations externes, formation, outils de supervision et éventuel renouvellement. Pour chaque poste, on précise l'hypothèse : 200 licences à un tarif unitaire, un coût moyen d'intervention multiplié par un nombre estimé de tickets, une provision pour pannes. On ajoute une réserve pour imprévus de 5 à 10 % et on ventile les montants par mois pour obtenir un calendrier de décaissements. On documente les hypothèses, on fait valider le budget, puis on met en place un tableau de suivi mensuel avec budget, réalisé et écart. Enfin, on prévoit une revue trimestrielle pour ajuster les hypothèses.",
+          "correction": "On attend périmètre, postes de dépense, hypothèses chiffrées, réserve, ventilation mensuelle, validation et suivi."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "Le budget est une prévision chiffrée et un outil de contrôle : on suit à la fois les dépenses et l'avancement réel."
+        },
+        {
+          "type": "formule",
+          "titre": "La notion a maitriser",
+          "eq": "Taux de consommation = dépenses / budget prévu",
+          "leg": "Investissement vs fonctionnement · réserve pour imprévus · règle des 50/50"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Budget",
+              "Prévision chiffrée",
+              "Investissement"
+            ],
+            [
+              "Dépense durable",
+              "Fonctionnement",
+              "Dépense courante"
+            ],
+            [
+              "Réserve",
+              "Provision pour aléas",
+              "Suivi"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Les points essentiels du chapitre",
+          "items": [
+            "Il distingue les dépenses d'investissement, comme l'achat de serveurs, et les dépenses de fonctionnement, comme les licences annuelles ou la maintenance.",
+            "Un budget se construit à partir d'hypothèses explicites : volumes, prix unitaires,effectifs, durée, taux d'inflation et calendrier.",
+            "Le principe de précaution recommande de prévoir une réserve pour imprévus, souvent exprimée en pourcentage du budget total.",
+            "Le budget est un outil de prévision mais aussi de contrôle : il sert de référence pour mesurer les écarts en cours de projet."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La demarche pas a pas",
+          "items": [
+            "Définir le périmètre",
+            "Chiffrer chaque poste",
+            "Prévoir une réserve",
+            "Suivre consommation et avancement",
+            "Réviser en justifiant"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges et erreurs frequentes",
+          "items": [
+            "Oublier les hypothèses",
+            "Supprimer la réserve",
+            "Comparer sans tenir compte du calendrier",
+            "Modifier le budget sans trace"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En situation : exemples chiffres",
+          "items": [
+            "100 000 € : <span class=\"cle\">Budget sur 10 mois</span>"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Budget prévisionnel et suivi budgétaire d'un projet SI",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Budget prévisionnel et suivi budgétaire d'un projet SI\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Budget prévisionnel et suivi budgétaire d'un projet SI</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Definition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repere</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Budget</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Prévision chiffrée</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Investissement</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Dépense durable</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Fonctionnement</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Dépense courante</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Réserve</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Provision pour aléas</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Suivi</text></svg>"
+        },
+        {
+          "titre": "2 · Demarche",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Procedure : Budget prévisionnel et suivi budgétaire d'un projet SI\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Procedure : Budget prévisionnel et suivi budgétaire d'un projet SI</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir le périmètre</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Chiffrer chaque poste</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Prévoir une réserve</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Suivre consommation et avancement</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Réviser en justifiant</text></svg>"
+        },
+        {
+          "titre": "3 · A distinguer",
+          "svg": "<svg viewBox=\"0 0 660 124\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Budget prévisionnel et suivi budgétaire d'un projet SI\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Budget prévisionnel et suivi budgétaire d'un projet SI</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('Budget prévu',</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Réalisé</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">['Montant dépensé']</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('Écart défavorable',</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Écart favorable</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">['Dépense inférieure']</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "bts-ciel"
+      ],
+      "annees": [
+        "BTS2"
+      ],
+      "matiere": "Comptabilité et gestion",
+      "titre": "CG4 · Analyse financière et indicateurs de performance",
+      "source": "Référentiel BTS CIEL : arrêté du 25 janvier 2023 portant définition et fixation des conditions de délivrance du BTS « Cybersécurité, Informatique et réseaux, Électronique » (NOR ESRS2300958A, JORF n° 48 du 25 février 2023, 1re session 2025), succédant à l'arrêté du 15 novembre 2013 relatif au BTS Systèmes numériques. Cahier des charges : arrêté du 19 juillet 2019 et arrêté du 4 juin 2013 (mathématiques BTS) cités comme références de travail. Bulletin officiel spécial, éduscol (ressources BTS, option A Informatique et réseaux / IR, option B Électronique et réseaux / ELC-ER), France compétences RNCP37391, ANSSI, CNIL. SOURCES.md : 53 416 vœux Parcoursup 2026.",
+      "points": [
+        "L'analyse financière interprète les états comptables pour évaluer la santé et la performance d'une organisation.",
+        "Le fonds de roulement net global se calcule par ressources durables moins emplois durables : il mesure la marge de sécurité financière à long terme.",
+        "Le besoin en fonds de roulement correspond aux ressources immobilisées par le cycle d'exploitation : stocks et créances moins dettes d'exploitation.",
+        "La trésorerie nette égale fonds de roulement net global moins besoin en fonds de roulement : elle traduit la capacité à payer à court terme.",
+        "Une trésorerie négative signale un risque de cessation de paiements, même si l'entreprise est bénéficiaire.",
+        "Le résultat d'exploitation mesure la performance de l'activité courante, hors éléments financiers et exceptionnels.",
+        "La marge commerciale et la marge sur coûts variables indiquent la capacité de chaque vente à contribuer aux frais fixes et au résultat.",
+        "Le taux de marge se calcule en rapportant la marge au chiffre d'affaires : il s'exprime en pourcentage.",
+        "Le seuil de rentabilité correspond au chiffre d'affaires pour lequel le résultat est nul.",
+        "Les ratios d'endettement et de couverture des intérêts apprécient la capacité de l'entreprise à honorer ses dettes.",
+        "L'analyse doit être comparative : dans le temps, par rapport au budget et par rapport aux entreprises du même secteur.",
+        "Les limites du bilan doivent être signalées : les valeurs comptables peuvent différer de la valeur de marché, et les actifs immatériels sont parfois sous-estimés."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Comment calculer le fonds de roulement net global ?",
+          "options": [
+            "Ressources durables moins emplois durables",
+            "Créances moins dettes",
+            "Produits moins charges",
+            "Actif moins passif"
+          ],
+          "correct": 0,
+          "correction": "Le FRNG est la différence entre ressources durables et emplois durables."
+        },
+        {
+          "type": "qcm",
+          "q": "Que mesure le besoin en fonds de roulement ?",
+          "options": [
+            "Les ressources immobilisées par l'exploitation",
+            "Les seules immobilisations",
+            "Le résultat",
+            "Les capitaux propres"
+          ],
+          "correct": 0,
+          "correction": "Le BFR traduit l'écart entre décaissements et encaissements d'exploitation."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle formule donne la trésorerie nette ?",
+          "options": [
+            "FRNG plus BFR",
+            "FRNG moins BFR",
+            "BFR moins FRNG",
+            "Résultat divisé par CA"
+          ],
+          "correct": 1,
+          "correction": "La trésorerie nette est la différence entre le fonds de roulement et le besoin en fonds de roulement."
+        },
+        {
+          "type": "qcm",
+          "q": "Une entreprise bénéficiaire peut-elle être en cessation de paiements ?",
+          "options": [
+            "Non, jamais",
+            "Oui, si sa trésorerie est insuffisante",
+            "Oui, mais seulement en cas de perte",
+            "Non, si elle a des clients"
+          ],
+          "correct": 1,
+          "correction": "Le résultat et la trésorerie sont deux dimensions distinctes."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment calculer un taux de marge ?",
+          "options": [
+            "Marge multipliée par chiffre d'affaires",
+            "Marge divisée par chiffre d'affaires",
+            "Chiffre d'affaires divisé par marge",
+            "Marge plus chiffre d'affaires"
+          ],
+          "correct": 1,
+          "correction": "Le taux de marge rapporte la marge au chiffre d'affaires."
+        },
+        {
+          "type": "qcm",
+          "q": "Que représente le seuil de rentabilité ?",
+          "options": [
+            "Le chiffre d'affaires où le résultat est nul",
+            "Le montant des dettes",
+            "La trésorerie minimale",
+            "Le budget de maintenance"
+          ],
+          "correct": 0,
+          "correction": "Au seuil, les recettes couvrent exactement tous les coûts."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel ratio apprécie la capacité à payer les intérêts ?",
+          "options": [
+            "La couverture des intérêts",
+            "Le taux de marge",
+            "Le BFR",
+            "Le chiffre d'affaires"
+          ],
+          "correct": 0,
+          "correction": "La couverture des intérêts rapporte le résultat d'exploitation aux charges financières."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi comparer les ratios dans le temps ?",
+          "options": [
+            "Pour détecter une tendance et une dégradation",
+            "Pour remplacer le bilan",
+            "Pour supprimer les charges",
+            "Pour augmenter le résultat"
+          ],
+          "correct": 0,
+          "correction": "L'analyse dynamique révèle les évolutions qu'un chiffre isolé ne montre pas."
+        },
+        {
+          "type": "texte",
+          "q": "Une entreprise a des ressources durables de 500 000 €, des emplois durables de 380 000 € et un BFR de 160 000 €. Calculer le FRNG et la trésorerie nette, puis interpréter.",
+          "reponse": "Le fonds de roulement net global vaut 500 000 − 380 000 = 120 000 € : les ressources durables financent les emplois durables avec une marge positive de 120 000 €. La trésorerie nette vaut FRNG − BFR = 120 000 − 160 000 = −40 000 €. Elle est négative : le besoin de financement lié au cycle d'exploitation dépasse la marge de sécurité. L'entreprise devra recourir à des concours bancaires à court terme ou réduire son BFR, par exemple en raccourcissant les délais de paiement clients, en diminuant les stocks ou en négociant ses délais fournisseurs. Une trésorerie négative persistante peut conduire à un risque de cessation de paiements malgré un résultat comptable positif.",
+          "correction": "On calcule 120 000 € puis −40 000 €, et on propose des pistes de réduction du BFR ou de financement."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer pourquoi l'analyse financière doit être comparative et assortie de limites.",
+          "reponse": "Un ratio isolé n'a guère de sens : une marge de 10 % peut être excellente dans un secteur et insuffisante dans un autre. Il faut comparer les indicateurs dans le temps pour repérer une tendance, par rapport au budget pour mesurer l'écart et par rapport à des entreprises comparables pour se situer. Il faut aussi énoncer les limites : le bilan donne des valeurs historiques et comptables, qui peuvent différer de la valeur actuelle ; les immobilisations sont amorties selon des modalités choisies ; les actifs immatériels comme la marque ou le savoir-faire sont souvent sous-estimés ; enfin, les ratios ne disent rien de la qualité de la relation client ou de la sécurité du système d'information. L'analyse financière est donc un éclairage, pas une vérité complète.",
+          "correction": "On justifie les comparaisons temporelles, budgétaires et sectorielles, puis on cite les limites comptables et qualitatives."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "L'analyse financière relie FRNG, BFR et trésorerie pour juger la santé de l'entreprise et éclairer ses arbitrages d'investissement."
+        },
+        {
+          "type": "formule",
+          "titre": "La notion a maitriser",
+          "eq": "FRNG = ressources durables − emplois durables",
+          "leg": "Trésorerie = FRNG − BFR · seuil = CA où résultat = 0"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "FRNG",
+              "Marge de sécurité",
+              "BFR"
+            ],
+            [
+              "Besoin d'exploitation",
+              "Trésorerie",
+              "Capacité de paiement"
+            ],
+            [
+              "Résultat",
+              "Performance",
+              "Seuil"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "Les points essentiels du chapitre",
+          "items": [
+            "Le fonds de roulement net global se calcule par ressources durables moins emplois durables : il mesure la marge de sécurité financière à long terme.",
+            "Le besoin en fonds de roulement correspond aux ressources immobilisées par le cycle d'exploitation : stocks et créances moins dettes d'exploitation.",
+            "La trésorerie nette égale fonds de roulement net global moins besoin en fonds de roulement : elle traduit la capacité à payer à court terme.",
+            "Une trésorerie négative signale un risque de cessation de paiements, même si l'entreprise est bénéficiaire."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "La demarche pas a pas",
+          "items": [
+            "Calculer les agrégats",
+            "Interpréter les soldes",
+            "Comparer dans le temps et au budget",
+            "Repérer les limites",
+            "Éclairer la décision"
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges et erreurs frequentes",
+          "items": [
+            "Confondre résultat et trésorerie",
+            "Ignorer un BFR croissant",
+            "Lire un ratio sans comparaison",
+            "Oublier les limites du bilan"
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "En situation : exemples chiffres",
+          "items": [
+            "500 000 € : <span class=\"cle\">Ressources durables</span>"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Analyse financière et indicateurs de performance",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"Analyse financière et indicateurs de performance\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Analyse financière et indicateurs de performance</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Definition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repere</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">FRNG</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Marge de sécurité</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">BFR</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Besoin d'exploitation</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Trésorerie</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Capacité de paiement</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Résultat</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Performance</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Seuil</text></svg>"
+        },
+        {
+          "titre": "2 · Demarche",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : Procedure : Analyse financière et indicateurs de performance\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Procedure : Analyse financière et indicateurs de performance</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Calculer les agrégats</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Interpréter les soldes</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Comparer dans le temps et au budget</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Repérer les limites</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Éclairer la décision</text></svg>"
+        },
+        {
+          "titre": "3 · A distinguer",
+          "svg": "<svg viewBox=\"0 0 660 124\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : Analyse financière et indicateurs de performance\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Analyse financière et indicateurs de performance</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('FRNG positif', ['Marge de</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Trésorerie négative</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">['Risque de paiement']</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">('Analyse statique', ['Photo à</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Analyse dynamique</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">['Suivi dans le temps']</text></svg>"
         }
       ]
     }
