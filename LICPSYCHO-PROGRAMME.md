@@ -22,44 +22,46 @@ La mention est pluridisciplinaire : elle comprend des enseignements de **droit, 
 
 | Matière FicheLab | Chapitres (préfixes) |
 |---|---|
-| `Psychologie` | **PSY1.** Introduction à la psychologie : objet et méthodes · **PSY2.** Histoire et méthodes de la psychologie · **PSY4.** Psychologie du développement |
-| `Statistiques` | **ST1.** Statistiques descriptives · **ST2.** Probabilités · **ST8.** Échantillonnage |
-| `Droit` | **DR1.** Droit de la personne · **DR6.** Responsabilité et droit civil |
-| `Économie` | **EC1.** Économie générale : offre et demande · **EC4.** Comptes nationaux et PIB |
-| `Méthodologie universitaire` | **MU1.** Recherche documentaire en psychologie |
-| `Français` | **PF1.** Expression écrite et syntaxe · **PF2.** Analyse de texte et argumentation |
-| `Anglais` | **AN1.** Vocabulaire psychologique anglais |
-| `Informatique` | **IN1.** Initiation à l'informatique et aux systèmes · **IN2.** Tableurs et traitement de données |
-| `Maths / stats` | **MS1.** Arithmétique et calcul littéral · **MS2.** Fonctions et représentations graphiques · **MS3.** Équations et inéquations |
+| `Psychologie` | **PSY1.** Introduction à la psychologie : objet et méthodes · **PSY2.** Histoire et méthodes de la psychologie · **PSY4.** Psychologie du développement : Piaget et après |
+| `Statistiques` | **ST1.** Statistiques descriptives : décrire un échantillon · **ST2.** Probabilités : calculer et interpréter · **ST8.** Échantillonnage : représenter une population |
+| `Droit` | **DR1.** Droit de la personne : identité et capacité · **DR6.** Responsabilité civile et protection des victimes |
+| `Économie` | **EC1.** Économie générale : offre, demande et marchés · **EC4.** Comptes nationaux et PIB : mesurer l'activité · **EC7.** Finances publiques, budget et protection sociale |
+| `Méthodologie universitaire` | **MU1.** Recherche documentaire en psychologie · **MU6.** Analyse de données et restitution écrite |
+| `Français` | **PF1.** Expression écrite et syntaxe de la phrase · **PF2.** Analyse de texte et argumentation en psychologie · **PF5.** Communication écrite professionnelle |
+| `Anglais` | **AN2.** Reading a psychology text in English |
+| `Maths / stats` | **MS4.** Probabilités et statistiques appliquées |
+
 
 ### 2.2 Année de L2 — les matières de spécialisation
 
 | Matière FicheLab | Chapitres (préfixes) |
 |---|---|
-| `Psychologie` | **PSY3.** Psychologie cognitive · **PSY5.** Psychologie sociale · **PSY6.** Psychologie de la personnalité · **PSY10.** Neurosciences et psychologie |
-| `Statistiques` | **ST3.** Tests statistiques · **ST4.** Corrélation · **ST5.** Régression · **ST9.** Mesures et échelles en psychologie |
-| `Droit` | **DR2.** Droit social et contrat de travail · **DR5.** Droit de la santé et protection des données · **DR7.** Droit pénal et victimes |
-| `Économie` | **EC2.** Marché du travail et emploi · **EC5.** Inflation et politiques économiques |
-| `Méthodologie universitaire` | **MU2.** Rapport de stage · **MU5.** Construction d'un questionnaire et d'une enquête |
-| `Français` | **PF2.** Analyse de texte et argumentation en psychologie · **PF3.** Résumé et note de synthèse · **PF4.** Rhétorique et style scientifique |
-| `Anglais` | **AN2.** Lecture d'articles scientifiques en anglais · **AN3.** Expression écrite en anglais académique |
-| `Informatique` | **IN3.** Bases de données et recherche documentaire · **IN4.** Outils numériques pour le psychologue |
-| `Maths / stats` | **MS4.** Probabilités et statistiques appliquées · **MS5.** Raisonnement logique et démonstration |
+| `Psychologie` | **PSY3.** Psychologie cognitive : attention et mémoire · **PSY5.** Psychologie sociale : influence et conformité · **PSY6.** Psychologie de la personnalité et des différences individuelles · **PSY10.** Neurosciences et psychobiologie du comportement |
+| `Statistiques` | **ST3.** Tests statistiques : hypothèses et décision · **ST4.** Corrélation : mesurer une association · **ST5.** Régression linéaire : prédire et modéliser · **ST9.** Mesures et échelles en psychologie |
+| `Droit` | **DR2.** Droit social : contrat de travail et protection du salarié · **DR5.** Droit de la santé et protection des données · **DR7.** Droit pénal : infractions, peines et victimes |
+| `Économie` | **EC2.** Marché du travail, emploi et chômage · **EC5.** Inflation et politiques économiques |
+| `Méthodologie universitaire` | **MU2.** Rédiger un rapport de stage · **MU5.** Construire un questionnaire et mener une enquête |
+| `Français` | **PF3.** Résumé et note de synthèse · **PF4.** Rhétorique et style scientifique |
+| `Anglais` | **AN1.** Vocabulary of psychology: core concepts · **AN4.** Oral presentation and discussion in English |
+| `Informatique` | **IN1.** Initiation à l'informatique et aux systèmes d'information · **IN2.** Tableurs et traitement de données |
+| `Maths / stats` | **MS1.** Arithmétique et calcul littéral · **MS2.** Fonctions et représentations graphiques |
+
 
 ### 2.3 Année de L3 — l'approfondissement et la sortie
 
 | Matière FicheLab | Chapitres (préfixes) |
 |---|---|
-| `Psychologie` | **PSY7.** Psychologie clinique · **PSY8.** Psychopathologie · **PSY9.** Psychologie du travail |
-| `Statistiques` | **ST6.** Analyse de la variance (ANOVA) · **ST7.** Analyse factorielle · **ST10.** Logiciels et lecture de résultats |
-| `Droit` | **DR3.** Déontologie et secret professionnel · **DR4.** Éthique de la recherche en psychologie |
-| `Économie` | **EC3.** Santé et économie · **EC6.** Économie du bien-être et de la qualité de vie · **EC7.** Finances publiques et protection sociale |
-| `Méthodologie universitaire` | **MU3.** Mémoire de licence · **MU4.** Soutenance et oral · **MU6.** Analyse de données et restitution écrite |
-| `Français` | **PF5.** Communication écrite professionnelle |
-| `Anglais` | **AN4.** Communication orale en anglais · **AN5.** Littérature scientifique et référencement |
-| `Informatique` | **IN5.** Analyse de données avec R / Python |
+| `Psychologie` | **PSY7.** Psychologie clinique : courants et entretien · **PSY8.** Psychopathologie de l'adulte et de l'enfant · **PSY9.** Psychologie du travail et des organisations |
+| `Statistiques` | **ST6.** Analyse de la variance (ANOVA) · **ST7.** Analyse factorielle : explorer des structures latentes · **ST10.** Logiciels et lecture critique de résultats |
+| `Droit` | **DR3.** Déontologie et secret professionnel du psychologue · **DR4.** Éthique de la recherche en psychologie |
+| `Économie` | **EC3.** Santé et économie : dépenses, accès et protection · **EC6.** Économie du bien-être et de la qualité de vie |
+| `Méthodologie universitaire` | **MU3.** Le mémoire de licence de psychologie · **MU4.** Soutenance et oral de psychologie |
+| `Anglais` | **AN3.** Writing an academic text in English · **AN5.** Scientific literature and referencing |
+| `Informatique` | **IN3.** Bases de données et recherche documentaire · **IN4.** Outils numériques pour le psychologue · **IN5.** Analyse de données avec R et Python |
+| `Maths / stats` | **MS3.** Équations, inéquations et systèmes · **MS5.** Raisonnement logique et démonstration |
 
-> **Répartition :** 60 fiches réparties sur 9 matières (Psychologie, Statistiques, Droit, Économie, Méthodologie universitaire, Français, Anglais, Informatique, Maths / stats). Trois lots de 20 fiches : le lot A porte la psychologie et les statistiques, le lot B le droit, l'économie et la méthodologie, le lot C les matières transversales.
+
+> **Répartition :** 18 fiches en L1 · 23 en L2 · 19 en L3 — soit **60 fiches** réparties sur 9 matières (Psychologie, Statistiques, Droit, Économie, Méthodologie universitaire, Français, Anglais, Informatique, Maths / stats). Trois lots de 20 fiches : le lot A porte la psychologie et les statistiques, le lot B le droit, l'économie et la méthodologie, le lot C les matières transversales.
 
 ---
 

@@ -6,12 +6,12 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 
 | Controle | Valeur | Attendu |
 |---|---|---|
-| Catalogue EXTRA_FICHES | 1249 | lisible |
-| Fiches prototype | 874 | = 96 BIOALC + nouvelles |
+| Catalogue EXTRA_FICHES | 1289 | lisible |
+| Fiches prototype | 934 | = 96 BIOALC + nouvelles |
 | Annales bibliotheque | 60 | lisible |
-| Filieres converties | 13 | bts-bio, bts-mco, bts-ndrc, but-gea, but-tc, cpge-mpsi, cpge-pci, generale, infirmier, lic-droit, lic-eco, lic-staps, pass |
-| Questions prototype | 8032 | toutes corrigees |
-| Schemas SVG | 2586 | XML valide, sans script |
+| Filieres converties | 14 | bts-bio, bts-mco, bts-ndrc, but-gea, but-tc, cpge-mpsi, cpge-pci, generale, infirmier, lic-droit, lic-eco, lic-psycho, lic-staps, pass |
+| Questions prototype | 8572 | toutes corrigees |
+| Schemas SVG | 2766 | XML valide, sans script |
 | Ordre des 7 blocs | 1 | variantes (doit etre 1) |
 | Titles uniques | 0 | doublons (doit etre 0) |
 | Vrais examens filtres | 12 | bts-bio uniquement |
@@ -29,6 +29,7 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 **infirmier** : 62 prototypes (IFSI1:26, IFSI2:25, IFSI3:11)
 **lic-droit** : 60 prototypes (L1:20, L2:25, L3:15)
 **lic-eco** : 60 prototypes (L1:22, L2:24, L3:14)
+**lic-psycho** : 60 prototypes (L1:18, L2:23, L3:19)
 **lic-staps** : 60 prototypes (L1:21, L2:23, L3:16)
 **pass** : 62 prototypes (PASS1:62)
 
@@ -41,9 +42,9 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 ## Verifications
 
 - Syntaxe JavaScript : **OK**
-- Schemas SVG : 2586, tous analysables en XML et sans script/on*/javascript:
-- Blocs d'affichage : 874 fiche(s), ordre strict identique
-- Questions : 8032, toutes avec correction
+- Schemas SVG : 2766, tous analysables en XML et sans script/on*/javascript:
+- Blocs d'affichage : 934 fiche(s), ordre strict identique
+- Questions : 8572, toutes avec correction
 - Migrations : filtre prototype + nettoyage + ajout automatique generalises
 
 ## Problemes detectes
