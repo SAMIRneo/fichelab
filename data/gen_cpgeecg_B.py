@@ -352,7 +352,7 @@ add(
 )
 
 add(
-    "PHI5. · Justice et État", "2e",
+    "PHI5. · Justice et État", "1re",
     [
         "La justice est la vertu qui consiste à rendre à chacun ce qui lui est dû : elle organise la répartition des biens et des charges.",
         "Platon définit la justice comme le fait pour chaque partie de l'âme ou de la cité de faire ce qui lui revient : « à chacun son œuvre » — chaque partie de la cité accomplit sa fonction.",
