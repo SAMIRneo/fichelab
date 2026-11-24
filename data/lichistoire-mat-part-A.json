@@ -8,7 +8,7 @@
         "L1"
       ],
       "matiere": "Méthodologie universitaire",
-      "titre": "MU1. · La démarche historique : questionner le passé",
+      "titre": "LHMU1. · La démarche historique : questionner le passé",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · méthodologie de la recherche historique",
       "points": [
         "L'histoire est une discipline qui construit un savoir sur le passé à partir de traces : elle ne restitue pas le passé tel qu'il s'est déroulé, elle l'interprète à partir de documents conservés.",
@@ -215,7 +215,7 @@
         },
         {
           "titre": "Du document à l'histoire",
-          "svg": "<svg viewBox=\"0 0 660 103\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : Du document à l'histoire\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Du document à l'histoire</text><defs><marker id=\"fl68760\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"89.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Trace</text><text x=\"89.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Document</text><text x=\"89.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">conservé</text><line x1=\"163\" y1=\"68\" x2=\"175\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl68760)\"/><rect x=\"176\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"249.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Question</text><text x=\"249.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Problématique</text><line x1=\"323\" y1=\"68\" x2=\"335\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl68760)\"/><rect x=\"336\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"409.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Critique</text><text x=\"409.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Source évaluée</text><line x1=\"483\" y1=\"68\" x2=\"495\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl68760)\"/><rect x=\"496\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"569.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Sens</text><text x=\"569.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Thèse proposée</text></svg>"
+          "svg": "<svg viewBox=\"0 0 660 103\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : Du document à l'histoire\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Du document à l'histoire</text><defs><marker id=\"fl39274\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"89.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Trace</text><text x=\"89.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Document</text><text x=\"89.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">conservé</text><line x1=\"163\" y1=\"68\" x2=\"175\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl39274)\"/><rect x=\"176\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"249.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Question</text><text x=\"249.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Problématique</text><line x1=\"323\" y1=\"68\" x2=\"335\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl39274)\"/><rect x=\"336\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"409.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Critique</text><text x=\"409.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Source évaluée</text><line x1=\"483\" y1=\"68\" x2=\"495\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl39274)\"/><rect x=\"496\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"569.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Sens</text><text x=\"569.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Thèse proposée</text></svg>"
         },
         {
           "titre": "Histoire et mémoire",
@@ -231,7 +231,7 @@
         "L1"
       ],
       "matiere": "Méthodologie universitaire",
-      "titre": "MU2. · La critique des sources : externe et interne",
+      "titre": "LHMU2. · La critique des sources : externe et interne",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · méthodologie de la recherche historique",
       "points": [
         "La critique externe vérifie l'authenticité matérielle du document : auteur, date, lieu, support, écriture, provenance et histoire de conservation.",
@@ -331,18 +331,6 @@
           ],
           "correct": 1,
           "correction": "L'édition critique transmet un texte fiable accompagné de son apparat : introduction, notes et variantes."
-        },
-        {
-          "type": "qcm",
-          "q": "Faut-il confronter plusieurs sources ?",
-          "options": [
-            "Non, une source suffit",
-            "Oui, pour dégager les points stables et les divergences",
-            "Seulement pour les images",
-            "Uniquement si elles sont contradictoires"
-          ],
-          "correct": 1,
-          "correction": "La confrontation est la règle : elle permet de distinguer ce qui est confirmé de ce qui reste incertain."
         },
         {
           "type": "texte",
@@ -461,7 +449,7 @@
         "L1"
       ],
       "matiere": "Méthodologie universitaire",
-      "titre": "MU3. · L'historiographie et les écoles historiques",
+      "titre": "LHMU3. · L'historiographie et les écoles historiques",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · méthodologie de la recherche historique",
       "points": [
         "L'historiographie est l'étude de la manière dont le passé a été écrit : elle recense les auteurs, les écoles, les questions et les interprétations successives.",
@@ -561,18 +549,6 @@
           ],
           "correct": 1,
           "correction": "Une lecture historiographique est un argument à situer et à confronter aux sources, pas une autorité dispensant de preuve."
-        },
-        {
-          "type": "qcm",
-          "q": "La lecture de la Révolution française par Jaurès relève surtout :",
-          "options": [
-            "De l'école marxiste",
-            "De l'école des Annales",
-            "Du positivisme",
-            "De l'histoire génétique"
-          ],
-          "correct": 0,
-          "correction": "Jaurès, dans son Histoire socialiste de la Révolution française, met l'accent sur les rapports sociaux et économiques."
         },
         {
           "type": "texte",
@@ -680,7 +656,7 @@
         },
         {
           "titre": "Du fait à l'interprétation",
-          "svg": "<svg viewBox=\"0 0 660 103\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : Du fait à l'interprétation\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Du fait à l'interprétation</text><defs><marker id=\"fl55211\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"89.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Archive</text><text x=\"89.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Fait établi</text><line x1=\"163\" y1=\"68\" x2=\"175\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl55211)\"/><rect x=\"176\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"249.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Courant</text><text x=\"249.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Grille de</text><text x=\"249.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">lecture</text><line x1=\"323\" y1=\"68\" x2=\"335\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl55211)\"/><rect x=\"336\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"409.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Question</text><text x=\"409.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Problématique</text><line x1=\"483\" y1=\"68\" x2=\"495\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl55211)\"/><rect x=\"496\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"569.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Thèse</text><text x=\"569.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Lecture</text><text x=\"569.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">argumentée</text></svg>"
+          "svg": "<svg viewBox=\"0 0 660 103\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : Du fait à l'interprétation\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Du fait à l'interprétation</text><defs><marker id=\"fl71909\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"89.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Archive</text><text x=\"89.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Fait établi</text><line x1=\"163\" y1=\"68\" x2=\"175\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl71909)\"/><rect x=\"176\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"249.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Courant</text><text x=\"249.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Grille de</text><text x=\"249.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">lecture</text><line x1=\"323\" y1=\"68\" x2=\"335\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl71909)\"/><rect x=\"336\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"409.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Question</text><text x=\"409.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Problématique</text><line x1=\"483\" y1=\"68\" x2=\"495\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl71909)\"/><rect x=\"496\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"569.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Thèse</text><text x=\"569.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Lecture</text><text x=\"569.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">argumentée</text></svg>"
         },
         {
           "titre": "Événement / structure",
@@ -696,7 +672,7 @@
         "L1"
       ],
       "matiere": "Méthodologie universitaire",
-      "titre": "MU4. · Le commentaire de documents",
+      "titre": "LHMU4. · Le commentaire de documents",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · méthodologie de la recherche historique",
       "points": [
         "Le commentaire de documents est un exercice qui consiste à expliquer un ou plusieurs textes ou images en dégageant leur sens historique et leur portée.",
@@ -796,18 +772,6 @@
           ],
           "correct": 1,
           "correction": "Elle apporte une réponse nuancée et peut ouvrir sur une question élargie ou un autre document."
-        },
-        {
-          "type": "qcm",
-          "q": "Quel registre est attendu d'un acte juridique ?",
-          "options": [
-            "Polémique",
-            "Juridique et normatif",
-            "Lyrique",
-            "Publicitaire"
-          ],
-          "correct": 1,
-          "correction": "L'acte juridique énonce des règles et des effets de droit : son registre est normatif."
         },
         {
           "type": "texte",
@@ -931,7 +895,7 @@
         "L2"
       ],
       "matiere": "Méthodologie universitaire",
-      "titre": "MU5. · La dissertation historique",
+      "titre": "LHMU5. · La dissertation historique",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · méthodologie de la recherche historique",
       "points": [
         "La dissertation est un devoir personnel qui répond à un sujet historique par une thèse organisée, documentée et nuancée.",
@@ -1010,6 +974,18 @@
         },
         {
           "type": "qcm",
+          "q": "Quel est le rôle de la transition ?",
+          "options": [
+            "Répéter la partie précédente",
+            "Assurer le passage logique entre deux parties",
+            "Annoncer la conclusion",
+            "Remplacer les arguments"
+          ],
+          "correct": 1,
+          "correction": "La transition montre le lien logique et prépare le lecteur à changement de perspective."
+        },
+        {
+          "type": "qcm",
           "q": "Comment nuancer une réponse ?",
           "options": [
             "En évitant tout mot de mesure",
@@ -1019,18 +995,6 @@
           ],
           "correct": 1,
           "correction": "La nuance s'obtient par la délimitation (quand, où, pour qui) et par la hiérarchisation des causes."
-        },
-        {
-          "type": "qcm",
-          "q": "Que doit faire la conclusion ?",
-          "options": [
-            "Répondre au problème posé et ouvrir",
-            "Présenter le plan",
-            "Donner une nouvelle problématique",
-            "Citer tous les cours"
-          ],
-          "correct": 0,
-          "correction": "La conclusion apporte la réponse construite et peut élargir la question ; elle ne reprend pas l'introduction."
         },
         {
           "type": "texte",
@@ -1154,7 +1118,7 @@
         "L2"
       ],
       "matiere": "Méthodologie universitaire",
-      "titre": "MU6. · Recherche documentaire et bibliographie",
+      "titre": "LHMU6. · Recherche documentaire et bibliographie",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · méthodologie de la recherche historique",
       "points": [
         "La recherche documentaire commence par un cadrage précis : mots-clés, dates, espace et type de sources recherchées.",
@@ -1254,18 +1218,6 @@
           ],
           "correct": 1,
           "correction": "Gallica (BnF) et Persée donnent accès à des documents et articles numérisés, souvent en accès ouvert."
-        },
-        {
-          "type": "qcm",
-          "q": "Un document en accès ouvert est-il forcément vérifié ?",
-          "options": [
-            "Oui, par définition",
-            "Non, il reste à vérifier la source et la méthode",
-            "Oui, s'il est daté",
-            "Non, seulement s'il est payant"
-          ],
-          "correct": 1,
-          "correction": "L'accès ouvert garantit la disponibilité, pas la qualité scientifique : la règle « à vérifier » demeure."
         },
         {
           "type": "texte",
@@ -1389,7 +1341,7 @@
         "L2"
       ],
       "matiere": "Méthodologie universitaire",
-      "titre": "MU7. · Les archives : repérage et exploitation",
+      "titre": "LHMU7. · Les archives : repérage et exploitation",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · méthodologie de la recherche historique",
       "points": [
         "Une archive est un document produit ou reçu par une personne ou une institution dans l'exercice de son activité, et conservé pour sa valeur de témoignage.",
@@ -1489,18 +1441,6 @@
           ],
           "correct": 1,
           "correction": "L'absence de traces est historiquement signifiante : elle interroge la production et la conservation des documents."
-        },
-        {
-          "type": "qcm",
-          "q": "Qui conserve les archives des collectivités locales ?",
-          "options": [
-            "Uniquement les Archives nationales",
-            "Les archives départementales et municipales",
-            "Les universités seules",
-            "Les musées privés"
-          ],
-          "correct": 1,
-          "correction": "Les fonds locaux sont conservés dans les services d'archives départementaux, municipaux ou intercommunaux."
         },
         {
           "type": "texte",
@@ -1624,7 +1564,7 @@
         "L2"
       ],
       "matiere": "Méthodologie universitaire",
-      "titre": "MU8. · Chronologie et repères historiques",
+      "titre": "LHMU8. · Chronologie et repères historiques",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · méthodologie de la recherche historique",
       "points": [
         "La chronologie est l'outil qui permet d'ordonner les faits dans le temps : sans datation, aucun raisonnement historique n'est possible.",
@@ -1724,18 +1664,6 @@
           ],
           "correct": 1,
           "correction": "Sans repères chronologiques solides, on attribue des causes à des effets qui leur sont postérieurs."
-        },
-        {
-          "type": "qcm",
-          "q": "Que caractérise l'époque moderne en Europe ?",
-          "options": [
-            "La fin des États",
-            "La formation des États modernes et l'imprimerie",
-            "La guerre froide",
-            "La colonisation de l'Antiquité"
-          ],
-          "correct": 1,
-          "correction": "Les XVIᵉ-XVIIIᵉ siècles voient la centralisation des monarchies, l'expansion maritime et la diffusion de l'imprimerie."
         },
         {
           "type": "texte",
@@ -1843,7 +1771,7 @@
         },
         {
           "titre": "Raisonner sur le temps",
-          "svg": "<svg viewBox=\"0 0 660 103\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : Raisonner sur le temps\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Raisonner sur le temps</text><defs><marker id=\"fl55806\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"89.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Dater</text><text x=\"89.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Repère absolu</text><line x1=\"163\" y1=\"68\" x2=\"175\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl55806)\"/><rect x=\"176\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"249.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Ordonner</text><text x=\"249.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Frise et</text><text x=\"249.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">simultanéité</text><line x1=\"323\" y1=\"68\" x2=\"335\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl55806)\"/><rect x=\"336\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"409.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Durée</text><text x=\"409.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">temps long</text><line x1=\"483\" y1=\"68\" x2=\"495\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl55806)\"/><rect x=\"496\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"569.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Rupture</text><text x=\"569.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Coupure</text><text x=\"569.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">explicitée</text></svg>"
+          "svg": "<svg viewBox=\"0 0 660 103\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : Raisonner sur le temps\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">Raisonner sur le temps</text><defs><marker id=\"fl22297\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"89.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Dater</text><text x=\"89.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Repère absolu</text><line x1=\"163\" y1=\"68\" x2=\"175\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl22297)\"/><rect x=\"176\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"249.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Ordonner</text><text x=\"249.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Frise et</text><text x=\"249.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">simultanéité</text><line x1=\"323\" y1=\"68\" x2=\"335\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl22297)\"/><rect x=\"336\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"409.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Durée</text><text x=\"409.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">temps long</text><line x1=\"483\" y1=\"68\" x2=\"495\" y2=\"68\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl22297)\"/><rect x=\"496\" y=\"52\" width=\"146\" height=\"33\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"569.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Rupture</text><text x=\"569.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">Coupure</text><text x=\"569.0\" y=\"108\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\">explicitée</text></svg>"
         },
         {
           "titre": "Temps court / temps long",
@@ -1859,7 +1787,7 @@
         "L3"
       ],
       "matiere": "Méthodologie universitaire",
-      "titre": "MU9. · Cartes et espace historique",
+      "titre": "LHMU9. · Cartes et espace historique",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · méthodologie de la recherche historique",
       "points": [
         "Une carte historique n'est pas un simple décor : c'est une source qui sélectionne, hiérarchise et nomme des espaces à une date donnée.",
@@ -1959,18 +1887,6 @@
           ],
           "correct": 1,
           "correction": "La ligne dessinée doit être confrontée aux actes, aux délimitations et aux pratiques réelles sur le terrain."
-        },
-        {
-          "type": "qcm",
-          "q": "Choisir une couleur sur une carte, c'est :",
-          "options": [
-            "Un geste neutre",
-            "Déjà une interprétation à expliciter",
-            "Une obligation légale",
-            "Une erreur"
-          ],
-          "correct": 1,
-          "correction": "La mise en couleur hiérarchise les informations : elle doit être pensée et commentée."
         },
         {
           "type": "texte",
@@ -2094,7 +2010,7 @@
         "L3"
       ],
       "matiere": "Méthodologie universitaire",
-      "titre": "MU10. · L'épreuve orale : commentaire et entretien",
+      "titre": "LHMU10. · L'épreuve orale : commentaire et entretien",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · méthodologie de la recherche historique",
       "points": [
         "L'oral universitaire évalue la maîtrise du sujet, la clarté de l'expression et la capacité à répondre aux questions du jury.",
@@ -2194,18 +2110,6 @@
           ],
           "correct": 2,
           "correction": "La Constitution de la Vᵉ République est adoptée en 1958 ; 1962 marque l'élection présidentielle au suffrage universel direct."
-        },
-        {
-          "type": "qcm",
-          "q": "Quel est l'objet d'un commentaire oral de document ?",
-          "options": [
-            "Réciter le texte",
-            "Expliquer un document situé et en dégager la portée",
-            "Le traduire mot pour mot",
-            "Le juger sans analyse"
-          ],
-          "correct": 1,
-          "correction": "Même à l'oral, le commentaire combine situation, explication et critique."
         },
         {
           "type": "texte",
@@ -2329,7 +2233,7 @@
         "L3"
       ],
       "matiere": "Méthodologie universitaire",
-      "titre": "MU11. · Le mémoire de licence et la problématique",
+      "titre": "LHMU11. · Le mémoire de licence et la problématique",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · méthodologie de la recherche historique",
       "points": [
         "Le mémoire de licence est un travail de recherche personnel, d'une longueur modérée, qui porte sur une question historique délimitée.",
@@ -2429,18 +2333,6 @@
           ],
           "correct": 0,
           "correction": "La mise en forme finale vérifie la cohérence, les normes et l'orthographe."
-        },
-        {
-          "type": "qcm",
-          "q": "Comment répondre à une question critique en soutenance ?",
-          "options": [
-            "En évitant la question",
-            "En reconnaissant la limite et en proposant une piste",
-            "En donnant une réponse non documentée",
-            "En changeant de thème"
-          ],
-          "correct": 1,
-          "correction": "La reconnaissance des limites est appréciée si elle s'accompagne d'une réflexion méthodologique."
         },
         {
           "type": "texte",
@@ -2564,7 +2456,7 @@
         "L3"
       ],
       "matiere": "Méthodologie universitaire",
-      "titre": "MU12. · Analyse d'image et photographie historique",
+      "titre": "LHMU12. · Analyse d'image et photographie historique",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · méthodologie de la recherche historique",
       "points": [
         "La photographie est une source historique comme un texte : elle a été produite par un auteur, à une date, dans une intention et pour un public.",
@@ -2664,18 +2556,6 @@
           ],
           "correct": 1,
           "correction": "L'analyse doit distinguer ce qui est vu de ce qui est inféré et explicité comme hypothèse."
-        },
-        {
-          "type": "qcm",
-          "q": "Quel conflit a marqué le photojournalisme des années 1930 ?",
-          "options": [
-            "La guerre de Crimée",
-            "La guerre d'Espagne",
-            "La guerre froide",
-            "La guerre de Cent Ans"
-          ],
-          "correct": 1,
-          "correction": "La guerre d'Espagne (1936-1939) est un moment clé du photojournalisme moderne, avec des reportages diffusés dans la presse internationale."
         },
         {
           "type": "texte",
@@ -2799,7 +2679,7 @@
         "L1"
       ],
       "matiere": "Français",
-      "titre": "LHFR1. · L'expression écrite : phrases et paragraphes",
+      "titre": "LHLHFR1. · L'expression écrite : phrases et paragraphes",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · expression écrite et lecture de documents",
       "points": [
         "Une phrase claire énonce une idée principale et des compléments qui s'y rattachent sans ambiguïté.",
@@ -2899,18 +2779,6 @@
           ],
           "correct": 1,
           "correction": "La lecture à voix haute fait entendre les heurts de rythme et les erreurs d'accord."
-        },
-        {
-          "type": "qcm",
-          "q": "Quelle formulation est la plus historique ?",
-          "options": [
-            "« Autrefois, les gens étaient pauvres »",
-            "« En 1848, le chômage touche les ouvriers parisiens »",
-            "« Il y a longtemps »",
-            "« À une époque lointaine »"
-          ],
-          "correct": 1,
-          "correction": "Une date et un acteur précis rendent l'affirmation vérifiable et informative."
         },
         {
           "type": "texte",
@@ -3029,7 +2897,7 @@
         "L1"
       ],
       "matiere": "Français",
-      "titre": "LHFR2. · La note de synthèse",
+      "titre": "LHLHFR2. · La note de synthèse",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · expression écrite et lecture de documents",
       "points": [
         "La note de synthèse condense un dossier de documents en un texte court, objectif et structuré, destiné à un lecteur qui n'a pas lu les pièces.",
@@ -3129,18 +2997,6 @@
           ],
           "correct": 1,
           "correction": "La conclusion condense la réponse apportée par le dossier, sans opinion ni ouverture extérieure."
-        },
-        {
-          "type": "qcm",
-          "q": "Pourquoi lire tout le dossier avant de rédiger ?",
-          "options": [
-            "Pour gagner du temps",
-            "Pour identifier les convergences et les divergences avant de planifier",
-            "Pour respecter l'ordre des documents",
-            "Pour apprendre les textes par cœur"
-          ],
-          "correct": 1,
-          "correction": "La lecture globale permet de construire un plan à partir des idées du dossier, non de l'ordre des pièces."
         },
         {
           "type": "texte",
@@ -3264,7 +3120,7 @@
         "L1"
       ],
       "matiere": "Français",
-      "titre": "LHFR3. · L'analyse d'image en histoire",
+      "titre": "LHLHFR3. · L'analyse d'image en histoire",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · expression écrite et lecture de documents",
       "points": [
         "L'image est un document comme le texte : elle doit être datée, située et rattachée à un producteur et à un public.",
@@ -3364,18 +3220,6 @@
           ],
           "correct": 1,
           "correction": "Les codes visuels changent : une couleur ou un geste n'a pas le même sens au XIIIᵉ siècle et aujourd'hui."
-        },
-        {
-          "type": "qcm",
-          "q": "Comment présenter une hypothèse d'interprétation ?",
-          "options": [
-            "Comme une certitude",
-            "En la formulant comme hypothèse et en l'appuyant sur des éléments visibles",
-            "Sans la justifier",
-            "En citant un historien imaginaire"
-          ],
-          "correct": 1,
-          "correction": "L'analyse historique distingue l'observation de l'interprétation et rend cette dernière vérifiable."
         },
         {
           "type": "texte",
@@ -3499,7 +3343,7 @@
         "L2"
       ],
       "matiere": "Français",
-      "titre": "LHFR4. · L'argumentation écrite",
+      "titre": "LHLHFR4. · L'argumentation écrite",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · expression écrite et lecture de documents",
       "points": [
         "Argumenter, c'est défendre une thèse à l'aide de raisons et de preuves, en tenant compte des objections possibles.",
@@ -3599,18 +3443,6 @@
           ],
           "correct": 1,
           "correction": "La qualité de l'explication prime sur la quantité des arguments."
-        },
-        {
-          "type": "qcm",
-          "q": "Comment nuancer une affirmation sur les Lumières ?",
-          "options": [
-            "En supprimant les dates",
-            "En précisant la diffusion inégale et la censure",
-            "En donnant raison à tout le monde",
-            "En ne citant que Voltaire"
-          ],
-          "correct": 1,
-          "correction": "La nuance tient compte des limites : alphabétisation, censure, publics touchés."
         },
         {
           "type": "texte",
@@ -3734,7 +3566,7 @@
         "L2"
       ],
       "matiere": "Français",
-      "titre": "LHFR5. · La rédaction académique et ses normes",
+      "titre": "LHLHFR5. · La rédaction académique et ses normes",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · expression écrite et lecture de documents",
       "points": [
         "La rédaction académique obéit à des normes explicites : plan clair, titres hiérarchisés, citations traçables et bibliographie normalisée.",
@@ -3834,18 +3666,6 @@
           ],
           "correct": 1,
           "correction": "Le jugement académique explicite le degré de certitude et les sources sur lesquelles il repose."
-        },
-        {
-          "type": "qcm",
-          "q": "Pourquoi utiliser des styles de titre dans un traitement de texte ?",
-          "options": [
-            "Pour décorer",
-            "Pour rendre la structure visible et faciliter la relecture",
-            "Pour réduire le nombre de pages",
-            "Pour éviter les notes"
-          ],
-          "correct": 1,
-          "correction": "Les styles hiérarchisent le document et facilitent la navigation comme la correction."
         },
         {
           "type": "texte",
@@ -3969,7 +3789,7 @@
         "L2"
       ],
       "matiere": "Français",
-      "titre": "LHFR6. · Style et clarté de la copie",
+      "titre": "LHLHFR6. · Style et clarté de la copie",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · expression écrite et lecture de documents",
       "points": [
         "Le style d'une copie historique doit être clair, précis et soutenu sans être ampoulé.",
@@ -4069,18 +3889,6 @@
           ],
           "correct": 1,
           "correction": "Un jugement de valeur doit être appuyé ; sinon on lui préfère une description précise."
-        },
-        {
-          "type": "qcm",
-          "q": "Que vérifier en dernier dans une copie ?",
-          "options": [
-            "Le nombre de pages",
-            "Le sens, la ponctuation et les accords",
-            "La couverture",
-            "La police de caractères"
-          ],
-          "correct": 1,
-          "correction": "La relecture finale porte d'abord sur la clarté du sens et la correction linguistique."
         },
         {
           "type": "texte",
@@ -4204,7 +4012,7 @@
         "L3"
       ],
       "matiere": "Français",
-      "titre": "LHFR7. · La lecture active d'un texte historique",
+      "titre": "LHLHFR7. · La lecture active d'un texte historique",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · expression écrite et lecture de documents",
       "points": [
         "Une lecture active ne se contente pas de comprendre les mots : elle interroge le texte, relève ses indices et construit des hypothèses.",
@@ -4304,18 +4112,6 @@
           ],
           "correct": 1,
           "correction": "Les marques de lecture témoignent de la réception et des usages ultérieurs d'un ouvrage."
-        },
-        {
-          "type": "qcm",
-          "q": "Comment terminer une lecture active ?",
-          "options": [
-            "Par un résumé de trente lignes",
-            "Par une reformulation personnelle en deux phrases",
-            "Par la recopie de la première phrase",
-            "Par une question sans réponse"
-          ],
-          "correct": 1,
-          "correction": "Reformuler brièvement teste la compréhension et prépare l'analyse."
         },
         {
           "type": "texte",
@@ -4439,7 +4235,7 @@
         "L3"
       ],
       "matiere": "Français",
-      "titre": "LHFR8. · L'oral : reformuler et convaincre",
+      "titre": "LHLHFR8. · L'oral : reformuler et convaincre",
       "source": "Arrêté du 6 avril 2021 (référence commune des licences FicheLab) · BO spécial n° 7 du 17 février 2022 · éduscol · programmes de licence d'histoire · expression écrite et lecture de documents",
       "points": [
         "L'oral de français en licence évalue la capacité à présenter une analyse, à la défendre et à échanger avec un jury.",
@@ -4539,18 +4335,6 @@
           ],
           "correct": 1,
           "correction": "L'échange vise la qualité de l'argumentation, pas la victoire rhétorique."
-        },
-        {
-          "type": "qcm",
-          "q": "Que contient une préparation d'oral efficace ?",
-          "options": [
-            "Un texte appris par cœur",
-            "Un plan court, des exemples datés et trois questions anticipées",
-            "Une bibliographie complète lue à voix haute",
-            "Aucune note"
-          ],
-          "correct": 1,
-          "correction": "Un plan court et des exemples précis valent mieux qu'une récitation intégrale."
         },
         {
           "type": "texte",

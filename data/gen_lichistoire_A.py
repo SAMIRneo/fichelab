@@ -59,9 +59,8 @@ def build(*args):
            Be("Méthode pas à pas", etapes),
            Ba("Pièges fréquents", attention),
            Bx("Exemples d'application", exemples)]
-    # Deux questions redondantes retirees pour rester a 9 questions par fiche.
-    qcms = [q for q in qcms if not q[0].startswith(
-        ("Quel est le rôle de la transition", "Pourquoi la guerre froide est-elle un bon sujet"))]
+    # Au plus 7 QCM : 9 questions au total avec les 2 questions de redaction.
+    qcms = qcms[:7]
     qs = [qcm(q, o, c, r) for (q, o, c, r) in qcms] + [qt(q, r, c) for (q, r, c) in texts]
     return fiche(FIL, an, mat, titre, ref, points, qs, aff, schemas)
 
@@ -73,7 +72,7 @@ F = []
 # =====================================================================
 
 F.append(build(
-    L1, "Méthodologie universitaire", "MU1. · La démarche historique : questionner le passé", REF_M,
+    L1, "Méthodologie universitaire", "LHMU1. · La démarche historique : questionner le passé", REF_M,
     [
         "L'histoire est une discipline qui construit un savoir sur le passé à partir de traces : elle ne restitue pas le passé tel qu'il s'est déroulé, elle l'interprète à partir de documents conservés.",
         "La mémoire est une représentation vivante et souvent émotionnelle du passé, transmise par le récit et la commémoration ; elle se distingue de l'histoire par l'exigence de preuve et de distanciation critique.",
@@ -158,7 +157,7 @@ F.append(build(
         ("Mémoire", ["Récit vécu", "Identité et émotion", "Transmission orale"]))]))
 
 F.append(build(
-    L1, "Méthodologie universitaire", "MU2. · La critique des sources : externe et interne", REF_M,
+    L1, "Méthodologie universitaire", "LHMU2. · La critique des sources : externe et interne", REF_M,
     [
         "La critique externe vérifie l'authenticité matérielle du document : auteur, date, lieu, support, écriture, provenance et histoire de conservation.",
         "La critique interne apprécie la fiabilité du contenu : intentions de l'auteur, genre du texte, public visé, cohérence interne, silences et exagérations.",
@@ -245,7 +244,7 @@ F.append(build(
         ("Source secondaire", ["Ulérieure", "Analyse d'historien", "Doit citer ses preuves"]))]))
 
 F.append(build(
-    L1, "Méthodologie universitaire", "MU3. · L'historiographie et les écoles historiques", REF_M,
+    L1, "Méthodologie universitaire", "LHMU3. · L'historiographie et les écoles historiques", REF_M,
     [
         "L'historiographie est l'étude de la manière dont le passé a été écrit : elle recense les auteurs, les écoles, les questions et les interprétations successives.",
         "L'historiographie antique privilégie le récit des événements et l'exemplarité : Hérodote raconte, Thucydide analyse les causes, Tacite moralise le pouvoir.",
@@ -333,7 +332,7 @@ F.append(build(
         ("Structure", ["Long terme", "Contraintes durables", "ex. régime foncier"]))]))
 
 F.append(build(
-    L1, "Méthodologie universitaire", "MU4. · Le commentaire de documents", REF_M,
+    L1, "Méthodologie universitaire", "LHMU4. · Le commentaire de documents", REF_M,
     [
         "Le commentaire de documents est un exercice qui consiste à expliquer un ou plusieurs textes ou images en dégageant leur sens historique et leur portée.",
         "La première étape est la lecture attentive : identifier l'auteur, la date, le lieu, le genre, le destinataire et la situation d'énonciation.",
@@ -418,7 +417,7 @@ F.append(build(
         ("Commentaire", ["Expliquer le sens", "Problématiser", "Mobiliser le contexte"]))]))
 
 F.append(build(
-    L2, "Méthodologie universitaire", "MU5. · La dissertation historique", REF_M,
+    L2, "Méthodologie universitaire", "LHMU5. · La dissertation historique", REF_M,
     [
         "La dissertation est un devoir personnel qui répond à un sujet historique par une thèse organisée, documentée et nuancée.",
         "Le sujet peut être une question (ex. : « La Révolution française a-t-elle transformé la société ? ») ou une citation : il faut toujours en définir les termes.",
@@ -505,7 +504,7 @@ F.append(build(
         ("Thématique", ["Axe par dimension", "Bilan ou bilan critique", "ex. effets d'une révolution"]))]))
 
 F.append(build(
-    L2, "Méthodologie universitaire", "MU6. · Recherche documentaire et bibliographie", REF_M,
+    L2, "Méthodologie universitaire", "LHMU6. · Recherche documentaire et bibliographie", REF_M,
     [
         "La recherche documentaire commence par un cadrage précis : mots-clés, dates, espace et type de sources recherchées.",
         "Les catalogues de bibliothèque (Sudoc, catalogue BnF) donnent des notices : auteur, titre, éditeur, date, ISBN et cote ; la consultation de la notice précède celle de l'ouvrage.",
@@ -589,7 +588,7 @@ F.append(build(
         ("Vérifié", ["Auteur et éditeur connus", "Méthode explicite", "Références contrôlées"]))]))
 
 F.append(build(
-    L2, "Méthodologie universitaire", "MU7. · Les archives : repérage et exploitation", REF_M,
+    L2, "Méthodologie universitaire", "LHMU7. · Les archives : repérage et exploitation", REF_M,
     [
         "Une archive est un document produit ou reçu par une personne ou une institution dans l'exercice de son activité, et conservé pour sa valeur de témoignage.",
         "Le fonds désigne l'ensemble des archives provenant d'un même producteur ; les fonds se divisent en séries, sous-séries et dossiers, repérés par une cote.",
@@ -674,7 +673,7 @@ F.append(build(
         ("Numérisation", ["Accès à distance", "Images parfois partielles", "Vérification nécessaire"]))]))
 
 F.append(build(
-    L2, "Méthodologie universitaire", "MU8. · Chronologie et repères historiques", REF_M,
+    L2, "Méthodologie universitaire", "LHMU8. · Chronologie et repères historiques", REF_M,
     [
         "La chronologie est l'outil qui permet d'ordonner les faits dans le temps : sans datation, aucun raisonnement historique n'est possible.",
         "La datation relative situe un fait par rapport à un autre (« avant », « après », « contemporain de ») ; la datation absolue attribue une date ou une année.",
@@ -758,7 +757,7 @@ F.append(build(
         ("Temps long", ["Structures durables", "ex. régime foncier", "Conjoncture et permanence"]))]))
 
 F.append(build(
-    L3, "Méthodologie universitaire", "MU9. · Cartes et espace historique", REF_M,
+    L3, "Méthodologie universitaire", "LHMU9. · Cartes et espace historique", REF_M,
     [
         "Une carte historique n'est pas un simple décor : c'est une source qui sélectionne, hiérarchise et nomme des espaces à une date donnée.",
         "L'échelle détermine ce que la carte montre : un plan de ville, une carte régionale et une carte mondiale ne répondent pas aux mêmes questions.",
@@ -843,7 +842,7 @@ F.append(build(
         ("Carte produite", ["Outil de l'historien", "Choix à expliciter", "ex. carte SIG"]))]))
 
 F.append(build(
-    L3, "Méthodologie universitaire", "MU10. · L'épreuve orale : commentaire et entretien", REF_M,
+    L3, "Méthodologie universitaire", "LHMU10. · L'épreuve orale : commentaire et entretien", REF_M,
     [
         "L'oral universitaire évalue la maîtrise du sujet, la clarté de l'expression et la capacité à répondre aux questions du jury.",
         "La préparation commence par la lecture attentive du sujet et par la constitution de notes courtes : mots-clés, dates et trois idées directrices.",
@@ -928,7 +927,7 @@ F.append(build(
         ("Oral fragile", ["Lecture de notes", "Généralités vagues", "Certitudes non documentées"]))]))
 
 F.append(build(
-    L3, "Méthodologie universitaire", "MU11. · Le mémoire de licence et la problématique", REF_M,
+    L3, "Méthodologie universitaire", "LHMU11. · Le mémoire de licence et la problématique", REF_M,
     [
         "Le mémoire de licence est un travail de recherche personnel, d'une longueur modérée, qui porte sur une question historique délimitée.",
         "Le choix du sujet doit concilier intérêt personnel, disponibilité des sources et faisabilité dans le temps imparti.",
@@ -1013,7 +1012,7 @@ F.append(build(
         ("Resserré", ["« Presse et Algérie, 1880-1900 »", "Corpus défini", "Problématique claire"]))]))
 
 F.append(build(
-    L3, "Méthodologie universitaire", "MU12. · Analyse d'image et photographie historique", REF_M,
+    L3, "Méthodologie universitaire", "LHMU12. · Analyse d'image et photographie historique", REF_M,
     [
         "La photographie est une source historique comme un texte : elle a été produite par un auteur, à une date, dans une intention et pour un public.",
         "L'analyse iconographique identifie les sujets, les objets, les personnes et les symboles visibles ; l'analyse iconologique interprète leur sens culturel.",
@@ -1097,7 +1096,7 @@ F.append(build(
          ("Construction", ["Choix de cadrage", "Intention et diffusion", "À critiquer"]))]))
 
 F.append(build(
-    L1, "Français", "LHFR1. · L'expression écrite : phrases et paragraphes", REF_F,
+    L1, "Français", "LHLHFR1. · L'expression écrite : phrases et paragraphes", REF_F,
     [
         "Une phrase claire énonce une idée principale et des compléments qui s'y rattachent sans ambiguïté.",
         "La phrase simple contient une proposition ; la phrase complexe en contient plusieurs reliées par coordination ou subordination.",
@@ -1180,7 +1179,7 @@ F.append(build(
         ("Complexe", ["Plusieurs propositions", "Nuance ou opposition", "ex. mais le vote reste censitaire"]))]))
 
 F.append(build(
-    L1, "Français", "LHFR2. · La note de synthèse", REF_F,
+    L1, "Français", "LHLHFR2. · La note de synthèse", REF_F,
     [
         "La note de synthèse condense un dossier de documents en un texte court, objectif et structuré, destiné à un lecteur qui n'a pas lu les pièces.",
         "Elle se distingue du commentaire : elle ne discute pas chaque document séparément, elle croise les informations pour dégager l'essentiel.",
@@ -1265,7 +1264,7 @@ F.append(build(
         ("Commentaire", ["Document par document", "Explication et critique", "Problématique"]))]))
 
 F.append(build(
-    L1, "Français", "LHFR3. · L'analyse d'image en histoire", REF_F,
+    L1, "Français", "LHLHFR3. · L'analyse d'image en histoire", REF_F,
     [
         "L'image est un document comme le texte : elle doit être datée, située et rattachée à un producteur et à un public.",
         "La description précède l'interprétation : on relève les personnages, les objets, les gestes, les couleurs et les inscriptions visibles.",
@@ -1349,7 +1348,7 @@ F.append(build(
         ("Connotation", ["Ce que cela suggère", "Valeurs et idées", "ex. la nation"]))]))
 
 F.append(build(
-    L2, "Français", "LHFR4. · L'argumentation écrite", REF_F,
+    L2, "Français", "LHLHFR4. · L'argumentation écrite", REF_F,
     [
         "Argumenter, c'est défendre une thèse à l'aide de raisons et de preuves, en tenant compte des objections possibles.",
         "Une thèse est une affirmation précise et discutable : « La Révolution française a surtout transformé le droit » est plus argumentable que « la Révolution était importante ».",
@@ -1434,7 +1433,7 @@ F.append(build(
         ("Fragile", ["Généralité vague", "Exemple non analysé", "Aucune nuance"]))]))
 
 F.append(build(
-    L2, "Français", "LHFR5. · La rédaction académique et ses normes", REF_F,
+    L2, "Français", "LHLHFR5. · La rédaction académique et ses normes", REF_F,
     [
         "La rédaction académique obéit à des normes explicites : plan clair, titres hiérarchisés, citations traçables et bibliographie normalisée.",
         "Un plan détaillé distingue les parties, les sous-parties et les exemples ; il se construit avant la rédaction puis peut être ajusté.",
@@ -1519,7 +1518,7 @@ F.append(build(
         ("Complète", ["Bibliographie finale", "Auteur, titre, éditeur, année", "Identification sûre"]))]))
 
 F.append(build(
-    L2, "Français", "LHFR6. · Style et clarté de la copie", REF_F,
+    L2, "Français", "LHLHFR6. · Style et clarté de la copie", REF_F,
     [
         "Le style d'une copie historique doit être clair, précis et soutenu sans être ampoulé.",
         "La précision lexicale évite les mots vagues : « transformation », « évolution » et « rupture » n'ont pas le même sens et doivent être choisis selon ce que montrent les sources.",
@@ -1605,7 +1604,7 @@ F.append(build(
         ("Analyse", ["Nomme la réalité", "Références et contexte", "Explicite le jugement"]))]))
 
 F.append(build(
-    L3, "Français", "LHFR7. · La lecture active d'un texte historique", REF_F,
+    L3, "Français", "LHLHFR7. · La lecture active d'un texte historique", REF_F,
     [
         "Une lecture active ne se contente pas de comprendre les mots : elle interroge le texte, relève ses indices et construit des hypothèses.",
         "Avant la lecture, on observe le paratexte : titre, auteur, date de publication, genre et éventuelle traduction.",
@@ -1689,7 +1688,7 @@ F.append(build(
         ("Active", ["Hypothèses", "Indices prélevés", "Reformulation critique"]))]))
 
 F.append(build(
-    L3, "Français", "LHFR8. · L'oral : reformuler et convaincre", REF_F,
+    L3, "Français", "LHLHFR8. · L'oral : reformuler et convaincre", REF_F,
     [
         "L'oral de français en licence évalue la capacité à présenter une analyse, à la défendre et à échanger avec un jury.",
         "La reformulation est l'outil central : elle consiste à redire l'idée d'un texte ou de son interlocuteur avec ses propres mots, sans la déformer.",

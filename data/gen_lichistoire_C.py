@@ -68,7 +68,7 @@ F = []
 # =====================================================================
 
 F.append(build(
-    L1, "Anglais", "AN1. · Vocabulaire historique anglais", REF_AN,
+    L1, "Anglais", "LHAN1. · Vocabulaire historique anglais", REF_AN,
     [
         "L'histoire en anglais utilise un vocabulaire technique précis : source, evidence, historiography, primary source, secondary source.",
         "Un mot peut changer de sens d'une langue à l'autre : « history » désigne la discipline et le récit, tandis que « story » est le récit littéraire.",
@@ -151,7 +151,7 @@ F.append(build(
         ("Faux ami", ["Actually", "En réalité", "Pas « actuellement »"]))]))
 
 F.append(build(
-    L1, "Anglais", "AN2. · Lire une source historique en anglais", REF_AN,
+    L1, "Anglais", "LHAN2. · Lire une source historique en anglais", REF_AN,
     [
         "Lire une source en anglais suppose de combiner la compréhension linguistique et la méthode historique : on ne traduit pas un document, on l'interprète.",
         "Avant la lecture, on identifie le titre, l'auteur, la date, le genre et le public visé, comme pour toute source primaire.",
@@ -236,7 +236,7 @@ F.append(build(
         ("Interprétation", ["Expliquer la portée", "Mobiliser le contexte historique", "Critiquer l'intention"]))]))
 
 F.append(build(
-    L2, "Anglais", "AN3. · Expression écrite en anglais", REF_AN,
+    L2, "Anglais", "LHAN3. · Expression écrite en anglais", REF_AN,
     [
         "Écrire en anglais sur l'histoire demande une structure claire : introduction, arguments datés, conclusion nuancée.",
         "Une phrase anglaise suit généralement l'ordre sujet-verbe-complément ; les compléments de temps se placent souvent en fin de phrase.",
@@ -319,7 +319,7 @@ F.append(build(
         ("Nuance", ["Interprétation prudente", "Might, may", "to some extent"]))]))
 
 F.append(build(
-    L3, "Anglais", "AN4. · Oral et présentation en anglais", REF_AN,
+    L3, "Anglais", "LHAN4. · Oral et présentation en anglais", REF_AN,
     [
         "Une présentation orale en anglais suit une structure annoncée : introduction, deux ou trois points, conclusion.",
         "L'annonce du plan peut utiliser des formules simples : « I will first... then... finally... ».",
@@ -403,7 +403,7 @@ F.append(build(
         ("Parlé", ["Notes courtes", "Connecteurs oraux", "Dialogue avec le public"]))]))
 
 F.append(build(
-    L3, "Anglais", "AN5. · Histoire anglophone : Grande-Bretagne et États-Unis", REF_AN,
+    L3, "Anglais", "LHAN5. · Histoire anglophone : Grande-Bretagne et États-Unis", REF_AN,
     [
         "L'histoire anglophone offre un autre prisme sur les grandes périodes :Antiquité romaine, Moyen Âge féodal, époque moderne et contemporaine.",
         "La Grande-Bretagne est issue de l'union des couronnes (1603) et de l'Act of Union de 1707 entre l'Angleterre et l'Écosse.",
@@ -487,7 +487,7 @@ F.append(build(
         ("France", ["Révolution de 1789", "DDHC", "Industrialisation plus tardive"]))]))
 
 F.append(build(
-    L1, "Statistiques", "ST1. · Statistiques descriptives", REF_ST,
+    L1, "Statistiques", "LHST1. · Statistiques descriptives", REF_ST,
     [
         "La statistique descriptive résume un ensemble de données par des indicateurs, des tableaux et des graphiques, sans tirer de conclusions générales.",
         "Une population est l'ensemble étudié ; un échantillon en est une partie. On distingue les variables qualitatives et quantitatives.",
@@ -571,7 +571,7 @@ F.append(build(
         ("Médiane", ["Rang central", "Robuste", "Revenu typique"]))]))
 
 F.append(build(
-    L1, "Statistiques", "ST2. · Probabilités et événements", REF_ST,
+    L1, "Statistiques", "LHST2. · Probabilités et événements", REF_ST,
     [
         "Une probabilité mesure la vraisemblance d'un événement : elle est comprise entre 0 (impossible) et 1 (certain).",
         "Un univers décrit tous les résultats possibles d'une expérience aléatoire ; un événement est un sous-ensemble de cet univers.",
@@ -654,7 +654,7 @@ F.append(build(
         ("Preuve", ["Document et critique", "Source située", "Conclusion argumentée"]))]))
 
 F.append(build(
-    L2, "Statistiques", "ST3. · Échantillonnage et estimation", REF_ST,
+    L2, "Statistiques", "LHST3. · Échantillonnage et estimation", REF_ST,
     [
         "L'échantillonnage consiste à prélever une partie d'une population pour en estimer les caractéristiques.",
         "Une estimation ponctuelle donne une valeur unique (la moyenne d'échantillon) ; une estimation par intervalle donne une plage de valeurs plausible.",
@@ -737,7 +737,7 @@ F.append(build(
         ("Représentativité", ["Structure proche", "Tirage et stratification", "Indépendante de la taille"]))]))
 
 F.append(build(
-    L2, "Statistiques", "ST4. · Tests statistiques et décision", REF_ST,
+    L2, "Statistiques", "LHST4. · Tests statistiques et décision", REF_ST,
     [
         "Un test statistique permet de décider si les données observées sont compatibles avec une hypothèse de référence, appelée hypothèse nulle.",
         "L'hypothèse nulle H0 suppose l'absence d'effet ou de différence ; l'hypothèse alternative H1 propose l'existence d'un effet.",
@@ -821,13 +821,13 @@ F.append(build(
         ("Important", ["Ampleur de l'effet", "Portée historique", "Interprétation critique"]))]))
 
 F.append(build(
-    L3, "Statistiques", "ST5. · Corrélation et régression", REF_ST,
+    L3, "Statistiques", "LHST5. · Corrélation et régression", REF_ST,
     [
         "La corrélation mesure la force et le sens d'une relation entre deux variables quantitatives, indépendamment de l'échelle.",
         "Le coefficient de corrélation de Pearson varie entre −1 et +1 : il est positif si les variables augmentent ensemble, négatif si l'une augmente quand l'autre diminue.",
         "Une corrélation nulle ne signifie pas l'absence de toute relation : elle peut masquer une relation non linéaire.",
         "Une corrélation forte n'établit pas une causalité : une variable tierce peut expliquer les deux variables observées.",
-        "La régression linéaire modélise une variable réponse Y en fonction d'une variable explicative X : Y = aX + b + ε.",
+        "La régression linéaire modélise une variable réponse Y en fonction d'une variable explicative X : Y = aX + b + e.",
         "La méthode des moindres carrés choisit les coefficients a et b qui minimisent la somme des carrés des écarts entre valeurs observées et prédites.",
         "Le coefficient directeur a mesure la variation moyenne de Y pour une augmentation d'une unité de X ; son signe donne le sens de la relation.",
         "Le coefficient de détermination R² mesure la part de la variabilité de Y expliquée par le modèle linéaire.",
@@ -893,7 +893,7 @@ F.append(build(
      "<span class=\"cle\">R²</span> → part de variance expliquée.",
      "<span class=\"cle\">Résidus</span> → écarts à la droite, à examiner."],
     [SG("Lire une régression", ["Élément", "Formule", "Question"],
-        [["Pente a", "ΔY pour +1 de X", "Sens de la relation"],
+        [["Pente a", "Variation de Y pour +1 de X", "Sens de la relation"],
          ["R²", "Variance expliquée", "Ajustement"],
          ["Résidus", "Observé − prédit", "Erreurs du modèle"]]),
      SF("Analyser deux séries",
@@ -905,7 +905,7 @@ F.append(build(
         ("Causalité", ["Mécanisme établi", "Sources et théorie", "Chronologie et plausibilité"]))]))
 
 F.append(build(
-    L1, "Psychologie", "PSY1. · Introduction à la psychologie", REF_PSY,
+    L1, "Psychologie", "LHPSY1. · Introduction à la psychologie", REF_PSY,
     [
         "La psychologie étudie les comportements et les processus mentaux : perception, mémoire, émotion, raisonnement et interaction sociale.",
         "Elle est à la fois une science empirique, qui observe et mesure, et une discipline interprétative, qui donne du sens aux conduites.",
@@ -989,7 +989,7 @@ F.append(build(
         ("Histoire", ["Contextes singuliers", "Sources et archives", "Explication plurielle"]))]))
 
 F.append(build(
-    L1, "Psychologie", "PSY2. · Psychologie du développement", REF_PSY,
+    L1, "Psychologie", "LHPSY2. · Psychologie du développement", REF_PSY,
     [
         "La psychologie du développement étudie les transformations des capacités mentales et sociales de l'enfance à l'âge adulte.",
         "Piaget propose une théorie constructiviste : l'enfant construit des schèmes et passe par des stades sensori-moteur, préopératoire, opérations concrètes et formelles.",
@@ -1071,7 +1071,7 @@ F.append(build(
         ("Vygotski", ["Médiation sociale", "Langage", "Guidage par autrui"]))]))
 
 F.append(build(
-    L2, "Psychologie", "PSY3. · Psychologie sociale et mémoires collectives", REF_PSY,
+    L2, "Psychologie", "LHPSY3. · Psychologie sociale et mémoires collectives", REF_PSY,
     [
         "La psychologie sociale étudie comment les pensées, les sentiments et les comportements des individus sont influencés par les situations sociales.",
         "Le conformisme est la tendance à adopter l'avis du groupe ; les expériences de Asch ont montré l'effet de la majorité sur le jugement individuel.",
@@ -1154,7 +1154,7 @@ F.append(build(
         ("Obéissance", ["Consigne d'autorité", "Milgram", "Légitimité perçue"]))]))
 
 F.append(build(
-    L3, "Psychologie", "PSY4. · Psychologie cognitive et perception", REF_PSY,
+    L3, "Psychologie", "LHPSY4. · Psychologie cognitive et perception", REF_PSY,
     [
         "La psychologie cognitive étudie les processus par lesquels l'esprit perçoit, mémorise, comprend et produit des informations.",
         "La perception n'est pas un enregistrement passif : elle sélectionne et interprète les stimuli selon des attentes et des contextes.",
@@ -1237,7 +1237,7 @@ F.append(build(
         ("Récit", ["Formulation pour un public", "Sélection et ordre", "Source datée"]))]))
 
 F.append(build(
-    L3, "Psychologie", "PSY5. · Foules, conflits et guerre froide", REF_PSY,
+    L3, "Psychologie", "LHPSY5. · Foules, conflits et guerre froide", REF_PSY,
     [
         "La psychologie des foules étudie les comportements collectifs : contagion émotionnelle, suggestion, perte de contrôle individuel.",
         "Le concept de « foule » est historiquement daté : au XIXᵉ siècle, il est associé aux révolutions et à la question de l'ordre social.",
@@ -1320,7 +1320,7 @@ F.append(build(
         ("Contemporaine", ["Normes et organisations", "Hétérogénéité", "Approche empirique"]))]))
 
 F.append(build(
-    L1, "Maths / stats", "MS1. · Fonctions et variations", REF_MS,
+    L1, "Maths / stats", "LHMS1. · Fonctions et variations", REF_MS,
     [
         "Une fonction associe à chaque nombre x d'un ensemble de définition un unique nombre f(x), appelé image.",
         "Une fonction affine est de la forme f(x) = a·x + b : a est le coefficient directeur (pente) et b l'ordonnée à l'origine.",
@@ -1370,7 +1370,7 @@ F.append(build(
          "On exige le tracé par deux points et l'inversion du sens d'inégalité quand la pente est négative."),
     ],
     "Une fonction affine est une droite : la pente donne le sens de variation, l'ordonnée à l'origine donne le point de départ.",
-    "f(x) = a·x + b ; a = Δy / Δx",
+    "f(x) = a·x + b ; a = (yB − yA)/(xB − xA)",
     "Un modèle linéaire est une approximation : sa pertinence se vérifie sur les données et se discute avec l'histoire.",
     (["Élément", "Rôle", "Lecture"],
      [["a", "Pente", "Croissante si a > 0"],
@@ -1403,7 +1403,7 @@ F.append(build(
         ("a < 0", ["Droite descendante", "f décroissante", "Inéquation inversée"]))]))
 
 F.append(build(
-    L1, "Maths / stats", "MS2. · Pourcentages et proportionnalité", REF_MS,
+    L1, "Maths / stats", "LHMS2. · Pourcentages et proportionnalité", REF_MS,
     [
         "Un pourcentage est une fraction dont le dénominateur vaut 100 : 25 % signifie 25/100, soit 0,25.",
         "Calculer p % d'un nombre N revient à multiplier N par p/100 : p % de N = N × p/100.",
@@ -1486,7 +1486,7 @@ F.append(build(
         ("Taux", ["Évolution entre deux dates", "Dénominateur = valeur initiale", "ex. +25 %"]))]))
 
 F.append(build(
-    L2, "Maths / stats", "MS3. · Séries chronologiques", REF_MS,
+    L2, "Maths / stats", "LHMS3. · Séries chronologiques", REF_MS,
     [
         "Une série chronologique est une suite de valeurs relevées à des dates successives : population, prix, production, condamnations.",
         "On représente une série par une courbe : le temps en abscisse, la valeur en ordonnée, avec des unités et une source indiquées.",
@@ -1569,7 +1569,7 @@ F.append(build(
         ("Fluctuation", ["Court terme", "À-coups annuels", "Crises et événements"]))]))
 
 F.append(build(
-    L3, "Maths / stats", "MS4. · Probabilités et dénombrement", REF_MS,
+    L3, "Maths / stats", "LHMS4. · Probabilités et dénombrement", REF_MS,
     [
         "Le dénombrement consiste à compter les résultats possibles d'une expérience avant de calculer une probabilité.",
         "Le principe multiplicatif s'applique lorsqu'une opération comporte plusieurs étapes indépendantes : on multiplie le nombre de choix à chaque étape.",
@@ -1580,7 +1580,7 @@ F.append(build(
         "La probabilité d'un événement dans un univers fini équiprobable est le nombre de cas favorables divisé par le nombre total de cas.",
         "Les probabilités conditionnelles se calculent en restreignant l'univers aux cas où l'événement conditionnant est réalisé.",
         "La formule de Bayes relie P(A|B) et P(B|A) : elle permet de réviser une croyance à la lumière d'une nouvelle information.",
-        "L'historien utilise le dénombrement pour vérifier la vraisemblance d'une reconstitution : nombre de documents par an, combinaisons de datons, tirages de témoins.",
+        "L'historien utilise le dénombrement pour vérifier la vraisemblance d'une reconstitution : nombre de documents par an, combinaisons de datations, tirages de témoins.",
         "Un décompte repose sur des hypothèses (équiprobabilité, indépendance) qui doivent être explicites : en histoire, elles sont rarement garanties.",
         "Un résultat combinatoire ne remplace pas la critique des sources : il structure le raisonnement sur les cas possibles.",
     ],
@@ -1652,10 +1652,10 @@ F.append(build(
         ("Combinaison", ["L'ordre importe peu", "C(n,p)", "Choisir un groupe"]))]))
 
 F.append(build(
-    L3, "Maths / stats", "MS5. · Régression linéaire et ajustement", REF_MS,
+    L3, "Maths / stats", "LHMS5. · Régression linéaire et ajustement", REF_MS,
     [
         "La régression linéaire recherche la droite qui résume au mieux une relation entre deux variables quantitatives.",
-        "Le modèle s'écrit Y = aX + b + ε : a est la pente, b l'ordonnée à l'origine et ε l'erreur aléatoire (résidu).",
+        "Le modèle s'écrit Y = aX + b + e : a est la pente, b l'ordonnée à l'origine et e l'erreur aléatoire (résidu).",
         "La méthode des moindres carrés détermine a et b en minimisant la somme des carrés des résidus.",
         "Les formules des estimateurs sont a = Cov(X,Y)/Var(X) et b = moyenne(Y) − a × moyenne(X).",
         "La pente a s'interprète comme la variation moyenne de Y associée à une augmentation d'une unité de X.",
@@ -1670,7 +1670,7 @@ F.append(build(
     [
         ("Quel est le principe de la méthode des moindres carrés ?",
          ["Maximiser la pente", "Minimiser la somme des carrés des résidus", "Supprimer les outliers sans raison", "Égaliser X et Y"], 1,
-         "Les estimateurs a et b minimisent Σ(Yobservé − Yprédit)², c'est-à-dire la somme des carrés des écarts."),
+         "Les estimateurs a et b minimisent Somme des carrés (Yobservé − Yprédit)², c'est-à-dire la somme des carrés des écarts."),
         ("Comment interpréter une pente a = 2,5 ?",
          ["Y augmente de 2,5 en moyenne quand X augmente de 1", "X vaut 2,5", "L'erreur vaut 2,5", "Y vaut toujours 2,5"], 0,
          "La pente mesure la variation moyenne de la variable réponse pour une augmentation d'une unité de la variable explicative."),
@@ -1681,7 +1681,7 @@ F.append(build(
          ["Un camembert", "Le nuage de points", "Une frise chronologique", "Un tableau de fréquences"], 1,
          "Le nuage révèle la forme de la relation, les groupes et les points aberrants : il guide le choix du modèle."),
         ("Que révèle une structure dans les résidus ?",
-         ["Un ajustement parfait", "Une forme non linéaire ou une variable omission", "Une erreur de calcul de la moyenne", "L'absence de données"], 1,
+         ["Un ajustement parfait", "Une forme non linéaire ou une variable omise", "Une erreur de calcul de la moyenne", "L'absence de données"], 1,
          "Si les résidus ne sont pas dispersés aléatoirement, le modèle linéaire est insuffisant ou une variable est manquante."),
         ("Une régression établit-elle une causalité ?",
          ["Oui, toujours", "Non, elle décrit une association à interpréter", "Oui, si R² est élevé", "Non, seulement si la pente est négative"], 1,
@@ -1702,7 +1702,7 @@ F.append(build(
          "On valorise la vérification, la transparence et l'interprétation historique de l'écart."),
     ],
     "La régression décrit une association par une droite : sa validité se vérifie sur le nuage et les résidus.",
-    "Y = aX + b + ε ; a = Cov(X,Y)/Var(X)",
+    "Y = aX + b + e ; a = Cov(X,Y)/Var(X)",
     "Un modèle linéaire est un outil de description, pas une preuve de causalité ni un outil de prédiction sans limite.",
     (["Élément", "Formule", "Lecture"],
      [["Pente a", "Cov/Var", "Variation de Y par unité de X"],

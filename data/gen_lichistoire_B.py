@@ -67,7 +67,7 @@ F = []
 # =====================================================================
 
 F.append(build(
-    L1, "Droit", "DR1. · L'État et les institutions en France", REF_D,
+    L1, "Droit", "LHDR1. · L'État et les institutions en France", REF_D,
     [
         "L'État est une personne morale de droit public qui dispose d'un territoire, d'une population et d'une souveraineté ; l'historien étudie ses formes successives.",
         "La monarchie absolue reposait sur le roi, détenteur du pouvoir ; la Révolution de 1789 instaure une monarchie constitutionnelle puis la République en 1792.",
@@ -153,7 +153,7 @@ F.append(build(
         ("Vᵉ République", ["Président élu", "Gouvernement nommé", "Stabilité relative"]))]))
 
 F.append(build(
-    L1, "Droit", "DR2. · Personnes, citoyenneté et droits fondamentaux", REF_D,
+    L1, "Droit", "LHDR2. · Personnes, citoyenneté et droits fondamentaux", REF_D,
     [
         "La personnalité juridique est l'aptitude à être titulaire de droits et de devoirs ; elle est reconnue à la personne physique dès sa naissance.",
         "La Déclaration des droits de l'homme et du citoyen de 1789 énonce des droits imprescriptibles : liberté, propriété, sûreté et résistance à l'oppression.",
@@ -236,7 +236,7 @@ F.append(build(
         ("Exercice", ["Conditions réelles", "Cens, sexe, nationalité", "Pratiques datées"]))]))
 
 F.append(build(
-    L1, "Droit", "DR3. · Propriété, biens et patrimoine historique", REF_D,
+    L1, "Droit", "LHDR3. · Propriété, biens et patrimoine historique", REF_D,
     [
         "La propriété est le droit de jouir et de disposer d'une chose de la manière la plus absolue, pourvu qu'on n'en fasse pas un usage prohibé (art. 544 du Code civil).",
         "Les trois attributs du propriétaire sont l'usus (usage), le fructus (jouissance des fruits) et l'abusus (pouvoir de disposition).",
@@ -318,7 +318,7 @@ F.append(build(
         ("Possession", ["Situation de fait", "Protection possessoire", "Prescription"]))]))
 
 F.append(build(
-    L2, "Droit", "DR4. · Droit pénal, sanctions et histoire de la justice", REF_D,
+    L2, "Droit", "LHDR4. · Droit pénal, sanctions et histoire de la justice", REF_D,
     [
         "Le droit pénal définit les infractions et les sanctions : il protège l'ordre public et les personnes par la contrainte étatique.",
         "La loi pénale est d'application stricte : nul ne peut être condamné pour un fait qui n'était pas prévu comme délit au moment où il a été commis.",
@@ -402,7 +402,7 @@ F.append(build(
         ("Pratique", ["Dossiers et registres", "Application inégale", "Indices sociaux"]))]))
 
 F.append(build(
-    L2, "Droit", "DR5. · Droit du travail et relations sociales", REF_D,
+    L2, "Droit", "LHDR5. · Droit du travail et relations sociales", REF_D,
     [
         "Le contrat de travail est un accord par lequel une personne s'engage à travailler sous la direction d'un employeur, en échange d'une rémunération.",
         "La subordination est le critère central : elle distingue le salarié du travailleur indépendant et justifie le pouvoir de direction de l'employeur.",
@@ -486,7 +486,7 @@ F.append(build(
         ("Réalité", ["Pratiques d'atelier", "Inégalités d'application", "Témoignages"]))]))
 
 F.append(build(
-    L3, "Droit", "DR6. · Droit européen et droit international", REF_D,
+    L3, "Droit", "LHDR6. · Droit européen et droit international", REF_D,
     [
         "Le droit international public régit les relations entre États et organisations internationales ; ses sources sont les traités, la coutume et les principes généraux.",
         "La Paix de Westphalie (1648) pose le principe de la souveraineté des États, fondement de l'ordre international moderne.",
@@ -569,7 +569,7 @@ F.append(build(
         ("UE", ["1951-1992", "Intégration régionale", "Marché unique et droit propre"]))]))
 
 F.append(build(
-    L3, "Droit", "DR7. · Droit de la culture, des archives et du patrimoine", REF_D,
+    L3, "Droit", "LHDR7. · Droit de la culture, des archives et du patrimoine", REF_D,
     [
         "Le droit de la culture organise la protection des biens culturels, l'accès du public et la conservation de la mémoire collective.",
         "La loi du 13 janvier 1791 reconnaît aux auteurs un droit de propriété sur leurs œuvres ; la loi du 19 juillet 1793 étend ce droit aux héritiers.",
@@ -653,7 +653,7 @@ F.append(build(
         ("Immatériel", ["Savoirs et pratiques", "UNESCO 2003", "Transmission vivante"]))]))
 
 F.append(build(
-    L1, "Économie", "EC1. · Offre, demande et prix de marché", REF_E,
+    L1, "Économie", "LHEC1. · Offre, demande et prix de marché", REF_E,
     [
         "La demande représente les quantités que les consommateurs souhaitent acheter à différents prix ; elle varie en sens inverse du prix.",
         "L'offre représente les quantités que les producteurs sont prêts à vendre à différents prix ; elle varie dans le même sens que le prix.",
@@ -736,7 +736,7 @@ F.append(build(
         ("Souple", ["Bien de luxe", "Substituts nombreux", "ex. bijou"]))]))
 
 F.append(build(
-    L1, "Économie", "EC2. · PIB et comptes nationaux", REF_E,
+    L1, "Économie", "LHEC2. · PIB et comptes nationaux", REF_E,
     [
         "Le produit intérieur brut (PIB) mesure la valeur ajoutée créée sur le territoire national pendant une période, généralement un an.",
         "La valeur ajoutée est la différence entre la valeur de la production et la valeur des consommations intermédiaires utilisées pour la produire.",
@@ -789,7 +789,7 @@ F.append(build(
     "Valeur ajoutée = production − consommations intermédiaires",
     "Un agrégat statistique ne remplace pas les sources : il doit être daté, défini et croisé.",
     (["Optique", "Formule", "Usage"],
-     [["Production", "Σ valeurs ajoutées", "Secteurs"],
+     [["Production", "Somme des valeurs ajoutées", "Secteurs"],
       ["Demande", "C + I + G + X − M", "Composantes"],
       ["Revenus", "Salaires + profits", "Répartition primaire"]]),
     ["Vérifier la définition et la base de la série utilisée.",
@@ -807,7 +807,7 @@ F.append(build(
      "<span class=\"cle\">SEC 2010</span> → cadre européen des comptes.",
      "<span class=\"cle\">Valeur ajoutée</span> → production moins intrants."],
     [SG("Trois regards sur le PIB", ["Optique", "Formule", "Question"],
-        [["Production", "Σ VA", "Qui produit ?"],
+        [["Production", "Somme VA", "Qui produit ?"],
          ["Demande", "C+I+G+X-M", "Qui achète ?"],
          ["Revenus", "Salaires + profits", "Qui gagne ?"]]),
      SF("Construire un indicateur",
@@ -818,7 +818,7 @@ F.append(build(
         ("Réel", ["Volumes déflatés", "Comparaison dans le temps", "Base commune"]))]))
 
 F.append(build(
-    L1, "Économie", "EC3. · Monnaie, prix et inflation", REF_E,
+    L1, "Économie", "LHEC3. · Monnaie, prix et inflation", REF_E,
     [
         "La monnaie est un bien généralement accepté pour régler des transactions : elle sert d'intermédiaire d'échange, d'unité de compte et de réserve de valeur.",
         "Les monnaies métalliques (or, argent, cuivre) ont longtemps servi de référence ; le bimétallisme et l'étalon-or ont structuré le XIXᵉ siècle.",
@@ -901,7 +901,7 @@ F.append(build(
         ("Déflation", ["Prix en baisse", "Dette réelle plus lourde", "Années 1930"]))]))
 
 F.append(build(
-    L2, "Économie", "EC4. · Chômage et marché du travail", REF_E,
+    L2, "Économie", "LHEC4. · Chômage et marché du travail", REF_E,
     [
         "Le chômage désigne la situation de personnes privées d'emploi, disponibles pour travailler et à la recherche d'un emploi.",
         "Le taux de chômage rapporte le nombre de chômeurs à la population active (actifs occupés + chômeurs), selon les critères de l'INSEE et du BIT.",
@@ -984,7 +984,7 @@ F.append(build(
         ("Longue durée", ["Plus d'un an", "Risque d'exclusion", "Indemnisation décroissante"]))]))
 
 F.append(build(
-    L2, "Économie", "EC5. · Commerce international et mondialisation", REF_E,
+    L2, "Économie", "LHEC5. · Commerce international et mondialisation", REF_E,
     [
         "Le commerce international est l'ensemble des échanges de biens et de services entre pays ; il s'intensifie avec la baisse des coûts de transport.",
         "L'avantage absolu (Adam Smith, 1776) explique le commerce par la spécialisation dans la production où un pays est le plus efficace.",
@@ -1067,7 +1067,7 @@ F.append(build(
         ("Colonie", ["Matières premières", "Marché captif", "Asymétrie des flux"]))]))
 
 F.append(build(
-    L3, "Économie", "EC6. · Croissance et révolution industrielle", REF_E,
+    L3, "Économie", "LHEC6. · Croissance et révolution industrielle", REF_E,
     [
         "La croissance économique est l'augmentation durable de la production d'un pays, mesurée par le PIB réel ou par habitant.",
         "La révolution industrielle désigne la transition d'une économie agraire et artisanale vers une économie de machines, d'usines et de salariat, commencée en Angleterre au XVIIIᵉ siècle.",
@@ -1148,7 +1148,7 @@ F.append(build(
         ("Intensive", ["Plus de productivité", "Innovation diffuse", "Après 1945"]))]))
 
 F.append(build(
-    L3, "Économie", "EC7. · Finances publiques, budget et fiscalité", REF_E,
+    L3, "Économie", "LHEC7. · Finances publiques, budget et fiscalité", REF_E,
     [
         "Les finances publiques désignent l'ensemble des recettes et des dépenses de l'État, des collectivités et de la sécurité sociale.",
         "Le budget de l'État est voté chaque année par le Parlement ; il prévoit les recettes (impôts, contributions) et les dépenses (fonctions publiques, investissements).",
@@ -1231,7 +1231,7 @@ F.append(build(
         ("Indirect", ["Inclus dans le prix", "TVA 1954", "Frappe la consommation"]))]))
 
 F.append(build(
-    L1, "Informatique", "IN1. · Outils numériques pour l'historien", REF_I,
+    L1, "Informatique", "LHIN1. · Outils numériques pour l'historien", REF_I,
     [
         "Un environnement numérique de travail organise les fichiers, les notes et les outils utilisés pour la recherche historique.",
         "Le traitement de texte sert à rédiger, mais aussi à structurer : styles de titre, notes de bas de page, table des matières et bibliographie.",
@@ -1318,7 +1318,7 @@ F.append(build(
         ("Fermé", ["Format propriétaire", "Dépendance au logiciel", "Migration nécessaire"]))]))
 
 F.append(build(
-    L1, "Informatique", "IN2. · Bases de données et catalogues documentaires", REF_I,
+    L1, "Informatique", "LHIN2. · Bases de données et catalogues documentaires", REF_I,
     [
         "Une base de données est un ensemble structuré d'informations, organisé en tables et interrogeable par des requêtes.",
         "Dans une base relationnelle, une table est composée de lignes (enregistrements) et de colonnes (champs) ; une clé primaire identifie chaque ligne de façon unique.",
@@ -1405,7 +1405,7 @@ F.append(build(
         ("Base de documents", ["Textes numérisés", "Gallica, Persée", "Recherche dans le contenu"]))]))
 
 F.append(build(
-    L2, "Informatique", "IN3. · SIG et cartographie historique", REF_I,
+    L2, "Informatique", "LHIN3. · SIG et cartographie historique", REF_I,
     [
         "Un système d'information géographique (SIG) permet de saisir, stocker, analyser et représenter des données localisées.",
         "Une donnée vectorielle est décrite par des points, des lignes ou des polygones ; une donnée raster est une image quadrillée en pixels.",
@@ -1488,7 +1488,7 @@ F.append(build(
         ("Raster", ["Grille de pixels", "Image numérisée", "ex. carte ancienne"]))]))
 
 F.append(build(
-    L2, "Informatique", "IN4. · Archives numériques et pérennité des sources", REF_I,
+    L2, "Informatique", "LHIN4. · Archives numériques et pérennité des sources", REF_I,
     [
         "Une archive numérique est un document numérique conservé avec les métadonnées et le contexte nécessaires à sa compréhension et à sa réutilisation.",
         "La numérisation convertit un document analogique en image ou en texte : elle produit une representation, pas l'original, et doit être documentée.",
@@ -1572,7 +1572,7 @@ F.append(build(
         ("Natif", ["Site, courriel, base", "Contexte fragile", "Capture à documenter"]))]))
 
 F.append(build(
-    L3, "Informatique", "IN5. · Visualisation des données historiques", REF_I,
+    L3, "Informatique", "LHIN5. · Visualisation des données historiques", REF_I,
     [
         "La visualisation de données transforme des valeurs en graphiques pour rendre visibles des structures, des tendances et des écarts.",
         "Un graphique adapté dépend du type de donnée : série temporelle (courbe), répartition (histogramme), composition (camembert), relation (nuage de points).",
@@ -1656,7 +1656,7 @@ F.append(build(
         ("Médiane", ["Valeur centrale", "Robuste", "À compléter par la dispersion"]))]))
 
 F.append(build(
-    L3, "Informatique", "IN6. · Veille documentaire et historiographie en ligne", REF_I,
+    L3, "Informatique", "LHIN6. · Veille documentaire et historiographie en ligne", REF_I,
     [
         "La veille documentaire est un processus régulier de collecte, de tri et d'analyse des publications utiles à une recherche.",
         "Elle porte sur les nouvelles publications (monographies, articles, thèses), les synthèses, les comptes rendus et les sources numérisées.",

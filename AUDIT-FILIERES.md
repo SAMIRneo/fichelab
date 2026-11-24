@@ -6,12 +6,12 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 
 | Controle | Valeur | Attendu |
 |---|---|---|
-| Catalogue EXTRA_FICHES | 1827 | lisible |
-| Fiches prototype | 1650 | = 96 BIOALC + nouvelles |
+| Catalogue EXTRA_FICHES | 1873 | lisible |
+| Fiches prototype | 1710 | = 96 BIOALC + nouvelles |
 | Annales bibliotheque | 60 | lisible |
-| Filieres converties | 26 | bts-bio, bts-cg, bts-ci, bts-ciel, bts-gpme, bts-mco, bts-ndrc, bts-sio, but-gea, but-info, but-tc, commerce, cpge-ecg, cpge-mpsi, cpge-pci, generale, infirmier, lic-droit, lic-eco, lic-info, lic-lea, lic-maths, lic-psycho, lic-staps, lic-svt, pass |
-| Questions prototype | 15316 | toutes corrigees |
-| Schemas SVG | 4914 | XML valide, sans script |
+| Filieres converties | 27 | bts-bio, bts-cg, bts-ci, bts-ciel, bts-gpme, bts-mco, bts-ndrc, bts-sio, but-gea, but-info, but-tc, commerce, cpge-ecg, cpge-mpsi, cpge-pci, generale, infirmier, lic-droit, lic-eco, lic-histoire, lic-info, lic-lea, lic-maths, lic-psycho, lic-staps, lic-svt, pass |
+| Questions prototype | 15856 | toutes corrigees |
+| Schemas SVG | 5094 | XML valide, sans script |
 | Ordre des 7 blocs | 1 | variantes (doit etre 1) |
 | Titles uniques | 0 | doublons (doit etre 0) |
 | Vrais examens filtres | 12 | bts-bio uniquement |
@@ -40,6 +40,7 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 **infirmier** : 62 prototypes (IFSI1:26, IFSI2:25, IFSI3:11)
 **lic-droit** : 60 prototypes (L1:20, L2:25, L3:15)
 **lic-eco** : 60 prototypes (L1:22, L2:24, L3:14)
+**lic-histoire** : 60 prototypes (L1:23, L2:18, L3:19)
 **lic-info** : 60 prototypes (L1:24, L2:35, L3:19)
 **lic-lea** : 60 prototypes (L1:26, L2:38, L3:19)
 **lic-maths** : 60 prototypes (L1:25, L2:30, L3:14)
@@ -57,9 +58,9 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 ## Verifications
 
 - Syntaxe JavaScript : **OK**
-- Schemas SVG : 4914, tous analysables en XML et sans script/on*/javascript:
-- Blocs d'affichage : 1650 fiche(s), ordre strict identique
-- Questions : 15316, toutes avec correction
+- Schemas SVG : 5094, tous analysables en XML et sans script/on*/javascript:
+- Blocs d'affichage : 1710 fiche(s), ordre strict identique
+- Questions : 15856, toutes avec correction
 - Migrations : filtre prototype + nettoyage + ajout automatique generalises
 
 ## Problemes detectes
