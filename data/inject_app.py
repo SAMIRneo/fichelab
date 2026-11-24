@@ -31,7 +31,7 @@ def _filieres_nouvelles():
 
 
 # Si non vide, seules ces filieres sont integrees (utile quand d'autres equipes ecrivent encore).
-FILIERES_A_INTEGRER = ["generale", "bts-mco", "pass", "lic-droit", "infirmier", "but-tc", "cpge-mpsi", "bts-ndrc", "lic-staps", "but-gea", "lic-eco", "cpge-pci", "lic-psycho", "bts-ci", "but-info", "lic-maths", "bts-sio", "bts-ciel", "bts-gpme", "bts-cg", "lic-info", "lic-svt", "lic-lea"]
+FILIERES_A_INTEGRER = ["generale", "bts-mco", "pass", "lic-droit", "infirmier", "but-tc", "cpge-mpsi", "bts-ndrc", "lic-staps", "but-gea", "lic-eco", "cpge-pci", "lic-psycho", "bts-ci", "but-info", "lic-maths", "bts-sio", "bts-ciel", "bts-gpme", "bts-cg", "lic-info", "lic-svt", "lic-lea", "commerce"]
 
 PROTO_FILIERES = (sorted({"bts-bio"} | set(FILIERES_A_INTEGRER))
                   if FILIERES_A_INTEGRER else _filieres_nouvelles())

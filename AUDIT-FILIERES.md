@@ -6,12 +6,12 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 
 | Controle | Valeur | Attendu |
 |---|---|---|
-| Catalogue EXTRA_FICHES | 1724 | lisible |
-| Fiches prototype | 1534 | = 96 BIOALC + nouvelles |
+| Catalogue EXTRA_FICHES | 1778 | lisible |
+| Fiches prototype | 1594 | = 96 BIOALC + nouvelles |
 | Annales bibliotheque | 60 | lisible |
-| Filieres converties | 24 | bts-bio, bts-cg, bts-ci, bts-ciel, bts-gpme, bts-mco, bts-ndrc, bts-sio, but-gea, but-info, but-tc, cpge-mpsi, cpge-pci, generale, infirmier, lic-droit, lic-eco, lic-info, lic-lea, lic-maths, lic-psycho, lic-staps, lic-svt, pass |
-| Questions prototype | 14212 | toutes corrigees |
-| Schemas SVG | 4566 | XML valide, sans script |
+| Filieres converties | 25 | bts-bio, bts-cg, bts-ci, bts-ciel, bts-gpme, bts-mco, bts-ndrc, bts-sio, but-gea, but-info, but-tc, commerce, cpge-mpsi, cpge-pci, generale, infirmier, lic-droit, lic-eco, lic-info, lic-lea, lic-maths, lic-psycho, lic-staps, lic-svt, pass |
+| Questions prototype | 14812 | toutes corrigees |
+| Schemas SVG | 4746 | XML valide, sans script |
 | Ordre des 7 blocs | 1 | variantes (doit etre 1) |
 | Titles uniques | 0 | doublons (doit etre 0) |
 | Vrais examens filtres | 12 | bts-bio uniquement |
@@ -32,6 +32,7 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 **but-gea** : 60 prototypes (BUT1:22, BUT2:22, BUT3:16)
 **but-info** : 60 prototypes (BUT1:30, BUT2:54, BUT3:28)
 **but-tc** : 50 prototypes (BUT1:19, BUT2:30, BUT3:16)
+**commerce** : 60 prototypes (Bac+1:20, Bac+2:24, Bac+3:16)
 **cpge-mpsi** : 56 prototypes (1re:28, 2e:28)
 **cpge-pci** : 56 prototypes (1re:28, 2e:28)
 **generale** : 95 prototypes (1re:46, 2nde:29, Terminale:42)
@@ -55,9 +56,9 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 ## Verifications
 
 - Syntaxe JavaScript : **OK**
-- Schemas SVG : 4566, tous analysables en XML et sans script/on*/javascript:
-- Blocs d'affichage : 1534 fiche(s), ordre strict identique
-- Questions : 14212, toutes avec correction
+- Schemas SVG : 4746, tous analysables en XML et sans script/on*/javascript:
+- Blocs d'affichage : 1594 fiche(s), ordre strict identique
+- Questions : 14812, toutes avec correction
 - Migrations : filtre prototype + nettoyage + ajout automatique generalises
 
 ## Problemes detectes
