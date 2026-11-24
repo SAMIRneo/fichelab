@@ -428,7 +428,7 @@
         },
         {
           "titre": "2 · Instruire la question",
-          "svg": "<svg viewBox=\"0 0 660 116\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : 2 · Instruire la question\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Instruire la question</text><defs><marker id=\"fl44081\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"114\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"73.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Définir les</text><text x=\"73.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">termes</text><text x=\"73.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"131\" y1=\"75\" x2=\"143\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl44081)\"/><rect x=\"144\" y=\"52\" width=\"114\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"201.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Exposer le</text><text x=\"201.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">déterminisme</text><text x=\"201.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"259\" y1=\"75\" x2=\"271\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl44081)\"/><rect x=\"272\" y=\"52\" width=\"114\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"329.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Présenter une</text><text x=\"329.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">objection</text><text x=\"329.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"387\" y1=\"75\" x2=\"399\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl44081)\"/><rect x=\"400\" y=\"52\" width=\"114\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"457.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Tester la</text><text x=\"457.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">responsabilité</text><text x=\"457.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"515\" y1=\"75\" x2=\"527\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl44081)\"/><rect x=\"528\" y=\"52\" width=\"114\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"585.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Conclure avec</text><text x=\"585.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">nuance</text><text x=\"585.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text></svg>"
+          "svg": "<svg viewBox=\"0 0 660 116\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : 2 · Instruire la question\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Instruire la question</text><defs><marker id=\"fl98502\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"114\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"73.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Définir les</text><text x=\"73.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">termes</text><text x=\"73.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"131\" y1=\"75\" x2=\"143\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl98502)\"/><rect x=\"144\" y=\"52\" width=\"114\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"201.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Exposer le</text><text x=\"201.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">déterminisme</text><text x=\"201.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"259\" y1=\"75\" x2=\"271\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl98502)\"/><rect x=\"272\" y=\"52\" width=\"114\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"329.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Présenter une</text><text x=\"329.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">objection</text><text x=\"329.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"387\" y1=\"75\" x2=\"399\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl98502)\"/><rect x=\"400\" y=\"52\" width=\"114\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"457.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Tester la</text><text x=\"457.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">responsabilité</text><text x=\"457.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"515\" y1=\"75\" x2=\"527\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl98502)\"/><rect x=\"528\" y=\"52\" width=\"114\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"585.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Conclure avec</text><text x=\"585.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">nuance</text><text x=\"585.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text></svg>"
         },
         {
           "titre": "3 · Déterminisme / liberté",
@@ -2202,6 +2202,2206 @@
         {
           "titre": "3 · Les outils de l'argument",
           "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"3 · Les outils de l'argument\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Les outils de l'argument</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Outil</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Rôle</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Exemple</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Argument</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Soutenir une thèse</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Raison universelle</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Exemple</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Illustrer et tester</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Cas concret</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Objection</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mettre en difficulté</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Limite de la thèse</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Français",
+      "titre": "FR1. · Littérature et civilisation du XIXᵉ siècle",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : romantisme, realisme, naturalisme, symbolisme, Hugo, Balzac, Flaubert, Zola, Baudelaire, Mallarme, XIXe siecle",
+      "points": [
+        "Le XIXᵉ siècle littéraire traverse plusieurs courants : romantisme, réalisme, naturalisme, symbolisme et décadisme.",
+        "Le romantisme (Chateaubriand, Hugo, Lamartine) privilégie le sentiment, l'imagination, la nature et le culte du moi.",
+        "Le romantisme répond à la Rationalité des Lumières et à la déception historique qui suit la Révolution française et l'Empire.",
+        "Le personnage romantique est souvent un être déchiré, exilé ou révolté : c'est le type du « héros romantique ».",
+        "Le réalisme (Balzac, Flaubert, Stendhal) s'efforce de peindre la société telle qu'elle est, dans ses milieux et ses moeurs.",
+        "Balzac construit la Comédie humaine comme un ensemble de romans reliés par le retour des personnages et une volonté de totalisation sociale.",
+        "Flaubert poursuit une écriture impersonnelle : le style doit être une transparence au réel, sans commentaire de l'auteur.",
+        "Le naturalisme (Zola) applique au roman les méthodes de la science : hérédité, milieu, déterminisme social et expérimentation.",
+        "Le symbolisme (Baudelaire, Rimbaud, Verlaine, Mallarmé) cherche à suggérer plutôt qu'à dire, par l'image, le rythme et la musique du vers.",
+        "Les Fleurs du mal de Baudelaire font de la poésie une lutte entre idéal et spleen, beauté et corruption.",
+        "Rimbaud et Verlaine renouvellent le vers par la « voyance » et la recherche d'une langue hors des cadres académiques.",
+        "L'étude littéraire du XIXᵉ siècle doit toujours relier l'œuvre à son contexte historique : révolutions, industrialisation, question sociale."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel courant privilégie le sentiment et le culte du moi ?",
+          "options": [
+            "Le classicisme",
+            "Le romantisme",
+            "Le naturalisme",
+            "Le symbolisme"
+          ],
+          "correct": 1,
+          "correction": "Le romantisme s'oppose au rationalisme classique par le primat du sentiment et de l'individualité."
+        },
+        {
+          "type": "qcm",
+          "q": "Qui a écrit la Comédie humaine ?",
+          "options": [
+            "Flaubert",
+            "Zola",
+            "Balzac",
+            "Hugo"
+          ],
+          "correct": 2,
+          "correction": "Balzac organise son ensemble romanesque autour du retour des personnages et d'une ambition de peindre la société entière."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la visée du naturalisme ?",
+          "options": [
+            "Idéaliser la nature",
+            "Appliquer des méthodes scientifiques au roman",
+            "Nier la société",
+            "Écrire sans personnages"
+          ],
+          "correct": 1,
+          "correction": "Zola théorise le roman expérimental : le romancier étudie l'influence du milieu et de l'hérédité."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel recueil est associé à Baudelaire ?",
+          "options": [
+            "Les Fleurs du mal",
+            "Le Rouge et le Noir",
+            "Madame Bovary",
+            "Les Misérables"
+          ],
+          "correct": 0,
+          "correction": "Les Fleurs du mal (1857) est le recueil majeur de Baudelaire, condamné pour outrage aux moeurs."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'inventorie le symbolisme ?",
+          "options": [
+            "La description documentaire",
+            "La suggestion et la musique du vers",
+            "Le vers régulier seul",
+            "Le roman policier"
+          ],
+          "correct": 1,
+          "correction": "Mallarmé et ses contemporains veulent suggérer l'ineffable plutôt que décrire le réel."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le trait du héros romantique ?",
+          "options": [
+            "Il est parfaitement intégré",
+            "Il est déchiré et souvent exilé",
+            "Il est paysan",
+            "Il est indifférent"
+          ],
+          "correct": 1,
+          "correction": "Le héros romantique est un être de désaccord avec le monde, souvent solitaire et révolté."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce que l'écriture impersonnelle chez Flaubert ?",
+          "options": [
+            "L'auteur commente ses personnages",
+            "L'auteur s'efface devant le réel",
+            "Le narrateur est un personnage",
+            "L'oeuvre est autobiographique"
+          ],
+          "correct": 1,
+          "correction": "Flaubert veut que le style soit un moyen de voir, sans intervention personnelle du romancier."
+        },
+        {
+          "type": "texte",
+          "q": "Comment le romantisme répond-il à la philosophie des Lumières ?",
+          "reponse": "Les Lumières avaient misé sur la raison, le progrès et l'universalité. Après la Révolution et les guerres napoléoniennes, de nombreux écrivains éprouvent une déception : la raison ne garantit ni le bonheur ni l'ordre. Le romantisme réagit en valorisant le sentiment, l'imagination, la nature et l'expérience individuelle. Il ne rejette pas la pensée, il conteste sa prétention à épuiser le réel et réhabilite la part d'ombre et de rêve de l'existence.",
+          "correction": "On oppose le rationalisme des Lumières et le primat du sentiment chez les romantiques, en situant le changement historique."
+        },
+        {
+          "type": "texte",
+          "q": "Distinguer réalisme et naturalisme avec un exemple d'auteur pour chacun.",
+          "reponse": "Le réalisme (Balzac, Flaubert, Stendhal) observe et peint la société de son temps : les milieux, les moeurs, les rapports d'argent et d'ambition, avec une volonté de vérité sociale. Le naturalisme (Zola) va plus loin en se réclamant de la science : il explique les caractères par l'hérédité et le milieu, et conçoit le roman comme une expérimentation. Ainsi, dans Germinal, Zola étudie la mine et la condition ouvrière comme un organisme soumis à des lois, tandis que Flaubert dans Madame Bovary se contente de montrer, sans thèse scientifique, la désolation d'une vie provinciale.",
+          "correction": "On opposera la visée de peinture sociale au projet explicatif et déterministe, avec des exemples d'oeuvres."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "Un siècle de courants qui se répondent : le romantisme invente le moi, le réalisme le situe, le symbolisme le dérobe."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "Romantisme → réalisme → naturalisme → symbolisme",
+          "leg": "Romantisme · réalisme · naturalisme · symbolisme · comédie humaine · spleen · écriture impersonnelle"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Courant",
+              "Auteurs",
+              "Visée"
+            ],
+            [
+              "Romantisme",
+              "Hugo, Lamartine",
+              "Sentiment et révolte"
+            ],
+            [
+              "Réalisme",
+              "Balzac, Flaubert",
+              "Peindre la société"
+            ],
+            [
+              "Naturalisme",
+              "Zola",
+              "Expliquer par le milieu"
+            ],
+            [
+              "Symbolisme",
+              "Baudelaire, Mallarmé",
+              "Suggérer l'ineffable"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "Un courant littéraire n'est pas une école fermée : les auteurs se croisent.",
+            "Le réalisme n'est pas une simple copie : il construit un effet de réel.",
+            "Le symbolisme préfère la suggestion à la démonstration.",
+            "Toujours relier le courant à son contexte historique."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Situer le courant dans le siècle.",
+            "Citer deux auteurs et une œuvre.",
+            "Définir le principe esthétique dominant.",
+            "Comparer avec le courant précédent.",
+            "Relier au contexte historique et social."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Réduire le XIXᵉ au seul romantisme.",
+            "Confondre réalisme et naturalisme.",
+            "Croire que Flaubert juge ses personnages.",
+            "Présenter Baudelaire comme un écrivain purement classique.",
+            "Oublier les condamnations judiciaires des œuvres."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">Hugo</span> → romantisme et révolte",
+            "<span class=\"cle\">Balzac</span> → Comédie humaine",
+            "<span class=\"cle\">Zola</span> → Germinal, roman expérimental",
+            "<span class=\"cle\">Baudelaire</span> → Les Fleurs du mal"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Quatre courants",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"1 · Quatre courants\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Quatre courants</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Courant</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Mot-clé</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Auteur</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Romantisme</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sentiment</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Hugo</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Réalisme</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Observation</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Flaubert</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Naturalisme</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Milieu</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Zola</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Symbolisme</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Suggestion</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mallarmé</text></svg>"
+        },
+        {
+          "titre": "2 · Situer une œuvre",
+          "svg": "<svg viewBox=\"0 0 660 129\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : 2 · Situer une œuvre\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Situer une œuvre</text><defs><marker id=\"fl39131\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"114\" height=\"59\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"73.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Repérer la</text><text x=\"73.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">date de</text><text x=\"73.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"131\" y1=\"81\" x2=\"143\" y2=\"81\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl39131)\"/><rect x=\"144\" y=\"52\" width=\"114\" height=\"59\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"201.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Identifier le</text><text x=\"201.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">courant</text><text x=\"201.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"259\" y1=\"81\" x2=\"271\" y2=\"81\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl39131)\"/><rect x=\"272\" y=\"52\" width=\"114\" height=\"59\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"329.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Nommer les</text><text x=\"329.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">caractéristiques</text><text x=\"329.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"387\" y1=\"81\" x2=\"399\" y2=\"81\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl39131)\"/><rect x=\"400\" y=\"52\" width=\"114\" height=\"59\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"457.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Comparer avec</text><text x=\"457.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">un autre</text><text x=\"457.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"515\" y1=\"81\" x2=\"527\" y2=\"81\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl39131)\"/><rect x=\"528\" y=\"52\" width=\"114\" height=\"59\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"585.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Relier au</text><text x=\"585.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">contexte</text><text x=\"585.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text></svg>"
+        },
+        {
+          "titre": "3 · Réalisme / naturalisme",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 3 · Réalisme / naturalisme\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Réalisme / naturalisme</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Réalisme</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Peindre la société</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Effet de réel</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Flaubert, Balzac</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Naturalisme</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Expliquer scientifiquement</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Hérédité et milieu</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Zola</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Français",
+      "titre": "FR2. · Littérature et civilisation du XXᵉ siècle",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : surrealisme, existentialisme, absurde, engagement, Nouveau Roman, Beckett, brecht, distanciation, negritude, francophonie",
+      "points": [
+        "Le XXᵉ siècle littéraire est marqué par les deux guerres mondiales, la décolonisation, les totalitarismes et la remise en cause des certitudes.",
+        "Le surréalisme (Breton, Aragon, Éluard) explore l'inconscient et l'écriture automatique pour dépasser la raison.",
+        "L'existentialisme (Sartre, Camus) fait de la littérature le lieu d'une interrogation sur la liberté, l'absurde et l'engagement.",
+        "La philosophie de l'absurde chez Camus part du constat que l'homme cherche un sens que le monde ne fournit pas.",
+        "Sartre défend une littérature engagée : l'écrivain est responsable de ce qu'il écrit et ne peut se réfugier dans l'art pour l'art.",
+        "Le Nouveau Roman (Robbe-Grillet, Nathalie Sarraute, Beckett) rejette le personnage traditionnel et l'intrigue linéaire.",
+        "Beckett pousse la déconstruction du récit et du sujet jusqu'à une écriture de la défaite et du silence.",
+        "Le roman africain et antillais (Césaire, Senghor, Glissant, Memmi) affirme une identité et une histoire longtemps réprimées.",
+        "La francophonie littéraire enrichit la langue française de traditions et de formes venues d'autres continents.",
+        "La poésie du XXᵉ siècle (Apollinaire, Éluard, Char, Bonnefoy) joue sur la forme, le vers libre et l'image.",
+        "Le théâtre de Brecht invente un théâtre épique et une « distanciation » qui empêche l'identification du spectateur.",
+        "Lire le XXᵉ siècle suppose d'articuler texte, histoire et idées : la littérature est témoin et actrice de son époque."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel mouvement explore l'écriture automatique ?",
+          "options": [
+            "Le classicisme",
+            "Le surréalisme",
+            "Le réalisme",
+            "Le naturalisme"
+          ],
+          "correct": 1,
+          "correction": "André Breton définit le surréalisme comme une écriture libérée du contrôle rationnel, proche du rêve."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le concept central de Camus ?",
+          "options": [
+            "L'absurde",
+            "L'être-pour-autrui",
+            "La mauvaise foi",
+            "Le noumène"
+          ],
+          "correct": 0,
+          "correction": "L'absurde naît de la confrontation entre le besoin de sens de l'homme et le silence du monde."
+        },
+        {
+          "type": "qcm",
+          "q": "Que défend Sartre pour la littérature ?",
+          "options": [
+            "L'art pour l'art",
+            "L'engagement de l'écrivain",
+            "Le rejet de la politique",
+            "La seule forme"
+          ],
+          "correct": 1,
+          "correction": "Dans Qu'est-ce que la littérature ?, Sartre soutient que l'écriture est une forme d'action."
+        },
+        {
+          "type": "qcm",
+          "q": "Que refuse le Nouveau Roman ?",
+          "options": [
+            "Le vers libre",
+            "Le personnage traditionnel et l'intrigue",
+            "La poésie",
+            "Le théâtre"
+          ],
+          "correct": 1,
+          "correction": "Robbe-Grillet et Sarraute refusent les conventions du roman balzacien : intrigue, personnage, psychologie."
+        },
+        {
+          "type": "qcm",
+          "q": "Qui est associé à la « distanciation » au théâtre ?",
+          "options": [
+            "Sartre",
+            "Brecht",
+            "Camus",
+            "Beckett"
+          ],
+          "correct": 1,
+          "correction": "Brecht veut que le spectateur reste lucide grâce à des procédés qui rompent l'illusion."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel écrivain est lié à la négritude ?",
+          "options": [
+            "Aimé Césaire",
+            "Alain Robbe-Grillet",
+            "Paul Éluard",
+            "Jean Anouilh"
+          ],
+          "correct": 0,
+          "correction": "Césaire, Senghor et Léopold Sédar Senghor sont des figures centrales du mouvement de la négritude."
+        },
+        {
+          "type": "qcm",
+          "q": "Que cherche la poésie de Bonnefoy ?",
+          "options": [
+            "La seule virtuosité formelle",
+            "Une présence simple du réel",
+            "Le rejet du sens",
+            "L'imitation de Mallarmé"
+          ],
+          "correct": 1,
+          "correction": "Bonnefoy recherche une parole dépouillée qui rende sensible la présence du monde."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer le lien entre absurde et révolte chez Camus.",
+          "reponse": "L'absurde est la relation entre l'homme qui demande un sens et un monde qui ne répond pas. Camus refuse trois issues : le suicide philosophique (se réfugier dans une idée), le suicide réel et l'espoir en un au-delà. Il propose la révolte : vivre sans consolation, en assumant la lucidité. Dans L'Étranger, Meursault vit cette lucidité jusqu'à la condamnation ; dans Le Mythe de Sisyphe, Camus conclut qu'il faut imaginer Sisyphe heureux.",
+          "correction": "On définit l'absurde, on écarte les fausses solutions, puis on montre que la révolte est une fidélité à la vie."
+        },
+        {
+          "type": "texte",
+          "q": "Comment la littérature francophone transforme-t-elle la langue française ?",
+          "reponse": "Des auteurs comme Césaire, Senghor, Glissant ou Memmi écrivent en français depuis des expériences historiques et culturelles différentes : la décolonisation, l'exil, le métissage. Ils enrichissent le lexique, la syntaxe et les images, et font de la langue un lieu de revendication identitaire plutôt qu'un simple héritage. La francophonie n'est donc pas une annexe de la littérature française : elle est un espace pluriel qui relit l'histoire coloniale et invente de nouvelles formes d'écriture.",
+          "correction": "On relie expérience historique, revendication identitaire et transformation de la langue."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "Le XXᵉ siècle ne raconte plus seulement des histoires : il interroge le sens, le sujet et l'engagement de l'écriture."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "Absurde · engagement · écriture automatique · Nouveau Roman · distanciation · francophonie",
+          "leg": "Surrealisme · existentialisme · absurde · engagement · Nouveau Roman · distanciation · negritude"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Mouvement",
+              "Auteurs",
+              "Question"
+            ],
+            [
+              "Surréalisme",
+              "Breton, Éluard",
+              "Libérer l'inconscient"
+            ],
+            [
+              "Existentialisme",
+              "Sartre, Camus",
+              "Liberté et absurde"
+            ],
+            [
+              "Nouveau Roman",
+              "Robbe-Grillet, Beckett",
+              "Refaire le récit"
+            ],
+            [
+              "Francophonie",
+              "Césaire, Glissant",
+              "Identité et langue"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "Un mouvement littéraire est une réponse à une crise historique.",
+            "L'absurde n'est pas le nihilisme : Camus propose la révolte.",
+            "L'engagement n'impose pas une thèse, il exige une prise de responsabilité.",
+            "Le Nouveau Roman déconstruit le personnage, il ne supprime pas le récit."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Situer le texte dans son contexte historique.",
+            "Identifier le mouvement et ses auteurs.",
+            "Repérer la transformation formelle (vers libre, récit, personnage).",
+            "Relier forme et idées (engagement, absurde, identité).",
+            "Conclure sur la place de l'œuvre dans son siècle."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Confondre absurde et désespoir passif.",
+            "Croire que Sartre refuse tout engagement.",
+            "Réduire le Nouveau Roman à une absence de style.",
+            "Oublier la dimension politique de la négritude.",
+            "Présenter la francophonie comme un simple variant du français de France."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">Camus</span> → absurde et révolte",
+            "<span class=\"cle\">Sartre</span> → littérature engagée",
+            "<span class=\"cle\">Brecht</span> → distanciation",
+            "<span class=\"cle\">Césaire</span> → négritude"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Mouvements du XXᵉ",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"1 · Mouvements du XXᵉ\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Mouvements du XXᵉ</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Mouvement</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Mot-clé</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Auteur</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Surréalisme</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Inconscient</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Breton</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Existentialisme</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Liberté</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sartre</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Nouveau Roman</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Déconstruction</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Beckett</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Francophonie</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Identité</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Césaire</text></svg>"
+        },
+        {
+          "titre": "2 · Lire un texte du siècle",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : 2 · Lire un texte du siècle\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Lire un texte du siècle</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Repérer la date et le contexte</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Identifier le mouvement</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Analyser la forme</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Relier aux idées</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Interpréter l'enjeu</text></svg>"
+        },
+        {
+          "titre": "3 · Absurde / révolte",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 3 · Absurde / révolte\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Absurde / révolte</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Absurde</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Manque de sens</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Lucidité</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Confrontation homme-monde</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Révolte</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Refus de la consolation</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Fidélité à la vie</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Sisyphe heureux</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Français",
+      "titre": "FR3. · Grammaire et maîtrise de la langue",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : grammaire, syntaxe, proposition, accord, participe passe, subjonctif, temps, discours direct, discours indirect, ponctuation",
+      "points": [
+        "La maîtrise de la langue suppose la connaissance des classes grammaticales : nom, verbe, adjectif, adverbe, pronom, préposition, conjonction.",
+        "La phrase simple se compose d'une proposition indépendante ; la phrase complexe combine plusieurs propositions par juxtaposition, coordination ou subordination.",
+        "Les propositions subordonnées relatives, complétives, circonstancielles et interrogatives remplissent des fonctions différentes dans la phrase.",
+        "Le verbe s'accorde avec son sujet en personne et en nombre ; l'accord du participe passé dépend de l'auxiliaire employé.",
+        "Avec l'auxiliaire « avoir », le participe passé s'accorde avec le COD placé avant le verbe ; avec « être », il s'accorde avec le sujet.",
+        "Les temps du récit sont le passé simple, l'imparfait, le passé composé et le plus-que-parfait : leur emploi structure le temps de l'énonciation.",
+        "Le présent de l'indicatif exprime l'énonciation, la vérité générale ou un récit au style direct ; le futur marque l'anticipation.",
+        "Le subjonctif s'emploie après certains déclencheurs (volonté, doute, émotion, nécessité) et dans les subordonnées de but ou de concession.",
+        "Le discours direct rapporte les paroles telles quelles ; le discours indirect les intègre dans la phrase du narrateur avec des transformations.",
+        "Les figures de ponctuation et les connecteurs logiques (donc, mais, pourtant, ainsi) rendent visible la structure de l'argumentation.",
+        "L'orthographe grammaticale (accords) et l'orthographe lexicale (mots) relèvent de compétences distinctes mais également contrôlées.",
+        "En prépa, la correction linguistique est un critère majeur des copies : une phrase mal construite affaiblit même une bonne idée."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la fonction d'une proposition relative ?",
+          "options": [
+            "Compléter un nom par une précision",
+            "Remplacer le verbe",
+            "Exprimer le temps",
+            "Poser une question"
+          ],
+          "correct": 0,
+          "correction": "La relative, introduite par un pronom relatif, complète ou détermine un nom de la principale."
+        },
+        {
+          "type": "qcm",
+          "q": "Avec l'auxiliaire « être », le participe passé s'accorde…",
+          "options": [
+            "Avec le COD",
+            "Avec le sujet",
+            "Ne s'accorde jamais",
+            "Avec le complément d'agent"
+          ],
+          "correct": 1,
+          "correction": "Dans les verbes pronominaux et les passifs avec être, l'accord se fait avec le sujet."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel temps est typique du récit littéraire au passé ?",
+          "options": [
+            "Le présent",
+            "Le passé simple",
+            "Le futur antérieur",
+            "L'impératif"
+          ],
+          "correct": 1,
+          "correction": "Le passé simple est le temps du récit événementiel ; l'imparfait décrit le cadre."
+        },
+        {
+          "type": "qcm",
+          "q": "Le subjonctif s'emploie notamment après…",
+          "options": [
+            "Un verbe de volonté",
+            "Une affirmation de fait",
+            "Une description",
+            "Une énumération"
+          ],
+          "correct": 0,
+          "correction": "Les verbes de volonté, de doute ou d'émotion déclenchent le subjonctif dans la complétive."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la différence entre juxtaposition et coordination ?",
+          "options": [
+            "Aucune",
+            "Juxtaposition sans mot de liaison, coordination avec un coordonnant",
+            "La coordination est plus longue",
+            "La juxtaposition est subordonnée"
+          ],
+          "correct": 1,
+          "correction": "On coordonne avec et, ou, mais ; on juxtapose en séparant par la ponctuation."
+        },
+        {
+          "type": "qcm",
+          "q": "Dans « il a mangé la pomme », que faut-il pour accorder « mangé » ?",
+          "options": [
+            "Un COD placé avant",
+            "Un sujet féminin",
+            "Toujours rien",
+            "Un complément d'agent"
+          ],
+          "correct": 0,
+          "correction": "Avec « avoir », l'accord ne se fait que si le COD est placé avant le verbe : « la pomme qu'il a mangée »."
+        },
+        {
+          "type": "qcm",
+          "q": "Que permet le discours indirect ?",
+          "options": [
+            "De citer mot pour mot",
+            "D'intégrer les paroles dans la phrase du narrateur",
+            "De supprimer les verbes",
+            "De changer de langue"
+          ],
+          "correct": 1,
+          "correction": "Le discours indirect transforme les pronoms, les temps et les déictiques selon le point de vue du narrateur."
+        },
+        {
+          "type": "texte",
+          "q": "Transformer au discours indirect : « Je partirai demain », dit Paul.",
+          "reponse": "Paul a dit qu'il partirait le lendemain. On applique les transformations du discours indirect : le présent de l'énonciation devient un temps du passé, « je » devient « il », et « demain » devient « le lendemain ».",
+          "correction": "On décale les pronoms personnels, les temps et les indicateurs de temps par rapport au verbe introducteur."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer la différence d'emploi entre passé composé et passé simple dans un récit.",
+          "reponse": "Le passé composé appartient au système de l'énonciation : il rapporte un événement par rapport au présent de celui qui parle (« j'ai ouvert la porte »). Le passé simple appartient au système du récit : il présente les événements comme situationnés dans une histoire racontée, sans lien direct avec le présent de l'énonciateur (« il ouvrit la porte »). Un même texte peut mêler les deux si le narrateur passe du récit à son propre commentaire.",
+          "correction": "On oppose les deux systèmes (énonciation / récit) plutôt que de simples nuances de temps."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "Une pensée juste s'exprime dans une phrase maîtrisée : grammaire et syntaxe sont des outils de clarté, pas des ornements."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "Accord du participe passé · subjonctif · discours direct / indirect",
+          "leg": "Grammaire · syntaxe · proposition · accord · temps · subjonctif · discours · ponctuation"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Notion",
+              "Règle",
+              "Exemple"
+            ],
+            [
+              "Participe avec être",
+              "Accord avec le sujet",
+              "Elle est partie"
+            ],
+            [
+              "Participe avec avoir",
+              "Accord si COD avant",
+              "La lettre qu'il a écrite"
+            ],
+            [
+              "Passé simple",
+              "Temps du récit",
+              "Il entra"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "Le subjonctif n'exprime pas le doute en soi : il dépend d'un déclencheur.",
+            "Une proposition n'est pas une phrase : la phrase peut en contenir plusieurs.",
+            "L'orthographe d'usage et l'orthographe grammaticale sont deux compétences différentes.",
+            "Le discours indirect transforme le point de vue, pas seulement les mots."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Identifier la nature des mots et la fonction des groupes.",
+            "Repérer les propositions et leur lien (juxtaposition, coordination, subordination).",
+            "Vérifier les accords (sujet/verbe, participe passé).",
+            "Choisir le temps et le mode selon le sens.",
+            "Relire en vérifiant ponctuation et connecteurs."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Accorder le participe avec « avoir » sans COD antérieur.",
+            "Confondre COD et complément d'agent.",
+            "Employer le subjonctif après un verbe d'affirmation.",
+            "Oublier de transformer les déictiques au discours indirect.",
+            "Prendre deux propositions coordonnées pour une seule proposition."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">Elle est partie</span> → accord avec le sujet",
+            "<span class=\"cle\">la lettre qu'il a écrite</span> → COD avant",
+            "<span class=\"cle\">il entra</span> → passé simple",
+            "<span class=\"cle\">je partirai demain</span> → il partirait le lendemain"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Les accords du participe",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"1 · Les accords du participe\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Les accords du participe</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Auxiliaire</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Accord avec</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Exemple</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Être</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Le sujet</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Elles sont venues</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Avoir</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">COD antérieur</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Les fleurs qu'il a</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Avoir</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rien si COD après</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Il a cueilli des fleurs</text></svg>"
+        },
+        {
+          "titre": "2 · Analyser une phrase",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : 2 · Analyser une phrase\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Analyser une phrase</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Repérer les propositions</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Identifier les fonctions</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Vérifier les accords</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choisir temps et mode</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Contrôler la ponctuation</text></svg>"
+        },
+        {
+          "titre": "3 · Direct / indirect",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 3 · Direct / indirect\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Direct / indirect</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Discours direct</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Paroles citées telles quelles</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Guillemets</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Présent de l'énonciation</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Discours indirect</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Intégré au narrateur</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Décalage des temps</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Pronoms et déictiques modifiés</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Français",
+      "titre": "FR4. · La dissertation littéraire",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : dissertation, problematique, plan, argument, exemple, analyse, transition, introduction, conclusion, progression",
+      "points": [
+        "La dissertation littéraire est un devoir organisé qui répond à une question portant sur une œuvre, un courant ou une notion littéraire.",
+        "La première exigence est de répondre précisément au sujet : il faut analyser chaque mot et délimiter le champ de la question.",
+        "Une problématique est une question centrale qui organise la réflexion : elle ne doit pas être une simple reformulation du sujet.",
+        "Le plan doit être progressif : chaque partie répond à une étape du problème et apporte un élément nouveau.",
+        "Les trois parties sont souvent organisées selon un mouvement dialectique : affirmation, mise en cause, dépassement.",
+        "Chaque argument s'appuie sur des exemples précis : œuvres, auteurs, passages cités, procédés analysés.",
+        "L'analyse d'un extrait ne doit pas être un résumé : il faut montrer comment le texte produit son effet et comment il répond au problème.",
+        "Les transitions font le lien logique entre les parties : elles annoncent le passage d'une étape à une autre.",
+        "La culture littéraire (dates, courants, œuvres) est un outil au service de l'argument, pas un catalogue à réciter.",
+        "L'introduction présente le contexte, le problème et l'annonce du plan ; la conclusion répond et ouvre éventuellement la question.",
+        "En CPGE, la dissertation peut porter sur une œuvre du programme ou sur un thème de civilisation littéraire.",
+        "Une copie réussie allie rigueur de la construction, précision des références et clarté de l'expression."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que doit faire l'introduction d'une dissertation ?",
+          "options": [
+            "Raconter l'œuvre",
+            "Présenter le contexte, le problème et le plan",
+            "Donner la conclusion",
+            "Citer un long passage"
+          ],
+          "correct": 1,
+          "correction": "L'introduction situe le sujet, formule la problématique et annonce le plan."
+        },
+        {
+          "type": "qcm",
+          "q": "Une problématique est…",
+          "options": [
+            "Une reformulation du sujet",
+            "Une question qui organise la réflexion",
+            "Un exemple",
+            "Une citation"
+          ],
+          "correct": 1,
+          "correction": "Elle transforme le sujet en question de réflexion et structure la copie."
+        },
+        {
+          "type": "qcm",
+          "q": "Que doit éviter l'analyse d'un extrait ?",
+          "options": [
+            "Les procédés d'écriture",
+            "Le simple résumé",
+            "Les références",
+            "La citation courte"
+          ],
+          "correct": 1,
+          "correction": "Il faut analyser le fonctionnement du texte, pas le raconter."
+        },
+        {
+          "type": "qcm",
+          "q": "À quoi sert une transition ?",
+          "options": [
+            "À remplir la copie",
+            "À assurer le passage logique entre deux parties",
+            "À conclure",
+            "À introduire un exemple"
+          ],
+          "correct": 1,
+          "correction": "Elle rend visible la progression de la démonstration."
+        },
+        {
+          "type": "qcm",
+          "q": "Un argument doit être…",
+          "options": [
+            "Une opinion personnelle",
+            "Une raison étayée par des exemples",
+            "Une citation longue",
+            "Une question"
+          ],
+          "correct": 1,
+          "correction": "L'argument est une raison générale, confirmée par des références précises."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le rôle de la culture littéraire ?",
+          "options": [
+            "Impressionner le correcteur",
+            "Étayer et éclairer l'argument",
+            "Remplacer le plan",
+            "Être récitée sans tri"
+          ],
+          "correct": 1,
+          "correction": "Dates, courants et œuvres servent la démonstration, ils ne la remplacent pas."
+        },
+        {
+          "type": "qcm",
+          "q": "Dans un plan dialectique, la troisième partie…",
+          "options": [
+            "Répète la première",
+            "Dépasse l'opposition initiale",
+            "Est toujours une conclusion",
+            "Est supprimée"
+          ],
+          "correct": 1,
+          "correction": "La synthèse conserve ce que chaque thèse avait de vrai et propose un dépassement."
+        },
+        {
+          "type": "texte",
+          "q": "Comment formuler une problématique à partir du sujet : « Le personnage de roman est-il libre ? »",
+          "reponse": "On commence par définir « personnage de roman » (être de fiction construit par un narrateur) et « libre » (-agir sans contrainte / choisir). Le problème apparaît : le personnage est écrit par un auteur, donc apparemment déterminé, mais il peut être présenté comme un sujet qui choisit et se révolte (par exemple Meursault ou Julien Sorel). La problématique pourrait être : « Comment un être qui est entièrement écrit peut-il donner l'illusion et parfois la vérité d'une liberté ? » — elle ouvre une réflexion sur le réalisme du roman et sur la liberté du lecteur.",
+          "correction": "On définit les termes, on relève la tension (détermination narrative / liberté du personnage), puis on formule une question centrale."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer pourquoi une simple accumulation d'exemples ne constitue pas une dissertation.",
+          "reponse": "Une dissertation exige une thèse et des raisons : les exemples servent à confirmer, à nuancer ou à tester les arguments. Une suite d'exemples sans articulation ne répond pas à la question posée et ne construit pas de progression. Il faut donc toujours expliquer en quoi tel passage ou telle œuvre appuie l'étape de raisonnement considérée, et relier les exemples entre eux par des transitions et des idées générales.",
+          "correction": "On oppose énumération et démonstration, en précisant la fonction explicative de l'exemple."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "La dissertation est une démonstration : la problématique commande le plan, et les exemples servent les arguments."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "Analyse du sujet → problématique → plan progressif → arguments et exemples → synthèse",
+          "leg": "Dissertation · problématique · plan · argument · exemple · transition · conclusion"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Étape",
+              "Contenu",
+              "Erreur"
+            ],
+            [
+              "Introduction",
+              "Contexte, problème, plan",
+              "Raconter l'oeuvre"
+            ],
+            [
+              "Développement",
+              "Arguments et exemples",
+              "Énumérer"
+            ],
+            [
+              "Transition",
+              "Lien logique",
+              "« Ensuite »"
+            ],
+            [
+              "Conclusion",
+              "Réponse et ouverture",
+              "Répéter le plan"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "Le plan doit être progressif, pas seulement symétrique.",
+            "Un exemple sans commentaire n'est pas un argument.",
+            "La problématique n'est pas une question rhétorique sans enjeu.",
+            "La culture sert la démonstration, elle ne la dispense pas."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Analyser chaque terme du sujet.",
+            "Formuler une problématique précise.",
+            "Construire un plan à progression logique.",
+            "Chaque partie : argument, exemple, analyse.",
+            "Rédiger transitions et conclusion."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Répondre au thème plutôt qu'au sujet.",
+            "Confondre résumé et analyse.",
+            "Cumuler les références sans les interpréter.",
+            "Négliger les transitions entre parties.",
+            "Conclure par une nouvelle question sans réponse."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">problématique</span> → question centrale",
+            "<span class=\"cle\">argument + exemple</span> → démonstration",
+            "<span class=\"cle\">transition</span> → progression",
+            "<span class=\"cle\">synthèse</span> → dépassement"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Construire une dissertation",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : 1 · Construire une dissertation\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Construire une dissertation</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Analyser les termes du sujet</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Formuler la problématique</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Élaborer le plan progressif</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rédiger avec arguments et exemples</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Conclure en répondant</text></svg>"
+        },
+        {
+          "titre": "2 · Analyse / résumé",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 2 · Analyse / résumé\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Analyse / résumé</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Analyse</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Expliquer le fonctionnement</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Relier procédé et effet</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Répond au problème</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Résumé</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Raconter l'intrigue</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Suivre l'ordre du texte</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Ne pas argumenter</text></svg>"
+        },
+        {
+          "titre": "3 · Les parties du devoir",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"3 · Les parties du devoir\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Les parties du devoir</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Partie</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Rôle</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Contenu</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Introduction</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Situer le sujet</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Contexte, problème, plan</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Développement</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Démontrer</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Arguments, exemples,</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Conclusion</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Répondre</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Bilan et ouverture</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Français",
+      "titre": "FR5. · Le commentaire de texte",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : commentaire, texte, problematique, axe, observation, analyse, interpretation, champ lexical, figure de style, rythme",
+      "points": [
+        "Le commentaire littéraire est un exercice d'analyse : il explique un extrait en dégageant son sens et ses procédés d'écriture.",
+        "La lecture doit être méthodique : situer l'auteur et l'œuvre, identifier le genre, le thème et le mouvement littéraire.",
+        "La problématique du commentaire est la question à laquelle le texte répond ou qu'il soulève : elle oriente le plan.",
+        "Le plan suit le mouvement du texte : on peut le découper en parties selon les étapes du raisonnement ou du récit.",
+        "Chaque axe de commentaire combine une observation (procédé), une analyse (effet) et une interprétation (sens).",
+        "Les procédés à repérer relèvent du lexique (champs lexicaux), de la syntaxe (ordre des mots, ponctuation), des images et du rythme.",
+        "Le champ lexical est un ensemble de mots appartenant à même domaine : il révèle une orientation sémantique du passage.",
+        "Les figures de style (métaphore, comparaison, personnification, antithèse, oxymore) produisent des effets de sens qu'il faut expliciter.",
+        "Le rythme (longueur des phrases, pauses, allitérations) contribue au sens : il faut l'analyser, pas seulement le signaler.",
+        "Le narrateur, le point de vue et le temps du récit sont des éléments essentiels de l'analyse d'un récit.",
+        "La citation doit être courte et intégrée dans la phrase : elle sert de preuve, elle ne remplace pas l'analyse.",
+        "La conclusion répond à la problématique et peut ouvrir sur l'œuvre entière ou sur un autre texte."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est le premier réflexe devant un texte à commenter ?",
+          "options": [
+            "Citer tout le texte",
+            "Le situer (auteur, œuvre, genre, époque)",
+            "Donner son opinion",
+            "Résumer l'intrigue"
+          ],
+          "correct": 1,
+          "correction": "Le commentaire commence par une présentation précise du texte et de son contexte."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce qu'un champ lexical ?",
+          "options": [
+            "Une figure de style",
+            "Un ensemble de mots d'un même domaine",
+            "Une ponctuation",
+            "Un type de phrase"
+          ],
+          "correct": 1,
+          "correction": "Les mots d'un même champ lexical orientent le sens du passage et révèlent son thème."
+        },
+        {
+          "type": "qcm",
+          "q": "Que faut-il faire d'une figure de style repérée ?",
+          "options": [
+            "La nommer seulement",
+            "Expliquer son effet de sens",
+            "La copier",
+            "La remplacer"
+          ],
+          "correct": 1,
+          "correction": "Nommer une figure ne suffit pas : il faut analyser ce qu'elle produit dans le texte."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel élément du récit faut-il analyser ?",
+          "options": [
+            "Le nombre de pages",
+            "Le point de vue et le temps",
+            "Le prix du livre",
+            "La couverture"
+          ],
+          "correct": 1,
+          "correction": "Qui raconte et dans quel temps sont des choix significatifs du texte."
+        },
+        {
+          "type": "qcm",
+          "q": "Une citation dans un commentaire doit être…",
+          "options": [
+            "Longue et non analysée",
+            "Courte et intégrée à la phrase",
+            "Absente",
+            "Remplacée par un résumé"
+          ],
+          "correct": 1,
+          "correction": "La citation est une preuve : elle s'intègre dans le raisonnement et s'analyse."
+        },
+        {
+          "type": "qcm",
+          "q": "Le plan d'un commentaire suit…",
+          "options": [
+            "L'ordre alphabétique",
+            "Le mouvement du texte et la problématique",
+            "La longueur des paragraphes",
+            "Le hasard"
+          ],
+          "correct": 1,
+          "correction": "On découpe le texte selon les étapes de sa progression et on construit une question de lecture."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce qu'une antithèse ?",
+          "options": [
+            "Une répétition de sons",
+            "L'opposition de deux termes",
+            "Une comparaison",
+            "Une exagération"
+          ],
+          "correct": 1,
+          "correction": "L'antithèse rapproche deux termes opposés pour créer un effet de contraste."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer la différence entre observer, analyser et interpréter dans un commentaire.",
+          "reponse": "Observer, c'est repérer un fait de langue : par exemple la répétition d'un mot ou l'emploi d'une métaphore. Analyser, c'est décrire son fonctionnement : la répétition insiste sur une idée, la métaphore transporte un sens concret vers un domaine abstrait. Interpréter, c'est relier cet effet au sens global du texte : la répétition traduit l'obsession du personnage, la métaphore révèle une vision du monde. Le commentaire doit toujours parcourir ces trois étapes.",
+          "correction": "On distingue le constat, l'explication du mécanisme et la mise en relation avec le sens."
+        },
+        {
+          "type": "texte",
+          "q": "Comment analyser le rythme d'une phrase sans se contenter de le décrire ?",
+          "reponse": "Il faut d'abord mesurer objectivement la longueur des phrases, la place des pauses et les effets de sonorité (allitérations, assonances). Ensuite, on met ces faits en relation avec le contenu : une phrase longue et sinueuse peut traduire une hésitation ou une accumulation, une phrase courte et sèche peut produire un effet de choc ou d'affirmation. Enfin, on relie cet effet à la problématique : le rythme n'est pas un ornement, il participe à la signification du passage.",
+          "correction": "On passe de la description mécanique à l'effet produit, puis à l'intégration dans l'interprétation."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "Commenter, ce n'est pas dire ce que le texte raconte : c'est expliquer comment il produit du sens."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "Observation (procédé) → analyse (effet) → interprétation (sens)",
+          "leg": "Commentaire · situation · problématique · axe · champ lexical · figure de style · rythme · point de vue"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Étape",
+              "Question",
+              "Résultat"
+            ],
+            [
+              "Observer",
+              "Quel procédé ?",
+              "Fait de langue"
+            ],
+            [
+              "Analyser",
+              "Quel effet ?",
+              "Fonctionnement"
+            ],
+            [
+              "Interpréter",
+              "Quel sens ?",
+              "Lien avec le texte"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "Nommer une figure n'est pas l'analyser.",
+            "La citation doit toujours être commentée.",
+            "Le plan suit le mouvement du texte, pas un plan-type imposé.",
+            "Le rythme et la ponctuation ont une valeur interprétative."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Lire le texte plusieurs fois et le situer.",
+            "Dégager une problématique de lecture.",
+            "Découper le texte en axes de commentaire.",
+            "Pour chaque axe : procéder, analyser, interpréter.",
+            "Conclure en répondant à la problématique."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Confondre résumé et commentaire.",
+            "Citer de longs passages sans analyse.",
+            "Énumérer les figures de style sans effet.",
+            "Ignorer le point de vue narratif.",
+            "Conclure sans revenir au problème posé."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">répétition</span> → insistance, obsession",
+            "<span class=\"cle\">antithèse</span> → contraste de sens",
+            "<span class=\"cle\">phrase courte</span> → effet de choc",
+            "<span class=\"cle\">je / il</span> → point de vue"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Analyser un passage",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : 1 · Analyser un passage\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Analyser un passage</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Situer l'auteur et l'œuvre</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Formuler la problématique</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Découper le texte en axes</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Observer, analyser, interpréter</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Conclure</text></svg>"
+        },
+        {
+          "titre": "2 · Observation / interprétation",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 2 · Observation / interprétation\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Observation / interprétation</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Observation</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Fait de langue repéré</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Citation courte</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Description du procédé</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Interprétation</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Effet de sens</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Lien avec le texte entier</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Réponse à la problématique</text></svg>"
+        },
+        {
+          "titre": "3 · Niveaux d'analyse",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"3 · Niveaux d'analyse\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Niveaux d'analyse</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Niveau</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Exemple</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Question</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Lexique</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Champ lexical</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Quel domaine ?</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Syntaxe</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Ordre des mots</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Quel effet ?</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rhythme</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Phrases courtes</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Quelle tension ?</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "2e"
+      ],
+      "matiere": "Français",
+      "titre": "FR6. · La traduction : thème et version",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : traduction, version, theme, faux ami, idiomatisme, equivalent, registre, terminologie, relecture",
+      "points": [
+        "La version traduit un texte de langue étrangère vers le français ; le thème traduit un texte français vers la langue étrangère.",
+        "Traduire n'est pas transposer mot à mot : il faut rendre un sens dans une autre langue avec ses propres structures.",
+        "La première étape est la compréhension : identifier la structure de la phrase, les temps, les modes et les relations logiques.",
+        "La seconde étape est le transfert : choisir les équivalents lexicaux et syntaxiques adaptés au contexte.",
+        "La troisième étape est la révision : relire la traduction comme un texte autonome, sans regarder l'original.",
+        "Les faux amis sont des mots de forme proche mais de sens différent : « actuellement » ne signifie pas « actually » en anglais.",
+        "Les décalages de temps et de mode sont fréquents : le présent de narration anglais se rend souvent par le passé simple français.",
+        "Les expressions idiomatiques doivent être remplacées par des équivalents idiomatiques dans la langue d'arrivée.",
+        "La traduction littéraire doit respecter le registre, le rythme et les images : elle est une réécriture, pas un calque.",
+        "La traduction juridique et économique exige une précision terminologique : la moindre nuance peut changer la portée d'un contrat.",
+        "En concours, la traduction évalue la maîtrise de la langue, la culture et la capacité de reformulation.",
+        "Une bonne traduction est lisible : elle ne trahit ni le sens de l'original ni les habitudes de la langue d'arrivée."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Qu'appelle-t-on une version ?",
+          "options": [
+            "Une traduction vers le français",
+            "Une traduction depuis le français",
+            "Un exercice de grammaire",
+            "Une rédaction libre"
+          ],
+          "correct": 0,
+          "correction": "La version traduit un texte étranger vers le français ; le thème fait l'inverse."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le principal piège de la traduction mot à mot ?",
+          "options": [
+            "La lenteur",
+            "Le non-sens ou l'impropriété",
+            "La ponctuation",
+            "La longueur"
+          ],
+          "correct": 1,
+          "correction": "Chaque langue a ses structures : la traduction littérale produit souvent des phrases incorrectes ou incompréhensibles."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce qu'un faux ami ?",
+          "options": [
+            "Un mot intraduisible",
+            "Un mot de forme proche mais de sens différent",
+            "Une faute de frappe",
+            "Une figure de style"
+          ],
+          "correct": 1,
+          "correction": "« Actually » signifie « en réalité », pas « actuellement » : la ressemblance formelle est trompeuse."
+        },
+        {
+          "type": "qcm",
+          "q": "Que faut-il faire à la troisième étape de la traduction ?",
+          "options": [
+            "Relire sans l'original",
+            "Compter les mots",
+            "Ajouter des notes",
+            "Changer de langue"
+          ],
+          "correct": 0,
+          "correction": "La relecture en texte autonome permet de détecter les tournures que l'on aurait corrigées en comparant."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment traduire une expression idiomatique ?",
+          "options": [
+            "Mot à mot",
+            "Par un équivalent idiomatique",
+            "En la supprimant",
+            "En la citant telle quelle"
+          ],
+          "correct": 1,
+          "correction": "Il faut rendre l'effet de sens avec une expression équivalente dans la langue d'arrivée."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est l'enjeu de la traduction juridique ?",
+          "options": [
+            "La beauté du style",
+            "La précision terminologique",
+            "La brièveté",
+            "L'improvisation"
+          ],
+          "correct": 1,
+          "correction": "Une nuance de vocabulaire peut modifier la portée juridique d'une clause."
+        },
+        {
+          "type": "qcm",
+          "q": "La traduction littéraire doit surtout respecter…",
+          "options": [
+            "Le nombre de mots",
+            "Le registre, le rythme et les images",
+            "L'ordre alphabétique",
+            "Les italiques"
+          ],
+          "correct": 1,
+          "correction": "Il faut restituer l'effet esthétique, pas seulement l'information."
+        },
+        {
+          "type": "texte",
+          "q": "Proposer une méthode en trois étapes pour traduire un texte difficile.",
+          "reponse": "D'abord, lire le texte entier et analyser la structure de chaque phrase en identifiant les temps et les modes. Ensuite, transférer le sens en choisissant des équivalents lexicaux et des restructurations syntaxiques : une phrase longue peut être coupée, un passif peut devenir actif. Enfin, relire la version produite comme un texte autonome, sans regarder l'original, pour vérifier la grammaire, la cohérence des temps et le naturel de l'expression.",
+          "correction": "On distingue compréhension, transfert et révision, en insistant sur la relecture sans original."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer pourquoi « actually » et « actuellement » sont des faux amis et donner une traduction correcte de « He actually left yesterday ».",
+          "reponse": "« Actually » en anglais signifie « en réalité, en fait », alors que « actuellement » en français signifie « à l'heure actuelle ». La traduction correcte est « Il est en fait parti hier ». Une traduction littérale « Il est actuellement parti hier » serait à la fois contradictoire et fausse quant au sens de l'adverbe anglais.",
+          "correction": "On identifie le décalage de sens puis on propose une formulation qui rend l'idée de réalité, pas de simultanéité."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "Traduire, c'est comprendre deux langues et choisir dans la seconde ce qui rend le mieux la première."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "Version = vers le français · thème = depuis le français · faux amis · transfert",
+          "leg": "Traduction · version · thème · faux ami · idiomatisme · registre · terminologie · relecture"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Étape",
+              "Opération",
+              "Erreur à éviter"
+            ],
+            [
+              "Compréhension",
+              "Analyser la structure",
+              "Traduire avant de comprendre"
+            ],
+            [
+              "Transfert",
+              "Choisir des équivalents",
+              "Le calque mot à mot"
+            ],
+            [
+              "Révision",
+              "Relire sans l'original",
+              "Corriger en comparant"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "Une traduction littérale n'est pas une traduction fidèle.",
+            "Un faux ami est trompeur parce que la forme rassure.",
+            "Les expressions idiomatiques se rendent par des équivalents, pas des calques.",
+            "La relecture doit se faire comme si le texte était original."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Lire l'intégralité du texte avant de commencer.",
+            "Analyser les phrases et leurs relations logiques.",
+            "Choisir des équivalents adaptés au contexte.",
+            "Restructurer selon les habitudes de la langue d'arrivée.",
+            "Relire sans l'original et corriger."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Confondre version et thème.",
+            "Traduire « actually » par « actuellement ».",
+            "Garder l'ordre des mots de l'original à tout prix.",
+            "Supprimer les expressions idiomatiques par paresse.",
+            "Négliger la relecture finale."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">version</span> → étranger vers français",
+            "<span class=\"cle\">actually</span> → en réalité",
+            "<span class=\"cle\">faux ami</span> → piège formel",
+            "<span class=\"cle\">relecture</span> → texte autonome"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Méthode de traduction",
+          "svg": "<svg viewBox=\"0 0 660 129\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : 1 · Méthode de traduction\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Méthode de traduction</text><defs><marker id=\"fl82187\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"114\" height=\"59\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"73.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Lire et</text><text x=\"73.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">comprendre le</text><text x=\"73.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"131\" y1=\"81\" x2=\"143\" y2=\"81\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl82187)\"/><rect x=\"144\" y=\"52\" width=\"114\" height=\"59\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"201.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Analyser la</text><text x=\"201.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">structure des</text><text x=\"201.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"259\" y1=\"81\" x2=\"271\" y2=\"81\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl82187)\"/><rect x=\"272\" y=\"52\" width=\"114\" height=\"59\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"329.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Choisir les</text><text x=\"329.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">équivalents</text><text x=\"329.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"387\" y1=\"81\" x2=\"399\" y2=\"81\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl82187)\"/><rect x=\"400\" y=\"52\" width=\"114\" height=\"59\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"457.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Restructurer</text><text x=\"457.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">la phrase</text><text x=\"457.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"515\" y1=\"81\" x2=\"527\" y2=\"81\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl82187)\"/><rect x=\"528\" y=\"52\" width=\"114\" height=\"59\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"585.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Relire sans</text><text x=\"585.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">original</text><text x=\"585.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text></svg>"
+        },
+        {
+          "titre": "2 · Version / thème",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 2 · Version / thème\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Version / thème</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Version</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Étranger → français</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Compréhension étrangère</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Expression française</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Thème</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Français → étranger</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Compréhension française</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Expression étrangère</text></svg>"
+        },
+        {
+          "titre": "3 · Pièges classiques",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"3 · Pièges classiques\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Pièges classiques</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Piège</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Exemple</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Solution</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Faux ami</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">actually / actuellement</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Traduire par « en</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Idiomatisme</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">to make sense</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">« avoir un sens »</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Temps</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">présent de narration</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Passé simple français</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "2e"
+      ],
+      "matiere": "Français",
+      "titre": "FR7. · L'oral de français : explication et entretien",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : oral, lecture, explication lineaire, mouvement, problematique, entretien, jury, posture, honnetete",
+      "points": [
+        "L'oral de français de CPGE évalue la lecture, l'expression orale et la capacité à construire une interprétation devant un jury.",
+        "L'épreuve comporte généralement une présentation d'un texte ou d'une œuvre, un exposé suivi d'un entretien avec le jury.",
+        "La lecture à voix haute doit être claire, articulée, respecter la ponctuation et le rythme du texte.",
+        "L'explication linéaire suit le mouvement du passage : on annonce un plan en deux ou trois parties, puis on analyse chaque mouvement.",
+        "L'introduction orale présente l'auteur, l'œuvre, le contexte et la problématique ; elle doit être courte et ferme.",
+        "Chaque partie alterne citation brève et analyse : le jury attend une démonstration, pas une paraphrase.",
+        "La voix, le regard et la posture participent à la qualité de l'oral : il faut s'adresser au jury, pas lire ses notes.",
+        "L'entretien porte sur la compréhension du texte, sur l'œuvre et sur le parcours associé : il faut répondre avec précision et honnêteté.",
+        "Si l'on ne sait pas, il vaut mieux le dire et proposer une piste de réflexion plutôt que d'improviser une réponse fausse.",
+        "La culture générale personnelle est mobilisée : l'auteur, le courant, les autres œuvres et les repères historiques.",
+        "La préparation consiste à lire, à construire un plan simple et à s'entraîner à parler debout, sans texte intégral.",
+        "L'oral récompense la clarté de la pensée autant que l'érudition : mieux vaut une idée bien défendue qu'un savoir étalé."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est l'objet d'une explication linéaire ?",
+          "options": [
+            "Résumer l'intrigue",
+            "Suivre le mouvement du texte en l'analysant",
+            "Réciter le cours",
+            "Lire sans commenter"
+          ],
+          "correct": 1,
+          "correction": "L'explication linéaire découpe le passage en mouvements et analyse chaque étape dans sa progression."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment doit être la lecture à voix haute ?",
+          "options": [
+            "Rapide et continue",
+            "Claire, articulée, respectueuse de la ponctuation",
+            "Monotone",
+            "Improvisée"
+          ],
+          "correct": 1,
+          "correction": "La lecture est déjà une interprétation : elle doit faire entendre le rythme et la structure du texte."
+        },
+        {
+          "type": "qcm",
+          "q": "Que contient l'introduction orale ?",
+          "options": [
+            "Toute la biographie de l'auteur",
+            "Auteur, œuvre, contexte et problématique",
+            "La conclusion",
+            "Les questions du jury"
+          ],
+          "correct": 1,
+          "correction": "Elle est brève : elle situe le texte et annonce la question qui organise l'explication."
+        },
+        {
+          "type": "qcm",
+          "q": "Que vaut mieux faire devant une question difficile ?",
+          "options": [
+            "Improviser une réponse fausse",
+            "Reconnaître une lacune et proposer une piste",
+            "Se taire",
+            "Changer de sujet"
+          ],
+          "correct": 1,
+          "correction": "L'honnêteté intellectuelle et une piste de réflexion sont mieux accueillies qu'une affirmation hasardeuse."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel rôle joue la posture à l'oral ?",
+          "options": [
+            "Aucun",
+            "Elle contribue à la communication avec le jury",
+            "Elle remplace l'analyse",
+            "Elle est notée séparément"
+          ],
+          "correct": 1,
+          "correction": "Regard, voix et posture font partie de la qualité de la communication orale."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la meilleure préparation ?",
+          "options": [
+            "Apprendre un texte par cœur",
+            "Construire un plan simple et s'entraîner à parler",
+            "Lire uniquement le résumé",
+            "Ignorer le parcours"
+          ],
+          "correct": 1,
+          "correction": "Il faut maîtriser le mouvement du texte et être capable de parler sans lire ses notes."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce qui est le plus récompensé ?",
+          "options": [
+            "La quantité de détails",
+            "La clarté de la pensée et la solidité de l'argument",
+            "La durée de l'exposé",
+            "Le nombre de citations"
+          ],
+          "correct": 1,
+          "correction": "Un oral réussi est une démonstration claire, pas un catalogue de connaissances."
+        },
+        {
+          "type": "texte",
+          "q": "Proposer une structure d'explication orale en trois temps pour un texte de vingt lignes.",
+          "reponse": "On annonce d'abord une introduction brève : auteur, œuvre, situation du passage et problématique. On suit ensuite le mouvement du texte en deux ou trois parties : par exemple, une première partie sur l'installation d'un état, une deuxième sur le basculement, une troisième sur la conclusion du passage. Dans chaque partie, on cite une ou deux expressions courtes et on analyse leur effet en lien avec la problématique. On termine par une conclusion qui répond à la question posée et ouvre sur l'œuvre entière.",
+          "correction": "On insiste sur le plan en mouvements, la citation brève et le retour à la problématique."
+        },
+        {
+          "type": "texte",
+          "q": "Comment gérer un trou de mémoire pendant l'entretien ?",
+          "reponse": "Il ne faut pas tenter de masquer la lacune par une affirmation hasardeuse. On peut dire simplement : « Je ne me souviens pas du titre exact, mais je peux situer l'œuvre par son époque et son courant », puis proposer une piste vérifiable. Le jury évalue la capacité à raisonner : une réponse partielle et honnête avec une méthode vaut mieux qu'une réponse précise mais fausse. On peut aussi demander une précision sur la question si son sens semble ambigu.",
+          "correction": "On recommande l'honnêteté, la proposition d'une piste et la clarification de la question."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "À l'oral, la pensée doit s'entendre : le plan est court, la voix est claire et l'entretien reste une conversation maîtrisée."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "Lecture → explication linéaire → entretien · clarté > érudition étalée",
+          "leg": "Oral · lecture · explication linéaire · introduction · mouvement · entretien · posture · honnêteté"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Moment",
+              "Objectif",
+              "Conseil"
+            ],
+            [
+              "Lecture",
+              "Faire entendre le texte",
+              "Articuler et respecter le rythme"
+            ],
+            [
+              "Explication",
+              "Démontrer une lecture",
+              "Plan en mouvements, citations brèves"
+            ],
+            [
+              "Entretien",
+              "Répondre avec précision",
+              "Reconnaître ses lacunes"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "Une explication linéaire n'est pas un résumé chronologique.",
+            "On s'adresse au jury, on ne lit pas un texte rédigé.",
+            "Une réponse fausse est plus risquée qu'un « je ne sais pas » assumé.",
+            "Le plan doit rester simple pour être tenu à l'oral."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Lire le texte à voix haute plusieurs fois.",
+            "Repérer les mouvements et formuler une problématique.",
+            "Préparer un plan court et quelques citations.",
+            "S'entraîner debout, sans notes complètes.",
+            "Répondre à l'entretien avec précision et honnêteté."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Lire son exposé comme un devoir écrit.",
+            "Surcharger l'introduction de biographie.",
+            "Citer de longs passages sans analyse.",
+            "Improviser une réponse quand on ne sait pas.",
+            "Ignorer le parcours associé à l'œuvre."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">explication linéaire</span> → suivre le mouvement",
+            "<span class=\"cle\">citation brève</span> → preuve intégrée",
+            "<span class=\"cle\">entretien</span> → précision et honnêteté",
+            "<span class=\"cle\">posture</span> → regard et voix"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Préparer son oral",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : 1 · Préparer son oral\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Préparer son oral</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Lire le texte à voix haute</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Repérer les mouvements</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Formuler la problématique</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Préparer un plan court</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">S'entraîner à parler debout</text></svg>"
+        },
+        {
+          "titre": "2 · Exposé / entretien",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 2 · Exposé / entretien\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Exposé / entretien</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Exposé</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Plan annoncé</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Citation et analyse</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Conclusion qui répond</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Entretien</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Questions du jury</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Précision et honnêteté</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Pistes proposées</text></svg>"
+        },
+        {
+          "titre": "3 · Critères de réussite",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"3 · Critères de réussite\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Critères de réussite</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Critère</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Attendu</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Piège</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Clarté</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Plan lisible</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Notes lues</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Voix</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Articulation</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Monotonie</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Analyse</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Procédés et effets</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Paraphrase</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "2e"
+      ],
+      "matiere": "Français",
+      "titre": "FR8. · L'œuvre au programme et le parcours associé",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : oeuvre au programme, parcours associe, repere, personnage, scene charniere, point de vue, reception, comparaison, relecture",
+      "points": [
+        "Les programmes de CPGE fixent des œuvres au programme, souvent associées à un parcours thématique : histoire, société, esthétique.",
+        "L'étude d'une œuvre au programme exige une lecture intégrale, pas la seule mémorisation d'un résumé ou d'une fiche.",
+        "Le parcours associé est un ensemble de textes et d'œuvres qui éclairent l'œuvre principale sous un angle précis.",
+        "Il faut maîtriser les repères essentiels : auteur, date de publication, genre, courant, contexte historique et réception.",
+        "La lecture doit être active : relever les motifs récurrents, les personnages, les scènes charnières et les évolutions de ton.",
+        "Une œuvre se lit aussi dans son histoire : éditions, censure, réception critique, adaptations et traductions.",
+        "Les personnages principaux se définissent par leurs désirs, leurs conflits et leur évolution au fil du récit.",
+        "Le narrateur et le point de vue déterminent ce que le lecteur sait et ce qu'il ignore : c'est un choix d'écriture majeur.",
+        "Les grandes scènes font sens : il faut savoir les situer et expliquer leur rôle dans l'économie de l'œuvre.",
+        "Le parcours permet d'établir des comparaisons : même thème traité par un autre auteur, même forme dans un autre siècle.",
+        "En concours, une référence précise à l'œuvre et au parcours valorise une copie, à condition d'être analysée.",
+        "Le but n'est pas de connaître par cœur mais d'être capable de relire, de comparer et d'interpréter."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce qu'un parcours associé ?",
+          "options": [
+            "Un résumé de l'œuvre",
+            "Un ensemble de textes qui éclairent l'œuvre selon un thème",
+            "Une biographie",
+            "Une liste de dates"
+          ],
+          "correct": 1,
+          "correction": "Le parcours regroupe des œuvres et des documents autour d'une problématique commune à l'œuvre au programme."
+        },
+        {
+          "type": "qcm",
+          "q": "Que faut-il maîtriser sur une œuvre au programme ?",
+          "options": [
+            "Le seul résumé",
+            "Auteur, date, genre, contexte et scènes clés",
+            "Le nombre de pages",
+            "La couverture"
+          ],
+          "correct": 1,
+          "correction": "Ces repères permettent de situer l'œuvre et de répondre avec précision."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi étudier la réception d'une œuvre ?",
+          "options": [
+            "Pour connaître le prix",
+            "Pour comprendre son impact et ses lectures successives",
+            "Pour la corriger",
+            "Pour l'illustrer"
+          ],
+          "correct": 1,
+          "correction": "La réception (censure, critiques, adaptations) révèle ce que l'œuvre a fait à son époque et après."
+        },
+        {
+          "type": "qcm",
+          "q": "Que détermine le point de vue narratif ?",
+          "options": [
+            "La longueur du livre",
+            "Ce que le lecteur sait ou ignore",
+            "Le prix",
+            "L'éditeur"
+          ],
+          "correct": 1,
+          "correction": "Le choix du narrateur régit l'information donnée au lecteur et donc l'effet de lecture."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est l'intérêt de comparer avec le parcours ?",
+          "options": [
+            "Remplacer l'analyse",
+            "Dégager des constantes et des différences",
+            "Allonger la copie",
+            "Éviter de citer"
+          ],
+          "correct": 1,
+          "correction": "La comparaison éclaire l'originalité de l'œuvre et permet une interprétation plus fine."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la bonne attitude envers une œuvre au programme ?",
+          "options": [
+            "La mémoriser mécaniquement",
+            "La relire et la réinterpréter",
+            "La remplacer par un résumé",
+            "L'ignorer"
+          ],
+          "correct": 1,
+          "correction": "Il faut être capable de revenir au texte et de le relire dans une perspective nouvelle."
+        },
+        {
+          "type": "qcm",
+          "q": "Que sont les scènes charnières ?",
+          "options": [
+            "Des scènes de fin seulement",
+            "Des moments de bascule qui structurent l'œuvre",
+            "Des descriptions",
+            "Des dialogues courts"
+          ],
+          "correct": 1,
+          "correction": "Elles marquent un tournant dans l'action ou dans la conscience d'un personnage."
+        },
+        {
+          "type": "texte",
+          "q": "Comment construire une fiche de révision utile pour une œuvre au programme ?",
+          "reponse": "Une fiche utile ne se contente pas de résumer l'intrigue : elle comporte (1) les repères (auteur, date, genre, courant, contexte), (2) une carte des personnages avec leurs désirs et leur évolution, (3) les cinq ou six scènes charnières avec leur rôle, (4) les motifs et thèmes récurrents, (5) les liens avec le parcours associé et (6) deux ou trois citations courtes analysées. Elle doit rester concise et permettre de retrouver le texte, pas de le remplacer.",
+          "correction": "On insiste sur la fonction de la fiche : orienter la relecture, non mémoriser un substitut du texte."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer en quoi l'étude du parcours associé permet une meilleure interprétation de l'œuvre principale.",
+          "reponse": "Le parcours propose d'autres textes, parfois d'autres époques ou d'autres langues, qui traitent un thème proche : l'exil, la révolte, l'amour, la mort. En les comparant, on repère ce qui est propre à l'œuvre étudiée (sa forme, son ton, sa vision du monde) et ce qu'elle partage avec une tradition. Cette mise en perspective évite de lire l'œuvre comme un objet isolé et permet de formuler une interprétation moins naïve, par exemple en montrant comment un auteur hérite d'un motif et le transforme.",
+          "correction": "On met en relation comparaison, originalité et inscription dans une tradition."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "Une œuvre au programme se relit, se compare et s'interprète : la fiche est un point de départ, jamais un substitut du texte."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "Œuvre au programme + parcours associé = lecture intégrale + mise en perspective",
+          "leg": "Programme · parcours · repères · personnage · point de vue · scène charnière · réception · comparaison"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Élément",
+              "À maîtriser",
+              "Utilité"
+            ],
+            [
+              "Repères",
+              "Auteur, date, genre",
+              "Situer l'œuvre"
+            ],
+            [
+              "Scènes",
+              "Moments de bascule",
+              "Comprendre la structure"
+            ],
+            [
+              "Parcours",
+              "Textes associés",
+              "Comparer et interpréter"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "Une fiche de révision ne remplace pas la lecture du texte.",
+            "Le parcours éclaire l'œuvre, il ne la résume pas.",
+            "Les repères servent l'interprétation, pas la simple citation.",
+            "La réception d'une œuvre change avec les époques."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Lire l'œuvre intégralement et noter ses repères.",
+            "Repérer personnages, scènes charnières et motifs.",
+            "Étudier le narrateur et le point de vue.",
+            "Mettre en relation avec les textes du parcours.",
+            "Construire une fiche concise et relire le texte."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Remplacer la lecture par un résumé appris par cœur.",
+            "Confondre parcours et simple bibliographie.",
+            "Ignorer le contexte historique de publication.",
+            "Citer une œuvre du parcours sans la relier au texte principal.",
+            "Négliger les scènes de transition."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">repères</span> → auteur, date, genre",
+            "<span class=\"cle\">scène charnière</span> → bascule",
+            "<span class=\"cle\">parcours</span> → comparaison",
+            "<span class=\"cle\">fiche</span> → orienter la relecture"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Les repères de l'œuvre",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"1 · Les repères de l'œuvre\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Les repères de l'œuvre</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Repère</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Question</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Exemple</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Auteur</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Qui écrit ?</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Biographie</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Date</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Quand ?</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Contexte</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Genre</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Quelle forme ?</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Roman, théâtre</text></svg>"
+        },
+        {
+          "titre": "2 · Préparer une œuvre",
+          "svg": "<svg viewBox=\"0 0 660 129\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : 2 · Préparer une œuvre\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Préparer une œuvre</text><defs><marker id=\"fl23611\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"114\" height=\"59\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"73.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Lire</text><text x=\"73.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">intégralement</text><text x=\"73.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"131\" y1=\"81\" x2=\"143\" y2=\"81\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl23611)\"/><rect x=\"144\" y=\"52\" width=\"114\" height=\"59\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"201.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Noter les</text><text x=\"201.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">repères</text><text x=\"201.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"259\" y1=\"81\" x2=\"271\" y2=\"81\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl23611)\"/><rect x=\"272\" y=\"52\" width=\"114\" height=\"59\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"329.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Repérer scènes</text><text x=\"329.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">et motifs</text><text x=\"329.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"387\" y1=\"81\" x2=\"399\" y2=\"81\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl23611)\"/><rect x=\"400\" y=\"52\" width=\"114\" height=\"59\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"457.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Étudier le</text><text x=\"457.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">parcours</text><text x=\"457.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"515\" y1=\"81\" x2=\"527\" y2=\"81\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl23611)\"/><rect x=\"528\" y=\"52\" width=\"114\" height=\"59\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"585.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Construire une</text><text x=\"585.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">fiche de</text><text x=\"585.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text></svg>"
+        },
+        {
+          "titre": "3 · Œuvre / parcours",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 3 · Œuvre / parcours\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Œuvre / parcours</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Œuvre principale</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Lecture intégrale</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Scènes charnières</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Point de vue</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Parcours associé</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Textes en dialogue</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Thème commun</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Mise en perspective</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "2e"
+      ],
+      "matiere": "Français",
+      "titre": "FR9. · Argumentation et figures de style",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : argumentation, convaincre, persuader, deduction, induction, analogie, connecteur, metaphore, comparaison, oxymore, hyperbole",
+      "points": [
+        "L'argumentation vise à convaincre ou à persuader par un ensemble de raisons ordonnées autour d'une thèse.",
+        "Convaincre s'adresse à la raison par des preuves ; persuader s'adresse aussi aux émotions et à l'imagination du destinataire.",
+        "Un argument est une raison générale qui soutient la thèse ; une preuve est un fait ou un témoignage qui la confirme.",
+        "Le raisonnement par déduction part de prémisses générales pour aboutir à une conclusion nécessaire (syllogisme).",
+        "Le raisonnement par induction part d'exemples particuliers pour dégager une régularité : il ne donne qu'une probabilité.",
+        "L'analogie compare deux situations pour transférer une conclusion de l'une à l'autre : c'est un raisonnement par ressemblance.",
+        "Les connecteurs logiques structurent le propos : « donc » marque la conclusion, « mais » l'opposition, « puisque » la cause.",
+        "Les figures de style sont des écarts volontaires par rapport à l'expression courante : elles produisent un effet de sens.",
+        "La métaphore transpose un terme d'un domaine dans un autre sans outil de comparaison ; la comparaison utilise « comme ».",
+        "La personnification attribue des qualités humaines à un être ou à un objet ; l'oxymore associe deux termes contradictoires.",
+        "L'hyperbole exagère, l'euphémisme atténue, l'antithèse oppose, l'allitération répète une consonne : chaque figure a un effet propre.",
+        "Dans une copie, il faut nommer la figure, citer le passage et expliquer l'effet produit dans le raisonnement ou dans le texte."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la différence entre convaincre et persuader ?",
+          "options": [
+            "Aucune",
+            "Convaincre s'adresse à la raison, persuader mobilise aussi les émotions",
+            "Persuader est toujours faux",
+            "Convaincre est plus court"
+          ],
+          "correct": 1,
+          "correction": "Les deux visent l'adhésion, mais les moyens diffèrent : preuves d'un côté, pathos et images de l'autre."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce qu'un syllogisme ?",
+          "options": [
+            "Un raisonnement par exemple",
+            "Un raisonnement déductif à deux prémisses",
+            "Une figure de style",
+            "Une objection"
+          ],
+          "correct": 1,
+          "correction": "Tous les hommes sont mortels ; Socrate est un homme ; donc Socrate est mortel."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel raisonnement donne une conclusion seulement probable ?",
+          "options": [
+            "La déduction",
+            "L'induction",
+            "Le syllogisme",
+            "La définition"
+          ],
+          "correct": 1,
+          "correction": "L'induction généralise à partir de cas observés : elle reste révisable par un contre-exemple."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment reconnaître une comparaison ?",
+          "options": [
+            "Elle supprime l'outil",
+            "Elle emploie « comme » ou « tel »",
+            "Elle oppose deux mots",
+            "Elle exagère"
+          ],
+          "correct": 1,
+          "correction": "La comparaison explicite le rapprochement avec un outil, ce qui la distingue de la métaphore."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce qu'un oxymore ?",
+          "options": [
+            "Une opposition de deux phrases",
+            "L'association de deux termes contradictoires",
+            "Une répétition de sons",
+            "Une exagération"
+          ],
+          "correct": 1,
+          "correction": "« Un silence assourdissant » : les deux termes se contredisent pour produire un effet de sens."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel connecteur marque une conclusion ?",
+          "options": [
+            "Mais",
+            "Puisque",
+            "Donc",
+            "Bien que"
+          ],
+          "correct": 2,
+          "correction": "« Donc » introduit la conséquence ou la conclusion du raisonnement."
+        },
+        {
+          "type": "qcm",
+          "q": "Dans une copie, que faut-il faire après avoir nommé une figure ?",
+          "options": [
+            "S'arrêter",
+            "Citer et expliquer son effet",
+            "Changer de paragraphe",
+            "La traduire"
+          ],
+          "correct": 1,
+          "correction": "Le nom de la figure n'est utile que s'il débouche sur l'analyse de son effet."
+        },
+        {
+          "type": "texte",
+          "q": "Distinguer un argument d'une preuve avec un exemple simple.",
+          "reponse": "Un argument est une raison générale : « La peine de mort dissuade parce que la certitude du châtiment pèse sur la décision. » Une preuve est un fait qui vient l'étayer : « Une étude sur les États ayant supprimé la peine capitale montre une hausse des homicides. » L'argument fournit le lien logique ; la preuve fournit l'appui empirique. Une copie solide articule les deux : elle ne se contente ni d'affirmer des principes, ni d'accumuler des faits sans interprétation.",
+          "correction": "On oppose raison générale et fait particulier, puis on montre leur complémentarité."
+        },
+        {
+          "type": "texte",
+          "q": "Analyser l'effet de la métaphore dans la phrase : « Cette idée est une graine qui germera. »",
+          "reponse": "La métaphore transpose le vocabulaire de la botanique (« graine », « germera ») vers le domaine abstrait des idées, sans outil de comparaison. Elle suggère qu'une idée, même petite ou peu visible au départ, possède une vitalité propre et se développera avec le temps. Le choix du verbe au futur ajoute une projection dans l'avenir : l'idée n'est pas encore éclose, mais elle est déjà vivante. L'effet est de rendre sensible et optimiste une réalité abstraite.",
+          "correction": "On identifie le domaine d'origine, le domaine cible, puis l'effet de sens et le rôle du temps verbal."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "Une argumentation solide joint des raisons ordonnées et des figures analysées : convaincre par la preuve, persuader par l'image."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "Argument (raison) + preuve (fait) + figures (effet) → adhésion",
+          "leg": "Argumentation · convaincre · persuader · deduction · induction · analogie · metaphore · comparaison · oxymore"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Raisonnement",
+              "Marche",
+              "Force"
+            ],
+            [
+              "Déduction",
+              "Du général au particulier",
+              "Nécessité si prémisses vraies"
+            ],
+            [
+              "Induction",
+              "Du particulier au général",
+              "Probabilité"
+            ],
+            [
+              "Analogie",
+              "D'un cas à un autre",
+              "Ressemblance"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "Convaincre et persuader ne s'excluent pas : un texte les combine souvent.",
+            "Une induction reste révisable par un contre-exemple.",
+            "Une métaphore n'a pas d'outil de comparaison, contrairement à la comparaison.",
+            "Nommer une figure n'est pas l'analyser."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Identifier la thèse et l'objectif (convaincre ou persuader).",
+            "Repérer les arguments et les preuves.",
+            "Analyser le raisonnement et ses connecteurs.",
+            "Repérer les figures et expliquer leurs effets.",
+            "Évaluer la force de l'argumentation."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Confondre argument et preuve.",
+            "Croire que l'induction donne une certitude.",
+            "Prendre une hyperbole pour une description exacte.",
+            "Oublier d'analyser l'effet d'une figure nommée.",
+            "Confondre « donc » et « pourtant »."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">donc</span> → conclusion",
+            "<span class=\"cle\">syllogisme</span> → déduction",
+            "<span class=\"cle\">comme</span> → comparaison",
+            "<span class=\"cle\">oxymore</span> → contradiction sensible"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Figures et effets",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"1 · Figures et effets\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Figures et effets</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Figure</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Procédé</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Effet</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Métaphore</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Transposition sans outil</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rendre sensible</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Antithèse</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Opposition</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Contraste</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Hyperbole</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Exagération</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Intensifier</text></svg>"
+        },
+        {
+          "titre": "2 · Analyser une argumentation",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : 2 · Analyser une argumentation\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Analyser une argumentation</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Repérer la thèse</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Lister arguments et preuves</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Étudier le raisonnement</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Analyser les figures</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Évaluer l'adhésion produite</text></svg>"
+        },
+        {
+          "titre": "3 · Convaincre / persuader",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 3 · Convaincre / persuader\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Convaincre / persuader</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Convaincre</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Raison et preuves</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Raisonnement explicite</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Adhésion réfléchie</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Persuader</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Émotions et images</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Figures et rythme</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Adhésion sensible</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "2e"
+      ],
+      "matiere": "Français",
+      "titre": "FR10. · La synthèse de documents",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : synthese, document, axe, point commun, divergence, attribution, reformulation, neutralite, plagiat, plan",
+      "points": [
+        "La synthèse consiste à produire un texte nouveau qui rassemble l'essentiel de plusieurs documents sur un même sujet.",
+        "Il ne faut ni juxtaposer des résumés ni ajouter son opinion personnelle : la synthèse est une restitution objective et structurée.",
+        "La première étape est la lecture active : pour chaque document, identifier l'auteur, la nature, la date et la thèse principale.",
+        "On dégage ensuite les idées essentielles en éliminant les exemples, les détails et les redondances.",
+        "Les points communs entre documents constituent les axes de la synthèse ; les divergences sont des oppositions à faire apparaître.",
+        "Un plan de synthèse suit la logique du sujet : problématique, causes, conséquences, solutions ou courants opposés.",
+        "Chaque paragraphe présente une idée générale soutenue par des apports attribués aux documents (« le document 2 souligne que… »).",
+        "Les citations doivent être courtes et exactes ; on les intègre dans la phrase sans couper le sens.",
+        "La reformulation est une exigence : recopier une phrase entière d'un document est un plagiat, même sans intention.",
+        "Le style d'une synthèse est clair, neutre et dense : pas de commentaire personnel, pas de « je », pas de jugement de valeur.",
+        "La conclusion fait le point sans apporter d'élément nouveau : elle répond synthétiquement à la problématique.",
+        "En concours, la synthèse évalue la capacité à lire vite, à hiérarchiser l'information et à écrire avec rigueur."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que doit faire une synthèse de documents ?",
+          "options": [
+            "Résumer chaque document séparément",
+            "Produire un texte nouveau à partir de l'essentiel",
+            "Donner son opinion",
+            "Citer intégralement"
+          ],
+          "correct": 1,
+          "correction": "La synthèse croise les documents pour produire une restitution structurée, pas une juxtaposition."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel élément ne doit pas apparaître dans une synthèse ?",
+          "options": [
+            "La thèse d'un document",
+            "Une citation courte",
+            "L'opinion personnelle de l'auteur de la synthèse",
+            "Une transition"
+          ],
+          "correct": 2,
+          "correction": "La synthèse reste objective : elle restitue sans se prononcer pour son compte."
+        },
+        {
+          "type": "qcm",
+          "q": "Que sont les axes d'une synthèse ?",
+          "options": [
+            "Les titres des documents",
+            "Les grandes idées communes qui structurent le plan",
+            "Les citations",
+            "Les auteurs"
+          ],
+          "correct": 1,
+          "correction": "Les axes dégagent la logique commune des documents et servent de plan."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la place des divergences entre documents ?",
+          "options": [
+            "Elles sont supprimées",
+            "Elles sont intégrées comme oppositions dans le plan",
+            "Elles sont mises en conclusion",
+            "Elles sont ignorées"
+          ],
+          "correct": 1,
+          "correction": "Les désaccords sont des informations : ils enrichissent la synthèse à condition d'être situés."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi faut-il reformuler ?",
+          "options": [
+            "Pour allonger le texte",
+            "Pour éviter le plagiat et produire un texte cohérent",
+            "Pour changer l'auteur",
+            "Pour supprimer les idées"
+          ],
+          "correct": 1,
+          "correction": "Recopier, même sans citation, est un plagiat : la synthèse doit réécrire l'information."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel style est attendu ?",
+          "options": [
+            "Personnel et polémique",
+            "Clair, neutre et dense",
+            "Ironique",
+            "Très littéraire"
+          ],
+          "correct": 1,
+          "correction": "La voix de la synthèse est objective : elle ne porte pas de jugement de valeur."
+        },
+        {
+          "type": "qcm",
+          "q": "Que fait la conclusion d'une synthèse ?",
+          "options": [
+            "Apporte une nouvelle thèse",
+            "Fait le point sans élément nouveau",
+            "Présente l'auteur",
+            "Cite tous les documents"
+          ],
+          "correct": 1,
+          "correction": "Elle clôt la restitution par un bilan synthétique, sans introduire d'idée inédite."
+        },
+        {
+          "type": "texte",
+          "q": "Décrire une méthode en quatre étapes pour réaliser une synthèse de trois documents.",
+          "reponse": "D'abord, lire les documents et repérer pour chacun l'auteur, la date, la nature et la thèse. Ensuite, dégager les idées essentielles en supprimant détails et exemples, puis repérer les points communs et les oppositions. Puis construire un plan en axes : chaque axe correspond à une idée commune sous laquelle on range les apports des différents documents avec des formules d'attribution. Enfin, rédiger dans un style neutre en reformulant, en intégrant quelques citations courtes, et conclure par un bilan sans élément nouveau.",
+          "correction": "On suit lecture → sélection → plan → rédaction, en insistant sur l'attribution et la reformulation."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer pourquoi la juxtaposition de trois résumés ne constitue pas une synthèse.",
+          "reponse": "Trois résumés successifs donnent trois textes autonomes : le lecteur doit lui-même relier les informations, et les contradictions restent sans réponse. La synthèse, elle, construit un seul texte organisé autour de problématiques communes : elle rapproche ce qui va ensemble, confronte ce qui s'oppose et hiérarchise les informations. Là où le résumé suit l'ordre du document, la synthèse suit la logique du sujet. C'est ce travail de mise en relation, et non la seule réduction de longueur, qui définit l'exercice.",
+          "correction": "On oppose ordre des documents et logique du sujet, puis le rôle des relations entre documents."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "La synthèse ne collectionne pas des résumés : elle construit un texte unique à partir des idées qui se répondent."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "Lecture → sélection → axes communs et oppositions → rédaction neutre et reformulée",
+          "leg": "Synthèse · document · axe · point commun · divergence · attribution · reformulation · neutralité"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Étape",
+              "Action",
+              "À éviter"
+            ],
+            [
+              "Lecture",
+              "Repérer auteur, date, thèse",
+              "S'arrêter au titre"
+            ],
+            [
+              "Sélection",
+              "Garder l'essentiel",
+              "Conserver les détails"
+            ],
+            [
+              "Plan",
+              "Dégager des axes",
+              "Un résumé par document"
+            ],
+            [
+              "Rédaction",
+              "Reformuler et attribuer",
+              "Recopier ou juger"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "Les divergences entre documents sont des informations à intégrer.",
+            "Une citation courte doit être intégrée à la phrase.",
+            "La reformulation est une obligation, pas un luxe.",
+            "La conclusion ne doit rien apporter de nouveau."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Lire tous les documents et identifier leur thèse.",
+            "Sélectionner les idées essentielles.",
+            "Repérer points communs et oppositions.",
+            "Construire un plan en axes et attribuer les apports.",
+            "Rédiger de façon neutre et conclure."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Juxtaposer trois résumés.",
+            "Ajouter son opinion personnelle.",
+            "Recopier des phrases entières.",
+            "Oublier d'attribuer une idée à son document.",
+            "Introduire une thèse nouvelle en conclusion."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">axes</span> → idées communes",
+            "<span class=\"cle\">divergence</span> → opposition à situer",
+            "<span class=\"cle\">reformulation</span> → éviter le plagiat",
+            "<span class=\"cle\">neutralité</span> → pas de « je »"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Réaliser une synthèse",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : 1 · Réaliser une synthèse\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Réaliser une synthèse</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Lire et situer les documents</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sélectionner les idées essentielles</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Repérer accords et oppositions</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Construire un plan en axes</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rédiger de façon neutre</text></svg>"
+        },
+        {
+          "titre": "2 · Résumé / synthèse",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 2 · Résumé / synthèse\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Résumé / synthèse</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Résumé</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Un seul document</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Suit l'ordre du texte</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Restitue l'essentiel</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Synthèse</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Plusieurs documents</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Suit le sujet</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Croise et hiérarchise</text></svg>"
+        },
+        {
+          "titre": "3 · Attribution des apports",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"3 · Attribution des apports\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Attribution des apports</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Formule</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Usage</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Exemple</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Le document 1 souligne</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Idée commune</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Thèse principale</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Le document 2 conteste</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Opposition</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Nuance</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Les deux s'accordent</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Point commun</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Conclusion d'axe</text></svg>"
         }
       ]
     }
