@@ -6,12 +6,12 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 
 | Controle | Valeur | Attendu |
 |---|---|---|
-| Catalogue EXTRA_FICHES | 1632 | lisible |
-| Fiches prototype | 1414 | = 96 BIOALC + nouvelles |
+| Catalogue EXTRA_FICHES | 1678 | lisible |
+| Fiches prototype | 1474 | = 96 BIOALC + nouvelles |
 | Annales bibliotheque | 60 | lisible |
-| Filieres converties | 22 | bts-bio, bts-cg, bts-ci, bts-ciel, bts-gpme, bts-mco, bts-ndrc, bts-sio, but-gea, but-info, but-tc, cpge-mpsi, cpge-pci, generale, infirmier, lic-droit, lic-eco, lic-info, lic-maths, lic-psycho, lic-staps, pass |
-| Questions prototype | 13132 | toutes corrigees |
-| Schemas SVG | 4206 | XML valide, sans script |
+| Filieres converties | 23 | bts-bio, bts-cg, bts-ci, bts-ciel, bts-gpme, bts-mco, bts-ndrc, bts-sio, but-gea, but-info, but-tc, cpge-mpsi, cpge-pci, generale, infirmier, lic-droit, lic-eco, lic-info, lic-maths, lic-psycho, lic-staps, lic-svt, pass |
+| Questions prototype | 13672 | toutes corrigees |
+| Schemas SVG | 4386 | XML valide, sans script |
 | Ordre des 7 blocs | 1 | variantes (doit etre 1) |
 | Titles uniques | 0 | doublons (doit etre 0) |
 | Vrais examens filtres | 12 | bts-bio uniquement |
@@ -42,6 +42,7 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 **lic-maths** : 60 prototypes (L1:25, L2:30, L3:14)
 **lic-psycho** : 60 prototypes (L1:18, L2:23, L3:19)
 **lic-staps** : 60 prototypes (L1:21, L2:23, L3:16)
+**lic-svt** : 60 prototypes (L1:17, L2:24, L3:19)
 **pass** : 62 prototypes (PASS1:62)
 
 ## Annales par filiere
@@ -53,9 +54,9 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 ## Verifications
 
 - Syntaxe JavaScript : **OK**
-- Schemas SVG : 4206, tous analysables en XML et sans script/on*/javascript:
-- Blocs d'affichage : 1414 fiche(s), ordre strict identique
-- Questions : 13132, toutes avec correction
+- Schemas SVG : 4386, tous analysables en XML et sans script/on*/javascript:
+- Blocs d'affichage : 1474 fiche(s), ordre strict identique
+- Questions : 13672, toutes avec correction
 - Migrations : filtre prototype + nettoyage + ajout automatique generalises
 
 ## Problemes detectes
