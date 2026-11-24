@@ -1227,8 +1227,8 @@ add("1re", "Maths / stats",
        ("Indépendants", ["P(A∩B)=P(A)P(B)", "Peuvent survenir ensemble", "Information sans effet"]),
        ("Incompatibles", ["P(A∩B)=0", "Ne peuvent pas survenir ensemble", "S'excluent mutuellement"]))])
 
-add("2e", "Maths / stats",
-    "Chapitre MS2. · Variables aléatoires et lois usuelles (PCSI2)",
+add("1re", "Maths / stats",
+    "Chapitre MS2. · Variables aléatoires et lois usuelles (PCSI1)",
     REF_S + " · notions : loi de probabilité, espérance, variance, loi binomiale, loi normale",
     [
         "Une variable aléatoire X associe une valeur numérique à chaque issue d'une expérience aléatoire : elle permet de raisonner sur des grandeurs comme un nombre de succès ou une mesure.",

@@ -148,7 +148,7 @@ F.append(build(
         ("Subordination", ["que, parce que", "Niveaux liés", "Dépendance"]))]))
 
 F.append(build(
-    L1, "Français", "PF2. · Analyse de texte et argumentation", REF_F,
+    L1, "Français", "PF2. · Analyse de texte et argumentation en psychologie", REF_F,
     [
         "L'analyse de texte consiste à dégager le sens d'un passage en reliant sa forme (procédés linguistiques) à son contenu (thèmes, intentions, vision du monde).",
         "La première étape est la lecture attentive : repérer le genre du texte, son auteur, sa date, son destinataire et la situation d'énonciation.",
@@ -926,7 +926,7 @@ F.append(build(
 # =====================================================================
 
 F.append(build(
-    L2, "Informatique", "IN1. · Initiation à l'informatique et aux systèmes", REF_I,
+    L2, "Informatique", "IN1. · Initiation à l'informatique et aux systèmes d'information", REF_I,
     [
         "Un ordinateur est un système qui reçoit, traite, stocke et restitue des informations selon des instructions : c'est le modèle de von Neumann (entrées, CPU, mémoire, sorties).",
         "Le processeur (CPU) exécute les instructions ; sa vitesse s'exprime en gigahertz et le nombre de cœurs détermine la capacité de traitement parallèle.",

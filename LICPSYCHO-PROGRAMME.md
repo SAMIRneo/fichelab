@@ -10,7 +10,7 @@
 
 La licence mention Psychologie est une licence générale de **180 ECTS, six semestres**, qui articule les grands sous-domaines de la discipline : psychologie cognitive, psychologie du développement, psychologie sociale, psychologie de la personnalité (différentielle), psychobiologie / neurosciences, psychologie clinique et psychopathologie, psychologie du travail et des organisations. Le socle méthodologique (statistiques, évaluation, recherche documentaire, déontologie) traverse les trois années.
 
-La mention est pluridisciplinaire : elle comprend des enseignements de **droit, d'économie, de méthodologie universitaire, de français, d'anglais, d'informatique et de mathématiques / statistiques**, dont la weights varient selon les établissements. La carte FicheLab couvre l'ensemble de ces matières afin que le questionnaire puisse proposer des fiches pertinentes pour chaque année.
+La mention est pluridisciplinaire : elle comprend des enseignements de **droit, d'économie, de méthodologie universitaire, de français, d'anglais, d'informatique et de mathématiques / statistiques**, dont le poids varie selon les établissements. La carte FicheLab couvre l'ensemble de ces matières afin que le questionnaire puisse proposer des fiches pertinentes pour chaque année.
 
 **Règle d'or :** chaque information générée démarre « à vérifier » avec sa source officielle. Les fiches sont construites à partir du modèle `data/gen_generale_modele.py` et de la bibliothèque `data/fixtures.py`.
 
@@ -22,7 +22,7 @@ La mention est pluridisciplinaire : elle comprend des enseignements de **droit, 
 
 | Matière FicheLab | Chapitres (préfixes) |
 |---|---|
-| `Psychologie` | **PSY1.** Introduction à la psychologie · **PSY2.** Histoire et méthodes de la psychologie · **PSY4.** Psychologie du développement |
+| `Psychologie` | **PSY1.** Introduction à la psychologie : objet et méthodes · **PSY2.** Histoire et méthodes de la psychologie · **PSY4.** Psychologie du développement |
 | `Statistiques` | **ST1.** Statistiques descriptives · **ST2.** Probabilités · **ST8.** Échantillonnage |
 | `Droit` | **DR1.** Droit de la personne · **DR6.** Responsabilité et droit civil |
 | `Économie` | **EC1.** Économie générale : offre et demande · **EC4.** Comptes nationaux et PIB |
@@ -41,7 +41,7 @@ La mention est pluridisciplinaire : elle comprend des enseignements de **droit, 
 | `Droit` | **DR2.** Droit social et contrat de travail · **DR5.** Droit de la santé et protection des données · **DR7.** Droit pénal et victimes |
 | `Économie` | **EC2.** Marché du travail et emploi · **EC5.** Inflation et politiques économiques |
 | `Méthodologie universitaire` | **MU2.** Rapport de stage · **MU5.** Construction d'un questionnaire et d'une enquête |
-| `Français` | **PF3.** Résumé et note de synthèse · **PF4.** Rhétorique et style scientifique |
+| `Français` | **PF2.** Analyse de texte et argumentation en psychologie · **PF3.** Résumé et note de synthèse · **PF4.** Rhétorique et style scientifique |
 | `Anglais` | **AN2.** Lecture d'articles scientifiques en anglais · **AN3.** Expression écrite en anglais académique |
 | `Informatique` | **IN3.** Bases de données et recherche documentaire · **IN4.** Outils numériques pour le psychologue |
 | `Maths / stats` | **MS4.** Probabilités et statistiques appliquées · **MS5.** Raisonnement logique et démonstration |

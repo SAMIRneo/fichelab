@@ -59,7 +59,7 @@ F = []
 # =====================================================================
 
 F.append(build(
-    L1, "Psychologie", "PSY1. · Introduction à la psychologie", REF_P,
+    L1, "Psychologie", "PSY1. · Introduction à la psychologie : objet et méthodes", REF_P,
     [
         "La psychologie est l'étude scientifique du comportement et des processus mentaux : elle s'intéresse à la façon dont les individus perçoivent, apprennent, pensent, ressentent et agissent.",
         "Elle se distingue du sens commun par sa démarche empirique : les affirmations sont formulées en hypothèses testables puis confrontées à des données recueillies selon des protocoles rigoureux.",
