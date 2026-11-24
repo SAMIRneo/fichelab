@@ -6,12 +6,12 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 
 | Controle | Valeur | Attendu |
 |---|---|---|
-| Catalogue EXTRA_FICHES | 1599 | lisible |
-| Fiches prototype | 1354 | = 96 BIOALC + nouvelles |
+| Catalogue EXTRA_FICHES | 1632 | lisible |
+| Fiches prototype | 1414 | = 96 BIOALC + nouvelles |
 | Annales bibliotheque | 60 | lisible |
-| Filieres converties | 21 | bts-bio, bts-cg, bts-ci, bts-ciel, bts-gpme, bts-mco, bts-ndrc, bts-sio, but-gea, but-info, but-tc, cpge-mpsi, cpge-pci, generale, infirmier, lic-droit, lic-eco, lic-maths, lic-psycho, lic-staps, pass |
-| Questions prototype | 12592 | toutes corrigees |
-| Schemas SVG | 4026 | XML valide, sans script |
+| Filieres converties | 22 | bts-bio, bts-cg, bts-ci, bts-ciel, bts-gpme, bts-mco, bts-ndrc, bts-sio, but-gea, but-info, but-tc, cpge-mpsi, cpge-pci, generale, infirmier, lic-droit, lic-eco, lic-info, lic-maths, lic-psycho, lic-staps, pass |
+| Questions prototype | 13132 | toutes corrigees |
+| Schemas SVG | 4206 | XML valide, sans script |
 | Ordre des 7 blocs | 1 | variantes (doit etre 1) |
 | Titles uniques | 0 | doublons (doit etre 0) |
 | Vrais examens filtres | 12 | bts-bio uniquement |
@@ -38,6 +38,7 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 **infirmier** : 62 prototypes (IFSI1:26, IFSI2:25, IFSI3:11)
 **lic-droit** : 60 prototypes (L1:20, L2:25, L3:15)
 **lic-eco** : 60 prototypes (L1:22, L2:24, L3:14)
+**lic-info** : 60 prototypes (L1:24, L2:35, L3:19)
 **lic-maths** : 60 prototypes (L1:25, L2:30, L3:14)
 **lic-psycho** : 60 prototypes (L1:18, L2:23, L3:19)
 **lic-staps** : 60 prototypes (L1:21, L2:23, L3:16)
@@ -52,9 +53,9 @@ Audit automatique apres injection. Generé par `data/audit_filieres.py`.
 ## Verifications
 
 - Syntaxe JavaScript : **OK**
-- Schemas SVG : 4026, tous analysables en XML et sans script/on*/javascript:
-- Blocs d'affichage : 1354 fiche(s), ordre strict identique
-- Questions : 12592, toutes avec correction
+- Schemas SVG : 4206, tous analysables en XML et sans script/on*/javascript:
+- Blocs d'affichage : 1414 fiche(s), ordre strict identique
+- Questions : 13132, toutes avec correction
 - Migrations : filtre prototype + nettoyage + ajout automatique generalises
 
 ## Problemes detectes

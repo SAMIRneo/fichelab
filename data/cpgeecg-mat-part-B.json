@@ -1,0 +1,2209 @@
+{
+  "fiches": [
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Philosophie",
+      "titre": "PHI1. · Conscience et inconscient",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : conscience, inconscient, cogito, refoulement, rêve, lapsus, symptôme, ça, moi, surmoi, mauvaise foi",
+      "points": [
+        "La conscience désigne le fait, pour un sujet, de se représenter ses propres états et d'en avoir une prise réflexive.",
+        "Descartes fait de la conscience le fondement de la certitude : le « je pense » précède et garantit le « je suis ».",
+        "La conscience est intuition de soi : elle ne se déduit pas d'un raisonnement, elle est immédiate et indubitable.",
+        "La conscience est aussi présence-à-soi : elle rend possible la responsabilité, car on ne répond de ses actes que si on en est conscient.",
+        "Freud découvre l'inconscient comme une instance psychique dont les contenus (désirs, souvenirs) échappent à la conscience mais agissent sur elle.",
+        "L'inconscient n'est pas une simple absence de conscience : c'est un système actif avec ses lois, ses conflits et ses mécanismes.",
+        "Les rêves, les lapsus et les symptômes sont des « formations de l'inconscient » : ils expriment un désir refoulé sous une forme déguisée.",
+        "Le refoulement écarte de la conscience un représentant pulsionnel inacceptable ; le retour du refoulé se manifeste sous forme de symptôme.",
+        "Le ça, le moi et le surmoi forment le modèle topique freudien : le moi médiateur arbitre entre pulsions, interdits et réalité.",
+        "La psychanalyse conteste la transparence du sujet : le moi n'est pas maître de son propre désir, il est habité par des forces inconscientes.",
+        "Sartre reproche à Freud d'avoir fait de l'inconscient une instance quasi objective ; il lui oppose la notion de mauvaise foi : le sujet se cache son propre choix.",
+        "En interne comme dans la vie publique, la question de l'inconscient éclaire la publicité, l'idéologie et les déterminismes qui échappent au contrôle du sujet."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quel est le fondement de la certitude chez Descartes ?",
+          "options": [
+            "La sensation",
+            "Le « je pense »",
+            "L'autorité",
+            "Le probabilisme"
+          ],
+          "correct": 1,
+          "correction": "Le doute méthodique conduit à l'indubitable « je pense, donc je suis »."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce que l'inconscient chez Freud ?",
+          "options": [
+            "Une absence totale d'activité psychique",
+            "Un système psychique actif aux contenus refoulés",
+            "Une erreur de mémoire",
+            "Un simple oubli"
+          ],
+          "correct": 1,
+          "correction": "L'inconscient obéit à ses propres lois et agit sur la conscience malgré son inaccessibilité."
+        },
+        {
+          "type": "qcm",
+          "q": "Que nomme-t-on « formation de l'inconscient » ?",
+          "options": [
+            "Une idée claire",
+            "Un rêve, un lapsus ou un symptôme",
+            "Un raisonnement logique",
+            "Une sensation pure"
+          ],
+          "correct": 1,
+          "correction": "Ces phénomènes expriment sous une forme déguisée un désir inconscient."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel mécanisme écarte un désir inacceptable de la conscience ?",
+          "options": [
+            "La sublimation seule",
+            "Le refoulement",
+            "La démonstration",
+            "L'intuition"
+          ],
+          "correct": 1,
+          "correction": "Le refoulement est l'opération par laquelle un contenu est exclu de la conscience."
+        },
+        {
+          "type": "qcm",
+          "q": "Dans le modèle freudien, quelle instance est médiatrice ?",
+          "options": [
+            "Le ça",
+            "Le surmoi",
+            "Le moi",
+            "L'id"
+          ],
+          "correct": 2,
+          "correction": "Le moi arbitre entre les pulsions du ça, les exigences du surmoi et la réalité."
+        },
+        {
+          "type": "qcm",
+          "q": "Que reproche Sartre à la notion d'inconscient ?",
+          "options": [
+            "Qu'elle est trop rationnelle",
+            "Qu'elle déresponsabilise le sujet",
+            "Qu'elle est trop courte",
+            "Qu'elle ignore les rêves"
+          ],
+          "correct": 1,
+          "correction": "Sartre y voit un déguisement de la mauvaise foi : le sujet se donne des forces pour ne pas assumer son choix."
+        },
+        {
+          "type": "qcm",
+          "q": "La conscience cartésienne est…",
+          "options": [
+            "Déduite d'un principe",
+            "Immediate et indubitable",
+            "Un produit social",
+            "Toujours erronée"
+          ],
+          "correct": 1,
+          "correction": "Elle est une intuition de soi qui précède toute démonstration."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer en quoi la psychanalyse conteste le postulat d'un sujet transparent à lui-même.",
+          "reponse": "Le sujet cartésien se connaît immédiatement par la conscience. Freud montre au contraire que des désirs refoulés, inaccessibles à la conscience, déterminent pourtant les actes, les rêves et les symptômes. Le moi n'est donc ni le maître ni le témoin complet de sa vie psychique : il doit interpréter ses propres manifestations, ce qui ruine l'idée d'une claire connaissance de soi.",
+          "correction": "On oppose transparence cartésienne et opacité freudienne, en s'appuyant sur les formations de l'inconscient."
+        },
+        {
+          "type": "texte",
+          "q": "Comment la notion de mauvaise foi permet-elle à Sartre de répondre à Freud ?",
+          "reponse": "Pour Sartre, ce que Freud appelle inconscient serait plutôt le choix, par le sujet, de ne pas se reconnaître dans son propre désir. La mauvaise foi consiste à se donner comme chose (comme si l'on était déterminé par un ça) pour fuir la liberté et l'angoisse du choix. Le sujet n'est donc pas habité par une instance étrangère : il se déguise à lui-même.",
+          "correction": "On relie mauvaise foi, refus d'assumer sa liberté et critique du déterminisme psychanalytique."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "Le sujet n'est pas forcément transparent à lui-même : entre conscience et inconscient se joue la possibilité de la responsabilité."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "Je pense, donc je suis · le ça, le moi, le surmoi",
+          "leg": "Conscience · réflexivité · inconscient · refoulement · symptôme · mauvaise foi · responsabilité"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Auteur",
+              "Thèse",
+              "Conséquence"
+            ],
+            [
+              "Descartes",
+              "Je pense → je suis",
+              "Certitude du sujet"
+            ],
+            [
+              "Freud",
+              "L'inconscient agit",
+              "Sujet opaque"
+            ],
+            [
+              "Sartre",
+              "Mauvaise foi",
+              "Responsabilité maintenue"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "L'inconscient est actif, ce n'est pas un simple vide de conscience.",
+            "La conscience de soi est réflexive : elle se saisit en se saisissant.",
+            "Le symptôme a un sens : il exprime un conflit, il n'est pas un dérèglement mécanique.",
+            "La responsabilité suppose la conscience, mais pas nécessairement la pleine lucidité."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Définir la notion (conscience ou inconscient).",
+            "Présenter la thèse d'un auteur.",
+            "Citer un phénomène probant (rêve, lapsus, doute).",
+            "Formuler l'objection d'un autre auteur.",
+            "Conclure sur le statut du sujet."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Confondre inconscient et subconscient ou simple oubli.",
+            "Croire que Freud supprime toute liberté.",
+            "Réduire la conscience à la seule perception sensible.",
+            "Présenter le surmoi comme la morale personnelle choisie.",
+            "Oublier que le refoulement suppose un retour du refoulé."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">Cogito</span> → certitude indubitable",
+            "<span class=\"cle\">lapsus</span> → désir refoulé",
+            "<span class=\"cle\">ça / moi / surmoi</span> → conflit psychique",
+            "<span class=\"cle\">mauvaise foi</span> → fuite de la liberté"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Conscience ou inconscient",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"1 · Conscience ou inconscient\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Conscience ou inconscient</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Auteur</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Position</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Thèse</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Descartes</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Conscience</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Intuition de soi</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Freud</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Inconscient</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Désirs refoulés</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sartre</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mauvaise foi</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choix nié</text></svg>"
+        },
+        {
+          "titre": "2 · Construire la notion",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : 2 · Construire la notion\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Construire la notion</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir le terme</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Donner l'exemple classique</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Présenter la thèse</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Formuler l'objection</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Proposer une synthèse</text></svg>"
+        },
+        {
+          "titre": "3 · Deux modèles du sujet",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 3 · Deux modèles du sujet\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Deux modèles du sujet</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Sujet transparent</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Conscience immédiate</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Maîtrise de soi</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Descartes</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Sujet opaque</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Inconscient actif</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Désir ignoré</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Freud</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Philosophie",
+      "titre": "PHI2. · Liberté et déterminisme",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : liberte, determination, libre arbitre, causalite, autonomie, phenomenes, noumenes, responsabilite, mauvaise foi, imputabilite",
+      "points": [
+        "La liberté peut être comprise comme l'absence de contrainte extérieure : pouvoir faire ce que l'on veut sans empêchement.",
+        "Le déterminisme affirme que tout événement, y compris les actions humaines, est la conséquence nécessaire de causes antérieures.",
+        "Le libre arbitre est la capacité du sujet à choisir indépendamment des causes qui le déterminent : c'est la liberté d'indétermination.",
+        "Diderot illustre le déterminisme par la chaîne des causes : l'homme croit choisir alors qu'il est le dernier anneau d'une série nécessaire.",
+        "Le déterminisme scientifique (Laplace) étend la causalité à l'ensemble du réel : une intelligence qui connaîtrait toutes les causes prédirait l'avenir.",
+        "La liberté est alors une illusion anthropocentrique, liée à l'ignorance des causes réelles de nos actes.",
+        "Kant répond en distinguant phénomènes et noumènes : dans le monde phénoménal règne la causalité, mais comme être raisonnable l'homme est libre.",
+        "La liberté kantienne est autonomie : obéir à la loi morale que la raison se donne, plutôt que céder aux penchants sensibles.",
+        "Hegel dépasse l'opposition : la liberté n'est pas l'absence de détermination mais l'identité du sujet avec la raison dans l'État.",
+        "Sartre radicalise la liberté : l'existence précède l'essence, l'homme est condamné à être libre et ne peut rejeter sa responsabilité.",
+        "Les neurosciences contemporaines relancent le débat en montrant des corrélats cérébraux de la décision avant la conscience de choisir.",
+        "Le débat oppose deux exigences : rendre compte de l'ordre causal du monde et maintenir l'imputabilité morale des actes."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Que soutient le déterminisme ?",
+          "options": [
+            "Que les actes sont sans cause",
+            "Que tout événement a une cause nécessaire",
+            "Que la liberté est totale",
+            "Que le hasard régit tout"
+          ],
+          "correct": 1,
+          "correction": "Le déterminisme affirme la nécessité causale universelle, y compris pour les actions humaines."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce que le libre arbitre ?",
+          "options": [
+            "L'absence de motifs",
+            "La capacité de choisir sans être déterminé",
+            "La soumission aux lois",
+            "L'obéissance"
+          ],
+          "correct": 1,
+          "correction": "Le libre arbitre est l'indétermination du choix, definition classique du pouvoir de choisir autrement."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment Kant concilie-t-il liberté et déterminisme ?",
+          "options": [
+            "En niant la causalité",
+            "En distinguant phénomène et noumène",
+            "En supprimant la morale",
+            "En niant la science"
+          ],
+          "correct": 1,
+          "correction": "Causalité dans le monde des phénomènes, liberté comme être raisonnable (noumène)."
+        },
+        {
+          "type": "qcm",
+          "q": "La liberté kantienne est…",
+          "options": [
+            "Le fait de suivre ses penchants",
+            "L'autonomie de la raison",
+            "L'absence de lois",
+            "Le hasard"
+          ],
+          "correct": 1,
+          "correction": "L'autonomie est l'obéissance à la loi morale que la raison se prescrit à elle-même."
+        },
+        {
+          "type": "qcm",
+          "q": "Que signifie « l'existence précède l'essence » ?",
+          "options": [
+            "L'homme est déterminé",
+            "L'homme se définit par ses choix",
+            "L'homme est un objet",
+            "L'homme n'existe pas"
+          ],
+          "correct": 1,
+          "correction": "Sartre affirme que l'homme n'a pas de nature prédéfinie : il se construit par ses actes."
+        },
+        {
+          "type": "qcm",
+          "q": "Pour Diderot, la liberté est…",
+          "options": [
+            "Une évidence",
+            "Une illusion due à l'ignorance des causes",
+            "Un don divin",
+            "Une propriété de la matière"
+          ],
+          "correct": 1,
+          "correction": "Nous croyons choisir parce que nous ignorons la chaîne des causes qui nous déterminent."
+        },
+        {
+          "type": "qcm",
+          "q": "Que reproche-t-on au déterminisme sur le plan moral ?",
+          "options": [
+            "Qu'il est trop optimiste",
+            "Qu'il rend la responsabilité difficile",
+            "Qu'il nie la science",
+            "Qu'il nie les causes"
+          ],
+          "correct": 1,
+          "correction": "Si l'acte est nécessaire, il devient difficile d'imputer une faute à son auteur."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer la réponse kantienne à l'objection du déterminisme.",
+          "reponse": "Kant admet que dans le monde des phénomènes — objet de la science — tout est soumis à la causalité. Mais cette causalité ne s'applique pas au sujet considéré comme être raisonnable, qui appartient au monde intelligible (noumène). En tant que raison, l'homme se donne sa propre loi : il est autonome. La liberté n'est donc pas l'absence de causalité, mais une causalité d'un autre type, celle de la raison.",
+          "correction": "On présente la distinction phénomène/noumène puis la définition de l'autonomie."
+        },
+        {
+          "type": "texte",
+          "q": "Un neuroscientifique observe qu'une décision est précédée d'une activation cérébrale. Que peut-on en conclure sans hâte ?",
+          "reponse": "On peut conclure que la décision a un corrélat neuronal et que des processus inconscients préparent le choix. On ne peut pas en conclure directement que la liberté est une illusion : il faut encore déterminer si l'activation est une cause ou un simple signe précurseur, et à quel niveau d'analyse (neuronal, psychologique, social) se situe l'explication. Le débat porte sur l'interprétation des données, pas sur leur existence.",
+          "correction": "On distingue corrélation et causalité, et on situe les différents niveaux d'explication."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "Liberté et déterminisme ne s'excluent peut-être pas : tout dépend du sens que l'on donne à chacun des deux termes."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "Liberté = absence de contrainte / autonomie · déterminisme = nécessité causale",
+          "leg": "Libre arbitre · causalité · autonomie · phénomène · noumène · responsabilité · imputabilité"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Position",
+              "Auteur",
+              "Idée force"
+            ],
+            [
+              "Déterminisme",
+              "Diderot, Laplace",
+              "Illusion du choix"
+            ],
+            [
+              "Autonomie",
+              "Kant",
+              "Loi donnée par la raison"
+            ],
+            [
+              "Existentialisme",
+              "Sartre",
+              "Condamné à être libre"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "Absence de contrainte n'est pas autonomie : on peut être libre d'agir mais déterminé à vouloir.",
+            "Le hasard n'est pas la liberté : agir au hasard n'est pas choisir.",
+            "La responsabilité morale présuppose une forme de liberté.",
+            "Un corrélat cérébral n'est pas une preuve de déterminisme absolu."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Définir la liberté envisagée (contrainte, arbitre, autonomie).",
+            "Exposer la thèse déterministe et son argument.",
+            "Présenter une réponse (Kant, Hegel ou Sartre).",
+            "Tester la cohérence avec la responsabilité morale.",
+            "Conclure en précisant le niveau d'analyse."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Réduire la liberté à l'absence de contrainte.",
+            "Confondre déterminisme et fatalisme.",
+            "Croire que Kant nie la causalité scientifique.",
+            "Assimiler liberté et imprévisibilité.",
+            "Conclure d'une corrélation neuronale à une absence de liberté."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">Cogito</span> → liberté de pensée",
+            "<span class=\"cle\">Kant</span> → autonomie, loi morale",
+            "<span class=\"cle\">Sartre</span> → existence avant essence",
+            "<span class=\"cle\">Laplace</span> → prévision universelle"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Trois sens de la liberté",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"1 · Trois sens de la liberté\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Trois sens de la liberté</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Sens</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Définition</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Auteur</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sans contrainte</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Pouvoir agir</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Classique</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Libre arbitre</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choisir sans cause</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Descartes</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Autonomie</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Se donner sa loi</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Kant</text></svg>"
+        },
+        {
+          "titre": "2 · Instruire la question",
+          "svg": "<svg viewBox=\"0 0 660 116\" width=\"100%\" role=\"img\" aria-label=\"Enchainement : 2 · Instruire la question\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Instruire la question</text><defs><marker id=\"fl44081\" markerWidth=\"9\" markerHeight=\"9\" refX=\"7\" refY=\"3\" orient=\"auto\"><path d=\"M0 0 L7 3 L0 6 z\" fill=\"var(--ac)\"/></marker></defs><rect x=\"16\" y=\"52\" width=\"114\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"73.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Définir les</text><text x=\"73.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">termes</text><text x=\"73.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"131\" y1=\"75\" x2=\"143\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl44081)\"/><rect x=\"144\" y=\"52\" width=\"114\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"201.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Exposer le</text><text x=\"201.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">déterminisme</text><text x=\"201.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"259\" y1=\"75\" x2=\"271\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl44081)\"/><rect x=\"272\" y=\"52\" width=\"114\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"329.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Présenter une</text><text x=\"329.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">objection</text><text x=\"329.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"387\" y1=\"75\" x2=\"399\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl44081)\"/><rect x=\"400\" y=\"52\" width=\"114\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"457.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Tester la</text><text x=\"457.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">responsabilité</text><text x=\"457.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text><line x1=\"515\" y1=\"75\" x2=\"527\" y2=\"75\" stroke=\"var(--ac)\" stroke-width=\"2\" marker-end=\"url(#fl44081)\"/><rect x=\"528\" y=\"52\" width=\"114\" height=\"46\" rx=\"7\" fill=\"var(--card2)\" stroke=\"var(--ac)\"/><text x=\"585.0\" y=\"72\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Conclure avec</text><text x=\"585.0\" y=\"86\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">nuance</text><text x=\"585.0\" y=\"96\" text-anchor=\"middle\" fill=\"var(--fg)\" font-size=\"9\"></text></svg>"
+        },
+        {
+          "titre": "3 · Déterminisme / liberté",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 3 · Déterminisme / liberté\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Déterminisme / liberté</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Déterminisme</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Chaîne des causes</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Prévisibilité</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Risque pour l'imputation</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Liberté</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Choix possible</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Responsabilité</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Autonomie ou indétermination</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Philosophie",
+      "titre": "PHI3. · Vérité, certitude et doute",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : verite, certitude, doute, evidence, cogito, scepticisme, epochè, ataraxie, Hume, Kant, evidence",
+      "points": [
+        "La vérité est l'adéquation de l'esprit à son objet : une proposition est vraie si elle correspond à ce qui est (conception classique).",
+        "La certitude est l'adhésion ferme de l'esprit à une proposition, indépendamment de la qualité de la preuve : on peut être certain à tort.",
+        "Le doute méthodique de Descartes suspend toute assertion qui peut être révoquée en doute, afin de trouver un fondement indubitable.",
+        "Le doute hyperbolique pousse la suspension jusqu'aux vérités mathématiques par l'hypothèse d'un génie malin.",
+        "Le « cogito » est le premier point qui résiste au doute : je ne peux douter que je doute, donc j'existe comme esprit.",
+        "L'évidence est le caractère d'une proposition qui s'impose immédiatement à l'esprit : elle est le critère de la vérité cartésienne.",
+        "Le scepticisme (Pyrrhon, Sextus Empiricus) suspend le jugement pour atteindre l'ataraxie, la tranquillité de l'âme.",
+        "Le scepticisme moderne (Hume) conteste la possibilité de connaître les causes nécessaires : nous observons des successions, non des liaisons nécessaires.",
+        "Kant propose une « révolution copernicienne » : la vérité est possible parce que le sujet contribue à la forme de l'expérience (espace, temps, catégories).",
+        "La vérité devient alors adéquation à l'objet possible de l'expérience, et non à une chose en soi inaccessible.",
+        "Nietzsche soutient que la vérité est une « illusion » dont on a oublié le caractère : elle sert la vie et s'impose par son utilité.",
+        "La distinction entre vérité, certitude et probabilité est décisive dans les sciences et dans la vie publique, où l'on décide souvent sous incertitude."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la définition classique de la vérité ?",
+          "options": [
+            "L'adhésion ferme à une proposition",
+            "L'adéquation de l'esprit à son objet",
+            "L'utilité d'une croyance",
+            "La beauté d'une idée"
+          ],
+          "correct": 1,
+          "correction": "Veritas est adequatio intellectus et rei : la vérité est conformité de l'intelligence et de la chose."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le critère cartésien de la vérité ?",
+          "options": [
+            "L'autorité",
+            "L'évidence",
+            "La probabilité",
+            "Le consensus"
+          ],
+          "correct": 1,
+          "correction": "Tout ce qui est conçu clairement et distinctement est vrai : l'évidence fait certitude."
+        },
+        {
+          "type": "qcm",
+          "q": "À quoi sert le génie malin chez Descartes ?",
+          "options": [
+            "À prouver l'existence de Dieu",
+            "À pousser le doute jusqu'aux mathématiques",
+            "À nier le cogito",
+            "À expliquer l'erreur"
+          ],
+          "correct": 1,
+          "correction": "C'est l'hypothèse hyperbolique ultime, qui rend douteuses même les évidences mathématiques."
+        },
+        {
+          "type": "qcm",
+          "q": "Que soutient le scepticisme antique ?",
+          "options": [
+            "Qu'il faut tout croire",
+            "Qu'il faut suspendre le jugement",
+            "Que la vérité est évidente",
+            "Que le doute est impossible"
+          ],
+          "correct": 1,
+          "correction": "L'épochè (suspension du jugement) vise l'ataraxie, l'absence de trouble."
+        },
+        {
+          "type": "qcm",
+          "q": "Que conteste Hume ?",
+          "options": [
+            "L'existence des sensations",
+            "La perception d'une liaison nécessaire entre causes et effets",
+            "Le droit de douter",
+            "La réalité du monde"
+          ],
+          "correct": 1,
+          "correction": "On ne perçoit que des successions : la nécessité causale est une habitude de l'esprit."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce que la révolution copernicienne kantienne ?",
+          "options": [
+            "Le sujet se conforme à l'objet",
+            "L'objet se conforme aux conditions de connaissance du sujet",
+            "Le monde est illusoire",
+            "La vérité est relative"
+          ],
+          "correct": 1,
+          "correction": "Kant inverse la relation : les objets de l'expérience sont possibles grâce aux formes a priori du sujet."
+        },
+        {
+          "type": "qcm",
+          "q": "Pour Nietzsche, la vérité est…",
+          "options": [
+            "Une chose en soi",
+            "Une illusion utile à la vie",
+            "Une évidence indubitable",
+            "Un don de Dieu"
+          ],
+          "correct": 1,
+          "correction": "Les concepts sont des métaphores oubliées comme telles, au service de la conservation de la vie."
+        },
+        {
+          "type": "texte",
+          "q": "Distinguer la vérité de la certitude avec un exemple.",
+          "reponse": "La vérité concerne la conformité de l'énoncé à la réalité : « cette pièce mesure 10 mètres » est vraie si la mesure le confirme. La certitude concerne l'état psychique du sujet : une personne peut être parfaitement certaine que la pièce mesure 10 mètres alors qu'elle mesure 9,8 mètres. On peut donc être certain à tort, et l'on peut aussi avoir raison sans être certain (en pariant prudemment sur une hypothèse probable).",
+          "correction": "On sépare la propriété de l'énoncé (vérité) de l'attitude du sujet (certitude)."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer pourquoi le cogito n'est pas une contradiction : doubter de tout, c'est déjà être certain de quelque chose.",
+          "reponse": "La démarche cartésienne suspend toutes les propositions susceptibles d'être fausses. Mais l'acte même de douter ne peut pas être simulé par le génie malin : pour douter que je pense, il faut encore que je pense. Le doute se détruit lui-même s'il s'applique à sa propre existence. Le cogito n'est donc pas le premier énoncé d'un système déduit, mais le point d'arrêt de la méthode : une intuition immédiate qui échappe à la règle du doute.",
+          "correction": "On montre que l'opération de douter est auto-vérifiante et ne peut être révoquée sans se confirmer."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "Douter, ce n'est pas renoncer à la vérité : c'est chercher un point qui résiste au doute pour fonder la connaissance."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "Cogito, ergo sum · évidence = clarté et distinction",
+          "leg": "Vérité · certitude · doute · évidence · épochè · ataraxie · cause · a priori"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Notion",
+              "Nature",
+              "Exemple"
+            ],
+            [
+              "Vérité",
+              "Conformité au réel",
+              "Une mesure exacte"
+            ],
+            [
+              "Certitude",
+              "Adhésion du sujet",
+              "Une conviction forte"
+            ],
+            [
+              "Doute",
+              "Suspension d'adhésion",
+              "Une hypothèse incertaine"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "On peut être certain à tort : certitude ne garantit pas vérité.",
+            "Le doute cartésien est méthodique, il n'est pas un scepticisme final.",
+            "L'évidence est un critère subjectif mais universellement partageable chez Descartes.",
+            "Hume ne nie pas la causality, il nie qu'on la perçoive."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Définir la notion envisagée.",
+            "Citer l'auteur et son argument central.",
+            "Donner un exemple ou une image (génie malin, scepticisme).",
+            "Formuler une objection ou une distinction.",
+            "Conclure sur le statut de la connaissance."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Confondre certitude psychologique et vérité logique.",
+            "Croire que Descartes doute de l'existence du monde à la fin.",
+            "Prendre le scepticisme pour de l'indifférence.",
+            "Confondre cause et succession temporelle (Hume).",
+            "Réduire la vérité kantienne à du relativisme."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">Cogito</span> → premier indubitable",
+            "<span class=\"cle\">épochè</span> → ataraxie",
+            "<span class=\"cle\">Hume</span> → habitude, non nécessité",
+            "<span class=\"cle\">évidence</span> → clarté, distinction"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Vérité, certitude, doute",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"1 · Vérité, certitude, doute\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Vérité, certitude, doute</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Porte sur</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Critère</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Vérité</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">L'énoncé</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Adéquation</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Certitude</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Le sujet</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Adhésion</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Doute</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">L'adhésion</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Suspension</text></svg>"
+        },
+        {
+          "titre": "2 · Appliquer le doute méthodique",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : 2 · Appliquer le doute méthodique\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Appliquer le doute méthodique</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Suspendre l'incertain</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Pousser au doute hyperbolique</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Trouver l'indubitable</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Poser le cogito</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Reconstruire à partir de l'évidence</text></svg>"
+        },
+        {
+          "titre": "3 · Scepticisme / dogmatisme",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 3 · Scepticisme / dogmatisme\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Scepticisme / dogmatisme</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Scepticisme</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Suspension du jugement</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Ataraxie</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Pas d'affirmation</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Dogmatisme</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Affirmation de la vérité</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Confiance dans la raison</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Fondement requis</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "1re"
+      ],
+      "matiere": "Philosophie",
+      "titre": "PHI4. · Technique, nature et travail",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : technique, technè, outil, travail, alienation, division du travail, Promethee, Bestand, Gestell,Finalite",
+      "points": [
+        "La technique désigne l'ensemble des procédés et des outils par lesquels l'homme transforme la nature pour satisfaire ses besoins.",
+        "Au sens aristotélicien, la technè est un savoir-faire orienté vers une fin extérieure à l'activité : elle est science de la fabrication.",
+        "La technique est ambivalente : elle libère de la contrainte naturelle mais peut asservir l'homme à l'appareil qu'il a créé.",
+        "Prométhée vole le feu aux dieux : le mythe raconte l'origine technique de l'humanité et la transgression qui l'accompagne.",
+        "Platon critique l'écriture comme technique qui affaiblit la mémoire et dispense de la maîtrise vivante du savoir.",
+        "Marx voit dans le travail l'activité spécifiquement humaine : l'homme se reconnaît dans son oeuvre, mais la division du travail l'aliène.",
+        "L'aliénation au travail revêt quatre formes : vis-à-vis du produit, du procès, de l'espèce humaine et d'autrui.",
+        "L'outil prolonge le corps (main, œil) mais il peut aussi rendre l'opérateur dépendant d'un système dont il ne maîtrise plus la logique.",
+        "Heidegger analyse la technique comme une « requisition » de la nature, appelée à fournir des ressources (Bestand) plutôt qu'à être habitée.",
+        "Le danger n'est pas l'outil mais le « Gestell », le dispositif qui enjoint à tout considérer comme disponible et optimisable.",
+        "L'écologie politique demande de réconcilier technique et nature : la technique peut être restauratrice si elle s'intègre à un milieu.",
+        "La question philosophique porte sur la finalité : la technique est-elle un moyen neutre ou porte-t-elle une vision du monde ?"
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce que la technè chez Aristote ?",
+          "options": [
+            "Une science pure",
+            "Un savoir-faire orienté vers une fin",
+            "Une opinion",
+            "Une vertu morale"
+          ],
+          "correct": 1,
+          "correction": "La technè est un savoir-faire productif, distinct de la science théorique et de l'action morale."
+        },
+        {
+          "type": "qcm",
+          "q": "Selon Marx, quelle est l'activité spécifiquement humaine ?",
+          "options": [
+            "La contemplation",
+            "Le travail",
+            "Le repos",
+            "Le langage seul"
+          ],
+          "correct": 1,
+          "correction": "L'homme se distingue par le travail conscient et libre de transformation de la nature."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne l'aliénation du produit du travail ?",
+          "options": [
+            "Le produit n'appartient pas au travailleur",
+            "Le produit est inutile",
+            "Le travailleur est payé",
+            "Le produit est beau"
+          ],
+          "correct": 0,
+          "correction": "Dans le travail aliéné, l'ouvrier ne reconnaît pas son oeuvre : elle lui échappe et devient une puissance étrangère."
+        },
+        {
+          "type": "qcm",
+          "q": "Que reproche Platon à l'écriture ?",
+          "options": [
+            "Qu'elle est coûteuse",
+            "Qu'elle affaiblit la mémoire vivante",
+            "Qu'elle est trop lente",
+            "Qu'elle est illisible"
+          ],
+          "correct": 1,
+          "correction": "Dans le Phèdre, l'écriture dispense de l'exercice de la mémoire et donne l'apparence du savoir."
+        },
+        {
+          "type": "qcm",
+          "q": "Que nomme Heidegger « Bestand » ?",
+          "options": [
+            "Un outil artisanal",
+            "La nature comme réserve de ressources",
+            "Une méthode scientifique",
+            "Un type de travail"
+          ],
+          "correct": 1,
+          "correction": "La nature est réquisitionnée comme stock disponible, ce qui caractérise l'ère technique."
+        },
+        {
+          "type": "qcm",
+          "q": "Que signifie « Gestell » ?",
+          "options": [
+            "Le geste artisanal",
+            "Le dispositif qui enjoint à optimiser",
+            "Une machine précise",
+            "Un objet de musée"
+          ],
+          "correct": 1,
+          "correction": "Le Gestell est la structure qui invite à traiter tout, y compris l'homme, comme ressource."
+        },
+        {
+          "type": "qcm",
+          "q": "La technique est-elle neutre pour Heidegger ?",
+          "options": [
+            "Oui, toujours",
+            "Non, elle révèle un mode de rapport au monde",
+            "Uniquement en chimie",
+            "Seulement si elle est ancienne"
+          ],
+          "correct": 1,
+          "correction": "La technique est une manière de dévoiler le réel, pas un simple instrument indifférent."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer l'ambivalence de la technique à partir du mythe de Prométhée.",
+          "reponse": "Prométhée vole le feu pour le donner aux hommes : la technique est un arrachement à l'ordre des dieux et un don qui rend l'humanité capable de survivre et de créer. Mais le châtiment (chaîné sur le Caucase, foie dévoré) montre que ce progrès a un prix : la transgression, la souffrance et la dépendance à l'égard du feu volé. La technique est donc à la fois émancipation et nouveau lien de servitude.",
+          "correction": "On lit le mythe comme une mise en récit de l'ambivalence : maîtrise acquise et dépendance nouvelle."
+        },
+        {
+          "type": "texte",
+          "q": "Comment une technique peut-elle devenir libératrice puis aliénante selon Marx ?",
+          "reponse": "La machine réduit l'effort et accroît la productivité : elle libère potentiellement du travail pénible et abrège la journée de travail. Mais dans le mode de production capitaliste,'elle devient un moyen d'intensifier le rythme, de diviser le procès de travail en gestes répétitifs et de soumettre l'ouvrier à la cadence de l'outil. L'outil, qui devait être un prolongement du sujet, devient un maître : le travailleur est aliéné au produit, au procès et à son propre genre humain.",
+          "correction": "On suit le raisonnement de Marx :potentialité d'émancipation, puis renversement par les rapports de production."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "La technique prolonge l'homme, mais le prolongement peut devenir une servitude : tout dépend de la finalité et des rapports sociaux."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "Technique = transformer la nature · aliénation = l'oeuvre échappe au travailleur",
+          "leg": "Technè · outil · aliénation · division du travail · Bestand · Gestell · finalité"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Auteur",
+              "Lecture de la technique",
+              "Enjeu"
+            ],
+            [
+              "Aristote",
+              "Savoir-faire (technè)",
+              "Fabrication orientée"
+            ],
+            [
+              "Marx",
+              "Travail et aliénation",
+              "Rapports sociaux"
+            ],
+            [
+              "Heidegger",
+              "Réquisition de la nature",
+              "Mode de dévoilement"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "L'outil n'est ni purement neutre ni purement mauvais : son usage dépend des fins.",
+            "L'aliénation est un rapport social, pas une propriété de l'outil.",
+            "La technique peut être émancipatrice et destructrice en même temps.",
+            "Heidegger ne condamne pas l'outil mais le dispositif de disponibilité générale."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Définir la technique (outil, procédé, savoir-faire).",
+            "Choisir un auteur et sa thèse.",
+            "Examiner un exemple (feu, machine, écriture).",
+            "Formuler l'objection ou le revers (aliénation, Gestell).",
+            "Conclure sur la finalité humaine de la technique."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Confondre technique et technologie au sens contemporain.",
+            "Réduire Marx à une critique de la machine elle-même.",
+            "Croire que Heidegger est un opposant à toute technique.",
+            "Présenter le travail aliéné comme un travail sans outil.",
+            "Oublier la distinction entre moyen et fin."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">Prométhée</span> → feu volé, châtiment",
+            "<span class=\"cle\">Marx</span> → quatre formes d'aliénation",
+            "<span class=\"cle\">Phèdre</span> → critique de l'écriture",
+            "<span class=\"cle\">Gestell</span> → tout comme ressource"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Lectures de la technique",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"1 · Lectures de la technique\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Lectures de la technique</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Auteur</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Notion</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Thèse</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Aristote</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Technè</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Savoir-faire</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Marx</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Aliénation</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Travail dépossédé</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Heidegger</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Gestell</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Nature-réserve</text></svg>"
+        },
+        {
+          "titre": "2 · Analyser un objet technique",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : 2 · Analyser un objet technique\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Analyser un objet technique</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir la finalité de l'objet</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Identifier le gain d'émancipation</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Repérer la dépendance nouvelle</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Situer les rapports sociaux</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Conclure sur l'ambivalence</text></svg>"
+        },
+        {
+          "titre": "3 · Émancipation / aliénation",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 3 · Émancipation / aliénation\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Émancipation / aliénation</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Émancipation</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Gain de temps et de force</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Maîtrise accrue</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Outil au service du sujet</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Aliénation</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Ouvre étrangère</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Rythme imposé</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Le sujet devient fonction</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "2e"
+      ],
+      "matiere": "Philosophie",
+      "titre": "PHI5. · Justice et État",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : justice, equivalence, merite, proportion, contrat social, volonte generale, Rawls, voile d'ignorance, principe de difference, Nozick",
+      "points": [
+        "La justice est la vertu qui consiste à rendre à chacun ce qui lui est dû : elle organise la répartition des biens et des charges.",
+        "Platon définit la justice comme le fait pour chaque partie de l'âme ou de la cité de faire ce qui lui revient : « à chacun son œuvre » — chaque partie de la cité accomplit sa fonction.",
+        "Aristote distingue la justice commutative (égalité dans les échanges) et la justice distributive (proportionnalité dans la répartition).",
+        "La justice commutative corrige les torts et exige une égalité arithmétique entre ce qui est donné et reçu.",
+        "La justice distributive suit une proportion géométrique : les parts sont inégales mais proportionnées au mérite ou au rang.",
+        "Le contrat social (Rousseau) fonde l'autorité politique sur le consentement des citoyens et la volonté générale.",
+        "La volonté générale vise l'intérêt commun, distinct de la somme des volontés particulières : elle rend la liberté compatible avec l'obéissance à la loi.",
+        "Hegel définit l'État comme l'actualité de l'idée éthique : il est l'unité de la famille et de la société civile, supérieur à chacune d'elles.",
+        "Rawls propose une théorie de la justice comme « équité » : les principes sont choisis dans une « position originale » derrière un voile d'ignorance.",
+        "Le premier principe de Rawls garantit les libertés de base égales pour tous ; le second (principe de différence) tolère les inégalités si elles profitent aux plus défavorisés.",
+        "Nozick conteste la redistribution : la justice est historique et procédurale, elle dépend de la légitimité de l'acquisition et du transfert.",
+        "Le débat contemporain oppose égalité de droits, égalité de chances et égalité de résultat, et interroge la place des minorités."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Selon Platon, la justice consiste en…",
+          "options": [
+            "L'égalité de tous",
+            "Chacun faisant ce qui lui revient",
+            "La redistribution des biens",
+            "La loi du plus fort"
+          ],
+          "correct": 1,
+          "correction": "La justice platonicienne est un ordre où chaque partie de la cité accomplit sa fonction propre."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la justice commutative selon Aristote ?",
+          "options": [
+            "Une proportion géométrique",
+            "Une égalité arithmétique dans les échanges",
+            "La générosité",
+            "La peine capitale"
+          ],
+          "correct": 1,
+          "correction": "La justice commutative rétablit l'égalité entre don et contre-don, par exemple dans un contrat ou un délit."
+        },
+        {
+          "type": "qcm",
+          "q": "La justice distributive est…",
+          "options": [
+            "Une répartition proportionnée au mérite",
+            "Une répartition égale pour tous",
+            "Un châtiment",
+            "Un échange commercial"
+          ],
+          "correct": 0,
+          "correction": "Elle suit une proportion géométrique : les parts diffèrent selon la dignité ou le mérite de chacun."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel est le fondement de l'autorité chez Rousseau ?",
+          "options": [
+            "La force",
+            "La tradition",
+            "Le consentement et la volonté générale",
+            "La richesse"
+          ],
+          "correct": 2,
+          "correction": "Le contrat social fait de la volonté générale la source de la loi et de la souveraineté."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne le « voile d'ignorance » chez Rawls ?",
+          "options": [
+            "Un secret d'État",
+            "Une situation de choix sans connaître sa place dans la société",
+            "Une métaphore de la cécité",
+            "Une règle de procédure pénale"
+          ],
+          "correct": 1,
+          "correction": "Dans la position originelle, on ignore sa classe, son talent et sa conception du bien : on choisit alors des principes équitables."
+        },
+        {
+          "type": "qcm",
+          "q": "Que soutient le principe de différence de Rawls ?",
+          "options": [
+            "Toute inégalité est injuste",
+            "Les inégalités sont admises si elles profitent aux plus défavorisés",
+            "Le mérite justifie tout",
+            "La liberté prime sur l'égalité"
+          ],
+          "correct": 1,
+          "correction": "Le principe de différence autorise des écarts à condition qu'ils améliorent la situation des plus pauvres."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la position de Nozick ?",
+          "options": [
+            "Justice redistributive maximale",
+            "Justice procédurale et historique",
+            "Justice égalitaire absolue",
+            "Justice divine"
+          ],
+          "correct": 1,
+          "correction": "Pour Nozick, la justice dépend de la manière dont les biens ont été acquis et transférés, non d'un motif final."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer en quoi le voile d'ignorance permet de choisir des principes justes selon Rawls.",
+          "reponse": "Dans la position originelle, les personnes ignorent leur rang social, leur talent, leur âge et leur conception du bien. Elles ne peuvent donc pas orienter les principes à leur avantage personnel. Dans cette incertitude, le choix rationnel est prudent : on garantit d'abord des libertés de base égales, puis on accepte les inégalités seulement si elles améliorent la situation de celui qui serait le plus défavorisé. Le voile d'ignorance sert ainsi d'épreuve d'impartialité.",
+          "correction": "On relie l'ignorance de sa propre situation à l'impartialité du choix des principes."
+        },
+        {
+          "type": "texte",
+          "q": "Comparer la justice distributive d'Aristote et le principe de différence de Rawls.",
+          "reponse": "Aristote répartit les biens selon une proportion qui tient compte du mérite ou de la dignité de chacun : à chacun selon ce qu'il vaut. Rawls, au contraire, refuse de fonder la justice sur un mérite qui dépend de talents acquis par hasard ; il accepte les inégalités seulement par leur effet sur les plus défavorisés. L'un est une justice proportionnelle au mérite, l'autre une justice compensatoire qui prend la situation la plus fragile comme point de repère.",
+          "correction": "On oppose le critère proportionnel (Aristote) au critère de minimax (Rawls)."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "La justice ne se réduit pas à l'égalité : elle demande de déterminer ce qui est dû à chacun et selon quel critère."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "À chacun son œuvre (Platon) · égalité proportionnelle (Aristote) · voile d'ignorance (Rawls)",
+          "leg": "Justice · mérite · proportion · contrat social · volonté générale · position originelle · différence"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Théorie",
+              "Critère",
+              "Auteur"
+            ],
+            [
+              "Proportion",
+              "Selon le mérite",
+              "Aristote"
+            ],
+            [
+              "Volonté générale",
+              "Intérêt commun",
+              "Rousseau"
+            ],
+            [
+              "Équité",
+              "Position originelle",
+              "Rawls"
+            ],
+            [
+              "Procédure",
+              "Acquisition légitime",
+              "Nozick"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "Justice commutative et distributive répondent à des questions différentes.",
+            "La volonté générale n'est pas la somme des intérêts particuliers.",
+            "Le voile d'ignorance est un dispositif de raisonnement, pas un état réel.",
+            "Une inégalité n'est pas automatiquement injuste pour Rawls."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Définir ce qui est dû (biens, charges, peines).",
+            "Identifier le critère de répartition proposé.",
+            "Citer l'auteur et son argument central.",
+            "Tester le critère avec un exemple concret.",
+            "Formuler une objection (mérite, liberté, hasard)."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Confondre justice commutative et distributive.",
+            "Réduire la volonté générale au vote de la majorité.",
+            "Croire que Rawls interdit toute inégalité.",
+            "Présenter Nozick comme un égalitariste.",
+            "Oublier que le mérite dépend de talents non choisis."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">Aristote</span> → égalité géométrique",
+            "<span class=\"cle\">Rousseau</span> → volonté générale",
+            "<span class=\"cle\">Rawls</span> → voile d'ignorance",
+            "<span class=\"cle\">Nozick</span> → histoire légitime"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Quatre critères de justice",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"1 · Quatre critères de justice\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Quatre critères de justice</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Auteur</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Critère</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Question</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Aristote</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Proportion</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Selon quoi répartir ?</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rousseau</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Volonté générale</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Quel intérêt commun ?</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Rawls</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Équité</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Quel choix impartial ?</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Nozick</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Procédure</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Comment acquérir ?</text></svg>"
+        },
+        {
+          "titre": "2 · Instruire une question de justice",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : 2 · Instruire une question de justice\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Instruire une question de justice</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir le bien à répartir</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Choisir le critère proposé</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Tester avec un cas</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Formuler l'objection</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Conclure sur l'équité</text></svg>"
+        },
+        {
+          "titre": "3 · Rawls / Nozick",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 3 · Rawls / Nozick\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Rawls / Nozick</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Rawls</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Principes choisis sous le voile</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Inégalités conditionnées</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Justice du résultat minimum</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Nozick</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Justice des procédures</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Acquisition et transfert légitimes</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Refus de la redistribution</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "2e"
+      ],
+      "matiere": "Philosophie",
+      "titre": "PHI6. · Bonheur, sagesse et sens de la vie",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : bonheur, plaisir, eudaimonia, vertu, Epicure, ataraxie, stoicisme, Kant, devoir, Nietzsche, amor fati",
+      "points": [
+        "Le bonheur est un état de satisfaction durable : il se distingue du plaisir, qui est une sensation ponctuelle et intense.",
+        "Aristote définit le bonheur (eudaimonia) comme l'activité de l'âme conforme à la vertu, dans une vie complète.",
+        "L'eudaimonia n'est pas un sentiment mais une réussite objective de la vie humaine, liée à l'exercice des vertus.",
+        "Epicure identifie le bonheur à un plaisir durable fait d'absence de douleur (aponia) et de trouble (ataraxie).",
+        "L'épicurisme ne prône pas la débauche : il recommande la simplicité des désirs naturels et nécessaires.",
+        "Les stoïciens font consister le bonheur dans la vie conforme à la nature et à la raison : seule la vertu est un bien.",
+        "Pour les stoïciens, les événements extérieurs sont indifférents : le sage maîtrise son jugement, non les circonstances.",
+        "Kant distingue bonheur et moralité : la morale ne promet pas le bonheur, elle exige de faire son devoir par devoir.",
+        "Le bonheur parfait (summum bonum) exigerait l'accord de la vertu et du bonheur, que Kant reporte dans un au-delà moral.",
+        "Nietzsche critique les morales du ressentiment qui dévalorent la vie : il propose une sagesse tragique d'affirmation du réel.",
+        "L'amor fati consiste à vouloir éternellement retourner son existence, y compris dans sa souffrance.",
+        "La question du bonheur engage une conception de la vie : faut-il la subir, l'optimiser ou l'affirmer ?"
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce que l'eudaimonia chez Aristote ?",
+          "options": [
+            "Un plaisir intense",
+            "Une activité conforme à la vertu dans une vie complète",
+            "Une émotion",
+            "Un hasard heureux"
+          ],
+          "correct": 1,
+          "correction": "Le bonheur aristotélicien est une réussite de l'existence par l'exercice durable des vertus."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne l'ataraxie épicurienne ?",
+          "options": [
+            "Une douleur aiguë",
+            "L'absence de trouble",
+            "Un plaisir violent",
+            "Une croyance"
+          ],
+          "correct": 1,
+          "correction": "L'ataraxie est la tranquillité de l'âme, composante du bonheur avec l'aponia."
+        },
+        {
+          "type": "qcm",
+          "q": "Pour les stoïciens, quel est le seul bien ?",
+          "options": [
+            "La richesse",
+            "La santé",
+            "La vertu",
+            "La gloire"
+          ],
+          "correct": 2,
+          "correction": "Seule la vertu est un bien ; les autres choses sont des indifférents."
+        },
+        {
+          "type": "qcm",
+          "q": "Que recommandent les épicuriens ?",
+          "options": [
+            "La recherche de tous les plaisirs",
+            "La simplicité des désirs naturels et nécessaires",
+            "La douleur volontaire",
+            "Le mépris du corps"
+          ],
+          "correct": 1,
+          "correction": "Epicure privilégie les désirs nécessaires et naturels, dont la satisfaction est durable."
+        },
+        {
+          "type": "qcm",
+          "q": "Que soutient Kant à propos du bonheur et de la morale ?",
+          "options": [
+            "La morale promet le bonheur",
+            "Le devoir ne dépend pas du bonheur",
+            "Le bonheur est le seul bien",
+            "Ils sont identiques"
+          ],
+          "correct": 1,
+          "correction": "L'action morale a lieu par devoir, indépendamment de l'espoir d'être heureux."
+        },
+        {
+          "type": "qcm",
+          "q": "Que signifie « amor fati » chez Nietzsche ?",
+          "options": [
+            "Subir le destin",
+            "Vouloir éternellement son existence",
+            "Fuir la souffrance",
+            "Nier le réel"
+          ],
+          "correct": 1,
+          "correction": "C'est l'affirmation du destin, y compris dans son éternel retour."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle distinction est essentielle ici ?",
+          "options": [
+            "Plaisir / bonheur",
+            "Santé / maladie",
+            "Richesse / pauvreté",
+            "Jeunesse / vieillesse"
+          ],
+          "correct": 0,
+          "correction": "Le plaisir est ponctuel, le bonheur est un état durable et une évaluation de la vie entière."
+        },
+        {
+          "type": "texte",
+          "q": "Comparer la sagesse épicurienne et la sagesse stoïcienne.",
+          "reponse": "Epicure vise l'absence de douleur et de trouble : il faut réduire ses désirs à ce qui est naturel et nécessaire, vivre simplement et cultiver l'amitié. Le sage évite la souffrance plutôt que de la surmonter. Le stoïcien, lui, ne cherche pas à éviter les épreuves : il lui importe seulement de juger correctement ce qui arrive, car les événements sont indifférents et seule la vertu dépend de nous. L'un vise la tranquillité par la limitation des besoins, l'autre la maîtrise intérieure par l'accord avec la raison universelle.",
+          "correction": "On oppose le critère hédoniste (absence de peine) au critère de la vertu (conformité à la raison)."
+        },
+        {
+          "type": "texte",
+          "q": "Pourquoi Kant refuse-t-il de fonder la morale sur le bonheur ?",
+          "reponse": "Le bonheur est un concept empirique et indéterminé : chacun se le représente différemment selon ses désirs et ses expériences. Une morale fondée sur lui serait donc contingente et hétéronome, car elle dépendrait d'un objet désiré. La loi morale, au contraire, doit être universelle et nécessaire : elle s'impose à la raison indépendamment de ce que nous souhaitons. Faire son devoir par devoir, et non pour être heureux, est la condition de la moralité.",
+          "correction": "On oppose caractère empirique du bonheur et universalité de la loi morale."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "Le bonheur n'est pas seulement un sentiment : selon les sagesses, il est une vie réussie, une absence de trouble ou un accord avec la raison."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "Eudaimonia = activité conforme à la vertu · ataraxie = absence de trouble",
+          "leg": "Bonheur · plaisir · vertu · ataraxie · aponia · devoir · amor fati · Sagesse"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "École",
+              "Bonheur =",
+              "Moyen"
+            ],
+            [
+              "Aristote",
+              "Vie vertueuse complète",
+              "Exercice des vertus"
+            ],
+            [
+              "Epicure",
+              "Aponia + ataraxie",
+              "Désirs simples"
+            ],
+            [
+              "Stoïcisme",
+              "Vie conforme à la raison",
+              "Maîtrise du jugement"
+            ],
+            [
+              "Kant",
+              "Hors de la morale",
+              "Devoir par devoir"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "Plaisir et bonheur ne sont pas la même chose.",
+            "Le bonheur épicurien n'est pas une quête de jouissances.",
+            "Le stoïcien n'est pas insensible : il juge les événements.",
+            "Kant ne promet pas le bonheur, il exige le devoir."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Définir le bonheur (plaisir, état, réussite).",
+            "Présenter l'école ou l'auteur.",
+            "Donner le moyen proposé (désirs, vertu, raison).",
+            "Formuler l'objection (Kant, Nietzsche).",
+            "Conclure sur la conception de la vie."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Confondre épicurisme et jouissance immédiate.",
+            "Croire que le stoïcien supprime les émotions.",
+            "Réduire le bonheur aristotélicien à une humeur.",
+            "Faire de Kant un moraliste du bonheur.",
+            "Confondre amor fati et résignation passive."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">Aristote</span> → eudaimonia et vertu",
+            "<span class=\"cle\">Epicure</span> → ataraxie",
+            "<span class=\"cle\">Stoïciens</span> → seule la vertu est bien",
+            "<span class=\"cle\">Nietzsche</span> → amor fati"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Quatre sagesses",
+          "svg": "<svg viewBox=\"0 0 660 190\" width=\"100%\" role=\"img\" aria-label=\"1 · Quatre sagesses\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Quatre sagesses</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">École</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Bonheur</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Condition</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Aristote</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Eudaimonia</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Vertu durable</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Epicure</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Ataraxie</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Désirs simples</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Stoïcisme</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Raison</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Jugement maîtrisé</text><rect x=\"16\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Kant</text><rect x=\"225\" y=\"154\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Devoir</text><rect x=\"434\" y=\"154\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"172\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Indépendant du bonheur</text></svg>"
+        },
+        {
+          "titre": "2 · Conduire une réflexion",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : 2 · Conduire une réflexion\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Conduire une réflexion</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir le bonheur</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Présenter une sagesse</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Donner son moyen</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Formuler une objection</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Déterminer sa propre position</text></svg>"
+        },
+        {
+          "titre": "3 · Épicure / Stoïciens",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 3 · Épicure / Stoïciens\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Épicure / Stoïciens</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Épicure</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Absence de douleur</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Réduire les désirs</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Tranquillité</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Stoïciens</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Accord avec la raison</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Virtu seule</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Maîtrise du jugement</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "2e"
+      ],
+      "matiere": "Philosophie",
+      "titre": "PHI7. · L'art et le beau",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : art, beau, gout, desinteressement, sens commun, sublime, mimesis, catharsis, aura, reproductibilite",
+      "points": [
+        "L'art est une activité de production d'objets ou d'expériences qui visent une forme d'expression et de beauté plutôt que l'utilité.",
+        "La question du beau porte sur ce qui plaît universellement sans intérêt personnel : c'est le « désintéressement » du jugement esthétique.",
+        "Kant analyse le jugement de goût comme subjectif mais prétendant à l'universalité : je dis « c'est beau » et j'attends l'accord d'autrui.",
+        "Le beau se distingue de l'agréable, qui dépend des penchants de chacun, et du bon, qui dépend d'un concept moral.",
+        "Le sublime est une expérience esthétique mêlée d'effroi : la raison se sent agrandie devant ce qui dépasse l'imagination.",
+        "Platon est méfiant envers les arts d'imitation : le poète imite une réalité déjà imitée par les idées, il est à distance de la vérité.",
+        "Aristote réhabilite la poésie : la mimesis n'est pas copie servile mais représentation de l'universel par le vraisemblable.",
+        "La catharsis désigne la purge des émotions (pitié et terreur) que la tragédie opère chez le spectateur.",
+        "Hegel voit dans l'art une forme de l'esprit absolu : il donne à l'idée une existence sensible, mais il est dépassé par la philosophie.",
+        "Duchamp et l'art contemporain déplacent la question : l'art devient une décision, un geste conceptuel plus qu'une maîtrise technique.",
+        "Benjamin analyse la « reproductibilité technique » de l'œuvre d'art : la photographie et le cinéma modifient son statut et son aura.",
+        "L'esthétique interroge donc autant le sujet qui juge que l'œuvre et le monde qu'elle révèle."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce que le désintéressement dans le jugement de goût ?",
+          "options": [
+            "Un jugement sans intérêt personnel",
+            "Une indifférence totale",
+            "Un jugement moral",
+            "Une préférence"
+          ],
+          "correct": 0,
+          "correction": "Kant définit le goût comme une satisfaction sans intérêt, qui ne dépend ni du désir ni de l'utilité."
+        },
+        {
+          "type": "qcm",
+          "q": "Selon Kant, le jugement de goût est…",
+          "options": [
+            "Objectif et démontrable",
+            "Subjectif mais universellement communicable",
+            "Purement personnel",
+            "Morally obligatoire"
+          ],
+          "correct": 1,
+          "correction": "On juge subjectivement tout en réclamant l'accord d'autrui : c'est l'originalité du jugement esthétique."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle distinction kantienne est essentielle ?",
+          "options": [
+            "Beau / agréable / bon",
+            "Beau / cher / utile",
+            "Beau / vrai / faux",
+            "Beau / grand / petit"
+          ],
+          "correct": 0,
+          "correction": "Le beau plaît sans intérêt, l'agréable plaît aux sens, le bon est estimé selon un concept moral."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne la catharsis ?",
+          "options": [
+            "La copie d'un modèle",
+            "La purge des émotions par la tragédie",
+            "La beauté des couleurs",
+            "Le rejet des arts"
+          ],
+          "correct": 1,
+          "correction": "Aristote voit dans la tragédie une purification de la pitié et de la terreur."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la position de Platon sur les arts d'imitation ?",
+          "options": [
+            "Ils sont au plus près de la vérité",
+            "Ils sont à distance de la vérité",
+            "Ils sont inutiles mais vrais",
+            "Ils sont moraux"
+          ],
+          "correct": 1,
+          "correction": "Dans la République, l'art imite le sensible qui imite l'idée : il est deux fois éloigné du vrai."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce que l'aura chez Benjamin ?",
+          "options": [
+            "Un effet de lumière",
+            "L'unicité et l'autorité de l'œuvre",
+            "Un procédé photographique",
+            "Une critique d'art"
+          ],
+          "correct": 1,
+          "correction": "La reproductibilité technique affaiblit la présence unique de l'œuvre et son autorité."
+        },
+        {
+          "type": "qcm",
+          "q": "Avec Duchamp, l'art devient principalement…",
+          "options": [
+            "Une technique virtuose",
+            "Une décision conceptuelle",
+            "Une imitation du réel",
+            "Un objet utilitaire"
+          ],
+          "correct": 1,
+          "correction": "L'urinoir signé déplace l'art de la fabrication vers le geste et le choix de l'artiste."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer pourquoi le jugement de goût prétend à l'universalité sans pouvoir être démontré.",
+          "reponse": "Le jugement « ceci est beau » ne repose sur aucun concept déterminé : je ne peux pas prouver la beauté comme je prouve une proposition mathématique. Pourtant je ne dis pas seulement « cela me plaît » : je demande à autrui d'être d'accord. Kant l'explique par le « sens commun » : la satisfaction esthétique est communicable parce qu'elle met en jeu des facultés (imagination et entendement) que tout sujet possède. L'universalité est donc une exigence de communication, non une preuve.",
+          "correction": "On oppose subjectivité du sentiment et prétention à l'accord universel, via le sens commun."
+        },
+        {
+          "type": "texte",
+          "q": "Comment la reproductibilité technique transforme-t-elle le statut de l'œuvre d'art ?",
+          "reponse": "Avant la photographie, l'œuvre est unique : son origine, son histoire et sa présence physique constituent son « aura ». La reproduction la rend multiple, portative, accessible : l'œuvre quitte son lieu et s'insère dans la vie quotidienne. Benjamin y voit une perte d'autorité (l'aura s'effondre) mais aussi une émancipation : l'art n'est plus le privilège d'un lieu et d'une élite, il devient un objet de masse. Le cinéma, art de la reproduction, devient l'art caractéristique de l'époque.",
+          "correction": "On définit l'aura puis on expose ses deux effets : declin de l'autorité et démocratisation."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "L'art ne se juge pas comme un outil : le goût est une exigence d'accord qui dépasse la simple préférence."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "Goût = satisfaction sans intérêt · beau ≠ agréable · mimesis · aura",
+          "leg": "Esthétique · goût · désintéressement · sens commun · sublime · mimesis · catharsis · aura"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Auteur",
+              "Notion",
+              "Idée"
+            ],
+            [
+              "Platon",
+              "Mimesis",
+              "Art éloigné du vrai"
+            ],
+            [
+              "Aristote",
+              "Catharsis",
+              "Purification des émotions"
+            ],
+            [
+              "Kant",
+              "Goût",
+              "Universel sans concept"
+            ],
+            [
+              "Benjamin",
+              "Aura",
+              "Unique vs reproductible"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "Le beau n'est pas l'agréable : ce qui plait aux sens n'est pas forcément beau.",
+            "Le jugement de goût n'est pas une démonstration.",
+            "La mimesis aristotélicienne n'est pas une copie mécanique.",
+            "La perte de l'aura n'est pas seulement une perte : elle rend l'art accessible."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Définir le terme (beau, goût, imitation).",
+            "Présenter l'auteur et sa thèse.",
+            "Donner un exemple d'œuvre ou d'expérience.",
+            "Formuler une objection ou un déplacement historique.",
+            "Conclure sur le statut de l'art."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Confondre agréable et beau.",
+            "Croire que Kant donne une règle pour être beau.",
+            "Réduire la catharsis à une simple distraction.",
+            "Présenter Platon comme un admirateur des poètes.",
+            "Confondre aura et technique de reproduction."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">Kant</span> → beau sans intérêt",
+            "<span class=\"cle\">Aristote</span> → catharsis",
+            "<span class=\"cle\">Duchamp</span> → geste conceptuel",
+            "<span class=\"cle\">Benjamin</span> → fin de l'aura"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Juger une œuvre",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"1 · Juger une œuvre\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Juger une œuvre</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Jugement</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Fondement</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Exemple</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Agréable</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Penchant personnel</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Une saveur</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Beau</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Sans intérêt</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Un paysage</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Bon</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Concept moral</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Une action juste</text></svg>"
+        },
+        {
+          "titre": "2 · Analyser une œuvre",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : 2 · Analyser une œuvre\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Analyser une œuvre</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir le médium et l'intention</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Repérer la forme et le contenu</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Situer l'auteur et son époque</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Étudier la réception</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Conclure sur le jugement de goût</text></svg>"
+        },
+        {
+          "titre": "3 · Unique / reproductible",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 3 · Unique / reproductible\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Unique / reproductible</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Œuvre unique</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Aura</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Présence originaire</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Lieu et histoire</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Œuvre reproductible</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Multiplicité</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Accès de masse</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Autorité affaiblie</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "2e"
+      ],
+      "matiere": "Philosophie",
+      "titre": "PHI8. · Religion, sacré et laïcité",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : religion, sacre, profane, interdit, rite, totemisme, Durkheim, Marx, opium, Weber, desenchantement, laicite",
+      "points": [
+        "La religion est un ensemble de croyances et de pratiques qui relie l'homme à une réalité transcendante ou sacrée.",
+        "Le sacré désigne ce qui est mis à part, interdit et vénéré : il s'oppose au profane par une qualité ontologique distincte.",
+        "Durkheim définit le sacré par son hétérogénéité avec le profane et par les interdits qui le protègent : il est une force collective.",
+        "Pour Durkheim, la religion est une « superfluité » de la société qui s'ignore : les dieux sont la société personnifiée.",
+        "Le totemisme montre que le sacré est d'abord un symbole collectif : le clan se reconnaît dans un être qui concentre sa force.",
+        "Les rites (commémoratifs, expiatoires, magiques) renouvellent périodiquement l'adhésion au groupe et produisent une effervescence collective.",
+        "Marx dénonce la religion comme « opium du peuple » : elle est l'expression d'une misère réelle et son apaisement illusoire.",
+        "La religion est pour Marx à la fois un symptôme d'aliénation et une protestation contre l'aliénation : elle exprime un besoin de consolation.",
+        "Weber analyse la Modernité comme désenchantement du monde : la rationalisation chasse le mystère mais crée une « cage de fer ».",
+        "L'éthique protestante du travail aurait, selon Weber, favorisé l'esprit du capitalisme par une ascèse intra-mondaine.",
+        "La laïcité à la française sépare l'État des religions tout en garantissant la liberté de conscience et l'égalité des citoyens.",
+        "Le débat contemporain porte sur la place des signes religieux dans l'espace public et sur les limites de la liberté d'expression."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Comment Durkheim définit-il le sacré ?",
+          "options": [
+            "Comme un sentiment individuel",
+            "Comme ce qui est mis à part et frappé d'interdits",
+            "Comme une croyance fausse",
+            "Comme un simple symbole"
+          ],
+          "correct": 1,
+          "correction": "Le sacré se définit par son opposition au profane et par les interdits qui en protègent l'accès."
+        },
+        {
+          "type": "qcm",
+          "q": "Que sont les dieux pour Durkheim ?",
+          "options": [
+            "Des êtres réels",
+            "La société personnifiée",
+            "Des illusions purement individuelles",
+            "Des forces naturelles"
+          ],
+          "correct": 1,
+          "correction": "La force religieuse est la force collective de la société, représentée sous une forme personnelle."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne l'effervescence collective ?",
+          "options": [
+            "Un désordre pathologique",
+            "Une intensification des émotions partagées dans le rite",
+            "Une crise politique",
+            "Une cérémonie privée"
+          ],
+          "correct": 1,
+          "correction": "Les rassemblements rituels produisent une énergie commune qui renforce le lien social."
+        },
+        {
+          "type": "qcm",
+          "q": "Pourquoi Marx parle-t-il d'« opium du peuple » ?",
+          "options": [
+            "Parce que la religion est une drogue",
+            "Parce qu'elle apaise une misère réelle sans la supprimer",
+            "Parce qu'elle est interdite",
+            "Parce qu'elle est minoritaire"
+          ],
+          "correct": 1,
+          "correction": "La religion exprime la souffrance et offre une consolation illusoire au lieu de transformer la cause."
+        },
+        {
+          "type": "qcm",
+          "q": "Que désigne le « désenchantement du monde » chez Weber ?",
+          "options": [
+            "La fin de toutes les croyances",
+            "Le recul du mystère sous l'effet de la rationalisation",
+            "Une catastrophe écologique",
+            "Le triomphe de la magie"
+          ],
+          "correct": 1,
+          "correction": "La rationalisation croissante rend le monde calculable et prive le mystère de sa place."
+        },
+        {
+          "type": "qcm",
+          "q": "Selon Weber, quelle éthique aurait favorisé le capitalisme ?",
+          "options": [
+            "L'éthique catholique",
+            "L'éthique protestante du travail",
+            "L'éthique païenne",
+            "L'éthique féodale"
+          ],
+          "correct": 1,
+          "correction": "L'ascèse intra-mondaine protestante aurait encouragé le travail, l'épargne et l'accumulation."
+        },
+        {
+          "type": "qcm",
+          "q": "Que garantit la laïcité à la française ?",
+          "options": [
+            "Une religion d'État",
+            "La liberté de conscience et l'égalité des citoyens",
+            "L'interdiction de croire",
+            "Le financement des cultes"
+          ],
+          "correct": 1,
+          "correction": "La laïcité sépare l'État des religions et assure à chacun la liberté de croire ou de ne pas croire."
+        },
+        {
+          "type": "texte",
+          "q": "Montrer comment, pour Durkheim, un symbole religieux exprime une réalité sociale.",
+          "reponse": "Dans le totemisme, l'animal ou la plante totémique n'est pas vénéré pour ses qualités naturelles : il est le symbole du clan. La force qu'on lui attribue est en réalité la force du groupe, que les membres éprouvent collectivement dans les rites. Le symbole concentre et rend visible une énergie sociale sans nom, qui dépasse les individus et les oblige. La religion n'est donc pas d'abord une croyance en des êtres surnaturels mais une mise en scène de la collectivité.",
+          "correction": "On part du symbole, on remonte à la force collective, puis on explique le rôle des rites."
+        },
+        {
+          "type": "texte",
+          "q": "Comment articuler les critiques de Marx et de Durkheim sur la religion ?",
+          "reponse": "Durkheim souligne la fonction intégratrice de la religion : les rites et les croyances renforcent le lien social et donnent un sens collectif à l'existence. Marx souligne sa fonction de consolation et d'aliénation : elle détourne l'attention des causes réelles de la misère et légitime parfois l'ordre établi. Ces deux lectures ne sont pas nécessairement exclusives : une même institution peut à la fois consoler l'individu, intégrer le groupe et masquer des rapports de domination. L'analyse philosophique doit donc se demander, pour chaque cas, quelle fonction domine.",
+          "correction": "On oppose fonction intégrative et fonction d'apaisement/aliénation, puis on propose une articulation."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "La religion est tour à tour lien social, consolation et aliénation : il faut demander quelle fonction elle remplit pour qui."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "Sacré = mis à part · religion = force collective (Durkheim) · opium du peuple (Marx)",
+          "leg": "Religion · sacré · profane · interdit · rite · totem · opium · désenchantement · laïcité"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Auteur",
+              "Lecture",
+              "Accent"
+            ],
+            [
+              "Durkheim",
+              "Fonction sociale",
+              "Intégration du groupe"
+            ],
+            [
+              "Marx",
+              "Aliénation et consolation",
+              "Misère réelle"
+            ],
+            [
+              "Weber",
+              "Rationalisation",
+              "Désenchantement"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "Le sacré n'est pas défini par son contenu mais par sa mise à part.",
+            "La religion peut intégrer et aliéner en même temps.",
+            "Le désenchantement ne signifie pas la fin de toute croyance.",
+            "La laïcité n'est pas l'absence de religion mais la liberté de conscience."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Définir le sacré et ses rapports au profane.",
+            "Choisir l'auteur et sa thèse.",
+            "S'appuyer sur un fait (rite, totem, réforme).",
+            "Formuler la critique opposée.",
+            "Conclure sur la fonction sociale ou politique."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Confondre sacré et sainteté morale.",
+            "Réduire Marx à une simple insulte contre la religion.",
+            "Croire que Durkheim était croyant.",
+            "Confondre laïcité et athéisme d'État.",
+            "Présenter le désenchantement comme un progrès sans ambiguïté."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">Durkheim</span> → totem et rites",
+            "<span class=\"cle\">Marx</span> → opium du peuple",
+            "<span class=\"cle\">Weber</span> → cage de fer",
+            "<span class=\"cle\">laïcité</span> → liberté de conscience"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Trois lectures",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"1 · Trois lectures\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Trois lectures</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Auteur</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Question</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Réponse</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Durkheim</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">À quoi sert la religion</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Au lien social</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Marx</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">À quoi sert la religion</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">À consoler la misère</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Weber</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Que devient le monde ?</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Il se désenchante</text></svg>"
+        },
+        {
+          "titre": "2 · Analyser un fait religieux",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : 2 · Analyser un fait religieux\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Analyser un fait religieux</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir le sacré en jeu</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Repérer les interdits</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Étudier les rites</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Identifier la fonction sociale</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Formuler une critique</text></svg>"
+        },
+        {
+          "titre": "3 · Intégration / aliénation",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 3 · Intégration / aliénation\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Intégration / aliénation</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Durkheim</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Rites intégrateurs</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Force collective</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Appartenance renforcée</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Marx</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Consolation illusoire</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Misère réelle</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Ordre légitimé</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "2e"
+      ],
+      "matiere": "Philosophie",
+      "titre": "PHI9. · Langage et pensée",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : langage, langue, parole, signe, signifiant, signifie, arbitraire, Saussure, Chomsky, performatif, Sapir-Whorf",
+      "points": [
+        "Le langage est un système de signes articulate et conventionnel qui permet de communiquer et de représenter le monde.",
+        "Saussure distingue la langue (système social de signes) et la parole (usage individuel) : la langue est l'objet de la linguistique.",
+        "Le signe linguistique unit un signifiant (image acoustique) et un signifié (concept) : le lien entre eux est arbitraire et conventionnel.",
+        "La valeur d'un signe ne vient pas de sa seule référence mais de sa place dans le système : « il n'y a que des différences » dans la langue.",
+        "La distinction langue/parole sépare le code collectif de l'acte individuel, tout en rendant la parole possible grâce au code.",
+        "Le structuralisme étend le modèle à d'autres domaines : la pensée serait structurée par des systèmes de signes plutôt que par une nature brute.",
+        "Le behaviourisme (Watson, Skinner) explique le langage par l'apprentissage et le conditionnement, sans recourir à des idées innées.",
+        "Chomsky critique cette approche : l'enfant produit des phrases jamais entendues, ce qui postule une grammaire universelle innée.",
+        "La compétence linguistique (connaissances implicites de la grammaire) se distingue de la performance (parole effective, avec ses erreurs).",
+        "Selon Sapir et Whorf, la langue influencerait la pensée : les catégories grammaticales orienteraient la perception du monde (hypothèse sapir-whorf).",
+        "Austin montre que certains énoncés ne décrivent pas mais accomplissent une action : ce sont les énoncés performatifs (« je promets »).",
+        "La question philosophique porte sur le pouvoir du langage : exprime-t-il une pensée préalable ou la constitue-t-il ?"
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce que la langue pour Saussure ?",
+          "options": [
+            "La parole de chaque individu",
+            "Un système social de signes",
+            "Une grammaire personnelle",
+            "Une langue étrangère"
+          ],
+          "correct": 1,
+          "correction": "La langue est le code collectif, indépendant de chaque locuteur, dont la parole est l'usage."
+        },
+        {
+          "type": "qcm",
+          "q": "Comment Saussure définit-il le signe linguistique ?",
+          "options": [
+            "Signifiant + signifié",
+            "Mot + chose",
+            "Son + sens",
+            "Sujet + objet"
+          ],
+          "correct": 0,
+          "correction": "Le signe unit une image acoustique (signifiant) et un concept (signifié) par un lien arbitraire."
+        },
+        {
+          "type": "qcm",
+          "q": "Le lien entre signifiant et signifié est…",
+          "options": [
+            "Naturel",
+            "Arbitraire et conventionnel",
+            "Logique",
+            "Divin"
+          ],
+          "correct": 1,
+          "correction": "Rien dans le son « arbre » n'impose le concept d'arbre : la relation repose sur la convention."
+        },
+        {
+          "type": "qcm",
+          "q": "Qui a proposé la grammaire universelle innée ?",
+          "options": [
+            "Skinner",
+            "Chomsky",
+            "Saussure",
+            "Watson"
+          ],
+          "correct": 1,
+          "correction": "Chomsky postule une compétence innée pour expliquer la créativité linguistique de l'enfant."
+        },
+        {
+          "type": "qcm",
+          "q": "Quelle est la distinction entre compétence et performance ?",
+          "options": [
+            "Savoir / faire",
+            "Langue / parole identiques",
+            "Grammaire / vocabulaire",
+            "Écriture / lecture"
+          ],
+          "correct": 0,
+          "correction": "La compétence est le savoir grammatical implicite ; la performance est son usage réel, sujet à erreurs."
+        },
+        {
+          "type": "qcm",
+          "q": "Que soutient l'hypothèse sapir-whorf ?",
+          "options": [
+            "Que la pensée précède toujours le langage",
+            "Que la langue influence la pensée",
+            "Que toutes les langues ont la même grammaire",
+            "Que le langage est inné chez l'animal"
+          ],
+          "correct": 1,
+          "correction": "Les catégories linguistiques influenceraient la manière dont on perçoit et découpe le réel."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce qu'un énoncé performatif ?",
+          "options": [
+            "Une description exacte",
+            "Un énoncé qui accomplit l'action qu'il énonce",
+            "Une phrase fausse",
+            "Une question"
+          ],
+          "correct": 1,
+          "correction": "« Je promets » ne décrit pas une promesse : en l'énonçant dans les bonnes conditions, je promets."
+        },
+        {
+          "type": "texte",
+          "q": "Expliquer en quoi le signe saussurien est arbitraire et pourquoi cela ne rend pas la langue chaotique.",
+          "reponse": "Le lien entre le signifiant et le signifié est arbitraire : rien dans la suite de sons « chat » n'appelle l'animal, et d'autres langues utilisent « cat » ou « Katze ». Mais cet arbitraire est conventionnel : une fois la convention établie dans une communauté, le signe est stable et partageable. L'ordre de la langue vient de ce que les signes forment un système de différences : « chat » vaut parce qu'il n'est ni « chien » ni « cha ». La stabilité est donc sociale et systémique, non naturelle.",
+          "correction": "On distingue l'arbitraire du lien et stabilité de la convention, puis on introduit la valeur différentielle."
+        },
+        {
+          "type": "texte",
+          "q": "Comment l'exemple des phrases jamais entendues appuie-t-il la thèse chomskyenne ?",
+          "reponse": "Un enfant n'entend qu'un nombre fini de phrases, pourtant il en produit et en comprend un nombre illimité, y compris des phrases qu'il n'a jamais rencontrées et qui sont grammaticalement correctes. Le behaviourisme, qui explique le langage par imitation et renforcement, ne peut rendre compte de cette créativité. Chomsky en déduit que l'enfant possède une compétence grammaticale innée, une grammaire universelle que l'expérience vient paramétrer plutôt que construire de toutes pièces.",
+          "correction": "On oppose pauvreté du stimulus et richesse de la production, puis on en tire l'hypothèse d'une compétence innée."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "Le langage ne se contente pas d'exprimer la pensée : il organise les signes qui la rendent possible."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "Signe = signifiant + signifié · langue / parole · compétence / performance",
+          "leg": "Saussure · arbitraire · valeur différentielle · Chomsky · grammaire universelle · performatif"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Auteur",
+              "Notion",
+              "Thèse"
+            ],
+            [
+              "Saussure",
+              "Signe",
+              "Lien arbitraire, valeur dans le système"
+            ],
+            [
+              "Chomsky",
+              "Compétence",
+              "Grammaire innée"
+            ],
+            [
+              "Skinner",
+              "Apprentissage",
+              "Conditionnement"
+            ],
+            [
+              "Austin",
+              "Performatif",
+              "Dire = faire"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "La langue est collective, la parole est individuelle.",
+            "Un signe vaut par sa place dans le système autant que par ce qu'il désigne.",
+            "Inné ne veut pas dire achevé : l'expérience paramètre la grammaire.",
+            "Un énoncé performatif nécessite des conditions institutionnelles (qui parle, où, quand)."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Définir le niveau d'analyse (signe, système, énoncé).",
+            "Citer l'auteur et sa distinction.",
+            "Donner un exemple de signe ou d'énoncé.",
+            "Formuler l'objection (Skinner contre Chomsky).",
+            "Conclure sur le rapport langue et pensée."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Confondre signifiant et référent.",
+            "Croire que Saussure nie l'existence du monde extérieur.",
+            "Réduire Chomsky à un grammairien purement descriptif.",
+            "Présenter l'hypothèse sapir-whorf comme une évidence démontrée.",
+            "Confondre énoncé constatif et performatif."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">chat / cat / Katze</span> → arbitraire",
+            "<span class=\"cle\">langue / parole</span> → code et usage",
+            "<span class=\"cle\">« je promets »</span> → performatif",
+            "<span class=\"cle\">grammaire universelle</span> → compétence innée"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Le signe linguistique",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"1 · Le signe linguistique\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Le signe linguistique</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Élément</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Nature</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Exemple</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Signifiant</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Image acoustique</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">/kat/</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Signifié</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Concept</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">l'animal chat</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Valeur</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Place dans le système</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">chat ≠ chien</text></svg>"
+        },
+        {
+          "titre": "2 · Analyser un énoncé",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : 2 · Analyser un énoncé\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Analyser un énoncé</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Repérer le système de langue</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Définir les signes employés</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Déterminer le type d'énoncé</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Vérifier les conditions d'énonciation</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Conclure sur l'effet produit</text></svg>"
+        },
+        {
+          "titre": "3 · Chomsky / Skinner",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 3 · Chomsky / Skinner\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Chomsky / Skinner</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Chomsky</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Compétence innée</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Créativité linguistique</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Grammaire universelle</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Skinner</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Apprentissage</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Renforcement</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Pauvreté de l'explication créative</text></svg>"
+        }
+      ]
+    },
+    {
+      "filieres": [
+        "cpge-ecg"
+      ],
+      "annees": [
+        "2e"
+      ],
+      "matiere": "Philosophie",
+      "titre": "PHI10. · Méthodologie de la dissertation philosophique",
+      "source": "Programmes de la classe préparatoire économique et commerciale générale (ECG), arrêté du 19 juillet 2019 (NOR MENE1922062A), BO spécial n° 1 du 11 février 2021 (tronc commun et options ESH / HGG), BO spécial n° 5 du 25 juillet 2019 (mathématiques de CPGE), BO spécial n° 8 du 25 juillet 2019 (français, philosophie, langues vivantes) · éduscol, Onisep, SIES · notions : dissertation, sujet, problematique, plan dialectique, these, antithese, synthese, argument, objection, transition",
+      "points": [
+        "La dissertation philosophique est un exercice de réflexion ordonnée qui répond à une question ou à une Citation proposée.",
+        "La première étape est l'analyse du sujet : définir chaque terme, repérer les relations logiques et dégager le problème philosophique.",
+        "Il faut distinguer les termes du sujet : la notion centrale, les qualificatifs et les mots de liaison (opposition, implication, condition).",
+        "Le problème est la difficulté ou la tension qui rend la question non triviale : c'est ce qui donne un enjeu à la copie.",
+        "Les trois types de plan classiques sont le plan dialectique (thèse, antithèse, synthèse), le plan analytique et le plan thématique.",
+        "Le plan dialectique convient aux sujets opposant deux positions ; il doit dépasser la simple confrontation par une synthèse argumentée.",
+        "Le plan analytique part d'un fait ou d'une notion pour en dégager les éléments et les conséquences : il convient aux sujets à plusieurs dimensions.",
+        "Chaque partie doit comporter des arguments, des exemples et des références à des auteurs : jamais une simple succession d'opinions.",
+        "Un argument est une raison qui soutient une thèse ; un exemple l'illustre et le teste ; une objection la met en difficulté.",
+        "La transition assure le passage logique d'une partie à l'autre ; elle indique le progrès de la réflexion, pas un simple « ensuite ».",
+        "L'introduction annonce le problème et le plan ; la conclusion répond au problème sans simplement répéter le plan.",
+        "En concours, la clarté de la problématique et la rigueur des enchaînements comptent autant que la culture philosophique."
+      ],
+      "questions": [
+        {
+          "type": "qcm",
+          "q": "Quelle est la première étape d'une dissertation réussie ?",
+          "options": [
+            "Écrire la conclusion",
+            "Analyser les termes du sujet",
+            "Chercher une citation",
+            "Faire un plan en trois parties"
+          ],
+          "correct": 1,
+          "correction": "Sans analyse des termes et du problème, le plan reste une juxtaposition de lieux communs."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce que le problème dans un sujet de philosophie ?",
+          "options": [
+            "La première phrase",
+            "La difficulté ou tension qui rend la question non triviale",
+            "La conclusion",
+            "Une citation"
+          ],
+          "correct": 1,
+          "correction": "Le problème est ce qui est en discussion : il donne son enjeu à la réflexion."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel plan convient à un sujet opposant deux thèses ?",
+          "options": [
+            "Le plan thématique",
+            "Le plan dialectique",
+            "Le plan chronologique",
+            "Le plan géographique"
+          ],
+          "correct": 1,
+          "correction": "Le plan dialectique (thèse-antithèse-synthèse) organise la confrontation puis son dépassement."
+        },
+        {
+          "type": "qcm",
+          "q": "Quel rôle joue un exemple dans une dissertation ?",
+          "options": [
+            "Il remplace l'argument",
+            "Il illustre et teste l'argument",
+            "Il conclut la copie",
+            "Il est facultatif"
+          ],
+          "correct": 1,
+          "correction": "L'exemple rend l'argument sensible et permet de vérifier sa portée."
+        },
+        {
+          "type": "qcm",
+          "q": "Une objection doit…",
+          "options": [
+            "Être évitée",
+            "Être formulée puis traitée",
+            "Être mise en conclusion",
+            "Être confondue avec l'exemple"
+          ],
+          "correct": 1,
+          "correction": "Formuler une objection et y répondre montre que la réflexion est dialectique et non unilatérale."
+        },
+        {
+          "type": "qcm",
+          "q": "Qu'est-ce qu'une transition réussie ?",
+          "options": [
+            "Un simple « ensuite »",
+            "Un enchaînement logique entre deux parties",
+            "Une répétition",
+            "Une nouvelle introduction"
+          ],
+          "correct": 1,
+          "correction": "Elle fait apparaître le progrès de la pensée d'une étape à la suivante."
+        },
+        {
+          "type": "qcm",
+          "q": "La conclusion doit…",
+          "options": [
+            "Répéter le plan",
+            "Répondre au problème en l'élargissant",
+            "Présenter un nouveau plan",
+            "Citer la fin du cours"
+          ],
+          "correct": 1,
+          "correction": " Elle apporte une réponse assumée et peut ouvrir une question nouvelle sans contrevenir au sujet."
+        },
+        {
+          "type": "texte",
+          "q": "Analyser le sujet : « La liberté est-elle de ne pas obéir ? » Définir les termes et dégager le problème.",
+          "reponse": "« Liberté » peut signifier absence de contrainte (ne pas être empêché) ou autonomie (se donner sa propre loi). « Obéir » peut désigner la soumission à une contrainte extérieure ou l'observation d'une règle. Le problème est le suivant : si la liberté consistait à ne pas obéir, elle se réduirait à l'absence de limite, ce qui la rendrait impossible en société et même dépourvue de contenu (on ne choisit rien si rien ne s'oppose). Mais si toute obéissance est servitude, comment rendre compte de la liberté comme autonomie, où l'on obéit à une loi que l'on s'est donnée ? La question porte donc sur la distinction entre obéir à autrui et obéir à sa propre raison.",
+          "correction": "On définit les termes, on relève l'opposition, puis on formule la tension qui constitue le problème."
+        },
+        {
+          "type": "texte",
+          "q": "Comment construire un plan dialectique sur un sujet où deux positions semblent inconciliables ?",
+          "reponse": "On présente d'abord la thèse avec ses arguments et ses exemples (par exemple, la liberté comme absence d'obstacles). On expose ensuite l'antithèse avec les raisons qui l'appuient (la liberté comme autonomie obéit à une loi). La troisième partie ne doit pas choisir mollement entre les deux : elle cherche le point où elles se dépassent, par exemple en montrant que l'autonomie transforme l'obéissance en un acte de liberté plutôt qu'en une soumission. La synthèse est donc un dépassement (Aufheben) qui conserve ce que chaque thèse avait de vrai.",
+          "correction": "On précise le rôle de chaque partie et l'exigence de dépassement propre à la synthèse."
+        }
+      ],
+      "affichage": [
+        {
+          "type": "intro",
+          "titre": "L'idee en une phrase",
+          "texte": "Une bonne dissertation ne part pas d'une opinion : elle part d'un problème, avance par arguments et se dépasse par objections."
+        },
+        {
+          "type": "formule",
+          "titre": "La formule a connaitre",
+          "eq": "Analyse des termes → problème → plan → arguments et objections → synthèse",
+          "leg": "Sujet · problématique · thèse · antithèse · synthèse · argument · objection · transition"
+        },
+        {
+          "type": "grille",
+          "titre": "Tableau de lecture",
+          "items": [
+            [
+              "Étape",
+              "Objectif",
+              "Erreur à éviter"
+            ],
+            [
+              "Analyse",
+              "Définir les termes",
+              "Répondre trop vite"
+            ],
+            [
+              "Problématisation",
+              "Trouver la tension",
+              "Confondre sujet et thème"
+            ],
+            [
+              "Plan",
+              "Ordonner la réflexion",
+              " juxtaposer des parties"
+            ],
+            [
+              "Rédaction",
+              "Argumenter et objecter",
+              "Énoncer des opinions"
+            ]
+          ]
+        },
+        {
+          "type": "liste",
+          "titre": "A retenir",
+          "items": [
+            "Le plan analytique n'est pas un plan dialectique déguisé.",
+            "Une citation n'est pas une preuve : il faut l'interpréter.",
+            "Une objection bien traitée renforce la thèse au lieu de l'affaiblir.",
+            "La conclusion ne doit pas introduire un problème sans rapport."
+          ]
+        },
+        {
+          "type": "etapes",
+          "titre": "Methode pas a pas",
+          "items": [
+            "Lire le sujet mot pour mot et définir les termes.",
+            "Repérer les relations logiques et formuler le problème.",
+            "Choisir le plan adapté au type de sujet.",
+            "Rédiger chaque partie avec arguments, exemples et objections.",
+            "Assurer les transitions et conclure en répondant."
+          ]
+        },
+        {
+          "type": "attention",
+          "titre": "Pieges frequents",
+          "items": [
+            "Confondre le thème et la question posée.",
+            "Faire un plan en trois parties sans problématique.",
+            "Donner des exemples sans les analyser.",
+            "Éviter les objections par peur de nuire à la thèse.",
+            "Répéter le plan dans la conclusion."
+          ]
+        },
+        {
+          "type": "exemples",
+          "titre": "Exemples et chiffres",
+          "items": [
+            "<span class=\"cle\">« ne pas obéir »</span> → contrainte ou loi ?",
+            "<span class=\"cle\">thèse / antithèse / synthèse</span> → dépassement",
+            "<span class=\"cle\">objection</span> → épreuve de l'argument",
+            "<span class=\"cle\">problématique</span> → tension, pas opinion"
+          ]
+        }
+      ],
+      "schema": [
+        {
+          "titre": "1 · Méthode de la dissertation",
+          "svg": "<svg viewBox=\"0 0 660 210\" width=\"100%\" role=\"img\" aria-label=\"Procedure : 1 · Méthode de la dissertation\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">1 · Méthode de la dissertation</text><circle cx=\"30\" cy=\"49\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"53\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">1</text><rect x=\"50\" y=\"36\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"54\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Analyser chaque terme</text><circle cx=\"30\" cy=\"83\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"87\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">2</text><rect x=\"50\" y=\"70\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"88\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Formuler le problème</text><circle cx=\"30\" cy=\"117\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"121\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">3</text><rect x=\"50\" y=\"104\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"122\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Construire le plan</text><circle cx=\"30\" cy=\"151\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"155\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">4</text><rect x=\"50\" y=\"138\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"156\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Argumenter avec exemples</text><circle cx=\"30\" cy=\"185\" r=\"11\" fill=\"var(--ac)\"/><text x=\"30\" y=\"189\" text-anchor=\"middle\" fill=\"var(--ac-tx)\" font-size=\"11\" font-weight=\"bold\">5</text><rect x=\"50\" y=\"172\" width=\"594\" height=\"28\" rx=\"5\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"58\" y=\"190\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Objecter, synthétiser, conclure</text></svg>"
+        },
+        {
+          "titre": "2 · Plan dialectique / analytique",
+          "svg": "<svg viewBox=\"0 0 660 150\" width=\"100%\" role=\"img\" aria-label=\"Comparaison : 2 · Plan dialectique / analytique\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">2 · Plan dialectique / analytique</text><rect x=\"16\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"169\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Dialectique</text><rect x=\"16\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Thèse, antithèse, synthèse</text><rect x=\"16\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Confrontation de positions</text><rect x=\"16\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Dépassement exigé</text><rect x=\"338\" y=\"34\" width=\"306\" height=\"26\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"491\" y=\"52\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"11\" font-weight=\"bold\">Analytique</text><rect x=\"338\" y=\"60\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"76\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Partir d'un fait ou d'une notion</text><rect x=\"338\" y=\"86\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"102\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Dégager des dimensions</text><rect x=\"338\" y=\"112\" width=\"306\" height=\"24\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"344\" y=\"128\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"9\">Approfondir progressivement</text></svg>"
+        },
+        {
+          "titre": "3 · Les outils de l'argument",
+          "svg": "<svg viewBox=\"0 0 660 160\" width=\"100%\" role=\"img\" aria-label=\"3 · Les outils de l'argument\"><text x=\"16\" y=\"24\" fill=\"var(--ac)\" font-size=\"14\" font-weight=\"bold\">3 · Les outils de l'argument</text><rect x=\"16\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"120.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Outil</text><rect x=\"225\" y=\"36\" width=\"209\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"329.5\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Rôle</text><rect x=\"434\" y=\"36\" width=\"210\" height=\"28\" fill=\"var(--ac)\" opacity=\"0.18\"/><text x=\"539.0\" y=\"55\" text-anchor=\"middle\" fill=\"var(--ac)\" font-size=\"10\" font-weight=\"bold\">Exemple</text><rect x=\"16\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Argument</text><rect x=\"225\" y=\"64\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Soutenir une thèse</text><rect x=\"434\" y=\"64\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"82\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Raison universelle</text><rect x=\"16\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Exemple</text><rect x=\"225\" y=\"94\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Illustrer et tester</text><rect x=\"434\" y=\"94\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"112\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Cas concret</text><rect x=\"16\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"22\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Objection</text><rect x=\"225\" y=\"124\" width=\"209\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"231\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Mettre en difficulté</text><rect x=\"434\" y=\"124\" width=\"210\" height=\"28\" fill=\"var(--card2)\" stroke=\"var(--dim)\" stroke-opacity=\"0.35\"/><text x=\"440\" y=\"142\" text-anchor=\"start\" fill=\"var(--fg)\" font-size=\"10\">Limite de la thèse</text></svg>"
+        }
+      ]
+    }
+  ]
+}
