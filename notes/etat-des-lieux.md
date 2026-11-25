@@ -104,6 +104,6 @@ Point de rupture repris : l'injection de 35 filières avait eu lieu le 24/11 à 
 
 **Méthode à conserver** : un responsable par filière, aucun sous-agent en cascade ; le coordinateur seul modifie `index.html`, `inject_app.py` et `audit_filieres.py`. Vérification systématique : `python inject_app.py` → `python audit_filieres.py`.
 
-**Attention non résolue** : dans cette copie `ilane bis`, `fichelabs/` est non suivi et `origin` pointe sur `SAMIRneo/elan.git` (pas sur `SAMIRneo/fichelab`). Régler la question du dépôt avant de pousser.
+**Dépôt réglé (25/11)** : `fichelabs/` est désormais son propre dépôt Git, greffé sur l'historique distant de `SAMIRneo/fichelab` (`origin/main` = `624e18e` → commit local `d41a19d`). La structure locale est conservée (`fichelab/`) et une redirection à la racine pointe vers `./fichelab/`, pour garder l'URL https://samirneo.github.io/fichelab/ fonctionnelle. Vérifié en ligne : 46 filières proto, 2 850 fiches.
 
 **Anomalies historiques non bloquantes** : les lots `bioalc-mat-part-A/B/C.json` (ancien format texte brut) sont exclus par l'injecteur ; `buttc` n'a que 50 fiches (lot B = 10) mais est déjà audité CONFORME.
