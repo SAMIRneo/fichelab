@@ -1,0 +1,20 @@
+{
+  "apps": [
+    {
+      "id": "elan",
+      "nom": "Élan",
+      "desc": "Muscu, cardio, streak — mon niveau 1",
+      "url": "../elan/index.html",
+      "icon": "../elan/icon.svg",
+      "couleur": "#ccff00"
+    },
+    {
+      "id": "fichelab",
+      "nom": "FicheLab",
+      "desc": "Fiches vérifiables, cartes et examens d'annales — mon niveau 2",
+      "url": "fichelab/index.html",
+      "icon": "fichelab/icon.svg",
+      "couleur": "#ccff00"
+    }
+  ]
+}
